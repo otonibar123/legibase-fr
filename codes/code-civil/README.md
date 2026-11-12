@@ -1,0 +1,244 @@
+# Code civil
+
+Dernière modification du texte dans LEGI : 29/07/2026. 2896 articles en vigueur, répartis dans 191 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- [Titre préliminaire : De la publication, des effets et de l'application des lois en général](titre-preliminaire.md) (8 articles)
+- **Livre Ier : Des personnes**
+  - **Titre Ier : Des droits civils**
+    - [Titre Ier : Des droits civils : articles rattachés directement](livre-ier/titre-ier/articles-directs.md) (8 articles)
+    - [Chapitre II : Du respect du corps humain](livre-ier/titre-ier/chapitre-ii.md) (12 articles)
+    - [Chapitre III : De l'examen des caractéristiques génétiques d'une personne et de l'identification d'une personne par ses empreintes génétiques](livre-ier/titre-ier/chapitre-iii.md) (3 articles)
+    - [Chapitre IV : De l'utilisation des techniques d'imagerie cérébrale](livre-ier/titre-ier/chapitre-iv.md) (1 article)
+  - **Titre Ier bis : De la nationalité française**
+    - [Chapitre Ier : Dispositions générales](livre-ier/titre-ier-bis/chapitre-ier.md) (13 articles)
+    - [Chapitre II : De la nationalité française d'origine](livre-ier/titre-ier-bis/chapitre-ii.md) (13 articles)
+    - [Chapitre III : De l'acquisition de la nationalité française](livre-ier/titre-ier-bis/chapitre-iii.md) (39 articles)
+    - [Chapitre IV : De la perte, de la déchéance et de la réintégration dans la nationalité française](livre-ier/titre-ier-bis/chapitre-iv.md) (16 articles)
+    - [Chapitre V : Des actes relatifs à l'acquisition ou à la perte de la nationalité française](livre-ier/titre-ier-bis/chapitre-v.md) (12 articles)
+    - [Chapitre VI : Du contentieux de la nationalité](livre-ier/titre-ier-bis/chapitre-vi.md) (15 articles)
+    - [Chapitre VII : Des effets sur la nationalité française des transferts de souveraineté relatifs à certains territoires](livre-ier/titre-ier-bis/chapitre-vii.md) (6 articles)
+    - [Chapitre VIII : Dispositions particulières aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie](livre-ier/titre-ier-bis/chapitre-viii.md) (3 articles)
+  - **Titre II : Des actes de l'état civil**
+    - [Chapitre Ier : Dispositions générales.](livre-ier/titre-ii/chapitre-ier.md) (17 articles)
+    - [Chapitre II : Des actes de naissance.](livre-ier/titre-ii/chapitre-ii.md) (22 articles)
+    - [Chapitre III : Des actes de mariage.](livre-ier/titre-ii/chapitre-iii.md) (14 articles)
+    - [Chapitre IV : Des actes de décès.](livre-ier/titre-ii/chapitre-iv.md) (15 articles)
+    - [Chapitre V : Des actes de l'état civil concernant les militaires et marins dans certains cas spéciaux.](livre-ier/titre-ii/chapitre-v.md) (6 articles)
+    - [Chapitre VI : De l'état civil des personnes nées à l'étranger qui acquièrent ou recouvrent la nationalité française.](livre-ier/titre-ii/chapitre-vi.md) (5 articles)
+    - [Chapitre VII : De l'annulation et de la rectification des actes de l'état civil](livre-ier/titre-ii/chapitre-vii.md) (5 articles)
+    - [Chapitre VIII : De la publicité des actes de l'état civil](livre-ier/titre-ii/chapitre-viii.md) (2 articles)
+  - [Titre III : Du domicile](livre-ier/titre-iii.md) (12 articles)
+  - **Titre IV : Des absents**
+    - [Chapitre Ier : De la présomption d'absence](livre-ier/titre-iv/chapitre-ier.md) (10 articles)
+    - [Chapitre II : De la déclaration d'absence](livre-ier/titre-iv/chapitre-ii.md) (11 articles)
+  - **Titre V : Du mariage**
+    - [Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage](livre-ier/titre-v/chapitre-ier.md) (20 articles)
+    - [Chapitre II : Des formalités relatives à la célébration du mariage](livre-ier/titre-v/chapitre-ii.md) (4 articles)
+    - [Chapitre II bis : Du mariage des Français à l'étranger](livre-ier/titre-v/chapitre-ii-bis.md) (9 articles)
+    - [Chapitre III : Des oppositions au mariage](livre-ier/titre-v/chapitre-iii.md) (10 articles)
+    - [Chapitre IV : Des demandes en nullité de mariage](livre-ier/titre-v/chapitre-iv.md) (21 articles)
+    - [Chapitre IV bis : Des règles de conflit de lois](livre-ier/titre-v/chapitre-iv-bis.md) (2 articles)
+    - [Chapitre V : Des obligations qui naissent du mariage](livre-ier/titre-v/chapitre-v.md) (9 articles)
+    - [Chapitre VI : Des devoirs et des droits respectifs des époux](livre-ier/titre-v/chapitre-vi.md) (19 articles)
+    - [Chapitre VII : De la dissolution du mariage](livre-ier/titre-v/chapitre-vii.md) (1 article)
+  - **Titre VI : Du divorce**
+    - [Chapitre Ier : Des cas de divorce](livre-ier/titre-vi/chapitre-ier.md) (19 articles)
+    - [Chapitre II : De la procédure du divorce judiciaire](livre-ier/titre-vi/chapitre-ii.md) (19 articles)
+    - [Chapitre III : Des conséquences du divorce](livre-ier/titre-vi/chapitre-iii.md) (32 articles)
+    - [Chapitre IV : De la séparation de corps](livre-ier/titre-vi/chapitre-iv.md) (14 articles)
+    - [Chapitre V : Du conflit des lois relatives au divorce et à la séparation de corps](livre-ier/titre-vi/chapitre-v.md) (1 article)
+  - **Titre VII : De la filiation**
+    - [Chapitre Ier : Dispositions générales](livre-ier/titre-vii/chapitre-ier.md) (15 articles)
+    - [Chapitre II : De l'établissement de la filiation](livre-ier/titre-vii/chapitre-ii.md) (12 articles)
+    - [Chapitre III : Des actions relatives à la filiation](livre-ier/titre-vii/chapitre-iii.md) (22 articles)
+    - [Chapitre IV : De l'action à fins de subsides](livre-ier/titre-vii/chapitre-iv.md) (7 articles)
+    - [Chapitre V : De l'assistance médicale à la procréation avec tiers donneur](livre-ier/titre-vii/chapitre-v.md) (5 articles)
+  - **Titre VIII : De la filiation adoptive**
+    - [Chapitre Ier : Des conditions requises pour l'adoption](livre-ier/titre-viii/chapitre-ier.md) (18 articles)
+    - [Chapitre II : De la procédure et du jugement d'adoption](livre-ier/titre-viii/chapitre-ii.md) (8 articles)
+    - [Chapitre III : Des effets de l'adoption](livre-ier/titre-viii/chapitre-iii.md) (17 articles)
+    - [Chapitre IV : De l'adoption de l'enfant de l'autre membre du couple](livre-ier/titre-viii/chapitre-iv.md) (10 articles)
+    - [Chapitre V : De l'adoption internationale, des conflits de lois et de l'effet en France des adoptions prononcées à l'étranger](livre-ier/titre-viii/chapitre-v.md) (4 articles)
+  - **Titre IX : De l'autorité parentale**
+    - [Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant](livre-ier/titre-ix/chapitre-ier.md) (60 articles)
+    - [Chapitre II : De l'autorité parentale relativement aux biens de l'enfant](livre-ier/titre-ix/chapitre-ii.md) (17 articles)
+  - **Titre X : De la minorité, de la tutelle et de l'émancipation**
+    - [Chapitre Ier : De la minorité](livre-ier/titre-x/chapitre-ier.md) (5 articles)
+    - [Chapitre II : De la tutelle](livre-ier/titre-x/chapitre-ii.md) (26 articles)
+    - [Chapitre III : De l'émancipation](livre-ier/titre-x/chapitre-iii.md) (8 articles)
+  - **Titre XI : De la majorité et des majeurs protégés par la loi**
+    - [Chapitre Ier : Des dispositions générales](livre-ier/titre-xi/chapitre-ier.md) (14 articles)
+    - [Chapitre II : Des mesures de protection juridique des majeurs](livre-ier/titre-xi/chapitre-ii.md) (87 articles)
+    - [Chapitre III : De la mesure d'accompagnement judiciaire](livre-ier/titre-xi/chapitre-iii.md) (10 articles)
+  - **Titre XII : De la gestion du patrimoine des mineurs et majeurs en tutelle**
+    - [Chapitre Ier : Des modalités de la gestion](livre-ier/titre-xii/chapitre-ier.md) (16 articles)
+    - [Chapitre II : De l'établissement, de la vérification et de l'approbation des comptes](livre-ier/titre-xii/chapitre-ii.md) (6 articles)
+    - [Chapitre III : De la prescription](livre-ier/titre-xii/chapitre-iii.md) (1 article)
+  - **Titre XIII : Du pacte civil de solidarité et du concubinage**
+    - [Chapitre Ier : Du pacte civil de solidarité](livre-ier/titre-xiii/chapitre-ier.md) (12 articles)
+    - [Chapitre II : Du concubinage](livre-ier/titre-xiii/chapitre-ii.md) (1 article)
+  - [Titre : XIV : Des mesures de protection des victimes de violences](livre-ier/titre-xiv.md) (7 articles)
+- **Livre II : Des biens et des différentes modifications de la propriété**
+  - [Livre II : Des biens et des différentes modifications de la propriété : articles rattachés directement](livre-ii/articles-directs.md) (1 article)
+  - **Titre Ier : De la distinction des biens**
+    - [Titre Ier : De la distinction des biens : articles rattachés directement](livre-ii/titre-ier/articles-directs.md) (1 article)
+    - [Chapitre Ier : Des immeubles](livre-ii/titre-ier/chapitre-ier.md) (10 articles)
+    - [Chapitre II : Des meubles](livre-ii/titre-ier/chapitre-ii.md) (10 articles)
+    - [Chapitre III : Des biens dans leurs rapports avec ceux qui les possèdent](livre-ii/titre-ier/chapitre-iii.md) (4 articles)
+  - **Titre II : De la propriété**
+    - [Titre II : De la propriété : articles rattachés directement](livre-ii/titre-ii/articles-directs.md) (3 articles)
+    - [Chapitre Ier : Du droit d'accession sur ce qui est produit par la chose](livre-ii/titre-ii/chapitre-ier.md) (4 articles)
+    - [Chapitre II : Du droit d'accession sur ce qui s'unit et s'incorpore à la chose](livre-ii/titre-ii/chapitre-ii.md) (27 articles)
+  - **Titre III : De l'usufruit, de l'usage et de l'habitation**
+    - [Chapitre Ier : De l'usufruit](livre-ii/titre-iii/chapitre-ier.md) (47 articles)
+    - [Chapitre II : De l'usage et de l'habitation](livre-ii/titre-iii/chapitre-ii.md) (12 articles)
+  - **Titre IV : Des servitudes ou services fonciers**
+    - [Titre IV : Des servitudes ou services fonciers : articles rattachés directement](livre-ii/titre-iv/articles-directs.md) (3 articles)
+    - [Chapitre Ier : Des servitudes qui dérivent de la situation des lieux](livre-ii/titre-iv/chapitre-ier.md) (9 articles)
+    - [Chapitre II : Des servitudes établies par la loi](livre-ii/titre-iv/chapitre-ii.md) (37 articles)
+    - [Chapitre III : Des servitudes établies par le fait de l'homme](livre-ii/titre-iv/chapitre-iii.md) (25 articles)
+  - **Titre V : De la publicité foncière**
+    - [Chapitre unique : De la forme authentique des actes](livre-ii/titre-v/chapitre-unique.md) (1 article)
+- **Livre III : Des différentes manières dont on acquiert la propriété**
+  - [Dispositions générales](livre-iii/dispositions-generales.md) (7 articles)
+  - **Titre Ier : Des successions**
+    - [Chapitre Ier : De l'ouverture des successions, du titre universel et de la saisine](livre-iii/titre-ier/chapitre-ier.md) (5 articles)
+    - [Chapitre II : Des qualités requises pour succéder - De la preuve de la qualité d'héritier.](livre-iii/titre-ier/chapitre-ii.md) (14 articles)
+    - [Chapitre III : Des héritiers.](livre-iii/titre-ier/chapitre-iii.md) (53 articles)
+    - [Chapitre IV : De l'option de l'héritier](livre-iii/titre-ier/chapitre-iv.md) (43 articles)
+    - [Chapitre V : Des successions vacantes et des successions en déshérence](livre-iii/titre-ier/chapitre-v.md) (21 articles)
+    - [Chapitre VI : De l'administration de la succession par un mandataire.](livre-iii/titre-ier/chapitre-vi.md) (24 articles)
+    - [Chapitre VII : Du régime légal de l'indivision.](livre-iii/titre-ier/chapitre-vii.md) (21 articles)
+    - [Chapitre VIII : Du partage.](livre-iii/titre-ier/chapitre-viii.md) (86 articles)
+  - **Titre II : Des libéralités**
+    - [Chapitre Ier : Dispositions générales.](livre-iii/titre-ii/chapitre-ier.md) (15 articles)
+    - [Chapitre II : De la capacité de disposer ou de recevoir par donation entre vifs ou par testament.](livre-iii/titre-ii/chapitre-ii.md) (10 articles)
+    - [Chapitre III : De la réserve héréditaire, de la quotité disponible et de la réduction.](livre-iii/titre-ii/chapitre-iii.md) (29 articles)
+    - [Chapitre IV : Des donations entre vifs.](livre-iii/titre-ii/chapitre-iv.md) (36 articles)
+    - [Chapitre V : Des dispositions testamentaires.](livre-iii/titre-ii/chapitre-v.md) (84 articles)
+    - [Chapitre VI : Des libéralités graduelles et résiduelles.](livre-iii/titre-ii/chapitre-vi.md) (14 articles)
+    - [Chapitre VII : Des libéralités-partages.](livre-iii/titre-ii/chapitre-vii.md) (24 articles)
+    - [Chapitre VIII : Des donations faites par contrat de mariage aux époux, et aux enfants à naître du mariage.](livre-iii/titre-ii/chapitre-viii.md) (10 articles)
+    - [Chapitre IX : Des dispositions entre époux, soit par contrat de mariage, soit pendant le mariage.](livre-iii/titre-ii/chapitre-ix.md) (11 articles)
+  - **Titre III : Des sources d'obligations**
+    - [Titre III : Des sources d'obligations : articles rattachés directement](livre-iii/titre-iii/articles-directs.md) (3 articles)
+    - **Sous-titre Ier : Le contrat**
+      - [Chapitre Ier : Dispositions liminaires](livre-iii/titre-iii/sous-titre-ier/chapitre-ier.md) (12 articles)
+      - [Chapitre II : La formation du contrat](livre-iii/titre-iii/sous-titre-ier/chapitre-ii.md) (82 articles)
+      - [Chapitre III : L'interprétation du contrat](livre-iii/titre-iii/sous-titre-ier/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Les effets du contrat](livre-iii/titre-iii/sous-titre-ier/chapitre-iv.md) (49 articles)
+    - **Sous-titre II : La responsabilité extracontractuelle**
+      - [Chapitre Ier : La responsabilité extracontractuelle en général](livre-iii/titre-iii/sous-titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : La responsabilité du fait des produits défectueux](livre-iii/titre-iii/sous-titre-ii/chapitre-ii.md) (18 articles)
+      - [Chapitre III : La réparation du préjudice écologique](livre-iii/titre-iii/sous-titre-ii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Les troubles anormaux du voisinage](livre-iii/titre-iii/sous-titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Sanction civile en cas de faute dolosive ayant causé des dommages sériels](livre-iii/titre-iii/sous-titre-ii/chapitre-v.md) (1 article)
+    - **Sous-titre III : Autres sources d'obligations**
+      - [Sous-titre III : Autres sources d'obligations : articles rattachés directement](livre-iii/titre-iii/sous-titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : La gestion d'affaires](livre-iii/titre-iii/sous-titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Le paiement de l'indu](livre-iii/titre-iii/sous-titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : L'enrichissement injustifié](livre-iii/titre-iii/sous-titre-iii/chapitre-iii.md) (5 articles)
+  - **Titre IV : Du régime général des obligations**
+    - [Chapitre Ier : Les modalités de l'obligation](livre-iii/titre-iv/chapitre-ier.md) (34 articles)
+    - [Chapitre II : Les opérations sur obligations](livre-iii/titre-iv/chapitre-ii.md) (23 articles)
+    - [Chapitre III : Les actions ouvertes au créancier](livre-iii/titre-iv/chapitre-iii.md) (4 articles)
+    - [Chapitre IV : L'extinction de l'obligation](livre-iii/titre-iv/chapitre-iv.md) (48 articles)
+    - [Chapitre V : Les restitutions](livre-iii/titre-iv/chapitre-v.md) (10 articles)
+  - **Titre IV bis : De la preuve des obligations**
+    - [Chapitre Ier : Dispositions générales](livre-iii/titre-iv-bis/chapitre-ier.md) (5 articles)
+    - [Chapitre II : L'admissibilité des modes de preuve](livre-iii/titre-iv-bis/chapitre-ii.md) (5 articles)
+    - [Chapitre III : Les différents modes de preuve](livre-iii/titre-iv-bis/chapitre-iii.md) (33 articles)
+  - **Titre V : Du contrat de mariage et des régimes matrimoniaux**
+    - [Chapitre Ier : Dispositions générales.](livre-iii/titre-v/chapitre-ier.md) (26 articles)
+    - [Chapitre II : Du régime en communauté](livre-iii/titre-v/chapitre-ii.md) (92 articles)
+    - [Chapitre III : Du régime de séparation de biens.](livre-iii/titre-v/chapitre-iii.md) (8 articles)
+    - [Chapitre IV : Du régime de participation aux acquêts.](livre-iii/titre-v/chapitre-iv.md) (13 articles)
+  - **Titre VI : De la vente**
+    - [Chapitre Ier : De la nature et de la forme de la vente.](livre-iii/titre-vi/chapitre-ier.md) (14 articles)
+    - [Chapitre II : Qui peut acheter ou vendre.](livre-iii/titre-vi/chapitre-ii.md) (3 articles)
+    - [Chapitre III : Des choses qui peuvent être vendues.](livre-iii/titre-vi/chapitre-iii.md) (3 articles)
+    - [Chapitre III-1 : De la vente d'immeubles à construire.](livre-iii/titre-vi/chapitre-iii-1.md) (4 articles)
+    - [Chapitre IV : Des obligations du vendeur](livre-iii/titre-vi/chapitre-iv.md) (50 articles)
+    - [Chapitre V : Des obligations de l'acheteur.](livre-iii/titre-vi/chapitre-v.md) (8 articles)
+    - [Chapitre VI : De la nullité et de la résolution de la vente.](livre-iii/titre-vi/chapitre-vi.md) (28 articles)
+    - [Chapitre VII : De la licitation.](livre-iii/titre-vi/chapitre-vii.md) (3 articles)
+    - [Chapitre VIII : Du transport de certains droits incorporels, des droits successifs et des droits litigieux](livre-iii/titre-vi/chapitre-viii.md) (11 articles)
+  - [Titre VII : De l'échange](livre-iii/titre-vii.md) (6 articles)
+  - **Titre VIII : Du contrat de louage**
+    - [Chapitre Ier : Dispositions générales.](livre-iii/titre-viii/chapitre-ier.md) (5 articles)
+    - [Chapitre II : Du louage des choses.](livre-iii/titre-viii/chapitre-ii.md) (65 articles)
+    - [Chapitre III : Du louage d'ouvrage et d'industrie.](livre-iii/titre-viii/chapitre-iii.md) (31 articles)
+    - [Chapitre IV : Du bail à cheptel](livre-iii/titre-viii/chapitre-iv.md) (32 articles)
+  - [Titre VIII bis : Du contrat de promotion immobilière](livre-iii/titre-viii-bis.md) (5 articles)
+  - **Titre IX : De la société**
+    - [Chapitre Ier : Dispositions générales.](livre-iii/titre-ix/chapitre-ier.md) (38 articles)
+    - [Chapitre II : De la société civile](livre-iii/titre-ix/chapitre-ii.md) (32 articles)
+    - [Chapitre III : De la société en participation.](livre-iii/titre-ix/chapitre-iii.md) (6 articles)
+  - **Titre IX bis : Des conventions relatives à l'exercice des droits indivis**
+    - [Titre IX bis : Des conventions relatives à l'exercice des droits indivis : articles rattachés directement](livre-iii/titre-ix-bis/articles-directs.md) (1 article)
+    - [Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.](livre-iii/titre-ix-bis/chapitre-ier.md) (14 articles)
+    - [Chapitre II : Des conventions relatives à l'exercice des droits indivis en présence d'un usufruitier.](livre-iii/titre-ix-bis/chapitre-ii.md) (3 articles)
+  - **Titre X : Du prêt**
+    - [Titre X : Du prêt : articles rattachés directement](livre-iii/titre-x/articles-directs.md) (1 article)
+    - [Chapitre Ier : Du prêt à usage, ou commodat](livre-iii/titre-x/chapitre-ier.md) (17 articles)
+    - [Chapitre II : Du prêt de consommation, ou simple prêt](livre-iii/titre-x/chapitre-ii.md) (13 articles)
+    - [Chapitre III : Du prêt à intérêt.](livre-iii/titre-x/chapitre-iii.md) (10 articles)
+  - **Titre XI : Du dépôt et du séquestre**
+    - [Chapitre Ier : Du dépôt en général et de ses diverses espèces.](livre-iii/titre-xi/chapitre-ier.md) (2 articles)
+    - [Chapitre II : Du dépôt proprement dit](livre-iii/titre-xi/chapitre-ii.md) (37 articles)
+    - [Chapitre III : Du séquestre](livre-iii/titre-xi/chapitre-iii.md) (9 articles)
+  - **Titre XII : Des contrats aléatoires.**
+    - [Chapitre Ier : Du jeu et du pari.](livre-iii/titre-xii/chapitre-ier.md) (3 articles)
+    - [Chapitre II : Du contrat de rente viagère](livre-iii/titre-xii/chapitre-ii.md) (15 articles)
+  - **Titre XIII : Du mandat**
+    - [Chapitre Ier : De la nature et de la forme du mandat.](livre-iii/titre-xiii/chapitre-ier.md) (7 articles)
+    - [Chapitre II : Des obligations du mandataire.](livre-iii/titre-xiii/chapitre-ii.md) (7 articles)
+    - [Chapitre III : Des obligations du mandant.](livre-iii/titre-xiii/chapitre-iii.md) (5 articles)
+    - [Chapitre IV : Des différentes manières dont le mandat finit.](livre-iii/titre-xiii/chapitre-iv.md) (8 articles)
+  - [Titre XIV : De la fiducie](livre-iii/titre-xiv.md) (21 articles)
+  - [Titre XV : Des transactions](livre-iii/titre-xv.md) (8 articles)
+  - [Titre XVI : De la convention d'arbitrage](livre-iii/titre-xvi.md) (3 articles)
+  - [Titre XVII : De la convention de procédure participative](livre-iii/titre-xvii.md) (7 articles)
+  - **Titre XX : De la prescription extinctive**
+    - [Chapitre Ier : Dispositions générales.](livre-iii/titre-xx/chapitre-ier.md) (5 articles)
+    - [Chapitre II : Des délais et du point de départ de la prescription extinctive.](livre-iii/titre-xx/chapitre-ii.md) (5 articles)
+    - [Chapitre III : Du cours de la prescription extinctive.](livre-iii/titre-xx/chapitre-iii.md) (19 articles)
+    - [Chapitre IV : Des conditions de la prescription extinctive.](livre-iii/titre-xx/chapitre-iv.md) (8 articles)
+  - **Titre XXI : De la possession et de la prescription acquisitive**
+    - [Chapitre Ier : Dispositions générales.](livre-iii/titre-xxi/chapitre-ier.md) (3 articles)
+    - [Chapitre II : De la prescription acquisitive.](livre-iii/titre-xxi/chapitre-ii.md) (20 articles)
+    - [Chapitre III : De la protection possessoire.](livre-iii/titre-xxi/chapitre-iii.md) (1 article)
+- **Livre IV : Des sûretés**
+  - [Livre IV : Des sûretés : articles rattachés directement](livre-iv/articles-directs.md) (4 articles)
+  - **Titre Ier : Des sûretés personnelles**
+    - [Titre Ier : Des sûretés personnelles : articles rattachés directement](livre-iv/titre-ier/articles-directs.md) (1 article)
+    - [Chapitre Ier : Du cautionnement](livre-iv/titre-ier/chapitre-ier.md) (37 articles)
+    - [Chapitre II : De la garantie autonome](livre-iv/titre-ier/chapitre-ii.md) (1 article)
+    - [Chapitre III : De la lettre d'intention](livre-iv/titre-ier/chapitre-iii.md) (1 article)
+  - **Titre II : Des sûretés réelles**
+    - [Sous-titre Ier : Dispositions générales](livre-iv/titre-ii/sous-titre-ier.md) (4 articles)
+    - **Sous-titre II : Des sûretés sur les meubles**
+      - [Sous-titre II : Des sûretés sur les meubles : articles rattachés directement](livre-iv/titre-ii/sous-titre-ii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Des privilèges mobiliers](livre-iv/titre-ii/sous-titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Du gage de meubles corporels](livre-iv/titre-ii/sous-titre-ii/chapitre-ii.md) (19 articles)
+      - [Chapitre III : Du nantissement de meubles incorporels.](livre-iv/titre-ii/sous-titre-ii/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : De la propriété retenue ou cédée à titre de garantie.](livre-iv/titre-ii/sous-titre-ii/chapitre-iv.md) (22 articles)
+    - **Sous-titre III : Des sûretés sur les immeubles**
+      - [Sous-titre III : Des sûretés sur les immeubles : articles rattachés directement](livre-iv/titre-ii/sous-titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Des privilèges immobiliers](livre-iv/titre-ii/sous-titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Du gage immobilier.](livre-iv/titre-ii/sous-titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Des hypothèques](livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md) (90 articles)
+      - [Chapitre IV : De la fiducie à titre de garantie](livre-iv/titre-ii/sous-titre-iii/chapitre-iv.md) (5 articles)
+  - [Titre III : De l'agent des sûretés](livre-iv/titre-iii.md) (7 articles)
+- **Livre V : Dispositions applicables à Mayotte**
+  - [Livre V : Dispositions applicables à Mayotte : articles rattachés directement](livre-v/articles-directs.md) (2 articles)
+  - [Titre préliminaire : Dispositions relatives au titre préliminaire](livre-v/titre-preliminaire.md) (1 article)
+  - [Titre Ier : Dispositions relatives au livre Ier](livre-v/titre-ier.md) (6 articles)
+  - [Titre II : Dispositions relatives au livre II](livre-v/titre-ii.md) (3 articles)
+  - [Titre III : Dispositions relatives au livre III](livre-v/titre-iii.md) (4 articles)
+  - **Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles.**
+    - [Titre IV : Dispositions relatives à l'immatriculation des immeubles et aux droits sur les immeubles. : articles rattachés directement](livre-v/titre-iv/articles-directs.md) (1 article)
+    - [Chapitre Ier : Du régime de l'immatriculation des immeubles](livre-v/titre-iv/chapitre-ier.md) (20 articles)
+    - [Chapitre II : Dispositions diverses](livre-v/titre-iv/chapitre-ii.md) (4 articles)
