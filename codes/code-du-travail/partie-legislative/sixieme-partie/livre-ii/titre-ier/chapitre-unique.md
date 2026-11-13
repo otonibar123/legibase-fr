@@ -1,0 +1,75 @@
+# Chapitre unique.
+
+Code du travail › Partie législative › Sixième partie : La formation professionnelle tout au long de la vie › Livre II : L'apprentissage › Titre Ier : Dispositions générales
+
+### Article L6211-1
+- Identifiant : LEGIARTI000047926230
+- État : en vigueur depuis le 03/08/2023
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047926230
+- Renvoie à : [art. L6241-5 du Code du travail](../titre-iv/chapitre-ier.md#article-l6241-5)
+- Cité par : [art. D6224-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-ii/chapitre-iv.md#article-d6224-2) ; [art. D6275-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-vii/chapitre-v.md#article-d6275-2) ; [art. L6222-5-1 du Code du travail](../titre-ii/chapitre-ii.md#article-l6222-5-1) ; [art. L6222-12-1 du Code du travail](../titre-ii/chapitre-ii.md#article-l6222-12-1) ; [art. L6222-43 du Code du travail](../titre-ii/chapitre-ii.md#article-l6222-43) ; [art. L6235-4 du Code du travail](../titre-iii/chapitre-v.md#article-l6235-4) ; [art. R6316-9 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-r6316-9) ; [art. L122-6 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019911237) ; [art. L313-1 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044605406) ; [art. L337-4 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762300) ; [art. L375-1 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054726238) ; [art. D351-14-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030075910) ; [art. L351-14-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452730) ; [art. L842-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031087615) ; [art. L213-92 du Code des impositions sur les biens et services](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053105737) ; [art. R421-16 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033819582) ; [art. R441-4 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037585021) ; … et 11 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+L'apprentissage concourt aux objectifs éducatifs de la nation. Il contribue à l'insertion professionnelle.
+
+Il a pour objet de donner à des travailleurs, ayant satisfait à l'obligation scolaire, une formation générale, théorique et pratique, en vue de l'obtention d'une qualification professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au répertoire national des certifications professionnelles.
+
+La formation est gratuite pour l'apprenti et pour son représentant légal.
+
+Sous réserve de l'article L. 6241-5, le présent livre n'est pas applicable aux apprentis militaires, qui sont régis par le code de la défense.
+
+### Article L6211-2
+- Identifiant : LEGIARTI000037386056
+- État : en vigueur depuis le 01/01/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037386056
+- Renvoie à : [art. L2261-23 du Code du travail](../../../deuxieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l2261-23)
+- Cité par : [art. D6211-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-ier/chapitre-unique.md#article-d6211-2) ; [art. D6332-78 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-d6332-78) ; [art. L6222-42 du Code du travail](../titre-ii/chapitre-ii.md#article-l6222-42) ; [art. L6222-43 du Code du travail](../titre-ii/chapitre-ii.md#article-l6222-43) ; [art. L6231-1 du Code du travail](../titre-iii/chapitre-ier.md#article-l6231-1) ; [art. L6231-2 du Code du travail](../titre-iii/chapitre-ier.md#article-l6231-2) ; [art. L6235-4 du Code du travail](../titre-iii/chapitre-v.md#article-l6235-4) ; [art. L6241-2 du Code du travail](../titre-iv/chapitre-ier.md#article-l6241-2) ; [art. L6313-1 du Code du travail](../../livre-iii/titre-ier/chapitre-iii.md#article-l6313-1) ; [art. R6222-23-1 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-r6222-23-1) ; [art. R6251-1 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-v.md#article-r6251-1) ; [art. R6316-9 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-r6316-9) ; [Arrêté du 11 avril 2022, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045598897) ; [Arrêté du 11 février 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051250597) ; [Arrêté du 17 mars 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053715185) ; [Arrêté du 18 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053342227) ; [Arrêté du 18 juin 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054437999) ; [Arrêté du 19 février 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049220337) ; [Arrêté du 24 février 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051313620) ; [Arrêté du 25 juillet 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038877135) ; [Arrêté du 26 février 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053705019) ; [Arrêté du 27 avril 2022, art. 16](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045709121) ; … et 29 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+L'apprentissage est une forme d'éducation alternée associant :
+
+1° Une formation dans une ou plusieurs entreprises, fondée sur l'exercice d'une ou plusieurs activités professionnelles en relation directe avec la qualification objet du contrat entre l'apprenti et l'employeur ;
+
+2° Des enseignements dispensés pendant le temps de travail dans un centre de formation d'apprentis, dont tout ou partie peut être effectué à distance.  
+
+La durée de formation en centre de formation tient compte des exigences propres à chaque niveau de qualification et des orientations prévues par les conventions ou les accords de branches nationaux ou conclus à d'autres niveaux territoriaux mentionnés à l'article L. 2261-23.  
+
+Sous réserve, le cas échéant, des règles fixées par l'organisme certificateur du diplôme ou titre à finalité professionnelle visé, cette durée ne peut être inférieure à 25 % de la durée totale du contrat.
+
+Les formations par apprentissage conduisant à l'obtention d'un diplôme sont soumises à un contrôle pédagogique associant les corps d'inspection ou les agents publics habilités par les ministres certificateurs et des représentants désignés par les branches professionnelles et les chambres consulaires, selon des modalités déterminées par décret en Conseil d'Etat.
+
+### Article L6211-3
+- Identifiant : LEGIARTI000041469632
+- État : en vigueur depuis le 01/01/2020
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041469632
+- Renvoie à : [art. L6332-14 du Code du travail](../../livre-iii/titre-iii/chapitre-ii.md#article-l6332-14)
+- Cité par : [art. L6121-1 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-l6121-1) ; [art. L6235-4 du Code du travail](../titre-iii/chapitre-v.md#article-l6235-4) ; [art. L6332-1 du Code du travail](../../livre-iii/titre-iii/chapitre-ii.md#article-l6332-1) ; [art. L6522-3 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-l6522-3) ; [art. L6522-4 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-l6522-4) ; [art. R6211-4 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-ier/chapitre-unique.md#article-r6211-4) ; [art. R6211-5 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-ier/chapitre-unique.md#article-r6211-5) ; [Arrêté du 16 octobre 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000021211826) ; [Arrêté du 20 juillet 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020911793) ; [Arrêté du 23 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020091561) ; [Arrêté du 28 mai 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054160785) ; [Arrêté du 28 mai 2026, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054160792) ; [Arrêté du 31 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020125852) ; [art. L214-13 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051373696) ; [art. L262-4 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020731087)
+
+I.-La région peut contribuer au financement des centres de formation d'apprentis quand des besoins d'aménagement du territoire et de développement économique qu'elle identifie le justifient. Elle peut :
+
+1° En matière de dépenses de fonctionnement, majorer la prise en charge des contrats d'apprentissage assurée par les opérateurs de compétences, dans les conditions prévues à l'article L. 6332-14 ;
+
+2° En matière de dépenses d'investissement, verser des subventions.
+
+II.-Le montant des dépenses engagées et mandatées en matière de fonctionnement et d'investissement mentionnées au I du présent article ainsi qu'un état détaillé de leur affectation font l'objet d'un débat annuel en conseil régional sur la base d'un rapport présenté par le président du conseil régional. Ce débat peut également porter sur les autres dépenses engagées par la région en matière d'apprentissage. Le rapport, comprenant une annexe présentant les montants des dépenses engagées et mandatées et l'état détaillé de leur affectation, est transmis pour information au représentant de l'Etat dans la région et à France compétences. Les ressources allouées à la région pour les dépenses d'investissement mentionnées au 2° du même I sont déterminées et réparties sur la base des dépenses d'investissement constatées au titre des exercices 2017 et 2018.
+
+III.-Les dépenses mentionnées au II s'inscrivent dans les orientations du contrat de plan régional de développement des formations et de l'orientation professionnelles mentionné à l'article L. 214-13 du code de l'éducation. A ce titre, elles peuvent faire l'objet de conventions d'objectifs et de moyens avec les opérateurs de compétences agissant pour le compte des branches adhérentes.
+
+### Article L6211-4
+- Identifiant : LEGIARTI000037385897
+- État : en vigueur depuis le 01/01/2020
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037385897
+- Renvoie à : [art. L6111-3 du Code du travail](../../livre-ier/titre-ier/chapitre-ier.md#article-l6111-3) ; [art. L6222-39 du Code du travail](../titre-ii/chapitre-ii.md#article-l6222-39) ; [art. L6224-1 du Code du travail](../titre-ii/chapitre-iv.md#article-l6224-1)
+- Cité par : [art. D6211-3 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ii/titre-ier/chapitre-unique.md#article-d6211-3) ; [art. L6227-12 du Code du travail](../titre-ii/chapitre-vii.md#article-l6227-12) ; [art. L6235-4 du Code du travail](../titre-iii/chapitre-v.md#article-l6235-4) ; [Arrêté du 6 février 2026, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053484946)
+
+Les chambres de commerce et d'industrie, les chambres de métiers et de l'artisanat et les chambres d'agriculture exercent leurs attributions en matière d'apprentissage dans le cadre du présent livre. Elles participent à la formation professionnelle initiale ou continue, notamment grâce aux établissements publics et privés d'enseignement qu'elles créent, gèrent ou financent.  
+
+Elles contribuent au développement de l'apprentissage en accomplissant les missions :  
+
+1° D'accompagner les entreprises qui le souhaitent, notamment pour la préparation du contrat d'apprentissage, préalablement à son dépôt dans les conditions prévues à l'article L. 6224-1. A ce dernier titre, les chambres consulaires peuvent être chargées par les opérateurs de compétences de participer à la mission définie au même article L. 6224-1 ;  
+
+2° D'assurer la médiation définie à l'article L. 6222-39 ;  
+
+3° De participer à la formation des maîtres d'apprentissage. Dans ce cadre, elles peuvent conclure avec les opérateurs de compétences des conventions de partenariat ;  
+
+4° De participer au service public régional de l'orientation conformément à l'article L. 6111-3 ;  
+
+5° De participer à la gouvernance régionale de l'apprentissage conformément à l'article L. 214-13 du code de l'éducation.

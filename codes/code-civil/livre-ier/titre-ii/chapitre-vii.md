@@ -19,7 +19,7 @@ L'annulation des actes de l'état civil est ordonnée par le tribunal. Toutefois
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460990
 - Renvoie à : [art. 98 du Code civil](chapitre-vi.md#article-98)
-- Cité par : [art. 76 du Code civil](chapitre-iii.md#article-76) ; [art. 91 du Code civil](chapitre-iv.md#article-91) ; [art. 99-2 du Code civil](chapitre-vii.md#article-99-2) ; [art. 127 du Code civil](../titre-iv/chapitre-ii.md#article-127) ; [art. 1047 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034723899) ; [Décret n°2019-913 du 30 août 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039012316) ; [Décret n°80-308 du 25 avril 1980, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285850)
+- Cité par : [art. 76 du Code civil](chapitre-iii.md#article-76) ; [art. 91 du Code civil](chapitre-iv.md#article-91) ; [art. 99-2 du Code civil](chapitre-vii.md#article-99-2) ; [art. 127 du Code civil](../titre-iv/chapitre-ii.md#article-127) ; [art. 1047 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ii.md#article-1047) ; [Décret n°2019-913 du 30 août 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039012316) ; [Décret n°80-308 du 25 avril 1980, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285850)
 
 L'officier de l'état civil rectifie les erreurs ou omissions purement matérielles entachant les énonciations et mentions apposées en marge des actes de l'état civil dont il est dépositaire et dont la liste est fixée par le code de procédure civile.
 

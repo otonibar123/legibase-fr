@@ -55,7 +55,7 @@ La requête aux fins de déclaration d'absence est considérée comme non avenue
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460968
 - Renvoie à : [art. 99 du Code civil](../titre-ii/chapitre-vii.md#article-99) ; [art. 99-1 du Code civil](../titre-ii/chapitre-vii.md#article-99-1) ; [art. 123 du Code civil](chapitre-ii.md#article-123)
-- Cité par : [art. 1069 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411841) ; [art. L144-1 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031711065) ; [art. L144-3 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031711061) ; [art. L146-3 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031711045)
+- Cité par : [art. 1069 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-iv.md#article-1069) ; [art. L144-1 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031711065) ; [art. L144-3 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031711061) ; [art. L146-3 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031711045)
 
 Lorsque le jugement déclaratif d'absence est rendu, des extraits en sont publiés selon les modalités prévues à l'article 123, dans le délai fixé par le tribunal. La décision est réputée non avenue si elle n'a pas été publiée dans ce délai.
 

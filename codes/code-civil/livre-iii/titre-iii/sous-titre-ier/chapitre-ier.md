@@ -32,7 +32,7 @@ Les contrats légalement formés tiennent lieu de loi à ceux qui les ont faits.
 - Identifiant : LEGIARTI000032040772
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040772
-- Cité par : [art. L441-4 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047381691) ; [art. L7 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042956) ; [art. L8 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042948)
+- Cité par : [art. L441-4 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iv/titre-iv/chapitre-ier.md#article-l441-4) ; [art. L7 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042956) ; [art. L8 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042948)
 
 Les contrats doivent être négociés, formés et exécutés de bonne foi.
 

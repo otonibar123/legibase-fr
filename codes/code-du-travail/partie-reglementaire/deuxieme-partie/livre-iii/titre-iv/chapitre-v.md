@@ -1,0 +1,17 @@
+# Chapitre V : Suppression du comité
+
+Code du travail › Partie réglementaire › Deuxième partie : Les relations collectives de travail › Livre III : Les institutions représentatives du personnel › Titre IV : Comité d'entreprise européen ou procédure d'information et de consultation dans les entreprises de dimension communautaire
+
+### Article R2345-1
+- Identifiant : LEGIARTI000022357055
+- État : en vigueur depuis le 15/02/2010
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022357055
+- Renvoie à : [art. L2345-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-iv/chapitre-v.md#article-l2345-1)
+
+Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi peut autoriser la suppression du comité d'entreprise européen dans les conditions énoncées à l'article L. 2345-1.
+
+> Nota : Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région, à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi (Les arrêtés de nomination de ces directeurs ont été publiés par arrêtés des 30 décembre 2009 et 9 février 2010, parus respectivement au Journal officiel des 5 janvier et 14 février 2010).
+> 
+> Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
+> 
+> Conformément à l'article 2 du décret n° 2010-687 du 24 juin 2010, les dispositions du décret n° 2009-1377 du 10 novembre 2009 s'appliquent à la région Ile-de-France à compter du 1er juillet 2010.

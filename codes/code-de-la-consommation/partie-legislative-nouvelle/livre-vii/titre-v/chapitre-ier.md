@@ -1,0 +1,39 @@
+# Chapitre Ier : Objet du fichier
+
+Code de la consommation › Partie législative nouvelle › Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT › Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS
+
+### Article L751-1
+- Identifiant : LEGIARTI000032224306
+- État : en vigueur depuis le 01/07/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224306
+- Renvoie à : [Loi n° 78-17 du 6 janvier 1978](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460)
+- Cité par : [art. L670-6 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-vi/titre-vii.md#article-l670-6) ; [art. L312-75 du Code de la consommation](../../livre-iii/titre-ier/chapitre-ii.md#article-l312-75) ; [art. L313-16 du Code de la consommation](../../livre-iii/titre-ier/chapitre-iii.md#article-l313-16) ; [art. L721-3 du Code de la consommation](../titre-ii/chapitre-ier.md#article-l721-3) ; [art. L762-1 du Code de la consommation](../titre-vi/chapitre-ii.md#article-l762-1) ; [art. L762-2 du Code de la consommation](../titre-vi/chapitre-ii.md#article-l762-2) ; [art. L771-4 du Code de la consommation](../titre-vii/chapitre-unique.md#article-l771-4) ; [art. L771-7 du Code de la consommation](../titre-vii/chapitre-unique.md#article-l771-7) ; [Arrêté du 26 octobre 2010, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033062290) ; [art. L213-4-6 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038274643) ; [art. L312-16 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190595) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. D312-18 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046589605) ; [art. L312-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044605348) ; [art. L313-6 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033232466) ; [art. L511-6 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990064) ; [art. R312-4-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042136154) ; [Loi n° 65-557 du 10 juillet 1965, art. 26-4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049398702)
+
+Un fichier national recense les informations sur les incidents de paiement caractérisés liés aux crédits accordés aux personnes physiques pour des besoins non professionnels.  
+Ce fichier est géré par la Banque de France, laquelle est seule habilitée à centraliser ces informations.  
+Il est soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+### Article L751-2
+- Identifiant : LEGIARTI000049398728
+- État : en vigueur depuis le 11/04/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049398728
+- Cité par : [art. L751-6 du Code de la consommation](chapitre-ier.md#article-l751-6) ; [art. L762-1 du Code de la consommation](../titre-vi/chapitre-ii.md#article-l762-1) ; [art. L762-2 du Code de la consommation](../titre-vi/chapitre-ii.md#article-l762-2) ; [art. L771-6 du Code de la consommation](../titre-vii/chapitre-unique.md#article-l771-6) ; [Arrêté du 26 octobre 2010, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054739691) ; [art. L751-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049398723) ; [art. L751-4 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224300) ; [art. L751-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049398716) ; [art. L752-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990053) ; [art. L771-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190891) ; [LOI n°2019-486 du 22 mai 2019, art. 99](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038497563)
+
+Ce fichier a pour finalité de fournir aux établissements de crédit et aux sociétés de financement mentionnés au titre Ier du livre V du code monétaire et financier, aux établissements de monnaie électronique et aux établissements de paiement mentionnés au titre II du même livre V et aux organismes mentionnés aux 5 et 8 de l'article L. 511-6 du même code un élément d'appréciation de la solvabilité des personnes qui sollicitent un crédit. Toutefois, l'inscription d'une personne physique au sein du fichier n'emporte pas interdiction de délivrer un crédit.
+
+Le fichier peut fournir un élément d'appréciation à l'usage des établissements de crédit, des établissements de monnaie électronique et des établissements de paiement dans leurs décisions d'attribution des moyens de paiement.
+
+Les informations qu'il contient peuvent également être prises en compte par les entreprises mentionnées au premier alinéa pour la gestion des risques liés aux crédits souscrits par leurs clients.
+
+L'organisme de caution mentionné aux articles 26-7 et 26-12 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis peut consulter le fichier mentionné au présent article, pour les copropriétaires participant aux emprunts mentionnés à l'article 26-4 de cette même loi.
+
+### Article L751-6
+- Identifiant : LEGIARTI000049398709
+- État : en vigueur depuis le 11/04/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049398709
+- Renvoie à : [art. L751-2 du Code de la consommation](chapitre-ier.md#article-l751-2)
+- Cité par : [art. L312-75 du Code de la consommation](../../livre-iii/titre-ier/chapitre-ii.md#article-l312-75) ; [art. L313-16 du Code de la consommation](../../livre-iii/titre-ier/chapitre-iii.md#article-l313-16) ; [Arrêté du 26 octobre 2010, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041632037) ; [art. L312-16 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190595) ; [art. L752-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990053) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. L511-6 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990064) ; [Loi n° 65-557 du 10 juillet 1965, art. 26-4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049398702)
+
+Un arrêté du ministre chargé de l'économie, pris après avis de la Commission nationale de l'informatique et des libertés et du comité consultatif du secteur financier, fixe les modalités de collecte, d'enregistrement, de conservation et de consultation des informations.
+
+Cet arrêté détermine également les modalités selon lesquelles les établissements et organismes mentionnés à l'article L. 751-2 peuvent justifier qu'ils ont consulté le fichier, notamment en application de l'article L. 312-16.

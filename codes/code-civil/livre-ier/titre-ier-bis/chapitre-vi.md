@@ -143,6 +143,7 @@ Pour l'établissement d'un certificat de nationalité, le directeur des services
 - Identifiant : LEGIARTI000045937601
 - État : en vigueur depuis le 01/09/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045937601
+- Cité par : [art. 1038 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ier.md#article-1038)
 
 Lorsque le directeur des services de greffe judiciaires du tribunal judiciaire refuse de délivrer un certificat de nationalité, l'intéressé peut saisir le tribunal judiciaire qui décide s'il y a lieu de procéder à cette délivrance.
 

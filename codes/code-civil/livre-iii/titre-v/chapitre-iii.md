@@ -73,6 +73,6 @@ Les mêmes règles s'appliquent après divorce ou séparation de corps. Toutefoi
 - État : en vigueur depuis le 01/07/1986
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440799
 - Renvoie à : [art. 1479 du Code civil](chapitre-ii.md#article-1479)
-- Cité par : [art. 1014 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928851)
+- Cité par : [art. 1014 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vii/chapitre-iv.md#article-1014)
 
 Les règles de l'article 1479 sont applicables aux créances que l'un des époux peut avoir à exercer contre l'autre.

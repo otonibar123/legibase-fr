@@ -8,7 +8,7 @@ Code civil › Livre Ier : Des personnes › Titre XI : De la majorité et des m
 - Identifiant : LEGIARTI000006427435
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427435
-- Cité par : [art. 433 du Code civil](chapitre-ii.md#article-433) ; [art. 440 du Code civil](chapitre-ii.md#article-440) ; [art. 441 du Code civil](chapitre-ii.md#article-441) ; [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 477 du Code civil](chapitre-ii.md#article-477) ; [art. 481 du Code civil](chapitre-ii.md#article-481) ; [art. 483 du Code civil](chapitre-ii.md#article-483) ; [art. 1146 du Code civil](../../livre-iii/titre-iii/sous-titre-ier/chapitre-ii.md#article-1146) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. R2332-6 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037144893) ; [art. L3211-6 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036515486) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052850639) ; [art. R312-21 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054290204) ; [art. R312-70 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037144263) ; [art. R312-85 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041831546) ; [art. R313-6 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047786865) ; [art. R313-29 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037144462) ; [art. 1046-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034714454) ; … et 4 autres textes (liste complète dans [renvois.md](../../renvois.md))
+- Cité par : [art. 433 du Code civil](chapitre-ii.md#article-433) ; [art. 440 du Code civil](chapitre-ii.md#article-440) ; [art. 441 du Code civil](chapitre-ii.md#article-441) ; [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 477 du Code civil](chapitre-ii.md#article-477) ; [art. 481 du Code civil](chapitre-ii.md#article-481) ; [art. 483 du Code civil](chapitre-ii.md#article-483) ; [art. 1146 du Code civil](../../livre-iii/titre-iii/sous-titre-ier/chapitre-ii.md#article-1146) ; [art. 1046-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ii.md#article-1046-1) ; [art. 1047 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ii.md#article-1047) ; [art. 1258 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1258) ; [art. 1258-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1258-1) ; [art. 1259 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. R2332-6 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037144893) ; [art. L3211-6 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036515486) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052850639) ; [art. R312-21 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054290204) ; [art. R312-70 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037144263) ; [art. R312-85 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041831546) ; [art. R313-6 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047786865) ; [art. R313-29 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037144462)
 
 Toute personne dans l'impossibilité de pourvoir seule à ses intérêts en raison d'une altération, médicalement constatée, soit de ses facultés mentales, soit de ses facultés corporelles de nature à empêcher l'expression de sa volonté peut bénéficier d'une mesure de protection juridique prévue au présent chapitre.  
 
@@ -18,7 +18,7 @@ S'il n'en est disposé autrement, la mesure est destinée à la protection tant 
 - Identifiant : LEGIARTI000030253928
 - État : en vigueur depuis le 18/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030253928
-- Cité par : [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [art. 1256 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020050577) ; [art. R217-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105823) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
+- Cité par : [art. 1256 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1256) ; [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [art. R217-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105823) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
 
 Le logement de la personne protégée et les meubles dont il est garni, qu'il s'agisse d'une résidence principale ou secondaire, sont conservés à la disposition de celle-ci aussi longtemps qu'il est possible.
 
@@ -55,7 +55,7 @@ Si la personne protégée a fait l'objet d'une interdiction d'émettre des chèq
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311088
 - Renvoie à : [art. 217 du Code civil](../titre-v/chapitre-vi.md#article-217) ; [art. 219 du Code civil](../titre-v/chapitre-vi.md#article-219) ; [art. 1426 du Code civil](../../livre-iii/titre-v/chapitre-ii.md#article-1426) ; [art. 1429 du Code civil](../../livre-iii/titre-v/chapitre-ii.md#article-1429)
-- Cité par : [art. R215-15 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020077542) ; [art. 1216-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039748182) ; [art. 1218 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810494) ; [Décret n°2019-756 du 22 juillet 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038809312)
+- Cité par : [art. 1216-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1216-1) ; [art. 1218 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1218) ; [art. R215-15 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020077542) ; [Décret n°2019-756 du 22 juillet 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038809312)
 
 La mesure de protection judiciaire ne peut être ordonnée par le juge qu'en cas de nécessité et lorsqu'il ne peut être suffisamment pourvu aux intérêts de la personne par la mise en œuvre du mandat de protection future conclu par l'intéressé, par l'application des règles du droit commun de la représentation, de celles relatives aux droits et devoirs respectifs des époux et des règles des régimes matrimoniaux, en particulier celles prévues aux articles 217, 219, 1426 et 1429 ou, par une autre mesure de protection moins contraignante.
 
@@ -75,7 +75,7 @@ Pour un mineur non émancipé, la demande peut être introduite et jugée dans l
 - Identifiant : LEGIARTI000006427589
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427589
-- Cité par : [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 1218-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810487) ; [art. 1220-4 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810460) ; [art. 1222 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810454) ; [art. 1225 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810446) ; [art. 1239 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810391) ; [art. 1251-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025820552) ; [Décret n°2019-1464 du 26 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039746848)
+- Cité par : [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 1218-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1218-1) ; [art. 1220-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1220-4) ; [art. 1222 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1222) ; [art. 1225 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1225) ; [art. 1239 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1239) ; [art. 1251-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1251-1) ; [Décret n°2019-1464 du 26 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039746848)
 
 La demande d'ouverture de la mesure peut être présentée au juge par la personne qu'il y a lieu de protéger ou, selon le cas, par son conjoint, le partenaire avec qui elle a conclu un pacte civil de solidarité ou son concubin, à moins que la vie commune ait cessé entre eux, ou par un parent ou un allié, une personne entretenant avec le majeur des liens étroits et stables, ou la personne qui exerce à son égard une mesure de protection juridique.  
 
@@ -85,7 +85,7 @@ Elle peut être également présentée par le procureur de la République soit d
 - Identifiant : LEGIARTI000038310450
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310450
-- Cité par : [art. 432 du Code civil](chapitre-ii.md#article-432) ; [art. 441 du Code civil](chapitre-ii.md#article-441) ; [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 481 du Code civil](chapitre-ii.md#article-481) ; [art. 494-4 du Code civil](chapitre-ii.md#article-494-4) ; [art. 494-6 du Code civil](chapitre-ii.md#article-494-6) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. L1111-12-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054711050) ; [art. L256-2 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054725447) ; [art. 1218 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810494) ; [art. 1219 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810482) ; [art. 1256 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020050577) ; [art. 1258 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505856) ; [art. 1258-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505851) ; [art. 1259 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505832) ; [art. D47-24 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017993994) ; … et 2 autres textes (liste complète dans [renvois.md](../../renvois.md))
+- Cité par : [art. 432 du Code civil](chapitre-ii.md#article-432) ; [art. 441 du Code civil](chapitre-ii.md#article-441) ; [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 481 du Code civil](chapitre-ii.md#article-481) ; [art. 494-4 du Code civil](chapitre-ii.md#article-494-4) ; [art. 494-6 du Code civil](chapitre-ii.md#article-494-6) ; [art. 1218 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1218) ; [art. 1219 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1219) ; [art. 1256 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1256) ; [art. 1258 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1258) ; [art. 1258-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1258-1) ; [art. 1259 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. L1111-12-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054711050) ; [art. L256-2 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054725447) ; [art. D47-24 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017993994) ; [art. R217-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105823) ; [Décret n°2019-1464 du 26 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039746848)
 
 La demande est accompagnée, à peine d'irrecevabilité, d'un certificat circonstancié rédigé par un médecin choisi sur une liste établie par le procureur de la République. Ce médecin peut solliciter l'avis du médecin traitant de la personne qu'il y a lieu de protéger.
 
@@ -98,7 +98,7 @@ Lorsque le procureur de la République est saisi par une personne autre que l'un
 - État : en vigueur depuis le 18/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030253955
 - Renvoie à : [art. 431 du Code civil](chapitre-ii.md#article-431)
-- Cité par : [art. 433 du Code civil](chapitre-ii.md#article-433) ; [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 494-4 du Code civil](chapitre-ii.md#article-494-4) ; [art. 1220-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810473) ; [art. 1225 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810446) ; [art. 1226 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049887241) ; [art. 1245 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810468) ; [art. 1256 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020050577) ; [art. R217-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105823)
+- Cité par : [art. 433 du Code civil](chapitre-ii.md#article-433) ; [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 494-4 du Code civil](chapitre-ii.md#article-494-4) ; [art. 1220-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1220-2) ; [art. 1225 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1225) ; [art. 1226 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1226) ; [art. 1245 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1245) ; [art. 1256 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1256) ; [art. R217-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105823)
 
 Le juge statue, la personne entendue ou appelée. L'intéressé peut être accompagné par un avocat ou, sous réserve de l'accord du juge, par toute autre personne de son choix.  
 
@@ -111,7 +111,7 @@ Le juge peut toutefois, par décision spécialement motivée et sur avis d'un m�
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427594
 - Renvoie à : [art. 425 du Code civil](chapitre-ii.md#article-425) ; [art. 432 du Code civil](chapitre-ii.md#article-432)
-- Cité par : [art. 439 du Code civil](chapitre-ii.md#article-439) ; [Arrêté du 15 janvier 1990, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286787) ; [art. L222-5 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796803) ; [art. L228-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796947) ; [art. 1249 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030988) ; [Décret n°74-930 du 6 novembre 1974, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285293) ; [Loi n°64-1230 du 14 décembre 1964, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283767)
+- Cité par : [art. 439 du Code civil](chapitre-ii.md#article-439) ; [art. 1249 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1249) ; [Arrêté du 15 janvier 1990, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286787) ; [art. L222-5 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796803) ; [art. L228-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796947) ; [Décret n°74-930 du 6 novembre 1974, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285293) ; [Loi n°64-1230 du 14 décembre 1964, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283767)
 
 Le juge peut placer sous sauvegarde de justice la personne qui, pour l'une des causes prévues à l'article 425, a besoin d'une protection juridique temporaire ou d'être représentée pour l'accomplissement de certains actes déterminés.  
 
@@ -158,7 +158,7 @@ Ceux qui ont qualité pour demander l'ouverture d'une curatelle ou d'une tutelle
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427475
 - Renvoie à : [art. 435 du Code civil](chapitre-ii.md#article-435) ; [art. 436 du Code civil](chapitre-ii.md#article-436) ; [art. 445 du Code civil](chapitre-ii.md#article-445) ; [art. 448 du Code civil](chapitre-ii.md#article-448) ; [art. 510 du Code civil](../titre-xii/chapitre-ii.md#article-510)
-- Cité par : [art. 435 du Code civil](chapitre-ii.md#article-435) ; [art. R471-5-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037362244) ; [art. R472-8 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037362268) ; [art. 1250 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030984) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
+- Cité par : [art. 435 du Code civil](chapitre-ii.md#article-435) ; [art. 1250 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1250) ; [art. R471-5-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037362244) ; [art. R472-8 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037362268) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
 
 S'il y a lieu d'agir en dehors des cas définis à l'article 436, tout intéressé peut en donner avis au juge.  
 
@@ -195,7 +195,7 @@ Dans tous les cas, à défaut de mainlevée, de déclaration de cessation ou de 
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427481
 - Renvoie à : [art. 425 du Code civil](chapitre-ii.md#article-425)
-- Cité par : [art. R123-46 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043292404) ; [art. R123-69 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047631748) ; [art. R123-248 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073729) ; [art. R123-264 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046073690) ; [art. R2332-6 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034672737) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052850639) ; [art. R313-29 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034669132)
+- Cité par : [art. R123-46 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-46) ; [art. R123-69 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-69) ; [art. R123-248 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-248) ; [art. R123-264 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-264) ; [art. R2332-6 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034672737) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052850639) ; [art. R313-29 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034669132)
 
 La personne qui, sans être hors d'état d'agir elle-même, a besoin, pour l'une des causes prévues à l'article 425, d'être assistée ou contrôlée d'une manière continue dans les actes importants de la vie civile peut être placée en curatelle.  
 
@@ -223,7 +223,7 @@ Le juge qui prononce une mesure de tutelle peut, par décision spécialement mot
 - État : en vigueur depuis le 18/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030253939
 - Renvoie à : [art. 425 du Code civil](chapitre-ii.md#article-425) ; [art. 430 du Code civil](chapitre-ii.md#article-430) ; [art. 431 du Code civil](chapitre-ii.md#article-431) ; [art. 432 du Code civil](chapitre-ii.md#article-432)
-- Cité par : [art. 439 du Code civil](chapitre-ii.md#article-439) ; [art. 494-3 du Code civil](chapitre-ii.md#article-494-3) ; [art. 1217 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810503) ; [Loi n°2007-308 du 5 mars 2007, art. 45](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284936)
+- Cité par : [art. 439 du Code civil](chapitre-ii.md#article-439) ; [art. 494-3 du Code civil](chapitre-ii.md#article-494-3) ; [art. 1217 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1217) ; [art. 1228 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1228) ; [Loi n°2007-308 du 5 mars 2007, art. 45](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284936)
 
 Le juge peut renouveler la mesure pour une même durée.
 
@@ -300,7 +300,7 @@ A moins que le juge en ait décidé autrement, les personnes désignées en appl
 - Identifiant : LEGIARTI000006427502
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427502
-- Cité par : [art. 437 du Code civil](chapitre-ii.md#article-437) ; [art. 449 du Code civil](chapitre-ii.md#article-449) ; [Arrêté du 27 janvier 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053426948) ; [Arrêté du 31 août 2018, art. 2 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052557994) ; [art. 1255 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030956)
+- Cité par : [art. 437 du Code civil](chapitre-ii.md#article-437) ; [art. 449 du Code civil](chapitre-ii.md#article-449) ; [art. 1255 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1255) ; [Arrêté du 27 janvier 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053426948) ; [Arrêté du 31 août 2018, art. 2 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052557994)
 
 La désignation par une personne d'une ou plusieurs personnes chargées d'exercer les fonctions de curateur ou de tuteur pour le cas où elle serait placée en curatelle ou en tutelle s'impose au juge, sauf si la personne désignée refuse la mission ou est dans l'impossibilité de l'exercer ou si l'intérêt de la personne protégée commande de l'écarter. En cas de difficulté, le juge statue.  
 
@@ -412,7 +412,7 @@ Il est fait application des règles prescrites pour le conseil de famille des mi
 - Identifiant : LEGIARTI000006427713
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427713
-- Cité par : [art. 511 du Code civil](../titre-xii/chapitre-ii.md#article-511) ; [art. 1237 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031042)
+- Cité par : [art. 511 du Code civil](../titre-xii/chapitre-ii.md#article-511) ; [art. 1237 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1237)
 
 Le juge peut autoriser le conseil de famille à se réunir et délibérer hors de sa présence lorsque ce dernier a désigné un mandataire judiciaire à la protection des majeurs comme tuteur ou subrogé tuteur. Le conseil de famille désigne alors un président et un secrétaire parmi ses membres, à l'exclusion du tuteur et du subrogé tuteur.  
 
@@ -447,7 +447,7 @@ Sont réputés strictement personnels la déclaration de naissance d'un enfant, 
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310445
 - Renvoie à : [art. 458 du Code civil](chapitre-ii.md#article-458)
-- Cité par : [art. 459-1 du Code civil](chapitre-ii.md#article-459-1) ; [Arrêté du 6 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043049863) ; [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [art. R321-28 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042988695) ; [art. 1213 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810518) ; [art. 1276 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412323) ; [art. 1280 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624733)
+- Cité par : [art. 459-1 du Code civil](chapitre-ii.md#article-459-1) ; [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213) ; [art. 1276 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ii/chapitre-iv.md#article-1276) ; [art. 1280 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ii/chapitre-iv.md#article-1280) ; [Arrêté du 6 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043049863) ; [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [art. R321-28 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042988695)
 
 Hors les cas prévus à l'article 458, la personne protégée prend seule les décisions relatives à sa personne dans la mesure où son état le permet.
 
@@ -471,7 +471,7 @@ Toutefois, lorsque la mesure a été confiée à une personne ou un service pré
 - Identifiant : LEGIARTI000006428039
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428039
-- Cité par : [art. 472 du Code civil](chapitre-ii.md#article-472) ; [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [art. L311-4 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049391584) ; [art. 1213 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810518)
+- Cité par : [art. 472 du Code civil](chapitre-ii.md#article-472) ; [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213) ; [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [art. L311-4 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049391584)
 
 La personne protégée choisit le lieu de sa résidence.  
 
@@ -613,7 +613,7 @@ Cette assistance est également requise pour introduire une action en justice ou
 - Identifiant : LEGIARTI000006427801
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427801
-- Cité par : [art. 1213 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810518)
+- Cité par : [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213)
 
 Le curateur ne peut se substituer à la personne en curatelle pour agir en son nom.  
 
@@ -706,7 +706,7 @@ Le testament fait antérieurement à l'ouverture de la tutelle reste valable à 
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345528
 - Renvoie à : [art. 425 du Code civil](chapitre-ii.md#article-425)
-- Cité par : [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. A444-79-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033343198) ; [art. 1258 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505856) ; [art. 1258-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505851) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
+- Cité par : [art. A444-79-1 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-79-1) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 1258 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1258) ; [art. 1258-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1258-1) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
 
 Toute personne majeure ou mineure émancipée ne faisant pas l'objet d'une mesure de tutelle ou d'une habilitation familiale peut charger une ou plusieurs personnes, par un même mandat, de la représenter pour le cas où, pour l'une des causes prévues à l'article 425, elle ne pourrait plus pourvoir seule à ses intérêts.  
 
@@ -720,7 +720,7 @@ Le mandat est conclu par acte notarié ou par acte sous seing privé. Toutefois,
 - Identifiant : LEGIARTI000031712187
 - État : en vigueur depuis le 30/12/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031712187
-- Cité par : [art. 1219-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505763) ; [art. 1221-3 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050503607) ; [art. 1260-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050503634) ; [art. 1260-3 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050503638) ; [art. 1260-7 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050503646) ; [Décret n°2024-1032 du 16 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050503551)
+- Cité par : [art. 1219-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1219-1) ; [art. 1221-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1221-3) ; [art. 1260-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1260-1) ; [art. 1260-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1260-3) ; [art. 1260-7 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1260-7) ; [Décret n°2024-1032 du 16 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050503551)
 
 Le mandat de protection future est publié par une inscription sur un registre spécial dont les modalités et l'accès sont réglés par décret en Conseil d'Etat.
 
@@ -738,7 +738,7 @@ Le mandat de protection future est soumis aux dispositions des articles 1984 à 
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427855
 - Renvoie à : [art. 457-1 du Code civil](chapitre-ii.md#article-457-1)
-- Cité par : [art. 1259-3 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505810)
+- Cité par : [art. 1259-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259-3)
 
 Lorsque le mandat s'étend à la protection de la personne, les droits et obligations du mandataire sont définis par les articles 457-1 à 459-2. Toute stipulation contraire est réputée non écrite.  
 
@@ -751,7 +751,7 @@ Le mandat fixe les modalités de contrôle de son exécution.
 - État : en vigueur depuis le 19/05/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042725
 - Renvoie à : [art. 395 du Code civil](../titre-x/chapitre-ii.md#article-395) ; [art. 445 du Code civil](chapitre-ii.md#article-445) ; [art. L471-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006798076)
-- Cité par : [art. 1259-3 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505810)
+- Cité par : [art. 1259-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259-3)
 
 Le mandataire peut être toute personne physique choisie par le mandant ou une personne morale inscrite sur la liste des mandataires judiciaires à la protection des majeurs prévue à l'article L. 471-2 du code de l'action sociale et des familles.
 
@@ -787,7 +787,7 @@ Le mandataire répond de la personne qu'il s'est substituée dans les conditions
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311081
 - Renvoie à : [art. 425 du Code civil](chapitre-ii.md#article-425) ; [art. 481 du Code civil](chapitre-ii.md#article-481)
-- Cité par : [art. 1213 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810518) ; [art. 1260-4 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050503640)
+- Cité par : [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213) ; [art. 1260-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1260-4)
 
 Le mandat mis à exécution prend fin par :
 
@@ -805,7 +805,7 @@ Le juge peut également suspendre les effets du mandat pour le temps d'une mesur
 - Identifiant : LEGIARTI000006427886
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427886
-- Cité par : [art. 1213 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810518) ; [art. 1259-3 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505810)
+- Cité par : [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213) ; [art. 1259-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259-3)
 
 Tout intéressé peut saisir le juge des tutelles aux fins de contester la mise en oeuvre du mandat ou de voir statuer sur les conditions et modalités de son exécution.
 
@@ -813,7 +813,7 @@ Tout intéressé peut saisir le juge des tutelles aux fins de contester la mise 
 - Identifiant : LEGIARTI000006427889
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427889
-- Cité par : [art. 1217 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810503) ; [art. 1259-5 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030911) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
+- Cité par : [art. 1217 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1217) ; [art. 1259-5 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259-5) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
 
 Le juge qui met fin au mandat peut ouvrir une mesure de protection juridique dans les conditions et selon les modalités prévues aux sections 1 à 4 du présent chapitre.  
 
@@ -879,7 +879,7 @@ Toutefois, le mandataire ne peut accomplir un acte de disposition à titre gratu
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428124
 - Renvoie à : [art. 486 du Code civil](chapitre-ii.md#article-486)
-- Cité par : [Décret n°2007-1905 du 26 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017854243) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [Décret n°2007-1905 du 26 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017854243) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
 
 Pour l'application du second alinéa de l'article 486, le mandataire rend compte au notaire qui a établi le mandat en lui adressant ses comptes, auxquels sont annexées toutes pièces justificatives utiles. Celui-ci en assure la conservation ainsi que celle de l'inventaire des biens et de ses actualisations.  
 
@@ -891,7 +891,7 @@ Le notaire saisit le juge des tutelles de tout mouvement de fonds et de tout act
 - Identifiant : LEGIARTI000006428176
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428176
-- Cité par : [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. L3211-5 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687906) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687910) ; [art. 1258-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505844) ; [Décret n°2007-1702 du 30 novembre 2007, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000017631300) ; [Décret n°2009-1628 du 23 décembre 2009, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021536596) ; [Décret n°99-1090 du 21 décembre 1999, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286146) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
+- Cité par : [art. 1258-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1258-2) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. L3211-5 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687906) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687910) ; [Décret n°2007-1702 du 30 novembre 2007, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000017631300) ; [Décret n°2009-1628 du 23 décembre 2009, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021536596) ; [Décret n°99-1090 du 21 décembre 1999, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286146) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
 
 Le mandat établi sous seing privé est daté et signé de la main du mandant. Il est soit contresigné par un avocat, soit établi selon un modèle défini par décret en Conseil d'Etat.  
 
@@ -911,7 +911,7 @@ Le mandat n'acquiert date certaine que dans les conditions de l'article 1377.
 - Identifiant : LEGIARTI000006428182
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428182
-- Cité par : [art. 1259-3 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505810) ; [art. 1259-5 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030911) ; [Loi n°68-5 du 3 janvier 1968, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023480628) ; [Loi n°68-5 du 3 janvier 1968, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283898) ; [Nouveau code de procédure civile, art. 1256](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412293)
+- Cité par : [art. 1259-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259-3) ; [art. 1259-5 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1259-5) ; [Loi n°68-5 du 3 janvier 1968, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023480628) ; [Loi n°68-5 du 3 janvier 1968, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283898) ; [Nouveau code de procédure civile, art. 1256](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412293)
 
 Le mandat est limité, quant à la gestion du patrimoine, aux actes qu'un tuteur peut faire sans autorisation.  
 
@@ -934,7 +934,7 @@ Il est tenu de les présenter au juge des tutelles ou au procureur de la Républ
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311073
 - Renvoie à : [art. 467 du Code civil](chapitre-ii.md#article-467)
-- Cité par : [art. 113 du Code civil](../titre-iv/chapitre-ier.md#article-113) ; [art. 494-3 du Code civil](chapitre-ii.md#article-494-3) ; [art. 494-4 du Code civil](chapitre-ii.md#article-494-4) ; [art. 494-6 du Code civil](chapitre-ii.md#article-494-6) ; [art. 494-10 du Code civil](chapitre-ii.md#article-494-10) ; [art. 494-11 du Code civil](chapitre-ii.md#article-494-11) ; [Arrêté du 1 juin 2006, art. Annexe II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045754350) ; [art. 1218 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810494) ; [art. 1220-4 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810460) ; [art. 1222 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810454) ; [art. 1225 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810446) ; [art. 1239 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810391) ; [Décret n°2017-890 du 6 mai 2017, art. 30](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053192130) ; [Décret n°2017-890 du 6 mai 2017, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053192122)
+- Cité par : [art. 113 du Code civil](../titre-iv/chapitre-ier.md#article-113) ; [art. 494-3 du Code civil](chapitre-ii.md#article-494-3) ; [art. 494-4 du Code civil](chapitre-ii.md#article-494-4) ; [art. 494-6 du Code civil](chapitre-ii.md#article-494-6) ; [art. 494-10 du Code civil](chapitre-ii.md#article-494-10) ; [art. 494-11 du Code civil](chapitre-ii.md#article-494-11) ; [art. 1218 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1218) ; [art. 1218-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1218-1) ; [art. 1220-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1220-4) ; [art. 1222 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1222) ; [art. 1225 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1225) ; [art. 1239 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1239) ; [Arrêté du 1 juin 2006, art. Annexe II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045754350) ; [Décret n°2017-890 du 6 mai 2017, art. 30](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053192130) ; [Décret n°2017-890 du 6 mai 2017, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053192122)
 
 Lorsqu'une personne est dans l'impossibilité de pourvoir seule à ses intérêts en raison d'une altération, médicalement constatée soit de ses facultés mentales, soit de ses facultés corporelles de nature à empêcher l'expression de sa volonté, le juge des tutelles peut habiliter une ou plusieurs personnes choisies parmi ses ascendants ou descendants, frères et sœurs ou, à moins que la communauté de vie ait cessé entre eux, le conjoint, le partenaire auquel elle est liée par un pacte civil de solidarité ou le concubin à la représenter, à l'assister dans les conditions prévues à l'article 467 ou à passer un ou des actes en son nom dans les conditions et selon les modalités prévues à la présente section et à celles du titre XIII du livre III qui ne lui sont pas contraires, afin d'assurer la sauvegarde de ses intérêts.
 
@@ -953,7 +953,7 @@ L'habilitation familiale ne peut être ordonnée par le juge qu'en cas de néces
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311068
 - Renvoie à : [art. 429 du Code civil](chapitre-ii.md#article-429) ; [art. 442 du Code civil](chapitre-ii.md#article-442) ; [art. 494-1 du Code civil](chapitre-ii.md#article-494-1)
-- Cité par : [art. 494-10 du Code civil](chapitre-ii.md#article-494-10) ; [art. 1217 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810503)
+- Cité par : [art. 494-10 du Code civil](chapitre-ii.md#article-494-10) ; [art. 1217 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1217)
 
 La demande aux fins de désignation d'une personne habilitée peut être présentée au juge par la personne qu'il y a lieu de protéger, par l'une des personnes mentionnées à l'article 494-1 ou par le procureur de la République à la demande de l'une d'elles.
 
@@ -966,7 +966,7 @@ La désignation d'une personne habilitée est également possible à l'issue de 
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031325162
 - Renvoie à : [art. 431 du Code civil](chapitre-ii.md#article-431) ; [art. 432 du Code civil](chapitre-ii.md#article-432) ; [art. 494-1 du Code civil](chapitre-ii.md#article-494-1)
-- Cité par : [art. 494-10 du Code civil](chapitre-ii.md#article-494-10) ; [art. 1220-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810473) ; [art. 1220-4 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810460) ; [art. 1225 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810446) ; [art. 1226 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049887241) ; [art. 1245 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810468)
+- Cité par : [art. 494-10 du Code civil](chapitre-ii.md#article-494-10) ; [art. 1220-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1220-2) ; [art. 1220-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1220-4) ; [art. 1225 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1225) ; [art. 1226 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1226) ; [art. 1245 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1245)
 
 La personne à l'égard de qui l'habilitation est demandée est entendue ou appelée selon les modalités prévues au premier alinéa de l'article 432. Toutefois, le juge peut, par décision spécialement motivée et sur avis du médecin mentionné à l'article 431, décider qu'il n'y a pas lieu de procéder à son audition si celle-ci est de nature à porter atteinte à sa santé ou si la personne est hors d'état de s'exprimer.
 
@@ -987,7 +987,7 @@ Si l'habilitation familiale sollicitée ne permet pas d'assurer une protection s
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311052
 - Renvoie à : [art. 431 du Code civil](chapitre-ii.md#article-431) ; [art. 444 du Code civil](chapitre-ii.md#article-444) ; [art. 457-1 du Code civil](chapitre-ii.md#article-457-1) ; [art. 494-1 du Code civil](chapitre-ii.md#article-494-1) ; [art. 494-5 du Code civil](chapitre-ii.md#article-494-5) ; [art. 494-12 du Code civil](chapitre-ii.md#article-494-12)
-- Cité par : [art. 1228 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810414)
+- Cité par : [art. 1228 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1228)
 
 L'habilitation peut porter sur :
 
@@ -1048,7 +1048,7 @@ Pendant ce délai et tant que la mesure d'habilitation est en cours, l'acte cont
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311035
 - Renvoie à : [art. 494-1 du Code civil](chapitre-ii.md#article-494-1) ; [art. 494-3 du Code civil](chapitre-ii.md#article-494-3) ; [art. 494-4 du Code civil](chapitre-ii.md#article-494-4)
-- Cité par : [art. 1213 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810518) ; [art. 1220-4 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810460)
+- Cité par : [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213) ; [art. 1220-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1220-4)
 
 Le juge statue à la demande de tout intéressé ou du procureur de la République sur les difficultés qui pourraient survenir dans la mise en œuvre du dispositif.
 
@@ -1059,7 +1059,7 @@ Saisi à cette fin dans les conditions prévues au premier alinéa de l'article 
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311032
 - Renvoie à : [art. 494-1 du Code civil](chapitre-ii.md#article-494-1)
-- Cité par : [art. 1233 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039391068)
+- Cité par : [art. 1233 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1233)
 
 Outre le décès de la personne à l'égard de qui l'habilitation familiale a été délivrée, celle-ci prend fin :
 

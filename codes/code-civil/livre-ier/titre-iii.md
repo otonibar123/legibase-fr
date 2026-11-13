@@ -7,7 +7,7 @@ Code civil › Livre Ier : Des personnes
 - État : en vigueur depuis le 27/03/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028807383
 - Renvoie à : [art. L264-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797343)
-- Cité par : [Arrêté du 26 septembre 1978, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024601877) ; [art. L228-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036175265) ; [art. L122-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796529) ; [art. L6411-4 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023077862) ; [art. L211-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050367130) ; [Décret du 12 novembre 1938](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020084827)
+- Cité par : [art. L228-1 du Code de commerce](../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-1) ; [Arrêté du 26 septembre 1978, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024601877) ; [art. L122-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796529) ; [art. L6411-4 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023077862) ; [art. L211-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050367130) ; [Décret du 12 novembre 1938](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020084827)
 
 Le domicile de tout Français, quant à l'exercice de ses droits civils, est au lieu où il a son principal établissement.
 
@@ -93,7 +93,7 @@ Les majeurs qui servent ou travaillent habituellement chez autrui, auront le mê
 - Identifiant : LEGIARTI000017853211
 - État : en vigueur depuis le 22/12/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017853211
-- Renvoie à : [art. 48 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410147)
+- Renvoie à : [art. 48 du Code de procédure civile](../../code-de-procedure-civile/livre-ier/titre-iii/chapitre-ii.md#article-48)
 - Cité par : [art. R518-38 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039413145)
 
 Lorsqu'un acte contiendra, de la part des parties ou de l'une d'elles, élection de domicile pour l'exécution de ce même acte dans un autre lieu que celui du domicile réel, les significations, demandes et poursuites relatives à cet acte pourront être faites au domicile convenu, et, sous réserve des dispositions de l'article 48 du code de procédure civile, devant le juge de ce domicile.

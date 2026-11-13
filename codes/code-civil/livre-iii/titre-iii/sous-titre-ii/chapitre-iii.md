@@ -40,7 +40,7 @@ L'évaluation du préjudice tient compte, le cas échéant, des mesures de répa
 - Identifiant : LEGIARTI000033019122
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033019122
-- Cité par : [art. A444-161 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684576)
+- Cité par : [art. A444-161 du Code de commerce](../../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-161)
 
 En cas d'astreinte, celle-ci est liquidée par le juge au profit du demandeur, qui l'affecte à la réparation de l'environnement ou, si le demandeur ne peut prendre les mesures utiles à cette fin, au profit de l'Etat, qui l'affecte à cette même fin.
 

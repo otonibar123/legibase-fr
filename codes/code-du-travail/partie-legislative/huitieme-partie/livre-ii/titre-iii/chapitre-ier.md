@@ -1,0 +1,11 @@
+# Chapitre Ier : Interdiction.
+
+Code du travail › Partie législative › Huitième partie : Contrôle de l'application de la législation du travail › Livre II : Lutte contre le travail illégal › Titre III : Marchandage
+
+### Article L8231-1
+- Identifiant : LEGIARTI000006904839
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904839
+- Cité par : [art. L7232-6 du Code du travail](../../../septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-6) ; [art. L8234-1 du Code du travail](chapitre-iv.md#article-l8234-1) ; [art. L8234-2 du Code du travail](chapitre-iv.md#article-l8234-2) ; [art. L8271-14 du Code du travail](../titre-vii/chapitre-ier.md#article-l8271-14) ; [Arrêté du 12 septembre 2022, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046439206) ; [Arrêté du 12 septembre 2022, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046439208) ; [art. L2141-4 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047293040) ; [art. L2651-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054140669) ; [art. L2661-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054140623) ; [art. L2671-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054140577) ; [art. L2681-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054140539) ; [art. L3123-4 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047292996) ; [art. L3351-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048256128) ; [art. L3361-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054140869) ; … et 7 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+Le marchandage, défini comme toute opération à but lucratif de fourniture de main-d'oeuvre qui a pour effet de causer un préjudice au salarié qu'elle concerne ou d'éluder l'application de dispositions légales ou de stipulations d'une convention ou d'un accord collectif de travail, est interdit.

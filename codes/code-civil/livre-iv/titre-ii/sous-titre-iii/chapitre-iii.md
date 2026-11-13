@@ -141,7 +141,7 @@ L'inscription pourra également être prise dans l'année qui suivra la dissolut
 - Identifiant : LEGIARTI000044072185
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072185
-- Cité par : [art. 1286 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929864)
+- Cité par : [art. 1286 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ier.md#article-1286)
 
 Quand l'hypothèque légale a été inscrite par application de l'article précédent, et sauf clause expresse du contrat de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut consentir, au profit des créanciers de l'autre époux ou de ses propres créanciers, une cession de son rang ou une subrogation dans les droits résultant de son inscription.
 
@@ -221,7 +221,7 @@ Pendant la minorité et la tutelle des majeurs, l'inscription prise en vertu de 
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072146
 - Renvoie à : [art. 2426 du Code civil](chapitre-iii.md#article-2426)
-- Cité par : [art. 2423 du Code civil](chapitre-iii.md#article-2423) ; [art. 2444 du Code civil](chapitre-iii.md#article-2444) ; [art. R444-71 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929982)
+- Cité par : [art. 2423 du Code civil](chapitre-iii.md#article-2423) ; [art. 2444 du Code civil](chapitre-iii.md#article-2444) ; [art. Annexe 4-7 du Code de commerce](../../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. R444-71 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-4.md#article-r444-71)
 
 L'hypothèque légale attachée aux jugements de condamnation résulte des jugements contradictoires ou par défaut, définitifs ou provisoires, en faveur de celui qui les a obtenus.
 
@@ -291,7 +291,7 @@ Pour les autres créances, l'hypothèque est conservée à concurrence du montan
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072223
 - Renvoie à : [art. 2402 du Code civil](chapitre-iii.md#article-2402) ; [art. 2403 du Code civil](chapitre-iii.md#article-2403) ; [art. 2404 du Code civil](chapitre-iii.md#article-2404)
-- Cité par : [art. 2406 du Code civil](chapitre-iii.md#article-2406) ; [art. 1286 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021504253) ; [Loi n° 65-570 du 13 juillet 1965, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073469)
+- Cité par : [art. 2406 du Code civil](chapitre-iii.md#article-2406) ; [art. 1286 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ier.md#article-1286) ; [Loi n° 65-570 du 13 juillet 1965, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073469)
 
 Par dérogation à l'article 2404, l'hypothèque peut également être conservée par la seule inscription du titre de recouvrement, à concurrence de sa valeur.
 
@@ -370,7 +370,7 @@ Celui qui n'a sur l'immeuble qu'un droit conditionnel ne peut consentir qu'une h
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072091
 - Renvoie à : [art. 2426 du Code civil](chapitre-iii.md#article-2426)
-- Cité par : [art. 2444 du Code civil](chapitre-iii.md#article-2444) ; [art. R444-71 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929982) ; [Décret n°64-1333 du 22 décembre 1964, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046791044) ; [Loi du 1er juin 1924, art. 62](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073583)
+- Cité par : [art. 2444 du Code civil](chapitre-iii.md#article-2444) ; [art. R444-71 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-4.md#article-r444-71) ; [Décret n°64-1333 du 22 décembre 1964, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046791044) ; [Loi du 1er juin 1924, art. 62](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073583)
 
 L'hypothèque d'un immeuble indivis conserve son effet quel que soit le résultat du partage si elle a été consentie par tous les indivisaires. Dans le cas contraire, elle ne conserve son effet que dans la mesure où l'indivisaire qui l'a consentie est, lors du partage, alloti du ou de ces immeubles indivis ou, lorsque l'immeuble est licité à un tiers, si cet indivisaire est alloti du prix de la licitation.
 
@@ -597,7 +597,7 @@ La date de l'inscription est déterminée par la mention portée sur le registre
 - Identifiant : LEGIARTI000044071998
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071998
-- Renvoie à : [art. 2374 du Code civil](../sous-titre-ii/chapitre-iv.md#article-2374) ; [art. 2379 du Code civil](chapitre-ii.md#article-2379) ; [art. 2381 du Code civil](chapitre-ii.md#article-2381) ; [art. 2383 du Code civil](chapitre-ii.md#article-2383) ; art. L315-1 du Code de la consommation
+- Renvoie à : [art. 2374 du Code civil](../sous-titre-ii/chapitre-iv.md#article-2374) ; [art. 2379 du Code civil](chapitre-ii.md#article-2379) ; [art. 2381 du Code civil](chapitre-ii.md#article-2381) ; [art. 2383 du Code civil](chapitre-ii.md#article-2383) ; [art. L315-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-1)
 
 Le créancier hypothécaire inscrit pour un capital produisant intérêt et arrérages, a le droit d'être colloqué, pour trois années seulement, au même rang que le principal, sans préjudice des inscriptions particulières à prendre, portant hypothèque à compter de leur date, pour les intérêts et arrérages autres que ceux conservés par l'inscription primitive.
 
@@ -619,7 +619,7 @@ Il est loisible à celui qui a requis une inscription ainsi qu'à ses représent
 - Identifiant : LEGIARTI000044071980
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071980
-- Renvoie à : [art. 2416 du Code civil](chapitre-iii.md#article-2416) ; art. L315-1 du Code de la consommation
+- Renvoie à : [art. 2416 du Code civil](chapitre-iii.md#article-2416) ; [art. L315-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-1)
 - Cité par : [art. 2396 du Code civil](chapitre-iii.md#article-2396) ; [art. 2400 du Code civil](chapitre-iii.md#article-2400) ; [art. 2430 du Code civil](chapitre-iii.md#article-2430) ; [art. 2431 du Code civil](chapitre-iii.md#article-2431) ; [art. 2432 du Code civil](chapitre-iii.md#article-2432)
 
 L'inscription conserve l'hypothèque jusqu'à la date que fixe le créancier en se conformant aux dispositions qui suivent.
@@ -683,7 +683,7 @@ S'il n'y a stipulation contraire, les frais des inscriptions, dont l'avance est 
 - Identifiant : LEGIARTI000044071946
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071946
-- Renvoie à : [art. 2422 du Code civil](chapitre-iii.md#article-2422)
+- Renvoie à : [art. 2422 du Code civil](chapitre-iii.md#article-2422) ; [art. L314-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iv.md#article-l314-1)
 - Cité par : [art. 2407 du Code civil](chapitre-iii.md#article-2407) ; [art. 2435 du Code civil](chapitre-iii.md#article-2435) ; [art. 2436 du Code civil](chapitre-iii.md#article-2436) ; [art. 2437 du Code civil](chapitre-iii.md#article-2437) ; [art. R*322-21 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929670) ; [Décret n°2008-1086 du 23 octobre 2008, art. 97](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019683140) ; [Décret n°2008-1086 du 23 octobre 2008, art. 102](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019683214) ; [Décret n°2009-1193 du 7 octobre 2009, art. 47](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929373) ; [Décret n°55-1350 du 14 octobre 1955, art. 54-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929566) ; [Décret n°55-1350 du 14 octobre 1955, art. 67](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039726134) ; [Décret n°55-22 du 4 janvier 1955, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022336500) ; [Décret n°55-22 du 4 janvier 1955, art. 51](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073494) ; [Loi n°96-609 du 5 juillet 1996, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006302138)
 
 Les actions auxquelles les inscriptions peuvent donner lieu contre les créanciers seront intentées devant le tribunal compétent, par exploits faits à leur personne, ou au dernier des domiciles par eux élus sur les bordereaux d'inscription, et ce, nonobstant le décès, soit des créanciers, soit de ceux chez lesquels ils auront fait élection de domicile.
@@ -761,7 +761,7 @@ Sont réputées excessives les inscriptions qui grèvent plusieurs immeubles lor
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071895
 - Renvoie à : [art. 2394 du Code civil](chapitre-iii.md#article-2394) ; [art. 2422 du Code civil](chapitre-iii.md#article-2422)
-- Cité par : [art. 1286 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929864) ; [art. L313-47 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047216217) ; [art. D124-11 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044896866)
+- Cité par : [art. 1286 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ier.md#article-1286) ; [art. L313-47 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047216217) ; [art. D124-11 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044896866)
 
 Quand l'hypothèque légale a été inscrite par application de l'article 2394, et sauf clause expresse du contrat de mariage l'interdisant, l'époux bénéficiaire de l'inscription peut en donner mainlevée totale ou partielle.
 
@@ -890,7 +890,7 @@ Par dérogation à l'alinéa précédent, un document informatique écrit peut t
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071827
 - Renvoie à : [art. 2448 du Code civil](chapitre-iii.md#article-2448)
-- Cité par : [art. R643-4 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929964) ; [art. R742-43 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808896) ; [Décret n°55-1350 du 14 octobre 1955, art. 38-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036798576) ; [Décret n°55-22 du 4 janvier 1955, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022335612) ; [Décret n°63-1123 du 9 novembre 1963, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006504593) ; [Loi n°93-2 du 4 janvier 1993, art. 158](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022335600) ; [Loi n°96-314 du 12 avril 1996, art. 86](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022335609)
+- Cité par : [art. R643-4 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md#article-r643-4) ; [art. R742-43 du Code de la consommation](../../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-43) ; [Décret n°55-1350 du 14 octobre 1955, art. 38-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036798576) ; [Décret n°55-22 du 4 janvier 1955, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022335612) ; [Décret n°63-1123 du 9 novembre 1963, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006504593) ; [Loi n°93-2 du 4 janvier 1993, art. 158](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022335600) ; [Loi n°96-314 du 12 avril 1996, art. 86](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022335609)
 
 Dans les services chargés de la publicité foncière dont le registre est tenu conformément aux dispositions du deuxième alinéa de l'article 2448, il est délivré un certificat des formalités acceptées au dépôt et en instance d'enregistrement au fichier immobilier sur les immeubles individuellement désignés dans la demande de renseignements. Un décret en Conseil d'Etat précise le contenu de ce certificat.
 
@@ -1062,7 +1062,7 @@ Par l'effet de ce paiement, l'immeuble est purgé du droit de suite attaché à 
 - Identifiant : LEGIARTI000044071744
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071744
-- Cité par : [art. 2472 du Code civil](chapitre-iii.md#article-2472) ; [art. R626-36 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929970) ; [art. 1281-13 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044952752) ; [Loi du 1er juin 1924, art. 142](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073565)
+- Cité par : [art. 2472 du Code civil](chapitre-iii.md#article-2472) ; [art. R626-36 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-vi/titre-ii/chapitre-vi.md#article-r626-36) ; [art. 1281-13 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-ii/chapitre-vi.md#article-1281-13) ; [Loi du 1er juin 1924, art. 142](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073565)
 
 A défaut de l'accord prévu par l'article précédent, le tiers acquéreur peut, une fois la vente publiée, purger l'immeuble du droit de suite attaché à l'hypothèque.  
 
@@ -1074,7 +1074,7 @@ Il doit, soit avant les poursuites, soit dans le mois de la première sommation 
 - Identifiant : LEGIARTI000044071738
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071738
-- Cité par : [art. 2472 du Code civil](chapitre-iii.md#article-2472) ; [art. 1281-14 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929253)
+- Cité par : [art. 2472 du Code civil](chapitre-iii.md#article-2472) ; [art. 1281-14 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-ii/chapitre-vi.md#article-1281-14)
 
 Tout créancier inscrit peut, dans les quarante jours suivant la notification qui lui a été faite, requérir la vente de l'immeuble aux enchères publiques, pourvu qu'il surenchérisse d'un dixième sur le prix stipulé ou sur la valeur déclarée, et qu'il fournisse caution à due concurrence.
 

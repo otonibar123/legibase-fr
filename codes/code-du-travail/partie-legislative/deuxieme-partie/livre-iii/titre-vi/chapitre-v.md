@@ -1,0 +1,12 @@
+# Chapitre V : Dispositions pénales
+
+Code du travail › Partie législative › Deuxième partie : Les relations collectives de travail › Livre III : Les institutions représentatives du personnel › Titre VI : Implication des salariés dans la société coopérative européenne et comité de la société coopérative européenne
+
+### Article L2365-1
+- Identifiant : LEGIARTI000031013554
+- État : en vigueur depuis le 08/08/2015
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031013554
+
+Le fait d'apporter une entrave soit à la constitution d'un groupe spécial de négociation ou d'un comité de la société coopérative européenne mis en place ou non par accord, soit à la libre désignation de leurs membres est puni d'un emprisonnement d'un an et d'une amende de 7 500 €.
+
+Le fait d'apporter une entrave à leur fonctionnement régulier est puni d'une amende de 7 500 €.

@@ -4,65 +4,65 @@ Nombre de renvois (articles en vigueur) d'un texte vers un autre.
 
 | Texte source | Texte cible | Renvois | Cible dans Légibase |
 |---|---|---|---|
+| Code du travail | Code du travail | 14426 | oui |
+| Code de commerce | Code de commerce | 7535 | oui |
+| Code de la consommation | Code de la consommation | 2178 | oui |
 | Code civil | Code civil | 1159 | oui |
-| Code de procédure civile | Code civil | 280 | oui |
+| Code de procédure civile | Code de procédure civile | 701 | oui |
+| Code de la sécurité sociale | Code du travail | 624 | oui |
+| Code monétaire et financier | Code de commerce | 609 | oui |
+| Code des transports | Code du travail | 596 | oui |
+| Code du travail | Code de la sécurité sociale | 378 | pas encore traité |
+| Code rural et de la pêche maritime | Code du travail | 347 | oui |
+| Code de procédure civile | Code civil | 315 | oui |
+| Code du travail | Code de commerce | 241 | oui |
+| Code général des collectivités territoriales | Code du travail | 221 | oui |
+| Code de l'action sociale et des familles | Code du travail | 207 | oui |
+| Ordonnance n°2004-604 du 24 juin 2004 | Code de commerce | 207 | oui |
+| Code de l'éducation | Code du travail | 204 | oui |
+| Code de commerce | Code du travail | 203 | oui |
+| Code de commerce | Code civil | 194 | oui |
+| Code de commerce | Code monétaire et financier | 177 | pas encore traité |
 | Code de l'action sociale et des familles | Code civil | 169 | oui |
 | Code de la construction et de l'habitation | Code civil | 160 | oui |
-| Code de commerce | Code civil | 145 | oui |
+| Code de commerce | Code des procédures civiles d'exécution | 152 | pas encore traité |
+| Code du travail | Code pénal | 146 | pas encore traité |
+| Code monétaire et financier | Code du travail | 139 | oui |
+| Code du travail | Code de l'action sociale et des familles | 131 | pas encore traité |
+| Code de la commande publique | Code du travail | 128 | oui |
+| Code de la santé publique | Code du travail | 128 | oui |
+| Code du travail | Code rural et de la pêche maritime | 124 | pas encore traité |
+| Code des transports | Code de commerce | 120 | oui |
+| Code rural | Code du travail | 111 | oui |
+| Code rural et de la pêche maritime | Code de commerce | 105 | oui |
+| Code de la consommation | Code pénal | 103 | pas encore traité |
 | Code général des impôts | Code civil | 101 | oui |
+| Code des assurances | Code de commerce | 99 | oui |
+| Code de la sécurité sociale | Code de commerce | 96 | oui |
+| Code de la construction et de l'habitation | Code de commerce | 94 | oui |
+| Code du travail | Code de la santé publique | 93 | pas encore traité |
+| Code général des impôts | Code du travail | 91 | oui |
 | Décret n°93-1362 du 30 décembre 1993 | Code civil | 87 | oui |
 | Code monétaire et financier | Code civil | 87 | oui |
+| Décret n°2019-797 du 26 juillet 2019 | Code du travail | 84 | oui |
 | Code de la santé publique | Code civil | 82 | oui |
-| Code de la consommation | Code civil | 73 | oui |
+| Code de la consommation | Code civil | 80 | oui |
+| Arrêté du 12 novembre 2004 | Code de commerce | 80 | oui |
+| Code monétaire et financier | Code de la consommation | 77 | oui |
+| Code de commerce | Code de procédure civile | 75 | oui |
+| Code général de la fonction publique | Code du travail | 72 | oui |
+| Code pénitentiaire | Code du travail | 69 | oui |
+| Code de commerce | Code de la consommation | 69 | oui |
+| Code de la sécurité intérieure | Code du travail | 68 | oui |
+| Code de commerce | Code pénal | 68 | pas encore traité |
+| Code général des impôts | Code de commerce | 67 | oui |
+| Code du travail | Code monétaire et financier | 66 | pas encore traité |
 | Code des assurances | Code civil | 63 | oui |
 | Code rural | Code civil | 61 | oui |
-| Code de la sécurité sociale | Code civil | 55 | oui |
-| Code rural et de la pêche maritime | Code civil | 52 | oui |
-| Décret n°55-1350 du 14 octobre 1955 | Code civil | 47 | oui |
-| Code de procédure pénale | Code civil | 40 | oui |
-| Décret n°2008-1086 du 23 octobre 2008 | Code civil | 38 | oui |
-| Décret n°2008-1484 du 22 décembre 2008 | Code civil | 32 | oui |
-| Code des procédures civiles d'exécution | Code civil | 31 | oui |
-| Code du travail | Code civil | 29 | oui |
-| Décret n°55-22 du 4 janvier 1955 | Code civil | 29 | oui |
-| Arrêté du 5 mai 2021 | Code civil | 28 | oui |
-| Code général de la propriété des personnes publ... | Code civil | 27 | oui |
-| Décret n°2023-64 du 3 février 2023 | Code civil | 26 | oui |
-| Code de l'organisation judiciaire | Code civil | 23 | oui |
-| Code de la propriété intellectuelle | Code civil | 23 | oui |
-| Arrêté du 9 février 1988 | Code civil | 22 | oui |
-| Code pénal | Code civil | 19 | oui |
-| Code civil | Code de l'action sociale et des familles | 19 | pas encore traité |
-| Décret n°2020-1717 du 28 décembre 2020 | Code civil | 19 | oui |
-| Code des pensions militaires d'invalidité et de... | Code civil | 18 | oui |
-| Décret n°2009-1193 du 7 octobre 2009 | Code civil | 18 | oui |
-| Code de l'environnement | Code civil | 17 | oui |
-| Code de la défense | Code civil | 17 | oui |
-| Loi n°1924-06-01 du 1 juin 1924 | Code civil | 17 | oui |
-| Décret n°78-704 du 3 juillet 1978 | Code civil | 17 | oui |
-| Code des transports | Code civil | 16 | oui |
-| Code des postes et des communications électroni... | Code civil | 16 | oui |
-| Code civil | Code du travail | 16 | pas encore traité |
-| Décret n°2023-65 du 3 février 2023 | Code civil | 15 | oui |
-| Ordonnance n° 2002-1476 du 19 décembre 2002 | Code civil | 15 | oui |
-| Code de l'urbanisme | Code civil | 15 | oui |
-| Code de la commande publique | Code civil | 15 | oui |
-| Code pénitentiaire | Code civil | 14 | oui |
-| Code général des collectivités territoriales | Code civil | 14 | oui |
-| Loi n°65-570 du 13 juillet 1965 | Code civil | 14 | oui |
-| Arrêté du 23 décembre 2009 | Code civil | 14 | oui |
-| Code du tourisme | Code civil | 14 | oui |
-| Décret n°2017-890 du 6 mai 2017 | Code civil | 13 | oui |
-| Décret n°2006-1806 du 23 décembre 2006 | Code civil | 13 | oui |
-| Décret n°65-422 du 1 juin 1965 | Code civil | 13 | oui |
-| Nouveau code de procédure civile | Code civil | 13 | oui |
-| Code de la sécurité intérieure | Code civil | 13 | oui |
-| Code de l'éducation | Code civil | 12 | oui |
-| Décret n°2007-773 du 10 mai 2007 | Code civil | 12 | oui |
-| Décret n°2008-521 du 2 juin 2008 | Code civil | 12 | oui |
-| Décret n°67-223 du 17 mars 1967 | Code civil | 12 | oui |
-| Loi du 1er juin 1924 | Code civil | 12 | oui |
-| Code des relations entre le public et l'adminis... | Code civil | 11 | oui |
-| Décret n°2004-1159 du 29 octobre 2004 | Code civil | 11 | oui |
+| Code de l'urbanisme | Code de commerce | 61 | oui |
+| Code du sport | Code du travail | 60 | oui |
+| Code de commerce | Code rural et de la pêche maritime | 60 | pas encore traité |
+| Code du travail | Code de procédure civile | 59 | oui |
+| Arrêté du 22 octobre 2009 | Code du travail | 57 | oui |
 
-Total : 4875 renvois entre 805 couples de textes (les 60 plus fréquents sont affichés).
+Total : 49597 renvois entre 4677 couples de textes (les 60 plus fréquents sont affichés).

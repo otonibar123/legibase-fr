@@ -116,7 +116,7 @@ La partie au bénéfice exclusif de qui le terme a été fixé peut y renoncer s
 - Identifiant : LEGIARTI000032030683
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032030683
-- Cité par : [art. L315-13 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034072692)
+- Cité par : [art. L315-13 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-13)
 
 Le débiteur ne peut réclamer le bénéfice du terme s'il ne fournit pas les sûretés promises au créancier ou s'il diminue celles qui garantissent l'obligation.
 

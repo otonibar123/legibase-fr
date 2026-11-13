@@ -290,7 +290,7 @@ Le conjoint successible est appelé à la succession, soit seul, soit en concour
 - Identifiant : LEGIARTI000006431087
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431087
-- Cité par : [art. 758-5 du Code civil](chapitre-iii.md#article-758-5) ; [art. 758-6 du Code civil](chapitre-iii.md#article-758-6) ; [art. 1341 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412498) ; [art. 968 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036385009)
+- Cité par : [art. 758-5 du Code civil](chapitre-iii.md#article-758-5) ; [art. 758-6 du Code civil](chapitre-iii.md#article-758-6) ; [art. 1341 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1341) ; [art. 968 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036385009)
 
 Si l'époux prédécédé laisse des enfants ou descendants, le conjoint survivant recueille, à son choix, l'usufruit de la totalité des biens existants ou la propriété du quart des biens lorsque tous les enfants sont issus des deux époux et la propriété du quart en présence d'un ou plusieurs enfants qui ne sont pas issus des deux époux.
 
@@ -353,7 +353,7 @@ L'option du conjoint entre l'usufruit et la propriété se prouve par tout moyen
 - Identifiant : LEGIARTI000006431260
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431260
-- Cité par : [art. 1341 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412498)
+- Cité par : [art. 1341 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1341)
 
 Tout héritier peut inviter par écrit le conjoint à exercer son option. Faute d'avoir pris parti par écrit dans les trois mois, le conjoint est réputé avoir opté pour l'usufruit.
 

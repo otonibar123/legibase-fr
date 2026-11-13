@@ -46,7 +46,7 @@ Lorsque l'un des époux se trouve placé sous l'un des régimes de protection pr
 - Identifiant : LEGIARTI000006423350
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423350
-- Cité par : [art. 1099 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411938)
+- Cité par : [art. 1099 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1099)
 
 La demande en divorce est présentée par les avocats respectifs des parties ou par un avocat choisi d'un commun accord.  
 
@@ -65,7 +65,7 @@ Lorsque les conditions prévues à l'article 232 sont réunies, le juge homologu
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423370
 - Renvoie à : [art. 254 du Code civil](chapitre-ii.md#article-254) ; [art. 255 du Code civil](chapitre-ii.md#article-255)
-- Cité par : [art. 250-3 du Code civil](chapitre-ii.md#article-250-3) ; [art. 313 du Code civil](../titre-vii/chapitre-ii.md#article-313) ; [art. 1100 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411940)
+- Cité par : [art. 250-3 du Code civil](chapitre-ii.md#article-250-3) ; [art. 313 du Code civil](../titre-vii/chapitre-ii.md#article-313) ; [art. 1100 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1100)
 
 En cas de refus d'homologation de la convention, le juge peut cependant homologuer les mesures provisoires au sens des articles 254 et 255 que les parties s'accordent à prendre jusqu'à la date à laquelle le jugement de divorce passe en force de chose jugée, sous réserve qu'elles soient conformes à l'intérêt du ou des enfants.  
 
@@ -97,7 +97,7 @@ L'époux qui introduit l'instance en divorce peut indiquer les motifs de sa dema
 - Identifiant : LEGIARTI000038310935
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310935
-- Cité par : [art. 254 du Code civil](chapitre-ii.md#article-254) ; [art. 1108 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044200274) ; [art. 1115 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039644554)
+- Cité par : [art. 254 du Code civil](chapitre-ii.md#article-254) ; [art. 1108 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1108) ; [art. 1115 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1115)
 
 La demande introductive d'instance comporte le rappel des dispositions relatives à :  
 
@@ -125,7 +125,7 @@ Lorsqu'il rejette définitivement la demande en divorce, le juge peut statuer su
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310879
 - Renvoie à : [art. 252 du Code civil](chapitre-ii.md#article-252)
-- Cité par : [art. 249-3 du Code civil](chapitre-ii.md#article-249-3) ; [art. 250-2 du Code civil](chapitre-ii.md#article-250-2) ; [art. 1117 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597206)
+- Cité par : [art. 249-3 du Code civil](chapitre-ii.md#article-249-3) ; [art. 250-2 du Code civil](chapitre-ii.md#article-250-2) ; [art. 1117 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1117)
 
 Le juge tient, dès le début de la procédure, sauf si les parties ou la partie seule constituée y renoncent, une audience à l'issue de laquelle il prend les mesures nécessaires pour assurer l'existence des époux et des enfants de l'introduction de la demande en divorce à la date à laquelle le jugement passe en force de chose jugée, en considération des accords éventuels des époux.
 
@@ -135,7 +135,7 @@ Le juge tient, dès le début de la procédure, sauf si les parties ou la partie
 - Identifiant : LEGIARTI000042193461
 - État : en vigueur depuis le 01/08/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193461
-- Cité par : [art. 249-3 du Code civil](chapitre-ii.md#article-249-3) ; [art. 250-2 du Code civil](chapitre-ii.md#article-250-2) ; [art. 259-3 du Code civil](chapitre-ii.md#article-259-3) ; [art. 267 du Code civil](chapitre-iii.md#article-267) ; [Arrêté du 19 mars 2012, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049697213) ; [art. A444-83 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684337) ; [art. R444-60 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032130810) ; [art. L262-10 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047453055) ; [art. L262-35 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797259) ; [art. 1071 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928863) ; [art. 1074-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597224) ; [art. 1108 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044200274) ; [art. 1120 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021504231) ; [art. 1121 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021504223) ; … et 3 autres textes (liste complète dans [renvois.md](../../renvois.md))
+- Cité par : [art. 249-3 du Code civil](chapitre-ii.md#article-249-3) ; [art. 250-2 du Code civil](chapitre-ii.md#article-250-2) ; [art. 259-3 du Code civil](chapitre-ii.md#article-259-3) ; [art. 267 du Code civil](chapitre-iii.md#article-267) ; [art. A444-83 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-83) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. R444-60 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-3.md#article-r444-60) ; [art. 1071 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1071) ; [art. 1074-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1074-1) ; [art. 1108 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1108) ; [art. 1120 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1120) ; [art. 1121 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1121) ; [art. 1136-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1136-2) ; [Arrêté du 19 mars 2012, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049697213) ; [art. L262-10 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047453055) ; [art. L262-35 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797259) ; [Décret n°2020-1717 du 28 décembre 2020, art. 96](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047680988) ; [Nouveau code de procédure civile, art. 1136-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412060)
 
 Le juge peut notamment :
 

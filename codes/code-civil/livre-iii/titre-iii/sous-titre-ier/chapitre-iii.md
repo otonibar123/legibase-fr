@@ -6,7 +6,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000032041270
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041270
-- Cité par : [art. L212-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890812) ; [art. L315-13 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225745)
+- Cité par : [art. L212-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md#article-l212-1) ; [art. L315-13 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-13)
 
 Le contrat s'interprète d'après la commune intention des parties plutôt qu'en s'arrêtant au sens littéral de ses termes.
 
@@ -16,7 +16,7 @@ Lorsque cette intention ne peut être décelée, le contrat s'interprète selon 
 - Identifiant : LEGIARTI000032041265
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041265
-- Cité par : [art. L212-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890812)
+- Cité par : [art. L212-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md#article-l212-1)
 
 Toutes les clauses d'un contrat s'interprètent les unes par rapport aux autres, en donnant à chacune le sens qui respecte la cohérence de l'acte tout entier.
 
@@ -33,7 +33,7 @@ Dans le doute, le contrat de gré à gré s'interprète contre le créancier et 
 - Identifiant : LEGIARTI000032041255
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041255
-- Cité par : [art. L212-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890812)
+- Cité par : [art. L212-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md#article-l212-1)
 
 Lorsqu'une clause est susceptible de deux sens, celui qui lui confère un effet l'emporte sur celui qui ne lui en fait produire aucun.
 
@@ -41,6 +41,6 @@ Lorsqu'une clause est susceptible de deux sens, celui qui lui confère un effet 
 - Identifiant : LEGIARTI000032041250
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041250
-- Cité par : [art. L212-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890812)
+- Cité par : [art. L212-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md#article-l212-1)
 
 On ne peut interpréter les clauses claires et précises à peine de dénaturation.

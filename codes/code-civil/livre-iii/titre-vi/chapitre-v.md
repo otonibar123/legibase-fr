@@ -42,7 +42,7 @@ Si l'acheteur est troublé ou a juste sujet de craindre d'être troublé par une
 - Identifiant : LEGIARTI000006442097
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442097
-- Cité par : [art. 2379 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/chapitre-ii.md#article-2379) ; [art. 2403 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md#article-2403) ; [art. L141-6 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031010599) ; [art. D17-1 du Code du domaine de l'Etat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044896990) ; [art. D3211-29 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045787469) ; [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042913)
+- Cité par : [art. 2379 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/chapitre-ii.md#article-2379) ; [art. 2403 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md#article-2403) ; [art. L141-6 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l141-6) ; [art. D17-1 du Code du domaine de l'Etat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044896990) ; [art. D3211-29 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045787469) ; [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042913)
 
 Si l'acheteur ne paye pas le prix, le vendeur peut demander la résolution de la vente.
 

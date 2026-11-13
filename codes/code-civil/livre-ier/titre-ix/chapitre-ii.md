@@ -33,7 +33,7 @@ La liste des actes qui sont regardés comme des actes d'administration est défi
 - Identifiant : LEGIARTI000031345307
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345307
-- Cité par : [art. 388-2 du Code civil](../titre-x/chapitre-ier.md#article-388-2) ; [art. 1210-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048149901)
+- Cité par : [art. 388-2 du Code civil](../titre-x/chapitre-ier.md#article-388-2) ; [art. 1210-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ix.md#article-1210-1)
 
 Lorsque les intérêts de l'administrateur légal unique ou, selon le cas, des deux administrateurs légaux sont en opposition avec ceux du mineur, ces derniers demandent la nomination d'un administrateur ad hoc par le juge des tutelles. A défaut de diligence des administrateurs légaux, le juge peut procéder à cette nomination à la demande du ministère public, du mineur lui-même ou d'office.
 
@@ -156,7 +156,7 @@ La jouissance légale ne s'étend pas aux biens :
 - Identifiant : LEGIARTI000031345293
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345293
-- Cité par : [art. 1180-14 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105179)
+- Cité par : [art. 1180-14 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ix.md#article-1180-14)
 
 En cas de désaccord entre les administrateurs légaux, le juge des tutelles est saisi aux fins d'autorisation de l'acte.
 
@@ -219,7 +219,7 @@ L'administrateur légal ne peut, même avec une autorisation :
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322956
 - Renvoie à : [art. 387-1 du Code civil](chapitre-ii.md#article-387-1)
-- Cité par : [art. 387-4 du Code civil](chapitre-ii.md#article-387-4) ; [art. 1397 du Code civil](../../livre-iii/titre-v/chapitre-ier.md#article-1397) ; [art. 1180-7 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039387608)
+- Cité par : [art. 387-4 du Code civil](chapitre-ii.md#article-387-4) ; [art. 1397 du Code civil](../../livre-iii/titre-v/chapitre-ier.md#article-1397) ; [art. 1180-7 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ix.md#article-1180-7)
 
 A l'occasion du contrôle des actes mentionnés à l'article 387-1, le juge peut, s'il l'estime indispensable à la sauvegarde des intérêts du mineur, en considération de la composition ou de la valeur du patrimoine, de l'âge du mineur ou de sa situation familiale, décider qu'un acte ou une série d'actes de disposition seront soumis à son autorisation préalable.
 
@@ -236,7 +236,7 @@ Les tiers qui ont informé le juge de la situation ne sont pas garants de la ges
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322960
 - Renvoie à : [art. 387-1 du Code civil](chapitre-ii.md#article-387-1) ; [art. 387-3 du Code civil](chapitre-ii.md#article-387-3)
-- Cité par : [art. 1180-12 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105174)
+- Cité par : [art. 1180-12 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ix.md#article-1180-12)
 
 A l'occasion du contrôle qu'il exerce en application des articles 387-1 et 387-3, le juge peut demander à l'administrateur légal qu'un inventaire du patrimoine du mineur lui soit transmis ainsi que, chaque année, un inventaire actualisé.
 
@@ -250,7 +250,7 @@ Une copie de l'inventaire est remise au mineur âgé de seize ans révolus.
 - Identifiant : LEGIARTI000039368118
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039368118
-- Cité par : [art. 413-5 du Code civil](../titre-x/chapitre-iii.md#article-413-5) ; [art. 1180-12 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105174)
+- Cité par : [art. 413-5 du Code civil](../titre-x/chapitre-iii.md#article-413-5) ; [art. 1180-12 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ix.md#article-1180-12)
 
 A l'occasion du contrôle mentionné à l'article précédent, le juge peut demander à l'administrateur légal de soumettre au directeur des services de greffe judiciaires du tribunal judiciaire un compte de gestion annuel, accompagné des pièces justificatives, en vue de sa vérification.
 
@@ -272,7 +272,7 @@ L'action en reddition de comptes, en revendication ou en paiement se prescrit pa
 - Identifiant : LEGIARTI000031322982
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322982
-- Cité par : [art. 1180-19 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747697)
+- Cité par : [art. 1180-19 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ix.md#article-1180-19)
 
 L'administrateur légal est tenu de déférer aux convocations du juge des tutelles et du procureur de la République et de leur communiquer toute information qu'ils requièrent.
 

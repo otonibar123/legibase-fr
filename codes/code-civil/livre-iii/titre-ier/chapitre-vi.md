@@ -31,7 +31,7 @@ Le mandataire exerce ses pouvoirs alors même qu'il existe un mineur ou un majeu
 - Identifiant : LEGIARTI000006432155
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432155
-- Cité par : [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379)
 
 Le mandat n'est valable que s'il est justifié par un intérêt sérieux et légitime au regard de la personne de l'héritier ou du patrimoine successoral, précisément motivé.  
 
@@ -145,7 +145,7 @@ Si le mandat prend fin par suite du décès du mandataire, cette obligation inco
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431835
 - Renvoie à : [art. 813-1 du Code civil](chapitre-vi.md#article-813-1) ; [art. 1984 du Code civil](../titre-xiii/chapitre-ier.md#article-1984)
-- Cité par : [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953) ; [Décret n°1901-08-16 du 16 août 1901, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006322305)
+- Cité par : [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696) ; [Décret n°1901-08-16 du 16 août 1901, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006322305)
 
 Les héritiers peuvent, d'un commun accord, confier l'administration de la succession à l'un d'eux ou à un tiers. Le mandat est régi par les articles 1984 à 2010.  
 
@@ -175,7 +175,7 @@ Le mandataire successoral ne peut agir que dans la mesure compatible avec les po
 - Identifiant : LEGIARTI000006432266
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432266
-- Cité par : [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. 1355 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383092)
+- Cité par : [art. 1355 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1355) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455)
 
 La décision de nomination est enregistrée et publiée.
 
@@ -184,7 +184,7 @@ La décision de nomination est enregistrée et publiée.
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432274
 - Renvoie à : [art. 784 du Code civil](chapitre-iv.md#article-784) ; [art. 789 du Code civil](chapitre-iv.md#article-789)
-- Cité par : [art. 813-6 du Code civil](chapitre-vi.md#article-813-6) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 813-6 du Code civil](chapitre-vi.md#article-813-6) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379)
 
 Tant qu'aucun héritier n'a accepté la succession, le mandataire successoral ne peut accomplir que les actes mentionnés à l'article 784, à l'exception de ceux prévus à son deuxième alinéa. Le juge peut également autoriser tout autre acte que requiert l'intérêt de la succession. Il peut autoriser le mandataire successoral à dresser un inventaire dans les formes prescrites à l'article 789, ou le demander d'office.
 
@@ -247,6 +247,6 @@ Il peut également l'autoriser, à tout moment, à réaliser des actes de dispos
 - Identifiant : LEGIARTI000006432324
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432324
-- Cité par : [art. 813-9 du Code civil](chapitre-vi.md#article-813-9) ; [art. 814 du Code civil](chapitre-vi.md#article-814) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 813-9 du Code civil](chapitre-vi.md#article-813-9) ; [art. 814 du Code civil](chapitre-vi.md#article-814) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379)
 
 En toute circonstance, l'héritier acceptant à concurrence de l'actif net peut demander au juge de désigner toute personne qualifiée en qualité de mandataire successoral à l'effet de le substituer dans la charge d'administrer et de liquider la succession.

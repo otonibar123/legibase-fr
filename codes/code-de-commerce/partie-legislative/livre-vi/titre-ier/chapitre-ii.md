@@ -1,0 +1,95 @@
+# Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique
+
+Code de commerce › Partie législative › LIVRE VI : Des difficultés des entreprises. › TITRE Ier : De la prévention des difficultés des entreprises.
+
+### Article L612-1
+- Identifiant : LEGIARTI000048539508
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048539508
+- Renvoie à : [art. L242-8 du Code de commerce](../../livre-ii/titre-iv/chapitre-ii.md#article-l242-8) ; [art. L527-1-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048539738)
+- Cité par : [art. L612-3 du Code de commerce](chapitre-ii.md#article-l612-3) ; [art. L822-14 du Code de commerce](../../livre-viii/titre-ii/chapitre-ii.md#article-l822-14) ; [art. L936-3 du Code de commerce](../../livre-ix/titre-iii/chapitre-vi.md#article-l936-3) ; [art. L936-4 du Code de commerce](../../livre-ix/titre-iii/chapitre-vi.md#article-l936-4) ; [art. L946-3 du Code de commerce](../../livre-ix/titre-iv/chapitre-vi.md#article-l946-3) ; [art. L946-4 du Code de commerce](../../livre-ix/titre-iv/chapitre-vi.md#article-l946-4) ; [art. R612-1 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-r612-1) ; [art. L6352-8 du Code du travail](../../../../code-du-travail/partie-legislative/sixieme-partie/livre-iii/titre-v/chapitre-ii.md#article-l6352-8) ; [Arrêté du 11 mai 2007, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019637304) ; [Arrêté du 23 novembre 1987, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006393253) ; [Arrêté du 6 juillet 2010](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022448472) ; [art. L233-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051560819) ; [art. L313-18-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033281066) ; [art. R144-9 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048909767) ; [art. L213-15 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020148329) ; [art. L452-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278737) ; [Décret n°2005-212 du 2 mars 2005, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028252660) ; [Décret n°2026-512 du 15 juin 2026, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054258741)
+
+Les personnes morales de droit privé non commerçantes ayant une activité économique dont le nombre de salariés, le montant hors taxes du chiffre d'affaires ou les ressources et le total du bilan dépassent, pour deux de ces critères, des seuils fixés par décret en Conseil d'Etat, doivent établir chaque année un bilan, un compte de résultat et une annexe. Les modalités d'établissement de ces documents sont précisées par décret.
+
+Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes et, lorsque les conditions définies au troisième alinéa du I de l'article L. 821-40 sont réunies, un suppléant.
+
+Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale et dont les titres financiers ne sont pas admis aux négociations sur un marché réglementé, cette obligation peut être satisfaite, dans les conditions définies à l'article L. 527-1-1 du code rural et de la pêche maritime, par le recours au service d'une fédération agréée pour la révision mentionnée à l'article L. 527-1 du même code.
+
+Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des personnes morales mentionnées au premier alinéa du présent article qui n'auront pas, chaque année, établi un bilan, un compte de résultat et une annexe.
+
+Même si les seuils visés au premier alinéa ne sont pas atteints, les personnes morales de droit privé non commerçantes ayant une activité économique peuvent nommer un commissaire aux comptes et un suppléant dans les mêmes conditions que celles prévues au deuxième alinéa. Dans ce cas, le commissaire aux comptes et son suppléant sont soumis aux mêmes obligations, encourent les mêmes responsabilités civile et pénale et exercent les mêmes pouvoirs que s'ils avaient été désignés en application du premier alinéa.
+
+> Nota : Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L612-2
+- Identifiant : LEGIARTI000044052559
+- État : en vigueur depuis le 01/10/2021
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052559
+- Cité par : [art. L946-5 du Code de commerce](../../livre-ix/titre-iv/chapitre-vi.md#article-l946-5) ; [art. R612-3 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-r612-3) ; [art. L313-8 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006824854) ; [art. L313-18-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033281066) ; [art. L213-15 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647972) ; [art. L213-19 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020148323) ; [art. R524-19 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006592944) ; [Décret n°2026-512 du 15 juin 2026, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054258741)
+
+Les personnes morales de droit privé non commerçantes ayant une activité économique dont, soit le nombre de salariés, soit le montant hors taxes du chiffre d'affaires ou les ressources dépassent un seuil défini par décret en Conseil d'Etat, sont tenues d'établir une situation de l'actif réalisable et disponible, valeurs d'exploitation exclues, et du passif exigible, un compte de résultat prévisionnel, un tableau de financement et un plan de financement.
+
+La périodicité, les délais et les modalités d'établissement de ces documents sont précisés par décret.
+
+Ces documents sont analysés dans des rapports écrits sur l'évolution de la personne morale, établis par l'organe chargé de l'administration. Ces documents et rapports sont communiqués simultanément au commissaire aux comptes, au comité social et économique et à l'organe chargé de la surveillance, lorsqu'il en existe.
+
+En cas de non-observation des dispositions prévues aux alinéas précédents ou si les informations données dans les rapports visés à l'alinéa précédent appellent des observations de sa part, le commissaire aux comptes le signale dans un rapport écrit qu'il communique à l'organe chargé de l'administration ou de la direction. Ce rapport est communiqué au comité social et économique. Il est donné connaissance de ce rapport à la prochaine réunion de l'organe délibérant.
+
+> Nota : Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.
+
+### Article L612-3
+- Identifiant : LEGIARTI000044052557
+- État : en vigueur depuis le 01/10/2021
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052557
+- Renvoie à : [art. L611-6 du Code de commerce](chapitre-ier.md#article-l611-6) ; [art. L612-1 du Code de commerce](chapitre-ii.md#article-l612-1) ; [art. L612-4 du Code de commerce](chapitre-ii.md#article-l612-4) ; [art. L620-1 du Code de commerce](../titre-ii/articles-directs.md#article-l620-1)
+- Cité par : [art. R612-4 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-r612-4) ; [art. L313-14-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037670396) ; [art. L421-9-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833789) ; [art. L421-11-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038846596) ; [art. L421-15 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833804) ; [art. L421-17 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833807) ; [art. L313-8 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006824854) ; [art. L313-18-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033281066) ; [art. L114-40 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027892252) ; [art. L6162-12 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020886400) ; [art. L213-15 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647972) ; … et 2 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+
+Lorsque le commissaire aux comptes d'une personne morale visée aux articles L. 612-1 et L. 612-4 relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation de cette personne morale, il en informe les dirigeants de la personne morale dans des conditions fixées par décret en Conseil d'Etat.
+
+A défaut de réponse dans un délai fixé par décret en Conseil d'Etat, ou si celle-ci ne permet pas d'être assuré de la continuité de l'exploitation, le commissaire aux comptes invite, par un écrit dont la copie est transmise au président du tribunal judiciaire, les dirigeants à faire délibérer l'organe collégial de la personne morale sur les faits relevés. Le commissaire aux comptes est convoqué à cette séance. La délibération de l'organe collégial est communiquée au comité social et économique et au président du tribunal judiciaire.
+
+Lorsque l'organe collégial de la personne morale n'a pas été réuni pour délibérer sur les faits relevés ou lorsque le commissaire aux comptes n'a pas été convoqué à cette séance ou si le commissaire aux comptes constate qu'en dépit des décisions prises la continuité de l'exploitation demeure compromise, une assemblée générale est convoquée dans des conditions et délais fixés par décret en Conseil d'Etat. Le commissaire aux comptes établit un rapport spécial qui est présenté à cette assemblée. Ce rapport est communiqué au comité social et économique.
+
+Si, à l'issue de la réunion de l'assemblée générale, le commissaire aux comptes constate que les décisions prises ne permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal et lui en communique les résultats.
+
+Dans un délai de six mois à compter du déclenchement de la procédure, le commissaire aux comptes peut en reprendre le cours au point où il avait estimé pouvoir y mettre un terme lorsque, en dépit des éléments ayant motivé son appréciation, la continuité de l'exploitation demeure compromise et que l'urgence commande l'adoption de mesures immédiates.
+
+Les dispositions du présent article ne sont pas applicables lorsqu'une procédure de conciliation ou de sauvegarde a été engagée par le débiteur en application des articles L. 611-6 et L. 620-1.
+
+> Nota : Conformément au I de l'article 73 de l'ordonnance n° 2021-1193 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er octobre 2021. Elles ne sont pas applicables aux procédures en cours au jour de l'entrée en vigueur de ladite ordonnance.
+
+### Article L612-4
+- Identifiant : LEGIARTI000048539499
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048539499
+- Renvoie à : [art. L242-8 du Code de commerce](../../livre-ii/titre-iv/chapitre-ii.md#article-l242-8)
+- Cité par : [art. D612-5 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-d612-5) ; [art. L612-3 du Code de commerce](chapitre-ii.md#article-l612-3) ; [art. L612-5 du Code de commerce](chapitre-ii.md#article-l612-5) ; [art. L822-14 du Code de commerce](../../livre-viii/titre-ii/chapitre-ii.md#article-l822-14) ; [art. R6332-23 du Code du travail](../../../../code-du-travail/partie-reglementaire/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r6332-23) ; [Arrêté du 24 juin 2004, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006232085) ; [Arrêté du 27 juin 2023, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047746726) ; [Arrêté du 9 novembre 2017, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042706828) ; [art. R314-17 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022822421) ; [art. R125-75 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050812284) ; [art. L313-18-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033281066) ; [art. R313-24 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029991983) ; [Décret n°2009-158 du 11 février 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045807029) ; [Décret n°2009-540 du 14 mai 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021713547) ; [Décret n°2020-537 du 7 mai 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053275401) ; … et 4 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+
+Toute association ayant reçu annuellement des autorités administratives, au sens de l'article 1er de la loi du 12 avril 2000, ou des établissements publics à caractère industriel et commercial une ou plusieurs subventions en numéraire dont le montant global dépasse un seuil fixé par décret, doit établir des comptes annuels comprenant un bilan, un compte de résultat et une annexe dont les modalités d'établissement sont fixées par décret. Ces associations doivent assurer, dans des conditions déterminées par décret en Conseil d'Etat, la publicité de leurs comptes annuels et du rapport du commissaire aux comptes.
+
+Ces mêmes associations sont tenues de nommer au moins un commissaire aux comptes et, lorsque les conditions définies au troisième alinéa du I de l'article L. 821-40 sont réunies, un suppléant.
+
+Les peines prévues à l'article L. 242-8 sont applicables aux dirigeants des associations mentionnées au premier alinéa du présent article qui n'ont pas, chaque année, établi un bilan, un compte de résultat et une annexe ou assuré la publicité de leurs comptes annuels et du rapport du commissaire aux comptes.
+
+A la demande de tout intéressé ou du représentant de l'Etat dans le département du siège de l'association, le président du tribunal, statuant en référé, peut enjoindre sous astreinte aux dirigeants de toute association mentionnée au premier alinéa d'assurer la publicité des comptes annuels et du rapport du commissaire aux comptes. Le président peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités.
+
+> Nota : Conformément à l’article 32 de l’ordonnance n° 2023-1142, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L612-5
+- Identifiant : LEGIARTI000019981373
+- État : en vigueur depuis le 15/02/2009
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019981373
+- Renvoie à : [art. L612-4 du Code de commerce](chapitre-ii.md#article-l612-4)
+- Cité par : [art. R612-6 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-r612-6) ; [art. R612-7 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-r612-7) ; [Arrêté du 10 novembre 2003, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030101382) ; [Arrêté du 12 février 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051172925) ; [art. L313-25 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054621037) ; [art. R314-59 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020063097) ; [art. L313-18-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033281066) ; [art. D511-2-1-5 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052061427) ; [art. R511-2-1-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054612659) ; [Décret du 22 juin 2010, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032258828) ; [Décret n°2026-512 du 15 juin 2026, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054258735)
+
+Le représentant légal ou, s'il en existe un, le commissaire aux comptes d'une personne morale de droit privé non commerçante ayant une activité économique ou d'une association visée à l'article L. 612-4 présente à l'organe délibérant ou, en l'absence d'organe délibérant, joint aux documents communiqués aux adhérents un rapport sur les conventions passées directement ou par personne interposée entre la personne morale et l'un de ses administrateurs ou l'une des personnes assurant un rôle de mandataire social.
+
+Il est de même des conventions passées entre cette personne morale et une autre personne morale dont un associé indéfiniment responsable, un gérant, un administrateur, le directeur général, un directeur général délégué, un membre du directoire ou du conseil de surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 10 % est simultanément administrateur ou assure un rôle de mandataire social de ladite personne morale.
+
+L'organe délibérant statue sur ce rapport.
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles le rapport est établi.
+
+Une convention non approuvée produit néanmoins ses effets. Les conséquences préjudiciables à la personne morale résultant d'une telle convention peuvent être mises à la charge, individuellement ou solidairement selon le cas, de l'administrateur ou de la personne assurant le rôle de mandataire social.
+
+Les dispositions du présent article ne sont pas applicables aux conventions courantes conclues à des conditions normales qui, en raison de leur objet ou de leurs implications financières, ne sont significatives pour aucune des parties.

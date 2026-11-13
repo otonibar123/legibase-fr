@@ -6,7 +6,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006432351
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432351
-- Cité par : [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-3 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-3) ; [Arrêté du 23 avril 1982, art. CHAPITRE 5 PARAGRAPHE 2 ART. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006782404) ; [art. R444-71 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929982) ; [art. L613-30 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279516) ; [art. L214-162-14 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049872482) ; [Loi n°1924-06-01 du 1 juin 1924, art. 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284146)
+- Cité par : [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-3 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-3) ; [art. R444-71 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-4.md#article-r444-71) ; [Arrêté du 23 avril 1982, art. CHAPITRE 5 PARAGRAPHE 2 ART. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006782404) ; [art. L613-30 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279516) ; [art. L214-162-14 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049872482) ; [Loi n°1924-06-01 du 1 juin 1924, art. 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284146)
 
 Nul ne peut être contraint à demeurer dans l'indivision et le partage peut toujours être provoqué, à moins qu'il n'y ait été sursis par jugement ou convention.
 
@@ -109,7 +109,7 @@ L'aliénation effectuée dans les conditions fixées par l'autorisation du tribu
 - État : en vigueur depuis le 09/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053775753
 - Renvoie à : [art. 1873-5 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-5)
-- Cité par : [art. 813-2 du Code civil](chapitre-vi.md#article-813-2) ; [art. 1873-8 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-8) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958) ; [art. 1380 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725909)
+- Cité par : [art. 813-2 du Code civil](chapitre-vi.md#article-813-2) ; [art. 1873-8 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-8) ; [art. 1380 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1380) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958)
 
 Le président du tribunal judiciaire peut prescrire ou autoriser toutes les mesures urgentes que requiert l'intérêt commun.
 
@@ -123,7 +123,7 @@ Il peut également autoriser un indivisaire à conclure seul un acte de vente d'
 - Identifiant : LEGIARTI000006432406
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432406
-- Cité par : [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958) ; [art. 1380 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725909)
+- Cité par : [art. 1380 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1380) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958)
 
 Le président du tribunal peut aussi interdire le déplacement des meubles corporels sauf à spécifier ceux dont il attribue l'usage personnel à l'un ou à l'autre des ayants droit, à charge pour ceux-ci de donner caution s'il l'estime nécessaire.
 
@@ -149,7 +149,7 @@ Quiconque perçoit des revenus ou expose des frais pour le compte de l'indivisio
 - Identifiant : LEGIARTI000006432422
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432422
-- Cité par : [art. 1873-11 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-11) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958) ; [art. 1380 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725909)
+- Cité par : [art. 1873-11 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-11) ; [art. 1380 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1380) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958)
 
 Chaque indivisaire peut user et jouir des biens indivis conformément à leur destination, dans la mesure compatible avec le droit des autres indivisaires et avec l'effet des actes régulièrement passés au cours de l'indivision. A défaut d'accord entre les intéressés, l'exercice de ce droit est réglé, à titre provisoire, par le président du tribunal.  
 
@@ -172,7 +172,7 @@ Chaque indivisaire a droit aux bénéfices provenant des biens indivis et suppor
 - Identifiant : LEGIARTI000039367245
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039367245
-- Cité par : [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958) ; [art. 1380 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725909)
+- Cité par : [art. 1380 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1380) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958)
 
 Tout indivisaire peut demander sa part annuelle dans les bénéfices, déduction faite des dépenses entraînées par les actes auxquels il a consenti ou qui lui sont opposables.
 
@@ -205,7 +205,7 @@ Inversement, l'indivisaire répond des dégradations et détériorations qui ont
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432469
 - Renvoie à : [art. 828 du Code civil](chapitre-viii.md#article-828)
-- Cité par : [art. 815-16 du Code civil](chapitre-vii.md#article-815-16) ; [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-12 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-12) ; [art. L143-4 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029594354)
+- Cité par : [art. 815-16 du Code civil](chapitre-vii.md#article-815-16) ; [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-12 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-12) ; [art. L526-29 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-29) ; [art. L143-4 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029594354)
 
 L'indivisaire qui entend céder, à titre onéreux, à une personne étrangère à l'indivision, tout ou partie de ses droits dans les biens indivis ou dans un ou plusieurs de ces biens est tenu de notifier par acte extrajudiciaire aux autres indivisaires le prix et les conditions de la cession projetée ainsi que les nom, domicile et profession de la personne qui se propose d'acquérir.  
 

@@ -8,7 +8,7 @@ Code civil › Livre Ier : Des personnes › Titre X : De la minorité, de la tu
 - Identifiant : LEGIARTI000031345425
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345425
-- Cité par : [art. 373-5 du Code civil](../titre-ix/chapitre-ier.md#article-373-5) ; [art. L122-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796529) ; [art. 1217 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810503) ; [Loi n°64-1230 du 14 décembre 1964, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283759)
+- Cité par : [art. 373-5 du Code civil](../titre-ix/chapitre-ier.md#article-373-5) ; [art. 1217 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1217) ; [art. L122-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796529) ; [Loi n°64-1230 du 14 décembre 1964, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283759)
 
 La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent privés de l'exercice de l'autorité parentale.
 
@@ -20,7 +20,7 @@ Il n'est pas dérogé aux lois particulières qui régissent le service de l'aid
 - Identifiant : LEGIARTI000031345440
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345440
-- Cité par : [art. 1217 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810503)
+- Cité par : [art. 1217 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1217)
 
 En cas d'administration légale, le juge des tutelles peut, à tout moment et pour cause grave, soit d'office, soit à la requête de parents ou alliés ou du ministère public, décider d'ouvrir la tutelle après avoir entendu ou appelé, sauf urgence, l'administrateur légal. Celui-ci ne peut faire aucun acte de disposition à partir de la demande et jusqu'au jugement définitif sauf en cas d'urgence.
 
@@ -47,7 +47,7 @@ Si un enfant vient à être reconnu par l'un de ses deux parents après l'ouvert
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345428
 - Renvoie à : [art. 392 du Code civil](chapitre-ii.md#article-392)
-- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039066503)
+- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-11)
 
 Sans préjudice des dispositions de l'article 392, la tutelle prend fin à l'émancipation du mineur ou à sa majorité. Elle prend également fin en cas de jugement de mainlevée passé en force de chose jugée ou en cas de décès de l'intéressé.
 
@@ -59,7 +59,7 @@ Sans préjudice des dispositions de l'article 392, la tutelle prend fin à l'ém
 - Identifiant : LEGIARTI000031345380
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345380
-- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039066503)
+- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-11)
 
 La tutelle, protection due à l'enfant, est une charge publique. Elle est un devoir des familles et de la collectivité publique.
 
@@ -84,7 +84,7 @@ Ne peuvent exercer les différentes charges de la tutelle :
 - Identifiant : LEGIARTI000031345371
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345371
-- Cité par : [art. 1234-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031065) ; [art. 1234-4 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031060) ; [art. L422-2 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045293372)
+- Cité par : [art. 1234-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1234-2) ; [art. 1234-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1234-4) ; [art. L422-2 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045293372)
 
 Toute charge tutélaire peut être retirée en raison de l'inaptitude, de la négligence, de l'inconduite ou de la fraude de celui à qui elle a été confiée. Il en est de même lorsqu'un litige ou une contradiction d'intérêts empêche le titulaire de la charge de l'exercer dans l'intérêt du mineur.  
 
@@ -94,7 +94,7 @@ Il peut être procédé au remplacement de toute personne à qui une charge tut�
 - Identifiant : LEGIARTI000031345383
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345383
-- Cité par : [art. 445 du Code civil](../titre-xi/chapitre-ii.md#article-445) ; [art. 1213 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810518)
+- Cité par : [art. 445 du Code civil](../titre-xi/chapitre-ii.md#article-445) ; [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213)
 
 Le conseil de famille statue sur les empêchements, les retraits et les remplacements qui intéressent le tuteur et le subrogé tuteur.  
 
@@ -286,7 +286,7 @@ La tutelle est levée dès que l'enfant peut être admis à la qualité de pupil
 - Identifiant : LEGIARTI000031323593
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031323593
-- Cité par : [art. 1216 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747689)
+- Cité par : [art. 1216 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1216)
 
 Le juge des tutelles et le procureur de la République exercent une surveillance générale des tutelles de leur ressort.
 

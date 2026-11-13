@@ -217,7 +217,7 @@ L'offre énonce en outre :
 - Identifiant : LEGIARTI000032007506
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032007506
-- Cité par : [art. 1127-3 du Code civil](chapitre-ii.md#article-1127-3) ; [art. L321-3 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033062613)
+- Cité par : [art. 1127-3 du Code civil](chapitre-ii.md#article-1127-3) ; [art. L321-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-3)
 
 Le contrat n'est valablement conclu que si le destinataire de l'offre a eu la possibilité de vérifier le détail de sa commande et son prix total et de corriger d'éventuelles erreurs avant de confirmer celle-ci pour exprimer son acceptation définitive.
 
@@ -474,7 +474,7 @@ Il peut aussi opposer à l'action en nullité la confirmation de l'acte par son 
 - Identifiant : LEGIARTI000032041034
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041034
-- Cité par : [art. 1231 du Code civil](chapitre-iv.md#article-1231) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [Arrêté du 29 décembre 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053291102) ; [art. L311-24 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237354) ; [art. L311-25 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237350) ; [art. L312-29 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237006) ; [art. L312-39 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226106) ; [art. L312-40 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226104) ; [art. L313-47 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032433259) ; [art. L313-51 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032309861) ; [art. L313-60 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032309792) ; … et 4 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+- Cité par : [art. 1231 du Code civil](chapitre-iv.md#article-1231) ; [art. L312-39 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-39) ; [art. L312-40 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-40) ; [art. L313-47 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-47) ; [art. L313-51 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-51) ; [art. L313-60 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-60) ; [art. L315-17 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-17) ; [art. L315-23 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-23) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [Arrêté du 29 décembre 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053291102) ; [art. L311-24 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237354) ; [art. L311-25 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237350) ; [art. L312-29 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237006) ; [Ordonnance n°2002-1476 du 19 décembre 2002, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285035) ; [Ordonnance n°2013-516 du 20 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027587948)
 
 La prescription de l'action court :
 
@@ -498,7 +498,7 @@ Le représentant légal, judiciaire ou conventionnel n'est fondé à agir que da
 - Identifiant : LEGIARTI000032041024
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041024
-- Cité par : [art. L611-10-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028723882) ; [art. L311-16 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237390) ; [art. L312-74 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226020)
+- Cité par : [art. L611-10-1 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-10-1) ; [art. L312-74 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-74) ; [art. L311-16 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237390)
 
 Lorsque le représentant agit dans la limite de ses pouvoirs au nom et pour le compte du représenté, celui-ci est seul tenu de l'engagement ainsi contracté.
 
@@ -517,7 +517,7 @@ Lorsque le pouvoir est spécialement déterminé, le représentant ne peut accom
 - Identifiant : LEGIARTI000032041104
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041104
-- Cité par : [art. L212-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227002)
+- Cité par : [art. L212-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md#article-l212-1)
 
 L'acte accompli par un représentant sans pouvoir ou au-delà de ses pouvoirs est inopposable au représenté, sauf si le tiers contractant a légitimement cru en la réalité des pouvoirs du représentant, notamment en raison du comportement ou des déclarations du représenté.
 
@@ -584,7 +584,7 @@ Le contrat ne peut déroger à l'ordre public ni par ses stipulations, ni par so
 - Identifiant : LEGIARTI000032041153
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041153
-- Cité par : [art. L212-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227002)
+- Cité par : [art. L212-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md#article-l212-1)
 
 L'obligation a pour objet une prestation présente ou future.
 
@@ -596,7 +596,7 @@ La prestation est déterminable lorsqu'elle peut être déduite du contrat ou pa
 - Identifiant : LEGIARTI000032041148
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041148
-- Cité par : [art. L212-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227002)
+- Cité par : [art. L212-1 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md#article-l212-1)
 
 Dans les contrats cadre, il peut être convenu que le prix sera fixé unilatéralement par l'une des parties, à charge pour elle d'en motiver le montant en cas de contestation.
 

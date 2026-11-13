@@ -43,7 +43,7 @@ Sous réserve des dispositions de l'article 495-7, la mesure d'accompagnement ju
 - Identifiant : LEGIARTI000006428065
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428065
-- Cité par : [art. D272-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020057107) ; [art. R272-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020056661) ; [art. 1262-6 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031213) ; [Décret n°2008-1498 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020053710) ; [Décret n°2008-1506 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020056328)
+- Cité par : [art. 1262-6 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-xi.md#article-1262-6) ; [art. D272-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020057107) ; [art. R272-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020056661) ; [Décret n°2008-1498 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020053710) ; [Décret n°2008-1506 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020056328)
 
 La mesure d'accompagnement judiciaire porte sur la gestion des prestations sociales choisies par le juge, lors du prononcé de celle-ci, dans une liste fixée par décret.  
 

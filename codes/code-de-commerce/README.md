@@ -1,0 +1,595 @@
+# Code de commerce
+
+Dernière modification du texte dans LEGI : 01/10/2026. 7246 articles en vigueur, répartis dans 460 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : Du commerce en général.**
+    - [TITRE Ier : De l'acte de commerce.](partie-legislative/livre-ier/titre-ier.md) (4 articles)
+    - **TITRE II : Des commerçants.**
+      - [Chapitre Ier : De la définition et du statut.](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre III : Des obligations générales des commerçants.](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (73 articles)
+      - [Chapitre IV : Des sociétés coopératives de commerçants détaillants.](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (19 articles)
+      - [Chapitre V : Des magasins collectifs de commerçants indépendants](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (19 articles)
+      - [Chapitre VI : Des sociétés de caution mutuelle.](partie-legislative/livre-ier/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique.](partie-legislative/livre-ier/titre-ii/chapitre-vii.md) (7 articles)
+      - [Chapitre VIII : Du fichier national des interdits de gérer](partie-legislative/livre-ier/titre-ii/chapitre-viii.md) (5 articles)
+      - [Chapitre IX : Du tutorat rémunéré en entreprise.](partie-legislative/livre-ier/titre-ii/chapitre-ix.md) (1 article)
+    - **TITRE III : Des courtiers, des commissionnaires, des transporteurs, des agents commerciaux et des vendeurs à domicile indépendants.**
+      - [Chapitre Ier : Des courtiers.](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (29 articles)
+      - [Chapitre II : Des commissionnaires.](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Des transporteurs.](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Des agents commerciaux.](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (17 articles)
+      - [Chapitre V : Des vendeurs à domicile indépendants.](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (3 articles)
+    - **TITRE IV : Du fonds de commerce.**
+      - [Chapitre Ier : De la vente du fonds de commerce.](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (27 articles)
+      - [Chapitre II : Du nantissement du fonds de commerce.](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions communes à la vente et au nantissement du fonds de commerce.](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : De la location-gérance.](partie-legislative/livre-ier/titre-iv/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Du bail commercial.](partie-legislative/livre-ier/titre-iv/chapitre-v.md) (67 articles)
+      - [Chapitre VI : Des gérants-mandataires.](partie-legislative/livre-ier/titre-iv/chapitre-vi.md) (4 articles)
+    - **Titre V : De la protection du secret des affaires**
+      - [Chapitre Ier : De l'objet et des conditions de la protection](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Des actions en prévention, en cessation ou en réparation d'une atteinte au secret des affaires](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Des mesures générales de protection du secret des affaires devant les juridictions civiles ou commerciales](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Conditions d'application](partie-legislative/livre-ier/titre-v/chapitre-iv.md) (1 article)
+  - **LIVRE II : Des sociétés commerciales et des groupements d'intérêt économique.**
+    - [TITRE Ier : Dispositions préliminaires.](partie-legislative/livre-ii/titre-ier.md) (12 articles)
+    - **TITRE II : Dispositions particulières aux diverses sociétés commerciales.**
+      - [Chapitre Ier : Des sociétés en nom collectif.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (17 articles)
+      - [Chapitre II : Des sociétés en commandite simple.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Des sociétés à responsabilité limitée.](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (41 articles)
+      - [Chapitre IV : Dispositions générales applicables aux sociétés par actions.](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Des sociétés anonymes.](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (238 articles)
+      - [Chapitre VI : Des sociétés en commandite par actions.](partie-legislative/livre-ii/titre-ii/chapitre-vi.md) (18 articles)
+      - [Chapitre VII : Des sociétés par actions simplifiées.](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (23 articles)
+      - [Chapitre VIII : Des valeurs mobilières émises par les sociétés par actions.](partie-legislative/livre-ii/titre-ii/chapitre-viii.md) (138 articles)
+      - [Chapitre IX : De la société européenne](partie-legislative/livre-ii/titre-ii/chapitre-ix.md) (15 articles)
+      - [Chapitre X : Des sociétés dont les titres sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation](partie-legislative/livre-ii/titre-ii/chapitre-x.md) (80 articles)
+    - **TITRE III : Dispositions communes aux diverses sociétés commerciales.**
+      - [Chapitre préliminaire : Des différentes tailles de sociétés et groupes de sociétés](partie-legislative/livre-ii/titre-iii/chapitre-preliminaire.md) (2 articles)
+      - [Chapitre Ier : Du capital variable](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Des comptes sociaux et des informations en matière de durabilité](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (29 articles)
+      - [Chapitre III : Des filiales, des participations et des sociétés contrôlées](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (50 articles)
+      - [Chapitre IV : De la procédure d'alerte](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : De la fusion, de la scission et de l'apport partiel d'actifs](partie-legislative/livre-ii/titre-iii/chapitre-vi.md) (55 articles)
+      - [Chapitre VII : De la liquidation](partie-legislative/livre-ii/titre-iii/chapitre-vii.md) (31 articles)
+      - [Chapitre VIII : Des injonctions de faire](partie-legislative/livre-ii/titre-iii/chapitre-viii.md) (7 articles)
+      - [Chapitre IX : De la location d'actions et de parts sociales](partie-legislative/livre-ii/titre-iii/chapitre-ix.md) (5 articles)
+      - [Chapitre X : De l'information des salariés en cas de vente de leur société](partie-legislative/livre-ii/titre-iii/chapitre-x.md) (8 articles)
+      - [Chapitre XI : Du partage des plus-values de cession de titres avec les salariés de société](partie-legislative/livre-ii/titre-iii/chapitre-xi.md) (4 articles)
+      - [Chapitre XII : De la mixité dans les instances dirigeantes des sociétés commerciales](partie-legislative/livre-ii/titre-iii/chapitre-xii.md) (1 article)
+    - **TITRE IV : Dispositions pénales.**
+      - [Chapitre Ier : Des infractions concernant les sociétés à responsabilité limitée](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Des infractions concernant les sociétés anonymes](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Des infractions concernant les sociétés en commandite par actions](partie-legislative/livre-ii/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Des infractions concernant les sociétés par actions simplifiées](partie-legislative/livre-ii/titre-iv/chapitre-iv.md) (3 articles)
+      - [Chapitre IV bis : Des infractions concernant les sociétés européennes](partie-legislative/livre-ii/titre-iv/chapitre-iv-bis.md) (1 article)
+      - [Chapitre V : Des infractions relatives aux valeurs mobilières émises par les sociétés par actions](partie-legislative/livre-ii/titre-iv/chapitre-v.md) (8 articles)
+      - [Chapitre VI : Des infractions communes aux diverses formes de sociétés par actions](partie-legislative/livre-ii/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales](partie-legislative/livre-ii/titre-iv/chapitre-vii.md) (7 articles)
+      - [Chapitre VIII : Dispositions concernant les directeurs généraux délégués des sociétés anonymes ou des sociétés européennes.](partie-legislative/livre-ii/titre-iv/chapitre-viii.md) (1 article)
+      - [Chapitre IX : Peines complémentaires applicables aux personnes physiques](partie-legislative/livre-ii/titre-iv/chapitre-ix.md) (1 article)
+    - **TITRE V : Des groupements d'intérêt économique.**
+      - [Chapitre Ier : Du groupement d'intérêt économique de droit français.](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (23 articles)
+      - [Chapitre II : Du groupement européen d'intérêt économique.](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Dispositions communes aux groupements d'intérêt économique de droit français et aux groupements européens d'intérêt économique](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (1 article)
+  - **LIVRE III : De certaines formes de ventes et des clauses d'exclusivité.**
+    - [TITRE Ier : Des liquidations, des ventes au déballage, des soldes et des ventes en magasins d'usine.](partie-legislative/livre-iii/titre-ier.md) (6 articles)
+    - **TITRE II : Des ventes aux enchères publiques.**
+      - [TITRE II : Des ventes aux enchères publiques. : articles rattachés directement](partie-legislative/livre-iii/titre-ii/articles-directs.md) (2 articles)
+      - [Chapitre Ier : Des ventes volontaires de meubles aux enchères publiques.](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (39 articles)
+      - [Chapitre II : Des autres ventes aux enchères.](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (14 articles)
+    - [TITRE III : Des clauses d'exclusivité.](partie-legislative/livre-iii/titre-iii.md) (3 articles)
+    - [TITRE IV : Des réseaux de distribution commerciale](partie-legislative/livre-iii/titre-iv.md) (2 articles)
+  - **LIVRE IV : De la liberté des prix et de la concurrence.**
+    - [TITRE Ier : Dispositions générales.](partie-legislative/livre-iv/titre-ier.md) (6 articles)
+    - [TITRE II : Des pratiques anticoncurrentielles.](partie-legislative/livre-iv/titre-ii.md) (10 articles)
+    - [TITRE III : De la concentration économique.](partie-legislative/livre-iv/titre-iii.md) (11 articles)
+    - **TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées.**
+      - [Chapitre préliminaire : La commission d'examen des pratiques commerciales](partie-legislative/livre-iv/titre-iv/chapitre-preliminaire.md) (1 article)
+      - [Chapitre Ier : De la transparence dans la relation commerciale](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Des pratiques commerciales déloyales entre entreprises](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Dispositions spécifiques aux produits agricoles et aux denrées alimentaires](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Dispositions générales](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (1 article)
+    - [TITRE IV bis : De certains tarifs réglementés](partie-legislative/livre-iv/titre-iv-bis.md) (7 articles)
+    - [TITRE V : Des pouvoirs d'enquête.](partie-legislative/livre-iv/titre-v.md) (15 articles)
+    - **TITRE VI : De l'Autorité de la concurrence.**
+      - [Chapitre Ier : De l'organisation.](partie-legislative/livre-iv/titre-vi/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Des attributions.](partie-legislative/livre-iv/titre-vi/chapitre-ii.md) (15 articles)
+      - [Chapitre III : De la procédure.](partie-legislative/livre-iv/titre-vi/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Des décisions et des voies de recours.](partie-legislative/livre-iv/titre-vi/chapitre-iv.md) (14 articles)
+    - [TITRE VII : Des injonctions et sanctions administratives](partie-legislative/livre-iv/titre-vii.md) (2 articles)
+    - **TITRE VIII : Des actions en dommages et intérêts du fait des pratiques anticoncurrentielles**
+      - [Chapitre Ier : De la responsabilité](partie-legislative/livre-iv/titre-viii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : De la prescription des actions](partie-legislative/livre-iv/titre-viii/chapitre-ii.md) (1 article)
+      - [Chapitre III : De la communication et de la production des pièces](partie-legislative/livre-iv/titre-viii/chapitre-iii.md) (9 articles)
+    - [TITRE IX : Dispositions diverses](partie-legislative/livre-iv/titre-ix.md) (12 articles)
+  - **LIVRE V : Des effets de commerce et des garanties.**
+    - **TITRE Ier : Des effets de commerce.**
+      - [Chapitre Ier : De la lettre de change](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (82 articles)
+      - [Chapitre II : Du billet à ordre.](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (9 articles)
+    - **TITRE II : Des garanties.**
+      - [Chapitre II : Des dépôts en magasins généraux](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (44 articles)
+      - [Chapitre VI : De la protection de l'entrepreneur individuel](partie-legislative/livre-v/titre-ii/chapitre-vi.md) (30 articles)
+  - **LIVRE VI : Des difficultés des entreprises.**
+    - [LIVRE VI : Des difficultés des entreprises. : articles rattachés directement](partie-legislative/livre-vi/articles-directs.md) (1 article)
+    - **TITRE Ier : De la prévention des difficultés des entreprises.**
+      - [Chapitre Ier : De la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (5 articles)
+    - **TITRE II : De la sauvegarde.**
+      - [TITRE II : De la sauvegarde. : articles rattachés directement](partie-legislative/livre-vi/titre-ii/articles-directs.md) (2 articles)
+      - [Chapitre Ier : De l'ouverture de la procédure.](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : De l'entreprise au cours de la période d'observation.](partie-legislative/livre-vi/titre-ii/chapitre-ii.md) (36 articles)
+      - [Chapitre III : De l'élaboration du bilan économique, social et environnemental.](partie-legislative/livre-vi/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : De la détermination du patrimoine du débiteur.](partie-legislative/livre-vi/titre-ii/chapitre-iv.md) (22 articles)
+      - [Chapitre V : Du règlement des créances résultant du contrat de travail.](partie-legislative/livre-vi/titre-ii/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Du plan de sauvegarde.](partie-legislative/livre-vi/titre-ii/chapitre-vi.md) (34 articles)
+      - [Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire.](partie-legislative/livre-vi/titre-ii/chapitre-vii.md) (4 articles)
+      - [Chapitre VIII : De la sauvegarde accélérée](partie-legislative/livre-vi/titre-ii/chapitre-viii.md) (8 articles)
+    - **TITRE III : Du redressement judiciaire.**
+      - [Chapitre Ier : De l'ouverture et du déroulement du redressement judiciaire.](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (29 articles)
+      - [Chapitre II : De la nullité de certains actes.](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (4 articles)
+    - **TITRE IV : De la liquidation judiciaire et du rétablissement professionnel.**
+      - [Chapitre préliminaire : Des conditions d'ouverture de la liquidation judiciaire.](partie-legislative/livre-vi/titre-iv/chapitre-preliminaire.md) (7 articles)
+      - [Chapitre Ier : Du jugement de liquidation judiciaire.](partie-legislative/livre-vi/titre-iv/chapitre-ier.md) (20 articles)
+      - [Chapitre II : De la réalisation de l'actif.](partie-legislative/livre-vi/titre-iv/chapitre-ii.md) (27 articles)
+      - [Chapitre III : De l'apurement du passif.](partie-legislative/livre-vi/titre-iv/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : De la liquidation judiciaire simplifiée.](partie-legislative/livre-vi/titre-iv/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Du rétablissement professionnel](partie-legislative/livre-vi/titre-iv/chapitre-v.md) (12 articles)
+    - **TITRE V : Des responsabilités et des sanctions.**
+      - [TITRE V : Des responsabilités et des sanctions. : articles rattachés directement](partie-legislative/livre-vi/titre-v/articles-directs.md) (1 article)
+      - [Chapitre Ier : De la responsabilité pour insuffisance d'actif.](partie-legislative/livre-vi/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre III : De la faillite personnelle et des autres mesures d'interdiction.](partie-legislative/livre-vi/titre-v/chapitre-iii.md) (11 articles)
+      - [Chapitre IV : De la banqueroute et des autres infractions.](partie-legislative/livre-vi/titre-v/chapitre-iv.md) (19 articles)
+    - **TITRE VI : Des dispositions générales de procédure.**
+      - [Chapitre Ier : Des voies de recours.](partie-legislative/livre-vi/titre-vi/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Autres dispositions.](partie-legislative/livre-vi/titre-vi/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Des frais de procédure.](partie-legislative/livre-vi/titre-vi/chapitre-iii.md) (6 articles)
+    - [TITRE VII : Dispositions dérogatoires particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.](partie-legislative/livre-vi/titre-vii.md) (9 articles)
+    - [TITRE VIII : Dispositions particulières à l'entrepreneur individuel à responsabilité limitée.](partie-legislative/livre-vi/titre-viii.md) (7 articles)
+    - [TITRE VIII BIS : Dispositions particulières à l'entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V](partie-legislative/livre-vi/titre-viii-bis.md) (4 articles)
+    - **TITRE IX : Dispositions particulières aux procédures d'insolvabilité relevant du règlement (UE) n° 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité**
+      - [TITRE IX : Dispositions particulières aux procédures d'insolvabilité relevant du règlement (UE) n° 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité : articles rattachés directement](partie-legislative/livre-vi/titre-ix/articles-directs.md) (1 article)
+      - [Chapitre Ier : Des procédures d'insolvabilité principales](partie-legislative/livre-vi/titre-ix/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Des procédures d'insolvabilité secondaires](partie-legislative/livre-vi/titre-ix/chapitre-ii.md) (11 articles)
+      - [Chapitre III : De l'information des créanciers étrangers et de la déclaration des créances](partie-legislative/livre-vi/titre-ix/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Des procédures d'insolvabilité concernant des membres d'un groupe de sociétés établies dans plusieurs États membres](partie-legislative/livre-vi/titre-ix/chapitre-iv.md) (10 articles)
+      - [Chapitre V : De la coopération et de la communication des praticiens de l'insolvabilité et des juridictions](partie-legislative/livre-vi/titre-ix/chapitre-v.md) (5 articles)
+      - [Chapitre VI : Des dispositions applicables aux départements et régions d'outre-mer](partie-legislative/livre-vi/titre-ix/chapitre-vi.md) (1 article)
+  - **LIVRE VII : Des juridictions commerciales et de l'organisation du commerce.**
+    - **TITRE Ier : Du réseau des chambres de commerce et d'industrie.**
+      - [TITRE Ier : Du réseau des chambres de commerce et d'industrie. : articles rattachés directement](partie-legislative/livre-vii/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie](partie-legislative/livre-vii/titre-ier/chapitre-ier.md) (25 articles)
+      - [Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie](partie-legislative/livre-vii/titre-ier/chapitre-ii.md) (10 articles)
+      - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie territoriales et des chambres de commerce et d'industrie de région](partie-legislative/livre-vii/titre-ier/chapitre-iii.md) (13 articles)
+    - **TITRE II : Du tribunal de commerce.**
+      - [Chapitre Ier : De l'institution et de la compétence.](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : De l'organisation et du fonctionnement.](partie-legislative/livre-vii/titre-ii/chapitre-ii.md) (26 articles)
+      - [Chapitre III : De l'élection des juges des tribunaux de commerce.](partie-legislative/livre-vii/titre-ii/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : De la discipline des juges des tribunaux de commerce.](partie-legislative/livre-vii/titre-ii/chapitre-iv.md) (12 articles)
+    - **TITRE III : Des juridictions commerciales particulières.**
+      - [Chapitre Ier : Des dispositions applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.](partie-legislative/livre-vii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Des dispositions applicables aux départements et régions d'outre-mer.](partie-legislative/livre-vii/titre-iii/chapitre-ii.md) (8 articles)
+    - **TITRE IV : Du greffe du tribunal de commerce.**
+      - [Chapitre Ier : De l'institution et des missions.](partie-legislative/livre-vii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des conditions d'accès à la profession et aux autres professions judiciaires et juridiques.](partie-legislative/livre-vii/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Des conditions d'exercice.](partie-legislative/livre-vii/titre-iv/chapitre-iii.md) (7 articles)
+    - **TITRE V : De l'aménagement commercial.**
+      - [TITRE V : De l'aménagement commercial. : articles rattachés directement](partie-legislative/livre-vii/titre-v/articles-directs.md) (2 articles)
+      - [Chapitre Ier : Des commissions d'aménagement commercial.](partie-legislative/livre-vii/titre-v/chapitre-ier.md) (9 articles)
+      - [Chapitre II : De l'autorisation commerciale.](partie-legislative/livre-vii/titre-v/chapitre-ii.md) (23 articles)
+    - **TITRE VI : Des marchés d'intérêt national et des manifestations commerciales.**
+      - [Chapitre Ier : Des marchés d'intérêt national](partie-legislative/livre-vii/titre-vi/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Des manifestations commerciales.](partie-legislative/livre-vii/titre-vi/chapitre-ii.md) (2 articles)
+  - **LIVRE VIII : De quelques professions réglementées.**
+    - **TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires et experts en diagnostic d'entreprise.**
+      - [Chapitre Ier : Des administrateurs judiciaires.](partie-legislative/livre-viii/titre-ier/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Des mandataires judiciaires.](partie-legislative/livre-viii/titre-ier/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Des experts en diagnostic d'entreprise.](partie-legislative/livre-viii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions communes.](partie-legislative/livre-viii/titre-ier/chapitre-iv.md) (17 articles)
+    - **TITRE II : Des commissaires aux comptes, des organismes tiers indépendants et des auditeurs des informations en matière de durabilité.**
+      - [Chapitre préliminaire : De la Haute autorité de l'audit.](partie-legislative/livre-viii/titre-ii/chapitre-preliminaire.md) (25 articles)
+      - [Chapitre Ier : Des commissaires aux comptes.](partie-legislative/livre-viii/titre-ii/chapitre-ier.md) (86 articles)
+      - [Chapitre II : Des organismes tiers indépendants et des auditeurs des informations en matière de durabilité](partie-legislative/livre-viii/titre-ii/chapitre-ii.md) (41 articles)
+    - **Titre III : Du commerce des matières d'or, d'argent et de platine**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-viii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Du titre des ouvrages et des titres légaux](partie-legislative/livre-viii/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Des marques apposées sur les ouvrages](partie-legislative/livre-viii/titre-iii/chapitre-iii.md) (11 articles)
+      - [Chapitre IV : Des obligations des opérateurs](partie-legislative/livre-viii/titre-iii/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Des mesures de saisie, contrôle et sanctions](partie-legislative/livre-viii/titre-iii/chapitre-v.md) (2 articles)
+  - **LIVRE IX : Dispositions relatives à l'outre-mer.**
+    - [TITRE Ier A : Observatoire des prix, des marges et des revenus dans les outre-mer](partie-legislative/livre-ix/titre-ier-a.md) (10 articles)
+    - **TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon.**
+      - [TITRE Ier : Dispositions spécifiques à Saint-Pierre-et-Miquelon. : articles rattachés directement](partie-legislative/livre-ix/titre-ier/articles-directs.md) (6 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-legislative/livre-ix/titre-ier/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-legislative/livre-ix/titre-ier/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-legislative/livre-ix/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-legislative/livre-ix/titre-ier/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Dispositions d'adaptation du livre V.](partie-legislative/livre-ix/titre-ier/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-legislative/livre-ix/titre-ier/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-legislative/livre-ix/titre-ier/chapitre-vii.md) (7 articles)
+    - **TITRE II : Dispositions spécifiques au Département-Région de Mayotte.**
+      - [TITRE II : Dispositions spécifiques au Département-Région de Mayotte. : articles rattachés directement](partie-legislative/livre-ix/titre-ii/articles-directs.md) (4 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-legislative/livre-ix/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-legislative/livre-ix/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-legislative/livre-ix/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-legislative/livre-ix/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Dispositions d'adaptation du livre V.](partie-legislative/livre-ix/titre-ii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-legislative/livre-ix/titre-ii/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-legislative/livre-ix/titre-ii/chapitre-vii.md) (4 articles)
+    - **TITRE III : Dispositions applicables en Nouvelle-Calédonie.**
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. : articles rattachés directement](partie-legislative/livre-ix/titre-iii/articles-directs.md) (7 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-legislative/livre-ix/titre-iii/chapitre-ier.md) (20 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-legislative/livre-ix/titre-iii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-legislative/livre-ix/titre-iii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-legislative/livre-ix/titre-iii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions d'adaptation du livre V.](partie-legislative/livre-ix/titre-iii/chapitre-v.md) (10 articles)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-legislative/livre-ix/titre-iii/chapitre-vi.md) (10 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-legislative/livre-ix/titre-iii/chapitre-vii.md) (12 articles)
+      - [Chapitre VIII : Dispositions d'adaptation du livre VIII.](partie-legislative/livre-ix/titre-iii/chapitre-viii.md) (1 article)
+    - **TITRE IV : Dispositions applicables en Polynésie française.**
+      - [TITRE IV : Dispositions applicables en Polynésie française. : articles rattachés directement](partie-legislative/livre-ix/titre-iv/articles-directs.md) (8 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-legislative/livre-ix/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-legislative/livre-ix/titre-iv/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-legislative/livre-ix/titre-iv/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-legislative/livre-ix/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions d'adaptation du livre V.](partie-legislative/livre-ix/titre-iv/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-legislative/livre-ix/titre-iv/chapitre-vi.md) (13 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-legislative/livre-ix/titre-iv/chapitre-vii.md) (12 articles)
+    - **TITRE V : Dispositions applicables dans les îles Wallis et Futuna.**
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. : articles rattachés directement](partie-legislative/livre-ix/titre-v/articles-directs.md) (9 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-legislative/livre-ix/titre-v/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-legislative/livre-ix/titre-v/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-legislative/livre-ix/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-legislative/livre-ix/titre-v/chapitre-iv.md) (18 articles)
+      - [Chapitre V : Dispositions d'adaptation du livre V.](partie-legislative/livre-ix/titre-v/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-legislative/livre-ix/titre-v/chapitre-vi.md) (9 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-legislative/livre-ix/titre-v/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Dispositions d'adaptation du livre VIII](partie-legislative/livre-ix/titre-v/chapitre-viii.md) (1 article)
+    - [TITRE VI : Dispositions diverses applicables à Saint-Barthélemy et à Saint-Martin.](partie-legislative/livre-ix/titre-vi.md) (6 articles)
+- **Partie réglementaire**
+  - **LIVRE Ier : Du commerce en général.**
+    - **TITRE II : Des commerçants.**
+      - [Chapitre Ier : De la définition et du statut.](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre III : Des obligations générales des commerçants](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (351 articles)
+      - [Chapitre IV : Des sociétés coopératives de commerçants détaillants.](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre VII : Du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique.](partie-reglementaire/livre-ier/titre-ii/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Du fichier national des interdits de gérer](partie-reglementaire/livre-ier/titre-ii/chapitre-viii.md) (10 articles)
+    - **TITRE III : Des courtiers, des commissionnaires, des transporteurs et des agents commerciaux.**
+      - [Chapitre Ier : Des courtiers.](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (40 articles)
+      - [Chapitre II : Des commissionnaires.](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Des transporteurs.](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Des agents commerciaux.](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (19 articles)
+    - **TITRE IV : Du fonds de commerce.**
+      - [Chapitre Ier : De la vente du fonds de commerce.](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (7 articles)
+      - [Chapitre III : Dispositions communes à la vente et au nantissement du fonds de commerce.](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : De la location-gérance.](partie-reglementaire/livre-ier/titre-iv/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Du bail commercial.](partie-reglementaire/livre-ier/titre-iv/chapitre-v.md) (39 articles)
+      - [Chapitre VI : Des gérants-mandataires.](partie-reglementaire/livre-ier/titre-iv/chapitre-vi.md) (2 articles)
+    - **TITRE V : De la protection du secret des affaires**
+      - [Chapitre II : Des actions en prévention, en cessation ou en réparation d'une atteinte au secret des affaires](partie-reglementaire/livre-ier/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Des mesures générales de protection du secret des affaires devant les juridictions civiles ou commerciales](partie-reglementaire/livre-ier/titre-v/chapitre-iii.md) (10 articles)
+  - **LIVRE II : Des sociétés commerciales et des groupements d'intérêt économique.**
+    - **TITRE Ier : Dispositions préliminaires.**
+      - **Section 1 : De la constitution de la société et de la modification de ses statuts.**
+        - [Sous-section 1 : De la constitution de la société.](partie-reglementaire/livre-ii/titre-ier/section-1/sous-section-1.md) (8 articles)
+        - [Sous-section 2 : De la modification des statuts.](partie-reglementaire/livre-ii/titre-ier/section-1/sous-section-2.md) (3 articles)
+        - [Sous-section 3 : De l'action en régularisation.](partie-reglementaire/livre-ii/titre-ier/section-1/sous-section-3.md) (2 articles)
+      - [Section 2 : De la dissolution de la société.](partie-reglementaire/livre-ii/titre-ier/section-2.md) (2 articles)
+      - [Section 3 : Des formalités de publicité.](partie-reglementaire/livre-ii/titre-ier/section-3.md) (5 articles)
+      - [Section 4 : Du décompte des effectifs](partie-reglementaire/livre-ii/titre-ier/section-4.md) (1 article)
+    - **TITRE II : Dispositions particulières aux diverses sociétés commerciales.**
+      - [Chapitre Ier : Des sociétés en nom collectif.](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Des sociétés en commandite simple.](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Des sociétés à responsabilité limitée.](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (40 articles)
+      - [Chapitre IV : Dispositions générales applicables aux sociétés par actions.](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Des sociétés anonymes.](partie-reglementaire/livre-ii/titre-ii/chapitre-v.md) (170 articles)
+      - [Chapitre VI : Des sociétés en commandite par actions.](partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Des sociétés par actions simplifiées.](partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md) (4 articles)
+      - [Chapitre VIII : Des valeurs mobilières émises par les sociétés par actions.](partie-reglementaire/livre-ii/titre-ii/chapitre-viii.md) (94 articles)
+      - [Chapitre IX : De la société européenne.](partie-reglementaire/livre-ii/titre-ii/chapitre-ix.md) (28 articles)
+      - [Chapitre X : Des sociétés dont les titres sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation](partie-reglementaire/livre-ii/titre-ii/chapitre-x.md) (46 articles)
+    - **TITRE III : Dispositions communes aux diverses sociétés commerciales.**
+      - [Chapitre préliminaire : Des différentes tailles de sociétés et de groupes de sociétés](partie-reglementaire/livre-ii/titre-iii/chapitre-preliminaire.md) (2 articles)
+      - [Chapitre II : Des comptes sociaux et des informations en matière de durabilité.](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (31 articles)
+      - [Chapitre III : Des filiales, des participations et des sociétés contrôlées.](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (25 articles)
+      - [Chapitre IV : De la procédure d'alerte.](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Des nullités.](partie-reglementaire/livre-ii/titre-iii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : De la fusion, de la scission et de l'apport partiel d'actifs](partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md) (40 articles)
+      - [Chapitre VII : De la liquidation.](partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md) (18 articles)
+      - [Chapitre IX : De la location d'actions et de parts sociales.](partie-reglementaire/livre-ii/titre-iii/chapitre-ix.md) (1 article)
+      - [Chapitre X : De l'information des salariés en cas de vente de leur société](partie-reglementaire/livre-ii/titre-iii/chapitre-x.md) (2 articles)
+    - **TITRE IV : Dispositions pénales.**
+      - [Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales.](partie-reglementaire/livre-ii/titre-iv/chapitre-vii.md) (4 articles)
+    - **TITRE V : Des groupements d'intérêt économique.**
+      - [Chapitre Ier : Des groupements d'intérêt économique de droit français.](partie-reglementaire/livre-ii/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Du groupement européen d'intérêt économique.](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (1 article)
+  - **LIVRE III : De certaines formes de ventes et des clauses d'exclusivité.**
+    - **TITRE Ier : Des liquidations, des ventes au déballage, des soldes et des ventes en magasins d'usine.**
+      - [Section 1 : Des liquidations.](partie-reglementaire/livre-iii/titre-ier/section-1.md) (6 articles)
+      - [Section 2 : Des ventes au déballage.](partie-reglementaire/livre-iii/titre-ier/section-2.md) (2 articles)
+      - [Section 3 : Des soldes.](partie-reglementaire/livre-iii/titre-ier/section-3.md) (2 articles)
+      - [Section 4 : Des ventes en magasins ou dépôts d'usine.](partie-reglementaire/livre-iii/titre-ier/section-4.md) (1 article)
+      - [Section 5 : Des sanctions.](partie-reglementaire/livre-iii/titre-ier/section-5.md) (1 article)
+    - **TITRE II : Des ventes aux enchères publiques.**
+      - [Chapitre Ier : Des ventes volontaires de meubles aux enchères publiques.](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (93 articles)
+      - [Chapitre II : Des autres ventes aux enchères.](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (15 articles)
+    - [TITRE III : Des clauses d'exclusivité.](partie-reglementaire/livre-iii/titre-iii.md) (2 articles)
+  - **LIVRE IV : De la liberté des prix et de la concurrence.**
+    - [TITRE Ier : Dispositions générales.](partie-reglementaire/livre-iv/titre-ier.md) (1 article)
+    - [TITRE II : Des pratiques anticoncurrentielles.](partie-reglementaire/livre-iv/titre-ii.md) (5 articles)
+    - [TITRE III : De la concentration économique.](partie-reglementaire/livre-iv/titre-iii.md) (9 articles)
+    - **TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées.**
+      - [Chapitre préliminaire : La commission d'examen des pratiques commerciales](partie-reglementaire/livre-iv/titre-iv/chapitre-preliminaire.md) (13 articles)
+      - [Chapitre Ier : De la transparence dans la relation commerciale.](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Des pratiques commerciales déloyales entre entreprises.](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Dispositions spécifiques aux produits agricoles et aux denrées alimentaires](partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md) (3 articles)
+    - **TITRE IV BIS : De certains tarifs réglementés**
+      - **Section 1 : Fixation des tarifs**
+        - [Section 1 : Fixation des tarifs : articles rattachés directement](partie-reglementaire/livre-iv/titre-iv-bis/section-1/articles-directs.md) (1 article)
+        - [Sous-section 1 : Dispositions générales](partie-reglementaire/livre-iv/titre-iv-bis/section-1/sous-section-1.md) (2 articles)
+        - [Sous-section 2 : Méthode de fixation des tarifs](partie-reglementaire/livre-iv/titre-iv-bis/section-1/sous-section-2.md) (4 articles)
+        - [Sous-section 3 : Structure et modalités tarifaires](partie-reglementaire/livre-iv/titre-iv-bis/section-1/sous-section-3.md) (8 articles)
+        - [Sous-section 4 : Droits et obligations des professionnels](partie-reglementaire/livre-iv/titre-iv-bis/section-1/sous-section-4.md) (4 articles)
+        - [Sous-section 5 : Recueil de données et d'informations](partie-reglementaire/livre-iv/titre-iv-bis/section-1/sous-section-5.md) (5 articles)
+      - **Section 2 : Redistribution et fonds interprofessionnel de l'accès au droit et à la justice**
+        - **Sous-section 1 : Redistribution interprofessionnelle**
+          - [Sous-section 1 : Redistribution interprofessionnelle : articles rattachés directement](partie-reglementaire/livre-iv/titre-iv-bis/section-2/sous-section-1/articles-directs.md) (1 article)
+          - [Paragraphe 1 : Aides à l'installation](partie-reglementaire/livre-iv/titre-iv-bis/section-2/sous-section-1/paragraphe-1.md) (2 articles)
+          - [Paragraphe 2 : Aides au maintien](partie-reglementaire/livre-iv/titre-iv-bis/section-2/sous-section-1/paragraphe-2.md) (1 article)
+          - [Paragraphe 3 : Dispositions communes](partie-reglementaire/livre-iv/titre-iv-bis/section-2/sous-section-1/paragraphe-3.md) (10 articles)
+        - [Sous-section 2 : Société de gestion du fonds interprofessionnel de l'accès au droit et à la justice](partie-reglementaire/livre-iv/titre-iv-bis/section-2/sous-section-2.md) (6 articles)
+      - **Section 3 : Dispositions particulières applicables aux commissaires priseurs judiciaires, huissiers de justice, notaires et avocats**
+        - [Sous-section 1 : Commissaires-priseurs judiciaires](partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-1.md) (7 articles)
+        - [Sous-section 2 : Huissiers de justice](partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-2.md) (9 articles)
+        - [Sous-section 3 : Notaires](partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-3.md) (11 articles)
+        - [Sous-section 4 : Avocats](partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-4.md) (6 articles)
+    - [TITRE V : Des pouvoirs d'enquête.](partie-reglementaire/livre-iv/titre-v.md) (13 articles)
+    - **TITRE VI : De l'Autorité de la concurrence.**
+      - [Chapitre Ier : De l'organisation.](partie-reglementaire/livre-iv/titre-vi/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Des attributions.](partie-reglementaire/livre-iv/titre-vi/chapitre-ii.md) (5 articles)
+      - [Chapitre III : De la procédure.](partie-reglementaire/livre-iv/titre-vi/chapitre-iii.md) (17 articles)
+      - [Chapitre IV : Des décisions et des voies de recours.](partie-reglementaire/livre-iv/titre-vi/chapitre-iv.md) (58 articles)
+    - [TITRE VII : Des injonctions et sanctions administratives](partie-reglementaire/livre-iv/titre-vii.md) (2 articles)
+    - **TITRE VIII : Des actions en dommages et intérêts du fait des pratiques anticoncurrentielles**
+      - [Chapitre Ier : De la responsabilité](partie-reglementaire/livre-iv/titre-viii/chapitre-ier.md) (1 article)
+      - [Chapitre III : De la communication et de la production des pièces](partie-reglementaire/livre-iv/titre-viii/chapitre-iii.md) (5 articles)
+    - [TITRE IX : Dispositions diverses](partie-reglementaire/livre-iv/titre-ix.md) (9 articles)
+  - **LIVRE V : Des effets de commerce et des garanties.**
+    - **TITRE Ier : Des effets de commerce.**
+      - [Chapitre Ier : De la lettre de change.](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Du billet à ordre.](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (1 article)
+    - **TITRE II : Des garanties.**
+      - [Chapitre Ier : Tenue du registre des suretés mobilières et autres opérations connexes](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (33 articles)
+      - [Chapitre II : Des dépôts en magasins généraux.](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (32 articles)
+      - [Chapitre VI : De la protection de l'entrepreneur individuel](partie-reglementaire/livre-v/titre-ii/chapitre-vi.md) (31 articles)
+  - **LIVRE VI : Des difficultés des entreprises.**
+    - [LIVRE VI : Des difficultés des entreprises. : articles rattachés directement](partie-reglementaire/livre-vi/articles-directs.md) (4 articles)
+    - **TITRE Ier : De la prévention des difficultés des entreprises.**
+      - [Chapitre Ier : De la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation.](partie-reglementaire/livre-vi/titre-ier/chapitre-ier.md) (64 articles)
+      - [Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique.](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (7 articles)
+    - **TITRE II : De la sauvegarde.**
+      - [Chapitre Ier : De l'ouverture de la procédure.](partie-reglementaire/livre-vi/titre-ii/chapitre-ier.md) (30 articles)
+      - [Chapitre II : De l'entreprise au cours de la période d'observation.](partie-reglementaire/livre-vi/titre-ii/chapitre-ii.md) (28 articles)
+      - [Chapitre III : De l'élaboration du bilan économique, social et environnemental.](partie-reglementaire/livre-vi/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : De la détermination du patrimoine du débiteur.](partie-reglementaire/livre-vi/titre-ii/chapitre-iv.md) (19 articles)
+      - [Chapitre V : Du règlement des créances résultant du contrat de travail.](partie-reglementaire/livre-vi/titre-ii/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Du plan de sauvegarde.](partie-reglementaire/livre-vi/titre-ii/chapitre-vi.md) (63 articles)
+      - [Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire.](partie-reglementaire/livre-vi/titre-ii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : De la sauvegarde accélérée](partie-reglementaire/livre-vi/titre-ii/chapitre-viii.md) (12 articles)
+    - **TITRE III : Du redressement judiciaire.**
+      - [Chapitre Ier : De l'ouverture et du déroulement de la procédure.](partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md) (52 articles)
+    - **TITRE IV : De la liquidation judiciaire et du rétablissement professionnel.**
+      - [Chapitre préliminaire : De l'ouverture et du déroulement de la liquidation judiciaire.](partie-reglementaire/livre-vi/titre-iv/chapitre-preliminaire.md) (3 articles)
+      - [Chapitre Ier : Du jugement de liquidation judiciaire.](partie-reglementaire/livre-vi/titre-iv/chapitre-ier.md) (42 articles)
+      - [Chapitre II : De la réalisation de l'actif.](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (46 articles)
+      - [Chapitre III : De l'apurement du passif.](partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md) (24 articles)
+      - [Chapitre IV : De la liquidation judiciaire simplifiée.](partie-reglementaire/livre-vi/titre-iv/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Du rétablissement professionnel](partie-reglementaire/livre-vi/titre-iv/chapitre-v.md) (25 articles)
+    - **TITRE V : Des responsabilités et des sanctions.**
+      - [Chapitre Ier : De la responsabilité pour insuffisance d'actif.](partie-reglementaire/livre-vi/titre-v/chapitre-ier.md) (6 articles)
+      - [Chapitre III : De la faillite personnelle et des autres mesures d'interdiction.](partie-reglementaire/livre-vi/titre-v/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : De la banqueroute et des autres infractions.](partie-reglementaire/livre-vi/titre-v/chapitre-iv.md) (1 article)
+    - **TITRE VI : Des dispositions générales de procédure.**
+      - [Chapitre Ier : Des voies de recours.](partie-reglementaire/livre-vi/titre-vi/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Autres dispositions.](partie-reglementaire/livre-vi/titre-vi/chapitre-ii.md) (22 articles)
+      - [Chapitre III : Des frais de procédure.](partie-reglementaire/livre-vi/titre-vi/chapitre-iii.md) (60 articles)
+    - [TITRE VII : Dispositions dérogatoires particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.](partie-reglementaire/livre-vi/titre-vii.md) (5 articles)
+    - [TITRE VIII BIS : Dispositions particulières à l'entrepreneur individuel relevant du statut défini à la section 3 du chapitre VI du titre II du livre V](partie-reglementaire/livre-vi/titre-viii-bis.md) (7 articles)
+    - **TITRE IX : Dispositions particulières aux procédures d'insolvabilité relevant du règlement (UE) n° 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité**
+      - [TITRE IX : Dispositions particulières aux procédures d'insolvabilité relevant du règlement (UE) n° 2015/848 du 20 mai 2015 relatif aux procédures d'insolvabilité : articles rattachés directement](partie-reglementaire/livre-vi/titre-ix/articles-directs.md) (1 article)
+      - [Chapitre Ier : Des procédures d'insolvabilité principales](partie-reglementaire/livre-vi/titre-ix/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des procédures d'insolvabilité secondaires](partie-reglementaire/livre-vi/titre-ix/chapitre-ii.md) (10 articles)
+      - [Chapitre III : De l'information des créanciers étrangers et de la déclaration des créances](partie-reglementaire/livre-vi/titre-ix/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Des procédures d'insolvabilité concernant des membres d'un groupe de sociétés établies dans plusieurs Etats membres](partie-reglementaire/livre-vi/titre-ix/chapitre-iv.md) (7 articles)
+      - [Chapitre V : De la coopération et de la communication des praticiens de l'insolvabilité et des juridictions](partie-reglementaire/livre-vi/titre-ix/chapitre-v.md) (4 articles)
+  - **LIVRE VII : Des juridictions commerciales et de l'organisation du commerce.**
+    - **TITRE Ier : Du réseau des chambres de commerce et d'industrie.**
+      - [Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie.](partie-reglementaire/livre-vii/titre-ier/chapitre-ier.md) (85 articles)
+      - [Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie.](partie-reglementaire/livre-vii/titre-ier/chapitre-ii.md) (52 articles)
+      - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie territoriales et de région](partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md) (36 articles)
+    - **TITRE II : Du tribunal de commerce.**
+      - [Chapitre Ier : De l'institution et de la compétence](partie-reglementaire/livre-vii/titre-ii/chapitre-ier.md) (24 articles)
+      - [Chapitre II : De l'organisation et du fonctionnement](partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md) (47 articles)
+      - [Chapitre III : De l'élection des juges des tribunaux de commerce](partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md) (31 articles)
+      - [Chapitre IV : De la discipline des juges des tribunaux de commerce](partie-reglementaire/livre-vii/titre-ii/chapitre-iv.md) (24 articles)
+    - **TITRE III : Des juridictions commerciales particulières.**
+      - [Chapitre Ier : Des dispositions applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.](partie-reglementaire/livre-vii/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Des dispositions applicables aux départements et régions d'outre-mer.](partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md) (8 articles)
+    - **TITRE IV : Du greffe du tribunal de commerce.**
+      - [Chapitre Ier : De l'institution et des missions](partie-reglementaire/livre-vii/titre-iv/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Des conditions d'accès à la profession et aux autres professions judiciaires et juridiques](partie-reglementaire/livre-vii/titre-iv/chapitre-ii.md) (45 articles)
+      - [Chapitre III : Des conditions d'exercice](partie-reglementaire/livre-vii/titre-iv/chapitre-iii.md) (194 articles)
+    - **TITRE V : De l'aménagement commercial.**
+      - [Chapitre Ier : Des commissions d'aménagement commercial](partie-reglementaire/livre-vii/titre-v/chapitre-ier.md) (11 articles)
+      - [Chapitre II : De l'autorisation commerciale](partie-reglementaire/livre-vii/titre-v/chapitre-ii.md) (91 articles)
+    - **TITRE VI : Des marchés d'intérêt national et des manifestations commerciales.**
+      - [Chapitre Ier : Des marchés d'intérêt national](partie-reglementaire/livre-vii/titre-vi/chapitre-ier.md) (33 articles)
+      - [Chapitre II : Des manifestations commerciales.](partie-reglementaire/livre-vii/titre-vi/chapitre-ii.md) (14 articles)
+  - **LIVRE VIII : De quelques professions réglementées.**
+    - **TITRE Ier : Des administrateurs judiciaires, des mandataires judiciaires et des experts en diagnostic d'entreprise.**
+      - [Chapitre Ier : Des administrateurs judiciaires](partie-reglementaire/livre-viii/titre-ier/chapitre-ier.md) (79 articles)
+      - [Chapitre II : Des mandataires judiciaires](partie-reglementaire/livre-viii/titre-ier/chapitre-ii.md) (30 articles)
+      - [Chapitre IV : Dispositions communes](partie-reglementaire/livre-viii/titre-ier/chapitre-iv.md) (201 articles)
+    - **TITRE II : Des commissaires aux comptes, des organismes tiers indépendants et des auditeurs des informations en matière de durabilité.**
+      - [Chapitre préliminaire : De la Haute autorité de l'audit](partie-reglementaire/livre-viii/titre-ii/chapitre-preliminaire.md) (54 articles)
+      - [Chapitre Ier : Des commissaires aux comptes](partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md) (233 articles)
+      - [Chapitre II : Des organismes tiers indépendants et des auditeurs des informations en matière de durabilité](partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md) (44 articles)
+  - **LIVRE IX : Dispositions relatives à l'outre-mer.**
+    - [TITRE Ier A : Observatoires des prix et des revenus.](partie-reglementaire/livre-ix/titre-ier-a.md) (4 articles)
+    - **TITRE Ier : Dispositions spécifiques à Saint-pierre-et-Miquelon.**
+      - [TITRE Ier : Dispositions spécifiques à Saint-pierre-et-Miquelon. : articles rattachés directement](partie-reglementaire/livre-ix/titre-ier/articles-directs.md) (7 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-reglementaire/livre-ix/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-reglementaire/livre-ix/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-reglementaire/livre-ix/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-reglementaire/livre-ix/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-reglementaire/livre-ix/titre-ier/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-reglementaire/livre-ix/titre-ier/chapitre-vii.md) (27 articles)
+    - **TITRE II : Dispositions applicables à Mayotte.**
+      - [TITRE II : Dispositions applicables à Mayotte. : articles rattachés directement](partie-reglementaire/livre-ix/titre-ii/articles-directs.md) (5 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-reglementaire/livre-ix/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-reglementaire/livre-ix/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-reglementaire/livre-ix/titre-ii/chapitre-iv.md) (2 articles)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-reglementaire/livre-ix/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-reglementaire/livre-ix/titre-ii/chapitre-vii.md) (10 articles)
+    - **TITRE III : Dispositions applicables en Nouvelle-Calédonie.**
+      - [TITRE III : Dispositions applicables en Nouvelle-Calédonie. : articles rattachés directement](partie-reglementaire/livre-ix/titre-iii/articles-directs.md) (9 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-reglementaire/livre-ix/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-reglementaire/livre-ix/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-reglementaire/livre-ix/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-reglementaire/livre-ix/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-reglementaire/livre-ix/titre-iii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-reglementaire/livre-ix/titre-iii/chapitre-vii.md) (10 articles)
+      - [Chapitre VIII : Dispositions d'adaptation du livre VIII.](partie-reglementaire/livre-ix/titre-iii/chapitre-viii.md) (1 article)
+    - **TITRE IV : Dispositions applicables en Polynésie française.**
+      - [TITRE IV : Dispositions applicables en Polynésie française. : articles rattachés directement](partie-reglementaire/livre-ix/titre-iv/articles-directs.md) (4 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-reglementaire/livre-ix/titre-iv/chapitre-vii.md) (9 articles)
+    - **TITRE V : Dispositions applicables dans les îles Wallis et Futuna.**
+      - [TITRE V : Dispositions applicables dans les îles Wallis et Futuna. : articles rattachés directement](partie-reglementaire/livre-ix/titre-v/articles-directs.md) (8 articles)
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier.](partie-reglementaire/livre-ix/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II.](partie-reglementaire/livre-ix/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions d'adaptation du livre III.](partie-reglementaire/livre-ix/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions d'adaptation du livre IV.](partie-reglementaire/livre-ix/titre-v/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions d'adaptation du livre V.](partie-reglementaire/livre-ix/titre-v/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions d'adaptation du livre VI.](partie-reglementaire/livre-ix/titre-v/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Dispositions d'adaptation du livre VII.](partie-reglementaire/livre-ix/titre-v/chapitre-vii.md) (1 article)
+    - **TITRE VI : Dispositions spécifiques à Saint-Barthélemy.**
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier](partie-reglementaire/livre-ix/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions d'adaptation du livre II](partie-reglementaire/livre-ix/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions d'adaptation du livre III](partie-reglementaire/livre-ix/titre-vi/chapitre-iii.md) (2 articles)
+      - [Chapitre V : Dispositions d'adaptation du livre V](partie-reglementaire/livre-ix/titre-vi/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions spécifiques au livre VI](partie-reglementaire/livre-ix/titre-vi/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions spécifiques au livre VII](partie-reglementaire/livre-ix/titre-vi/chapitre-vii.md) (1 article)
+    - **TITRE VII : Dispositions spécifiques à Saint-Martin.**
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier](partie-reglementaire/livre-ix/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Dispositions d'adaptation du livre III](partie-reglementaire/livre-ix/titre-vii/chapitre-iii.md) (2 articles)
+      - [Chapitre VI : Dispositions spécifiques au livre VI](partie-reglementaire/livre-ix/titre-vii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions spécifiques au livre VII](partie-reglementaire/livre-ix/titre-vii/chapitre-vii.md) (1 article)
+- [Annexes de la partie réglementaire](annexes-de-la-partie-reglementaire.md) (35 articles)
+- **Partie Arrêtés**
+  - **LIVRE Ier : Du commerce en général.**
+    - **TITRE II : Des commerçants.**
+      - [Chapitre III : Des obligations générales des commerçants](partie-arretes/livre-ier/titre-ii/chapitre-iii.md) (108 articles)
+    - **TITRE III : Des courtiers, des commissionnaires, des transporteurs et des agents commerciaux.**
+      - [Chapitre Ier : Des courtiers](partie-arretes/livre-ier/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre IV : Des agents commerciaux](partie-arretes/livre-ier/titre-iii/chapitre-iv.md) (5 articles)
+    - [ANNEXE 1-1 (ANNEXE AUX ARTICLES A. 123-45, A. 123-47, A. 123-50, A. 134-2)](partie-arretes/livre-ier/annexe-1-1-annexe-aux-articles-a-123-45-a-123-47-a-123-50-a-134-2.md) (11 articles)
+    - [ANNEXE 1-2 (ANNEXE AUX ARTICLES A. 123-63 ET A. 134-2)](partie-arretes/livre-ier/annexe-1-2-annexe-aux-articles-a-123-63-et-a-134-2.md) (1 article)
+    - [ANNEXE 1-3 (ANNEXE A L'ARTICLE A. 131-1)](partie-arretes/livre-ier/annexe-1-3-annexe-a-l-article-a-131-1.md) (1 article)
+    - [ANNEXE 1-4 (ANNEXE A L'ARTICLE A. 131-1)](partie-arretes/livre-ier/annexe-1-4-annexe-a-l-article-a-131-1.md) (1 article)
+    - [ANNEXE 1-5 (ANNEXE A L'ARTICLE A. 123-61-1)](partie-arretes/livre-ier/annexe-1-5-annexe-a-l-article-a-123-61-1.md) (1 article)
+    - [ANNEXE 1-5-1 (ANNEXE A L'ARTICLE A. 123-61-1)](partie-arretes/livre-ier/annexe-1-5-1-annexe-a-l-article-a-123-61-1.md) (1 article)
+    - [ANNEXE 1-5-2](partie-arretes/livre-ier/annexe-1-5-2.md) (1 article)
+    - [ANNEXE 1-6 (ANNEXE A L'ARTICLE A. 123-68-1)](partie-arretes/livre-ier/annexe-1-6-annexe-a-l-article-a-123-68-1.md) (1 article)
+  - **LIVRE II : Des sociétés commerciales et des groupements d'intérêt économique.**
+    - **TITRE Ier : Dispositions préliminaires.**
+      - [Section 3 : Des formalités de publicité](partie-arretes/livre-ii/titre-ier/section-3.md) (2 articles)
+    - **TITRE II : Dispositions particulières aux diverses sociétés commerciales.**
+      - [Chapitre V : Des sociétés anonymes](partie-arretes/livre-ii/titre-ii/chapitre-v.md) (4 articles)
+    - **TITRE III : Dispositions communes aux diverses sociétés commerciales.**
+      - [Chapitre II : Des comptes sociaux](partie-arretes/livre-ii/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Des filiales, des participations et des sociétés contrôlées](partie-arretes/livre-ii/titre-iii/chapitre-iii.md) (1 article)
+  - **LIVRE III : De certaines formes de ventes et des clauses d'exclusivité.**
+    - **TITRE Ier : Des liquidations, des ventes au déballage, des soldes et des ventes en magasins d'usine.**
+      - [Section 1 : Des liquidations](partie-arretes/livre-iii/titre-ier/section-1.md) (6 articles)
+      - [Section 3 : Des soldes](partie-arretes/livre-iii/titre-ier/section-3.md) (3 articles)
+    - **TITRE II : Des ventes aux enchères publiques.**
+      - [Chapitre Ier : Des ventes volontaires de meubles aux enchères publiques](partie-arretes/livre-iii/titre-ii/chapitre-ier.md) (30 articles)
+    - [ANNEXE 3-1 (ANNEXE À L'ARTICLE A. 310-1)](partie-arretes/livre-iii/annexe-3-1-annexe-a-l-article-a-310-1.md) (1 article)
+    - [ANNEXE 3-2 (ANNEXE À L'ARTICLE A. 310-3)](partie-arretes/livre-iii/annexe-3-2-annexe-a-l-article-a-310-3.md) (1 article)
+    - [ANNEXE 3-2-1 (ANNEXE À L'ARTICLE A. 321-1)](partie-arretes/livre-iii/annexe-3-2-1-annexe-a-l-article-a-321-1.md) (1 article)
+    - [ANNEXE 3-2-2 (ANNEXE À L'ARTICLE A. 321-1)](partie-arretes/livre-iii/annexe-3-2-2-annexe-a-l-article-a-321-1.md) (1 article)
+    - [ANNEXE 3-2-3 (ANNEXE À L'ARTICLE A. 321-6)](partie-arretes/livre-iii/annexe-3-2-3-annexe-a-l-article-a-321-6.md) (1 article)
+    - [ANNEXE 3-3 (ANNEXE À L'ARTICLE A. 321-8)](partie-arretes/livre-iii/annexe-3-3-annexe-a-l-article-a-321-8.md) (1 article)
+    - [ANNEXE 3-3-1 (ANNEXE À L'ARTICLE A. 321-11)](partie-arretes/livre-iii/annexe-3-3-1-annexe-a-l-article-a-321-11.md) (1 article)
+    - [ANNEXE 3-4 (ANNEXE AUX ARTICLES A. 321-11 ET A. 321-13)](partie-arretes/livre-iii/annexe-3-4-annexe-aux-articles-a-321-11-et-a-321-13.md) (1 article)
+    - [ANNEXE 3-5 (ANNEXE À L'ARTICLE A. 321-23)](partie-arretes/livre-iii/annexe-3-5-annexe-a-l-article-a-321-23.md) (1 article)
+  - **LIVRE IV : De la liberté des prix et de la concurrence.**
+    - **TITRE IV : De la transparence, des pratiques restrictives de concurrence et d'autres pratiques prohibées.**
+      - [Chapitre Ier : De la transparence](partie-arretes/livre-iv/titre-iv/chapitre-ier.md) (2 articles)
+    - **TITRE IV BIS : De certains tarifs réglementés**
+      - [Chapitre Ier : Fixation des tarifs](partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md) (218 articles)
+      - [Chapitre II : Recueil de données et d'informations](partie-arretes/livre-iv/titre-iv-bis/chapitre-ii.md) (1 article)
+    - [TITRE V : Des pouvoirs d'enquête.](partie-arretes/livre-iv/titre-v.md) (3 articles)
+    - **TITRE VI : De l'autorité de la concurrence**
+      - [Chapitre II : Des attributions](partie-arretes/livre-iv/titre-vi/chapitre-ii.md) (1 article)
+    - [ANNEXE 4-1 (ANNEXE À L'ARTICLE A. 441-2)](partie-arretes/livre-iv/annexe-4-1-annexe-a-l-article-a-441-2.md) (1 article)
+    - [ANNEXE 4-2 (ANNEXE À L'ARTICLE A. 444-203)](partie-arretes/livre-iv/annexe-4-2-annexe-a-l-article-a-444-203.md) (1 article)
+    - [ANNEXE 4-3 (ANNEXE À L'ARTICLE A. 462-1)](partie-arretes/livre-iv/annexe-4-3-annexe-a-l-article-a-462-1.md) (1 article)
+  - **LIVRE V : Des effets de commerce et des garanties.**
+    - **TITRE II : Des garanties.**
+      - [Chapitre VI : De la protection de l'entrepreneur individuel](partie-arretes/livre-v/titre-ii/chapitre-vi.md) (12 articles)
+  - **LIVRE VI : Des difficultés des entreprises.**
+    - **TITRE II : De la sauvegarde.**
+      - [Chapitre III : De l'élaboration du bilan économique, social et environnemental](partie-arretes/livre-vi/titre-ii/chapitre-iii.md) (1 article)
+    - **TITRE VI : Des dispositions générales de procédure.**
+      - [Chapitre III : Des frais de procedure](partie-arretes/livre-vi/titre-vi/chapitre-iii.md) (30 articles)
+    - [ANNEXE 6-1 (ANNEXE À L'ARTICLE A. 623-1)](partie-arretes/livre-vi/annexe-6-1-annexe-a-l-article-a-623-1.md) (1 article)
+  - **LIVRE VII : Des juridictions commerciales et de l'organisation du commerce.**
+    - **TITRE Ier : Du réseau des chambres de commerce et d'industrie.**
+      - [Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie](partie-arretes/livre-vii/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie](partie-arretes/livre-vii/titre-ier/chapitre-ii.md) (19 articles)
+      - [Chapitre III : De l'élection des membres des chambres de commerce et d'industrie territoriales et de région](partie-arretes/livre-vii/titre-ier/chapitre-iii.md) (17 articles)
+    - **TITRE II : Du tribunal de commerce.**
+      - [Chapitre Ier : De l'institution et de la compétence](partie-arretes/livre-vii/titre-ii/chapitre-ier.md) (10 articles)
+    - **TITRE IV : Du greffe du tribunal de commerce.**
+      - [Chapitre Ier : De l'institution et des missions](partie-arretes/livre-vii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des conditions d'accès à la profession et aux autres professions judiciaires et juridiques](partie-arretes/livre-vii/titre-iv/chapitre-ii.md) (18 articles)
+      - [Chapitre III : Des conditions d'exercice](partie-arretes/livre-vii/titre-iv/chapitre-iii.md) (19 articles)
+    - **TITRE V : De l'équipement commercial.**
+      - [TITRE V : De l'équipement commercial. : articles rattachés directement](partie-arretes/livre-vii/titre-v/articles-directs.md) (7 articles)
+      - [Chapitre II : De l'autorisation commerciale](partie-arretes/livre-vii/titre-v/chapitre-ii.md) (4 articles)
+    - **TITRE VI : Des marchés d'intérêt national et des manifestations commerciales.**
+      - [Chapitre Ier : Des marchés d'intérêt national](partie-arretes/livre-vii/titre-vi/chapitre-ier.md) (17 articles)
+      - [Chapitre II : Des manifestations commerciales](partie-arretes/livre-vii/titre-vi/chapitre-ii.md) (15 articles)
+    - [ANNEXE 7-1 (ANNEXE AUX ARTICLES A. 712-27 ET A. 712-28)](partie-arretes/livre-vii/annexe-7-1-annexe-aux-articles-a-712-27-et-a-712-28.md) (3 articles)
+    - [ANNEXE 7-2 (ANNEXE AUX ARTICLES A. 713-8 ET A. 713-11)](partie-arretes/livre-vii/annexe-7-2-annexe-aux-articles-a-713-8-et-a-713-11.md) (1 article)
+    - [ANNEXE 7-3 (ANNEXE AUX ARTICLES A. 713-17 ET A. 723-23)](partie-arretes/livre-vii/annexe-7-3-annexe-aux-articles-a-713-17-et-a-723-23.md) (1 article)
+    - [ANNEXE 7-5 (ANNEXE À L'ARTICLE A. 742-6)](partie-arretes/livre-vii/annexe-7-5-annexe-a-l-article-a-742-6.md) (1 article)
+    - [ANNEXE 7-6 (ANNEXE À L'ARTICLE A. 742-11)](partie-arretes/livre-vii/annexe-7-6-annexe-a-l-article-a-742-11.md) (1 article)
+    - [ANNEXE 7-6-1 (ANNEXE À L'ARTICLE A. 743-6)](partie-arretes/livre-vii/annexe-7-6-1-annexe-a-l-article-a-743-6.md) (1 article)
+    - [ANNEXE 7-8 (ANNEXE À L'ARTICLE A. 752-3)](partie-arretes/livre-vii/annexe-7-8-annexe-a-l-article-a-752-3.md) (1 article)
+    - [ANNEXE 7-9 (ANNEXE À L'ARTICLE A. 752-4)](partie-arretes/livre-vii/annexe-7-9-annexe-a-l-article-a-752-4.md) (1 article)
+    - [ANNEXE 7-10 (ANNEXE AUX ARTICLES A. 762-2 À A. 762-4 ET A. 762-9)](partie-arretes/livre-vii/annexe-7-10-annexe-aux-articles-a-762-2-a-a-762-4-et-a-762-9.md) (13 articles)
+  - **LIVRE VIII : De quelques professions réglementées.**
+    - **TITRE Ier : Des administrateurs judiciaires, des mandataires judiciaires et des experts en diagnostic d'entreprise.**
+      - [Chapitre Ier : Des administrateurs judiciaires](partie-arretes/livre-viii/titre-ier/chapitre-ier.md) (42 articles)
+      - [Chapitre II : Des mandataires judiciaires](partie-arretes/livre-viii/titre-ier/chapitre-ii.md) (29 articles)
+      - [Chapitre IV : Dispositions communes](partie-arretes/livre-viii/titre-ier/chapitre-iv.md) (7 articles)
+    - **TITRE II : Des commissaires aux comptes, des organismes tiers indépendants et des auditeurs des informations en matière de durabilité.**
+      - [Chapitre Ier : Des commissaires aux comptes](partie-arretes/livre-viii/titre-ii/chapitre-ier.md) (99 articles)
+      - [Chapitre II : Des organismes tiers indépendants et des auditeurs des informations en matière de durabilité](partie-arretes/livre-viii/titre-ii/chapitre-ii.md) (19 articles)
+    - **Annexes partie A Livre VIII**
+      - [ANNEXE 8-1 (ANNEXE À L'ARTICLE A. 811-1)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-1-annexe-a-l-article-a-811-1.md) (1 article)
+      - [ANNEXE 8-1-1 (AUX ARTICLES A. 811-25 et A. 812-24)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-1-1-aux-articles-a-811-25-et-a-812-24.md) (1 article)
+      - [ANNEXE 8-2 (ANNEXE À L'ARTICLE A. 814-1)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-2-annexe-a-l-article-a-814-1.md) (2 articles)
+      - [ANNEXE 8-3 (ANNEXE À L'ARTICLE A. 814-2)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-3-annexe-a-l-article-a-814-2.md) (1 article)
+      - [ANNEXE 8-4 (ANNEXE À L'ARTICLE A. 814-3)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-4-annexe-a-l-article-a-814-3.md) (1 article)
+      - [ANNEXE 8-5-1 (ANNEXE A L'ARTICLE A. 814-4)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-5-1-annexe-a-l-article-a-814-4.md) (1 article)
+      - [ANNEXE 8-5-2 (ANNEXE À L'ARTICLE A. 814-4)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-5-2-annexe-a-l-article-a-814-4.md) (1 article)
+      - [ANNEXE 8-7 (ANNEXE À L'ARTICLE A. 822-6)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-7-annexe-a-l-article-a-822-6.md) (1 article)
+      - [ANNEXE 8-8 (ANNEXE À L'ARTICLE A. 822-29)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-8-annexe-a-l-article-a-822-29.md) (1 article)
+      - [ANNEXE 8-9 (ANNEXE À L'ARTICLE A. 822-1-1)](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-9-annexe-a-l-article-a-822-1-1.md) (1 article)
+      - [ANNEXE 8-10](partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-10.md) (1 article)

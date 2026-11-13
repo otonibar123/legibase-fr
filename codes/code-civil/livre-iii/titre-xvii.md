@@ -48,7 +48,7 @@ En cas d'urgence, la convention ne fait pas obstacle à ce que des mesures provi
 - État : en vigueur depuis le 24/12/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570055
 - Renvoie à : art. L111-3 du Code des procédures civiles d'exécution
-- Cité par : [art. 2067 du Code civil](titre-xvii.md#article-2067) ; [art. 1529 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930595) ; [art. 1540 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930507)
+- Cité par : [art. 2067 du Code civil](titre-xvii.md#article-2067) ; [art. 1529 du Code de procédure civile](../../code-de-procedure-civile/livre-v/titre-ier.md#article-1529) ; [art. 1540 du Code de procédure civile](../../code-de-procedure-civile/livre-v/titre-iii/chapitre-iii.md#article-1540)
 
 Sans préjudice du 7° de l'article L. 111-3 du code des procédures civiles d'exécution, les parties qui, au terme de la convention de procédure participative, parviennent à un accord réglant en tout ou partie leur différend peuvent soumettre cet accord à l'homologation du juge.
 
@@ -61,7 +61,7 @@ Le deuxième alinéa n'est pas applicable aux litiges en matière prud'homale.
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023276635
 - Renvoie à : [art. 2066 du Code civil](titre-xvii.md#article-2066)
-- Cité par : [art. 2064 du Code civil](titre-xvii.md#article-2064) ; [art. 1528-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930600)
+- Cité par : [art. 2064 du Code civil](titre-xvii.md#article-2064) ; [art. 1528-2 du Code de procédure civile](../../code-de-procedure-civile/livre-v/titre-ier.md#article-1528-2)
 
 Une convention de procédure participative peut être conclue par des époux en vue de rechercher une solution consensuelle en matière de divorce ou de séparation de corps.
 

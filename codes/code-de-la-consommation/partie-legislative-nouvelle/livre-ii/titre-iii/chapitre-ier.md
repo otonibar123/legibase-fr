@@ -1,0 +1,15 @@
+# Chapitre Ier : Dispositions communes
+
+Code de la consommation › Partie législative nouvelle › Livre II : FORMATION ET ÉXECUTION DES CONTRATS › Titre III : LOI APPLICABLE AUX CONTRATS TRANSFRONTALIERS
+
+### Article L231-1
+- Identifiant : LEGIARTI000032226441
+- État : en vigueur depuis le 01/07/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226441
+- Renvoie à : [art. L232-1 du Code de la consommation](chapitre-ii.md#article-l232-1) ; [art. L232-2 du Code de la consommation](chapitre-ii.md#article-l232-2) ; [art. L232-3 du Code de la consommation](chapitre-ii.md#article-l232-3) ; [art. L232-4 du Code de la consommation](chapitre-ii.md#article-l232-4)
+
+Pour l'application des articles L. 232-1, L. 232-2, L. 232-3 et L. 232-4, un lien étroit avec le territoire d'un Etat membre est réputé établi notamment :  
+1° Si le contrat a été conclu dans l'Etat membre du lieu de résidence habituelle du consommateur ;  
+2° Si le professionnel dirige son activité vers le territoire de l'Etat membre où réside le consommateur, sous réserve que le contrat entre dans le cadre de cette activité ;  
+3° Si le contrat a été précédé dans cet Etat membre d'une offre spécialement faite ou d'une publicité et des actes accomplis par le consommateur nécessaires à la conclusion de ce contrat ;  
+4° Si le contrat a été conclu dans un Etat membre où le consommateur s'est rendu à la suite d'une proposition de voyage ou de séjour faite, directement ou indirectement, par le vendeur pour l'inciter à conclure ce contrat.

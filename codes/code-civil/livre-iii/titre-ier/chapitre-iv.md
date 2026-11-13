@@ -166,7 +166,7 @@ Il en est de même :
 - Identifiant : LEGIARTI000030254044
 - État : en vigueur depuis le 18/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030254044
-- Cité par : [art. 812-1-3 du Code civil](chapitre-vi.md#article-812-1-3) ; [art. 813-4 du Code civil](chapitre-vi.md#article-813-4) ; [Arrêté du 3 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050740263) ; [art. 997 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006404286) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953) ; [art. L312-1-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030254037) ; [art. L752-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054141573)
+- Cité par : [art. 812-1-3 du Code civil](chapitre-vi.md#article-812-1-3) ; [art. 813-4 du Code civil](chapitre-vi.md#article-813-4) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [Arrêté du 3 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050740263) ; [art. 997 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006404286) ; [art. L312-1-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030254037) ; [art. L752-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054141573)
 
 Les actes purement conservatoires ou de surveillance et les actes d'administration provisoire peuvent être accomplis sans emporter acceptation de la succession, si le successible n'y a pas pris le titre ou la qualité d'héritier.
 
@@ -221,7 +221,7 @@ Un héritier peut déclarer qu'il n'entend prendre cette qualité qu'à concurre
 - Identifiant : LEGIARTI000039368537
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039368537
-- Cité par : [art. 792 du Code civil](chapitre-iv.md#article-792) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978) ; [art. 1335 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033748027)
+- Cité par : [art. 792 du Code civil](chapitre-iv.md#article-792) ; [art. 1335 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1335) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978)
 
 La déclaration doit être faite au greffe du tribunal judiciaire dans le ressort duquel la succession est ouverte ou devant notaire. Elle comporte élection d'un domicile unique, qui peut être le domicile de l'un des acceptants à concurrence de l'actif net, ou celui de la personne chargée du règlement de la succession. Le domicile doit être situé en France.
 
@@ -233,7 +233,7 @@ La déclaration est enregistrée et fait l'objet d'une publicité nationale, qui
 - Identifiant : LEGIARTI000006431580
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431580
-- Cité par : [art. 813-4 du Code civil](chapitre-vi.md#article-813-4) ; [art. 1029 du Code civil](../titre-ii/chapitre-v.md#article-1029) ; [art. 1331 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412488) ; [art. 764 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045277005)
+- Cité par : [art. 813-4 du Code civil](chapitre-vi.md#article-813-4) ; [art. 1029 du Code civil](../titre-ii/chapitre-v.md#article-1029) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 1331 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1331) ; [art. 764 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045277005)
 
 La déclaration est accompagnée ou suivie de l'inventaire de la succession qui comporte une estimation, article par article, des éléments de l'actif et du passif.  
 
@@ -243,7 +243,7 @@ L'inventaire est établi par un commissaire-priseur judiciaire, un huissier ou u
 - Identifiant : LEGIARTI000006431591
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431591
-- Cité par : [art. 773 du Code civil](chapitre-iv.md#article-773) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978) ; [art. 1335 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033748027) ; [art. 1338 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412495) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 773 du Code civil](chapitre-iv.md#article-773) ; [art. 1335 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1335) ; [art. 1338 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1338) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978)
 
 L'inventaire est déposé au tribunal dans le délai de deux mois à compter de la déclaration.  
 
@@ -276,7 +276,7 @@ L'acceptation à concurrence de l'actif net donne à l'héritier l'avantage :
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431611
 - Renvoie à : [art. 788 du Code civil](chapitre-iv.md#article-788) ; [art. 796 du Code civil](chapitre-iv.md#article-796)
-- Cité par : [art. 792-1 du Code civil](chapitre-iv.md#article-792-1) ; [art. 793 du Code civil](chapitre-iv.md#article-793) ; [art. 798 du Code civil](chapitre-iv.md#article-798) ; [art. 799 du Code civil](chapitre-iv.md#article-799) ; [art. 1392 du Code civil](../titre-v/chapitre-ier.md#article-1392) ; [art. 1337 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033748033)
+- Cité par : [art. 792-1 du Code civil](chapitre-iv.md#article-792-1) ; [art. 793 du Code civil](chapitre-iv.md#article-793) ; [art. 798 du Code civil](chapitre-iv.md#article-798) ; [art. 799 du Code civil](chapitre-iv.md#article-799) ; [art. 1392 du Code civil](../titre-v/chapitre-ier.md#article-1392) ; [art. 1337 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1337)
 
 Les créanciers de la succession déclarent leurs créances en notifiant leur titre au domicile élu de la succession. Ils sont payés dans les conditions prévues à l'article 796. Les créances dont le montant n'est pas encore définitivement fixé sont déclarées à titre provisionnel sur la base d'une évaluation.  
 
@@ -317,7 +317,7 @@ Il peut vendre les biens qu'il n'entend pas conserver. En ce cas, il doit le pri
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042634
 - Renvoie à : [art. 1167 du Code civil](../titre-iii/sous-titre-ier/chapitre-ii.md#article-1167) ; [art. 1341-2 du Code civil](../titre-iv/chapitre-iii.md#article-1341-2)
-- Cité par : [art. 795 du Code civil](chapitre-iv.md#article-795) ; [art. 800 du Code civil](chapitre-iv.md#article-800) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978) ; [art. 1335 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033748027)
+- Cité par : [art. 795 du Code civil](chapitre-iv.md#article-795) ; [art. 800 du Code civil](chapitre-iv.md#article-800) ; [art. 1335 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1335) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978)
 
 La déclaration de l'aliénation ou de la conservation d'un ou de plusieurs biens est faite dans les quinze jours au tribunal qui en assure la publicité.
 

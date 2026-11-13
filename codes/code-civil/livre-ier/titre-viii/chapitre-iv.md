@@ -67,6 +67,7 @@ L'adoption plénière de l'enfant du conjoint, du partenaire lié par un pacte c
 - Identifiant : LEGIARTI000046378026
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046378026
+- Cité par : [art. 1174 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-viii.md#article-1174)
 
 L'adoption plénière de l'enfant du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin laisse subsister sa filiation d'origine à l'égard de cette personne et de sa famille. Elle produit pour le surplus, les effets d'une adoption par un couple.
 

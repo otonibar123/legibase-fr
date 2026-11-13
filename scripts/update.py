@@ -24,6 +24,10 @@ URL_LEGI = "https://echanges.dila.gouv.fr/OPENDATA/LEGI/"
 # Codes traités : dossier -> identifiant LEGITEXT. On en ajoute un seul à la fois, avec l'accord de l'utilisateur.
 CODES = {
     "code-civil": "LEGITEXT000006070721",
+    "code-de-procedure-civile": "LEGITEXT000006070716",
+    "code-du-travail": "LEGITEXT000006072050",
+    "code-de-la-consommation": "LEGITEXT000006069565",
+    "code-de-commerce": "LEGITEXT000005634379",
 }
 
 

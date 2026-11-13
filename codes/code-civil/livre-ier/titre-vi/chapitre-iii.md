@@ -19,7 +19,7 @@ Le mariage est dissous :
 - Identifiant : LEGIARTI000033460839
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460839
-- Cité par : [art. 302 du Code civil](chapitre-iv.md#article-302) ; [art. 1104 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411951)
+- Cité par : [art. 302 du Code civil](chapitre-iv.md#article-302) ; [art. 1104 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1104)
 
 La convention ou le jugement de divorce est opposable aux tiers, en ce qui concerne les biens des époux, à partir du jour où les formalités de mention en marge prescrites par les règles de l'état civil ont été accomplies.
 
@@ -117,7 +117,7 @@ Cette demande ne peut être formée qu'à l'occasion de l'action en divorce.
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345288
 - Renvoie à : [art. 255 du Code civil](chapitre-ii.md#article-255)
-- Cité par : [art. 1116 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039644550) ; [art. 1136-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024531222)
+- Cité par : [art. 1116 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1116) ; [art. 1136-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1136-2)
 
 A défaut d'un règlement conventionnel par les époux, le juge statue sur leurs demandes de maintien dans l'indivision, d'attribution préférentielle et d'avance sur part de communauté ou de biens indivis.
 
@@ -186,7 +186,7 @@ A cet effet, le juge prend en considération notamment :
 - Identifiant : LEGIARTI000029043092
 - État : en vigueur depuis le 05/06/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029043092
-- Cité par : [art. 1075-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411872)
+- Cité par : [art. 1075-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1075-1)
 
 Dans le cadre de la fixation d'une prestation compensatoire, par le juge ou par les parties, ou à l'occasion d'une demande de révision, les parties fournissent au juge une déclaration certifiant sur l'honneur l'exactitude de leurs ressources, revenus, patrimoine et conditions de vie.
 
@@ -197,7 +197,7 @@ Dans le cadre de la fixation d'une prestation compensatoire, par le juge ou par 
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423982
 - Renvoie à : [art. 277 du Code civil](chapitre-iii.md#article-277)
-- Cité par : [art. 275 du Code civil](chapitre-iii.md#article-275) ; [art. 275-1 du Code civil](chapitre-iii.md#article-275-1) ; [art. 276 du Code civil](chapitre-iii.md#article-276) ; [art. 276-4 du Code civil](chapitre-iii.md#article-276-4) ; [art. 303 du Code civil](chapitre-iv.md#article-303) ; [art. 1080 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411890) ; [art. 199 octodecies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907654) ; [art. 1133 ter du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907661)
+- Cité par : [art. 275 du Code civil](chapitre-iii.md#article-275) ; [art. 275-1 du Code civil](chapitre-iii.md#article-275-1) ; [art. 276 du Code civil](chapitre-iii.md#article-276) ; [art. 276-4 du Code civil](chapitre-iii.md#article-276-4) ; [art. 303 du Code civil](chapitre-iv.md#article-303) ; [art. 1080 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1080) ; [art. 199 octodecies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907654) ; [art. 1133 ter du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907661)
 
 Le juge décide des modalités selon lesquelles s'exécutera la prestation compensatoire en capital parmi les formes suivantes :  
 
@@ -212,7 +212,7 @@ Le juge décide des modalités selon lesquelles s'exécutera la prestation compe
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423992
 - Renvoie à : [art. 274 du Code civil](chapitre-iii.md#article-274)
-- Cité par : [art. 275-1 du Code civil](chapitre-iii.md#article-275-1) ; [art. 276-4 du Code civil](chapitre-iii.md#article-276-4) ; [art. 279 du Code civil](chapitre-iii.md#article-279) ; [art. 280 du Code civil](chapitre-iii.md#article-280) ; [art. 280-1 du Code civil](chapitre-iii.md#article-280-1) ; [art. 1136-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021504233) ; [art. 80 quater du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907576) ; [art. 156 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373682) ; [Loi n° 2004-439 du 26 mai 2004, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030254067)
+- Cité par : [art. 275-1 du Code civil](chapitre-iii.md#article-275-1) ; [art. 276-4 du Code civil](chapitre-iii.md#article-276-4) ; [art. 279 du Code civil](chapitre-iii.md#article-279) ; [art. 280 du Code civil](chapitre-iii.md#article-280) ; [art. 280-1 du Code civil](chapitre-iii.md#article-280-1) ; [art. 1136-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1136-2) ; [art. 80 quater du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907576) ; [art. 156 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373682) ; [Loi n° 2004-439 du 26 mai 2004, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030254067)
 
 Lorsque le débiteur n'est pas en mesure de verser le capital dans les conditions prévues par l'article 274, le juge fixe les modalités de paiement du capital, dans la limite de huit années, sous forme de versements périodiques indexés selon les règles applicables aux pensions alimentaires.
 
@@ -236,7 +236,7 @@ Les modalités de versement prévues au premier alinéa de l'article 275 ne sont
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006424016
 - Renvoie à : [art. 271 du Code civil](chapitre-iii.md#article-271) ; [art. 274 du Code civil](chapitre-iii.md#article-274)
-- Cité par : [art. L136-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036390283) ; [art. L581-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281698) ; [art. R581-9 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006750786) ; [art. 465-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410721) ; [art. 1136-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021504233) ; [art. L161-3 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041398600) ; [art. L213-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044629357) ; [art. 80 quater du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907576) ; [art. 156 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373682) ; [art. 199 octodecies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907654) ; … et 7 autres textes (liste complète dans [renvois.md](../../renvois.md))
+- Cité par : [art. 465-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-ier/titre-xiv/chapitre-ier.md#article-465-1) ; [art. 1136-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1136-2) ; [art. L136-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036390283) ; [art. L581-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281698) ; [art. R581-9 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006750786) ; [art. L161-3 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041398600) ; [art. L213-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044629357) ; [art. 80 quater du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907576) ; [art. 156 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373682) ; [art. 199 octodecies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907654) ; [art. 1133 ter du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042907661) ; [Décret n°75-1339 du 31 décembre 1975, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286349) ; … et 5 autres textes (liste complète dans [renvois.md](../../renvois.md))
 
 A titre exceptionnel, le juge peut, par décision spécialement motivée, lorsque l'âge ou l'état de santé du créancier ne lui permet pas de subvenir à ses besoins, fixer la prestation compensatoire sous forme de rente viagère. Il prend en considération les éléments d'appréciation prévus à l'article 271.  
 
@@ -336,7 +336,7 @@ Lorsqu'elle a été fixée sous forme de rente, il lui est substitué un capital
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006424105
 - Renvoie à : [art. 275 du Code civil](chapitre-iii.md#article-275) ; [art. 276-3 du Code civil](chapitre-iii.md#article-276-3) ; [art. 276-4 du Code civil](chapitre-iii.md#article-276-4) ; [art. 280 du Code civil](chapitre-iii.md#article-280)
-- Cité par : [art. 280-2 du Code civil](chapitre-iii.md#article-280-2)
+- Cité par : [art. 280-2 du Code civil](chapitre-iii.md#article-280-2) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7)
 
 Par dérogation à l'article 280, les héritiers peuvent décider ensemble de maintenir les formes et modalités de règlement de la prestation compensatoire qui incombaient à l'époux débiteur, en s'obligeant personnellement au paiement de cette prestation. A peine de nullité, l'accord est constaté par un acte notarié. Il est opposable aux tiers à compter de sa notification à l'époux créancier lorsque celui-ci n'est pas intervenu à l'acte.  
 

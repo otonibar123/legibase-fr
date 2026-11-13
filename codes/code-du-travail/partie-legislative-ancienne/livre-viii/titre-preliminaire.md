@@ -1,0 +1,44 @@
+# Titre préliminaire.
+
+Code du travail › Partie législative ancienne › Livre VIII : Dispositions spéciales à l'outre-mer
+
+### Article L800-4
+- Identifiant : LEGIARTI000006651050
+- État : en vigueur depuis le 28/01/2005
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006651050
+- Cité par : [art. L800-5 du Code du travail](titre-preliminaire.md#article-l800-5)
+
+Dans le présent code et sous réserve, le cas échéant, des dispositions du présent livre, les mots : "national", "nationales", "nationaux", "France", "territoire français", "ensemble du territoire" ou "ensemble du territoire national" ne s'appliquent qu'aux départements de métropole, de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion et à Saint-Pierre-et-Miquelon.  
+
+Toutefois :  
+
+1° Lorsque les dispositions du présent code prévoient une sanction pénale d'interdiction du territoire français, cette interdiction, conformément aux dispositions du code pénal, s'applique sur l'ensemble du territoire de la République française ;  
+
+2° Les dispositions de l'article L. 439-1 s'appliquent aux entreprises dominantes dont le siège social se situe dans un département de métropole, d'outre-mer ou à Saint-Pierre-et-Miquelon et aux entreprises qu'elles contrôlent ou sur lesquelles elles exercent une influence dominante au sens du II de l'article L. 439-1 dont le siège social est situé dans ces départements ou cette collectivité, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna ou dans les Terres australes et antarctiques françaises.
+
+> Nota : Ordonnance 2007-329 du 12 mars 2007 art. 12 I, art. 13 :  
+> Sont abrogées, à compter du 1er mars 2008, les dispositions de la partie législative du code du travail dans sa rédaction issue de la loi n° 73-4 du 2 janvier 1973. Toutefois, demeurent en vigueur, dans leur rédaction en vigueur à la date de publication de la présente ordonnance, les dispositions de l'article L800-4, en tant qu'il concerne la Nouvelle-Calédonie et la Polynésie française.
+
+### Article L800-5
+- Identifiant : LEGIARTI000006651052
+- État : en vigueur depuis le 31/12/2006
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006651052
+- Renvoie à : [art. L800-4 du Code du travail](titre-preliminaire.md#article-l800-4)
+- Cité par : [Loi n°2007-224 du 21 février 2007, art. 20](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006399981)
+
+Les salariés et les entreprises intervenant dans les collectivités de la République française exclues du champ d'application géographique défini à l'article L. 800-4 sont régis par les dispositions suivantes :  
+
+1° Les dispositions de l'article L. 122-14-8 sont applicables au salarié mis par la société mère au service de laquelle il était précédemment engagé et dont le siège social est situé dans un département métropolitain, un département d'outre-mer ou à Saint-Pierre-et-Miquelon à la disposition d'une filiale établie à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna ou dans les Terres australes et antarctiques françaises et à laquelle il est lié par un contrat de travail ;  
+
+2° L'agence pour l'amélioration des conditions de travail instituée à l'article L. 200-5 ainsi que les organismes professionnels d'hygiène, de sécurité et des conditions de travail mentionnés à l'article L. 231-2 dont elle coordonne l'activité peuvent exercer leurs missions à Mayotte, à Wallis et Futuna et dans les Terres australes et antarctiques françaises. Ils peuvent également les exercer en Nouvelle-Calédonie et en Polynésie française à la demande des autorités locales compétentes en matière de droit du travail ;  
+
+3° Les dispositions de l'article L. 324-14-2 sont applicables au cocontractant établi ou domicilié à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna ou dans les Terres australes et antarctiques françaises ;  
+
+4° L'accord ou la décision administrative prévus à l'article L. 435-4 instituant le comité central d'entreprise mentionné à l'article L. 435-1 assure la représentation des établissements distincts de celle-ci établis à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna ou dans les Terres australes et antarctiques françaises ;  
+
+5° Les salariés des entreprises soumises aux dispositions des articles L. 441-1, L. 442-1 et L. 443-1 exerçant leur activité à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna ou dans les Terres australes et antarctiques française bénéficient de l'intéressement, de la participation et du plan d'épargne salariale dans les mêmes conditions que les salariés de celles-ci travaillant dans les départements de métropole, d'outre-mer ou à Saint-Pierre-et-Miquelon ;  
+
+6° Les dispositions du quatrième alinéa du I de l'article L. 513-3 s'appliquent également aux salariés travaillant dans un département de métropole ou d'outre-mer ou à Saint-Pierre-et-Miquelon et domiciliés à Mayotte, en Nouvelle-Calédonie, en Polynésie française ou à Wallis et Futuna.
+
+> Nota : Ordonnance 2007-329 du 12 mars 2007 art. 12 I, art. 13 :  
+> Sont abrogées, à compter du 1er mars 2008, les dispositions de la partie législative du code du travail dans sa rédaction issue de la loi n° 73-4 du 2 janvier 1973. Toutefois, demeurent en vigueur, dans leur rédaction en vigueur à la date de publication de la présente ordonnance, les dispositions de l'article L800-5, en tant qu'il concerne la Nouvelle-Calédonie et la Polynésie française.

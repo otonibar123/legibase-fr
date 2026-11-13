@@ -7,6 +7,7 @@ et les liens « Renvoie à » / « Cité par » dans les deux sens.
 import json
 import os
 import re
+import shutil
 import unicodedata
 import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
@@ -145,10 +146,13 @@ def _descendre(lien, parent, index, stats):
         else:
             stats["articles_non_gardes_" + lien.get("etat", "?")] += 1
         return
-    if lien.get("etat") != "VIGUEUR":
+    # Une section « ABROGE_DIFF » (abrogation future) ou « VIGUEUR_DIFF » (nouvelle version à venir) peut contenir
+    # des articles en vigueur aujourd'hui : on la parcourt, le tri se fait ensuite article par article.
+    if lien.get("etat") not in ("VIGUEUR", "ABROGE_DIFF", "VIGUEUR_DIFF"):
         stats["sections_non_gardees"] += 1
         return
-    noeud = {"titre": " ".join((lien.text or "").split()), "id": lien.get("id"), "enfants": []}
+    noeud = {"titre": " ".join((lien.text or "").split()), "id": lien.get("id"), "enfants": [],
+             "diff": parent.get("diff", False) or lien.get("etat") != "VIGUEUR"}
     parent["enfants"].append(("sec", noeud))
     fichier = index.get(lien.get("id"))
     if fichier is None:
@@ -179,6 +183,14 @@ def lire_article(chemin, stats):
 
 def sections(noeud):
     return [n for t, n in noeud["enfants"] if t == "sec"]
+
+
+def placements(noeud):
+    """(id d'article, nœud qui le contient) pour tout un nœud, sous-sections comprises."""
+    res = []
+    for t, x in noeud["enfants"]:
+        res += [(x, noeud)] if t == "art" else placements(x)
+    return res
 
 
 def ids_articles(noeud):
@@ -232,21 +244,32 @@ def lire_tout(codes, dossiers_xml, sortie, date_base):
             fichiers.append({"chemin": Path(sortie) / "codes" / cle / "articles-directs.md", "ancetres": [],
                              "noeud": {"titre": meta["nom"] + " : articles non rattachés", "id": id_code, "enfants": directs}})
         articles = {}
+        # LEGI peut rattacher un même article à deux versions d'une section : on le place une seule fois,
+        # d'abord sous les sections « VIGUEUR », puis sous les autres (ordre d'origine conservé sinon).
+        tous = [(f, id_art, parent) for f in fichiers for id_art, parent in placements(f["noeud"])]
+        tous.sort(key=lambda x: x[2].get("diff", False))
         for f in fichiers:
-            for id_art in ids_articles(f["noeud"]):
-                if id_art not in index:
-                    stats["articles_sans_fichier"] += 1
-                    continue
-                art = lire_article(index[id_art], stats)
-                # Garde-fou : l'état « VIGUEUR » ne suffit pas, la période de validité doit couvrir la date de la base.
-                if not (art["debut"] <= date_base < art["fin"]):
-                    stats["articles_hors_periode_de_validite"] += 1
-                    continue
-                art["fichier"] = f["chemin"]
-                articles[id_art] = art
-                if (meta["nom"], art["num"]) in emplacement:
-                    stats["numeros_en_double"] += 1
-                emplacement[(meta["nom"], art["num"])] = (f["chemin"], "article-" + ancre(art["num"]), id_art, cle)
+            f["nb"] = 0
+        for f, id_art, parent in tous:
+            if id_art in articles:
+                stats["articles_rattaches_deux_fois_ecrits_une_fois"] += 1
+                continue
+            if id_art not in index:
+                stats["articles_sans_fichier"] += 1
+                continue
+            art = lire_article(index[id_art], stats)
+            # Garde-fou : l'état « VIGUEUR » ne suffit pas, la période de validité doit couvrir la date de la base.
+            if not (art["debut"] <= date_base < art["fin"]):
+                stats["articles_hors_periode_de_validite"] += 1
+                continue
+            art["fichier"], art["parent"] = f["chemin"], id(parent)
+            f["nb"] += 1
+            articles[id_art] = art
+            if (meta["nom"], art["num"]) in emplacement:
+                stats["numeros_en_double"] += 1
+            emplacement[(meta["nom"], art["num"])] = (f["chemin"], "article-" + ancre(art["num"]), id_art, cle)
+        stats["fichiers_sans_article_en_vigueur_retires"] += sum(1 for f in fichiers if not f["nb"])
+        fichiers = [f for f in fichiers if f["nb"]]
         donnees[cle] = {"meta": meta, "fichiers": fichiers, "articles": articles}
     aretes, renvoie, cite_par = construire_liens(donnees, emplacement, stats)
     return stats, donnees, emplacement, aretes, renvoie, cite_par
@@ -364,7 +387,7 @@ def ecrire_fichier(f, d, cle, emplacement, renvoie, cite_par, dossier_code):
                 ecrire_noeud(x, fil + [x["titre"]])
                 continue
             a = d["articles"].get(x)
-            if a is None:
+            if a is None or a["parent"] != id(n):
                 continue
             nb += 1
             etat = f"en vigueur depuis le {date_fr(a['debut'])}"
@@ -396,6 +419,7 @@ def ecrire_tout(codes, dossiers_xml, sortie, date_base, date_maj):
     sortie = Path(sortie)
     stats, donnees, emplacement, aretes, renvoie, cite_par = lire_tout(codes, dossiers_xml, sortie, date_base)
     for cle, d in donnees.items():
+        shutil.rmtree(sortie / "codes" / cle, ignore_errors=True)
         d["nb_articles"] = sum(ecrire_fichier(f, d, cle, emplacement, renvoie, cite_par, sortie / "codes" / cle)
                                  for f in d["fichiers"])
         d["nb_fichiers"] = len(d["fichiers"])
@@ -424,7 +448,7 @@ def _readme_code(cle, d, sortie):
                 out.append("  " * i + f"- **{titre}**")
         precedent = f["ancetres"]
         rel = str(f["chemin"].relative_to(base)).replace(os.sep, "/")
-        n = len(ids_articles(f["noeud"]))
+        n = f["nb"]
         out.append("  " * len(f["ancetres"]) + f"- [{f['noeud']['titre']}]({rel}) ({n} article{'s' if n > 1 else ''})")
     (base / "README.md").write_text("\n".join(out) + "\n", encoding="utf-8")
 

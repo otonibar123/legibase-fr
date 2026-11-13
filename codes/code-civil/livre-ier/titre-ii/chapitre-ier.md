@@ -47,6 +47,7 @@ Dans les cas où les parties intéressées ne seront point obligées de compara�
 - Identifiant : LEGIARTI000006420789
 - État : en vigueur depuis le 27/10/1919
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006420789
+- Cité par : [art. ANNEXE, art. 30 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30)
 
 Les témoins produits aux actes de l'état civil devront être âgés de dix-huit ans au moins, parents ou autres, sans distinction de sexe ; ils seront choisis par les personnes intéressées.
 
@@ -85,7 +86,7 @@ Cette dispense est également applicable aux actes de l'état civil établis par
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310351
 - Renvoie à : art. 441-4 du Code pénal
-- Cité par : [art. 194 du Code civil](../titre-v/chapitre-iv.md#article-194) ; [art. 1578 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045282078) ; [art. 1119 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310377) ; [Décret n°2017-890 du 6 mai 2017, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343163) ; [Décret n°2017-890 du 6 mai 2017, art. 15-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343160) ; [Loi n° 68-671 du 25 juillet 1968, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038310372) ; [Ordonnance n°2010-590 du 3 juin 2010, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022299360) ; [Ordonnance n°62-800 du 16 juillet 1962, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047572685)
+- Cité par : [art. 194 du Code civil](../titre-v/chapitre-iv.md#article-194) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578) ; [art. 1119 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310377) ; [Décret n°2017-890 du 6 mai 2017, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343163) ; [Décret n°2017-890 du 6 mai 2017, art. 15-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343160) ; [Loi n° 68-671 du 25 juillet 1968, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038310372) ; [Ordonnance n°2010-590 du 3 juin 2010, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022299360) ; [Ordonnance n°62-800 du 16 juillet 1962, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047572685)
 
 Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en sera reçue tant par titres que par témoins ; et, dans ces cas, les mariages, naissances et décès pourront être prouvés tant par les registres et papiers émanés des pères et mères décédés, que par témoins.
 
@@ -119,7 +120,7 @@ La conservation des données de l'état civil est assurée par un traitement aut
 - Identifiant : LEGIARTI000033460882
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460882
-- Cité par : [art. 1047 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034723899) ; [Décret n°2006-1806 du 23 décembre 2006, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034777608) ; [Décret n°2008-521 du 2 juin 2008, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034723946) ; [Décret n°2012-966 du 20 août 2012, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034777687) ; [Ordonnance n°2019-724 du 10 juillet 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049714128)
+- Cité par : [art. 1047 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ii.md#article-1047) ; [Décret n°2006-1806 du 23 décembre 2006, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034777608) ; [Décret n°2008-521 du 2 juin 2008, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034723946) ; [Décret n°2012-966 du 20 août 2012, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034777687) ; [Ordonnance n°2019-724 du 10 juillet 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049714128)
 
 Dans tous les cas où la mention d'un acte relatif à l'état civil devra avoir lieu en marge d'un acte déjà inscrit, elle sera faite d'office.
 
@@ -135,7 +136,7 @@ Les officiers de l'état civil des communes mentionnées au troisième alinéa d
 - Identifiant : LEGIARTI000039366837
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039366837
-- Cité par : [art. 76 du Code civil](chapitre-iii.md#article-76) ; [art. 101 du Code civil](chapitre-vii.md#article-101) ; [art. R215 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518202)
+- Cité par : [art. 76 du Code civil](chapitre-iii.md#article-76) ; [art. 101 du Code civil](chapitre-vii.md#article-101) ; [art. 30-18 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-18) ; [art. R215 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518202)
 
 Toute contravention aux articles précédents, de la part des fonctionnaires y dénommés, sera poursuivie devant le tribunal judiciaire, et punie d'une amende de 3 à 30 euros.
 

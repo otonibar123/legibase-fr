@@ -1,0 +1,269 @@
+# Code de la consommation
+
+Dernière modification du texte dans LEGI : 10/10/2026. 1919 articles en vigueur, répartis dans 180 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative nouvelle**
+  - [Partie législative nouvelle : articles rattachés directement](partie-legislative-nouvelle/articles-directs.md) (1 article)
+  - **Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES**
+    - **Titre Ier : INFORMATION DES CONSOMMATEURS**
+      - [Chapitre Ier : Obligation générale d'information précontractuelle](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Information sur les prix et conditions de vente](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Autres informations](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Remise des contrats-types](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : PRATIQUES COMMERCIALES**
+      - [Chapitre Ier A : Pratiques commerciales encouragées](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ier-a.md) (2 articles)
+      - [Chapitre Ier : Pratiques commerciales interdites](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Pratiques commerciales réglementées](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ii.md) (27 articles)
+    - **Titre III : SANCTIONS**
+      - [Chapitre Ier : Information des consommateurs](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-ii.md) (36 articles)
+      - [Chapitre III : Obligations des fournisseurs de plateformes en ligne](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-iii.md) (3 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER : articles rattachés directement](partie-legislative-nouvelle/livre-ier/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre unique : Dispositions communes](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-unique.md) (2 articles)
+  - **Livre II : FORMATION ET ÉXECUTION DES CONTRATS**
+    - **Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS**
+      - [Chapitre Ier : Présentation des contrats](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Clauses abusives](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Conservation des contrats conclus par voie électronique](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Arrhes et acomptes](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Reconduction et modalités de résiliation des contrats](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Délivrance, fourniture et transfert de risque](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vi.md) (8 articles)
+      - [Chapitre VII : Obligation de conformité dans les contrats de vente de biens](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md) (32 articles)
+      - [Chapitre VIII : Prescription](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-viii.md) (2 articles)
+      - [Chapitre IX : Dispositions d'ordre public](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ix.md) (1 article)
+    - **Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS**
+      - [Chapitre Ier : Contrats conclus à distance et contrats conclus hors établissement](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-ier.md) (31 articles)
+      - [Chapitre II : Contrats conclus à distance portant sur des services financiers](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-ii.md) (19 articles)
+      - [Chapitre III : Consentement au démarchage téléphonique](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre III bis : Autres modes de prospection commerciale](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iii-bis.md) (1 article)
+      - [Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md) (159 articles)
+    - **Titre III : LOI APPLICABLE AUX CONTRATS TRANSFRONTALIERS**
+      - [Chapitre Ier : Dispositions communes](partie-legislative-nouvelle/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Droit applicable aux contrats](partie-legislative-nouvelle/livre-ii/titre-iii/chapitre-ii.md) (6 articles)
+    - **Titre IV : SANCTIONS**
+      - [Chapitre Ier : Conditions générales des contrats](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Règles de formation et d'exécution de certains contrats](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ii.md) (65 articles)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Conditions générales des contrats](partie-legislative-nouvelle/livre-ii/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Règles de formation et d'exécution des contrats](partie-legislative-nouvelle/livre-ii/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Loi applicable aux contrats transfrontaliers](partie-legislative-nouvelle/livre-ii/titre-v/chapitre-iii.md) (2 articles)
+  - **Livre III : CRÉDIT**
+    - **Titre Ier : OPÉRATIONS DE CRÉDIT**
+      - [Chapitre II : Crédit à la consommation](partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md) (62 articles)
+      - [Chapitre III : Crédit immobilier](partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md) (65 articles)
+      - [Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier](partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iv.md) (23 articles)
+      - [Chapitre V : Prêt viager hypothécaire et prêt avance mutation](partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md) (23 articles)
+    - **Titre II : ACTIVITÉ D'INTERMÉDIAIRE**
+      - [Chapitre Ier : Champ d'application](partie-legislative-nouvelle/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Protection des débiteurs et des emprunteurs](partie-legislative-nouvelle/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+    - **Titre IV : SANCTIONS**
+      - [Chapitre Ier : Opérations de crédit](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-ier.md) (47 articles)
+      - [Chapitre II : Activité d'intermédiaire](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-ii.md) (6 articles)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Opérations de crédit](partie-legislative-nouvelle/livre-iii/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Activité d'intermédiaire](partie-legislative-nouvelle/livre-iii/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : Sanctions](partie-legislative-nouvelle/livre-iii/titre-v/chapitre-iv.md) (4 articles)
+  - **Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES**
+    - **Titre Ier : CONFORMITÉ**
+      - [Chapitre Ier : Obligation générale de conformité](partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Mesures d'application](partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Falsifications et autres infractions relatives aux produits](partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Dispositions relatives à certains établissements](partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : SÉCURITÉ**
+      - [Chapitre Ier : Obligation générale de sécurité](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Mesures d'application](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Obligations des opérateurs économiques](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre V : Dispositions relatives aux aéronefs circulant sans équipage à bord](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-v.md) (1 article)
+    - **Titre III : VALORISATION DES PRODUITS ET SERVICES**
+      - [Chapitre Ier : Appellations d'origine](partie-legislative-nouvelle/livre-iv/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Autres signes d'identification de l'origine et de la qualité](partie-legislative-nouvelle/livre-iv/titre-iii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Certification de conformité](partie-legislative-nouvelle/livre-iv/titre-iii/chapitre-iii.md) (11 articles)
+    - **Titre IV : FRAUDES**
+      - [Chapitre unique : Tromperies](partie-legislative-nouvelle/livre-iv/titre-iv/chapitre-unique.md) (6 articles)
+    - **Titre V : SANCTIONS**
+      - [Chapitre Ier : Conformité](partie-legislative-nouvelle/livre-iv/titre-v/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Sécurité](partie-legislative-nouvelle/livre-iv/titre-v/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Valorisation des produits et services](partie-legislative-nouvelle/livre-iv/titre-v/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Fraudes](partie-legislative-nouvelle/livre-iv/titre-v/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Dispositions communes](partie-legislative-nouvelle/livre-iv/titre-v/chapitre-v.md) (1 article)
+    - **Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Conformité](partie-legislative-nouvelle/livre-iv/titre-vi/chapitre-ier.md) (1 article)
+      - [Chapitre II : Valorisation des produits et services](partie-legislative-nouvelle/livre-iv/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Sécurité](partie-legislative-nouvelle/livre-iv/titre-vi/chapitre-iii.md) (1 article)
+  - **Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES**
+    - **Titre Ier : RECHERCHE ET CONSTATATION**
+      - [Chapitre Ier : Habilitations](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md) (28 articles)
+      - [Chapitre II : Pouvoirs d'enquête](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ii.md) (57 articles)
+    - **Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES**
+      - [Chapitre Ier : Mesures de police administrative](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md) (30 articles)
+      - [Chapitre II : Procédure de sanctions administratives et transaction administrative](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Transaction pénale](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Saisine de la juridiction civile ou administrative](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Procédures devant les juridictions](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-v.md) (1 article)
+    - **Titre III : SANCTIONS**
+      - [Chapitre Ier : Recherche et constatation](partie-legislative-nouvelle/livre-v/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Mesures consécutives aux contrôles](partie-legislative-nouvelle/livre-v/titre-iii/chapitre-ii.md) (3 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre unique : Recherche et constatation](partie-legislative-nouvelle/livre-v/titre-iv/chapitre-unique.md) (3 articles)
+  - **Livre VI : RÈGLEMENT DES LITIGES**
+    - **Titre Ier : MÉDIATION**
+      - [Chapitre Ier : Définitions et champ d'application](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Processus de médiation des litiges de consommation](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Statut du médiateur de la consommation](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Obligations de communication du médiateur de la consommation](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-v.md) (4 articles)
+      - [Chapitre VI : Information et assistance du consommateur](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-vi.md) (3 articles)
+    - **Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS**
+      - [Chapitre Ier : Actions exercées dans l'intérêt collectif des consommateurs](partie-legislative-nouvelle/livre-vi/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Action en représentation conjointe](partie-legislative-nouvelle/livre-vi/titre-ii/chapitre-ii.md) (4 articles)
+    - **Titre IV : SANCTIONS**
+      - [Chapitre unique : Médiation](partie-legislative-nouvelle/livre-vi/titre-iv/chapitre-unique.md) (1 article)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Médiation](partie-legislative-nouvelle/livre-vi/titre-v/chapitre-ier.md) (2 articles)
+  - **Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT**
+      - [Chapitre Ier : Définition et champ d'application](partie-legislative-nouvelle/livre-vii/titre-ier/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Les commissions de surendettement des particuliers](partie-legislative-nouvelle/livre-vii/titre-ier/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Compétence du juge des contentieux de la protection](partie-legislative-nouvelle/livre-vii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Articulation entre le traitement des situations de surendettement et la procédure en constat de résiliation du bail](partie-legislative-nouvelle/livre-vii/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT**
+      - [Chapitre Ier : Saisine de la commission de surendettement des particuliers](partie-legislative-nouvelle/livre-vii/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Recevabilité de la demande](partie-legislative-nouvelle/livre-vii/titre-ii/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Etat du passif](partie-legislative-nouvelle/livre-vii/titre-ii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Orientation du dossier](partie-legislative-nouvelle/livre-vii/titre-ii/chapitre-iv.md) (5 articles)
+    - **Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT**
+      - [Chapitre Ier : Détermination du montant des remboursements](partie-legislative-nouvelle/livre-vii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Plan conventionnel](partie-legislative-nouvelle/livre-vii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Mesures imposées](partie-legislative-nouvelle/livre-vii/titre-iii/chapitre-iii.md) (17 articles)
+    - **Titre IV : RÉTABLISSEMENT PERSONNEL**
+      - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire](partie-legislative-nouvelle/livre-vii/titre-iv/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire](partie-legislative-nouvelle/livre-vii/titre-iv/chapitre-ii.md) (25 articles)
+      - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire](partie-legislative-nouvelle/livre-vii/titre-iv/chapitre-iii.md) (2 articles)
+    - **Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS**
+      - [Chapitre Ier : Objet du fichier](partie-legislative-nouvelle/livre-vii/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Inscription et radiation](partie-legislative-nouvelle/livre-vii/titre-v/chapitre-ii.md) (2 articles)
+    - **Titre VI : SANCTIONS**
+      - [Chapitre Ier : Sanctions civiles](partie-legislative-nouvelle/livre-vii/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Sanctions pénales](partie-legislative-nouvelle/livre-vii/titre-vi/chapitre-ii.md) (2 articles)
+    - **Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre unique : Traitement des situations de surendettement](partie-legislative-nouvelle/livre-vii/titre-vii/chapitre-unique.md) (10 articles)
+  - **Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION**
+    - **Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS**
+      - [Chapitre Ier : Agrément des associations](partie-legislative-nouvelle/livre-viii/titre-ier/chapitre-ier.md) (2 articles)
+    - **Titre II : INSTITUTIONS DE LA CONSOMMATION**
+      - [Chapitre III : Laboratoire national de métrologie et d'essais](partie-legislative-nouvelle/livre-viii/titre-ii/chapitre-iii.md) (2 articles)
+- **Partie réglementaire nouvelle**
+  - **Livre Ier : INFORMATION DES CONSOMMATEURS ET PRATIQUES COMMERCIALES**
+    - **Titre Ier : INFORMATION DES CONSOMMATEURS**
+      - [Chapitre Ier : Obligation générale d'information précontractuelle](partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md) (21 articles)
+      - [Chapitre II : Information sur les prix et conditions de vente](partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Information sur les conditions sociales de fabrication des produits](partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+    - **Titre II : PRATIQUES COMMERCIALES INTERDITES ET PRATIQUES COMMERCIALES RÉGLEMENTÉES**
+      - [Chapitre Ier A : Pratiques commerciales encouragées](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ier-a.md) (8 articles)
+      - [Chapitre Ier : Pratiques commerciales interdites](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Pratiques commerciales réglementées](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ii.md) (6 articles)
+    - **Titre III : SANCTIONS**
+      - [Chapitre Ier : Information des consommateurs](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Pratiques commerciales interdites et pratiques commerciales réglementées](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ii.md) (3 articles)
+  - **Livre II : FORMATION ET EXÉCUTION DES CONTRATS**
+    - **Titre Ier : CONDITIONS GÉNÉRALES DES CONTRATS**
+      - [Chapitre Ier : Présentation des contrats](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Clauses abusives](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Conservation des contrats conclus par voie électronique](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre V : Reconduction et modalités de résiliation des contrats](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-v.md) (3 articles)
+      - [Chapitre VII : Obligation de conformité dans les contrats de vente de biens](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-vii.md) (12 articles)
+    - **Titre II : RÈGLES DE FORMATION ET D'EXÉCUTION DE CERTAINS CONTRATS**
+      - [Chapitre Ier : Contrats conclus à distance et contrats conclus hors établissement](partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Contrats conclus à distance portant sur des services financiers](partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Consentement au démarchage téléphonique](partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Règles spécifiques à des contrats ayant un objet particulier](partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iv.md) (78 articles)
+    - **Titre IV : SANCTIONS**
+      - [Chapitre II : Règles de formation et d'exécution de certains contrats](partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md) (20 articles)
+  - **Livre III : CRÉDIT**
+    - **Titre Ier : OPÉRATIONS DE CRÉDIT**
+      - [Chapitre II : Crédit à la consommation](partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ii.md) (28 articles)
+      - [Chapitre III : Crédit immobilier](partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-iii.md) (34 articles)
+      - [Chapitre IV : Dispositions communes au crédit à la consommation et au crédit immobilier](partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-iv.md) (21 articles)
+      - [Chapitre V : Prêt viager hypothécaire et prêt avance mutation](partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-v.md) (3 articles)
+    - **Titre IV : SANCTIONS**
+      - [Chapitre Ier : Opérations de crédit](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-ier.md) (4 articles)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Opérations de crédit](partie-reglementaire-nouvelle/livre-iii/titre-v/chapitre-ier.md) (5 articles)
+  - **Livre IV : CONFORMITÉ ET SÉCURITÉ DES PRODUITS ET SERVICES**
+    - **Titre Ier : CONFORMITÉ**
+      - [Chapitre II : Mesures d'application](partie-reglementaire-nouvelle/livre-iv/titre-ier/chapitre-ii.md) (69 articles)
+      - [Chapitre IV : Dispositions relatives à certains établissements](partie-reglementaire-nouvelle/livre-iv/titre-ier/chapitre-iv.md) (6 articles)
+    - **Titre II : SÉCURITÉ**
+      - [Chapitre II : Mesures d'application](partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-ii.md) (1 article)
+    - **Titre III : VALORISATION DES PRODUITS ET SERVICES**
+      - [Chapitre Ier : Appellations d'origine](partie-reglementaire-nouvelle/livre-iv/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre III : Certification de conformité](partie-reglementaire-nouvelle/livre-iv/titre-iii/chapitre-iii.md) (2 articles)
+    - **Titre V : SANCTIONS**
+      - [Chapitre Ier : Conformité](partie-reglementaire-nouvelle/livre-iv/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Sécurité](partie-reglementaire-nouvelle/livre-iv/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Valorisation des produits et services](partie-reglementaire-nouvelle/livre-iv/titre-v/chapitre-iii.md) (1 article)
+  - **Livre V : POUVOIRS D'ENQUÊTE ET SUITES DONNÉES AUX CONTRÔLES**
+    - **Titre Ier : RECHERCHE ET CONSTATATION**
+      - [Chapitre Ier : Habilitations](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Pouvoirs d'enquête](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md) (56 articles)
+    - **Titre II : MESURES CONSÉCUTIVES AUX CONTRÔLES**
+      - [Chapitre Ier : Mesures de police administrative](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Procédure de sanctions administratives et transaction administrative](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Transaction pénale](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Saisine de la juridiction civile ou administrative](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Procédures devant les juridictions](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-v.md) (3 articles)
+    - **Titre III : SANCTIONS**
+      - [Chapitre Ier : Recherche et constatation](partie-reglementaire-nouvelle/livre-v/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Mesures consécutives aux contrôles](partie-reglementaire-nouvelle/livre-v/titre-iii/chapitre-ii.md) (2 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Recherche et constatation](partie-reglementaire-nouvelle/livre-v/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Mesures consécutives aux contrôles](partie-reglementaire-nouvelle/livre-v/titre-iv/chapitre-ii.md) (2 articles)
+  - **Livre VI : RÈGLEMENT DES LITIGES**
+    - **Titre Ier : MÉDIATION**
+      - [Chapitre II : Processus de médiation des litiges de consommation](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Statut du médiateur de la consommation](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Obligations de communication du médiateur de la consommation](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Commission d'évaluation et de contrôle de la médiation de la consommation](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-v.md) (11 articles)
+      - [Chapitre VI : Information et assistance du consommateur](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-vi.md) (2 articles)
+    - **Titre II : ACTIONS EN JUSTICE DES ASSOCIATIONS DE DÉFENSE DES CONSOMMATEURS**
+      - [Chapitre II : Action en représentation conjointe](partie-reglementaire-nouvelle/livre-vi/titre-ii/chapitre-ii.md) (10 articles)
+    - **Titre III : COMPÉTENCE DU JUGE**
+      - [Chapitre Ier : Règles applicables aux litiges civils](partie-reglementaire-nouvelle/livre-vi/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Office du juge](partie-reglementaire-nouvelle/livre-vi/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre II : Action de groupe](partie-reglementaire-nouvelle/livre-vi/titre-v/chapitre-ii.md) (1 article)
+  - **Livre VII : TRAITEMENT DES SITUATIONS DE SURENDETTEMENT**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES RELATIVES AU TRAITEMENT DES SITUATIONS DE SURENDETTEMENT**
+      - [Chapitre Ier : Définition et champ d'application](partie-reglementaire-nouvelle/livre-vii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Les commissions de surendettement des particuliers](partie-reglementaire-nouvelle/livre-vii/titre-ier/chapitre-ii.md) (20 articles)
+      - [Chapitre III : Compétence du juge des contentieux de la protection](partie-reglementaire-nouvelle/livre-vii/titre-ier/chapitre-iii.md) (11 articles)
+    - **Titre II : EXAMEN DE LA DEMANDE DE TRAITEMENT DE LA SITUATION DE SURENDETTEMENT**
+      - [Chapitre Ier : Saisine de la commission de surendettement des particuliers](partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Recevabilité de la demande](partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Etat du passif](partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Orientation du dossier](partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-iv.md) (8 articles)
+    - **Titre III : MESURES DE TRAITEMENT DES SITUATIONS DE SURENDETTEMENT**
+      - [Chapitre Ier : Détermination de la capacité de remboursement](partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Plan conventionnel](partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Mesures imposées](partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-iii.md) (15 articles)
+    - **Titre IV : RÉTABLISSEMENT PERSONNEL**
+      - [Chapitre Ier : Rétablissement personnel sans liquidation judiciaire](partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Procédure de rétablissement personnel avec liquidation judiciaire](partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md) (59 articles)
+      - [Chapitre III : Dispositions communes au rétablissement personnel sans liquidation judiciaire et à la procédure de rétablissement personnel avec liquidation judiciaire](partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-iii.md) (2 articles)
+    - [Titre V : FICHIER NATIONAL RECENSANT LES INFORMATIONS SUR LES INCIDENTS DE PAIEMENT CARACTÉRISÉS](partie-reglementaire-nouvelle/livre-vii/titre-v.md) (1 article)
+    - **Titre VI : SANCTIONS**
+      - [Chapitre Ier : Sanctions civiles](partie-reglementaire-nouvelle/livre-vii/titre-vi/chapitre-ier.md) (1 article)
+    - **Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre unique : Traitement des situations de surendettement](partie-reglementaire-nouvelle/livre-vii/titre-vii/chapitre-unique.md) (6 articles)
+  - **Livre VIII : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS ET INSTITUTIONS DE LA CONSOMMATION**
+    - **Titre Ier : ASSOCIATIONS AGRÉÉES DE DÉFENSE DES CONSOMMATEURS**
+      - [Chapitre Ier : Agrément des associations](partie-reglementaire-nouvelle/livre-viii/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Reconnaissance spécifique des associations](partie-reglementaire-nouvelle/livre-viii/titre-ier/chapitre-ii.md) (3 articles)
+    - **Titre II : INSTITUTIONS DE LA CONSOMMATION**
+      - [Chapitre Ier : Conseil national de la consommation](partie-reglementaire-nouvelle/livre-viii/titre-ii/chapitre-ier.md) (17 articles)
+      - [Chapitre III : Laboratoire national de métrologie et d'essais](partie-reglementaire-nouvelle/livre-viii/titre-ii/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : Conseil national de l'alimentation](partie-reglementaire-nouvelle/livre-viii/titre-ii/chapitre-iv.md) (8 articles)
+  - [Annexes](partie-reglementaire-nouvelle/annexes.md) (15 articles)

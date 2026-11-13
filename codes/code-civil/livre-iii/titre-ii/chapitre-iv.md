@@ -249,7 +249,7 @@ Les donations en faveur de mariage ne seront pas révocables pour cause d'ingrat
 - Identifiant : LEGIARTI000006435678
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435678
-- Cité par : [art. 964 du Code civil](chapitre-iv.md#article-964) ; [art. A444-163-6 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684614) ; [Ordonnance n°2005-759 du 4 juillet 2005, art. 20](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020123569)
+- Cité par : [art. 964 du Code civil](chapitre-iv.md#article-964) ; [art. A444-163-6 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-163-6) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [Ordonnance n°2005-759 du 4 juillet 2005, art. 20](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020123569)
 
 Toutes donations entre vifs faites par personnes qui n'avaient point d'enfants ou de descendants actuellement vivants dans le temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et encore qu'elles fussent mutuelles ou rémunératoires, même celles qui auraient été faites en faveur de mariage par autres que par les conjoints l'un à l'autre, peuvent être révoquées, si l'acte de donation le prévoit, par la survenance d'un enfant issu du donateur, même après son décès, ou adopté par lui dans les formes et conditions prévues au chapitre Ier du titre VIII du livre Ier.
 

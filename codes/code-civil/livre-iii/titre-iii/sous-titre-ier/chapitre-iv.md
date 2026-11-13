@@ -290,7 +290,7 @@ Les sanctions qui ne sont pas incompatibles peuvent être cumulées ; des dommag
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041431
 - Renvoie à : [art. 1351 du Code civil](../../titre-iv/chapitre-iv.md#article-1351) ; [art. 1351-1 du Code civil](../../titre-iv/chapitre-iv.md#article-1351-1)
-- Cité par : [Arrêté du 12 novembre 2004, art. 322-72-4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050431098) ; [art. D215-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047615001) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860728) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860729)
+- Cité par : [art. D215-2 du Code de la consommation](../../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-v.md#article-d215-2) ; [Arrêté du 12 novembre 2004, art. 322-72-4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050431098) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860728) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860729)
 
 Il y a force majeure en matière contractuelle lorsqu'un événement échappant au contrôle du débiteur, qui ne pouvait être raisonnablement prévu lors de la conclusion du contrat et dont les effets ne peuvent être évités par des mesures appropriées, empêche l'exécution de son obligation par le débiteur.
 
@@ -302,7 +302,7 @@ Si l'empêchement est temporaire, l'exécution de l'obligation est suspendue à 
 - Identifiant : LEGIARTI000032041509
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041509
-- Cité par : [art. L216-6 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142472) ; [art. L217-8 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142560) ; [art. L224-25-11 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044132954) ; [art. L224-25-17 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044133032)
+- Cité par : [art. L216-6 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vi.md#article-l216-6) ; [art. L217-8 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md#article-l217-8) ; [art. L224-25-11 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-25-11) ; [art. L224-25-17 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-25-17)
 
 Une partie peut refuser d'exécuter son obligation, alors même que celle-ci est exigible, si l'autre n'exécute pas la sienne et si cette inexécution est suffisamment grave.
 
@@ -310,7 +310,7 @@ Une partie peut refuser d'exécuter son obligation, alors même que celle-ci est
 - Identifiant : LEGIARTI000032041503
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041503
-- Cité par : [art. L216-6 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142472) ; [art. L217-8 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142560) ; [art. L224-25-11 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044132954) ; [art. L224-25-17 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044133032)
+- Cité par : [art. L216-6 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vi.md#article-l216-6) ; [art. L217-8 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md#article-l217-8) ; [art. L224-25-11 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-25-11) ; [art. L224-25-17 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-25-17)
 
 Une partie peut suspendre l'exécution de son obligation dès lors qu'il est manifeste que son cocontractant ne s'exécutera pas à l'échéance et que les conséquences de cette inexécution sont suffisamment graves pour elle. Cette suspension doit être notifiée dans les meilleurs délais.
 
@@ -320,7 +320,7 @@ Une partie peut suspendre l'exécution de son obligation dès lors qu'il est man
 - Identifiant : LEGIARTI000036829851
 - État : en vigueur depuis le 01/10/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036829851
-- Cité par : [art. L217-12 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044152610)
+- Cité par : [art. L217-12 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md#article-l217-12)
 
 Le créancier d'une obligation peut, après mise en demeure, en poursuivre l'exécution en nature sauf si cette exécution est impossible ou s'il existe une disproportion manifeste entre son coût pour le débiteur de bonne foi et son intérêt pour le créancier.
 
@@ -362,7 +362,7 @@ La résolution résulte soit de l'application d'une clause résolutoire soit, en
 - Identifiant : LEGIARTI000032041477
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041477
-- Cité par : [art. L224-46 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155988)
+- Cité par : [art. L224-46 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-46)
 
 La clause résolutoire précise les engagements dont l'inexécution entraînera la résolution du contrat.
 
@@ -425,7 +425,7 @@ La résolution n'affecte ni les clauses relatives au règlement des différends,
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041443
 - Renvoie à : [art. 1152 du Code civil](chapitre-ii.md#article-1152)
-- Cité par : [art. L311-24 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237354) ; [art. L312-39 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226106) ; [art. L313-51 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032309861) ; [art. L315-23 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225718) ; [Ordonnance n°2002-1476 du 19 décembre 2002, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285035) ; [Ordonnance n°2013-516 du 20 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027587948)
+- Cité par : [art. L312-39 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-39) ; [art. L313-51 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-51) ; [art. L315-23 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-23) ; [art. L311-24 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032237354) ; [Ordonnance n°2002-1476 du 19 décembre 2002, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285035) ; [Ordonnance n°2013-516 du 20 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027587948)
 
 A moins que l'inexécution soit définitive, les dommages et intérêts ne sont dus que si le débiteur a préalablement été mis en demeure de s'exécuter dans un délai raisonnable.
 
@@ -461,7 +461,7 @@ Dans le cas même où l'inexécution du contrat résulte d'une faute lourde ou d
 - Identifiant : LEGIARTI000032010131
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010131
-- Cité par : [art. L312-39 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890824) ; [art. L312-40 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890843) ; [art. L313-47 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731469) ; [art. L313-51 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890830) ; [art. L313-60 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890850) ; [art. L315-17 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890853) ; [art. L315-23 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890837) ; [Ordonnance n° 2002-1476 du 19 décembre 2002, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043144) ; [Ordonnance n° 2013-516 du 20 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043160)
+- Cité par : [art. L312-39 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-39) ; [art. L312-40 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-40) ; [art. L313-47 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-47) ; [art. L313-51 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-51) ; [art. L313-60 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-60) ; [art. L315-17 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-17) ; [art. L315-23 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-l315-23) ; [Ordonnance n° 2002-1476 du 19 décembre 2002, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043144) ; [Ordonnance n° 2013-516 du 20 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043160)
 
 Lorsque le contrat stipule que celui qui manquera de l'exécuter paiera une certaine somme à titre de dommages et intérêts, il ne peut être alloué à l'autre partie une somme plus forte ni moindre.
 
@@ -477,7 +477,7 @@ Sauf inexécution définitive, la pénalité n'est encourue que lorsque le débi
 - Identifiant : LEGIARTI000032010133
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032010133
-- Cité par : [Arrêté du 22 mai 2023, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049325109) ; [Arrêté du 22 mai 2023, art. 47](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049429073) ; [Arrêté du 22 mai 2023, art. 62](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049325295) ; [Arrêté du 22 mai 2023, art. 75](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049325321) ; [art. Annexe 4-9 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049887257) ; [Décret n°2020-26 du 14 janvier 2020, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044963371) ; [Décret n°2025-920 du 6 septembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052203712)
+- Cité par : [art. Annexe 4-9 du Code de commerce](../../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-9) ; [Arrêté du 22 mai 2023, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049325109) ; [Arrêté du 22 mai 2023, art. 47](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049429073) ; [Arrêté du 22 mai 2023, art. 62](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049325295) ; [Arrêté du 22 mai 2023, art. 75](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049325321) ; [Décret n°2020-26 du 14 janvier 2020, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044963371) ; [Décret n°2025-920 du 6 septembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052203712)
 
 Les dommages et intérêts dus à raison du retard dans le paiement d'une obligation de somme d'argent consistent dans l'intérêt au taux légal, à compter de la mise en demeure.
 

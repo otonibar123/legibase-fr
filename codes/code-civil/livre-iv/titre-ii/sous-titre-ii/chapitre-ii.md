@@ -59,7 +59,7 @@ Lorsque le gage a été régulièrement publié, les ayants cause à titre parti
 - Identifiant : LEGIARTI000044071456
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071456
-- Cité par : [Arrêté du 23 octobre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048268258) ; [art. R521-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052697628) ; [Décret n°2012-634 du 3 mai 2012](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000025806402) ; [Décret n°2021-1887 du 29 décembre 2021, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044882204) ; [Décret n°2023-97 du 14 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047142569) ; [Décret n°2023-97 du 14 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047142608) ; [Décret n°2023-97 du 14 février 2023, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047142604)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. R521-2 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-v/titre-ii/chapitre-ier.md#article-r521-2) ; [Arrêté du 23 octobre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048268258) ; [Décret n°2012-634 du 3 mai 2012](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000025806402) ; [Décret n°2021-1887 du 29 décembre 2021, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044882204) ; [Décret n°2023-97 du 14 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047142569) ; [Décret n°2023-97 du 14 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047142608) ; [Décret n°2023-97 du 14 février 2023, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047142604)
 
 Le gage est publié par une inscription sur un registre spécial dont les modalités sont réglées par décret en Conseil d'Etat.
 
@@ -102,7 +102,7 @@ Dans le cas visé au premier alinéa, le constituant peut, si la convention le p
 - Identifiant : LEGIARTI000044071439
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071439
-- Cité par : [art. 2342-1 du Code civil](chapitre-ii.md#article-2342-1) ; [Arrêté du 23 octobre 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048268262) ; [Arrêté du 24 janvier 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047095232) ; [Arrêté du 24 janvier 2023, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047095236)
+- Cité par : [art. 2342-1 du Code civil](chapitre-ii.md#article-2342-1) ; [art. R521-6 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-v/titre-ii/chapitre-ier.md#article-r521-6) ; [Arrêté du 23 octobre 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048268262) ; [Arrêté du 24 janvier 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047095232) ; [Arrêté du 24 janvier 2023, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047095236)
 
 Lorsque le gage sans dépossession a pour objet des choses fongibles, le constituant peut, sauf convention contraire, les aliéner à charge de les remplacer par la même quantité de choses équivalentes.
 
@@ -146,7 +146,7 @@ Sauf convention contraire, lorsque le détenteur du bien gagé est le créancier
 - Identifiant : LEGIARTI000044071421
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071421
-- Cité par : [art. L131-28 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073252) ; [art. L312-38 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226108) ; [art. R222-6 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929288) ; [art. 1584 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073354) ; [art. L214-97 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027810932)
+- Cité par : [art. L131-28 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-28) ; [art. L143-10 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-10) ; [art. L312-38 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-38) ; [art. R222-6 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929288) ; [art. 1584 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073354) ; [art. L214-97 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027810932)
 
 A défaut de paiement de la dette garantie, le créancier peut poursuivre la vente du bien gagé. Cette vente a lieu selon les modalités prévues par le code des procédures civiles d'exécution sans que la convention de gage puisse y déroger.
 
@@ -158,7 +158,7 @@ Lorsque le gage est constitué en garantie d'une dette professionnelle, le créa
 - Identifiant : LEGIARTI000044071418
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071418
-- Cité par : [art. L312-38 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226108) ; [art. L211-20 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050367105)
+- Cité par : [art. L312-38 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-38) ; [art. L211-20 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050367105)
 
 Le créancier peut aussi faire ordonner en justice que le bien lui demeurera en paiement.
 
@@ -196,6 +196,6 @@ Réciproquement, l'héritier du créancier, qui a reçu sa portion de créance, 
 - État : en vigueur depuis le 17/09/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071403
 - Renvoie à : [art. 2333 du Code civil](chapitre-ii.md#article-2333)
-- Cité par : [art. L632-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984228) ; [art. L523-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026135)
+- Cité par : [art. L632-1 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-vi/titre-iii/chapitre-ii.md#article-l632-1) ; [art. L523-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026135)
 
 Le séquestre ou la consignation de sommes, effets ou valeurs, ordonné judiciairement à titre de garantie ou à titre conservatoire, emporte affectation spéciale et droit de préférence au sens de l'article 2333.

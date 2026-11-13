@@ -169,7 +169,7 @@ S'il a été fait un état des lieux entre le bailleur et le preneur, celui-ci d
 - Identifiant : LEGIARTI000006442883
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442883
-- Cité par : [art. L145-40-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029103499) ; [Loi n° 89-462 du 6 juillet 1989, art. 3-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047900049) ; [Loi n°89-462 du 6 juillet 1989, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023276582)
+- Cité par : [art. L145-40-1 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-v.md#article-l145-40-1) ; [Loi n° 89-462 du 6 juillet 1989, art. 3-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047900049) ; [Loi n°89-462 du 6 juillet 1989, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023276582)
 
 S'il n'a pas été fait d'état des lieux, le preneur est présumé les avoir reçus en bon état de réparations locatives, et doit les rendre tels, sauf la preuve contraire.
 
@@ -216,7 +216,7 @@ Le preneur est tenu des dégradations et des pertes qui arrivent par le fait des
 - Identifiant : LEGIARTI000006442929
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442929
-- Cité par : [art. Annexe 4-9 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049887257) ; [art. L145-9 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031012840)
+- Cité par : [art. Annexe 4-9 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-9) ; [art. L145-9 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-v.md#article-l145-9)
 
 Si le bail a été fait sans écrit, l'une des parties ne pourra donner congé à l'autre qu'en observant les délais fixés par l'usage des lieux.
 
@@ -224,7 +224,7 @@ Si le bail a été fait sans écrit, l'une des parties ne pourra donner congé �
 - Identifiant : LEGIARTI000006442944
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442944
-- Cité par : [art. L145-9 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031012840)
+- Cité par : [art. L145-9 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-v.md#article-l145-9)
 
 Le bail cesse de plein droit à l'expiration du terme fixé, lorsqu'il a été fait par écrit, sans qu'il soit nécessaire de donner congé.
 
@@ -553,7 +553,7 @@ Le bail des terres labourables, lorsqu'elles se divisent par soles ou saisons, e
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443330
 - Renvoie à : [art. 1774 du Code civil](chapitre-ii.md#article-1774)
-- Cité par : [art. L411-52 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583824)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. L411-52 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583824)
 
 Le bail des héritages ruraux quoique fait sans écrit, ne cesse à l'expiration du terme fixé par l'article précédent, que par l'effet d'un congé donné par écrit par l'une des parties à l'autre, six mois au moins avant ce terme.  
 

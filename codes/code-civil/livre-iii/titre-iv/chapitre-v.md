@@ -41,7 +41,7 @@ Sauf stipulation contraire, la restitution des fruits, s'ils ne se retrouvent pa
 - Identifiant : LEGIARTI000036829864
 - État : en vigueur depuis le 01/10/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036829864
-- Cité par : [art. 1150 du Code civil](../titre-iii/sous-titre-ier/chapitre-ii.md#article-1150) ; [art. L511-5 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042732)
+- Cité par : [art. 1150 du Code civil](../titre-iii/sous-titre-ier/chapitre-ii.md#article-1150) ; [art. L511-5 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-5)
 
 Les restitutions dues par un mineur non émancipé ou par un majeur protégé sont réduites à hauteur du profit qu'il a retiré de l'acte annulé.
 

@@ -1,0 +1,342 @@
+# Chapitre II : Placement et accompagnement des demandeurs d'emploi.
+
+Code du travail › Partie législative › Cinquième partie : L'emploi › Livre III : Service public de l'emploi et placement › Titre Ier : Le service public de l'emploi
+
+### Article L5312-1
+- Identifiant : LEGIARTI000053606086
+- État : en vigueur depuis le 01/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053606086
+- Renvoie à : [art. L5131-5 du Code du travail](../../livre-ier/titre-iii/chapitre-ier.md#article-l5131-5) ; [art. L5131-6 du Code du travail](../../livre-ier/titre-iii/chapitre-ier.md#article-l5131-6) ; [art. L5213-2 du Code du travail](../../livre-ii/titre-ier/chapitre-iii.md#article-l5213-2) ; [art. L5214-3-1 du Code du travail](../../livre-ii/titre-ier/chapitre-iv.md#article-l5214-3-1) ; [art. L5311-7 du Code du travail](chapitre-ier-bis.md#article-l5311-7) ; [art. L5311-8 du Code du travail](chapitre-ier-bis.md#article-l5311-8) ; [art. L5311-9 du Code du travail](chapitre-ier-bis.md#article-l5311-9) ; [art. L5311-10 du Code du travail](chapitre-ier-bis.md#article-l5311-10) ; [art. L5411-5-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-5-1) ; [art. L5424-21 du Code du travail](../../livre-iv/titre-ii/chapitre-iv.md#article-l5424-21) ; [art. L5425-3 du Code du travail](../../livre-iv/titre-ii/chapitre-v.md#article-l5425-3) ; [art. L146-9 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796672) ; [art. L2113-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037703490) ; [art. L161-22-1-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047450597)
+- Cité par : [art. D626-9 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-vi/titre-ii/chapitre-vi.md#article-d626-9) ; [art. L1233-66 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-l1233-66) ; [art. L1233-68 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-l1233-68) ; [art. L1233-69 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-l1233-69) ; [art. L1246-1 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-vi.md#article-l1246-1) ; [art. L1251-46 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-46) ; [art. L1273-3 du Code du travail](../../../premiere-partie/livre-ii/titre-vii/chapitre-iii.md#article-l1273-3) ; [art. L5132-3 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-l5132-3) ; [art. L5132-8 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-l5132-8) ; [art. L5132-9 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-l5132-9) ; [art. L5132-15-1 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-l5132-15-1) ; [art. L5134-19-1 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-1) ; [art. L5134-19-2 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-2) ; [art. L5134-29 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-29) ; [art. L5134-61 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-61) ; [art. L5134-71 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-71) ; [art. L5134-112 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-112) ; [art. L5135-2 du Code du travail](../../livre-ier/titre-iii/chapitre-v.md#article-l5135-2) ; [art. L5141-1 du Code du travail](../../livre-ier/titre-iv/chapitre-ier.md#article-l5141-1) ; [art. L5212-7 du Code du travail](../../livre-ii/titre-ier/chapitre-ii.md#article-l5212-7) ; [art. L5213-2-1 du Code du travail](../../livre-ii/titre-ier/chapitre-iii.md#article-l5213-2-1) ; [art. L5214-1 B du Code du travail](../../livre-ii/titre-ier/chapitre-iv.md#article-l5214-1-b) ; [art. L5214-3-1 du Code du travail](../../livre-ii/titre-ier/chapitre-iv.md#article-l5214-3-1) ; [art. L5221-8 du Code du travail](../../livre-ii/titre-ii/chapitre-ier.md#article-l5221-8) ; [art. L5311-2 du Code du travail](chapitre-ier.md#article-l5311-2) ; [art. L5311-6 du Code du travail](chapitre-ier.md#article-l5311-6) ; [art. L5312-2 du Code du travail](chapitre-ii.md#article-l5312-2) ; [art. L5312-3 du Code du travail](chapitre-ii.md#article-l5312-3) ; [art. L5312-12-1 du Code du travail](chapitre-ii.md#article-l5312-12-1) ; [art. L5312-13 du Code du travail](chapitre-ii.md#article-l5312-13) ; [art. L5312-13-1 du Code du travail](chapitre-ii.md#article-l5312-13-1) ; [art. L5313-1 du Code du travail](chapitre-iii.md#article-l5313-1) ; [art. L5313-2 du Code du travail](chapitre-iii.md#article-l5313-2) ; [art. L5314-2 du Code du travail](chapitre-iv.md#article-l5314-2) ; [art. L5322-1 du Code du travail](../titre-ii/chapitre-ii.md#article-l5322-1) ; [art. L5322-2 du Code du travail](../titre-ii/chapitre-ii.md#article-l5322-2) ; [art. L5332-4 du Code du travail](../titre-iii/chapitre-ii.md#article-l5332-4) ; [art. L5411-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-1) ; [art. L5411-2 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-2) ; [art. L5411-4 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-4) ; [art. L5411-6 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-6) ; [art. L5411-6-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-6-1) ; [art. L5411-10 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-10) ; [art. L5422-2 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-2) ; [art. L5422-4 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-4) ; [art. L5422-16 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-16) ; [art. L5422-24 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-24) ; [art. L5423-7 du Code du travail](../../livre-iv/titre-ii/chapitre-iii.md#article-l5423-7) ; [art. L5424-2 du Code du travail](../../livre-iv/titre-ii/chapitre-iv.md#article-l5424-2) ; [art. L5424-20 du Code du travail](../../livre-iv/titre-ii/chapitre-iv.md#article-l5424-20) ; [art. L5424-21 du Code du travail](../../livre-iv/titre-ii/chapitre-iv.md#article-l5424-21) ; [art. L5424-23 du Code du travail](../../livre-iv/titre-ii/chapitre-iv.md#article-l5424-23) ; [art. L5426-1 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-l5426-1) ; [art. L5426-8-3 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-l5426-8-3) ; [art. L5426-9 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-l5426-9) ; [art. L5427-2 du Code du travail](../../livre-iv/titre-ii/chapitre-vii.md#article-l5427-2) ; [art. L5427-3 du Code du travail](../../livre-iv/titre-ii/chapitre-vii.md#article-l5427-3) ; [art. L5427-4 du Code du travail](../../livre-iv/titre-ii/chapitre-vii.md#article-l5427-4) ; [art. L5522-2 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-l5522-2) ; [art. L5531-1 du Code du travail](../../livre-v/titre-iii/chapitre-unique.md#article-l5531-1) ; [art. L6111-6 du Code du travail](../../../sixieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l6111-6) ; [art. L6121-4 du Code du travail](../../../sixieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l6121-4) ; [art. L6121-5 du Code du travail](../../../sixieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l6121-5) ; [art. L6243-1-2 du Code du travail](../../../sixieme-partie/livre-ii/titre-iv/chapitre-iii.md#article-l6243-1-2) ; [art. L6323-4 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-4) ; [art. L6323-21 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-21) ; [art. L6323-22 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-22) ; [art. L6323-24 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-24) ; [art. L6323-37 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-37) ; [art. L6326-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-vi.md#article-l6326-1) ; [art. L6326-2 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-vi.md#article-l6326-2) ; [art. L6326-3 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-vi.md#article-l6326-3) ; [art. L6332-17 du Code du travail](../../../sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-17) ; [art. L6341-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-1) ; [art. L6361-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-vi/chapitre-ier.md#article-l6361-1) ; [art. L6362-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-l6362-1) ; [art. L6362-4 du Code du travail](../../../sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-l6362-4) ; [art. L6362-11 du Code du travail](../../../sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-l6362-11) ; [art. L8271-1-2 du Code du travail](../../../huitieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l8271-1-2) ; [art. L8271-4 du Code du travail](../../../huitieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l8271-4) ; [art. L8272-1 du Code du travail](../../../huitieme-partie/livre-ii/titre-vii/chapitre-ii.md#article-l8272-1) ; [art. R1221-16 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-r1221-16) ; [art. R1221-17 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-r1221-17) ; [art. R1235-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-v.md#article-r1235-1) ; [art. R1235-4 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-v.md#article-r1235-4) ; [art. R1235-13 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-v.md#article-r1235-13) ; [art. R1251-7 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-r1251-7) ; [art. R1254-3 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-r1254-3) ; [art. R1254-4 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-r1254-4) ; [art. R5132-10-7 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-10-7) ; [art. R5132-12 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-12) ; [art. R5132-17 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-17) ; [art. R5132-28 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-28) ; [art. R5134-14 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-14) ; [art. R5134-18 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-18) ; [art. R5134-40 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-40) ; [art. R5134-44 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-44) ; [art. R5134-46 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-46) ; [art. R5142-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r5142-1) ; [art. R5213-79 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-r5213-79) ; [art. R5221-43 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-r5221-43) ; [art. R5311-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-r5311-1) ; [art. R5311-2 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-r5311-2) ; [art. R5311-12 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ier-bis.md#article-r5311-12) ; [art. R5312-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-1) ; [art. R5312-2 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-2) ; [art. R5312-3 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-3) ; [art. R5312-4 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-4) ; [art. R5312-5 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-5) ; [art. R5312-6 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-6) ; [art. R5312-7 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-7) ; [art. R5312-24 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-24) ; [art. R5312-27 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-27) ; [art. R5312-30 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-30) ; [art. R5312-32 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-32) ; [art. R5312-38 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-38) ; [art. R5312-38-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-38-1) ; [art. R5312-42-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-42-1) ; [art. R5312-55 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-55) ; [art. R5411-15-3 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-r5411-15-3) ; [art. R5411-18 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-r5411-18) ; [art. R5412-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ii.md#article-r5412-1) ; [art. R5422-5 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-r5422-5) ; [art. R5422-10 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-r5422-10) ; [art. R5424-2 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r5424-2) ; [art. R5424-6 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r5424-6) ; [art. R5426-18 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-vi.md#article-r5426-18) ; [art. R5426-20 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-vi.md#article-r5426-20) ; [art. R5426-23 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-vi.md#article-r5426-23) ; [art. R5426-24 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-vi.md#article-r5426-24) ; [art. R5427-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-vii.md#article-r5427-1) ; [art. R6341-34 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-r6341-34) ; [art. R6341-35 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-r6341-35) ; [art. R6341-37 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-r6341-37) ; [art. R6342-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-r6342-2) ; [Arrêté du 10 février 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020285420) ; [Arrêté du 10 novembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021700056) ; [Arrêté du 10 octobre 1977, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021714980) ; [Arrêté du 11 mai 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043513419) ; [Arrêté du 14 juin 1982, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042513738) ; [Arrêté du 14 juin 1982, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042513755) ; [Arrêté du 17 novembre 1980, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036674477) ; [Arrêté du 18 avril 2013, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045038263) ; [Arrêté du 18 novembre 2003, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021754382) ; [Arrêté du 19 mars 2008, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021754527) ; … et 180 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+I. - L'opérateur France Travail est une institution nationale publique dotée de la personnalité morale et de l'autonomie financière qui a pour mission de :
+
+1° Prospecter le marché du travail, développer une expertise sur l'évolution des emplois, des parcours professionnels et des compétences, procéder à la collecte des offres d'emploi, aider et conseiller les entreprises dans leur recrutement, assurer la mise en relation entre les offres et les demandes d'emploi, évaluer les résultats des actions d'accompagnement et participer activement à la lutte contre les discriminations à l'embauche et pour l'égalité professionnelle ;
+
+2° Accueillir, informer et accompagner les personnes, qu'elles disposent ou non d'un emploi, à la recherche d'un emploi, d'une formation ou d'un conseil professionnel, prescrire toutes actions utiles pour développer leurs compétences professionnelles et améliorer leur employabilité, favoriser leur reclassement et leur promotion professionnelle, participer à leur information sur les dispositifs de transition entre l'emploi et la retraite, notamment sur celui prévu à l'article L. 161-22-1-5 du code de la sécurité sociale, faciliter leur mobilité géographique et professionnelle et participer aux parcours d'insertion sociale et professionnelle. A ce titre, l'opérateur France Travail concourt à la mise en œuvre de l'obligation de formation définie à l'article L. 114-1 du code de l'éducation ;
+
+2° bis En lien avec les organismes mentionnés à l'article L. 5214-3-1 du présent code, proposer un accompagnement adapté à leurs besoins aux personnes ayant fait l'objet d'une décision de reconnaissance de la qualité de travailleur handicapé mentionnée à l'article L. 5213-2 et inscrites ou souhaitant être inscrites en tant que demandeurs d'emploi et répondre aux besoins de recrutement des entreprises ;
+
+2° ter En lien avec les organismes mentionnés à l'article L. 5214-3-1, formuler à la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des familles des propositions en matière d'orientation vers le milieu protégé et vers les établissements et les services de réadaptation professionnelle, dans des conditions fixées par la convention mentionnée au même article L. 146-9 ;
+
+3° Procéder aux inscriptions sur la liste des demandeurs d'emploi, tenir celle-ci à jour dans les conditions prévues au titre Ier du livre IV de la présente partie, orienter les demandeurs d'emploi dans les conditions fixées à l'article L. 5411-5-1, veiller à la continuité des parcours des personnes inscrites et assurer le contrôle de la recherche d'emploi et des engagements dans les conditions prévues au chapitre VI du titre II du livre IV ;
+
+4° Assurer, pour le compte de l'organisme gestionnaire du régime d'assurance chômage, le service de l'allocation d'assurance et de l'allocation des travailleurs indépendants et, pour le compte de l'Etat, le service des allocations de solidarité prévues à la section 1 du chapitre III du titre II du livre IV de la présente partie, des allocations mentionnées à l'article L. 5424-21, de l'aide prévue au II de l'article 136 de la loi n° 96-1181 du 30 décembre 1996 de finances pour 1997, des sommes restant dues au titre du versement de l'allocation équivalent retraite prévue à l'article L. 5423-18, dans sa rédaction antérieure au 1er janvier 2009, et des sommes restant dues au titre de la prime forfaitaire prévue à l'article L. 5425-3, dans sa rédaction antérieure au 1er septembre 2017, ainsi que le service de toute autre allocation ou aide dont l'Etat lui confierait le versement par convention, et lutter contre le non-recours à ces aides et allocations ;
+
+4° bis Décider de la suppression du revenu de remplacement ainsi que du prononcé et du recouvrement de la pénalité administrative, dans les conditions prévues aux sections 2 et 3 du chapitre VI du titre II du livre IV de la présente partie ;
+
+5° Recueillir, traiter, diffuser et mettre à la disposition des services de l'Etat et de l'organisme gestionnaire du régime d'assurance chômage les données relatives au marché du travail et à l'indemnisation des demandeurs d'emploi ;
+
+6° Mettre en œuvre toutes autres actions qui lui sont confiées par l'Etat, les collectivités territoriales et l'organisme gestionnaire du régime d'assurance chômage en relation avec sa mission ;
+
+7° Mettre en œuvre le contrat d'engagement jeune mentionné à l'article L. 5131-6 et assurer, pour le compte de l'Etat, l'attribution, la modulation, le versement, la suspension et la suppression de l'allocation mentionnée au même article L. 5131-6 et de l'allocation ponctuelle mentionnée à l'article L. 5131-5, dans les conditions fixées par décret en Conseil d'Etat.
+
+L'opérateur France Travail agit en collaboration avec les instances territoriales intervenant dans le domaine de l'emploi, en particulier les maisons de l'emploi, ainsi qu'avec les associations nationales et les réseaux spécialisés d'accueil et d'accompagnement, par des partenariats adaptés.
+
+II. - Pour la mise en œuvre des actions du réseau pour l'emploi prévues à l'article L. 5311-8, l'opérateur France Travail a pour missions :
+
+1° De contribuer à l'élaboration des critères d'orientation des demandeurs d'emploi mentionnés à l'article L. 5411-5-1 ;
+
+2° De proposer au Comité national pour l'emploi les principes d'un socle commun de services aux personnes et aux employeurs et les méthodologies et les référentiels mentionnés au 4° du I de l'article L. 5311-9 ;
+
+3° De concevoir et de mettre à la disposition des membres du réseau pour l'emploi, dans le respect du cahier des charges mentionné au même 4°, des outils et des services numériques communs, [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2023-858 DC du 14 décembre 2023] en suivant et en facilitant la mise en œuvre de l'interopérabilité mentionnée au 5° du même article ;
+
+4° De produire les indicateurs communs de suivi, de pilotage et d'évaluation des actions mises en œuvre dans le cadre du réseau pour l'emploi ;
+
+5° De mettre des actions de développement des compétences à la disposition des personnes morales mentionnées aux II et III de l'article L. 5311-7 et de leurs éventuels délégataires afin de favoriser la coordination et la complémentarité des actions des membres du réseau pour l'emploi ;
+
+6° D'assurer la fonction de centrale d'achat, au sens de l'article L. 2113-2 du code de la commande publique, afin d'acquérir, pour tout ou partie des personnes morales mentionnées aux II et III de l'article L. 5311-7 du présent code, des fournitures et des services nécessaires à la coordination et à la complémentarité des actions des membres du réseau pour l'emploi ;
+
+7° D'assurer une fonction d'appui :
+
+a) Au Comité national pour l'emploi mentionné à l'article L. 5311-9 ;
+
+b) Aux comités territoriaux pour l'emploi mentionnés à l'article L. 5311-10.
+
+Les missions mentionnées au présent II sont mises en œuvre par l'opérateur France Travail en associant les autres personnes morales constituant le réseau pour l'emploi ou leurs représentants.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er janvier 2024, à l'exception le b du 7° du II du présent article entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.
+
+### Article L5312-2
+- Identifiant : LEGIARTI000048600760
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600760
+- Renvoie à : [art. L5312-1 du Code du travail](chapitre-ii.md#article-l5312-1)
+- Cité par : [art. D412-79 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795072)
+
+L'opérateur France Travail est administré par un conseil d'administration et dirigé par un directeur général.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-3
+- Identifiant : LEGIARTI000048600754
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600754
+- Renvoie à : [art. L5311-4 du Code du travail](chapitre-ier.md#article-l5311-4) ; [art. L5311-9 du Code du travail](chapitre-ier-bis.md#article-l5311-9) ; [art. L5312-1 du Code du travail](chapitre-ii.md#article-l5312-1)
+- Cité par : [art. L2271-1 du Code du travail](../../../deuxieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l2271-1) ; [art. L5311-9 du Code du travail](chapitre-ier-bis.md#article-l5311-9) ; [art. L5322-1 du Code du travail](../titre-ii/chapitre-ii.md#article-l5322-1) ; [art. R5311-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-r5311-1) ; [art. R5311-2 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-r5311-2) ; [art. R5311-3 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-r5311-3) ; [art. R5312-6 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-6) ; [art. R5411-16 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-r5411-16) ; [Décret n°2019-797 du 26 juillet 2019, art. 43](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820172)
+
+Après consultation du Comité national pour l'emploi mentionné à l'article L. 5311-9, une convention pluriannuelle conclue entre l'Etat, l'organisme gestionnaire du régime d'assurance chômage mentionné à l'article L. 5427-1 et l'institution publique mentionnée à l'article L. 5312-1 définit les objectifs assignés à celle-ci au regard de la situation de l'emploi et au vu des moyens prévisionnels qui lui sont alloués par l'organisme gestionnaire du régime d'assurance chômage et l'Etat.
+
+Elle précise notamment :
+
+1° Les personnes devant bénéficier prioritairement des interventions de l'institution mentionnée à l'article L. 5312-1 ;
+
+2° Les objectifs d'amélioration des services rendus aux demandeurs d'emploi et aux entreprises et en particulier le nombre de demandeurs d'emplois suivis en moyenne par conseiller et les objectifs de réduction de ce ratio ;
+
+3° L'évolution de l'organisation territoriale de l'institution ;
+
+3° bis Les conditions dans lesquelles l'institution coopère au niveau régional avec les autres intervenants du service public de l'emploi, le cas échéant au moyen des conventions régionales pluriannuelles de coordination de l'emploi, de l'orientation et de la formation ;
+
+4° Les conditions de recours aux organismes privés exerçant une activité de placement mentionnés à l'article L. 5311-4 ;
+
+5° Les conditions dans lesquelles les actions de l'institution sont évaluées à partir d'indicateurs de performance qu'elle définit.
+
+Un comité de suivi veille à l'application de la convention et en évalue la mise en œuvre. Il s'assure que les conditions de mise en œuvre de la convention sont cohérentes avec les orientations du Comité national pour l'emploi mentionné à l'article L. 5311-9.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-4
+- Identifiant : LEGIARTI000031019132
+- État : en vigueur depuis le 09/08/2015
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031019132
+- Renvoie à : [art. L5422-22 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-22)
+
+Le conseil d'administration comprend :
+
+1° Cinq représentants de l'Etat ;
+
+2° Cinq représentants des employeurs et cinq représentants des salariés ;
+
+3° Deux personnalités qualifiées choisies en raison de leurs compétences dans les domaines d'activité de l'institution ;
+
+4° Un représentant des régions, désigné sur proposition de l'Association des régions de France ;
+
+5° Un représentant des autres collectivités territoriales, désigné sur proposition conjointe des associations des collectivités concernées.
+
+Les représentants des employeurs et les représentants des salariés sont désignés par les organisations syndicales d'employeurs et de salariés représentatives au niveau national et interprofessionnel, mentionnées à l'article L. 5422-22.
+
+Les personnalités qualifiées sont désignées par le ministre chargé de l'emploi.
+
+Le président est élu par le conseil d'administration en son sein.
+
+### Article L5312-5
+- Identifiant : LEGIARTI000037388920
+- État : en vigueur depuis le 07/09/2018
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037388920
+- Cité par : [art. R5312-14 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-14)
+
+Le conseil d'administration règle par ses délibérations les affaires relatives à l'objet de l'institution.
+
+Les décisions relatives au budget et aux emprunts ainsi qu'aux encours maximaux des crédits de trésorerie sont prises à la majorité des deux tiers des membres présents ou représentés.
+
+Le conseil d'administration désigne en son sein un comité d'audit et un comité d'évaluation.
+
+### Article L5312-6
+- Identifiant : LEGIARTI000018767084
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018767084
+
+Le directeur général exerce la direction de l'institution dans le cadre des orientations définies par le conseil d'administration ; il prépare les délibérations de ce conseil et en assure l'exécution.  
+
+Le directeur général est nommé par décret, après avis du conseil d'administration. Le conseil d'administration peut adopter, à la majorité des deux tiers de ses membres, une délibération demandant sa révocation.
+
+### Article L5312-7
+- Identifiant : LEGIARTI000048600750
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600750
+- Renvoie à : [art. L5422-20 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-20) ; [art. L5422-24 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-24) ; [Code du travail, Section 1 : Conditions et modalités d'attributi](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006189821)
+- Cité par : [art. L327-26 du Code du travail applicable à Mayotte](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035426507)
+
+Le budget de l'institution comporte quatre sections non fongibles :
+
+1° La section "Assurance chômage" retrace en dépenses les allocations d'assurance prévues à la section 1 du chapitre II du titre II du livre IV de la présente partie, qui sont versées pour le compte de l'organisme gestionnaire du régime d'assurance chômage, ainsi que les cotisations sociales afférentes à ces allocations dans les conditions prévues par les lois et règlements en vigueur, et en recettes une contribution de l'organisme gestionnaire du régime d'assurance chômage prévue à l'article L. 5422-20 permettant d'assurer l'équilibre ;
+
+2° La section "Solidarité" retrace en dépenses les allocations et aides versées pour le compte de l'Etat, ainsi que les cotisations sociales afférentes à ces allocations dans les conditions prévues par les lois et règlements en vigueur, et en recettes une contribution de l'Etat permettant d'assurer l'équilibre ;
+
+3° La section "Intervention" comporte en dépenses les dépenses d'intervention concourant au placement, à l'orientation, à l'insertion professionnelle, à la formation et à l'accompagnement des demandeurs d'emploi ;
+
+4° La section "Fonctionnement et investissement" comporte en dépenses les charges de personnel et de fonctionnement, les charges financières et les charges exceptionnelles et les dépenses d'investissement.
+
+Le financement de ces deux dernières sections est assuré par une contribution de l'Etat et une contribution de l'organisme gestionnaire du régime d'assurance chômage dans les conditions prévues à l'article L. 5422-24 ainsi que, le cas échéant, les subventions des collectivités territoriales et autres organismes publics et les produits reçus au titre des prestations pour services rendus, toutes autres recettes autorisées par les lois et règlements en vigueur, les produits financiers et les produits exceptionnels.
+
+L'institution peut en outre créer toute autre section pour compte de tiers.
+
+La contribution de l'Etat et la contribution de l'organisme gestionnaire du régime d'assurance chômage sont fixées à un niveau compatible avec la poursuite des activités de l'institution, compte tenu de l'évolution du marché du travail.
+
+L'institution est autorisée à placer ses fonds disponibles dans des conditions fixées par les ministres chargés de l'emploi et du budget.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-8
+- Identifiant : LEGIARTI000048600746
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600746
+
+L'opérateur France Travail est soumis en matière de gestion financière et comptable aux règles applicables aux entreprises industrielles et commerciales. Dans des conditions et à compter d'une date fixée par arrêté du ministre chargé des finances, ses disponibilités sont, à l'exception des fonds issus de dons, legs ou libéralités, déposées à titre principal au Trésor et ne donnent lieu à aucune rémunération.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-9
+- Identifiant : LEGIARTI000018767074
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018767074
+- Cité par : [Arrêté du 17 septembre 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054947845) ; [Arrêté du 17 septembre 2026, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054947870) ; [Décret n°2003-1370 du 31 décembre 2003, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820667) ; [Décret n°2009-1128 du 17 septembre 2009, art. 27](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820527) ; [Décret n°2009-241 du 2 mars 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020332183)
+
+Les agents de l'institution nationale, qui sont chargés d'une mission de service public, sont régis par le présent code dans les conditions particulières prévues par une convention collective étendue agréée par les ministres chargés de l'emploi et du budget. Cette convention comporte des stipulations, notamment en matière de stabilité de l'emploi et de protection à l'égard des influences extérieures, nécessaires à l'accomplissement de cette mission.  
+
+Les règles relatives aux relations collectives de travail prévues par la deuxième partie du présent code s'appliquent à tous les agents de l'institution, sous réserve des garanties justifiées par la situation particulière de ceux qui restent contractuels de droit public. Ces garanties sont définies par décret en Conseil d'Etat.
+
+### Article L5312-10
+- Identifiant : LEGIARTI000048600654
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600654
+- Renvoie à : [art. L5422-20 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-20)
+- Cité par : [art. L5426-1-1 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-l5426-1-1) ; [art. R5312-28 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-28) ; [art. R5322-2 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-r5322-2) ; [Arrêté du 20 mai 1980, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054958002) ; [Décret n°2019-797 du 26 juillet 2019, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047066974) ; [Décret n°2019-797 du 26 juillet 2019, art. 43](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820172) ; [Décret n°2019-797 du 26 juillet 2019, art. 46](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039326953)
+
+L'opérateur France Travail est composé d'une direction générale, de directions régionales et, sur décision de son conseil d'administration, d'établissements à compétence nationale ou spécifique.
+
+Au sein de chaque direction régionale, une instance paritaire, composée de représentants des employeurs et des salariés désignés par les organisations syndicales d'employeurs et de salariés représentatives au niveau national et interprofessionnel, veille à l'application des accords d'assurance chômage prévus à l'article L. 5422-20, statue dans les cas prévus par ces accords selon les modalités d'examen qu'ils définissent et est consultée sur la programmation des interventions au niveau territorial.
+
+Il peut, en outre, être créé au sein de l'opérateur France Travail, par délibération de son conseil d'administration, des instances paritaires territoriales ou spécifiques exerçant tout ou partie des missions prévues au deuxième alinéa du présent article.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-12
+- Identifiant : LEGIARTI000033818034
+- État : en vigueur depuis le 01/01/2018
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033818034
+
+Les litiges relatifs aux prestations dont le service est assuré par l'institution, pour le compte de l'organisme chargé de la gestion du régime d'assurance chômage ou de l'Etat sont soumis au régime contentieux qui leur était applicable antérieurement à la création de cette institution.
+
+### Article L5312-12-1
+- Identifiant : LEGIARTI000048600740
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600740
+- Renvoie à : [art. L5312-1 du Code du travail](chapitre-ii.md#article-l5312-1) ; [art. L6123-1 du Code du travail](../../../sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l6123-1)
+
+Il est créé, au sein de l'institution mentionnée à l'article L. 5312-1, un médiateur national dont la mission est de recevoir et de traiter les réclamations individuelles relatives au fonctionnement de cette institution, sans préjudice des voies de recours existantes. Le médiateur national, placé auprès du directeur général, coordonne l'activité de médiateurs régionaux, placés auprès de chaque directeur régional, qui reçoivent et traitent les réclamations dans le ressort territorial de la direction régionale. Les réclamations doivent avoir été précédées de démarches auprès des services concernés.
+
+Le médiateur national est le correspondant du Défenseur des droits.
+
+Il remet chaque année au conseil d'administration de l'institution mentionnée à l'article L. 5312-1 un rapport dans lequel il formule les propositions qui lui paraissent de nature à améliorer le fonctionnement du service rendu aux usagers. Ce rapport est transmis au ministre chargé de l'emploi et au Défenseur des droits.
+
+En dehors de celles qui mettent en cause l'institution mentionnée à l'article L. 5312-1, les réclamations qui relèvent de la compétence du Défenseur des droits en application de la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits sont transmises à ce dernier.
+
+La saisine du Défenseur des droits, dans son champ de compétences, met fin à la procédure de réclamation.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-12-2
+- Identifiant : LEGIARTI000048600650
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600650
+- Renvoie à : [art. L5422-13 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-13) ; [art. L5422-16 du Code du travail](../../livre-iv/titre-ii/chapitre-ii.md#article-l5422-16)
+- Cité par : [art. R5312-5-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-5-1)
+
+L'opérateur France Travail se prononce de manière explicite sur toute demande d'un employeur concernant un de ses mandataires sociaux ou d'une personne titulaire d'un mandat social ayant pour objet de déterminer son assujettissement à l'obligation d'assurance contre le risque de privation d'emploi prévue à l'article L. 5422-13.
+
+La décision ne s'applique qu'à la personne objet de cette demande et est opposable pour l'avenir à son employeur, à l'opérateur France Travail et aux organismes en charge du recouvrement des contributions d'assurance chômage tant que la situation de fait exposée dans la demande ou la législation au regard de laquelle la situation a été appréciée n'a pas été modifiée.
+
+Pour toute la période couverte par une décision explicite de l'opérateur France Travail concluant au non-assujettissement à l'obligation d'assurance, il ne peut être procédé à la mise en œuvre d'une action, d'une poursuite ou d'un recouvrement prévu à l'article L. 5422-16.
+
+Lorsque l'opérateur France Travail entend modifier pour l'avenir sa réponse, il en informe le demandeur selon des conditions et des modalités fixées par décret en Conseil d'Etat.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-13
+- Identifiant : LEGIARTI000018767061
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018767061
+- Renvoie à : [art. L5312-1 du Code du travail](chapitre-ii.md#article-l5312-1)
+- Cité par : [art. R5312-24 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-24)
+
+Les biens immobiliers de l'institution mentionnée à l'article L. 5312-1 relèvent en totalité de son domaine privé. Sont déclassés les biens immobiliers qui lui sont transférés, lorsqu'ils appartiennent au domaine public. Lorsqu'un ouvrage ou terrain appartenant à l'institution est nécessaire à la bonne exécution de ses missions de service public ou au développement de celles-ci, l'Etat peut s'opposer à sa cession, à son apport, sous quelque forme que ce soit, à la création d'une sûreté sur cet ouvrage ou terrain, ou subordonner la cession, la réalisation de l'apport ou la création de la sûreté à la condition qu'elle ne soit pas susceptible de porter préjudice à l'accomplissement de ces missions. Est nul de plein droit tout acte de cession, apport ou création de sûreté réalisé sans que l'Etat ait été mis à même de s'y opposer, en violation de son opposition ou en méconnaissance des conditions fixées à la réalisation de l'opération.
+
+### Article L5312-13-1
+- Identifiant : LEGIARTI000048600647
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600647
+- Renvoie à : [art. L5312-1 du Code du travail](chapitre-ii.md#article-l5312-1)
+- Cité par : [art. L5312-13-2 du Code du travail](chapitre-ii.md#article-l5312-13-2) ; [art. L5312-13-3 du Code du travail](chapitre-ii.md#article-l5312-13-3) ; [art. L5312-15 du Code du travail](chapitre-ii-bis.md#article-l5312-15) ; [art. L5312-16 du Code du travail](chapitre-ii-bis.md#article-l5312-16) ; [art. L5312-18 du Code du travail](chapitre-ii-bis.md#article-l5312-18) ; [art. R5312-49 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-49) ; [Arrêté du 16 juin 2011](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049821584) ; [art. L114-22-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054336565)
+
+Au sein de l'opérateur France Travail, des agents chargés de la prévention des fraudes sont assermentés et agréés dans des conditions définies par arrêté du ministre chargé de l'emploi. Ces agents ont qualité pour dresser, en cas d'infraction aux dispositions du présent code entrant dans le champ de compétence de ladite institution, des procès-verbaux faisant foi jusqu'à preuve du contraire. Ils les transmettent, aux fins de poursuite, au procureur de la République s'il s'agit d'infractions pénalement sanctionnées.
+
+Le fait de faire obstacle à l'accomplissement des fonctions des agents mentionnés au premier alinéa, quel que soit leur cadre d'action, est puni de six mois d'emprisonnement et de 7 500 € d'amende.
+
+> Nota : Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L5312-13-2
+- Identifiant : LEGIARTI000054334324
+- État : en vigueur depuis le 27/06/2026
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334324
+- Renvoie à : [art. L5312-13-1 du Code du travail](chapitre-ii.md#article-l5312-13-1) ; [art. L5411-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-1) ; [art. L5426-8-1 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-l5426-8-1) ; [art. 226-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417944) ; [Livre des procédures fiscales, art. L82 AA](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037521811) ; [Livre des procédures fiscales - Section I : Conditions d'exercice du droit de c...](https://www.legifrance.gouv.fr/loda/article_lc/LEGISCTA000006163096)
+- Cité par : [art. R5312-49 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-49) ; [Décret n°2022-955 du 29 juin 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049820717) ; [Décret n°2024-606 du 26 juin 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049791978)
+
+Le droit de communication permet d'obtenir, par tout moyen présentant des garanties de sécurité appropriées au niveau de risque, sans que puisse être opposé le secret professionnel, les documents et les informations nécessaires pour assurer le contrôle de la sincérité et de l'exactitude des déclarations souscrites ainsi que de l'authenticité des pièces produites en vue de l'attribution et du paiement des allocations, des aides et de toute autre prestation servies par l'opérateur France Travail, le contrôle du recouvrement des allocations, des aides, des prestations et des subventions indûment versées ainsi que le contrôle du recouvrement des contributions en application de l'article L. 5427-1, à l'exception des documents, des renseignements, des informations et des données personnelles dont la révélation ou la divulgation est interdite par les dispositions relatives au secret de la défense nationale, au secret médical, au secret fiscal, au secret des délibérations judiciaires ou au secret professionnel de l'avocat.
+
+Ce droit de communication est exercé par les agents de l'opérateur France Travail chargés :
+
+1° De la prévention des fraudes mentionnés à l'article L. 5312-13-1 ;
+
+2° De la gestion de l'inscription et du maintien sur la liste mentionnée à l'article L. 5411-1 ainsi que de l'attribution et du paiement des allocations, des aides, des prestations et des subventions versées par l'opérateur ;
+
+3° De la gestion du recouvrement des allocations, des aides, des prestations et des subventions indûment versées en application de l'article L. 5426-8-1 ainsi que du recouvrement des contributions en application de l'article L. 5427-1 ;
+
+4° De la détection des fraudes en agence, pour accomplir leurs actions de lutte contre la fraude.
+
+Ces agents sont soumis au secret professionnel, dans les conditions et sous les peines prévues à l'article 226-13 du code pénal, pour toutes les informations communiquées en application du présent article.
+
+Les agents mentionnés aux 2° à 4° sont individuellement désignés et dûment habilités selon des modalités déterminées par un décret pris après avis de la Commission nationale de l'informatique et des libertés.
+
+L'opérateur France Travail prend toutes les dispositions pour garantir le secret de ses investigations et de ses sources. Les travaux de l'opérateur France Travail comportant des informations couvertes par le secret professionnel et obtenues en application du présent article sont soumis à la même protection. Les données à caractère personnel contenues dans les documents et les informations transmis en application du présent article ne peuvent être conservées après la date d'épuisement des voies et des délais de recours contre les décisions administratives prononcées sur le fondement de ces documents et de ces informations.
+
+Le droit prévu au premier alinéa du présent article peut porter sur des informations relatives à des personnes non identifiées, dans des conditions fixées par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés.
+
+Le droit prévu au même premier alinéa s'exerce quel que soit le support utilisé pour la conservation des documents et peut s'accompagner de la prise immédiate d'extraits et de copies.
+
+Les documents et informations sont communiqués à titre gratuit dans les trente jours qui suivent la réception de la demande.
+
+La communication des documents et informations est effectuée par voie numérique.
+
+Le silence gardé ou le refus de déférer à une demande relevant dudit premier alinéa est puni d'une amende de 1 500 € par cotisant ou allocataire concerné, sans que le total de l'amende puisse être supérieur à 10 000 €.
+
+Le silence gardé ou le refus de déférer à une demande relevant du dixième alinéa est puni d'une amende de 5 000 €. Cette amende s'applique pour chaque demande, dès lors que tout ou partie des documents ou renseignements sollicités n'est pas communiqué.
+
+Ces montants sont doublés en cas de récidive de refus ou de silence gardé du tiers dans le délai de cinq ans à compter de l'expiration du délai de trente jours octroyé au tiers pour faire droit à la première demande de l'opérateur France Travail.
+
+Sans préjudice des autres dispositions législatives applicables en matière d'échanges d'informations, le droit de communication défini au présent article est exercé dans les conditions prévues et auprès des personnes mentionnées à la section I du chapitre II du titre II du livre des procédures fiscales, à l'exception des personnes mentionnées aux articles L. 82 AA, L. 82 C, L. 83 A à L. 83 E, L. 84 à L. 84 E, L. 89 à L. 91, L. 95, L. 96, L. 96 B à L. 96 CA, L. 96 F, L. 96 H et L. 96 J du même livre.
+
+Lorsqu'une procédure de recouvrement ou de suppression totale ou partielle d'une allocation, d'une aide ou de toute autre prestation est engagée à l'encontre d'une personne physique ou morale, suite à l'usage du droit mentionné au premier alinéa du présent article, l'opérateur France Travail est tenu d'informer cette personne de la teneur et de l'origine des informations et documents obtenus auprès de tiers sur lesquels est fondée cette décision. Il communique une copie des documents mentionnés au présent alinéa à la personne qui en fait la demande.
+
+### Article L5312-13-3
+- Identifiant : LEGIARTI000054316603
+- État : en vigueur depuis le 27/06/2026
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054316603
+- Renvoie à : [art. L5312-13-1 du Code du travail](chapitre-ii.md#article-l5312-13-1) ; [art. L5411-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-1)
+
+Pour les besoins de la recherche ou de la constatation d'un manquement délibéré ou de manœuvres frauduleuses soit en vue de s'inscrire, d'inscrire autrui ou de rester inscrit sur la liste mentionnée à l'article L. 5411-1 ou d'obtenir indûment, pour soi ou pour autrui, l'attribution ou le versement d'une allocation, d'une aide ou de toute autre prestation ou subvention versée par l'opérateur France Travail ou ayant conduit à un tel versement, soit en vue de se soustraire au versement des contributions dont le recouvrement est assuré par l'opérateur France Travail, les opérateurs de plateforme mentionnés à l'article 1649 ter A du code général des impôts communiquent aux agents chargés de la prévention des fraudes assermentés et agréés mentionnés à l'article L. 5312-13-1 du présent code, sur leur demande, les informations strictement nécessaires aux finalités prévues au présent alinéa.
+
+Les informations susceptibles d'être transmises dans le cadre du droit de communication mentionné au premier alinéa sont celles prévues aux 2° et 3° du II de l'article 1649 ter A du code général des impôts ainsi que les informations suivantes :
+
+1° Les types d'activités exercées sur la plateforme au titre desquelles des revenus ont été perçus ;
+
+2° La fréquence et les dates des opérations réalisées sur la plateforme au titre desquelles des revenus ont été perçus ;
+
+3° Les coordonnées professionnelles liées à l'activité.
+
+Ces informations ne peuvent concerner que des personnes :
+
+a) Inscrites sur la liste mentionnée à l'article L. 5411-1 du présent code ;
+
+b) Percevant ou ayant présenté une demande afin de percevoir une allocation, une aide ou toute autre prestation ou subvention versée par l'opérateur France Travail.
+
+L'exercice de ce droit de communication s'effectue dans le respect du principe de minimisation des données prévu à l'article 5 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) et dans le respect des garanties de sécurité prévues par un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique des libertés. Ce décret définit également les modalités de mise en œuvre du présent article.
+
+### Article L5312-14
+- Identifiant : LEGIARTI000018767059
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018767059
+- Renvoie à : [Code du travail, Chapitre II : Placement et accompagnement des d](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006178148)
+- Cité par : [Décret n°2024-1268 du 31 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050936332) ; [Décret n°2024-606 du 26 juin 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049791978)
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre.

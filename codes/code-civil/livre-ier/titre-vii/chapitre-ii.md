@@ -59,7 +59,7 @@ Lorsque la présomption de paternité est écartée dans les conditions prévues
 - État : en vigueur depuis le 01/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037399055
 - Renvoie à : [art. 62 du Code civil](../titre-ii/chapitre-ii.md#article-62) ; [art. L264-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797344)
-- Cité par : [art. 315 du Code civil](chapitre-ii.md#article-315) ; [art. 2496 du Code civil](../../livre-v/titre-ier.md#article-2496) ; [Arrêté du 9 décembre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044948777) ; [art. A444-84-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044949347)
+- Cité par : [art. 315 du Code civil](chapitre-ii.md#article-315) ; [art. 2496 du Code civil](../../livre-v/titre-ier.md#article-2496) ; [art. A444-84-1 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-84-1) ; [Arrêté du 9 décembre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044948777)
 
 Lorsque la filiation n'est pas établie dans les conditions prévues à la section I du présent chapitre, elle peut l'être par une reconnaissance de paternité ou de maternité, faite avant ou après la naissance.
 
@@ -153,7 +153,7 @@ Lorsque la reconnaissance est enregistrée, ses effets pour l'application des ar
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310357
 - Renvoie à : [art. 71 du Code civil](../titre-ii/chapitre-iii.md#article-71) ; [art. 311-1 du Code civil](chapitre-ier.md#article-311-1)
-- Cité par : [art. 2492 du Code civil](../../livre-v/titre-ier.md#article-2492) ; [art. 1578 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045282078)
+- Cité par : [art. 2492 du Code civil](../../livre-v/titre-ier.md#article-2492) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578)
 
 Chacun des parents ou l'enfant peut demander à un notaire que lui soit délivré un acte de notoriété qui fera foi de la possession d'état jusqu'à preuve contraire.
 

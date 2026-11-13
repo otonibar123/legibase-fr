@@ -379,7 +379,7 @@ Lorsqu'au décès du testateur il n'y aura pas d'héritiers auxquels une quotit�
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039368517
 - Renvoie à : [art. 1006 du Code civil](chapitre-v.md#article-1006)
-- Cité par : [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696) ; [art. 1378-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033748040) ; [Décret n°2016-1907 du 28 décembre 2016](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033731483)
+- Cité par : [art. 1378-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1378-1) ; [art. 1378-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1378-2) ; [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696) ; [Décret n°2016-1907 du 28 décembre 2016](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033731483)
 
 Tout testament olographe ou mystique sera, avant d'être mis à exécution, déposé entre les mains d'un notaire. Le testament sera ouvert s'il est cacheté. Le notaire dressera sur-le-champ procès-verbal de l'ouverture et de l'état du testament, en précisant les circonstances du dépôt. Dans le cas prévu à l'article 1006, le notaire vérifiera les conditions de la saisine du légataire au regard du caractère universel de sa vocation et de l'absence d'héritiers réservataires. Il portera mention de ces vérifications sur le procès-verbal. Le testament ainsi que le procès-verbal seront conservés au rang des minutes du dépositaire.
 
@@ -547,7 +547,7 @@ Les pouvoirs de l'exécuteur testamentaire ne sont pas transmissibles à cause d
 - Identifiant : LEGIARTI000006434758
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006434758
-- Cité par : [art. 1381 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383317)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381)
 
 L'exécuteur testamentaire peut être relevé de sa mission pour motifs graves par le tribunal.
 
@@ -613,7 +613,7 @@ Lorsque le testament a revêtu la forme authentique, l'envoi en possession n'est
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006434766
 - Renvoie à : [art. 1030 du Code civil](chapitre-v.md#article-1030) ; [art. 1030-1 du Code civil](chapitre-v.md#article-1030-1)
-- Cité par : [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379)
 
 Les habilitations mentionnées aux articles 1030 et 1030-1 sont données par le testateur pour une durée qui ne peut excéder deux années à compter de l'ouverture du testament. Une prorogation d'une année au plus peut être accordée par le juge.
 

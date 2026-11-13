@@ -6,7 +6,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006441291
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441291
-- Cité par : [Arrêté du 4 mai 2022, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046170485) ; [art. L611-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224815) ; [Décret n°2022-780 du 4 mai 2022, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046171864)
+- Cité par : [art. L611-1 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-ier.md#article-l611-1) ; [Arrêté du 4 mai 2022, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046170485) ; [Décret n°2022-780 du 4 mai 2022, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046171864)
 
 La vente est une convention par laquelle l'un s'oblige à livrer une chose, et l'autre à la payer.  
 
@@ -90,7 +90,7 @@ Est nulle et de nul effet toute promesse unilatérale de vente afférente à un 
 - Identifiant : LEGIARTI000006441327
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441327
-- Cité par : [art. L214-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226990)
+- Cité par : [art. L214-1 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-iv.md#article-l214-1)
 
 Si la promesse de vendre a été faite avec des arrhes chacun des contractants est maître de s'en départir,  
 

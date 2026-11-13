@@ -37,7 +37,7 @@ Les lois concernant l'état et la capacité des personnes régissent les França
 - Identifiant : LEGIARTI000006419283
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419283
-- Cité par : [art. L932-17 du CODE DE L'ORGANISATION JUDICIAIRE.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006519088) ; [art. L1442-9 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901533)
+- Cité par : [art. L1442-9 du Code du travail](../code-du-travail/partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-9) ; [art. L932-17 du CODE DE L'ORGANISATION JUDICIAIRE.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006519088)
 
 Le juge qui refusera de juger, sous prétexte du silence, de l'obscurité ou de l'insuffisance de la loi, pourra être poursuivi comme coupable de déni de justice.
 
@@ -45,7 +45,7 @@ Le juge qui refusera de juger, sous prétexte du silence, de l'obscurité ou de 
 - Identifiant : LEGIARTI000006419284
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419284
-- Cité par : [art. L932-17 du CODE DE L'ORGANISATION JUDICIAIRE.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006519088) ; [art. L1442-9 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901533)
+- Cité par : [art. L1442-9 du Code du travail](../code-du-travail/partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-9) ; [art. L932-17 du CODE DE L'ORGANISATION JUDICIAIRE.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006519088)
 
 Il est défendu aux juges de prononcer par voie de disposition générale et réglementaire sur les causes qui leur sont soumises.
 

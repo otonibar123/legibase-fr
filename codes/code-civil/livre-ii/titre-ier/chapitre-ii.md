@@ -13,7 +13,7 @@ Les biens sont meubles par leur nature ou par la détermination de la loi.
 - Identifiant : LEGIARTI000030254004
 - État : en vigueur depuis le 18/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030254004
-- Cité par : [art. L221-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563164) ; [Loi n°1817-01-02 du 2 janvier 1817, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006314828)
+- Cité par : [art. L221-1 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-ier.md#article-l221-1) ; [Loi n°1817-01-02 du 2 janvier 1817, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006314828)
 
 Sont meubles par leur nature les biens qui peuvent se transporter d'un lieu à un autre.
 
@@ -21,7 +21,7 @@ Sont meubles par leur nature les biens qui peuvent se transporter d'un lieu à u
 - Identifiant : LEGIARTI000006428718
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428718
-- Cité par : [art. L121-10 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227274) ; [Loi n°1817-01-02 du 2 janvier 1817, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006314828)
+- Cité par : [art. L121-10 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ier.md#article-l121-10) ; [Loi n°1817-01-02 du 2 janvier 1817, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006314828)
 
 Sont meubles par la détermination de la loi les obligations et actions qui ont pour objet des sommes exigibles ou des effets mobiliers, les actions ou intérêts dans les compagnies de finance, de commerce ou d'industrie, encore que des immeubles dépendant de ces entreprises appartiennent aux compagnies. Ces actions ou intérêts sont réputés meubles à l'égard de chaque associé seulement, tant que dure la société.  
 

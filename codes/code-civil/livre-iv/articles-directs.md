@@ -6,7 +6,7 @@ Code civil › Livre IV : Des sûretés
 - Identifiant : LEGIARTI000006448032
 - État : en vigueur depuis le 24/03/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006448032
-- Cité par : [art. L526-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045178080) ; [art. L526-12 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038584721) ; [art. L516-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048248725) ; [art. L112-1-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715854)
+- Cité par : [art. L526-1 du Code de commerce](../../code-de-commerce/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-1) ; [art. L526-12 du Code de commerce](../../code-de-commerce/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-12) ; [art. L526-28 du Code de commerce](../../code-de-commerce/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-28) ; [art. L516-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048248725) ; [art. L112-1-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715854)
 
 Quiconque s'est obligé personnellement, est tenu de remplir son engagement sur tous ses biens mobiliers et immobiliers, présents et à venir.
 
@@ -14,7 +14,7 @@ Quiconque s'est obligé personnellement, est tenu de remplir son engagement sur 
 - Identifiant : LEGIARTI000006448042
 - État : en vigueur depuis le 24/03/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006448042
-- Cité par : [art. L526-12 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038584721) ; [art. L214-5 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027809984) ; [art. L214-24-26 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027764371) ; [art. L214-43 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022963299) ; [art. L214-85 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051323811) ; [art. L214-146 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006651913) ; [art. L214-162-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030994928) ; [art. L214-169 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038611549) ; [art. L112-1-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715854) ; [Loi n°1942-01-19 du 19 janvier 1942, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006493764)
+- Cité par : [art. L526-12 du Code de commerce](../../code-de-commerce/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-12) ; [art. L214-5 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027809984) ; [art. L214-24-26 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027764371) ; [art. L214-43 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022963299) ; [art. L214-85 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051323811) ; [art. L214-146 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006651913) ; [art. L214-162-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030994928) ; [art. L214-169 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038611549) ; [art. L112-1-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715854) ; [Loi n°1942-01-19 du 19 janvier 1942, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006493764)
 
 Les biens du débiteur sont le gage commun de ses créanciers ; et le prix s'en distribue entre eux par contribution, à moins qu'il n'y ait entre les créanciers des causes légitimes de préférence.
 
@@ -22,7 +22,7 @@ Les biens du débiteur sont le gage commun de ses créanciers ; et le prix s'en 
 - Identifiant : LEGIARTI000019293165
 - État : en vigueur depuis le 06/08/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019293165
-- Cité par : [art. 2355 du Code civil](titre-ii/sous-titre-ii/chapitre-iii.md#article-2355) ; [art. L622-7 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044052577)
+- Cité par : [art. 2355 du Code civil](titre-ii/sous-titre-ii/chapitre-iii.md#article-2355) ; [art. L622-7 du Code de commerce](../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-7)
 
 Peut se prévaloir d'un droit de rétention sur la chose :
 

@@ -124,7 +124,7 @@ L'intérêt est accordé par la loi ou stipulé dans le contrat. Le taux de l'in
 - Identifiant : LEGIARTI000032035261
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035261
-- Cité par : [Arrêté du 28 avril 2011, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050742228) ; [art. L611-10-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042757) ; [art. L622-28 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042779) ; [art. L312-74 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032890821) ; [art. L211-40 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320443) ; [art. R512-15 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033202607)
+- Cité par : [art. L611-10-1 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-10-1) ; [art. L622-28 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-28) ; [art. L312-74 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-74) ; [Arrêté du 28 avril 2011, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050742228) ; [art. L211-40 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320443) ; [art. R512-15 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033202607)
 
 Les intérêts échus, dus au moins pour une année entière, produisent intérêt si le contrat l'a prévu ou si une décision de justice le précise.
 
@@ -151,7 +151,7 @@ A défaut d'une autre désignation par la loi, le contrat ou le juge, le lieu du
 - Identifiant : LEGIARTI000032035267
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035267
-- Cité par : [ARRÊTÉ du 29 mai 2015, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054998002) ; [art. L145-41 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054142477) ; [art. L611-7 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042762) ; [art. L611-10-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042757) ; [art. L314-20 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054251150) ; [art. L222-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042882) ; [art. L261-13 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042863) ; [art. 832 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052137847) ; [art. 861-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624826) ; [art. L418-3 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032043002) ; … et 9 autres textes (liste complète dans [renvois.md](../../renvois.md))
+- Cité par : [art. L145-41 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-v.md#article-l145-41) ; [art. L611-7 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-7) ; [art. L611-10-1 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-10-1) ; [art. L314-20 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iv.md#article-l314-20) ; [art. 832 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-832) ; [art. 861-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-iii/chapitre-ier.md#article-861-2) ; [ARRÊTÉ du 29 mai 2015, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054998002) ; [art. L222-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042882) ; [art. L261-13 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042863) ; [art. L418-3 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032043002) ; [art. L411-76 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038791107) ; [Loi n° 48-1360 du 1er septembre 1948, art. 80](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043062) ; [Loi n° 70-632 du 15 juillet 1970, art. 60](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043093) ; [Loi n° 89-462 du 6 juillet 1989, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047900019) ; [Loi n°56-672 du 9 juillet 1956, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043071) ; [Loi n°67-3 du 3 janvier 1967, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043084) ; … et 3 autres textes (liste complète dans [renvois.md](../../renvois.md))
 
 Le juge peut, compte tenu de la situation du débiteur et en considération des besoins du créancier, reporter ou échelonner, dans la limite de deux années, le paiement des sommes dues.
 
@@ -174,7 +174,7 @@ Les dispositions du présent article ne sont pas applicables aux dettes d'alimen
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042162
 - Renvoie à : [art. 1341 du Code civil](chapitre-iii.md#article-1341)
-- Cité par : [art. Annexe 4-9 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049887257)
+- Cité par : [art. Annexe 4-9 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-9)
 
 Le débiteur est mis en demeure de payer soit par une sommation ou un acte portant interpellation suffisante, soit, si le contrat le prévoit, par la seule exigibilité de l'obligation.
 
@@ -240,7 +240,7 @@ Les frais de la mise en demeure et de la consignation ou du séquestre sont à l
 - Identifiant : LEGIARTI000032042147
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042147
-- Cité par : [art. A444-161 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684576) ; [art. L443-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042710) ; [art. L313-22-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042933) ; [Loi n° 65-557 du 10 juillet 1965, art. 28](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313615)
+- Cité par : [art. A444-161 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-161) ; [art. L443-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042710) ; [art. L313-22-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042933) ; [Loi n° 65-557 du 10 juillet 1965, art. 28](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313615)
 
 La subrogation a lieu par le seul effet de la loi au profit de celui qui, y ayant un intérêt légitime, paie dès lors que son paiement libère envers le créancier celui sur qui doit peser la charge définitive de tout ou partie de la dette.
 
@@ -248,7 +248,7 @@ La subrogation a lieu par le seul effet de la loi au profit de celui qui, y ayan
 - Identifiant : LEGIARTI000032035287
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035287
-- Cité par : [art. R518-31 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039413137)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. R518-31 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039413137)
 
 La subrogation conventionnelle s'opère à l'initiative du créancier lorsque celui-ci, recevant son paiement d'une tierce personne, la subroge dans ses droits contre le débiteur.
 

@@ -24,7 +24,7 @@ La succession est vacante :
 - Identifiant : LEGIARTI000033460717
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460717
-- Cité par : [art. 811-1 du Code civil](chapitre-v.md#article-811-1) ; [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798) ; [art. 1342 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412499) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 811-1 du Code civil](chapitre-v.md#article-811-1) ; [art. 1342 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1342) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798)
 
 Le juge, saisi sur requête de tout créancier, de toute personne qui assurait, pour le compte de la personne décédée, l'administration de tout ou partie de son patrimoine, d'un notaire, de toute autre personne intéressée ou du ministère public, confie la curatelle de la succession vacante, dont le régime est défini à la présente section, à l'autorité administrative chargée du domaine.
 
@@ -34,7 +34,7 @@ L'ordonnance de curatelle fait l'objet d'une publicité.
 - Identifiant : LEGIARTI000006431928
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431928
-- Cité par : [art. 811-1 du Code civil](chapitre-v.md#article-811-1) ; [art. 1342 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412499) ; [art. 1345 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412504)
+- Cité par : [art. 811-1 du Code civil](chapitre-v.md#article-811-1) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 1342 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1342) ; [art. 1345 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1345)
 
 Dès sa désignation, le curateur fait dresser un inventaire estimatif, article par article, de l'actif et du passif de la succession par un commissaire-priseur judiciaire, un huissier ou un notaire, selon les lois et règlements applicables à ces professions, ou par un fonctionnaire assermenté appartenant à l'administration chargée du domaine.  
 
@@ -68,7 +68,7 @@ Les sommes provenant à un titre quelconque d'une succession vacante ne peuvent,
 - Identifiant : LEGIARTI000006431954
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431954
-- Cité par : [art. 810-2 du Code civil](chapitre-v.md#article-810-2) ; [art. 1343 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412502)
+- Cité par : [art. 810-2 du Code civil](chapitre-v.md#article-810-2) ; [art. 1343 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1343)
 
 Pendant les six mois qui suivent l'ouverture de la succession, le curateur ne peut procéder qu'aux actes purement conservatoires ou de surveillance, aux actes d'administration provisoire et à la vente des biens périssables.
 
@@ -90,7 +90,7 @@ Pour l'application du présent article, le curateur peut donner mandat aux fins 
 - Identifiant : LEGIARTI000053775748
 - État : en vigueur depuis le 09/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053775748
-- Cité par : [art. 810-8 du Code civil](chapitre-v.md#article-810-8) ; [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798) ; [art. 1349 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412508) ; [art. R2222-26 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024885396)
+- Cité par : [art. 810-8 du Code civil](chapitre-v.md#article-810-8) ; [art. 1349 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1349) ; [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798) ; [art. R2222-26 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024885396)
 
 La vente a lieu soit par commissaire de justice ou notaire selon les lois et règlements applicables à ces professions, soit par le tribunal, soit dans les formes prévues par le code général de la propriété des personnes publiques pour l'aliénation, à titre onéreux, du domaine immobilier ou du domaine mobilier appartenant à l'Etat.
 
@@ -112,7 +112,7 @@ Il ne peut payer, sans attendre le projet de règlement du passif, que les frais
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431988
 - Renvoie à : [art. 796 du Code civil](chapitre-iv.md#article-796)
-- Cité par : [art. 1342 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412499)
+- Cité par : [art. 1342 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1342)
 
 Le curateur dresse un projet de règlement du passif.  
 
@@ -133,7 +133,7 @@ Les pouvoirs du curateur s'exercent sous réserve des dispositions applicables �
 - Identifiant : LEGIARTI000006432020
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432020
-- Cité par : [art. 1342 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412499)
+- Cité par : [art. 1342 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1342)
 
 Le curateur rend compte au juge des opérations effectuées par lui. Le dépôt du compte fait l'objet de publicité.  
 
@@ -144,7 +144,7 @@ Le curateur présente le compte à tout créancier ou tout héritier qui en fait
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432036
 - Renvoie à : [art. 810-3 du Code civil](chapitre-v.md#article-810-3)
-- Cité par : [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379)
 
 Après réception du compte, le juge autorise le curateur à procéder à la réalisation de l'actif subsistant.
 
@@ -197,7 +197,7 @@ La curatelle prend fin :
 - Identifiant : LEGIARTI000006431815
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431815
-- Cité par : [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798) ; [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696) ; [art. 1354 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412517) ; [art. 1381 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383317)
+- Cité par : [art. 1354 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1354) ; [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798) ; [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696)
 
 Lorsque l'Etat prétend à la succession d'une personne qui décède sans héritier ou à une succession abandonnée, il doit en demander l'envoi en possession au tribunal.
 

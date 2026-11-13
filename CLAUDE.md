@@ -117,6 +117,20 @@ Le dossier `scripts/` sert au mainteneur ; l'utilisateur n'en a pas besoin.
 
 - **Code civil : terminé** (généré le 11/11/2026, base LEGI du 08/11/2026) : 2 896 articles en vigueur,
   191 fichiers de chapitre, 4,4 Mo publiables. Texte vérifié identique aux XML (0 écart), 0 lien relatif cassé.
+- **Nuit du 13/11/2026 : 4 codes générés d'un coup, avec l'accord de l'utilisateur** (« fais tous les codes en séquence »),
+  même base LEGI du 08/11/2026 : procédure civile (2 027 articles, 173 fichiers), travail (11 479, 1 012),
+  consommation (1 919, 180), commerce (7 246, 460). Vérifiés : texte identique aux XML, 0 lien cassé, 0 ancre absente.
+  Bibliothèque : ~50 Mo (zip 8,5 Mo). **Commit local, pas encore poussé** : attendre la validation de l'utilisateur.
+  Étape 3 (loi 71-1130, décret 91-1197, RIN) non faite : ce sont des textes non codifiés (`TNC_en_vigueur/JORF/...`),
+  il faut adapter l'extraction et le générateur (dossier `textes-non-codifies/`), et le RIN vient du site du CNB.
+- **Décisions à demander à l'utilisateur** :
+  - 393 articles en vigueur aujourd'hui mais marqués « ABROGE_DIFF » (abrogation programmée) sont exclus par la règle
+    « état VIGUEUR uniquement » : civil 3, procédure civile 58, travail 116, consommation 178 (dont 139 abrogés fin
+    novembre 2026), commerce 38. Proposition : les inclure avec « jusqu'au JJ/MM/AAAA » ;
+  - 9 articles R822-x du code de la consommation (Commission des clauses abusives) sont « VIGUEUR » mais dans une
+    section abrogée le 31/03/2026 : incohérence de LEGI, laissés de côté ;
+  - 30 numéros d'articles portés par deux articles différents (surtout des annexes du code de commerce, ex. « Annexe 1-3 ») :
+    les deux sont écrits, mais un lien vers ce numéro mène à un seul des deux.
 - `SKILL.md`, `README.md`, `INDEX.md`, `VERSION.md`, `liens/` et `scripts/` existent déjà.
 - **Dépôt GitHub** : `otonibar123/legibase-fr` (public depuis le 13/11/2026, branche `main`, premier commit `dbdf26f` le 12/11/2026).
   Le jeton `GITHUB_TOKEN` de l'ordinateur ne donne accès qu'à ce compte. L'utilisateur a évoqué un autre compte
@@ -125,7 +139,7 @@ Le dossier `scripts/` sert au mainteneur ; l'utilisateur n'en a pas besoin.
 - **iCloud** : le dossier est dans `~/Documents`, synchronisé par iCloud, qui a créé un dossier vide
   `codes/code-civil 3` après une régénération (supprimé). Recommandation en attente : déplacer le projet
   dans `~/Projects/` (puis mettre à jour le `CLAUDE.md` parent).
-- **Prochain code proposé : code de procédure civile.** Ne pas le commencer sans l'accord explicite de l'utilisateur.
+- **Prochaine étape proposée : textes de la profession d'avocat (étape 3).** Ne pas commencer sans l'accord de l'utilisateur.
 - **Points ouverts** :
   - vérifier à la main qu'un lien Légifrance « Cité par » vers un texte non codifié
     (`https://www.legifrance.gouv.fr/loda/article_lc/<id>`) s'ouvre bien ; sinon changer le format dans `lien_legifrance()` ;
@@ -161,6 +175,10 @@ python3 -I scripts/update.py --sans-extraction     # réutilise aussi les XML d�
 - **État et dates** : l'état « VIGUEUR » ne suffit pas. Il faut aussi que la période de validité (début, fin) couvre
   la date de la base (cas de l'article 214 du code civil : 2e version « VIGUEUR » avec début = fin = 1976).
   Les articles « VIGUEUR_DIFF » (vigueur future) sont exclus.
+- **Sections** : une section « ABROGE_DIFF » ou « VIGUEUR_DIFF » peut contenir des articles en vigueur aujourd'hui ;
+  le générateur les parcourt (le tri se fait article par article). Un même article peut être rattaché à deux versions
+  d'une section : il n'est écrit qu'une fois, sous la section « VIGUEUR » de préférence. Les fichiers de chapitre
+  sans article en vigueur ne sont pas écrits, et le dossier d'un code est vidé avant d'être régénéré.
 - **Sens des liens** (`typelien="CITATION"`) : `sens="source"` = l'article cite la cible (« Renvoie à ») ;
   `sens="cible"` = l'article est cité par l'autre texte (« Cité par »).
 - **Libellés de lien** : « Code civil - art. 1366 (V) ». L'état entre parenthèses (V, VD = gardés ; M, Ab... = anciennes

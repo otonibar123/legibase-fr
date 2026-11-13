@@ -41,7 +41,7 @@ Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
     - [Chapitre IV : Des demandes en nullité de mariage](livre-ier/titre-v/chapitre-iv.md) (21 articles)
     - [Chapitre IV bis : Des règles de conflit de lois](livre-ier/titre-v/chapitre-iv-bis.md) (2 articles)
     - [Chapitre V : Des obligations qui naissent du mariage](livre-ier/titre-v/chapitre-v.md) (9 articles)
-    - [Chapitre VI : Des devoirs et des droits respectifs des époux](livre-ier/titre-v/chapitre-vi.md) (19 articles)
+    - [Chapitre VI : Des devoirs et des droits respectifs des époux](livre-ier/titre-v/chapitre-vi.md) (18 articles)
     - [Chapitre VII : De la dissolution du mariage](livre-ier/titre-v/chapitre-vii.md) (1 article)
   - **Titre VI : Du divorce**
     - [Chapitre Ier : Des cas de divorce](livre-ier/titre-vi/chapitre-ier.md) (19 articles)

@@ -1,0 +1,24 @@
+# Chapitre V bis : Procédure accélérée au fond
+
+Code du travail › Partie réglementaire › Première partie : Les relations individuelles de travail › Livre IV : La résolution des litiges - Le conseil de prud'hommes › Titre V : Procédure devant le conseil de prud'hommes
+
+### Article R1455-12
+- Identifiant : LEGIARTI000039726087
+- État : en vigueur depuis le 01/01/2020
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039726087
+- Renvoie à : [art. 481-1 du Code de procédure civile](../../../../../code-de-procedure-civile/livre-ier/titre-xiv/chapitre-ii.md#article-481-1) ; [art. R1454-28 du Code du travail](chapitre-iv.md#article-r1454-28) ; [art. R1455-1 du Code du travail](chapitre-v.md#article-r1455-1) ; [art. R1455-8 du Code du travail](chapitre-v.md#article-r1455-8) ; [art. R1455-9 du Code du travail](chapitre-v.md#article-r1455-9)
+- Cité par : [art. R4624-45 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-r4624-45)
+
+A moins qu'il en soit disposé autrement, lorsqu'il est prévu que le conseil de prud'hommes statue selon la procédure accélérée au fond, la demande est portée à une audience tenue aux jour et heures à cet effet, dans les conditions prévues à l'article R. 1455-9.  
+
+Elle est formée, instruite et jugée dans les conditions suivantes :  
+
+1° Il est fait application des 3° et 7° de l'article 481-1 du code de procédure civile ;  
+
+2° Le jugement est exécutoire à titre provisoire, à moins que le conseil de prud'hommes en décide autrement, sous réserve des dispositions du deuxième alinéa de l'article R. 1454-28.  
+
+Lorsque le conseil de prud'hommes statuant selon la procédure accélérée au fond est saisi à tort, l'affaire peut être renvoyée devant le bureau de jugement dans les conditions prévues à l'article R. 1455-8.  
+
+La formation du conseil de prud'hommes amenée à statuer selon la procédure accélérée au fond est, sauf disposition contraire, composée et organisée dans les conditions définies aux articles R. 1455-1 à R. 1455-4.
+
+> Nota : Conformément à l'article 24 du décret n° 2019-1419 du 20 décembre 2019, les dispositions qui résultent du décret précité s'appliquent aux demandes introduites à compter du 1er janvier 2020.

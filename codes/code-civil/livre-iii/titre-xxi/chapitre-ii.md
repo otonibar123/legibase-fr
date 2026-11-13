@@ -39,7 +39,7 @@ Pour pouvoir prescrire, il faut une possession continue et non interrompue, pais
 - Identifiant : LEGIARTI000019017200
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017200
-- Cité par : [art. D3313-11 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533370) ; [art. D3324-37 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533208) ; [art. D3324-38 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533206) ; [Décret n°55-885 du 30 juin 1955, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006401321)
+- Cité par : [art. D3313-11 du Code du travail](../../../code-du-travail/partie-reglementaire/troisieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-d3313-11) ; [art. D3324-37 du Code du travail](../../../code-du-travail/partie-reglementaire/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d3324-37) ; [art. D3324-38 du Code du travail](../../../code-du-travail/partie-reglementaire/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d3324-38) ; [Décret n°55-885 du 30 juin 1955, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006401321)
 
 Les actes de pure faculté et ceux de simple tolérance ne peuvent fonder ni possession ni prescription.
 
@@ -168,7 +168,7 @@ Néanmoins, celui qui a perdu ou auquel il a été volé une chose peut la reven
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017159
 - Renvoie à : [art. 2332 du Code civil](../../livre-iv/titre-ii/sous-titre-ii/chapitre-ier.md#article-2332)
-- Cité par : [Arrêté du 28 décembre 1990, art. Annexe, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006787517) ; [art. L110-4 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006219128) ; [Décret n°57-1025 du 10 septembre 1957, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006338981) ; [Décret n°90-1215 du 20 décembre 1990, art. 112](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006775281) ; [Loi n°96-609 du 5 juillet 1996, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006302139)
+- Cité par : [art. L110-4 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ier/titre-ier.md#article-l110-4) ; [Arrêté du 28 décembre 1990, art. Annexe, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006787517) ; [Décret n°57-1025 du 10 septembre 1957, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006338981) ; [Décret n°90-1215 du 20 décembre 1990, art. 112](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006775281) ; [Loi n°96-609 du 5 juillet 1996, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006302139)
 
 Si le possesseur actuel de la chose volée ou perdue l'a achetée dans une foire ou dans un marché, ou dans une vente publique, ou d'un marchand vendant des choses pareilles, le propriétaire originaire ne peut se la faire rendre qu'en remboursant au possesseur le prix qu'elle lui a coûté.  
 

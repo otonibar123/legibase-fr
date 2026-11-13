@@ -129,7 +129,7 @@ La personne physique qui donne mandat à autrui de se porter caution doit respec
 - Identifiant : LEGIARTI000044071227
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071227
-- Cité par : [art. L814-3 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073230) ; [art. R7123-28 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018521570)
+- Cité par : [art. L814-3 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-viii/titre-ier/chapitre-iv.md#article-l814-3) ; [art. R7123-28 du Code du travail](../../../code-du-travail/partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-28)
 
 La caution peut opposer au créancier toutes les exceptions, personnelles ou inhérentes à la dette, qui appartiennent au débiteur, sous réserve des dispositions du deuxième alinéa de l'article 2293.  
 
@@ -213,7 +213,7 @@ Dans le mois qui en suit la réception, la caution communique à ses frais à la
 - Identifiant : LEGIARTI000044071260
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071260
-- Cité par : [art. D3154-4 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929710) ; [art. R1251-19 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929716) ; [art. R7123-28 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929705) ; [Décret n°55-604 du 20 mai 1955, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929664)
+- Cité par : [art. L814-3 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-viii/titre-ier/chapitre-iv.md#article-l814-3) ; [art. D3154-4 du Code du travail](../../../code-du-travail/partie-reglementaire/troisieme-partie/livre-ier/titre-v/chapitre-iv.md#article-d3154-4) ; [art. R1251-19 du Code du travail](../../../code-du-travail/partie-reglementaire/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-r1251-19) ; [art. R7123-28 du Code du travail](../../../code-du-travail/partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-28) ; [Décret n°55-604 du 20 mai 1955, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929664)
 
 Le bénéfice de discussion permet à la caution d'obliger le créancier à poursuivre d'abord le débiteur principal.  
 
@@ -225,7 +225,7 @@ Ne peut se prévaloir de ce bénéfice ni la caution tenue solidairement avec le
 - Identifiant : LEGIARTI000044071276
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071276
-- Cité par : [art. D3154-4 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929710) ; [art. R1251-19 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929716) ; [art. R7123-28 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929705)
+- Cité par : [art. D3154-4 du Code du travail](../../../code-du-travail/partie-reglementaire/troisieme-partie/livre-ier/titre-v/chapitre-iv.md#article-d3154-4) ; [art. R1251-19 du Code du travail](../../../code-du-travail/partie-reglementaire/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-r1251-19) ; [art. R7123-28 du Code du travail](../../../code-du-travail/partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-28)
 
 Le bénéfice de discussion doit être invoqué par la caution dès les premières poursuites dirigées contre elle.  
 
@@ -273,7 +273,7 @@ Si le créancier a divisé de lui-même son action, il ne peut plus revenir sur 
 - Identifiant : LEGIARTI000044071254
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071254
-- Renvoie à : [art. L731-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032223679)
+- Renvoie à : [art. L731-2 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-vii/titre-iii/chapitre-ier.md#article-l731-2)
 
 L'action du créancier ne peut avoir pour effet de priver la caution personne physique du minimum de ressources fixé à l'article L. 731-2 du code de la consommation.
 

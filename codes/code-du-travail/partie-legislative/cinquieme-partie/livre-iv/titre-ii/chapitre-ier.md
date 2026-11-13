@@ -1,0 +1,63 @@
+# Chapitre Ier : Dispositions générales.
+
+Code du travail › Partie législative › Cinquième partie : L'emploi › Livre IV : Le demandeur d'emploi › Titre II : Indemnisation des travailleurs privés d'emploi
+
+### Article L5421-1
+- Identifiant : LEGIARTI000037388230
+- État : en vigueur depuis le 01/01/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037388230
+- Renvoie à : [art. L1237-11 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-11) ; [art. L1237-15 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-15) ; [art. L1237-17 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-17) ; [art. L1237-19-14 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-19-14) ; [Code du travail, Titre II : Indemnisation des travailleurs privé](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006160812)
+- Cité par : [art. L5412-1 du Code du travail](../titre-ier/chapitre-ii.md#article-l5412-1) ; [art. L5422-8 du Code du travail](chapitre-ii.md#article-l5422-8) ; [art. L5426-1 du Code du travail](chapitre-vi.md#article-l5426-1) ; [art. R5312-28 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-28) ; [art. R5322-4 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-r5322-4) ; [art. R5412-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ii.md#article-r5412-1) ; [art. R5412-2 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ii.md#article-r5412-2) ; [art. R5412-3 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ii.md#article-r5412-3) ; [art. R5412-3-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ii.md#article-r5412-3-1) ; [art. R5412-3-3 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ii.md#article-r5412-3-3) ; [art. R5412-6 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ier/chapitre-ii.md#article-r5412-6) ; [art. R5421-3 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-r5421-3) ; [Arrêté du 8 janvier 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050967722) ; [art. R914-130 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030743657) ; [art. L612-21 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025506247) ; [art. L622-20 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025506474) ; [art. L625-12 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047555609) ; [art. L645-1 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054725867) ; [art. L647-1 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054725793) ; [art. D168-13 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045088051) ; [art. D168-15 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795123) ; [art. D544-6 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045088041) ; … et 8 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+En complément des mesures tendant à faciliter leur reclassement ou leur conversion, les personnes aptes au travail et recherchant un emploi ont droit à un revenu de remplacement dans les conditions fixées au présent titre.
+
+### Article L5421-2
+- Identifiant : LEGIARTI000037388221
+- État : en vigueur depuis le 01/01/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037388221
+- Renvoie à : [Code du travail, Chapitre II : Régime d'assurance](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006178164) ; [Code du travail, Chapitre III : Régime de solidarité](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006178165) ; [Code du travail, Chapitre IV : Régimes particuliers](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006178166)
+- Cité par : [art. D6523-9 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-v/titre-ii/chapitre-iii.md#article-d6523-9) ; [art. L1251-46 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-46) ; [art. L1272-4 du Code du travail](../../../premiere-partie/livre-ii/titre-vii/chapitre-ii.md#article-l1272-4) ; [art. L5312-15 du Code du travail](../../livre-iii/titre-ier/chapitre-ii-bis.md#article-l5312-15) ; [art. L5312-18 du Code du travail](../../livre-iii/titre-ier/chapitre-ii-bis.md#article-l5312-18) ; [art. L5421-5 du Code du travail](chapitre-ier.md#article-l5421-5) ; [art. L5424-30 du Code du travail](chapitre-iv.md#article-l5424-30) ; [art. L5427-3 du Code du travail](chapitre-vii.md#article-l5427-3) ; [art. L5427-4 du Code du travail](chapitre-vii.md#article-l5427-4) ; [art. R1234-9 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-iv.md#article-r1234-9) ; [art. R1454-14 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-v/chapitre-iv.md#article-r1454-14) ; [art. R5123-29 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r5123-29) ; [art. R5312-42 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r5312-42) ; [Arrêté du 12 janvier 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043050650) ; [Arrêté du 15 février 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043136867) ; [Arrêté du 16 avril 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043401924) ; [Arrêté du 16 mars 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043264107) ; [Arrêté du 18 novembre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044348020) ; [Arrêté du 2 août 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043897564) ; [Arrêté du 22 juillet 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042155444) ; [Arrêté du 23 décembre 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042999676) ; [Arrêté du 3 juin 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043643715) ; [Arrêté du 30 janvier 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043083711) ; … et 40 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+Le revenu de remplacement prend, selon le cas, la forme :
+
+1° D'une allocation d'assurance, prévue au chapitre II du présent titre ;
+
+2° Des allocations de solidarité, prévues au chapitre III ;
+
+3° De l'allocation des travailleurs indépendants et des autres allocations et indemnités régies par les régimes particuliers, prévues au chapitre IV.
+
+### Article L5421-3
+- Identifiant : LEGIARTI000037388491
+- État : en vigueur depuis le 01/01/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037388491
+- Renvoie à : [art. L5311-2 du Code du travail](../../livre-iii/titre-ier/chapitre-ier.md#article-l5311-2) ; [art. L5422-1 du Code du travail](chapitre-ii.md#article-l5422-1) ; [art. L5423-1 du Code du travail](chapitre-iii.md#article-l5423-1)
+- Cité par : [art. L5422-8 du Code du travail](chapitre-ii.md#article-l5422-8) ; [art. L5426-1-2 du Code du travail](chapitre-vi.md#article-l5426-1-2) ; [art. R5423-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-r5423-1) ; [art. R5423-8 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-r5423-8) ; [art. R5424-70 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r5424-70) ; [art. R5522-74 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-v/titre-ii/chapitre-ii.md#article-r5522-74) ; [Arrêté du 8 janvier 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050967722) ; [art. L262-28 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334520) ; [art. L5411-8 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019279920) ; [Décret n°2020-741 du 16 juin 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042009430)
+
+La condition de recherche d'emploi requise pour bénéficier d'un revenu de remplacement est satisfaite dès lors que les intéressés sont inscrits comme demandeurs d'emploi et accomplissent, à leur initiative ou sur proposition de l'un des organismes mentionnés à l'article L. 5311-2, des actes positifs et répétés en vue de retrouver un emploi, de créer, reprendre ou développer une entreprise.
+
+Un décret en Conseil d'Etat détermine les mesures d'application du présent article.
+
+### Article L5421-4
+- Identifiant : LEGIARTI000051289909
+- État : en vigueur depuis le 01/01/2026
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051289909
+- Renvoie à : art. L161-17-2 du Code de la sécurité sociale ; art. L351-1 du Code de la sécurité sociale
+- Cité par : [art. L5151-2 du Code du travail](../../livre-ier/titre-v/chapitre-unique.md#article-l5151-2) ; [art. L5425-2 du Code du travail](chapitre-v.md#article-l5425-2) ; [art. L6323-3 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-3) ; [art. L5524-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037388521) ; [Décret n°2019-797 du 26 juillet 2019, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047596057) ; [Décret n°2019-797 du 26 juillet 2019, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047596136) ; [Décret n°2019-797 du 26 juillet 2019, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038869226) ; [Décret n°2019-797 du 26 juillet 2019, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047596331) ; [Décret n°2019-797 du 26 juillet 2019, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047066974) ; [Décret n°2020-741 du 16 juin 2020, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042009438) ; [LOI n°2025-199 du 28 février 2025, art. 87](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053279816)
+
+Le revenu de remplacement cesse d'être versé :
+
+1° Aux allocataires ayant atteint l'âge prévu à l'article L. 161-17-2 du code de la sécurité sociale justifiant de la durée d'assurance, définie au deuxième alinéa de l'article L. 351-1 du code de la sécurité sociale, requise pour l'ouverture du droit à une pension de vieillesse à taux plein ;
+
+2° Aux allocataires atteignant l'âge prévu au 1° de l'article L. 351-8 du même code ;
+
+3° Aux allocataires bénéficiant d'une retraite attribuée en application des articles L. 161-17-4, L. 351-1-1, L. 351-1-3 à L. 351-1-5 et des II et III des articles L. 643-3 et L. 653-2 du code de la sécurité sociale et des troisième et septième alinéas du I de l'article 41 de la loi de financement de la sécurité sociale pour 1999 (n° 98-1194 du 23 décembre 1998).
+
+> Nota : Conformément au B du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22°, 24° et 25° du II et le III de l'article précité entrent en vigueur le 1er janvier 2026.
+
+### Article L5421-5
+- Identifiant : LEGIARTI000054319299
+- État : en vigueur depuis le 27/06/2026
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054319299
+- Renvoie à : [art. L5421-2 du Code du travail](chapitre-ier.md#article-l5421-2)
+
+Lorsqu'elles sont soumises à une condition de résidence en France, les allocations mentionnées à l'article L. 5421-2 sont exclusivement versées sur des comptes domiciliés en France ou dans l'espace unique de paiement en euros de l'Union européenne et identifiés par un numéro national ou international de compte bancaire.

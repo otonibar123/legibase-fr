@@ -46,7 +46,7 @@ Le deuxième alinéa de l'article 815-5 n'est pas applicable en cas de licitatio
 - Identifiant : LEGIARTI000006433250
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433250
-- Cité par : [art. 1381 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383317) ; [art. L321-25 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583386) ; [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L321-25 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583386) ; [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692)
 
 A la demande d'un indivisaire, le tribunal peut surseoir au partage pour deux années au plus si sa réalisation immédiate risque de porter atteinte à la valeur des biens indivis ou si l'un des indivisaires ne peut reprendre l'entreprise agricole, commerciale, industrielle, artisanale ou libérale dépendant de la succession qu'à l'expiration de ce délai. Ce sursis peut s'appliquer à l'ensemble des biens indivis ou à certains d'entre eux seulement.  
 
@@ -92,7 +92,7 @@ S'il s'agit d'un local d'habitation, le conjoint doit avoir résidé dans les li
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432546
 - Renvoie à : [art. 822 du Code civil](chapitre-viii.md#article-822)
-- Cité par : [art. 966 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006404247)
+- Cité par : [art. 966 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-iii/chapitre-iii.md#article-966)
 
 Le maintien dans l'indivision ne peut être prescrit pour une durée supérieure à cinq ans. Il peut être renouvelé, dans le cas prévu au premier alinéa de l'article 822, jusqu'à la majorité du plus jeune des descendants et, dans le cas prévu au deuxième alinéa du même article, jusqu'au décès du conjoint survivant.
 
@@ -101,7 +101,7 @@ Le maintien dans l'indivision ne peut être prescrit pour une durée supérieure
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432555
 - Renvoie à : [art. 831 du Code civil](chapitre-viii.md#article-831)
-- Cité par : [art. 1381 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383317)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381)
 
 Si des indivisaires entendent demeurer dans l'indivision, le tribunal peut, à la demande de l'un ou de plusieurs d'entre eux, en fonction des intérêts en présence et sans préjudice de l'application des articles 831 à 832-3, attribuer sa part à celui qui a demandé le partage.  
 
@@ -122,7 +122,7 @@ Elle est augmentée des valeurs soumises à rapport ou à réduction, ainsi que 
 - Identifiant : LEGIARTI000006432575
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432575
-- Cité par : [art. 945 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006404238)
+- Cité par : [art. 945 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-945)
 
 L'égalité dans le partage est une égalité en valeur.  
 
@@ -144,7 +144,7 @@ Le partage de la masse s'opère par tête. Toutefois, il se fait par souche quan
 - Identifiant : LEGIARTI000006432594
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432594
-- Cité par : [art. 815-14 du Code civil](chapitre-vii.md#article-815-14) ; [art. 924-3 du Code civil](../titre-ii/chapitre-iii.md#article-924-3) ; [art. 1075-4 du Code civil](../titre-ii/chapitre-vii.md#article-1075-4) ; [art. 976 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006404262)
+- Cité par : [art. 815-14 du Code civil](chapitre-vii.md#article-815-14) ; [art. 924-3 du Code civil](../titre-ii/chapitre-iii.md#article-924-3) ; [art. 1075-4 du Code civil](../titre-ii/chapitre-vii.md#article-1075-4) ; [art. 976 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vii/chapitre-ier.md#article-976)
 
 Lorsque le débiteur d'une soulte a obtenu des délais de paiement et que, par suite des circonstances économiques, la valeur des biens qui lui sont échus a augmenté ou diminué de plus du quart depuis le partage, les sommes restant dues augmentent ou diminuent dans la même proportion, sauf exclusion de cette variation par les parties.
 
@@ -152,7 +152,7 @@ Lorsque le débiteur d'une soulte a obtenu des délais de paiement et que, par s
 - Identifiant : LEGIARTI000006432602
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432602
-- Cité par : [art. 832-4 du Code civil](chapitre-viii.md#article-832-4) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953)
+- Cité par : [art. 832-4 du Code civil](chapitre-viii.md#article-832-4) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379)
 
 En vue de leur répartition, les biens sont estimés à leur valeur à la date de la jouissance divise telle qu'elle est fixée par l'acte de partage, en tenant compte, s'il y a lieu, des charges les grevant.  
 
@@ -164,7 +164,7 @@ Cependant, le juge peut fixer la jouissance divise à une date plus ancienne si 
 - Identifiant : LEGIARTI000006432611
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432611
-- Cité par : [art. 978 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006404264)
+- Cité par : [art. 978 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vii/chapitre-ier.md#article-978)
 
 Dans la formation et la composition des lots, on s'efforce d'éviter de diviser les unités économiques et autres ensembles de biens dont le fractionnement entraînerait la dépréciation.
 
@@ -228,7 +228,7 @@ L'attribution préférentielle visée à l'article 831 est de droit pour toute e
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233271
 - Renvoie à : [art. 831 du Code civil](chapitre-viii.md#article-831) ; [art. 832 du Code civil](chapitre-viii.md#article-832)
-- Cité par : [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 1381 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383317) ; [art. L322-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037114241) ; [art. L323-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583448) ; [art. L143-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715927) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°2006-728 du 23 juin 2006, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284874) ; [Loi n°61-1378 du 19 décembre 1961, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283689) ; [Loi n°61-1378 du 19 décembre 1961, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283690) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694)
+- Cité par : [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L322-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037114241) ; [art. L323-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583448) ; [art. L143-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715927) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°2006-728 du 23 juin 2006, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284874) ; [Loi n°61-1378 du 19 décembre 1961, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283689) ; [Loi n°61-1378 du 19 décembre 1961, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283690) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694)
 
 Si le maintien dans l'indivision n'a pas été ordonné et à défaut d'attribution préférentielle en propriété dans les conditions prévues à l'article 831 ou à l'article 832, le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle de tout ou partie des biens et droits immobiliers à destination agricole dépendant de la succession en vue de constituer avec un ou plusieurs cohéritiers et, le cas échéant, un ou plusieurs tiers, un groupement foncier agricole.
 
@@ -331,7 +331,7 @@ De même, si un indivisaire fait l'objet d'un régime de protection, un partage 
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432700
 - Renvoie à : [art. 836 du Code civil](chapitre-viii.md#article-836)
-- Cité par : [art. 840 du Code civil](chapitre-viii.md#article-840) ; [art. 1358 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412521) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958) ; [art. 1379 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725953) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
+- Cité par : [art. 840 du Code civil](chapitre-viii.md#article-840) ; [art. 1358 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1358) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [art. 1364 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001958) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
 
 Si un indivisaire est défaillant, sans qu'il soit néanmoins dans l'un des cas prévus à l'article 836, il peut, à la diligence d'un copartageant, être mis en demeure, par acte extrajudiciaire, de se faire représenter au partage amiable.  
 
@@ -341,7 +341,7 @@ Faute pour cet indivisaire d'avoir constitué mandataire dans les trois mois de 
 - Identifiant : LEGIARTI000006432710
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432710
-- Cité par : [art. 966 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006404247) ; [Loi n°1924-06-01 du 1 juin 1924, art. 227](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041612324) ; [Loi n°1924-06-01 du 1 juin 1924, art. 228](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284249) ; [Loi n°1924-06-01 du 1 juin 1924, art. 235](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284256) ; [Loi n°1924-06-01 du 1 juin 1924, art. 245](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284266) ; [Loi n°1924-06-01 du 1 juin 1924, art. 247](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284268) ; [Loi n°1924-06-01 du 1 juin 1924, art. 255](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284276)
+- Cité par : [art. 966 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-iii/chapitre-iii.md#article-966) ; [Loi n°1924-06-01 du 1 juin 1924, art. 227](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041612324) ; [Loi n°1924-06-01 du 1 juin 1924, art. 228](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284249) ; [Loi n°1924-06-01 du 1 juin 1924, art. 235](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284256) ; [Loi n°1924-06-01 du 1 juin 1924, art. 245](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284266) ; [Loi n°1924-06-01 du 1 juin 1924, art. 247](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284268) ; [Loi n°1924-06-01 du 1 juin 1924, art. 255](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284276)
 
 Le partage amiable peut être total ou partiel. Il est partiel lorsqu'il laisse subsister l'indivision à l'égard de certains biens ou de certaines personnes.
 
@@ -727,7 +727,7 @@ A l'égard des immeubles, l'action peut être exercée tant qu'ils demeurent ent
 - Identifiant : LEGIARTI000006433076
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433076
-- Cité par : [Décret n°2009-1193 du 7 octobre 2009, art. 39](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021126179)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [Décret n°2009-1193 du 7 octobre 2009, art. 39](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021126179)
 
 Les créanciers d'un copartageant, pour éviter que le partage ne soit fait en fraude de leurs droits, peuvent s'opposer à ce qu'il y soit procédé hors de leur présence : ils ont le droit d'y intervenir à leurs frais ; mais ils ne peuvent attaquer un partage consommé, à moins toutefois qu'il n'y ait été procédé sans eux et au préjudice d'une opposition qu'ils auraient formée.
 
@@ -778,7 +778,7 @@ L'action en garantie se prescrit par deux ans à compter de l'éviction ou de la
 - Identifiant : LEGIARTI000006433142
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433142
-- Cité par : [art. 1381 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383317)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381)
 
 Le partage peut être annulé pour cause de violence ou de dol.  
 

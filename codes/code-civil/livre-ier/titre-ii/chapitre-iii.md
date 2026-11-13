@@ -57,7 +57,7 @@ Si le mariage n'a pas été célébré dans l'année, à compter de l'expiration
 - Identifiant : LEGIARTI000006421091
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421091
-- Cité par : [Décret n°2005-1669 du 27 décembre 2005, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018845793)
+- Cité par : [art. ANNEXE, art. 30-1 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-1) ; [Décret n°2005-1669 du 27 décembre 2005, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018845793)
 
 Les actes d'opposition au mariage seront signés sur l'original et sur la copie par les opposants ou par leurs fondés de procuration, spéciale et authentique ; ils seront signifiés, avec la copie de la procuration, à la personne ou au domicile des parties, et à l'officier de l'état civil, qui mettra son visa sur l'original.
 
@@ -81,6 +81,7 @@ En cas d'opposition, l'officier d'état civil ne pourra célébrer le mariage av
 - Identifiant : LEGIARTI000006421152
 - État : en vigueur depuis le 09/08/1919
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421152
+- Cité par : [art. ANNEXE, art. 30-7 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-7)
 
 Si la publication a été faite dans plusieurs communes, l'officier de l'état civil de chaque commune transmettra sans délai à celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il n'existe point d'opposition.
 
@@ -111,7 +112,7 @@ L'acte de notoriété est établi sur la foi des déclarations d'au moins trois 
 - État : en vigueur depuis le 28/02/1922
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421164
 - Renvoie à : [art. 159 du Code civil](../titre-v/chapitre-ier.md#article-159)
-- Cité par : [art. 155 du Code civil](../titre-v/chapitre-ier.md#article-155) ; [art. ANNEXE, art. 30-11 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047197361)
+- Cité par : [art. 155 du Code civil](../titre-v/chapitre-ier.md#article-155) ; [art. ANNEXE, art. 30-11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-11)
 
 L'acte authentique du consentement des père et mère ou aïeuls ou aïeules ou, à leur défaut, celui du conseil de famille, contiendra les prénoms, noms, professions et domicile des futurs époux et de tous ceux qui auront concouru à l'acte, ainsi que leur degré de parenté.  
 
@@ -157,7 +158,7 @@ Il recevra de chaque partie, l'une après l'autre, la déclaration qu'elles veul
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460944
 - Renvoie à : [art. 50 du Code civil](chapitre-ier.md#article-50) ; [art. 99-1 du Code civil](chapitre-vii.md#article-99-1)
-- Cité par : [Décret n°2025-1298 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053182732)
+- Cité par : [art. ANNEXE, art. 30-8 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-8) ; [art. ANNEXE, art. 30-13 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-13) ; [Décret n°2025-1298 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053182732)
 
 L'acte de mariage énoncera :
 

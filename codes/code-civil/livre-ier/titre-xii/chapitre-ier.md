@@ -78,7 +78,7 @@ Les comptes de gestion du patrimoine de la personne protégée sont exclusivemen
 - Identifiant : LEGIARTI000006428272
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428272
-- Cité par : [art. 1230 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105757) ; [Décret n°2008-1484 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020063702) ; [Décret n°2015-1669 du 14 décembre 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031630203)
+- Cité par : [art. 1230 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1230) ; [Décret n°2008-1484 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020063702) ; [Décret n°2015-1669 du 14 décembre 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031630203)
 
 Le conseil de famille ou, à défaut, le juge statue sur les autorisations que le tuteur sollicite pour les actes qu'il ne peut accomplir seul.  
 
@@ -92,7 +92,7 @@ Toutefois, les autorisations du conseil de famille peuvent être suppléées par
 - Identifiant : LEGIARTI000038311125
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311125
-- Cité par : [art. 472 du Code civil](../titre-xi/chapitre-ii.md#article-472) ; [art. Annexe 4-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020077558) ; [art. 1253 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030964) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
+- Cité par : [art. 472 du Code civil](../titre-xi/chapitre-ii.md#article-472) ; [art. 1253 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1253) ; [art. Annexe 4-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020077558) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
 
 Le tuteur fait procéder, en présence du subrogé tuteur s'il a été désigné, à un inventaire des biens de la personne protégée, qui est transmis au juge dans les trois mois de l'ouverture de la tutelle pour les biens meubles corporels, et dans les six mois pour les autres biens, avec le budget prévisionnel. Il en assure l'actualisation au cours de la mesure.
 
@@ -125,7 +125,7 @@ Les baux consentis par le tuteur ne confèrent au preneur, à l'encontre de la p
 - Identifiant : LEGIARTI000045277022
 - État : en vigueur depuis le 02/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045277022
-- Renvoie à : art. L321-4 du Code de commerce
+- Renvoie à : [art. L321-4 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-4)
 - Cité par : [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
 
 Le tuteur ne peut, sans y être autorisé par le conseil de famille ou, à défaut, le juge, faire des actes de disposition au nom de la personne protégée.
@@ -151,7 +151,7 @@ Le tuteur ne peut transiger ou compromettre au nom de la personne protégée qu'
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310430
 - Renvoie à : [art. 840 du Code civil](../../livre-iii/titre-ier/chapitre-viii.md#article-840) ; [art. 842 du Code civil](../../livre-iii/titre-ier/chapitre-viii.md#article-842)
-- Cité par : [art. 1239-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105763) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
+- Cité par : [art. 1239-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1239-1) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
 
 En cas d'opposition d'intérêts avec la personne chargée de la mesure de protection, le partage à l'égard d'une personne protégée peut être fait à l'amiable sur autorisation du conseil de famille ou, à défaut, du juge. Il peut n'être que partiel.
 

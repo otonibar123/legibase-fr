@@ -1,0 +1,69 @@
+# Chapitre IV : Transfert du contrat de travail.
+
+Code du travail › Partie législative › Première partie : Les relations individuelles de travail › Livre II : Le contrat de travail › Titre II : Formation et exécution du contrat de travail
+
+### Article L1224-1
+- Identifiant : LEGIARTI000006900875
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900875
+- Cité par : [art. 30-19 du Code de procédure civile](../../../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-19) ; [art. D4624-60 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-d4624-60) ; [art. L1224-4 du Code du travail](chapitre-iv.md#article-l1224-4) ; [art. L1233-61 du Code du travail](../titre-iii/chapitre-iii.md#article-l1233-61) ; [art. L2143-10 du Code du travail](../../../deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-l2143-10) ; [art. L2253-1 du Code du travail](../../../deuxieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l2253-1) ; [art. L2314-35 du Code du travail](../../../deuxieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l2314-35) ; [art. L2316-12 du Code du travail](../../../deuxieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-l2316-12) ; [art. L2414-1 du Code du travail](../../../deuxieme-partie/livre-iv/titre-ier/chapitre-iv.md#article-l2414-1) ; [art. L4623-5-3 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iii.md#article-l4623-5-3) ; [art. L6225-2 du Code du travail](../../../sixieme-partie/livre-ii/titre-ii/chapitre-v.md#article-l6225-2) ; [art. R5132-8 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-8) ; [art. R5132-10-14 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-10-14) ; [art. R5132-25 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-25) ; [art. R5132-40 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-r5132-40) ; [art. R5134-21 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-21) ; [art. R5134-30 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-30) ; [art. R5134-55 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-55) ; [art. L421-6-1 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052042903) ; [art. R130-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041455619) ; [art. L2102-22 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039786560) ; [art. L3317-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039741640) ; [art. L6322-4 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023078166) ; [art. R5134-96 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019562323) ; [art. D717-25-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047776116) ; [DÉCRET n°2014-1426 du 28 novembre 2014, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049902442) ; [DÉCRET n°2014-1631 du 26 décembre 2014, art. 16](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029970318) ; [DÉCRET n°2014-741 du 30 juin 2014, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029171618) ; … et 18 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+Lorsque survient une modification dans la situation juridique de l'employeur, notamment par succession, vente, fusion, transformation du fonds, mise en société de l'entreprise, tous les contrats de travail en cours au jour de la modification subsistent entre le nouvel employeur et le personnel de l'entreprise.
+
+### Article L1224-2
+- Identifiant : LEGIARTI000006900876
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900876
+- Cité par : [art. 30-19 du Code de procédure civile](../../../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-19) ; [art. L1224-4 du Code du travail](chapitre-iv.md#article-l1224-4) ; [art. L5213-13-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-1) ; [art. L311-22 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036102767) ; [art. L613-50 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031081882) ; [DÉCRET n°2014-741 du 30 juin 2014, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029171618) ; [Décret du 16 août 1901, art. 15-4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034773707) ; [Décret du 16 août 1901, art. 34](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039345292) ; [Ordonnance n° 2016-1408 du 20 octobre 2016, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037669307)
+
+Le nouvel employeur est tenu, à l'égard des salariés dont les contrats de travail subsistent, aux obligations qui incombaient à l'ancien employeur à la date de la modification, sauf dans les cas suivants :
+
+1° Procédure de sauvegarde, de redressement ou de liquidation judiciaire ;
+
+2° Substitution d'employeurs intervenue sans qu'il y ait eu de convention entre ceux-ci.
+
+Le premier employeur rembourse les sommes acquittées par le nouvel employeur, dues à la date de la modification, sauf s'il a été tenu compte de la charge résultant de ces obligations dans la convention intervenue entre eux.
+
+### Article L1224-3
+- Identifiant : LEGIARTI000032442327
+- État : en vigueur depuis le 22/04/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032442327
+- Cité par : [ARRÊTÉ du 11 juin 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000030781068) ; [ARRÊTÉ du 17 juillet 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029291544) ; [Arrêté du 11 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020006789) ; [Arrêté du 12 février 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020285961) ; [Arrêté du 13 novembre 2012](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000026664546) ; [Arrêté du 13 novembre 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037620533) ; [Arrêté du 13 octobre 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000021192691) ; [Arrêté du 14 novembre 2013](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028222663) ; [Arrêté du 15 juillet 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043840592) ; [Arrêté du 16 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054543697) ; … et 47 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+Lorsque l'activité d'une entité économique employant des salariés de droit privé est, par transfert de cette entité, reprise par une personne publique dans le cadre d'un service public administratif, il appartient à cette personne publique de proposer à ces salariés un contrat de droit public, à durée déterminée ou indéterminée selon la nature du contrat dont ils sont titulaires.
+
+Sauf disposition légale ou conditions générales de rémunération et d'emploi des agents non titulaires de la personne publique contraires, le contrat qu'elle propose reprend les clauses substantielles du contrat dont les salariés sont titulaires, en particulier celles qui concernent la rémunération.
+
+Les services accomplis au sein de l'entité économique d'origine sont assimilés à des services accomplis au sein de la personne publique d'accueil.
+
+En cas de refus des salariés d'accepter le contrat proposé, leur contrat prend fin de plein droit. La personne publique applique les dispositions relatives aux agents licenciés prévues par le droit du travail et par leur contrat.
+
+### Article L1224-3-1
+- Identifiant : LEGIARTI000020959339
+- État : en vigueur depuis le 07/08/2009
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020959339
+- Cité par : [Décret n°86-83 du 17 janvier 1986, art. 51](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045662506) ; [Décret n°88-145 du 15 février 1988, art. 43](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046185796) ; [Décret n°91-155 du 6 février 1991, art. 47](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045808636) ; [LOI n° 2009-972 du 3 août 2009, art. 42](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038922596) ; [LOI n° 2011-525 du 17 mai 2011, art. 111](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032442315)
+
+Sous réserve de l'application de dispositions législatives ou réglementaires spéciales, lorsque l'activité d'une personne morale de droit public employant des agents non titulaires de droit public est reprise par une personne morale de droit privé ou par un organisme de droit public gérant un service public industriel et commercial, cette personne morale ou cet organisme propose à ces agents un contrat régi par le présent code.  
+
+Le contrat proposé reprend les clauses substantielles du contrat dont les agents sont titulaires, en particulier celles qui concernent la rémunération.  
+
+En cas de refus des agents d'accepter le contrat proposé, leur contrat prend fin de plein droit. La personne morale ou l'organisme qui reprend l'activité applique les dispositions de droit public relatives aux agents licenciés.
+
+### Article L1224-3-2
+- Identifiant : LEGIARTI000035644107
+- État : en vigueur depuis le 24/09/2017
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644107
+- Cité par : [LOI n° 2017-1340 du 15 septembre 2017, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035569349)
+
+Lorsqu'un accord de branche étendu prévoit et organise la poursuite des contrats de travail en cas de succession d'entreprises dans l'exécution d'un marché, les salariés du nouveau prestataire ne peuvent invoquer utilement les différences de rémunération résultant d'avantages obtenus, avant le changement de prestataire, par les salariés dont les contrats de travail ont été poursuivis.
+
+> Nota : Conformément à l'article 40-IX de l'ordonnance n° 2017-1387 du 22 septembre 2017, ces dispositions sont applicables aux contrats de travail à compter de la publication de ladite ordonnance, quelle que soit la date à laquelle ces contrats ont été poursuivis entre les entreprises concernées.
+
+### Article L1224-4
+- Identifiant : LEGIARTI000006900878
+- État : en vigueur depuis le 01/05/2008
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900878
+- Renvoie à : [art. L1224-1 du Code du travail](chapitre-iv.md#article-l1224-1) ; [art. L1224-2 du Code du travail](chapitre-iv.md#article-l1224-2)
+
+Un décret en Conseil d'Etat détermine les modalités d'application des articles L. 1224-1 et L. 1224-2.

@@ -133,7 +133,7 @@ Si l'application des règles d'évaluation prévues par les articles 1571 et 157
 - État : en vigueur depuis le 01/02/1966
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441238
 - Renvoie à : [art. 1536 du Code civil](chapitre-iii.md#article-1536)
-- Cité par : [art. 1291 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412391)
+- Cité par : [art. 1291 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ier.md#article-1291)
 
 Si le désordre des affaires d'un époux, sa mauvaise administration ou son inconduite, donnent lieu de craindre que la continuation du régime matrimonial ne compromette les intérêts de l'autre conjoint, celui-ci peut demander la liquidation anticipée de sa créance de participation.  
 

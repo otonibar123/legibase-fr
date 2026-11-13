@@ -7,7 +7,7 @@ Code civil › Livre Ier : Des personnes › Titre VI : Du divorce
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460854
 - Renvoie à : [art. 229-2 du Code civil](chapitre-ier.md#article-229-2)
-- Cité par : [art. 1077 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747846) ; [Décret n°2023-935 du 10 octobre 2023, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048187519)
+- Cité par : [art. 1077 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1077) ; [Décret n°2023-935 du 10 octobre 2023, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048187519)
 
 Les époux peuvent consentir mutuellement à leur divorce par acte sous signature privée contresigné par avocats, déposé au rang des minutes d'un notaire.
 
@@ -32,7 +32,7 @@ Le divorce peut être prononcé en cas :
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460871
 - Renvoie à : [art. 229-3 du Code civil](chapitre-ier.md#article-229-3) ; [art. 229-4 du Code civil](chapitre-ier.md#article-229-4) ; [art. 1374 du Code civil](../../livre-iii/titre-iv-bis/chapitre-iii.md#article-1374)
-- Cité par : [art. 298 du Code civil](chapitre-iv.md#article-298) ; [art. 342-10 du Code civil](../titre-vii/chapitre-v.md#article-342-10) ; [art. 373-2-2 du Code civil](../titre-ix/chapitre-ier.md#article-373-2-2) ; [art. 1175 du Code civil](../../livre-iii/titre-iii/sous-titre-ier/chapitre-ii.md#article-1175) ; [Arrêté du 20 janvier 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033924164) ; [Arrêté du 26 avril 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043461922) ; [art. A444-173-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684669) ; [art. R351-12 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747867) ; [art. R822-11 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041419384) ; [art. D523-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037251339) ; [art. L523-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044629511) ; [art. L759-23 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054474815) ; [art. 509-3 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047053259) ; [art. 1148 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747800) ; … et 36 autres textes (liste complète dans [renvois.md](../../renvois.md))
+- Cité par : [art. 298 du Code civil](chapitre-iv.md#article-298) ; [art. 342-10 du Code civil](../titre-vii/chapitre-v.md#article-342-10) ; [art. 373-2-2 du Code civil](../titre-ix/chapitre-ier.md#article-373-2-2) ; [art. 1175 du Code civil](../../livre-iii/titre-iii/sous-titre-ier/chapitre-ii.md#article-1175) ; [art. A444-173-1 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-173-1) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 509-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-ier/titre-xv/chapitre-ii.md#article-509-3) ; [art. 1148 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v-bis.md#article-1148) ; [art. 1148-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v-bis.md#article-1148-1) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578) ; [art. R5423-4 du Code du travail](../../../code-du-travail/partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-r5423-4) ; [Arrêté du 20 janvier 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033924164) ; [Arrêté du 26 avril 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043461922) ; [art. R351-12 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747867) ; [art. R822-11 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041419384) ; [art. D523-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037251339) ; [art. L523-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044629511) ; [art. L759-23 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054474815) ; [art. L111-3 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053936502) ; [art. L213-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044629357) ; [art. 156 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373682) ; … et 30 autres textes (liste complète dans [renvois.md](../../renvois.md))
 
 Lorsque les époux s'entendent sur la rupture du mariage et ses effets, ils constatent, assistés chacun par un avocat, leur accord dans une convention prenant la forme d'un acte sous signature privée contresigné par leurs avocats et établi dans les conditions prévues à l'article 1374.
 
@@ -45,7 +45,7 @@ Ce dépôt donne ses effets à la convention en lui conférant date certaine et 
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460869
 - Renvoie à : [art. 388-1 du Code civil](../titre-x/chapitre-ier.md#article-388-1)
-- Cité par : [art. 229 du Code civil](chapitre-ier.md#article-229) ; [art. 230 du Code civil](chapitre-ier.md#article-230) ; [art. 247 du Code civil](chapitre-ier.md#article-247) ; [art. 262-1 du Code civil](chapitre-iii.md#article-262-1) ; [art. 1144 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034723927) ; [art. 1144-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747833)
+- Cité par : [art. 229 du Code civil](chapitre-ier.md#article-229) ; [art. 230 du Code civil](chapitre-ier.md#article-230) ; [art. 247 du Code civil](chapitre-ier.md#article-247) ; [art. 262-1 du Code civil](chapitre-iii.md#article-262-1) ; [art. 1144 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v-bis.md#article-1144) ; [art. 1144-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v-bis.md#article-1144-2)
 
 Les époux ne peuvent consentir mutuellement à leur divorce par acte sous signature privée contresigné par avocats lorsque :
 
@@ -93,6 +93,7 @@ La convention a force exécutoire au jour où elle acquiert date certaine.
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460860
 - Renvoie à : [art. 229-2 du Code civil](chapitre-ier.md#article-229-2)
+- Cité par : [art. 1132 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1132)
 
 Dans le cas prévu au 1° de l'article 229-2, le divorce peut être demandé conjointement par les époux lorsqu'ils s'entendent sur la rupture du mariage et ses effets en soumettant à l'approbation du juge une convention réglant les conséquences du divorce.
 
@@ -114,7 +115,7 @@ Il peut refuser l'homologation et ne pas prononcer le divorce s'il constate que 
 - Identifiant : LEGIARTI000038310962
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310962
-- Cité par : [art. Annexe Tableau IV-III du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054718931) ; [art. Tableau IV bis du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031793613) ; [art. 1123 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039644618)
+- Cité par : [art. 1123 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1123) ; [art. 1123-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1123-1) ; [art. Annexe Tableau IV-III du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054718931) ; [art. Tableau IV bis du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031793613)
 
 Le divorce peut être demandé conjointement par les époux lorsqu'ils acceptent le principe de la rupture du mariage sans considération des faits à l'origine de celle-ci.  
 
@@ -148,7 +149,7 @@ Le divorce peut être demandé par l'un des époux lorsque le lien conjugal est 
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310956
 - Renvoie à : [art. 246 du Code civil](chapitre-ier.md#article-246)
-- Cité par : [art. 1126 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039644624) ; [art. 1126-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039640424) ; [Loi n° 2004-439 du 26 mai 2004, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030254067) ; [Loi n°1928-03-30 du 30 mars 1928, art. 2 septies](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006879007) ; [Loi n°1930-08-24 du 24 août 1930, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006451154)
+- Cité par : [art. 1126 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1126) ; [art. 1126-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1126-1) ; [Loi n° 2004-439 du 26 mai 2004, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030254067) ; [Loi n°1928-03-30 du 30 mars 1928, art. 2 septies](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006879007) ; [Loi n°1930-08-24 du 24 août 1930, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006451154)
 
 L'altération définitive du lien conjugal résulte de la cessation de la communauté de vie entre les époux, lorsqu'ils vivent séparés depuis un an lors de la demande en divorce.
 
@@ -164,7 +165,7 @@ Toutefois, sans préjudice des dispositions de l'article 246, dès lors qu'une d
 - Identifiant : LEGIARTI000006423124
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423124
-- Cité par : [art. Annexe Tableau IV-III du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054718931) ; [art. Tableau IV bis du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031793613)
+- Cité par : [art. 1107 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1107) ; [art. Annexe Tableau IV-III du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054718931) ; [art. Tableau IV bis du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031793613)
 
 Le divorce peut être demandé par l'un des époux lorsque des faits constitutifs d'une violation grave ou renouvelée des devoirs et obligations du mariage sont imputables à son conjoint et rendent intolérable le maintien de la vie commune.
 
@@ -179,7 +180,7 @@ La réconciliation des époux intervenue depuis les faits allégués empêche de
 - Identifiant : LEGIARTI000006423146
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423146
-- Cité par : [art. 1136-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021504233)
+- Cité par : [art. 1136-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1136-2)
 
 Les fautes de l'époux qui a pris l'initiative du divorce n'empêchent pas d'examiner sa demande ; elles peuvent, cependant, enlever aux faits qu'il reproche à son conjoint le caractère de gravité qui en aurait fait une cause de divorce.  
 
@@ -211,7 +212,7 @@ Si une demande pour altération définitive du lien conjugal et une demande pour
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460851
 - Renvoie à : [art. 229-2 du Code civil](chapitre-ier.md#article-229-2)
-- Cité par : [art. 1077 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747846) ; [Loi n° 2004-439 du 26 mai 2004, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030254067)
+- Cité par : [art. 1077 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1077) ; [Loi n° 2004-439 du 26 mai 2004, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030254067)
 
 Les époux peuvent, à tout moment de la procédure :
 
@@ -223,7 +224,7 @@ Les époux peuvent, à tout moment de la procédure :
 - Identifiant : LEGIARTI000006423214
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423214
-- Cité par : [art. 1123 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039644618)
+- Cité par : [art. 1123 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-v.md#article-1123)
 
 Les époux peuvent également, à tout moment de la procédure, lorsque le divorce aura été demandé pour altération définitive du lien conjugal ou pour faute, demander au juge de constater leur accord pour voir prononcer le divorce pour acceptation du principe de la rupture du mariage.
 

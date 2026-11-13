@@ -23,7 +23,7 @@ L'adoption produit ses effets à compter du jour du dépôt de la requête en ad
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375812
 - Renvoie à : [art. 161 du Code civil](../titre-v/chapitre-ier.md#article-161) ; [art. 164 du Code civil](../titre-v/chapitre-ier.md#article-164)
-- Cité par : [art. 1174 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046805735) ; [Loi n°1928-03-30 du 30 mars 1928, art. 2 septies](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006879007) ; [Loi n°1930-08-24 du 24 août 1930, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006451154) ; [Loi n°66-500 du 11 juillet 1966, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283835)
+- Cité par : [art. 1174 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-viii.md#article-1174) ; [Loi n°1928-03-30 du 30 mars 1928, art. 2 septies](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006879007) ; [Loi n°1930-08-24 du 24 août 1930, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006451154) ; [Loi n°66-500 du 11 juillet 1966, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283835)
 
 L'adoption plénière confère à l'enfant une filiation qui se substitue à sa filiation d'origine : l'adopté cesse d'appartenir à sa famille d'origine, sous réserve des prohibitions au mariage visées aux articles 161 à 164.
 
@@ -170,7 +170,7 @@ L'adopté doit des aliments à l'adoptant s'il est dans le besoin et, réciproqu
 - Identifiant : LEGIARTI000046376807
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046376807
-- Cité par : [art. 1180-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046805729)
+- Cité par : [art. 1180-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-ix.md#article-1180-1)
 
 L'adopté et ses descendants ont, dans la famille de l'adoptant, les droits successoraux prévus au chapitre III du titre Ier du livre III.
 

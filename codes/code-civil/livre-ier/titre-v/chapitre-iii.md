@@ -69,6 +69,7 @@ L'un ou l'autre des futurs époux, même mineur, peut contester la décision de 
 - État : en vigueur depuis le 01/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422394
 - Renvoie à : [art. 171-4 du Code civil](chapitre-ii-bis.md#article-171-4) ; [art. 173 du Code civil](chapitre-iii.md#article-173)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7)
 
 Tout acte d'opposition énonce la qualité qui donne à l'opposant le droit de la former. Il contient également les motifs de l'opposition, reproduit le texte de loi sur lequel est fondée l'opposition et contient élection de domicile dans le lieu où le mariage doit être célébré. Toutefois, lorsque l'opposition est faite en application de l'article 171-4, le ministère public fait élection de domicile au siège de son tribunal.  
 

@@ -273,7 +273,7 @@ L'entrepreneur répond du fait des personnes qu'il emploie.
 - Identifiant : LEGIARTI000006443622
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443622
-- Cité par : [art. L3253-23 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073381) ; [Loi n°52-1322 du 15 décembre 1952, art. 103](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006656505)
+- Cité par : [art. L3253-23 du Code du travail](../../../code-du-travail/partie-legislative/troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-23) ; [Loi n°52-1322 du 15 décembre 1952, art. 103](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006656505)
 
 Les maçons, charpentiers et autres ouvriers qui ont été employés à la construction d'un bâtiment ou d'autres ouvrages faits à l'entreprise, n'ont d'action contre celui pour lequel les ouvrages ont été faits, que jusqu'à concurrence de ce dont il se trouve débiteur envers l'entrepreneur, au moment où leur action est intentée.
 

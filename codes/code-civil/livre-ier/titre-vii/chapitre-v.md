@@ -17,7 +17,7 @@ Aucune action en responsabilité ne peut être exercée à l'encontre du donneur
 - État : en vigueur depuis le 04/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043889175
 - Renvoie à : [art. 229-1 du Code civil](../titre-vi/chapitre-ier.md#article-229-1)
-- Cité par : [art. 342-11 du Code civil](chapitre-v.md#article-342-11) ; [art. 342-13 du Code civil](chapitre-v.md#article-342-13) ; [art. 1157-2 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045282103) ; [art. 1578 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045282078) ; [art. 847 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046868420)
+- Cité par : [art. 342-11 du Code civil](chapitre-v.md#article-342-11) ; [art. 342-13 du Code civil](chapitre-v.md#article-342-13) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 1157-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-vi.md#article-1157-2) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578) ; [art. 847 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046868420)
 
 Les couples ou la femme non mariée qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers donneur doivent donner préalablement leur consentement à un notaire, qui les informe des conséquences de leur acte au regard de la filiation ainsi que des conditions dans lesquelles l'enfant pourra, s'il le souhaite, accéder à sa majorité aux données non identifiantes et à l'identité de ce tiers donneur.  
 
@@ -30,7 +30,7 @@ Le consentement est privé d'effet en cas de décès, d'introduction d'une deman
 - État : en vigueur depuis le 04/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043889177
 - Renvoie à : [art. 311-25 du Code civil](chapitre-ii.md#article-311-25) ; [art. 342-10 du Code civil](chapitre-v.md#article-342-10)
-- Cité par : [art. A444-84-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044949347)
+- Cité par : [art. A444-84-1 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-84-1) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 1157-3 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-vi.md#article-1157-3)
 
 Lors du recueil du consentement prévu à l'article 342-10, le couple de femmes reconnaît conjointement l'enfant.  
 

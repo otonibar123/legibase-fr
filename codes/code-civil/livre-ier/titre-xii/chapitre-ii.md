@@ -6,7 +6,7 @@ Code civil › Livre Ier : Des personnes › Titre XII : De la gestion du patrim
 - Identifiant : LEGIARTI000006428367
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428367
-- Cité par : [art. 437 du Code civil](../titre-xi/chapitre-ii.md#article-437) ; [art. 472 du Code civil](../titre-xi/chapitre-ii.md#article-472) ; [art. 511 du Code civil](chapitre-ii.md#article-511) ; [art. 513 du Code civil](chapitre-ii.md#article-513) ; [art. 513-1 du Code civil](chapitre-ii.md#article-513-1) ; [art. 1223-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105749) ; [Décret n°2012-663 du 4 mai 2012, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025829467) ; [Décret n°2024-659 du 2 juillet 2024, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049863477)
+- Cité par : [art. 437 du Code civil](../titre-xi/chapitre-ii.md#article-437) ; [art. 472 du Code civil](../titre-xi/chapitre-ii.md#article-472) ; [art. 511 du Code civil](chapitre-ii.md#article-511) ; [art. 513 du Code civil](chapitre-ii.md#article-513) ; [art. 513-1 du Code civil](chapitre-ii.md#article-513-1) ; [art. 1223-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1223-1) ; [art. 1254 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1254) ; [Décret n°2012-663 du 4 mai 2012, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025829467) ; [Décret n°2024-659 du 2 juillet 2024, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049863477)
 
 Le tuteur établit chaque année un compte de sa gestion auquel sont annexées toutes les pièces justificatives utiles.  
 
@@ -21,7 +21,7 @@ En outre, le juge peut, après avoir entendu la personne protégée et recueilli
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039368664
 - Renvoie à : [art. 457 du Code civil](../titre-xi/chapitre-ii.md#article-457) ; [art. 510 du Code civil](chapitre-ii.md#article-510)
-- Cité par : [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. 1254-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049865538) ; [Décret n°2011-1470 du 8 novembre 2011](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000024773814) ; [Ordonnance n°2012-1222 du 2 novembre 2012, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039119951)
+- Cité par : [art. 1254-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1254-1) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [Décret n°2011-1470 du 8 novembre 2011](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000024773814) ; [Ordonnance n°2012-1222 du 2 novembre 2012, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039119951)
 
 Pour les mineurs sous tutelle, le tuteur soumet au directeur des services de greffe judiciaires du tribunal judiciaire un compte de gestion annuel, accompagné des pièces justificatives, en vue de sa vérification.  
 
@@ -40,7 +40,7 @@ Si les ressources du mineur le permettent et si l'importance et la composition d
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311133
 - Renvoie à : [art. 447 du Code civil](../titre-xi/chapitre-ii.md#article-447)
-- Cité par : [art. 486 du Code civil](../titre-xi/chapitre-ii.md#article-486) ; [art. 1257-1 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049864597) ; [art. 1257-5 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049864607) ; [Décret n°2024-659 du 2 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049863458) ; [Décret n°2024-659 du 2 juillet 2024, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049863477)
+- Cité par : [art. 486 du Code civil](../titre-xi/chapitre-ii.md#article-486) ; [art. 1257-1 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1257-1) ; [art. 1257-5 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1257-5) ; [Décret n°2024-659 du 2 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049863458) ; [Décret n°2024-659 du 2 juillet 2024, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049863477)
 
 Pour les majeurs protégés, les comptes de gestion sont vérifiés et approuvés annuellement par le subrogé tuteur lorsqu'il en a été nommé un ou par le conseil de famille lorsqu'il est fait application de l'article 457. Lorsque plusieurs personnes ont été désignées dans les conditions de l'article 447 pour la gestion patrimoniale, les comptes annuels de gestion doivent être signés par chacune d'elles, ce qui vaut approbation. En cas de difficulté, le juge statue sur la conformité des comptes à la requête de l'une des personnes chargées de la mesure de protection.  
 
@@ -55,7 +55,7 @@ En l'absence de désignation d'un subrogé tuteur, d'un co-tuteur, d'un tuteur a
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311111
 - Renvoie à : [art. 510 du Code civil](chapitre-ii.md#article-510)
-- Cité par : [art. 514 du Code civil](chapitre-ii.md#article-514)
+- Cité par : [art. 514 du Code civil](chapitre-ii.md#article-514) ; [art. 1254 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1254)
 
 Par dérogation aux articles 510 à 512, le juge peut décider de dispenser le tuteur de soumettre le compte de gestion à approbation en considération de la modicité des revenus ou du patrimoine de la personne protégée.  
 
@@ -83,7 +83,7 @@ En cas de refus d'approbation des comptes, le juge est saisi par un rapport de d
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311099
 - Renvoie à : [art. 513 du Code civil](chapitre-ii.md#article-513)
-- Cité par : [art. 413-5 du Code civil](../titre-x/chapitre-iii.md#article-413-5)
+- Cité par : [art. 413-5 du Code civil](../titre-x/chapitre-iii.md#article-413-5) ; [art. 1254 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1254)
 
 Lorsque sa mission prend fin pour quelque cause que ce soit, le tuteur établit un compte de gestion des opérations intervenues depuis l'établissement du dernier compte et le soumet à la vérification et à l'approbation prévues aux articles 511 à 513-1.
 
