@@ -118,6 +118,13 @@ Le dossier `scripts/` sert au mainteneur ; l'utilisateur n'en a pas besoin.
 - **Code civil : terminé** (généré le 11/11/2026, base LEGI du 08/11/2026) : 2 896 articles en vigueur,
   191 fichiers de chapitre, 4,4 Mo publiables. Texte vérifié identique aux XML (0 écart), 0 lien relatif cassé.
 - `SKILL.md`, `README.md`, `INDEX.md`, `VERSION.md`, `liens/` et `scripts/` existent déjà.
+- **Dépôt GitHub** : `otonibar123/legibase-fr` (public depuis le 13/11/2026, branche `main`, premier commit `dbdf26f` le 12/11/2026).
+  Le jeton `GITHUB_TOKEN` de l'ordinateur ne donne accès qu'à ce compte. L'utilisateur a évoqué un autre compte
+  (« ootnibar123 », peut-être une faute de frappe) : il fera lui-même `! gh auth login` plus tard, puis le dépôt
+  sera recréé dessus si besoin.
+- **iCloud** : le dossier est dans `~/Documents`, synchronisé par iCloud, qui a créé un dossier vide
+  `codes/code-civil 3` après une régénération (supprimé). Recommandation en attente : déplacer le projet
+  dans `~/Projects/` (puis mettre à jour le `CLAUDE.md` parent).
 - **Prochain code proposé : code de procédure civile.** Ne pas le commencer sans l'accord explicite de l'utilisateur.
 - **Points ouverts** :
   - vérifier à la main qu'un lien Légifrance « Cité par » vers un texte non codifié
