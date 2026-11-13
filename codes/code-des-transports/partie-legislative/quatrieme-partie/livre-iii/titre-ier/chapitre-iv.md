@@ -1,0 +1,11 @@
+# Chapitre IV : Domaine confié à Voies navigables de France
+
+Code des transports › PARTIE LÉGISLATIVE › QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL › LIVRE III : VOIES NAVIGABLES DE FRANCE ET PORTS FLUVIAUX › TITRE IER : VOIES NAVIGABLES DE FRANCE
+
+### Article L4314-1
+- Identifiant : LEGIARTI000023083060
+- État : en vigueur depuis le 01/12/2010
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023083060
+- Cité par : [art. L774-2 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-legislative/livre-vii/titre-vii/chapitre-iv.md#article-l774-2) ; [art. A4241-35-1 du Code des transports](../../../../partie-reglementaire-arretes/quatrieme-partie/livre-ii/titre-iv/chapitre-ier.md#article-a4241-35-1) ; [art. D4314-1 du Code des transports](../../../../partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-d4314-1) ; [art. L4311-1 du Code des transports](chapitre-ier.md#article-l4311-1) ; [art. L4311-2 du Code des transports](chapitre-ier.md#article-l4311-2) ; [art. L4315-2 du Code des transports](chapitre-v.md#article-l4315-2) ; [art. R4311-1 du Code des transports](../../../../partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-r4311-1) ; [art. L2124-7-1 du Code général de la propriété des personnes publiques](../../../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-l2124-7-1) ; [art. R2124-57-2 du Code général de la propriété des personnes publiques](../../../../../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-r2124-57-2) ; [Arrêté du 15 octobre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052844460) ; [Arrêté du 24 mars 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053724204) ; [Arrêté du 5 mai 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051645103) ; [Décret n°2012-1556 du 28 décembre 2012, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026909518)
+
+La consistance du domaine confié à Voies navigables de France est définie par voie réglementaire.

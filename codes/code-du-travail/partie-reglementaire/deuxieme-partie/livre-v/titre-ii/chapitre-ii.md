@@ -67,7 +67,7 @@ Lorsque les conditions locales le justifient, le ministre chargé du travail peu
 - Identifiant : LEGIARTI000022356316
 - État : en vigueur depuis le 15/02/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022356316
-- Cité par : [art. R718-11 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504244)
+- Cité par : [art. R718-11 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504244)
 
 Lorsque des sections à compétence départementale ou interdépartementale existent, la section régionale de la commission régionale reste compétente pour connaître des conflits collectifs survenant dans sa circonscription.  
 Les sections départementales ou interdépartementales sont compétentes pour les conflits survenant à l'intérieur de leur ressort.  
@@ -105,7 +105,7 @@ La Commission nationale de conciliation comprend :
 - Identifiant : LEGIARTI000018534872
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534872
-- Cité par : [art. R2522-11 du Code du travail](chapitre-ii.md#article-r2522-11) ; [art. R718-12 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504238)
+- Cité par : [art. R2522-11 du Code du travail](chapitre-ii.md#article-r2522-11) ; [art. R718-12 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504238)
 
 La commission régionale de conciliation comprend une section régionale et, éventuellement, des sections à compétence départementale ou interdépartementale.  
 Les sections régionale et interdépartementale comprennent :  
@@ -146,7 +146,7 @@ Les membres des commissions de conciliation sont nommés pour trois ans.
 - Identifiant : LEGIARTI000018534864
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534864
-- Cité par : [art. R718-12 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504238)
+- Cité par : [art. R718-12 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504238)
 
 Les membres de la commission nationale sont nommés par arrêté du ministre chargé du travail.  
 Les membres des sections régionales et ceux des sections à compétence interdépartementale sont nommés par arrêté du préfet de région.  
@@ -156,7 +156,7 @@ Les membres des sections à compétence départementale sont nommés par arrêt�
 - Identifiant : LEGIARTI000018534862
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534862
-- Cité par : [art. R718-13 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504232)
+- Cité par : [art. R718-13 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504232)
 
 Les représentants des employeurs et des salariés au sein des commissions et sections sont nommés sur proposition des organisations syndicales d'employeurs et de salariés représentatives sur le plan national.  
 Ces organisations soumettent à l'autorité investie du pouvoir de nomination des listes comportant des noms en nombre double de celui des postes à pourvoir.  
@@ -174,7 +174,7 @@ Les représentants titulaires et suppléants des employeurs et des salariés au 
 - Identifiant : LEGIARTI000018534858
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534858
-- Cité par : [art. R718-13 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504232)
+- Cité par : [art. R718-13 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504232)
 
 Les membres des commissions ne doivent avoir fait l'objet d'aucune interdiction, déchéance ou incapacité relative à leurs droits civiques.
 
@@ -184,7 +184,7 @@ Les membres des commissions ne doivent avoir fait l'objet d'aucune interdiction,
 - Identifiant : LEGIARTI000018534854
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534854
-- Cité par : [art. R718-13 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504232)
+- Cité par : [art. R718-13 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504232)
 
 En cas de recours par les parties à la procédure de conciliation, la partie la plus diligente adresse au président de la commission une requête exposant les points sur lesquels porte le désaccord.  
 Lorsque le ministre chargé du travail ou le préfet saisit la commission nationale ou régionale de conciliation, la convocation adressée aux membres de la commission mentionne les points sur lesquels porte le désaccord.  

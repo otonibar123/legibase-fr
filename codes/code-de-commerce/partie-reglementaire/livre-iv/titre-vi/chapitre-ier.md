@@ -19,6 +19,7 @@ Le président de l'Autorité de la concurrence est suppléé, en cas d'absence o
 - Identifiant : LEGIARTI000020241496
 - État : en vigueur depuis le 15/11/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020241496
+- Renvoie à : [art. R1617-1 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-vii.md#article-r1617-1)
 
 A l'exception des dépenses relatives aux services d'instruction dont l'ordonnancement est délégué au rapporteur général, le président de l'Autorité de la concurrence peut déléguer sa signature à tout agent d'encadrement pour engager les dépenses et signer les marchés et les contrats. Il peut également déléguer le soin de représenter l'Autorité devant toute juridiction.
 

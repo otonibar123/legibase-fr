@@ -16,7 +16,7 @@ Le fait de conclure un contrat de mission ne comportant pas les mentions prévue
 - Identifiant : LEGIARTI000031814235
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031814235
-- Renvoie à : [art. L1251-24 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-24) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L1251-24 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-24) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait, pour la personne responsable de la gestion des installations ou des moyens de transports collectifs dans l'entreprise utilisatrice, d'empêcher un salarié temporaire d'avoir accès, dans les mêmes conditions que les salariés de cette entreprise, à ces équipements collectifs, en méconnaissance des dispositions de l'article L. 1251-24, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
@@ -74,7 +74,7 @@ Le fait de ne pas informer de la cessation de la garantie les directions région
 - Identifiant : LEGIARTI000031814189
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031814189
-- Renvoie à : [art. L1253-14 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-iii.md#article-l1253-14) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L1253-14 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-iii.md#article-l1253-14) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait, pour la personne responsable de la gestion des installations ou des moyens de transports collectifs dans l'entreprise utilisatrice, d'empêcher un salarié temporaire d'avoir accès, dans les mêmes conditions que les salariés de cette entreprise, à ces équipements collectifs, en méconnaissance des dispositions de l'article L. 1253-14, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 

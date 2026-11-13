@@ -146,7 +146,7 @@ Lorsqu'il existe un partage égal des voix au troisième tour, le conseiller le 
 - Identifiant : LEGIARTI000033231488
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033231488
-- Renvoie à : [art. L1423-3 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-l1423-3) ; [art. R1423-8 du Code du travail](chapitre-iii.md#article-r1423-8) ; [art. R111-2 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018919070)
+- Renvoie à : [art. R111-2 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md#article-r111-2) ; [art. L1423-3 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-l1423-3) ; [art. R1423-8 du Code du travail](chapitre-iii.md#article-r1423-8)
 - Cité par : [art. D1442-14 du Code du travail](../titre-iv/chapitre-ii.md#article-d1442-14) ; [art. R1423-16 du Code du travail](chapitre-iii.md#article-r1423-16) ; [art. R1423-17 du Code du travail](chapitre-iii.md#article-r1423-17) ; [art. R1423-19 du Code du travail](chapitre-iii.md#article-r1423-19) ; [art. R1454-9 du Code du travail](../titre-v/chapitre-iv.md#article-r1454-9) ; [art. R1454-24 du Code du travail](../titre-v/chapitre-iv.md#article-r1454-24)
 
 La réunion des conseillers prud'hommes en assemblée générale, en assemblée de section et, le cas échéant, en assemblée de chambre, a lieu chaque année pendant le mois de janvier dans l'ordre suivant :
@@ -171,7 +171,7 @@ En cas de création de chambre, l'assemblée de chambre procède à l'élection 
 - Identifiant : LEGIARTI000033232138
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033232138
-- Renvoie à : [art. D1442-18 du Code du travail](../titre-iv/chapitre-ii.md#article-d1442-18) ; [art. L1442-12 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-12) ; [art. L1442-14 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-14) ; [art. L1442-15 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-15) ; [art. R1423-23 du Code du travail](chapitre-iii.md#article-r1423-23)
+- Renvoie à : [art. D1442-18 du Code du travail](../titre-iv/chapitre-ii.md#article-d1442-18) ; [art. L1442-12 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-12) ; [art. L1442-14 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-14) ; [art. L1442-15 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-15) ; [art. R1423-23 du Code du travail](chapitre-iii.md#article-r1423-23) ; [art. L6 du Code électoral](../../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l6)
 - Cité par : [art. R1423-16 du Code du travail](chapitre-iii.md#article-r1423-16) ; [art. R1423-17 du Code du travail](chapitre-iii.md#article-r1423-17) ; [art. R1423-18 du Code du travail](chapitre-iii.md#article-r1423-18)
 
 Le conseil de prud'hommes se réunit en assemblée générale dans les conditions prévues à l'article R. 1423-23 pour élire un nouveau président ou un nouveau vice-président lorsque la vacance d'une de ces fonctions survient pour l'une des causes suivantes :
@@ -370,7 +370,7 @@ Le président du conseil de prud'hommes assure l'administration et la discipline
 - Identifiant : LEGIARTI000053223979
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053223979
-- Renvoie à : [art. L1454-2 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-v/chapitre-iv.md#article-l1454-2) ; art. R212-45 du Code de l'organisation judiciaire
+- Renvoie à : [art. R212-45 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-45) ; [art. L1454-2 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-v/chapitre-iv.md#article-l1454-2)
 
 Un comité dédié aux questions de gestion et de fonctionnement communes au conseil de prud'hommes et au tribunal judiciaire du ressort dont le conseil relève se réunit entre une et trois fois par an selon les dates arrêtées conjointement par ses membres.
 
@@ -451,6 +451,7 @@ b) La formation du bureau de conciliation et d'orientation qui s'est mise en par
 - Identifiant : LEGIARTI000053223977
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053223977
+- Renvoie à : [art. L123-1 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-1)
 
 La direction du service de greffe du conseil de prud'hommes est assurée par le directeur du greffe du tribunal judiciaire qui exerce, sauf disposition contraire, les attributions confiées au directeur de greffe du conseil de prud'hommes prévues par les dispositions du présent code.
 
@@ -462,6 +463,7 @@ Le premier président de la cour d'appel fixe, après avis du président du cons
 - Identifiant : LEGIARTI000053223975
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053223975
+- Renvoie à : [art. L123-1 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-1)
 - Cité par : [art. R1423-43 du Code du travail](chapitre-iii.md#article-r1423-43) ; [art. R1423-45 du Code du travail](chapitre-iii.md#article-r1423-45)
 
 Sous le contrôle du président du tribunal judiciaire, le directeur de greffe dirige les services administratifs de la juridiction et assume la responsabilité de leur fonctionnement. Le directeur de greffe est un directeur des services de greffe judiciaires.
@@ -474,6 +476,7 @@ Dans l'exercice de ses attributions, le directeur de greffe consulte le préside
 - Identifiant : LEGIARTI000053223972
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053223972
+- Renvoie à : [art. L123-1 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-1) ; [art. R123-6 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-6) ; [art. R123-16 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-16)
 
 Le directeur de greffe gère le personnel du greffe. Il le répartit et l'affecte dans les services du conseil conformément aux dispositions de l'article R. 123-16 de ce même code.
 
@@ -571,6 +574,7 @@ Des personnels appartenant à la catégorie C de la fonction publique, et, le ca
 - Identifiant : LEGIARTI000053223968
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053223968
+- Renvoie à : [art. R212-17-3 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-17-3)
 - Cité par : [Décret n°2017-501 du 6 avril 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034393144)
 
 Les agents des greffes peuvent être délégués dans les conditions prévues par les articles R. 123-17 à R. 123-17-2 et R. 212-17-3 du code de l'organisation judiciaire.
@@ -583,7 +587,7 @@ Les agents des greffes peuvent être délégués dans les conditions prévues pa
 - Identifiant : LEGIARTI000034652024
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034652024
-- Renvoie à : [art. R1423-28 du Code du travail](chapitre-iii.md#article-r1423-28) ; [art. L123-3 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033423986) ; [art. R123-28 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034651800)
+- Renvoie à : [art. L123-3 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-3) ; [art. R123-28 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-28) ; [art. R1423-28 du Code du travail](chapitre-iii.md#article-r1423-28)
 
 Aux fins prévues par les articles L. 123-3 et R. 123-28 du code de l'organisation judiciaire, il est institué un service d'accueil unique du justiciable auprès des conseils de prud'hommes dont la liste est fixée par arrêté du garde des sceaux, ministre de la justice.
 
@@ -651,7 +655,7 @@ Il est alloué aux témoins entendus en matière prud'homale une indemnité de c
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052600873
 - Renvoie à : [art. L1421-3 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-ier.md#article-l1421-3) ; [art. L1442-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-1) ; [art. L1442-2 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-2) ; [art. L1442-5 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-5) ; [art. L1442-13-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-13-1) ; [art. L1442-13-2 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-13-2) ; [art. L1454-1-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-v/chapitre-iv.md#article-l1454-1-1) ; [art. R1423-7 du Code du travail](chapitre-iii.md#article-r1423-7) ; [art. R1423-27 du Code du travail](chapitre-iii.md#article-r1423-27) ; [art. R1423-31 du Code du travail](chapitre-iii.md#article-r1423-31) ; [art. R1423-51 du Code du travail](chapitre-iii.md#article-r1423-51)
-- Cité par : [art. D1423-56 du Code du travail](chapitre-iii.md#article-d1423-56) ; [art. D1423-57 du Code du travail](chapitre-iii.md#article-d1423-57) ; [art. D1423-64 du Code du travail](chapitre-iii.md#article-d1423-64) ; [art. D1423-65 du Code du travail](chapitre-iii.md#article-d1423-65) ; [art. D1423-66 du Code du travail](chapitre-iii.md#article-d1423-66) ; [art. D1423-66-1 du Code du travail](chapitre-iii.md#article-d1423-66-1) ; [art. D1423-68 du Code du travail](chapitre-iii.md#article-d1423-68) ; [art. D1423-69 du Code du travail](chapitre-iii.md#article-d1423-69) ; [art. R1423-51 du Code du travail](chapitre-iii.md#article-r1423-51) ; [art. R3142-33 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r3142-33) ; [art. R3142-50 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r3142-50) ; [art. D311-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011) ; [art. D1463-69 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019012429) ; [Décret n°2008-560 du 16 juin 2008, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018999245) ; [Décret n°2014-331 du 13 mars 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028725721) ; [Décret n°2018-625 du 17 juillet 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037218832) ; [Décret n°2018-625 du 17 juillet 2018, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037218841)
+- Cité par : [art. D311-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) ; [art. D1423-56 du Code du travail](chapitre-iii.md#article-d1423-56) ; [art. D1423-57 du Code du travail](chapitre-iii.md#article-d1423-57) ; [art. D1423-64 du Code du travail](chapitre-iii.md#article-d1423-64) ; [art. D1423-65 du Code du travail](chapitre-iii.md#article-d1423-65) ; [art. D1423-66 du Code du travail](chapitre-iii.md#article-d1423-66) ; [art. D1423-66-1 du Code du travail](chapitre-iii.md#article-d1423-66-1) ; [art. D1423-68 du Code du travail](chapitre-iii.md#article-d1423-68) ; [art. D1423-69 du Code du travail](chapitre-iii.md#article-d1423-69) ; [art. R1423-51 du Code du travail](chapitre-iii.md#article-r1423-51) ; [art. R3142-33 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r3142-33) ; [art. R3142-50 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r3142-50) ; [art. D1463-69 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019012429) ; [Décret n°2008-560 du 16 juin 2008, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018999245) ; [Décret n°2014-331 du 13 mars 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028725721) ; [Décret n°2018-625 du 17 juillet 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037218832) ; [Décret n°2018-625 du 17 juillet 2018, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037218841)
 
 Les activités prud'homales mentionnées à l'article L. 1442-5 sont :
 
@@ -710,7 +714,7 @@ Les modalités d'indemnisation des activités mentionnées au présent article s
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048599502
 - Renvoie à : [art. R1423-55 du Code du travail](chapitre-iii.md#article-r1423-55)
-- Cité par : [art. D1423-57 du Code du travail](chapitre-iii.md#article-d1423-57) ; [art. D1423-58 du Code du travail](chapitre-iii.md#article-d1423-58) ; [art. D1423-62 du Code du travail](chapitre-iii.md#article-d1423-62) ; [Arrêté du 8 juillet 2024, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049966482) ; [art. D311-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011) ; [Décret n°2017-1779 du 27 décembre 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036330909) ; [Décret n°2023-1206 du 18 décembre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048597531)
+- Cité par : [art. D311-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) ; [art. D1423-57 du Code du travail](chapitre-iii.md#article-d1423-57) ; [art. D1423-58 du Code du travail](chapitre-iii.md#article-d1423-58) ; [art. D1423-62 du Code du travail](chapitre-iii.md#article-d1423-62) ; [Arrêté du 8 juillet 2024, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049966482) ; [Décret n°2017-1779 du 27 décembre 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036330909) ; [Décret n°2023-1206 du 18 décembre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048597531)
 
 Le conseiller prud'homme salarié qui exerce l'une des activités énumérées à l'article R. 1423-55 perçoit une allocation pour ses vacations dont le taux horaire est fixé à 12,00 euros dans les cas suivants :
 
@@ -727,7 +731,7 @@ Le conseiller prud'homme salarié qui exerce l'une des activités énumérées �
 - État : en vigueur depuis le 18/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019012397
 - Renvoie à : [art. D1423-56 du Code du travail](chapitre-iii.md#article-d1423-56) ; [art. R1423-55 du Code du travail](chapitre-iii.md#article-r1423-55)
-- Cité par : [art. D1423-58 du Code du travail](chapitre-iii.md#article-d1423-58) ; [art. D311-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011)
+- Cité par : [art. D311-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) ; [art. D1423-58 du Code du travail](chapitre-iii.md#article-d1423-58)
 
 Le conseiller prud'homme employeur qui exerce l'une des activités énumérées à l'article R. 1423-55 avant 8 heures et après 18 heures ou qui a cessé son activité professionnelle perçoit une allocation pour ses vacations dont le taux horaire est égal au taux fixé par l'article D. 1423-56.  
 

@@ -84,7 +84,7 @@ A l'article L. 442-10, les mots : " ou coopérative d'entreprise ou d'administra
 - Identifiant : LEGIARTI000043750816
 - État : en vigueur depuis le 01/11/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043750816
-- Renvoie à : [art. L441-16 du Code de commerce](../../livre-iv/titre-iv/chapitre-ier.md#article-l441-16) ; art. 403 du Code général des impôts
+- Renvoie à : [art. L441-16 du Code de commerce](../../livre-iv/titre-iv/chapitre-ier.md#article-l441-16) ; [art. L326-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-vi.md#article-l326-1) ; art. 403 du Code général des impôts
 
 Le II de l'article L. 441-11 est ainsi modifié :  
 

@@ -1,0 +1,183 @@
+# Code des procédures civiles d'exécution
+
+Dernière modification du texte dans LEGI : 19/08/2026. 754 articles en vigueur, répartis dans 110 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : DISPOSITIONS GÉNÉRALES**
+    - **TITRE Ier : LES CONDITIONS DE L'EXÉCUTION FORCÉE**
+      - [Chapitre Ier : Le créancier et le titre exécutoire](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Les biens saisissables](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (4 articles)
+    - **TITRE II : L'AUTORITÉ JUDICIAIRE ET LES PERSONNES CONCOURANT À L'EXÉCUTION ET AU RECOUVREMENT DES CRÉANCES**
+      - [Chapitre Ier : L'autorité judiciaire](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Les personnes chargées de l'exécution](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Les tiers](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Les personnes chargées du recouvrement amiable des créances](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : La procédure simplifiée de recouvrement des petites créances](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Procédure de recouvrement des créances commerciales incontestées](partie-legislative/livre-ier/titre-ii/chapitre-vi.md) (6 articles)
+    - **TITRE III : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION**
+      - [Chapitre unique : L'astreinte](partie-legislative/livre-ier/titre-iii/chapitre-unique.md) (4 articles)
+    - **TITRE IV : LES OPÉRATIONS D'EXÉCUTION**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Les opérations d'exécution dans des locaux](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Les saisies notifiées aux comptables publics](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (2 articles)
+    - **TITRE V : LES DIFFICULTÉS D'EXÉCUTION**
+      - [Chapitre II : La recherche des informations](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Le concours de la force publique](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (2 articles)
+    - **TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES PERSONNES ET À CERTAINS BIENS**
+      - [Chapitre Ier : La protection de certaines personnes](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions propres à certains biens](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (2 articles)
+  - **LIVRE II : LES PROCÉDURES D'EXÉCUTION MOBILIÈRE**
+    - **TITRE Ier : LA SAISIE DES CRÉANCES DE SOMMES D'ARGENT**
+      - [Chapitre Ier : La saisie-attribution](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : La saisie et la cession des rémunérations](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (16 articles)
+      - [Chapitre III : La procédure de paiement direct des pensions alimentaires](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (6 articles)
+    - **TITRE II : LA SAISIE DES BIENS CORPORELS**
+      - [Chapitre Ier : La saisie-vente](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : La saisie-appréhension et la saisie-revendication des biens meubles corporels](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Les mesures d'exécution sur les véhicules terrestres à moteur](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (2 articles)
+    - **TITRE III : LA SAISIE DES DROITS INCORPORELS**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Les opérations de vente](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (2 articles)
+    - **TITRE IV : LES AUTRES SAISIES MOBILIÈRES**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (1 article)
+    - **TITRE V : LA DISTRIBUTION DES DENIERS**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-v/chapitre-unique.md) (1 article)
+  - **LIVRE III : LA SAISIE IMMOBILIÈRE**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre unique](partie-legislative/livre-iii/titre-ier/chapitre-unique.md) (8 articles)
+    - **TITRE II : LA SAISIE ET LA VENTE DE L'IMMEUBLE**
+      - [Chapitre Ier : La saisie de l'immeuble](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : La vente de l'immeuble saisi](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (15 articles)
+    - **TITRE III : LA DISTRIBUTION DU PRIX**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre IV : Dispositions communes](partie-legislative/livre-iii/titre-iii/chapitre-iv.md) (1 article)
+    - **TITRE IV : DISPOSITIONS APPLICABLES DANS LES DÉPARTEMENTS DU BAS-RHIN, DU HAUT-RHIN ET DE LA MOSELLE**
+      - [Chapitre unique](partie-legislative/livre-iii/titre-iv/chapitre-unique.md) (1 article)
+  - **LIVRE IV : L'EXPULSION**
+    - **TITRE Ier : LES CONDITIONS DE L'EXPULSION**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions particulières aux lieux habités ou locaux à usage professionnel](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (8 articles)
+    - **TITRE II : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION**
+      - [Chapitre unique : L'astreinte](partie-legislative/livre-iv/titre-ii/chapitre-unique.md) (2 articles)
+    - **TITRE III : LES OPÉRATIONS D'EXPULSION**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre III : Le sort des meubles](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (3 articles)
+    - **TITRE V : DISPOSITIONS PROPRES À LA REPRISE DES LOCAUX ABANDONNÉS**
+      - [Chapitre unique](partie-legislative/livre-iv/titre-v/chapitre-unique.md) (1 article)
+  - **LIVRE V : LES MESURES CONSERVATOIRES**
+    - **TITRE Ier : DISPOSITIONS COMMUNES**
+      - [Chapitre Ier : Les conditions et la mise en œuvre](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Les contestations](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (2 articles)
+    - **TITRE II : LES SAISIES CONSERVATOIRES**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : La saisie conservatoire sur les biens meubles corporels](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : La saisie conservatoire des créances](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (3 articles)
+    - **TITRE III : LES SÛRETÉS JUDICIAIRES**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-v/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : La publicité provisoire](partie-legislative/livre-v/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : La publicité définitive](partie-legislative/livre-v/titre-iii/chapitre-iii.md) (1 article)
+  - **LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE**
+      - [Chapitre Ier : Dispositions communes](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (4 articles)
+    - **TITRE II : DISPOSITIONS SPÉCIFIQUES À SAINT-BARTHÉLEMY ET SAINT-MARTIN**
+      - [Chapitre unique : Dispositions communes](partie-legislative/livre-vi/titre-ii/chapitre-unique.md) (7 articles)
+    - **TITRE III : DISPOSITIONS SPÉCIFIQUES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-iii/chapitre-unique.md) (6 articles)
+    - **TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-iv/chapitre-unique.md) (9 articles)
+    - **TITRE V : LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-v/chapitre-unique.md) (1 article)
+- **Partie réglementaire**
+  - **LIVRE Ier : DISPOSITIONS GÉNÉRALES**
+    - **TITRE Ier : LES CONDITIONS DE L'EXÉCUTION FORCÉE**
+      - [Chapitre Ier : Le créancier et le titre exécutoire](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Les biens saisissables](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (5 articles)
+    - **TITRE II : L'AUTORITÉ JUDICIAIRE ET LES PERSONNES CONCOURANT À L'EXÉCUTION ET AU RECOUVREMENT DES CRÉANCES**
+      - [Chapitre Ier : L'autorité judiciaire](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (23 articles)
+      - [Chapitre II : Les personnes chargées de l'exécution](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Les tiers](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Les personnes chargées du recouvrement amiable des créances](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (7 articles)
+      - [Chapitre V : La procédure simplifiée de recouvrement des petites créances](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (8 articles)
+    - **TITRE III : LA PRÉVENTION DES DIFFICULTÉS D'EXÉCUTION**
+      - [Chapitre unique : L'astreinte](partie-reglementaire/livre-ier/titre-iii/chapitre-unique.md) (4 articles)
+    - **TITRE IV : LES OPÉRATIONS D'EXÉCUTION**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre III : Les saisies notifiées aux comptables publics](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (4 articles)
+    - **TITRE V : LES DIFFICULTÉS D'EXÉCUTION**
+      - [Chapitre Ier : La procédure](partie-reglementaire/livre-ier/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : La recherche des informations](partie-reglementaire/livre-ier/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Réquisition du concours de la force publique](partie-reglementaire/livre-ier/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Procédure d'indemnisation en cas de refus du concours de la force publique](partie-reglementaire/livre-ier/titre-v/chapitre-iv.md) (7 articles)
+    - **TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES PERSONNES ET À CERTAINS BIENS**
+      - [Chapitre Ier : La protection de certaines personnes](partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions propres à certains biens](partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md) (9 articles)
+  - **LIVRE II : LES PROCÉDURES D'EXÉCUTION MOBILIÈRE**
+    - **TITRE Ier : LA SAISIE DES CRÉANCES DE SOMMES D'ARGENT**
+      - [Chapitre Ier : La saisie-attribution](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (24 articles)
+      - [Chapitre II : La saisie et la cession des rémunérations](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (49 articles)
+      - [Chapitre III : La procédure de paiement direct des pensions alimentaires](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (14 articles)
+    - **TITRE II : LA SAISIE DES BIENS CORPORELS**
+      - [Chapitre Ier : La saisie-vente](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (63 articles)
+      - [Chapitre II : La saisie-appréhension et la saisie-revendication des biens meubles corporels](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (25 articles)
+      - [Chapitre III : Les mesures d'exécution sur les véhicules terrestres à moteur](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : La saisie des biens placés dans un coffre-fort](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (12 articles)
+    - **TITRE III : LA SAISIE DES DROITS INCORPORELS**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les opérations de saisie](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Les opérations de vente](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (9 articles)
+    - **TITRE IV : LES AUTRES SAISIES MOBILIÈRES**
+      - [Chapitre unique](partie-reglementaire/livre-ii/titre-iv/chapitre-unique.md) (1 article)
+    - **TITRE V : LA DISTRIBUTION DES DENIERS**
+      - [Chapitre unique](partie-reglementaire/livre-ii/titre-v/chapitre-unique.md) (11 articles)
+  - **LIVRE III : LA SAISIE IMMOBILIÈRE**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre unique](partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md) (11 articles)
+    - **TITRE II : LA SAISIE ET LA VENTE DE L'IMMEUBLE**
+      - [Chapitre Ier : La saisie de l'immeuble](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : La vente de l'immeuble saisi](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (75 articles)
+    - **TITRE III : LA DISTRIBUTION DU PRIX**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : La distribution amiable](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : La distribution judiciaire](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions communes](partie-reglementaire/livre-iii/titre-iii/chapitre-iv.md) (3 articles)
+  - **LIVRE IV : L'EXPULSION**
+    - **TITRE Ier : CONDITIONS DE L'EXPULSION**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions particulières aux lieux habités ou locaux à usage professionnel](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (4 articles)
+    - **TITRE III : LES OPÉRATIONS D'EXPULSION**
+      - [Chapitre II : Le procès-verbal d'expulsion](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Le sort des meubles](partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md) (7 articles)
+    - **TITRE IV : LES DIFFICULTÉS D'EXÉCUTION**
+      - [Chapitre Ier : La réinstallation de la personne expulsée](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les contestations](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (4 articles)
+    - **TITRE V : DISPOSITIONS PROPRES À LA REPRISE DES LOCAUX ABANDONNÉS**
+      - [Chapitre unique](partie-reglementaire/livre-iv/titre-v/chapitre-unique.md) (4 articles)
+  - **LIVRE V : LES MESURES CONSERVATOIRES**
+    - **TITRE Ier : DISPOSITIONS COMMUNES**
+      - [Chapitre Ier : Les conditions et la mise en œuvre](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Les contestations](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (3 articles)
+    - **TITRE II : LES SAISIES CONSERVATOIRES**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : La saisie conservatoire sur les biens meubles corporels](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : La saisie conservatoire des créances](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : La saisie conservatoire des droits d'associé et des valeurs mobilières](partie-reglementaire/livre-v/titre-ii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : La saisie conservatoire des biens placés dans un coffre-fort](partie-reglementaire/livre-v/titre-ii/chapitre-v.md) (5 articles)
+    - **TITRE III : LES SÛRETÉS JUDICIAIRES**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-v/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : La publicité provisoire](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : La publicité définitive](partie-reglementaire/livre-v/titre-iii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Dispositions applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle](partie-reglementaire/livre-v/titre-iii/chapitre-iv.md) (1 article)
+  - **LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **TITRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE**
+      - [Chapitre II : Dispositions spécifiques à une ou plusieurs collectivités](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (4 articles)
+    - **TITRE II : DISPOSITIONS SPÉCIFIQUES À SAINT-BARTHÉLEMY ET SAINT-MARTIN**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-vi/titre-ii/chapitre-ier.md) (4 articles)
+    - **TITRE III : DISPOSITIONS SPÉCIFIQUES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre unique](partie-reglementaire/livre-vi/titre-iii/chapitre-unique.md) (6 articles)
+    - **TITRE IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+      - [Chapitre unique](partie-reglementaire/livre-vi/titre-iv/chapitre-unique.md) (9 articles)
+    - **TITRE V : LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - [Chapitre unique](partie-reglementaire/livre-vi/titre-v/chapitre-unique.md) (1 article)

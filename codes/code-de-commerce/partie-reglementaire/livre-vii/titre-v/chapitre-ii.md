@@ -8,7 +8,7 @@ Code de commerce › Partie réglementaire › LIVRE VII : Des juridictions comm
 - Identifiant : LEGIARTI000046422609
 - État : en vigueur depuis le 15/10/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046422609
-- Renvoie à : art. L101-2-1 du Code de l'urbanisme
+- Renvoie à : [art. L101-2-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-preliminaire/chapitre-ier.md#article-l101-2-1)
 
 L'autorisation d'exploitation commerciale ne peut être délivrée pour un projet d'équipement commercial dont la réalisation engendre une artificialisation des sols.  
 
@@ -80,8 +80,8 @@ Un arrêté du ministre chargé du commerce fixe le modèle de la demande d'auto
 - Identifiant : LEGIARTI000046423477
 - État : en vigueur depuis le 15/10/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046423477
-- Renvoie à : art. L101-2-1 du Code de l'urbanisme ; art. L151-7 du Code de l'urbanisme ; art. L300-1 du Code de l'urbanisme ; art. L303-2 du Code de la construction et de l'habitation
-- Cité par : [art. R752-10 du Code de commerce](chapitre-ii.md#article-r752-10) ; [art. R752-44 du Code de commerce](chapitre-ii.md#article-r752-44) ; [art. R*431-33-1 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030247831) ; [Décret n°2023-977 du 23 octobre 2023, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048250390)
+- Renvoie à : [art. L101-2-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-preliminaire/chapitre-ier.md#article-l101-2-1) ; [art. L151-7 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-v/chapitre-ier.md#article-l151-7) ; [art. L300-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/articles-directs.md#article-l300-1) ; [art. L303-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-preliminaire/chapitre-iii.md#article-l303-2)
+- Cité par : [art. R752-10 du Code de commerce](chapitre-ii.md#article-r752-10) ; [art. R752-44 du Code de commerce](chapitre-ii.md#article-r752-44) ; [art. R*431-33-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ier.md#article-r431-33-1) ; [Décret n°2023-977 du 23 octobre 2023, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048250390)
 
 I.-La demande est accompagnée d'un dossier comportant les éléments mentionnés ci-après ainsi que, en annexe, l'analyse d'impact définie au III de l'article L. 752-6.
 
@@ -374,7 +374,7 @@ Dans ce cas, le demandeur est réputé avoir reçu ces notifications à la date 
 - Identifiant : LEGIARTI000030247425
 - État : en vigueur depuis le 15/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030247425
-- Renvoie à : [art. L750-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/articles-directs.md#article-l750-1) ; [art. R*423-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006820555) ; [art. R*423-13-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030237790)
+- Renvoie à : [art. L750-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/articles-directs.md#article-l750-1) ; [art. R*423-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iii.md#article-r423-2) ; [art. R*423-13-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iii.md#article-r423-13-2)
 - Cité par : [art. Annexe III du Code de commerce](../../../partie-arretes/livre-vii/annexe-7-10-annexe-aux-articles-a-762-2-a-a-762-4-et-a-762-9.md#article-annexe-iii)
 
 Pour les projets nécessitant un permis de construire, la demande accompagnée du dossier est déposée conformément aux dispositions des articles R. 423-2 et suivants du code de l'urbanisme. Le dossier est transmis au secrétariat de la commission départementale dans les conditions prévues à l'article R. 423-13-2 du même code.
@@ -384,7 +384,7 @@ Pour les projets nécessitant un permis de construire, la demande accompagnée d
 - État : en vigueur depuis le 19/04/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038391373
 - Renvoie à : [art. L751-2 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ier.md#article-l751-2) ; [art. R752-3 du Code de commerce](chapitre-ii.md#article-r752-3) ; [art. R752-4 du Code de commerce](chapitre-ii.md#article-r752-4) ; [art. R752-5 du Code de commerce](chapitre-ii.md#article-r752-5) ; [art. R752-6 du Code de commerce](chapitre-ii.md#article-r752-6)
-- Cité par : [art. R*423-38-1 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030536024) ; [DÉCRET n°2015-165 du 12 février 2015, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030236930) ; [Décret n°2019-248 du 27 mars 2019, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038309321)
+- Cité par : [art. R*423-38-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iii.md#article-r423-38-1) ; [DÉCRET n°2015-165 du 12 février 2015, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030236930) ; [Décret n°2019-248 du 27 mars 2019, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038309321)
 
 Si le dossier de demande d'autorisation d'exploitation commerciale au sens des articles R. 752-4 à R. 752-6 est complet, le secrétariat de la commission en informe le maire. A défaut d'information contraire communiquée au maire par le secrétariat de la commission dans le délai de quinze jours francs suivant la réception du dossier, le dossier est réputé complet. Ce délai court à compter du jour de réception au secrétariat de la commission départementale de la demande d'autorisation d'exploitation commerciale.
 
@@ -432,7 +432,7 @@ Le délai d'instruction de la demande court à compter de la réception par le s
 - Identifiant : LEGIARTI000046423487
 - État : en vigueur depuis le 15/10/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046423487
-- Renvoie à : [art. R751-4 du Code de commerce](chapitre-ier.md#article-r751-4) ; [art. R752-12 du Code de commerce](chapitre-ii.md#article-r752-12) ; [art. R752-21 du Code de commerce](chapitre-ii.md#article-r752-21) ; art. R423-3 du Code de l'urbanisme
+- Renvoie à : [art. R751-4 du Code de commerce](chapitre-ier.md#article-r751-4) ; [art. R752-12 du Code de commerce](chapitre-ii.md#article-r752-12) ; [art. R752-21 du Code de commerce](chapitre-ii.md#article-r752-21) ; [art. R*423-3 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iii.md#article-r423-3) ; art. R423-3 du Code de l'urbanisme
 
 I.- Dix jours au moins avant la réunion, chacun des membres de la commission départementale reçoit, par tout moyen, communication du dossier de la demande d'autorisation d'exploitation commerciale, accompagnée :
 
@@ -491,7 +491,7 @@ Pour le calcul du quorum, les personnalités qualifiées mentionnées au 3° du 
 - Identifiant : LEGIARTI000038661646
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038661646
-- Renvoie à : [art. L752-5 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-5) ; [art. L752-19 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-19) ; [art. R752-44 du Code de commerce](chapitre-ii.md#article-r752-44)
+- Renvoie à : [art. L752-5 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-5) ; [art. L752-19 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-19) ; [art. R752-44 du Code de commerce](chapitre-ii.md#article-r752-44) ; [art. R123-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-1)
 - Cité par : [art. R752-12 du Code de commerce](chapitre-ii.md#article-r752-12) ; [art. R752-28 du Code de commerce](chapitre-ii.md#article-r752-28) ; [art. R752-34 du Code de commerce](chapitre-ii.md#article-r752-34) ; [art. R752-44 du Code de commerce](chapitre-ii.md#article-r752-44) ; [art. R752-44-13 du Code de commerce](chapitre-ii.md#article-r752-44-13) ; [Arrêté du 1er octobre 2010](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039258267) ; [Décret n°2019-563 du 7 juin 2019, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038580337)
 
 La commission se prononce par un vote à bulletins nominatifs. L'autorisation est adoptée à la majorité absolue des membres présents, les personnalités qualifiées mentionnées au 3° du II, au 3° du III et au 3° du IV de l'article L. 751-2 du code de commerce n'étant pas prises en compte.
@@ -540,7 +540,7 @@ En cas de décision ou avis favorable, le préfet fait publier, dans les dix jou
 - Identifiant : LEGIARTI000050925592
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050925592
-- Renvoie à : [art. R752-19 du Code de commerce](chapitre-ii.md#article-r752-19) ; [art. R752-39 du Code de commerce](chapitre-ii.md#article-r752-39) ; art. L462-1 du Code de l'urbanisme
+- Renvoie à : [art. R752-19 du Code de commerce](chapitre-ii.md#article-r752-19) ; [art. R752-39 du Code de commerce](chapitre-ii.md#article-r752-39) ; [art. L462-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iv/titre-vi/chapitre-ii.md#article-l462-1)
 - Cité par : [art. A752-3 du Code de commerce](../../../partie-arretes/livre-vii/titre-v/chapitre-ii.md#article-a752-3) ; [art. R752-44-10 du Code de commerce](chapitre-ii.md#article-r752-44-10) ; [Décret n°2016-1728 du 15 décembre 2016](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033618180) ; [Décret n°2024-1248 du 30 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050920557) ; [Décret n°2025-461 du 26 mai 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051663583)
 
 Pour les projets nécessitant un permis de construire, l'autorisation d'exploitation commerciale est périmée dans un délai d'un an à compter de la date de dépôt en mairie de la déclaration d'achèvement et de conformité des travaux au permis prévue à l'article L. 462-1 du code de l'urbanisme et au plus tard dans un délai de sept ans à compter de la date à laquelle le permis de construire est devenu définitif :
@@ -565,7 +565,7 @@ En cas de recours devant la juridiction administrative contre l'autorisation d'e
 - Identifiant : LEGIARTI000046423496
 - État : en vigueur depuis le 15/10/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046423496
-- Renvoie à : [art. L752-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-4) ; [art. R751-3 du Code de commerce](chapitre-ier.md#article-r751-3) ; [art. R752-18 du Code de commerce](chapitre-ii.md#article-r752-18) ; art. L101-2-1 du Code de l'urbanisme
+- Renvoie à : [art. L752-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-4) ; [art. R751-3 du Code de commerce](chapitre-ier.md#article-r751-3) ; [art. R752-18 du Code de commerce](chapitre-ii.md#article-r752-18) ; [art. L101-2-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-preliminaire/chapitre-ier.md#article-l101-2-1)
 - Cité par : [art. R752-13 du Code de commerce](chapitre-ii.md#article-r752-13)
 
 La procédure prévue à l'article L. 752-4 est applicable à toute demande de permis de construire relative à un projet de création ou d'extension, dans une commune de moins de 20 000 habitants et, lorsque le projet engendre une artificialisation des sols, au sens du neuvième alinéa de l'article L. 101-2-1 du code de l'urbanisme, par rapport à l'état des parcelles concernées au 23 août 2021, dans toutes les communes, d'un magasin de commerce de détail ou d'un ensemble commercial dont la surface de vente globale, en cas de réalisation du projet, serait comprise entre 300 et 1 000 mètres carrés.
@@ -585,7 +585,7 @@ Le conseil municipal ou l'organe délibérant de l'établissement public de coop
 - Identifiant : LEGIARTI000031764940
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031764940
-- Renvoie à : [art. L752-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-4) ; art. L143-16 du Code de l'urbanisme
+- Renvoie à : [art. L752-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-4) ; [art. L143-16 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-16)
 
 La demande d'avis est adressée au secrétariat de la commission départementale par l'autorité compétente pour délivrer le permis de construire ou par le président de l'établissement public mentionné à l'article L. 143-16 du code de l'urbanisme soit par lettre recommandée avec demande d'avis de réception, soit par voie administrative contre décharge, soit par voie électronique. Elle est motivée et accompagnée de la délibération mentionnée au troisième alinéa de l'article L. 752-4.
 
@@ -980,7 +980,7 @@ En cas de pluralité de demandeurs, la demande précise en quel lieu ils élisen
 - Identifiant : LEGIARTI000038580995
 - État : en vigueur depuis le 09/06/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038580995
-- Renvoie à : [art. R*423-13-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030237790)
+- Renvoie à : [art. R*423-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iii.md#article-r423-2) ; [art. R*423-13-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iii.md#article-r423-13-2)
 
 Lorsque la réalisation du projet nécessite un permis de construire, la nouvelle demande est déposée conformément aux dispositions des articles R. * 423-2 et suivants du code de l'urbanisme. Le maire transmet cette demande au secrétariat de la Commission nationale d'aménagement commercial dans les conditions prévues au second alinéa de l'article R. 423-13-2 du même code.
 
@@ -1066,7 +1066,7 @@ Outre les destinataires mentionnés au premier alinéa de cet article, le nouvel
 - Identifiant : LEGIARTI000038660009
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038660009
-- Renvoie à : [art. L752-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-1) ; [art. R752-6 du Code de commerce](chapitre-ii.md#article-r752-6) ; [art. R752-16 du Code de commerce](chapitre-ii.md#article-r752-16) ; [art. R752-34 du Code de commerce](chapitre-ii.md#article-r752-34) ; [art. R752-38 du Code de commerce](chapitre-ii.md#article-r752-38)
+- Renvoie à : [art. L752-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-1) ; [art. R752-6 du Code de commerce](chapitre-ii.md#article-r752-6) ; [art. R752-16 du Code de commerce](chapitre-ii.md#article-r752-16) ; [art. R752-34 du Code de commerce](chapitre-ii.md#article-r752-34) ; [art. R752-38 du Code de commerce](chapitre-ii.md#article-r752-38) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 - Cité par : [art. R752-16 du Code de commerce](chapitre-ii.md#article-r752-16) ; [art. R752-38 du Code de commerce](chapitre-ii.md#article-r752-38) ; [art. R752-44-1 du Code de commerce](chapitre-ii.md#article-r752-44-1) ; [Arrêté du 1er octobre 2010](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039258267) ; [Décret n°2019-563 du 7 juin 2019, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038580337)
 
 Pour tout projet réalisé en exécution d'une autorisation d'exploitation commerciale, la conformité à cette autorisation s'apprécie au regard des éléments caractéristiques du projet suivants :  
@@ -1101,7 +1101,7 @@ Tous ces éléments sont récapitulés dans le tableau joint à l'avis ou à la 
 - Identifiant : LEGIARTI000042895249
 - État : en vigueur depuis le 29/12/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042895249
-- Renvoie à : [art. L752-23 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-23) ; [art. R752-19 du Code de commerce](chapitre-ii.md#article-r752-19) ; [art. R752-39 du Code de commerce](chapitre-ii.md#article-r752-39) ; [art. R752-43-9 du Code de commerce](chapitre-ii.md#article-r752-43-9) ; [art. R752-44 du Code de commerce](chapitre-ii.md#article-r752-44)
+- Renvoie à : [art. L752-23 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-23) ; [art. R752-19 du Code de commerce](chapitre-ii.md#article-r752-19) ; [art. R752-39 du Code de commerce](chapitre-ii.md#article-r752-39) ; [art. R752-43-9 du Code de commerce](chapitre-ii.md#article-r752-43-9) ; [art. R752-44 du Code de commerce](chapitre-ii.md#article-r752-44) ; [art. L462-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iv/titre-vi/chapitre-ii.md#article-l462-1)
 - Cité par : [art. R752-44-2 du Code de commerce](chapitre-ii.md#article-r752-44-2) ; [Décret n°2019-563 du 7 juin 2019, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038580337)
 
 Sont joints au certificat de conformité prévu à l'article L. 752-23 pour les projets mentionnés à l'article R. 752-44 :
@@ -1285,7 +1285,7 @@ Le certificat de conformité est accompagné du tableau mentionné aux articles 
 - Identifiant : LEGIARTI000038581400
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038581400
-- Renvoie à : [art. L752-1-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-1-1) ; [art. L303-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037653135)
+- Renvoie à : [art. L752-1-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-1-1) ; [art. L303-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-preliminaire/chapitre-iii.md#article-l303-2)
 - Cité par : [art. R752-44-16 du Code de commerce](chapitre-ii.md#article-r752-44-16)
 
 Lorsque l'équipement commercial relève de l'article L. 752-1-1, le porteur de projet fait publier, dans deux journaux régionaux ou locaux diffusés dans le département, un avis d'ouverture au public au plus tard un mois avant la date d'ouverture prévue. Le porteur de projet s'entend du propriétaire du terrain ou de l'immeuble ou, le cas échéant, de toute personne habilitée par le propriétaire à construire ou exploiter commercialement cet équipement.  
@@ -1373,7 +1373,7 @@ Si, à l'expiration de ce délai, les agents de la commune ou de l'établissemen
 - Identifiant : LEGIARTI000038660044
 - État : en vigueur depuis le 09/06/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038660044
-- Renvoie à : [art. L752-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-1)
+- Renvoie à : [art. L752-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-v/chapitre-ii.md#article-l752-1) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 - Cité par : [art. R752-48 du Code de commerce](chapitre-ii.md#article-r752-48)
 
 Lorsqu'un équipement commercial soumis à autorisation d'exploitation commerciale cesse d'être exploité à des fins commerciales, le propriétaire du site d'implantation notifie la date de la cessation d'exploitation commerciale au préfet du département de la commune d'implantation.  

@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE Ier : Du commerce en généra
 - Identifiant : LEGIARTI000019292529
 - État : en vigueur depuis le 06/08/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019292529
-- Cité par : [art. L135-2 du Code de commerce](chapitre-v.md#article-l135-2) ; [art. R123-208-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-208-1) ; [art. L311-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053151645) ; [art. 1457 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217096)
+- Cité par : [art. L135-2 du Code de commerce](chapitre-v.md#article-l135-2) ; [art. R123-208-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-208-1) ; [art. 1457 du Code général des impôts](../../../../code-general-des-impots/livre-premier/deuxieme-partie/titre-premier/chapitre-premier.md#article-1457) ; [art. L311-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053151645)
 
 Le vendeur à domicile indépendant est celui qui effectue la vente de produits ou de services dans les conditions prévues par la section 3 du chapitre Ier du titre II du livre Ier du code de la consommation, à l'exclusion du démarchage par téléphone ou par tout moyen technique assimilable, dans le cadre d'une convention écrite de mandataire, de commissionnaire, de revendeur ou de courtier, le liant à l'entreprise qui lui confie la vente de ses produits ou services.
 

@@ -23,7 +23,7 @@ Les frais d'accompagnement et l'indemnité mentionnés au deuxième alinéa de l
 - Identifiant : LEGIARTI000042648452
 - État : en vigueur depuis le 11/12/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042648452
-- Renvoie à : [art. L7342-2 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-l7342-2) ; art. L743-1 du Code de la sécurité sociale
+- Renvoie à : [art. L434-16 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iii/chapitre-4.md#article-l434-16) ; [art. L743-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-vii/titre-iv/chapitre-3.md#article-l743-1) ; [art. L7342-2 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-l7342-2)
 
 Le montant du plafond mentionné au premier alinéa de l'article L. 7342-2 est égal à la cotisation due au titre de l'assurance volontaire des accidents du travail et des maladies professionnelles prévue à l'article L. 743-1 du code de la sécurité sociale, calculée sur la base du salaire minimum prévu au premier alinéa de l'article L. 434-16 du même code.
 
@@ -49,7 +49,7 @@ Lorsque plusieurs plateformes sont tenues de prendre en charge les cotisations, 
 - Identifiant : LEGIARTI000042648425
 - État : en vigueur depuis le 11/12/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042648425
-- Renvoie à : [art. D7342-1 du Code du travail](chapitre-ii.md#article-d7342-1) ; [art. D7342-4 du Code du travail](chapitre-ii.md#article-d7342-4) ; [art. L7342-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-l7342-1)
+- Renvoie à : [art. D7342-1 du Code du travail](chapitre-ii.md#article-d7342-1) ; [art. D7342-4 du Code du travail](chapitre-ii.md#article-d7342-4) ; [art. L7342-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-l7342-1) ; [art. 242 bis du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-242-bis)
 
 Afin de bénéficier de la prise en charge par la plateforme des cotisations, contributions et frais mentionnés aux articles D. 7342-1 à D. 7342-3, le travailleur indépendant lui adresse une demande de remboursement et justifie auprès d'elle des dépenses qu'il a exposées, ainsi que du chiffre d'affaires total mentionné à l'article D. 7342-4. A cette fin, il produit les documents mentionnés au II de l'article 242 bis du code général des impôts.  
 

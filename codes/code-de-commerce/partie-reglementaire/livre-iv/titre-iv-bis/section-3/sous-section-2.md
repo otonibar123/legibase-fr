@@ -43,7 +43,7 @@ Préalablement à l'accomplissement de toute prestation devant être immédiatem
 - Identifiant : LEGIARTI000032130791
 - État : en vigueur depuis le 29/02/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032130791
-- Renvoie à : [art. R444-52 du Code de commerce](sous-section-2.md#article-r444-52) ; art. L111-3 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R444-52 du Code de commerce](sous-section-2.md#article-r444-52) ; [art. L111-3 du Code des procédures civiles d'exécution](../../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-3)
 - Cité par : [art. R444-54 du Code de commerce](sous-section-2.md#article-r444-54) ; [art. R444-55 du Code de commerce](sous-section-2.md#article-r444-55)
 
 Les dispositions de l'article R. 444-52 ne s'appliquent pas :  

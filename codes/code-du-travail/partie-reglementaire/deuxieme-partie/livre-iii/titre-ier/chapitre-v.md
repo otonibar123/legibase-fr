@@ -107,7 +107,7 @@ Par dérogation aux dispositions du présent article, le temps passé aux réuni
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036419581
 - Renvoie à : [art. L2315-17 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-17)
-- Cité par : [art. R2315-12 du Code du travail](chapitre-v.md#article-r2315-12) ; [art. R254-83 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050550199)
+- Cité par : [art. R2315-12 du Code du travail](chapitre-v.md#article-r2315-12) ; [art. R254-83 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-v/chapitre-iv.md#article-r254-83)
 
 La liste des organismes de formation mentionnée à l'article L. 2315-17 est arrêtée par le préfet de région après avis du comité régional de l'emploi, de la formation de l'orientation professionnelles.
 
@@ -120,7 +120,7 @@ La liste des organismes de formation mentionnée à l'article L. 2315-17 est arr
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036419587
 - Renvoie à : [art. L2315-18 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-18)
-- Cité par : [art. R2315-11 du Code du travail](chapitre-v.md#article-r2315-11) ; [Arrêté du 24 juin 2024, art. 31](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049930611) ; [art. R254-82 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050550195)
+- Cité par : [art. R2315-11 du Code du travail](chapitre-v.md#article-r2315-11) ; [art. R254-82 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-v/chapitre-iv.md#article-r254-82) ; [Arrêté du 24 juin 2024, art. 31](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049930611)
 
 La formation des membres de la délégation du personnel du comité social et économique mentionnée à l'article L. 2315-18 a pour objet :  
 
@@ -148,7 +148,7 @@ Elle est dispensée selon un programme théorique et pratique préétabli qui ti
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036419591
 - Renvoie à : [art. R2315-9 du Code du travail](chapitre-v.md#article-r2315-9)
-- Cité par : [Arrêté du 24 juin 2024, art. 31](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049930611) ; [art. R254-82 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050550195)
+- Cité par : [art. R254-82 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-v/chapitre-iv.md#article-r254-82) ; [Arrêté du 24 juin 2024, art. 31](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049930611)
 
 Le renouvellement de la formation des membres de la délégation du personnel du comité social et économique fait l'objet de stages distincts de celui organisé en application de l'article R. 2315-9.  
 
@@ -244,7 +244,7 @@ Les frais de séjour sont pris en charge à hauteur du montant de l'indemnité d
 - Identifiant : LEGIARTI000036419623
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036419623
-- Cité par : [Arrêté du 24 juin 2024, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049930613) ; [art. R214-3 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050548447)
+- Cité par : [art. R214-3 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-3) ; [Arrêté du 24 juin 2024, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049930613)
 
 Les dépenses afférentes à la rémunération des organismes de formation sont prises en charge par l'employeur, à concurrence d'un montant qui ne peut dépasser, par jour et par stagiaire, l'équivalent de trente-six fois le montant horaire du salaire minimum de croissance.
 
@@ -392,6 +392,7 @@ Cette somme et ses modalités d'utilisation sont inscrites, d'une part, dans les
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347737
 - Renvoie à : [art. L2315-62 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-62)
+- Cité par : [art. Annexe Tableau IV-II du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-ii)
 
 A défaut d'accord entre le comité central et les comités d'établissement prévu à l'article L. 2315-62 et à défaut de stipulations dans la convention collective de branche, le tribunal judiciaire fixe le montant de la subvention de fonctionnement que doit rétrocéder chaque comité d'établissement au comité central en vue de constituer le budget de fonctionnement de ce dernier.
 
@@ -670,7 +671,7 @@ Les contestations de l'employeur prévues à l'article L. 2315-86 relèvent de l
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036434304
 - Renvoie à : [art. L2315-94 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-94) ; [art. R4724-1 du Code du travail](../../../quatrieme-partie/livre-vii/titre-ii/chapitre-iv.md#article-r4724-1)
-- Cité par : [art. R2315-52 du Code du travail](chapitre-v.md#article-r2315-52) ; [art. R253-54 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050549855) ; [art. R292-4 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050551285)
+- Cité par : [art. R2315-52 du Code du travail](chapitre-v.md#article-r2315-52) ; [art. R253-54 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-v/chapitre-iii.md#article-r253-54) ; [art. R292-4 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-ix/chapitre-ii.md#article-r292-4)
 
 L'habilitation de l'expert auquel le comité social et économique peut faire appel, en application de l'article L. 2315-94, est une certification justifiant de ses compétences. Cette certification est délivrée par un organisme certificateur accrédité par le comité français d'accréditation ou par tout autre organisme d'accréditation mentionné à l'article R. 4724-1.
 
@@ -681,7 +682,7 @@ L'habilitation de l'expert auquel le comité social et économique peut faire ap
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037535790
 - Renvoie à : [art. L2315-94 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-94) ; [art. R2315-51 du Code du travail](chapitre-v.md#article-r2315-51)
-- Cité par : [art. R253-54 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050549855) ; [art. R292-4 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050551285)
+- Cité par : [art. R253-54 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-v/chapitre-iii.md#article-r253-54) ; [art. R292-4 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-ix/chapitre-ii.md#article-r292-4)
 
 Un arrêté du ministre chargé du travail détermine :  
 

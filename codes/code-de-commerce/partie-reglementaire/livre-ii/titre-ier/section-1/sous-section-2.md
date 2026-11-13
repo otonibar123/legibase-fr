@@ -7,7 +7,7 @@ Code de commerce › Partie réglementaire › LIVRE II : Des sociétés commerc
 - État : en vigueur depuis le 10/05/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006260074
 - Renvoie à : [art. R123-237 du Code de commerce](../../../livre-ier/titre-ii/chapitre-iii.md#article-r123-237) ; [art. R210-3 du Code de commerce](sous-section-1.md#article-r210-3)
-- Cité par : [art. R123-105 du Code de commerce](../../../livre-ier/titre-ii/chapitre-iii.md#article-r123-105) ; [art. R225-145 du Code de commerce](../../titre-ii/chapitre-v.md#article-r225-145) ; [art. R228-93 du Code de commerce](../../titre-ii/chapitre-viii.md#article-r228-93) ; [Arrêté du 19 novembre 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053327073) ; [art. R221-6-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036461158)
+- Cité par : [art. R123-105 du Code de commerce](../../../livre-ier/titre-ii/chapitre-iii.md#article-r123-105) ; [art. R225-145 du Code de commerce](../../titre-ii/chapitre-v.md#article-r225-145) ; [art. R228-93 du Code de commerce](../../titre-ii/chapitre-viii.md#article-r228-93) ; [art. R221-6-1 du Code de l'énergie](../../../../../code-de-l-energie/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-6-1) ; [Arrêté du 19 novembre 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053327073)
 
 Si l'une des mentions de l'avis prévu à l'article R. 210-3 est frappée de caducité par suite de la modification des statuts ou d'un autre acte, délibération ou décision, la modification intervenue est publiée dans les conditions prévues à l'article R. 210-3.  
 

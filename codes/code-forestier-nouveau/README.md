@@ -1,0 +1,212 @@
+# Code forestier (nouveau)
+
+Dernière modification du texte dans LEGI : 11/10/2026. 1367 articles en vigueur, répartis dans 157 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : DISPOSITIONS COMMUNES À TOUS LES BOIS ET FORÊTS**
+    - **TITRE Ier : CHAMP D'APPLICATION, PRINCIPES GÉNÉRAUX ET INSTITUTIONS**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Principes généraux](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Institutions](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (2 articles)
+    - **TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE**
+      - [Chapitre Ier : Orientations générales](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Instruments et mise en œuvre de la politique forestière](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Stratégies locales de développement forestier](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Gestion durable](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Protection contre les atteintes à la propriété foncière forestière](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (1 article)
+    - **TITRE III : DÉFENSE ET LUTTE CONTRE LES INCENDIES DE FORÊT**
+      - [Chapitre Ier : Mesures applicables sur l'ensemble du territoire national](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Mesures applicables aux bois et forêts classés à « risque d'incendie »](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Mesures applicables aux territoires réputés particulièrement exposés aux risques d'incendie](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Mesures communes aux bois et forêts classés à risque d'incendie et aux territoires réputés particulièrement exposés aux risques d'incendie](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (16 articles)
+      - [Chapitre V : Contrôle](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Application](partie-legislative/livre-ier/titre-iii/chapitre-vi.md) (1 article)
+    - **TITRE IV : RÔLE DE PROTECTION DES FORÊTS**
+      - [Chapitre Ier : Forêts de protection](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Conservation et restauration des forêts en montagne](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Fixation des dunes](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Prévention des risques naturels](partie-legislative/livre-ier/titre-iv/chapitre-iv.md) (1 article)
+    - **TITRE V : MISE EN VALEUR DES FORÊTS**
+      - [Chapitre Ier : Inventaire forestier national](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Recherche](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Ressources génétiques forestières et matériels forestiers de reproduction](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (9 articles)
+      - [Chapitre III bis : Desserte des forêts](partie-legislative/livre-ier/titre-v/chapitre-iii-bis.md) (2 articles)
+      - [Chapitre IV : Règles applicables au travail en milieu forestier](partie-legislative/livre-ier/titre-v/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Valorisation des produits de la sylviculture](partie-legislative/livre-ier/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Dispositions économiques et financières](partie-legislative/livre-ier/titre-v/chapitre-vi.md) (4 articles)
+    - **TITRE VI : DISPOSITIONS PÉNALES**
+      - [Chapitre Ier : Règles de procédure pénale applicables aux infractions forestières](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (20 articles)
+      - [Chapitre II : Dispositions relatives aux peines](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Infractions communes à tous les bois et forêts](partie-legislative/livre-ier/titre-vi/chapitre-iii.md) (17 articles)
+    - **TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre II : Guyane](partie-legislative/livre-ier/titre-vii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Martinique](partie-legislative/livre-ier/titre-vii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : La Réunion](partie-legislative/livre-ier/titre-vii/chapitre-iv.md) (17 articles)
+      - [Chapitre V : Mayotte](partie-legislative/livre-ier/titre-vii/chapitre-v.md) (15 articles)
+      - [Chapitre VI : Saint-Barthélemy](partie-legislative/livre-ier/titre-vii/chapitre-vi.md) (5 articles)
+      - [Chapitre VII : Saint-Martin](partie-legislative/livre-ier/titre-vii/chapitre-vii.md) (4 articles)
+      - [Chapitre VIII : Saint-Pierre-et-Miquelon](partie-legislative/livre-ier/titre-vii/chapitre-viii.md) (4 articles)
+      - [Chapitre IX : Polynésie française et Terres australes et antarctiques françaises](partie-legislative/livre-ier/titre-vii/chapitre-ix.md) (4 articles)
+  - **LIVRE II : BOIS ET FORÊTS RELEVANT DU RÉGIME FORESTIER**
+    - **TITRE Ier : RÉGIME FORESTIER**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Principes d'aménagement](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Bois et forêts de l'Etat](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (27 articles)
+      - [Chapitre IV : Bois et forêts des collectivités territoriales et de certaines personnes morales](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (15 articles)
+      - [Chapitre V : Bois et forêts indivis relevant du régime forestier](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (3 articles)
+    - **TITRE II : OFFICE NATIONAL DES FORÊTS**
+      - [Chapitre Ier : Missions](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Organisation](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Dispositions financières](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Frais de garderie et d'administration](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (2 articles)
+    - **TITRE III : GROUPEMENTS DE GESTION EN COMMUN DES BOIS ET FORÊTS DES COLLECTIVITÉS TERRITORIALES ET DE CERTAINES PERSONNES MORALES**
+      - [Chapitre Ier : Syndicat intercommunal de gestion forestière](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Syndicat mixte de gestion forestière](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Groupement syndical forestier](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (10 articles)
+    - **TITRE IV : DROITS D'USAGE ET D'AFFOUAGE**
+      - [Chapitre Ier : Droits d'usage dans les bois et forêts de l'Etat](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (19 articles)
+      - [Chapitre II : Droits d'usage dans les bois et forêts des collectivités territoriales et de certaines personnes morales](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Coupes délivrées pour l'affouage](partie-legislative/livre-ii/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Application](partie-legislative/livre-ii/titre-iv/chapitre-iv.md) (1 article)
+    - **TITRE V : FINANCEMENT DES ACTIONS DES COMMUNES FORESTIÈRES**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-v/chapitre-unique.md) (2 articles)
+    - **TITRE VI : DISPOSITIONS PÉNALES RELATIVES AUX BOIS ET FORÊTS RELEVANT DU RÉGIME FORESTIER**
+      - [Chapitre Ier : Infractions](partie-legislative/livre-ii/titre-vi/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Modalités de recouvrement](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (1 article)
+    - **TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre Ier : Guadeloupe](partie-legislative/livre-ii/titre-vii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Guyane](partie-legislative/livre-ii/titre-vii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Martinique](partie-legislative/livre-ii/titre-vii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : La Réunion](partie-legislative/livre-ii/titre-vii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Mayotte](partie-legislative/livre-ii/titre-vii/chapitre-v.md) (17 articles)
+      - [Chapitre VI : Saint-Barthélemy](partie-legislative/livre-ii/titre-vii/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : Saint-Martin](partie-legislative/livre-ii/titre-vii/chapitre-vii.md) (5 articles)
+  - **LIVRE III : BOIS ET FORÊTS DES PARTICULIERS**
+    - **TITRE Ier : GESTION DES BOIS ET FORÊTS DES PARTICULIERS**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Plans simples de gestion](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Règlements types de gestion et codes des bonnes pratiques sylvicoles](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Droits d'usage](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Modalités contractuelles de gestion](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (2 articles)
+    - **TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS**
+      - [Chapitre Ier : Centre national de la propriété forestière](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Rôle des chambres d'agriculture en matière forestière](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+    - **TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ ET DE LA GESTION FORESTIÈRE**
+      - [Chapitre Ier : Regroupement de la propriété](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (25 articles)
+      - [Chapitre II : Regroupement pour la gestion](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (8 articles)
+    - **TITRE IV : DÉFRICHEMENTS**
+      - [Chapitre Ier : Régime d'autorisation préalable](partie-legislative/livre-iii/titre-iv/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Exemptions](partie-legislative/livre-iii/titre-iv/chapitre-ii.md) (1 article)
+    - **TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Compte d'investissement forestier et d'assurance](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (5 articles)
+    - **TITRE VI : DISPOSITIONS PÉNALES**
+      - [Chapitre Ier : Surveillance](partie-legislative/livre-iii/titre-vi/chapitre-ier.md) (1 article)
+      - [Chapitre II : Infractions aux règles de gestion](partie-legislative/livre-iii/titre-vi/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Infractions aux règles de défrichement](partie-legislative/livre-iii/titre-vi/chapitre-iii.md) (5 articles)
+    - **TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre Ier : Guadeloupe](partie-legislative/livre-iii/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Guyane](partie-legislative/livre-iii/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Martinique](partie-legislative/livre-iii/titre-vii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : La Réunion](partie-legislative/livre-iii/titre-vii/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Mayotte](partie-legislative/livre-iii/titre-vii/chapitre-v.md) (9 articles)
+      - [Chapitre VIII : Saint-Pierre-et-Miquelon](partie-legislative/livre-iii/titre-vii/chapitre-viii.md) (1 article)
+- **Partie réglementaire**
+  - **LIVRE Ier : DISPOSITIONS COMMUNES À TOUS LES BOIS ET FORÊTS**
+    - **TITRE Ier : CHAMP D'APPLICATION, PRINCIPES GÉNÉRAUX ET INSTITUTIONS**
+      - [Chapitre III : Institutions](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (15 articles)
+    - **TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE**
+      - [Chapitre Ier : Orientations générales](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Instruments et mise en œuvre de la politique forestière](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (27 articles)
+      - [Chapitre III : Stratégies locales de développement forestier](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Gestion durable](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Protection contre les atteintes à la propriété foncière forestière](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (1 article)
+    - **TITRE III : DÉFENSE ET LUTTE CONTRE LES INCENDIES DE FORÊTS**
+      - [Chapitre Ier : Mesures applicables sur l'ensemble du territoire national](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Mesures applicables aux bois et forêts classés "à risque d'incendie"](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Mesures applicables aux territoires réputés particulièrement exposés au risque d'incendie](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (19 articles)
+      - [Chapitre IV : Servitudes de voirie et obligations de débroussaillement communes aux territoires, bois et forêts exposés aux risques d'incendie](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (6 articles)
+    - **TITRE IV : RÔLE DE PROTECTION DES FORÊTS**
+      - [Chapitre Ier : Forêts de protection](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (55 articles)
+      - [Chapitre II : Conservation et restauration des forêts en montagne](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (30 articles)
+      - [Chapitre III : Fixation des dunes](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (9 articles)
+    - **TITRE V : MISE EN VALEUR DES FORÊTS**
+      - [Chapitre Ier : Inventaire forestier national](partie-reglementaire/livre-ier/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre III : Commercialisation des matériels forestiers de reproduction](partie-reglementaire/livre-ier/titre-v/chapitre-iii.md) (25 articles)
+      - [Chapitre III bis : Desserte des forêts](partie-reglementaire/livre-ier/titre-v/chapitre-iii-bis.md) (1 article)
+      - [Chapitre IV : Règles applicables au travail en milieu forestier](partie-reglementaire/livre-ier/titre-v/chapitre-iv.md) (1 article)
+      - [Chapitre V : Valorisation des produits de la sylviculture](partie-reglementaire/livre-ier/titre-v/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions économiques et financières](partie-reglementaire/livre-ier/titre-v/chapitre-vi.md) (14 articles)
+    - **TITRE VI : DISPOSITIONS PÉNALES**
+      - [Chapitre Ier : Règles de procédure pénale applicables aux infractions forestières](partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Dispositions relatives aux peines](partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Infractions communes à tous les bois et forêts](partie-reglementaire/livre-ier/titre-vi/chapitre-iii.md) (16 articles)
+    - **TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre Ier : Guadeloupe](partie-reglementaire/livre-ier/titre-vii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Guyane](partie-reglementaire/livre-ier/titre-vii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Martinique](partie-reglementaire/livre-ier/titre-vii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : La Réunion](partie-reglementaire/livre-ier/titre-vii/chapitre-iv.md) (13 articles)
+      - [Chapitre V : Mayotte](partie-reglementaire/livre-ier/titre-vii/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Saint-Barthélemy](partie-reglementaire/livre-ier/titre-vii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Saint-Martin](partie-reglementaire/livre-ier/titre-vii/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ier/titre-vii/chapitre-viii.md) (1 article)
+  - **LIVRE II : BOIS ET FORÊTS RELEVANT DU RÉGIME FORESTIER**
+    - **TITRE Ier : RÉGIME FORESTIER**
+      - [Chapitre II : Principes d'aménagement](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Bois et forêts de l'Etat](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (66 articles)
+      - [Chapitre IV : Bois et forêts des collectivités territoriales et de certaines personnes morales](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (33 articles)
+      - [Chapitre V : Bois et forêts indivis relevant du régime forestier](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (3 articles)
+    - **TITRE II : OFFICE NATIONAL DES FORÊTS**
+      - [Chapitre Ier : Missions](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Organisation](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (19 articles)
+      - [Chapitre III : Dispositions financières](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Frais de garderie et d'administration](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+    - **TITRE III : GROUPEMENT DE GESTION EN COMMUN DES BOIS ET FORÊTS DES COLLECTIVITÉS TERRITORIALES ET DE CERTAINES PERSONNES MORALES**
+      - [Chapitre Ier : Syndicat intercommunal de gestion forestière](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Syndicat mixte de gestion forestière](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Groupement syndical forestier](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (21 articles)
+    - **TITRE IV : DROITS D'USAGE ET D'AFFOUAGE**
+      - [Chapitre Ier : Droits d'usage dans les bois et forêts de l'Etat](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (32 articles)
+      - [Chapitre II : Droits d'usage dans les bois et forêts des collectivités territoriales et de certaines personnes morales](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Coupes délivrées pour l'affouage](partie-reglementaire/livre-ii/titre-iv/chapitre-iii.md) (3 articles)
+    - [TITRE V : FINANCEMENT DES ACTIONS DES COMMUNES FORESTIÈRES](partie-reglementaire/livre-ii/titre-v.md) (5 articles)
+    - **TITRE VI : DISPOSITIONS PÉNALES RELATIVES AUX BOIS ET FORÊTS RELEVANT DU RÉGIME FORESTIER**
+      - [Chapitre Ier : Infractions](partie-reglementaire/livre-ii/titre-vi/chapitre-ier.md) (17 articles)
+    - **TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre Ier : Guadeloupe](partie-reglementaire/livre-ii/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Guyane](partie-reglementaire/livre-ii/titre-vii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Martinique](partie-reglementaire/livre-ii/titre-vii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : La Réunion](partie-reglementaire/livre-ii/titre-vii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Mayotte](partie-reglementaire/livre-ii/titre-vii/chapitre-v.md) (16 articles)
+      - [Chapitre VI : Saint-Barthélemy](partie-reglementaire/livre-ii/titre-vii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Saint-Martin](partie-reglementaire/livre-ii/titre-vii/chapitre-vii.md) (1 article)
+  - **LIVRE III : BOIS ET FORÊTS DES PARTICULIERS**
+    - **TITRE Ier : GESTION DES BOIS ET FORÊTS DES PARTICULIERS**
+      - [Chapitre II : Plans simples de gestion et plan simple de gestion concerté](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (27 articles)
+      - [Chapitre III : Règlements types de gestion et codes des bonnes pratiques sylvicoles](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (11 articles)
+      - [Chapitre IV : Droits d'usage](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Modalités contractuelles de gestion](partie-reglementaire/livre-iii/titre-ier/chapitre-v.md) (16 articles)
+    - **TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS**
+      - [Chapitre Ier : Centre national de la propriété forestière](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (85 articles)
+    - **TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ ET DE LA GESTION FORESTIÈRE**
+      - [Chapitre Ier : Regroupement de la propriété](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Regroupement pour la gestion](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (20 articles)
+    - **TITRE IV : DÉFRICHEMENTS**
+      - [Chapitre Ier : Régime d'autorisation préalable](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (11 articles)
+    - **TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Compte épargne d'assurance pour la forêt](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (2 articles)
+    - **TITRE VI : DISPOSITIONS PÉNALES**
+      - [Chapitre Ier : Surveillance](partie-reglementaire/livre-iii/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Infractions aux règles de gestion](partie-reglementaire/livre-iii/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : Infractions aux règles de défrichement](partie-reglementaire/livre-iii/titre-vi/chapitre-iii.md) (1 article)
+    - **TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre Ier : Guadeloupe](partie-reglementaire/livre-iii/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Guyane](partie-reglementaire/livre-iii/titre-vii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Martinique](partie-reglementaire/livre-iii/titre-vii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : La Réunion](partie-reglementaire/livre-iii/titre-vii/chapitre-iv.md) (13 articles)
+      - [Chapitre V : Mayotte](partie-reglementaire/livre-iii/titre-vii/chapitre-v.md) (2 articles)
+      - [Chapitre VIII : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-iii/titre-vii/chapitre-viii.md) (1 article)
+  - [Annexes](partie-reglementaire/annexes.md) (2 articles)

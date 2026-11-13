@@ -41,7 +41,7 @@ Lorsque l'établissement cesse ses activités, la liste des travailleurs exposé
 - Identifiant : LEGIARTI000018530428
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530428
-- Renvoie à : [art. L3111-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687784) ; [art. L3112-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687798)
+- Renvoie à : [art. L3111-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l3111-4) ; [art. L3112-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-l3112-1)
 
 L'évaluation des risques permet d'identifier les travailleurs pour lesquels des mesures spéciales de protection peuvent être nécessaires.
 
@@ -75,7 +75,7 @@ Le dossier médical prévu à l'article L. 4624-8 est rempli, pour chaque travai
 - État : en vigueur depuis le 17/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046563777
 - Renvoie à : [art. R4426-7 du Code du travail](chapitre-vi.md#article-r4426-7)
-- Cité par : [art. R4624-45-9 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-45-9) ; [art. R717-27 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053979657)
+- Cité par : [art. R4624-45-9 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-45-9) ; [art. R717-27 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-27)
 
 Le dossier médical est établi à la suite des examens et visites prévus à l'article R. 4426-7.
 

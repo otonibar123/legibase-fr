@@ -245,7 +245,7 @@ Le juge-commissaire peut préciser qu'à défaut d'enchères atteignant cette mi
 - Identifiant : LEGIARTI000026854500
 - État : en vigueur depuis le 01/01/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026854500
-- Renvoie à : art. R321-1 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R321-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-1) ; [art. R331-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-r331-1)
 - Cité par : [art. R642-36 du Code de commerce](chapitre-ii.md#article-r642-36)
 
 L'ordonnance est notifiée à la diligence du greffier par lettre recommandée avec demande d'avis de réception au débiteur et aux créanciers inscrits à domicile élu dont les noms sont indiqués dans l'ordonnance. Les contrôleurs en sont avisés par le greffier.
@@ -270,7 +270,7 @@ Le créancier qui avait engagé la procédure de saisie immobilière remet au li
 - Identifiant : LEGIARTI000026459020
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459020
-- Renvoie à : [art. R643-3 du Code de commerce](chapitre-iii.md#article-r643-3) ; [art. R322-10 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939072)
+- Renvoie à : [art. R643-3 du Code de commerce](chapitre-iii.md#article-r643-3) ; [art. R322-10 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-10)
 
 Le poursuivant ou le notaire commis établit un cahier des conditions de vente.
 
@@ -303,7 +303,7 @@ La vente par voie d'adjudication judiciaire est soumise aux dispositions des tit
 - Identifiant : LEGIARTI000026459031
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459031
-- Renvoie à : [art. R642-22 du Code de commerce](chapitre-ii.md#article-r642-22) ; [art. R321-3 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938978)
+- Renvoie à : [art. R642-22 du Code de commerce](chapitre-ii.md#article-r642-22) ; [art. R321-3 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-3)
 - Cité par : [art. R670-3 du Code de commerce](../titre-vii.md#article-r670-3)
 
 L'ordonnance qui ordonne la vente par voie d'adjudication judiciaire rendue à la demande du liquidateur ou d'un créancier poursuivant comporte, outre les indications mentionnées à l'article R. 642-22, les énonciations exigées aux 1°, 5°, 10° de l'article R. 321-3 du code des procédures civiles d'exécution.
@@ -323,7 +323,7 @@ Il décide si la vente de ces biens sera poursuivie devant le juge de l'exécuti
 - Identifiant : LEGIARTI000039345933
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345933
-- Renvoie à : art. R311-6 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R311-6 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-6)
 
 Le cahier des conditions de vente est déposé par le poursuivant au greffe du juge de l'exécution du tribunal judiciaire compétent dans un délai de deux mois à compter de la publication de l'ordonnance du juge-commissaire.
 
@@ -349,7 +349,7 @@ Lorsque les délais mentionnés au premier et au deuxième alinéas ont été d�
 - Identifiant : LEGIARTI000025945393
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025945393
-- Renvoie à : [Code des procédures civiles d'exécution, Chapitre II : La vente de l'immeuble saisi](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000025939038) ; [art. R322-50 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939179) ; [art. R322-58 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939198) ; [art. R322-59 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939202) ; [art. R322-60 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939204) ; [art. R322-61 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939208) ; [art. R322-64 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939222) ; [art. R322-66 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939228)
+- Renvoie à : [art. R322-50 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-50) ; [art. R322-58 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-58) ; [art. R322-59 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-59) ; [art. R322-60 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-60) ; [art. R322-61 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-61) ; [art. R322-64 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-64) ; [art. R322-66 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-66) ; [Code des procédures civiles d'exécution, Chapitre II : La vente de l'immeuble saisi](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000025939038)
 
 Seules sont applicables à la cession des actifs du débiteur par voie d'adjudication judiciaire celles des dispositions de la section 4 du chapitre II du titre II du livre III du code des procédures civiles d'exécution qui sont mentionnées ci-après.
 
@@ -377,7 +377,7 @@ La réitération des enchères est régie par les articles R. 322-66 à R. 322-7
 - Identifiant : LEGIARTI000026459165
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459165
-- Renvoie à : [art. R642-22 du Code de commerce](chapitre-ii.md#article-r642-22) ; [art. R321-3 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938978)
+- Renvoie à : [art. R642-22 du Code de commerce](chapitre-ii.md#article-r642-22) ; [art. R321-3 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-3)
 - Cité par : [art. R670-3 du Code de commerce](../titre-vii.md#article-r670-3)
 
 L'ordonnance qui ordonne la vente par voie d'adjudication amiable comporte, outre les indications mentionnées à l'article R. 642-22, les énonciations exigées au 5° de l'article R. 321-3 du code des procédures civiles d'exécution. Elle désigne le notaire qui procédera à l'adjudication.
@@ -399,7 +399,7 @@ Le liquidateur, le débiteur et les créanciers inscrits sont convoqués à la v
 - Identifiant : LEGIARTI000026459205
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459205
-- Renvoie à : [art. L642-18 du Code de commerce](../../../partie-legislative/livre-vi/titre-iv/chapitre-ii.md#article-l642-18) ; [art. R642-22 du Code de commerce](chapitre-ii.md#article-r642-22) ; [art. R322-41 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939157)
+- Renvoie à : [art. L642-18 du Code de commerce](../../../partie-legislative/livre-vi/titre-iv/chapitre-ii.md#article-l642-18) ; [art. R642-22 du Code de commerce](chapitre-ii.md#article-r642-22) ; [art. R322-41 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-41)
 
 Avant l'ouverture des enchères le notaire se fait remettre par les enchérisseurs une caution bancaire irrévocable ou un chèque de banque conformément à l'article R. 322-41 du code des procédures civiles d'exécution. Lorsque l'adjudicataire est défaillant, la somme versée ou la caution apportée est acquise pour être distribuée avec l'actif réalisé.
 
@@ -413,7 +413,7 @@ Le titre de vente consiste dans l'expédition du cahier des conditions de vente 
 - Identifiant : LEGIARTI000039624444
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624444
-- Renvoie à : art. R322-52 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R322-52 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-52)
 
 Dans les quinze jours qui suivent l'adjudication, toute personne peut faire surenchère du dixième par requête remise ou adressée au greffe du juge de l'exécution du tribunal judiciaire dans le ressort duquel réside le notaire qui a procédé à la vente.
 
@@ -438,7 +438,7 @@ S'il y a lieu à réitération des enchères, la procédure est poursuivie devan
 - Identifiant : LEGIARTI000026459254
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459254
-- Renvoie à : [art. R322-39 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939151) ; [art. R322-41 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939157) ; [art. R322-42 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939159) ; [art. R322-44 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939163) ; [art. R322-48 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939173) ; [art. R322-62 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939215) ; [art. R322-66 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939228)
+- Renvoie à : [art. R322-39 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-39) ; [art. R322-41 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-41) ; [art. R322-42 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-42) ; [art. R322-44 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-44) ; [art. R322-48 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-48) ; [art. R322-62 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-62) ; [art. R322-66 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-66)
 
 La vente par voie d'adjudication amiable est soumise aux dispositions des articles R. 322-39, R. 322-41, troisième alinéa, R. 322-42, R. 322-44, R. 322-45, R. 322-46, R. 322-48, deuxième et troisième alinéas, R. 322-62, troisième et quatrième alinéas et R. 322-66 à R. 322-72 du code des procédures civiles d'exécution.
 

@@ -15,6 +15,7 @@ Il n'est tenu de ce qui a pu être fait au-delà, qu'autant qu'il l'a ratifié e
 - Identifiant : LEGIARTI000006445296
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006445296
+- Cité par : [art. L455-22 du Code des impositions sur les biens et services](../../../code-des-impositions-sur-les-biens-et-services/partie-legislative/livre-iv/titre-v/chapitre-v.md#article-l455-22)
 
 Le mandant doit rembourser au mandataire les avances et frais que celui-ci a faits pour l'exécution du mandat, et lui payer ses salaires lorsqu'il en a été promis.  
 

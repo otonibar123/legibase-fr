@@ -162,7 +162,7 @@ La mention du nom choisi est portée à la diligence du procureur de la Républi
 - Identifiant : LEGIARTI000046376741
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046376741
-- Renvoie à : [art. 161 du Code civil](../titre-v/chapitre-ier.md#article-161) ; [art. 164 du Code civil](../titre-v/chapitre-ier.md#article-164) ; art. L132-6 du Code de l'action sociale et des familles
+- Renvoie à : [art. 161 du Code civil](../titre-v/chapitre-ier.md#article-161) ; [art. 164 du Code civil](../titre-v/chapitre-ier.md#article-164) ; [art. L132-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-6)
 
 L'adopté doit des aliments à l'adoptant s'il est dans le besoin et, réciproquement, l'adoptant doit des aliments à l'adopté. Les parents d'origine de l'adopté ne sont tenus de lui fournir des aliments que s'il ne peut les obtenir de l'adoptant. L'obligation de fournir des aliments à ses parents d'origine cesse pour l'adopté dès lors qu'il a été admis en qualité de pupille de l'Etat ou pris en charge dans les délais prescrits à l'article L. 132-6 du code de l'action sociale et des familles.
 
@@ -182,7 +182,7 @@ L'adopté et ses descendants n'ont cependant pas la qualité d'héritier réserv
 - Identifiant : LEGIARTI000046376875
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046376875
-- Cité par : [art. 786 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373359)
+- Cité par : [art. 786 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-786)
 
 Dans la succession de l'adopté, à défaut de descendants et de conjoint survivant, les biens donnés par l'adoptant ou recueillis dans sa succession retournent à l'adoptant ou à ses descendants, s'ils existent encore en nature lors du décès de l'adopté, à charge de contribuer aux dettes et sous réserve des droits acquis par les tiers. Les biens que l'adopté avait reçus à titre gratuit de ses parents retournent pareillement à ces derniers ou à leurs descendants.
 
@@ -194,8 +194,8 @@ Le surplus des biens de l'adopté se divise par moitié entre sa famille d'origi
 - Identifiant : LEGIARTI000046376901
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046376901
-- Renvoie à : [art. L132-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796588)
-- Cité par : [art. 156 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373682)
+- Renvoie à : [art. L132-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-6)
+- Cité par : [art. 156 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-156)
 
 L'adoption conserve tous ses effets, nonobstant l'établissement ultérieur d'un lien de filiation.
 

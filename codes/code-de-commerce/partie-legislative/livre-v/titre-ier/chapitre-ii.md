@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE V : Des effets de commerce et
 - Identifiant : LEGIARTI000006233478
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233478
-- Cité par : [art. L512-2 du Code de commerce](chapitre-ii.md#article-l512-2) ; [art. Annexe Tableau IV-IV du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044637242) ; [art. L132-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020968611) ; [Décret n°2019-1339 du 11 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039503063)
+- Cité par : [art. L512-2 du Code de commerce](chapitre-ii.md#article-l512-2) ; [art. Annexe Tableau IV-IV du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-iv) ; [art. L132-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-2) ; [Décret n°2019-1339 du 11 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039503063)
 
 I. - Le billet à ordre contient ;  
 

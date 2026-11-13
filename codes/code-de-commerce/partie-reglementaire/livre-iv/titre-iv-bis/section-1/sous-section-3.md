@@ -27,7 +27,7 @@ La somme des émoluments perçus par le notaire au titre des prestations relativ
 - Identifiant : LEGIARTI000044175534
 - État : en vigueur depuis le 09/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044175534
-- Renvoie à : [art. L444-2 du Code de commerce](../../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-2)
+- Renvoie à : [art. L444-2 du Code de commerce](../../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-2) ; [art. 787 B du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-787-b) ; [art. 787 C du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-787-c)
 - Cité par : [art. A444-9 du Code de commerce](../../../../partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-9) ; [art. A444-174 du Code de commerce](../../../../partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-174) ; [Décret n°90-1215 du 20 décembre 1990, art. 34](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046724723)
 
 I.-Le taux de la remise que peut consentir un professionnel en application de la première phrase du dernier alinéa de l'article L. 444-2 ne peut excéder 20 % du montant de l'émolument arrêté pour une prestation afférente à un bien ou un droit d'une valeur supérieure à un seuil défini par un arrêté conjoint du ministre de la justice et du ministre chargé de l'économie.
@@ -89,7 +89,7 @@ L'arrêté pris en application de l'article L. 444-3 peut prévoir la majoration
 - Identifiant : LEGIARTI000033244045
 - État : en vigueur depuis le 16/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033244045
-- Renvoie à : [art. L444-3 du Code de commerce](../../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-3) ; [art. L1121-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361142) ; [art. 794 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310423)
+- Renvoie à : [art. L444-3 du Code de commerce](../../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-3) ; [art. L1121-1 du Code général de la propriété des personnes publiques](../../../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ier.md#article-l1121-1) ; [art. 794 du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-794)
 - Cité par : [art. A444-69-1 du Code de commerce](../../../../partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-69-1)
 
 L'arrêté pris en application de l'article L. 444-3 peut prévoir une minoration de l'émolument proportionnel applicable aux donations ou legs au profit :  

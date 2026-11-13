@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Première partie : Les relations i
 - Identifiant : LEGIARTI000038146011
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038146011
-- Renvoie à : art. L241-3 du Code de la sécurité sociale
+- Renvoie à : [art. L241-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3)
 
 Pour l'application du présent code à Mayotte et en l'absence de mention particulière spécifique à cette collectivité :  
 

@@ -6,7 +6,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000019017128
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017128
-- Cité par : [art. L134-19 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051214473)
+- Cité par : [art. L134-19 du Code de l'énergie](../../../code-de-l-energie/partie-legislative/livre-ier/titre-iii/chapitre-iv.md#article-l134-19)
 
 La prescription extinctive est un mode d'extinction d'un droit résultant de l'inaction de son titulaire pendant un certain laps de temps.
 

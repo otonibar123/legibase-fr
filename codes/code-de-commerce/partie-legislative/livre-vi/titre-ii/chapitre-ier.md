@@ -111,6 +111,7 @@ Aucun parent ou allié, jusqu'au quatrième degré inclusivement, du débiteur p
 - Identifiant : LEGIARTI000039280822
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280822
+- Renvoie à : [art. L6 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l6)
 - Cité par : [art. L641-1 du Code de commerce](../titre-iv/chapitre-ier.md#article-l641-1)
 
 Le représentant des salariés ainsi que les salariés participant à sa désignation ne doivent avoir encouru aucune des condamnations prévues par l'article L. 6 du code électoral. Le représentant des salariés doit être âgé de dix-huit ans accomplis.  

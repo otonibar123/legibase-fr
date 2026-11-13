@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018530283
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530283
-- Cité par : [art. R717-85-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602500) ; [art. R717-85-9 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602490)
+- Cité par : [art. R717-85-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-8) ; [art. R717-85-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-9)
 
 L'employeur prend des mesures de prévention visant à supprimer ou à réduire au minimum les risques résultant de l'exposition aux vibrations mécaniques, en tenant compte du progrès technique et de l'existence de mesures de maîtrise du risque à la source.
 

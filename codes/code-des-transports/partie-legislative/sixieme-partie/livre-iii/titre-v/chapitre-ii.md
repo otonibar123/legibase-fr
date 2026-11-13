@@ -1,0 +1,12 @@
+# Chapitre II : Installations soumises à autorisation spéciale
+
+Code des transports › PARTIE LÉGISLATIVE › SIXIÈME PARTIE : AVIATION CIVILE › LIVRE III : LES AÉRODROMES › TITRE V : SUJÉTIONS AUX ABORDS DES AÉRODROMES
+
+### Article L6352-1
+- Identifiant : LEGIARTI000023078029
+- État : en vigueur depuis le 01/12/2010
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023078029
+- Cité par : [art. R311-1-1 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md#article-r311-1-1) ; [art. R181-32 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-ier/titre-viii/chapitre-unique.md#article-r181-32) ; [art. Annexe du Code de l'urbanisme](../../../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/annexe-au-present-livre.md#article-annexe) ; [art. D6352-7 du Code des transports](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ii.md#article-d6352-7) ; [art. L6351-7 du Code des transports](chapitre-ier.md#article-l6351-7) ; [art. R6352-1 du Code des transports](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ii.md#article-r6352-1) ; [art. R6352-2 du Code des transports](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ii.md#article-r6352-2) ; [art. R6352-3 du Code des transports](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ii.md#article-r6352-3) ; [art. R6352-5 du Code des transports](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ii.md#article-r6352-5) ; [art. R6352-6 du Code des transports](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ii.md#article-r6352-6) ; [Arrêté du 26 août 2011, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024514750) ; [Décret n°2025-781 du 6 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052061672)
+
+A l'extérieur des zones grevées de servitudes de dégagement, l'établissement de certaines installations qui, en raison de leur hauteur, pourraient constituer des obstacles à la navigation aérienne, est soumis à l'autorisation spéciale de l'autorité administrative.  
+Les catégories d'installations et les conditions auxquelles peuvent être soumises leur établissement sont fixées par décret en Conseil d'Etat.

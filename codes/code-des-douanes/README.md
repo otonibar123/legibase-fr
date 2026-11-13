@@ -1,0 +1,351 @@
+# Code des douanes
+
+Dernière modification du texte dans LEGI : 20/08/2026. 1354 articles en vigueur, répartis dans 249 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : PRINCIPES GÉNÉRAUX ET ACTION DE L'ADMINISTRATION DES DOUANES**
+    - **Titre Ier : PRINCIPES GÉNÉRAUX**
+      - [Chapitre unique : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ier/titre-ier/chapitre-unique.md) (7 articles)
+    - **Titre II : CHAMP D'ACTION DE L'ADMINISTRATION DES DOUANES**
+      - [Chapitre Ier : TERRITOIRE DOUANIER](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : RAYON DES DOUANES](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : ZONES FRANCHES](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : ORGANISATION DE L'ADMINISTRATION DES DOUANES**
+      - [Chapitre II : RÉSERVE OPÉRATIONNELLE DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (17 articles)
+  - **Livre II : RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS**
+    - **Titre Ier : DISPOSITIONS LIMINAIRES**
+      - [Chapitre unique : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ii/titre-ier/chapitre-unique.md) (3 articles)
+    - **Titre II : RÉGIMES DÉCLARATIFS**
+      - [Chapitre Ier : DÉCLARATION DES MARCHANDISES](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : DÉCLARATION DES FLUX FINANCIERS](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (8 articles)
+    - **Titre III : RÉGIME APPLICABLE À CERTAINES MARCHANDISES**
+      - [Chapitre Ier : MARCHANDISES PROHIBÉES](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : MARCHANDISES EN CIRCULATION](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : MARCHANDISES TRANSPORTÉES PAR VOIE AÉRIENNE](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : MARCHANDISES PLACÉES EN DÉPÔT D'OFFICE](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (9 articles)
+    - **Titre IV : RÉGIME SPÉCIFIQUE APPLICABLE AUX PRÉCURSEURS DE DROGUE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : OBLIGATIONS D'INFORMATION ET DE DÉCLARATION DE SOUPÇON](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : AGRÉMENTS, ENREGISTREMENTS, AUTORISATIONS D'EXPORTATION ET AUTORISATIONS D'IMPORTATION](partie-legislative/livre-ii/titre-iv/chapitre-iii.md) (3 articles)
+  - **Livre III : PAIEMENT ET RECOUVREMENT DES DROITS ET DES CRÉANCES**
+    - **Titre Ier : DROITS ET GARANTIES DES REDEVABLES**
+      - [Chapitre Ier : PROCÉDURE CONTRADICTOIRE PRÉALABLE](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre II : PRISE DE POSITION FORMELLE](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : DROIT À L'ERREUR](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (2 articles)
+    - **Titre II : MODALITÉS DE PAIEMENT ET DE RECOUVREMENT**
+      - [Chapitre Ier : LIQUIDATION ET PAIEMENT DES IMPOSITIONS](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : DROIT DE REPRISE](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : RECOUVREMENT](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (19 articles)
+    - **Titre III : RÈGLEMENT DES DIFFÉRENDS EN MATIÈRE DE RECOUVREMENT**
+      - [Chapitre Ier : RECOURS ADMINISTRATIFS](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : RECOURS JURIDICTIONNELS](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (5 articles)
+  - **Livre IV : POUVOIRS DE CONTRÔLE ET DE CONSTATATION**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : OBLIGATIONS FAITES AUX AGENTS DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (11 articles)
+      - [Chapitre II : TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (8 articles)
+      - [Chapitre III : ÉCHANGES ET TRANSMISSION D'INFORMATIONS](partie-legislative/livre-iv/titre-ier/chapitre-iii.md) (21 articles)
+      - [Chapitre IV : ACTES ÉTABLIS AU FORMAT NUMÉRIQUE ET TRANSMISSIONS PAR UN MOYEN DE COMMUNICATION ÉLECTRONIQUE](partie-legislative/livre-iv/titre-ier/chapitre-iv.md) (2 articles)
+    - **Titre II : POUVOIRS DE CONTRÔLE**
+      - [Chapitre Ier : DROIT DE COMMUNICATION](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : DROIT DE VISITE DES MARCHANDISES, DES MOYENS DE TRANSPORT, DES PERSONNES ET DES NAVIRES](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (38 articles)
+      - [Chapitre III : DROIT D'ACCÈS AUX LOCAUX ET LIEUX À USAGE PROFESSIONNEL ET VISITES DOMICILIAIRES](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (31 articles)
+      - [Chapitre IV : POUVOIRS DE CONTRÔLE DES TITRES D'ENTRÉE ET DE SÉJOUR, DES COLIS POSTAUX ET DE CERTAINES OPÉRATIONS EFFECTUÉES DANS LE CADRE DE L'UNION EUROPÉENNE](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (18 articles)
+      - [Chapitre V : RECOURS À DES PERSONNES QUALIFIÉES ET PRÉLÈVEMENT D'ÉCHANTILLONS](partie-legislative/livre-iv/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : POUVOIR D'IMMOBILISATION DES BIENS À DOUBLE USAGE](partie-legislative/livre-iv/titre-ii/chapitre-vi.md) (9 articles)
+      - [Chapitre VII : POUVOIRS DE CONTRÔLE SPÉCIAUX](partie-legislative/livre-iv/titre-ii/chapitre-vii.md) (47 articles)
+      - [Chapitre VIII : DISPOSITIONS SPÉCIFIQUES AUX CONTRIBUTIONS INDIRECTES ET AUX RÉGLEMENTATIONS ASSIMILÉES](partie-legislative/livre-iv/titre-ii/chapitre-viii.md) (35 articles)
+    - **Titre III : RETENUE ET AUDITION DES PERSONNES**
+      - [Chapitre Ier : RETENUE PROVISOIRE DES PERSONNES EN MATIÈRE DE DOUANE](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : RETENUE DOUANIÈRE](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (23 articles)
+      - [Chapitre III : AUDITION LIBRE EN MATIÈRE DE DOUANE ET DE CONTRIBUTIONS INDIRECTES ET RÉGLEMENTATIONS ASSIMILÉES](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (2 articles)
+    - **Titre IV : POUVOIRS DE CONSTATATION**
+      - [Chapitre Ier : DROIT DE CONSIGNATION DES MARCHANDISES ET DES VÉHICULES](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DROIT DE SAISIE](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (7 articles)
+      - [Chapitre III : PROCÈS-VERBAUX](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : FORCE PROBANTE ET VOIES DE RECOURS](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (7 articles)
+    - **Titre V : DISPOSITIONS SPÉCIFIQUES EN MATIÈRE DE PRÉCURSEURS DE DROGUE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (6 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES AUX SUBSTANCES CHIMIQUES NON CLASSIFIÉES](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (5 articles)
+  - **Livre V : QUALIFICATIONS, SANCTIONS ET RESPONSABILITÉ**
+    - **Titre Ier : QUALIFICATIONS ET SANCTIONS**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : QUALIFICATIONS](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (7 articles)
+      - [Chapitre III : DÉLITS](partie-legislative/livre-v/titre-ier/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : PEINES D'INTERDICTION ET CONFISCATION](partie-legislative/livre-v/titre-ier/chapitre-iv.md) (8 articles)
+      - [Chapitre V : CONTRAVENTIONS](partie-legislative/livre-v/titre-ier/chapitre-v.md) (2 articles)
+    - **Titre II : RESPONSABILITÉ ET SOLIDARITÉ**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : PERSONNES RESPONSABLES](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : PERSONNES INTÉRESSÉES À LA FRAUDE](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : SOLIDARITÉ](partie-legislative/livre-v/titre-ii/chapitre-iv.md) (4 articles)
+    - **Titre III : DISPOSITIONS RELATIVES AUX CONTRIBUTIONS INDIRECTES**
+      - [Chapitre Ier : INFRACTIONS](partie-legislative/livre-v/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : PEINES COMPLÉMENTAIRES ET FERMETURE ADMINISTRATIVE](partie-legislative/livre-v/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : PERSONNES RESPONSABLES](partie-legislative/livre-v/titre-iii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : SOLIDARITÉ](partie-legislative/livre-v/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : DISPOSITIONS RELATIVES AUX RELATIONS FINANCIÈRES AVEC L'ÉTRANGER**
+      - [Chapitre Ier : DISPOSITION GÉNÉRALE](partie-legislative/livre-v/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : DÉLITS](partie-legislative/livre-v/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : PEINES COMPLÉMENTAIRES](partie-legislative/livre-v/titre-iv/chapitre-iii.md) (2 articles)
+    - **Titre V : DISPOSITIONS RELATIVES AUX PRÉCURSEURS DE DROGUE**
+      - [Chapitre Ier : INFRACTION ET CONFISCATION](partie-legislative/livre-v/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : SANCTIONS ADMINISTRATIVES](partie-legislative/livre-v/titre-v/chapitre-ii.md) (7 articles)
+  - **Livre VI : PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS**
+    - **Titre Ier : POURSUITES**
+      - [Chapitre Ier : ACTION EN JUSTICE](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre II : PRESCRIPTION](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : TRANSACTION](partie-legislative/livre-vi/titre-ier/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : AVISEURS](partie-legislative/livre-vi/titre-ier/chapitre-iv.md) (2 articles)
+    - **Titre II : EXÉCUTION DES DÉCISIONS DE JUSTICE**
+      - [Chapitre Ier : MESURES CONSERVATOIRES ET DE SÛRETÉ](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : PUBLICITÉ DES DÉCISIONS](partie-legislative/livre-vi/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : DROIT DE REMISE](partie-legislative/livre-vi/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : RECOUVREMENT DES AMENDES, PÉNALITÉS ET CONFISCATIONS EN VALEUR](partie-legislative/livre-vi/titre-ii/chapitre-iv.md) (2 articles)
+    - **Titre III : PROCÉDURES RELATIVES AUX MARCHANDISES SAISIES, CONFISQUÉES OU ABANDONNÉES PAR TRANSACTION**
+      - [Chapitre Ier : PROCÉDURES RELATIVES AUX MARCHANDISES SAISIES](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : CONFISCATION DES MARCHANDISES SAISIES](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : PROCÉDURES RELATIVES AUX MARCHANDISES CONFISQUÉES OU ABANDONNÉES PAR TRANSACTION](partie-legislative/livre-vi/titre-iii/chapitre-iii.md) (15 articles)
+    - **Titre IV : PROCÉDURES CONSÉCUTIVES À LA COMMISSION DE CERTAINES INFRACTIONS AU MOYEN D'UN RÉSEAU DE COMMUNICATION ÉLECTRONIQUE**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES](partie-legislative/livre-vi/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : DISPOSITIONS RELATIVES AUX INTERMÉDIAIRES](partie-legislative/livre-vi/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : PROCÉDURE DE DÉRÉFÉRENCEMENT, DE SUSPENSION ET DE SUPPRESSION DE NOM DE DOMAINE OU DE COMPTES DE RÉSEAUX SOCIAUX, D'UTILISATEUR OU D'ANNONCEUR](partie-legislative/livre-vi/titre-iv/chapitre-iii.md) (5 articles)
+  - **Livre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **Titre Ier : DISPOSITIONS APPLICABLES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-ier/chapitre-preliminaire.md) (1 article)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-ier/chapitre-v.md) (3 articles)
+    - **Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-ii/chapitre-preliminaire.md) (2 articles)
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GENERAUX ET A L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-ii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-legislative/livre-vii/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-ii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-ii/chapitre-v.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-legislative/livre-vii/titre-ii/chapitre-vi.md) (4 articles)
+    - **Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-iii/chapitre-preliminaire.md) (2 articles)
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GENERAUX ET A L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-vii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-legislative/livre-vii/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-iii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-iii/chapitre-v.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-legislative/livre-vii/titre-iii/chapitre-vi.md) (4 articles)
+    - **Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-iv/chapitre-preliminaire.md) (2 articles)
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GENERAUX ET A L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-vii/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-iv/chapitre-ii.md) (6 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-legislative/livre-vii/titre-iv/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-iv/chapitre-iv.md) (5 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-iv/chapitre-v.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-legislative/livre-vii/titre-iv/chapitre-vi.md) (4 articles)
+    - **Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-v/chapitre-preliminaire.md) (3 articles)
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GENERAUX ET A L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-vii/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-v/chapitre-ii.md) (4 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-legislative/livre-vii/titre-v/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-v/chapitre-iv.md) (5 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-legislative/livre-vii/titre-v/chapitre-vi.md) (2 articles)
+    - **Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-vi/chapitre-preliminaire.md) (3 articles)
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GENERAUX ET A L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-vii/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-vi/chapitre-ii.md) (8 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-legislative/livre-vii/titre-vi/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-vi/chapitre-iv.md) (7 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-vi/chapitre-v.md) (2 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-legislative/livre-vii/titre-vi/chapitre-vi.md) (4 articles)
+    - **Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-vii/chapitre-preliminaire.md) (3 articles)
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GENERAUX ET A L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-vii/titre-vii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-vii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-legislative/livre-vii/titre-vii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-vii/chapitre-iv.md) (7 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-vii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-legislative/livre-vii/titre-vii/chapitre-vi.md) (3 articles)
+    - **Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - [Chapitre préliminaire](partie-legislative/livre-vii/titre-viii/chapitre-preliminaire.md) (2 articles)
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GENERAUX ET A L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-legislative/livre-vii/titre-viii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-legislative/livre-vii/titre-viii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-legislative/livre-vii/titre-viii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-legislative/livre-vii/titre-viii/chapitre-iv.md) (7 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-legislative/livre-vii/titre-viii/chapitre-v.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-legislative/livre-vii/titre-viii/chapitre-vi.md) (4 articles)
+- **Partie réglementaire**
+  - **Livre Ier : PRINCIPES GÉNÉRAUX ET ACTION DE L'ADMINISTRATION DES DOUANES**
+    - **Titre Ier : PRINCIPES GÉNÉRAUX**
+      - [Chapitre unique : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ier/titre-ier/chapitre-unique.md) (2 articles)
+    - **Titre II : CHAMP D'ACTION DE L'ADMINISTRATION DES DOUANES**
+      - [Chapitre II : RAYON DES DOUANES](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : ZONES FRANCHES](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : ORGANISATION DE L'ADMINISTRATION DES DOUANES**
+      - [Chapitre Ier : BUREAUX ET BRIGADES](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (3 articles)
+  - **Livre II : RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS**
+    - **Titre II : RÉGIMES DÉCLARATIFS**
+      - [Chapitre Ier : DÉCLARATION DES MARCHANDISES](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (28 articles)
+      - [Chapitre II : DÉCLARATION DES FLUX FINANCIERS](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+    - **Titre III : RÉGIME APPLICABLE À CERTAINES MARCHANDISES**
+      - [Chapitre III : MARCHANDISES TRANSPORTÉES PAR VOIE AÉRIENNE](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : MARCHANDISES PLACÉES EN DÉPÔT D'OFFICE](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (4 articles)
+    - **Titre IV : RÉGIME SPÉCIFIQUE APPLICABLE AUX PRÉCURSEURS DE DROGUE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (3 articles)
+      - [Chapitre II : OBLIGATIONS D'INFORMATION ET DE DÉCLARATION DE SOUPÇON](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : AGRÉMENTS, ENREGISTREMENTS, AUTORISATIONS D'EXPORTATION ET AUTORISATIONS D'IMPORTATION](partie-reglementaire/livre-ii/titre-iv/chapitre-iii.md) (14 articles)
+  - **Livre III : PAIEMENT ET RECOUVREMENT DES DROITS ET DES CRÉANCES**
+    - **Titre Ier : DROITS ET GARANTIES DES REDEVABLES**
+      - [Chapitre Ier : PROCÉDURE CONTRADICTOIRE PRÉALABLE](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : PRISE DE POSITION FORMELLE](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (11 articles)
+      - [Chapitre III : DROIT À L'ERREUR](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (1 article)
+    - **Titre II : MODALITÉS DE PAIEMENT ET DE RECOUVREMENT**
+      - [Chapitre Ier : LIQUIDATION ET PAIEMENT DES IMPOSITIONS](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre III : RECOUVREMENT](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (14 articles)
+    - **Titre III : RÈGLEMENT DES DIFFÉRENDS EN MATIÈRE DE RECOUVREMENT**
+      - [Chapitre Ier : RECOURS ADMINISTRATIFS](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (2 articles)
+  - **Livre IV : POUVOIRS DE CONTRÔLE ET DE CONSTATATION**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Titre Ier : DISPOSITIONS GÉNÉRALES : articles rattachés directement](partie-reglementaire/livre-iv/titre-ier/articles-directs.md) (9 articles)
+      - [Chapitre Ier : OBLIGATIONS FAITES AUX AGENTS DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (25 articles)
+      - [Chapitre IV : ACTES ÉTABLIS AU FORMAT NUMÉRIQUE ET TRANSMISSIONS PAR UN MOYEN DE COMMUNICATION ÉLECTRONIQUE](partie-reglementaire/livre-iv/titre-ier/chapitre-iv.md) (8 articles)
+    - **Titre II : POUVOIRS DE CONTRÔLE**
+      - [Chapitre Ier : DROIT DE COMMUNICATION](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre V : RECOURS À DES PERSONNES QUALIFIÉES ET PRÉLÈVEMENT D'ÉCHANTILLONS](partie-reglementaire/livre-iv/titre-ii/chapitre-v.md) (16 articles)
+      - [Chapitre VI : POUVOIR D'IMMOBILISATION DES BIENS À DOUBLE USAGE](partie-reglementaire/livre-iv/titre-ii/chapitre-vi.md) (9 articles)
+      - [Chapitre VII : POUVOIRS DE CONTRÔLE SPÉCIAUX](partie-reglementaire/livre-iv/titre-ii/chapitre-vii.md) (10 articles)
+      - [Chapitre VIII : DISPOSITIONS SPÉCIFIQUES AUX CONTRIBUTIONS INDIRECTES ET AUX RÉGLEMENTATIONS ASSIMILÉES](partie-reglementaire/livre-iv/titre-ii/chapitre-viii.md) (8 articles)
+    - **Titre V : DISPOSITIONS SPÉCIFIQUES EN MATIÈRE DE PRÉCURSEURS DE DROGUE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-iv/titre-v/chapitre-ier.md) (15 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES AUX SUBSTANCES CHIMIQUES NON CLASSIFIÉES](partie-reglementaire/livre-iv/titre-v/chapitre-ii.md) (3 articles)
+  - **Livre V : QUALIFICATIONS, SANCTIONS ET RESPONSABILITÉ**
+    - **Titre Ier : QUALIFICATIONS ET SANCTIONS**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre III : DÉLITS](partie-reglementaire/livre-v/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre V : CONTRAVENTIONS](partie-reglementaire/livre-v/titre-ier/chapitre-v.md) (8 articles)
+    - **Titre III : DISPOSITIONS RELATIVES AUX CONTRIBUTIONS INDIRECTES**
+      - [Chapitre II : PEINES COMPLÉMENTAIRES ET FERMETURE ADMINISTRATIVE](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre V : DISPOSITIONS RELATIVES AUX PRÉCURSEURS DE DROGUE**
+      - [Chapitre II : SANCTIONS ADMINISTRATIVES](partie-reglementaire/livre-v/titre-v/chapitre-ii.md) (4 articles)
+  - **Livre VI : PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS**
+    - **Titre Ier : POURSUITES**
+      - [Chapitre Ier : ACTION EN JUSTICE](partie-reglementaire/livre-vi/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre III : TRANSACTION](partie-reglementaire/livre-vi/titre-ier/chapitre-iii.md) (6 articles)
+    - **Titre II : EXÉCUTION DES DÉCISIONS DE JUSTICE**
+      - [Chapitre Ier : MESURES CONSERVATOIRES ET DE SÛRETÉ](partie-reglementaire/livre-vi/titre-ii/chapitre-ier.md) (1 article)
+    - **Titre III : PROCÉDURES RELATIVES AUX MARCHANDISES SAISIES, CONFISQUÉES OU ABANDONNÉES PAR TRANSACTION**
+      - [Chapitre Ier : PROCÉDURES RELATIVES AUX MARCHANDISES SAISIES](partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONFISCATION DES MARCHANDISES SAISIES](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : PROCÉDURES RELATIVES AUX MARCHANDISES CONFISQUÉES OU ABANDONNÉES PAR TRANSACTION](partie-reglementaire/livre-vi/titre-iii/chapitre-iii.md) (6 articles)
+    - **Titre IV : PROCÉDURES CONSÉCUTIVES À LA COMMISSION DE CERTAINES INFRACTIONS AU MOYEN D'UN RÉSEAU DE COMMUNICATION ÉLECTRONIQUE**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES](partie-reglementaire/livre-vi/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : DISPOSITIONS RELATIVES AUX INTERMÉDIAIRES](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : PROCÉDURE DE DÉRÉFÉRENCEMENT, DE SUSPENSION ET DE SUPPRESSION DE NOM DE DOMAINE OU DE COMPTES DE RÉSEAUX SOCIAUX, D'UTILISATEUR OU D'ANNONCEUR](partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md) (3 articles)
+  - **Livre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **Titre Ier : DISPOSITIONS APPLICABLES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE Ier RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-ier/chapitre-v.md) (2 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-ier/chapitre-vi.md) (7 articles)
+    - **Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE Ier RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-reglementaire/livre-vii/titre-ii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-ii/chapitre-vi.md) (4 articles)
+    - **Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE Ier RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-reglementaire/livre-vii/titre-iii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-reglementaire/livre-vii/titre-iii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-iii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-iii/chapitre-vi.md) (4 articles)
+    - **Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-reglementaire/livre-vii/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-reglementaire/livre-vii/titre-iv/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-reglementaire/livre-vii/titre-iv/chapitre-iv.md) (6 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-iv/chapitre-v.md) (2 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-iv/chapitre-vi.md) (4 articles)
+    - **Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IER RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-reglementaire/livre-vii/titre-v/chapitre-ii.md) (4 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-reglementaire/livre-vii/titre-v/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-reglementaire/livre-vii/titre-v/chapitre-iv.md) (7 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-v/chapitre-v.md) (1 article)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-v/chapitre-vi.md) (4 articles)
+    - **Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE Ier RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-reglementaire/livre-vii/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-reglementaire/livre-vii/titre-vi/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-reglementaire/livre-vii/titre-vi/chapitre-iv.md) (6 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-vi/chapitre-v.md) (1 article)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-vi/chapitre-vi.md) (4 articles)
+    - **Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE Ier RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-vii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-reglementaire/livre-vii/titre-vii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-reglementaire/livre-vii/titre-vii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-reglementaire/livre-vii/titre-vii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-vii/chapitre-v.md) (1 article)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-vii/chapitre-vi.md) (4 articles)
+    - **Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - [Chapitre Ier : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE Ier RELATIF AUX PRINCIPES GÉNÉRAUX ET À L'ACTION DE L'ADMINISTRATION DES DOUANES](partie-reglementaire/livre-vii/titre-viii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-reglementaire/livre-vii/titre-viii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE III RELATIF AU PAIEMENT ET AU RECOUVREMENT DES DROITS ET DES CRÉANCES](partie-reglementaire/livre-vii/titre-viii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-reglementaire/livre-vii/titre-viii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE V RELATIF AUX QUALIFICATIONS, AUX SANCTIONS ET À LA RESPONSABILITÉ](partie-reglementaire/livre-vii/titre-viii/chapitre-v.md) (1 article)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-reglementaire/livre-vii/titre-viii/chapitre-vi.md) (4 articles)
+- **Partie Arrêtés**
+  - **Livre II : RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS**
+    - **Titre II : RÉGIMES DÉCLARATIFS**
+      - [Chapitre Ier : DÉCLARATION DES MARCHANDISES](partie-arretes/livre-ii/titre-ii/chapitre-ier.md) (3 articles)
+    - **Titre III : RÉGIME APPLICABLE À CERTAINES MARCHANDISES**
+      - [Chapitre II : MARCHANDISES EN CIRCULATION](partie-arretes/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre IV : MARCHANDISES PLACÉES EN DÉPÔT D'OFFICE](partie-arretes/livre-ii/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : RÉGIME SPÉCIFIQUE APPLICABLE AUX PRÉCURSEURS DE DROGUE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-arretes/livre-ii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre III : AGRÉMENTS, ENREGISTREMENTS, AUTORISATIONS D'EXPORTATION ET AUTORISATIONS D'IMPORTATION](partie-arretes/livre-ii/titre-iv/chapitre-iii.md) (18 articles)
+  - **Livre IV : POUVOIRS DE CONTRÔLE ET DE CONSTATATION**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : OBLIGATIONS FAITES AUX AGENTS DE L'ADMINISTRATION DES DOUANES](partie-arretes/livre-iv/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre IV : ACTES ÉTABLIS AU FORMAT NUMÉRIQUE ET TRANSMISSIONS PAR UN MOYEN DE COMMUNICATION ÉLECTRONIQUE](partie-arretes/livre-iv/titre-ier/chapitre-iv.md) (10 articles)
+    - **Titre II : POUVOIRS DE CONTRÔLE**
+      - [Chapitre IV : POUVOIRS DE CONTRÔLE DES TITRES D'ENTRÉE ET DE SÉJOUR, DES COLIS POSTAUX ET DE CERTAINES OPÉRATIONS EFFECTUÉES DANS LE CADRE DE L'UNION EUROPÉENNE](partie-arretes/livre-iv/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre VII : POUVOIRS DE CONTRÔLE SPÉCIAUX](partie-arretes/livre-iv/titre-ii/chapitre-vii.md) (1 article)
+    - **Titre III : RETENUE ET AUDITION DES PERSONNES**
+      - [Chapitre II : RETENUE DOUANIÈRE](partie-arretes/livre-iv/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre V : DISPOSITIONS SPÉCIFIQUES EN MATIÈRE DE PRÉCURSEURS DE DROGUE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-arretes/livre-iv/titre-v/chapitre-ier.md) (1 article)
+  - **Livre VI : PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS**
+    - **Titre Ier : POURSUITES**
+      - [Chapitre IV : AVISEURS](partie-arretes/livre-vi/titre-ier/chapitre-iv.md) (3 articles)
+  - **Livre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **Titre Ier : DISPOSITIONS APPLICABLES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-ier/chapitre-ii.md) (1 article)
+    - **Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-arretes/livre-vii/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-arretes/livre-vii/titre-ii/chapitre-vi.md) (1 article)
+    - **Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-arretes/livre-vii/titre-iii/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-arretes/livre-vii/titre-iii/chapitre-vi.md) (1 article)
+    - **Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-arretes/livre-vii/titre-iv/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-arretes/livre-vii/titre-iv/chapitre-vi.md) (1 article)
+    - **Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-arretes/livre-vii/titre-v/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-arretes/livre-vii/titre-v/chapitre-vi.md) (1 article)
+    - **Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-arretes/livre-vii/titre-vi/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-arretes/livre-vii/titre-vi/chapitre-vi.md) (1 article)
+    - **Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-vii/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-arretes/livre-vii/titre-vii/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-arretes/livre-vii/titre-vii/chapitre-vi.md) (1 article)
+    - **Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - [Chapitre II : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE II RELATIF AU RÉGIME DOUANIER DES MARCHANDISES ET DES FLUX FINANCIERS](partie-arretes/livre-vii/titre-viii/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE IV RELATIF AUX POUVOIRS DE CONTRÔLE ET DE CONSTATATION](partie-arretes/livre-vii/titre-viii/chapitre-iv.md) (3 articles)
+      - [Chapitre VI : CONDITIONS D'APPLICATION DES DISPOSITIONS DU LIVRE VI RELATIF AUX PROCÉDURES CONSÉCUTIVES AUX CONTRÔLES ET AUX CONSTATATIONS](partie-arretes/livre-vii/titre-viii/chapitre-vi.md) (1 article)

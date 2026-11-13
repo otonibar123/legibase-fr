@@ -6,7 +6,7 @@ Code de la consommation › Partie législative nouvelle › Livre II : FORMATIO
 - Identifiant : LEGIARTI000032226437
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226437
-- Cité par : [art. L231-1 du Code de la consommation](chapitre-ier.md#article-l231-1) ; [art. Annexe 3-0 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047851019)
+- Cité par : [art. Annexe 3-0 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-3-0) ; [art. L231-1 du Code de la consommation](chapitre-ier.md#article-l231-1)
 
 Nonobstant toute stipulation contraire, le consommateur ne peut être privé de la protection que lui assurent les dispositions prises par un Etat membre de l'Union européenne en application de la directive 93/13/CEE du Conseil, du 5 avril 1993 concernant les clauses abusives dans les contrats conclus avec les consommateurs, lorsque le contrat présente un lien étroit avec le territoire d'un Etat membre.
 
@@ -14,7 +14,7 @@ Nonobstant toute stipulation contraire, le consommateur ne peut être privé de 
 - Identifiant : LEGIARTI000032226435
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226435
-- Cité par : [art. L231-1 du Code de la consommation](chapitre-ier.md#article-l231-1) ; [art. L213-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142785)
+- Cité par : [art. L231-1 du Code de la consommation](chapitre-ier.md#article-l231-1) ; [art. L213-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-1)
 
 Lorsque la loi qui régit le contrat est celle d'un Etat n'appartenant pas à l'Union européenne, le consommateur ne peut être privé de la protection que lui assurent les dispositions prises par un Etat membre de l'Union européenne en application de la directive 1999/44/CE du Parlement européen et du Conseil du 25 mai 1999 sur certains aspects de la vente et des garanties des biens de consommation et qui ont un caractère impératif lorsque le contrat présente un lien étroit avec le territoire de cet Etat membre.
 
@@ -30,7 +30,7 @@ Nonobstant toute stipulation contraire, le consommateur ne peut être privé de 
 - Identifiant : LEGIARTI000053731117
 - État : en vigueur depuis le 19/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053731117
-- Cité par : [art. L231-1 du Code de la consommation](chapitre-ier.md#article-l231-1) ; [art. L253-1 du Code de la consommation](../titre-v/chapitre-iii.md#article-l253-1) ; [art. L253-2 du Code de la consommation](../titre-v/chapitre-iii.md#article-l253-2) ; [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310567) ; [art. L343-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310651)
+- Cité par : [art. L231-1 du Code de la consommation](chapitre-ier.md#article-l231-1) ; [art. L253-1 du Code de la consommation](../titre-v/chapitre-iii.md#article-l253-1) ; [art. L253-2 du Code de la consommation](../titre-v/chapitre-iii.md#article-l253-2) ; [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1) ; [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1) ; [art. L343-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-iii.md#article-l343-1)
 
 Lorsque les parties ont choisi la loi d'un Etat non membre de l'Union européenne pour régir le contrat, le juge devant lequel est invoquée cette loi est tenu d'en écarter l'application au profit des dispositions plus protectrices de la loi de la résidence habituelle du consommateur assurant la transposition de la directive 2023/2673 du Parlement européen et du Conseil du 22 novembre 2023, lorsque le contrat présente un lien étroit avec le territoire d'un ou plusieurs Etats membres de l'Union européenne.
 

@@ -28,7 +28,7 @@ La décision du président fait l'objet d'une simple mention en marge de la copi
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623401
 - Renvoie à : [art. 47 du Code de procédure civile](../../../livre-ier/titre-iii/chapitre-ii.md#article-47) ; [art. 517 du Code de procédure civile](../../../livre-ier/titre-xv/chapitre-iv.md#article-517)
-- Cité par : [art. R421-9 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846252) ; [Décret n°91-1266 du 19 décembre 1991, art. 92](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025493215) ; [Décret n°91-1369 du 30 décembre 1991, art. 17-11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018399862)
+- Cité par : [art. R421-9 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9) ; [Décret n°91-1266 du 19 décembre 1991, art. 92](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025493215) ; [Décret n°91-1369 du 30 décembre 1991, art. 17-11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018399862)
 
 Le dossier de l'affaire est conservé et tenu à jour par le greffier de la chambre à laquelle l'affaire a été distribuée.  
 

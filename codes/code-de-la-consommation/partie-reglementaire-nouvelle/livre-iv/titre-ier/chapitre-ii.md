@@ -8,7 +8,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre IV : CONFOR
 - Identifiant : LEGIARTI000032807814
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807814
-- Renvoie à : [art. L412-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ii.md#article-l412-1) ; [art. L1313-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021661396)
+- Renvoie à : [art. L412-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ii.md#article-l412-1) ; [art. L1313-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iii/titre-ier/chapitre-iii.md#article-l1313-1)
 
 Les décrets prévus à l'article L. 412-1 sont pris après avis de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail mentionnée à l'article L. 1313-1 du code de la santé publique lorsqu'ils comportent des dispositions visant à prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.  
 Toutefois, les dispositions du premier alinéa ne s'appliquent pas aux décrets qui ont pour objet la mise en conformité de la réglementation avec les décisions et les actes contraignants de l'Union européenne.
@@ -581,6 +581,7 @@ Constituent les mesures d'exécution prévues à l'article L. 412-1 :
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807952
 - Renvoie à : [art. L412-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ii.md#article-l412-1)
+- Cité par : [art. R235-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-ii/titre-iii/chapitre-v.md#article-r235-3)
 
 Constituent les mesures d'exécution prévues à l'article L. 412-1 :  
 
@@ -715,7 +716,7 @@ L'étiquetage d'un produit bénéficiant d'une appellation d'origine contrôlée
 - Identifiant : LEGIARTI000032807976
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807976
-- Renvoie à : art. L641-6 du Code rural et de la pêche maritime
+- Renvoie à : [art. L641-6 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-6)
 
 Le cahier des charges mentionné à l'article L. 641-6 du code rural et de la pêche maritime peut rendre obligatoire la mention " appellation d'origine contrôlée " dans l'étiquetage et la présentation des vins concernés et déterminer les modalités d'application de cette obligation.
 
@@ -773,7 +774,7 @@ b) Terminaux en libre-service, destinés à la fourniture de services relevant d
 - Identifiant : LEGIARTI000048180184
 - État : en vigueur depuis le 11/10/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048180184
-- Renvoie à : [art. L313-24 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-24) ; art. L314-1 du Code monétaire et financier ; art. L315-1 du Code monétaire et financier ; art. L321-1 du Code monétaire et financier
+- Renvoie à : [art. L313-24 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-24) ; [art. L314-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-l314-1) ; [art. L315-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-v.md#article-l315-1) ; [art. L321-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1)
 
 I. - Les dispositions de la présente section s'appliquent aux services suivants tels que définis à l'article 3 de la directive (UE) 2019/882 du Parlement européen et du Conseil du 17 avril 2019 relative aux exigences en matière d'accessibilité applicables aux produits et services :
 

@@ -6,7 +6,7 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - Identifiant : LEGIARTI000006902789
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902789
-- Cité par : [art. L3163-3 du Code du travail](chapitre-iii.md#article-l3163-3) ; [art. L6222-26 du Code du travail](../../../sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-26) ; [art. R3124-15 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-r3124-15) ; [art. L5544-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035627501) ; [art. L715-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025973511)
+- Cité par : [art. L5544-1 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-iv.md#article-l5544-1) ; [art. L3163-3 du Code du travail](chapitre-iii.md#article-l3163-3) ; [art. L6222-26 du Code du travail](../../../sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-26) ; [art. R3124-15 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-r3124-15) ; [art. L715-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-v.md#article-l715-1)
 
 Pour l'application du présent chapitre, est considéré comme travail de nuit :  
 
@@ -36,7 +36,7 @@ Il ne peut être accordé de dérogation pour l'emploi de mineurs de moins de se
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902792
 - Renvoie à : [art. L3163-1 du Code du travail](chapitre-iii.md#article-l3163-1) ; [art. L3163-2 du Code du travail](chapitre-iii.md#article-l3163-2)
-- Cité par : [art. R3124-16 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-r3124-16) ; [art. L715-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025973511)
+- Cité par : [art. R3124-16 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-r3124-16) ; [art. L715-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-v.md#article-l715-1)
 
 En cas d'extrême urgence, si des travailleurs adultes ne sont pas disponibles, il peut être dérogé aux dispositions des articles L. 3163-1 et L. 3163-2, en ce qui concerne les jeunes travailleurs de seize à dix-huit ans, pour des travaux passagers destinés à prévenir des accidents imminents ou à réparer les conséquences des accidents survenus.  
 

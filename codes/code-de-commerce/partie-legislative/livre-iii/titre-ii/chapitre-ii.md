@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE III : De certaines formes de 
 - Identifiant : LEGIARTI000042330061
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042330061
-- Renvoie à : [art. 945 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-945) ; [art. L221-4 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025858)
+- Renvoie à : [art. 945 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-945) ; [art. L221-4 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-4)
 - Cité par : [art. L322-5 du Code de commerce](chapitre-ii.md#article-l322-5) ; [art. L933-5 du Code de commerce](../../livre-ix/titre-iii/chapitre-iii.md#article-l933-5) ; [art. L943-5 du Code de commerce](../../livre-ix/titre-iv/chapitre-iii.md#article-l943-5) ; [art. L953-2 du Code de commerce](../../livre-ix/titre-v/chapitre-iii.md#article-l953-2)
 
 Les ventes publiques et au détail de marchandises qui ont lieu après décès ou par autorité de justice sont faites selon les formes prescrites et par les officiers ministériels préposés pour la vente forcée du mobilier conformément aux articles L. 221-4 du code des procédures civiles d'exécution et 945 du code de procédure civile.
@@ -78,7 +78,7 @@ Ils sont, pour lesdites ventes, soumis aux formes, conditions et tarifs imposés
 - Identifiant : LEGIARTI000024385469
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385469
-- Cité par : [art. L321-1 du Code de commerce](chapitre-ier.md#article-l321-1) ; [art. L322-10 du Code de commerce](chapitre-ii.md#article-l322-10) ; [art. L322-11 du Code de commerce](chapitre-ii.md#article-l322-11) ; [art. R322-6 du Code de commerce](../../../partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-6) ; [art. 876 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045765208)
+- Cité par : [art. L321-1 du Code de commerce](chapitre-ier.md#article-l321-1) ; [art. L322-10 du Code de commerce](chapitre-ii.md#article-l322-10) ; [art. L322-11 du Code de commerce](chapitre-ii.md#article-l322-11) ; [art. R322-6 du Code de commerce](../../../partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-6) ; [art. 876 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-876)
 
 Les ventes volontaires aux enchères publiques en gros d'armes, de munitions et de leurs éléments essentiels ne peuvent avoir lieu que sur autorisation préalable du tribunal de commerce.
 
@@ -86,6 +86,7 @@ Les ventes volontaires aux enchères publiques en gros d'armes, de munitions et 
 - Identifiant : LEGIARTI000024385464
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385464
+- Renvoie à : [art. 871 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-871)
 - Cité par : [art. L913-1 du Code de commerce](../../livre-ix/titre-ier/chapitre-iii.md#article-l913-1) ; [art. L923-2 du Code de commerce](../../livre-ix/titre-ii/chapitre-iii.md#article-l923-2) ; [art. L953-3 du Code de commerce](../../livre-ix/titre-v/chapitre-iii.md#article-l953-3)
 
 Les courtiers de marchandises assermentés sont soumis aux dispositions prescrites par les articles 871 et 873 du code général des impôts.
@@ -136,6 +137,6 @@ Néanmoins, il appartient toujours au tribunal ou au juge qui autorise ou ordonn
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006231899
 - Renvoie à : [art. L322-11 du Code de commerce](chapitre-ii.md#article-l322-11) ; [art. L322-14 du Code de commerce](chapitre-ii.md#article-l322-14)
-- Cité par : [art. L933-8 du Code de commerce](../../livre-ix/titre-iii/chapitre-iii.md#article-l933-8) ; [art. L943-8 du Code de commerce](../../livre-ix/titre-iv/chapitre-iii.md#article-l943-8) ; [art. 876 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045765208)
+- Cité par : [art. L933-8 du Code de commerce](../../livre-ix/titre-iii/chapitre-iii.md#article-l933-8) ; [art. L943-8 du Code de commerce](../../livre-ix/titre-iv/chapitre-iii.md#article-l943-8) ; [art. 876 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-876)
 
 Les dispositions des articles L. 322-11 à L. 322-13 sont applicables aux ventes visées aux articles L. 322-14 et L. 322-15.

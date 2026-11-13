@@ -25,7 +25,7 @@ Les époux contribuent aux charges du mariage suivant les conventions contenues 
 - Identifiant : LEGIARTI000006440766
 - État : en vigueur depuis le 01/02/1966
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006440766
-- Cité par : [art. LO135-1 du Code électoral](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023882648) ; [Loi n°65-570 du 13 juillet 1965, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006472836)
+- Cité par : [art. LO135-1 du Code électoral](../../../code-electoral/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-lo135-1) ; [Loi n°65-570 du 13 juillet 1965, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006472836)
 
 Tant à l'égard de son conjoint que des tiers, un époux peut prouver par tous les moyens qu'il a la propriété exclusive d'un bien.  
 

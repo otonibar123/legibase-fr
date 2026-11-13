@@ -6,7 +6,7 @@ Code de commerce › Partie réglementaire › LIVRE II : Des sociétés commerc
 - Identifiant : LEGIARTI000018359625
 - État : en vigueur depuis le 01/09/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018359625
-- Renvoie à : [art. R232-11 du Code de commerce](../titre-iii/chapitre-ii.md#article-r232-11) ; [art. R232-13 du Code de commerce](../titre-iii/chapitre-ii.md#article-r232-13) ; art. 131-13 du Code pénal
+- Renvoie à : [art. R232-11 du Code de commerce](../titre-iii/chapitre-ii.md#article-r232-11) ; [art. R232-13 du Code de commerce](../titre-iii/chapitre-ii.md#article-r232-13) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe le fait, pour le président, l'administrateur, le directeur général ou le gérant d'une société dont les actions sont admises, en tout ou partie, à la négociation sur un marché réglementé de n'avoir pas procédé aux publications prévues aux articles R. 232-11 et R. 232-13.
 
@@ -16,7 +16,7 @@ En cas de récidive, l'amende applicable est celle prévue par le 5° de l'artic
 - Identifiant : LEGIARTI000042960269
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042960269
-- Renvoie à : [art. R225-120 du Code de commerce](../titre-ii/chapitre-v.md#article-r225-120) ; art. L411-2 du Code monétaire et financier ; art. 131-13 du Code pénal
+- Renvoie à : [art. R225-120 du Code de commerce](../titre-ii/chapitre-v.md#article-r225-120) ; [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe le fait, pour le président, l'administrateur, le directeur général ou le gérant d'une société, d'émettre des valeurs mobilières offertes au public :
 
@@ -40,7 +40,7 @@ Les dispositions du présent article ne sont pas applicables aux offres au publi
 - Identifiant : LEGIARTI000006265627
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006265627
-- Renvoie à : [art. L232-21 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-21) ; [art. 131-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417256)
+- Renvoie à : [art. L232-21 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-21) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Le fait de ne pas satisfaire aux obligations de dépôt prévues aux articles L. 232-21 à L. 232-23 est puni de l'amende prévue par le 5e de l'article 131-13 du code pénal pour les contraventions de la cinquième classe. En cas de récidive, la peine applicable est celle prévue par le 5e de l'article 131-13 du code pénal pour les contraventions de la cinquième classe commises en récidive.
 
@@ -48,6 +48,6 @@ Le fait de ne pas satisfaire aux obligations de dépôt prévues aux articles L.
 - Identifiant : LEGIARTI000006265628
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006265628
-- Renvoie à : [art. R237-1 du Code de commerce](../titre-iii/chapitre-vii.md#article-r237-1) ; [art. 131-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417256)
+- Renvoie à : [art. R237-1 du Code de commerce](../titre-iii/chapitre-vii.md#article-r237-1) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Toute infraction aux dispositions de l'article R. 237-1 est punie de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe.

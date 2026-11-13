@@ -8,7 +8,7 @@ Code civil › Livre Ier : Des personnes › Titre VIII : De la filiation adopti
 - Identifiant : LEGIARTI000046375143
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375143
-- Cité par : [art. R224-15 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049624691) ; [art. R224-17 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049624677) ; [art. R225-31 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047971703) ; [art. D4123-4 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050404193) ; [art. R4123-21 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050404274) ; [Loi n°66-500 du 11 juillet 1966, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283832)
+- Cité par : [art. R224-15 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md#article-r224-15) ; [art. R224-17 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md#article-r224-17) ; [art. R225-31 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-v.md#article-r225-31) ; [art. D4123-4 du Code de la défense](../../../code-de-la-defense/partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-iii.md#article-d4123-4) ; [art. R4123-21 du Code de la défense](../../../code-de-la-defense/partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-iii.md#article-r4123-21) ; [Loi n°66-500 du 11 juillet 1966, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283832)
 
 Le placement en vue de l'adoption concerne les pupilles de l'Etat ou les enfants judiciairement déclarés délaissés. En cas d'adoption plénière, il concerne également les enfants pour lesquels il a été valablement et définitivement consenti à l'adoption.  
 
@@ -20,7 +20,7 @@ Ce placement prend effet à la date de la remise effective de l'enfant aux futur
 - Identifiant : LEGIARTI000046375376
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375376
-- Cité par : [art. L224-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046372141)
+- Cité par : [art. L224-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-6)
 
 Si les parents ont demandé la restitution de l'enfant dont la filiation est établie, ce dernier ne peut faire l'objet d'un placement tant qu'il n'a pas été statué sur le bien-fondé de cette demande à la requête de la partie la plus diligente.  
 
@@ -41,6 +41,7 @@ Le ou les futurs adoptants accomplissent les actes usuels de l'autorité parenta
 - Identifiant : LEGIARTI000046375462
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375462
+- Cité par : [art. L224-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-6)
 
 Le placement en vue de l'adoption plénière fait obstacle à toute restitution de l'enfant à sa famille d'origine. Il fait échec à toute déclaration de filiation et à toute reconnaissance.
 
@@ -54,7 +55,7 @@ Si le placement en vue de l'adoption cesse ou si le tribunal refuse de prononcer
 - Identifiant : LEGIARTI000046375504
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375504
-- Cité par : [art. 361 du Code civil](chapitre-iii.md#article-361) ; [art. D4123-4 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050404193) ; [art. R4123-21 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050404274)
+- Cité par : [art. 361 du Code civil](chapitre-iii.md#article-361) ; [art. D4123-4 du Code de la défense](../../../code-de-la-defense/partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-iii.md#article-d4123-4) ; [art. R4123-21 du Code de la défense](../../../code-de-la-defense/partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-iii.md#article-r4123-21)
 
 Dans le cas d'adoption d'un pupille de l'Etat ou d'un enfant étranger qui n'est pas l'enfant du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin de l'adoptant, le tribunal vérifie avant de prononcer l'adoption que le ou les requérants ont obtenu l'agrément pour adopter ou en étaient dispensés.
 
@@ -68,7 +69,7 @@ Si l'agrément a été refusé ou s'il n'a pas été délivré dans le délai l�
 - Identifiant : LEGIARTI000046375569
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375569
-- Cité par : [art. 361 du Code civil](chapitre-iii.md#article-361) ; [art. Annexe 2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052043213) ; [art. R225-41 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047971653)
+- Cité par : [art. 361 du Code civil](chapitre-iii.md#article-361) ; [art. Annexe 2-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-2-6) ; [art. R225-41 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-v.md#article-r225-41)
 
 L'adoption est prononcée à la requête du ou des adoptants par le tribunal judiciaire qui vérifie dans un délai de six mois à compter de la saisine du tribunal si les conditions de la loi sont remplies et si l'adoption est conforme à l'intérêt de l'enfant.
 
@@ -102,7 +103,7 @@ Constitue un dol au sens du premier alinéa la dissimulation au tribunal du main
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375706
 - Renvoie à : [art. 58 du Code civil](../titre-ii/chapitre-ii.md#article-58)
-- Cité par : [art. L147-8 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045137376) ; [Décret n°2017-890 du 6 mai 2017, art. 37](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034708100) ; [Loi n°2002-304 du 4 mars 2002, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006208791) ; [Loi n°66-500 du 11 juillet 1966, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283837) ; [Ordonnance n°2019-724 du 10 juillet 2019, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038748243)
+- Cité par : [art. L147-8 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vii.md#article-l147-8) ; [Décret n°2017-890 du 6 mai 2017, art. 37](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034708100) ; [Loi n°2002-304 du 4 mars 2002, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006208791) ; [Loi n°66-500 du 11 juillet 1966, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283837) ; [Ordonnance n°2019-724 du 10 juillet 2019, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038748243)
 
 Le jugement prononçant l'adoption est mentionné ou transcrit sur les registres de l'état civil dans les conditions prévues par décret en Conseil d'Etat.  
 

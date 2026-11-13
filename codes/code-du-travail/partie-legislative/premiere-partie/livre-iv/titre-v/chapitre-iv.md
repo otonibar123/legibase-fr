@@ -40,7 +40,7 @@ La formation saisie connaît de l'ensemble des demandes des parties, y compris d
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024155
 - Renvoie à : [art. L8271-1-2 du Code du travail](../../../huitieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l8271-1-2)
-- Cité par : [Livre des procédures fiscales, art. L147 C](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034598209)
+- Cité par : [Livre des procédures fiscales, art. L147 C](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-iii.md#article-l147-c)
 
 Le bureau de conciliation et d'orientation assure la mise en état des affaires.
 
@@ -71,7 +71,7 @@ Dans ce cas, le bureau de conciliation et d'orientation statue en tant que burea
 - Identifiant : LEGIARTI000039278822
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039278822
-- Cité par : [art. L1423-3 du Code du travail](../titre-ii/chapitre-iii.md#article-l1423-3) ; [art. L1454-1-1 du Code du travail](chapitre-iv.md#article-l1454-1-1) ; [art. R1423-31-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-31-1) ; [art. R1423-33 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-33) ; [art. R1423-35 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-35) ; [art. R1423-51 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-51) ; [art. R212-37 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053469702)
+- Cité par : [art. R212-37 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-37) ; [art. L1423-3 du Code du travail](../titre-ii/chapitre-iii.md#article-l1423-3) ; [art. L1454-1-1 du Code du travail](chapitre-iv.md#article-l1454-1-1) ; [art. R1423-31-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-31-1) ; [art. R1423-33 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-33) ; [art. R1423-35 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-35) ; [art. R1423-51 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-51)
 
 En cas de partage, l'affaire est renvoyée devant le même bureau de jugement ou la même formation de référé, présidé par un juge du tribunal judiciaire dans le ressort duquel est situé le siège du conseil de prud'hommes. L'affaire est reprise dans le délai d'un mois.
 
@@ -102,5 +102,6 @@ Si, lors de l'audience de départage, le bureau de jugement ou la formation de r
 - Identifiant : LEGIARTI000029234900
 - État : en vigueur depuis le 12/07/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029234900
+- Renvoie à : [art. L124-1 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-1)
 
 Lorsque le conseil de prud'hommes est saisi d'une demande de requalification en contrat de travail d'une convention de stage mentionnée à l'article L. 124-1 du code de l'éducation, l'affaire est directement portée devant le bureau de jugement, qui statue au fond dans un délai d'un mois suivant sa saisine.

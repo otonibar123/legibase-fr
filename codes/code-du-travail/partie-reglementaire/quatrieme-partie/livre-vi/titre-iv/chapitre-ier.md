@@ -12,8 +12,8 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000033699136
 - État : en vigueur depuis le 25/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033699136
-- Renvoie à : [art. L4111-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md#article-l4111-1) ; [art. L4111-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md#article-l4111-3) ; [art. D717-33 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026091582) ; art. R717-74 du Code rural et de la pêche maritime
-- Cité par : [art. R4641-4 du Code du travail](chapitre-ier.md#article-r4641-4) ; [art. R4641-11 du Code du travail](chapitre-ier.md#article-r4641-11) ; [art. R4641-14 du Code du travail](chapitre-ier.md#article-r4641-14) ; [art. R717-74 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033699295) ; [Décret n°2016-1834 du 22 décembre 2016, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033694582)
+- Renvoie à : [art. L4111-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md#article-l4111-1) ; [art. L4111-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md#article-l4111-3) ; [art. D717-33 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-d717-33) ; [art. R717-74 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-74)
+- Cité par : [art. R4641-4 du Code du travail](chapitre-ier.md#article-r4641-4) ; [art. R4641-11 du Code du travail](chapitre-ier.md#article-r4641-11) ; [art. R4641-14 du Code du travail](chapitre-ier.md#article-r4641-14) ; [art. R717-74 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-74) ; [Décret n°2016-1834 du 22 décembre 2016, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033694582)
 
 Le Conseil d'orientation des conditions de travail est placé auprès du ministre chargé du travail.
 
@@ -354,7 +354,7 @@ Pour chaque commission spécialisée, à l'exception de la commission spécialis
 - Identifiant : LEGIARTI000044804687
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044804687
-- Cité par : [Décret n°2021-842 du 29 juin 2021, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043738048)
+- Cité par : [art. R723-24-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-24-8) ; [Décret n°2021-842 du 29 juin 2021, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043738048)
 
 Les quatre premières commissions spécialisées formées au sein du Conseil d'orientation des conditions de travail sont les suivantes :  
 
@@ -373,7 +373,7 @@ Les quatre premières commissions spécialisées formées au sein du Conseil d'o
 - État : en vigueur depuis le 25/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033696113
 - Renvoie à : [art. R4641-1 du Code du travail](chapitre-ier.md#article-r4641-1) ; [art. R4641-6 du Code du travail](chapitre-ier.md#article-r4641-6) ; [art. R4641-11 du Code du travail](chapitre-ier.md#article-r4641-11)
-- Cité par : [art. R4641-12 du Code du travail](chapitre-ier.md#article-r4641-12) ; [art. D717-33-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052210123)
+- Cité par : [art. R4641-12 du Code du travail](chapitre-ier.md#article-r4641-12) ; [art. D717-33-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-d717-33-1)
 
 La commission spécialisée chargée des questions relatives aux activités agricoles est consultée, en application des dispositions de l'article R. 4641-1, sur les textes présentés sur le rapport du ministre chargé de l'agriculture.  
 
@@ -477,7 +477,7 @@ La participation aux réunions du comité régional d'orientation des conditions
 - Identifiant : LEGIARTI000044804677
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044804677
-- Renvoie à : art. L1411-11 du Code de la santé publique ; art. D717-43-2 du Code rural et de la pêche maritime ; art. L253-6 du Code rural et de la pêche maritime
+- Renvoie à : [art. L1411-11 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-ier-bis.md#article-l1411-11) ; [art. L253-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-v/chapitre-iii.md#article-l253-6) ; [art. R751-160 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-v/chapitre-ier.md#article-r751-160) ; art. D717-43-2 du Code rural (nouveau)
 
 Placé auprès du préfet de région, le comité régional d'orientation des conditions de travail :  
 

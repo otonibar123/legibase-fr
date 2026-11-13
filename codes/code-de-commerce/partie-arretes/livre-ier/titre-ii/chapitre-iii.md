@@ -114,7 +114,7 @@ Les destinataires des formalités des entreprises, mentionnés à l'article L. 1
 - Identifiant : LEGIARTI000046832637
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046832637
-- Renvoie à : art. L613-7 du Code de la sécurité sociale
+- Renvoie à : [art. L613-7 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-i/chapitre-3.md#article-l613-7)
 
 Les déclarations relatives à l'entreprise et ses établissements, mentionnées au 1° du I de l'article R. 123-1 et devant être déposées par le déclarant auprès de l'organisme unique pour être transmises aux administrations, personnes ou organismes destinataires de ces formalités selon leur compétence, sont :  
 
@@ -342,7 +342,7 @@ L'information relative à la liste des éléments complémentaires est satisfait
 - Identifiant : LEGIARTI000043308270
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043308270
-- Renvoie à : art. L518-1 du Code monétaire et financier
+- Renvoie à : [art. L518-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-1)
 
 I.-Le paiement de frais légaux au bénéfice d'un organisme destinataire ou d'une autorité compétente est réalisé par le déclarant auprès de l'organisme unique mentionné à l'article R. 123-1 selon les moyens suivants :
 
@@ -419,7 +419,7 @@ Sont déclarés dans la demande d'immatriculation d'une caisse d'épargne et de 
 - Identifiant : LEGIARTI000020165281
 - État : en vigueur depuis le 21/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020165281
-- Renvoie à : [art. R123-62 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-62) ; [art. L213-8 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647844)
+- Renvoie à : [art. R123-62 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-62) ; [art. L213-8 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-8)
 - Cité par : [art. A123-17 du Code de commerce](chapitre-iii.md#article-a123-17) ; [art. A123-57 du Code de commerce](chapitre-iii.md#article-a123-57)
 
 Dans leur demande d'immatriculation, les associations mentionnées à l'article L. 213-8 du code monétaire et financier déclarent, en application de l'article R. 123-62 :
@@ -499,7 +499,7 @@ En vertu de la dérogation prévue au deuxième alinéa de l'article R. 123-63, 
 - Identifiant : LEGIARTI000020165269
 - État : en vigueur depuis le 21/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020165269
-- Renvoie à : [art. R123-63 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-63) ; [art. L213-8 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647844)
+- Renvoie à : [art. R123-63 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-63) ; [art. L213-8 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-8)
 
 En vertu de la dérogation prévue au deuxième alinéa de l'article R. 123-63, les associations mentionnées à l'article L. 213-8 du code monétaire et financier et qui sont immatriculées au registre du commerce et des sociétés sont dispensées de demander leur immatriculation secondaire.
 
@@ -517,7 +517,7 @@ En vertu de la dérogation prévue au deuxième alinéa de l'article R. 123-67, 
 - Identifiant : LEGIARTI000020165261
 - État : en vigueur depuis le 21/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020165261
-- Renvoie à : [art. R123-67 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-67) ; [art. L213-8 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647844)
+- Renvoie à : [art. R123-67 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-67) ; [art. L213-8 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-8)
 - Cité par : [art. A123-24 du Code de commerce](chapitre-iii.md#article-a123-24)
 
 En vertu de la dérogation prévue au deuxième alinéa de l'article R. 123-67, les associations mentionnées à l'article L. 213-8 du code monétaire et financier et qui sont immatriculées au registre du commerce et des sociétés sont dispensées de demander leur inscription complémentaire.
@@ -592,7 +592,7 @@ Ce numéro est utilisé dans les rapports entre les greffes et l'Institut nation
 - Identifiant : LEGIARTI000042084875
 - État : en vigueur depuis le 05/07/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042084875
-- Renvoie à : [art. 1367 du Code civil](../../../../code-civil/livre-iii/titre-iv-bis/chapitre-iii.md#article-1367) ; [art. R123-111-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-111-1) ; [art. R123-237 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-237) ; art. L561-46 du Code monétaire et financier
+- Renvoie à : [art. 1367 du Code civil](../../../../code-civil/livre-iii/titre-iv-bis/chapitre-iii.md#article-1367) ; [art. R123-111-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-111-1) ; [art. R123-237 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-237) ; [art. R561-57 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-57) ; art. L561-46 du Code monétaire et financier
 - Cité par : [art. A123-31 du Code de commerce](chapitre-iii.md#article-a123-31) ; [art. A123-32 du Code de commerce](chapitre-iii.md#article-a123-32)
 
 Les fichiers transmis à l'Institut national de la propriété industrielle au titre du I de l'article D. 123-80-1 sont conformes à la norme ISO 19005-1 et au standard d'échange de données pour l'archivage (SEDA).
@@ -1073,7 +1073,7 @@ Toutefois, pour les documents comptables antérieurs à ceux établis au titre d
 - Identifiant : LEGIARTI000032820783
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032820783
-- Renvoie à : [art. Annexe 1-6 du Code de commerce](../annexe-1-6-annexe-a-l-article-a-123-68-1.md#article-annexe-1-6) ; [art. L232-25 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-25) ; [art. R123-154-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-154-1) ; art. L511-1 du Code des assurances ; art. L214-162-1 du Code monétaire et financier ; art. L421-2 du Code monétaire et financier ; art. L441-1 du Code monétaire et financier ; art. L511-1 du Code monétaire et financier ; art. L517-1 du Code monétaire et financier ; art. L518-2 du Code monétaire et financier ; art. L519-1 du Code monétaire et financier ; art. L522-1 du Code monétaire et financier ; art. L526-1 du Code monétaire et financier ; … et 8 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+- Renvoie à : [art. Annexe 1-6 du Code de commerce](../annexe-1-6-annexe-a-l-article-a-123-68-1.md#article-annexe-1-6) ; [art. L232-25 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-25) ; [art. R123-154-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-154-1) ; [art. L310-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l310-1) ; [art. L310-1-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l310-1-1) ; [art. L310-3-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l310-3-1) ; [art. L511-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1) ; [art. L515-2 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-2) ; [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1) ; [art. L330-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iii.md#article-l330-1) ; [art. L421-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-2) ; [art. L422-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ii/chapitre-ii.md#article-l422-1) ; [art. L441-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l441-1) ; [art. L511-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1) ; [art. L511-22 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-22) ; [art. L517-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-vii.md#article-l517-1) ; [art. L518-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-2) ; [art. L519-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ix.md#article-l519-1) ; [art. L522-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ii/chapitre-ii.md#article-l522-1) ; [art. L522-13 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ii/chapitre-ii.md#article-l522-13) ; [art. L526-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-1) ; [art. L531-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-ier.md#article-l531-4) ; [art. L532-18 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-ii.md#article-l532-18) ; [art. L541-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1) ; [art. L543-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-iii.md#article-l543-1) ; [art. L544-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-iv.md#article-l544-4) ; [art. L545-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-v.md#article-l545-1) ; [art. L547-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-vii.md#article-l547-1) ; [art. L548-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-viii.md#article-l548-2) ; art. L544-1 du Code monétaire et financier
 
 I.-Pour l'application du deuxième alinéa de l'article L. 232-25, les catégories de personnes morales qui financent ou investissent, directement ou indirectement, dans les entreprises, ou fournissent des prestations au bénéfice de ces personnes morales sont les suivantes :  
 
@@ -1488,7 +1488,7 @@ Pour les entités énumérées aux 1° à 4° ainsi qu'au 6° de l'article R. 12
 - Identifiant : LEGIARTI000052039365
 - État : en vigueur depuis le 03/08/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052039365
-- Renvoie à : [art. R123-220 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220) ; art. L311-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. R123-220 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220) ; [art. L311-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-1)
 
 Pour les entités énumérées aux 1° et 3° de l'article R. 123-220, lorsque les conditions prévues à l'article A. 123-83-2 ne sont pas remplies, plusieurs établissements peuvent être identifiés à une même adresse lorsque l'un de ces établissements exerce l'une des activités suivantes :
 
@@ -1504,7 +1504,7 @@ Pour les entités énumérées aux 1° et 3° de l'article R. 123-220, lorsque l
 - Identifiant : LEGIARTI000045515278
 - État : en vigueur depuis le 07/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045515278
-- Renvoie à : [art. R123-220 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220)
+- Renvoie à : [art. R123-220 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220) ; [art. 238 ter du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-238-ter) ; [art. 239 quater du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-239-quater) ; [art. 239 quater A du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-239-quater-a) ; [art. 239 quinquies du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-239-quinquies) ; [art. 239 ter du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-239-ter)
 
 Les personnes mentionnées à l'article R. 123-220 susceptibles d'être inscrites immédiatement au répertoire national des entreprises et des établissements sont celles visées par au moins une des dispositions prévues ci-après :
 
@@ -1538,7 +1538,7 @@ Aucun établissement dépendant des forces armées ne peut faire l'objet d'une i
 - Identifiant : LEGIARTI000045515251
 - État : en vigueur depuis le 07/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045515251
-- Renvoie à : [art. R123-220 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220) ; [art. R123-224 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-224) ; [art. R123-232 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-232)
+- Renvoie à : [art. R123-220 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220) ; [art. R123-224 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-224) ; [art. R123-232 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-232) ; [art. L100-3 du Code des relations entre le public et l'administration](../../../../code-des-relations-entre-le-public-et-l-administration/dispositions-preliminaires.md#article-l100-3)
 
 Le traitement informatisé du système national d'identification et du répertoire des entreprises et établissements (SIRENE) régi par les articles R. 123-220 et suivants est mis en œuvre par l'Institut national de la statistique et des études économiques en liaison avec les administrations et organismes mentionnés à l'article R. 123-224.
 
@@ -1583,7 +1583,7 @@ La diffusion des renseignements inscrits dans le répertoire national mentionné
 - Identifiant : LEGIARTI000045515238
 - État : en vigueur depuis le 07/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045515238
-- Renvoie à : [art. R123-224 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-224)
+- Renvoie à : [art. R123-224 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-224) ; [art. L100-3 du Code des relations entre le public et l'administration](../../../../code-des-relations-entre-le-public-et-l-administration/dispositions-preliminaires.md#article-l100-3)
 
 Toute personne physique peut demander soit directement lors de ses formalités de création ou de modification, soit par courriel ou téléprocédure accessibles sur le site insee. fr, que les informations du répertoire la concernant ne puissent être utilisées par des tiers autres que les organismes habilités au titre de l'article R. 123-224 ou les administrations définies au 1° de l'article L. 100-3 du code des relations entre le public et l'administration, à des fins de prospection.
 

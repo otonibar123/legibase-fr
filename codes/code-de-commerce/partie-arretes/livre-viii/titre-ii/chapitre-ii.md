@@ -14,7 +14,7 @@ Code de commerce › Partie Arrêtés › LIVRE VIII : De quelques professions r
 - Identifiant : LEGIARTI000048933158
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048933158
-- Renvoie à : [art. A822-8 du Code de commerce](chapitre-ii.md#article-a822-8) ; [art. L822-3 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-3) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. R822-2 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-r822-2)
+- Renvoie à : [art. A822-8 du Code de commerce](chapitre-ii.md#article-a822-8) ; [art. L822-3 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-3) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. R822-2 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-r822-2) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 - Cité par : [art. A822-2 du Code de commerce](chapitre-ii.md#article-a822-2)
 
 La Haute Autorité habilite les organismes tiers indépendants inscrits sur la liste mentionnée à l'article L. 822-3 à recevoir des stagiaires après s'être assurée qu'ils offrent des garanties suffisantes quant à la formation de ces stagiaires.  
@@ -31,7 +31,7 @@ La Haute Autorité communique une copie des articles A. 822-1 à A. 822-5 au ma�
 - Identifiant : LEGIARTI000048933154
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048933154
-- Renvoie à : [art. A822-1 du Code de commerce](chapitre-ii.md#article-a822-1) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. R822-2 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-r822-2) ; [art. R822-5 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-r822-5)
+- Renvoie à : [art. A822-1 du Code de commerce](chapitre-ii.md#article-a822-1) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. R822-2 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-r822-2) ; [art. R822-5 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-r822-5) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 
 Le stagiaire est tenu de faire connaître à la Haute autorité de l'audit par lettre recommandée avec demande d'avis de réception, quinze jours au moins avant le début de son stage :  
 
@@ -106,7 +106,7 @@ La décision du garde des sceaux, ministre de la justice, est motivée, et doit 
 - Identifiant : LEGIARTI000053638607
 - État : en vigueur depuis le 09/03/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053638607
-- Renvoie à : [art. A821-34 du Code de commerce](chapitre-ier.md#article-a821-34) ; [art. A822-5 du Code de commerce](chapitre-ii.md#article-a822-5) ; [art. D822-4 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-d822-4) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; art. L114 du Code de l'action sociale et des familles ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. A821-34 du Code de commerce](chapitre-ier.md#article-a821-34) ; [art. A822-5 du Code de commerce](chapitre-ii.md#article-a822-5) ; [art. D822-4 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md#article-d822-4) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 - Cité par : [art. A822-1 du Code de commerce](chapitre-ii.md#article-a822-1)
 
 I. - L'épreuve portant sur la mission de certification d'informations en matière de durabilité prévue au 7° de l'article L. 822-4 est organisée chaque année. Les candidats adressent à la Haute autorité de l'audit, entre le 1er avril et le 30 juin, un dossier comprenant :
@@ -134,7 +134,7 @@ L'examen d'aptitude prévu à l'article R. 822-3 a lieu au moins une fois par an
 - Identifiant : LEGIARTI000048933100
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048933100
-- Renvoie à : [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; art. L114 du Code de l'action sociale et des familles ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 
 Les personnes souhaitant bénéficier des dispositions du dernier alinéa de l'article L. 822-4 adressent au garde des sceaux, ministre de la justice, au plus tard le 30 avril, un dossier en double exemplaire comprenant :  
 

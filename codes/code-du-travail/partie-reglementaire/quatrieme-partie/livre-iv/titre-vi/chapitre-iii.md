@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000051676923
 - État : en vigueur depuis le 02/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051676923
-- Cité par : [art. R4535-14 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-14) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [art. R717-78-18 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051677220)
+- Cité par : [art. R4535-14 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-14) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [art. R717-78-18 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-78-18)
 
 Pour l'application du présent chapitre, l'épisode de chaleur intense est défini, dans des conditions déterminées par arrêté des ministres chargés du travail, de l'environnement et de l'agriculture, par référence à un dispositif développé par Météo-France pour signaler le niveau de danger de la chaleur.
 
@@ -32,7 +32,7 @@ Lorsque l'évaluation identifie un risque d'atteinte à la santé ou à la sécu
 - État : en vigueur depuis le 02/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051676931
 - Renvoie à : [art. R4463-2 du Code du travail](chapitre-iii.md#article-r4463-2)
-- Cité par : [art. R4463-7 du Code du travail](chapitre-iii.md#article-r4463-7) ; [art. R4535-14 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-14) ; [art. R717-78-19 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051677222) ; [art. R717-85-10-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051677270) ; [art. R717-85-19-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051677283)
+- Cité par : [art. R4463-7 du Code du travail](chapitre-iii.md#article-r4463-7) ; [art. R4535-14 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-14) ; [art. R717-78-19 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-78-19) ; [art. R717-85-10-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-10-1) ; [art. R717-85-19-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-19-1)
 
 La réduction des risques liés à l'exposition aux épisodes de chaleur intense prévue au second alinéa de l'article R. 4463-2 se fonde, notamment, sur :
 

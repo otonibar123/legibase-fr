@@ -6,7 +6,7 @@ Code de commerce › Partie réglementaire › LIVRE III : De certaines formes d
 - Identifiant : LEGIARTI000022233798
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233798
-- Renvoie à : [art. L310-2 du Code de commerce](../../../partie-legislative/livre-iii/titre-ier.md#article-l310-2) ; [art. R310-19 du Code de commerce](section-5.md#article-r310-19) ; art. L611-4 du Code rural et de la pêche maritime
+- Renvoie à : [art. L310-2 du Code de commerce](../../../partie-legislative/livre-iii/titre-ier.md#article-l310-2) ; [art. R310-19 du Code de commerce](section-5.md#article-r310-19) ; [art. L611-4 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-4)
 - Cité par : [art. R310-9 du Code de commerce](section-2.md#article-r310-9) ; [art. R310-19 du Code de commerce](section-5.md#article-r310-19) ; [Arrêté du 9 janvier 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020122741) ; [Arrêté du 9 janvier 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020122734)
 
 I.-Une déclaration préalable de vente au déballage est adressée par l'organisateur par lettre recommandée avec demande d'avis de réception ou remise contre récépissé au maire de la commune dans laquelle l'opération de vente est prévue, dans les délais suivants :
@@ -25,7 +25,7 @@ III.-Un arrêté du ministre chargé du commerce fixe la liste des informations 
 - Identifiant : LEGIARTI000020096742
 - État : en vigueur depuis le 10/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020096742
-- Renvoie à : [art. L310-2 du Code de commerce](../../../partie-legislative/livre-iii/titre-ier.md#article-l310-2) ; [art. R310-8 du Code de commerce](section-2.md#article-r310-8) ; art. 321-7 du Code pénal
+- Renvoie à : [art. L310-2 du Code de commerce](../../../partie-legislative/livre-iii/titre-ier.md#article-l310-2) ; [art. R310-8 du Code de commerce](section-2.md#article-r310-8) ; [art. 321-7 du Code pénal](../../../../code-penal/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-321-7)
 - Cité par : [Arrêté du 9 janvier 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020122734)
 
 Les ventes au déballage autorisées aux particuliers en application du troisième alinéa du I de l'article L. 310-2 sont contrôlées au moyen du registre mentionné au deuxième alinéa de l'article 321-7 du code pénal.

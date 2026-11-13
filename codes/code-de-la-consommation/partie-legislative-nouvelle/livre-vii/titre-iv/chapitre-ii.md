@@ -34,7 +34,7 @@ A l'occasion des recours exercés devant lui en application des dispositions des
 - Identifiant : LEGIARTI000032224372
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224372
-- Cité par : [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. 1756 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053189011) ; [Livre des procédures fiscales, art. L247 A](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034598192)
+- Cité par : [Livre des procédures fiscales, art. L247 A](../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iii/chapitre-iii.md#article-l247-a) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. 1756 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053189011)
 
 Lorsque le juge est saisi aux fins d'ouverture d'une procédure de rétablissement personnel avec liquidation judiciaire, il convoque le débiteur et les créanciers connus à l'audience. Le juge, après avoir entendu le débiteur s'il se présente et apprécié le caractère irrémédiablement compromis de sa situation ainsi que sa bonne foi, rend un jugement prononçant l'ouverture de la procédure.
 
@@ -121,7 +121,7 @@ Le juge statue sur les éventuelles contestations de créances.
 - Identifiant : LEGIARTI000032224345
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224345
-- Renvoie à : [art. L112-2 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025669)
+- Renvoie à : [art. L112-2 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2)
 - Cité par : [art. R742-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-1)
 
 Le juge prononce la liquidation judiciaire du patrimoine du débiteur, dont sont exclus les biens insaisissables énumérés à l'article L. 112-2 du code des procédures civiles d'exécution ainsi que les biens dont les frais de vente seraient manifestement disproportionnés au regard de leur valeur vénale et les biens non professionnels indispensables à l'exercice de l'activité professionnelle du débiteur.  

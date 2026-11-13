@@ -1,0 +1,123 @@
+# Chapitre II : Hébergement de personnes âgées.
+
+Code de l'action sociale et des familles › Partie législative › Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services › Titre IV : Dispositions spécifiques à certaines catégories d'établissements
+
+### Article L342-1
+- Identifiant : LEGIARTI000049391687
+- État : en vigueur depuis le 01/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049391687
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../titre-ier/chapitre-ii.md#article-l312-1) ; [art. L342-3-1 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-3-1) ; [art. L353-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-v/chapitre-iii.md#article-l353-2)
+- Cité par : [art. D311 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-d311) ; [art. D313-12 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-d313-12) ; [art. D313-22 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-d313-22) ; [art. D314-205 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-d314-205) ; [art. L311-4-1 du Code de l'action sociale et des familles](../titre-ier/chapitre-ier.md#article-l311-4-1) ; [art. L313-12 du Code de l'action sociale et des familles](../titre-ier/chapitre-iii.md#article-l313-12) ; [art. L314-2 du Code de l'action sociale et des familles](../titre-ier/chapitre-iv.md#article-l314-2) ; [art. L314-7 du Code de l'action sociale et des familles](../titre-ier/chapitre-iv.md#article-l314-7) ; [art. L342-2 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-2) ; [art. L342-3 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-3) ; [art. L342-5 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-5) ; [art. R311-0-5 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-r311-0-5) ; [art. R314-102 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-102) ; [art. R314-104 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-104) ; [art. R314-183 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-183) ; [art. R314-189 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-189) ; [art. R314-233 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-233) ; [art. R314-243 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-243) ; [art. R314-244 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-244) ; [art. L511-7 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md#article-l511-7) ; [art. Annexe 1 au III art R353-159 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme.md#article-annexe-1-au-iii-art-r353-159) ; [art. Annexe I à l'article R. 373-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/annexes/convention-type-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme.md#article-annexe-i-à-larticle-r-373-3) ; [art. L633-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-vi/titre-iii/chapitre-iii.md#article-l633-3) ; [art. R147-3 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-7.md#article-r147-3) ; [Arrêté du 18 décembre 2008, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020173942) ; [Arrêté du 19 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039678338) ; [Arrêté du 21 décembre 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036679484) ; [Arrêté du 24 décembre 2010, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023420592) ; [Arrêté du 24 décembre 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053179814) ; [Arrêté du 26 décembre 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028450355) ; [Arrêté du 27 décembre 2016, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049329960) ; [Arrêté du 27 décembre 2016, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049329953) ; [Arrêté du 28 décembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021680000) ; [Arrêté du 4 janvier 2012, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025124795) ; … et 2 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+
+Sont soumis aux dispositions du présent chapitre :
+
+1° Les établissements mentionnés au 6° du I de l'article L. 312-1, lorsqu'ils ne sont ni habilités à recevoir des bénéficiaires de l'aide sociale ni conventionnés au titre de l'aide personnalisée au logement ;
+
+2° Les mêmes établissements, lorsqu'ils n'accueillent pas à titre principal des bénéficiaires de l'aide sociale pour la fraction de leur capacité au titre de laquelle ils ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale ;
+
+3° Les établissements conventionnés au titre de l'aide personnalisée au logement et non habilités à recevoir des bénéficiaires de l'aide sociale, pour ce qui concerne les prestations qui ne sont pas prises en compte dans le calcul de la part de la redevance assimilable au loyer et aux charges locatives récupérables conformément aux conventions mentionnées à l'article L. 353-2 du code de la construction et de l'habitation ;
+
+4° Les établissements d'hébergement pour personnes âgées habilités au titre de l'aide sociale, dans les conditions précisées à l'article L. 342-3-1.
+
+Ces établissements ne peuvent héberger une personne âgée sans qu'au préalable un contrat écrit ait été passé avec cette personne ou son représentant légal. La signature du contrat donne lieu au recueil de l'accord de principe ou du refus de la personne âgée ou de son représentant légal pour le contrôle effectué dans son espace de vie privatif en application de l'article L. 313-13-1 ainsi que pour la collecte, la conservation et le traitement des données personnelles recueillies au cours de sa prise en charge, qui s'effectuent dans le respect des droits mentionnés à l'article L. 311-3, à partir d'un système d'information mentionné à l'article L. 312-9, dans des conditions définies par décret. Sur chacun de ces points, l'accord ou le refus est consigné par écrit dans le contrat et demeure révocable à tout moment. Pour la signature de ce contrat, la personne ou son représentant légal peut se faire accompagner d'une personne de son choix.
+
+> Nota : Conformément au II de l'article 24 de la loi n° 2024-317 du 8 avril 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+### Article L342-2
+- Identifiant : LEGIARTI000041721324
+- État : en vigueur depuis le 01/10/2020
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041721324
+- Renvoie à : [art. 499 du Code civil](../../../../code-civil/livre-ier/titre-xii/chapitre-ier.md#article-499) ; [art. 500 du Code civil](../../../../code-civil/livre-ier/titre-xii/chapitre-ier.md#article-500) ; [art. L313-12 du Code de l'action sociale et des familles](../titre-ier/chapitre-iii.md#article-l313-12) ; [art. L342-1 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-1) ; [art. L342-3 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-3)
+- Cité par : [art. D311 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-d311) ; [art. D312-154-1 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-d312-154-1) ; [art. D342-3 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-d342-3) ; [art. L313-1-1 du Code de l'action sociale et des familles](../titre-ier/chapitre-iii.md#article-l313-1-1) ; [art. L313-12 du Code de l'action sociale et des familles](../titre-ier/chapitre-iii.md#article-l313-12) ; [art. L314-2 du Code de l'action sociale et des familles](../titre-ier/chapitre-iv.md#article-l314-2) ; [art. L342-5 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-5) ; [LOI n°2015-1776 du 28 décembre 2015, art. 97](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031706332) ; [LOI n°2017-1837 du 30 décembre 2017, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041465274)
+
+Le contrat est à durée indéterminée ; il précise les conditions et les modalités de sa résiliation. Il comporte en annexe un document contractuel décrivant l'ensemble des prestations qui sont offertes par l'établissement et indiquant le prix de chacune d'elles, fixé en application des deux premiers alinéas de l'article L. 342-3. Le document est complété en cas de création d'une nouvelle prestation.
+
+Ce document détermine aussi les conditions de facturation de chaque prestation en cas d'absence ou d'hospitalisation du souscripteur.
+
+Pour les établissements relevant du premier alinéa du I de l'article L. 313-12, le contrat prévoit dans tous les cas un ensemble de prestations minimales relatives à l'hébergement, dont la liste est fixée par décret, qui est dit " socle de prestations ".
+
+Le contrat précise les autres prestations dont le souscripteur a déclaré vouloir bénéficier. Un avenant au contrat est établi lorsque, pendant la durée du contrat, le résident demande le bénéfice d'une prestation supplémentaire ou renonce à une prestation.
+
+Lorsque, préalablement à l'entrée dans l'établissement, la personne âgée ou la personne chargée à son égard d'une mesure de protection juridique avec représentation relative à la personne a déclaré vouloir conclure un contrat pour un hébergement d'une durée limitée, inférieure à six mois, le contrat est alors à durée déterminée. Il contient les mêmes éléments que ceux définis aux alinéas précédents. Lorsqu'une personne est hébergée, sur la base d'un contrat à durée déterminée, au-delà d'une période de six mois consécutifs, le contrat est transformé de plein droit en contrat à durée indéterminée et soumis aux dispositions des articles L. 342-1 à L. 342-6.
+
+> Nota : Conformément à l’article 46 de l’ordonnance n° 2020-232 du 11 mars 2020, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat et au plus tard le 1er octobre 2020.
+> 
+> Elle est applicable aux mesures de protection juridique en cours au jour de son entrée en vigueur et aux situations dans lesquelles aucune décision n'a été prise au jour de son entrée en vigueur.
+
+### Article L342-3
+- Identifiant : LEGIARTI000031728161
+- État : en vigueur depuis le 30/12/2015
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031728161
+- Renvoie à : [art. L342-1 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-1) ; [art. L161-23-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-23-1)
+- Cité par : [art. D342-5 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-d342-5) ; [art. L342-2 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-2) ; [art. L342-3-1 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-3-1) ; [art. L342-5 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-5) ; [art. L521-3 du Code de l'action sociale et des familles](../../livre-v/titre-ii/chapitre-ier.md#article-l521-3) ; [art. L531-12 du Code de l'action sociale et des familles](../../livre-v/titre-iii/chapitre-unique.md#article-l531-12) ; [art. L543-4 du Code de l'action sociale et des familles](../../livre-v/titre-iv/chapitre-iii.md#article-l543-4) ; [art. L581-12 du Code de l'action sociale et des familles](../../livre-v/titre-viii/chapitre-ier.md#article-l581-12) ; [Arrêté du 18 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020091648) ; [art. L312-9 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054335981)
+
+Le socle de prestations prévu au troisième alinéa de l'article L. 342-2 fait l'objet d'un prix global. Toute clause prévoyant un prix distinct pour une prestation relevant du socle de prestations est réputée non écrite.  
+
+Le prix du socle de prestations et les prix des autres prestations d'hébergement sont librement fixés lors de la signature du contrat. Ils varient ensuite, dans des conditions fixées par décret, dans la limite d'un pourcentage fixé au 1er janvier de chaque année par arrêté des ministres chargés des personnes âgées et de l'économie, compte tenu de l'évolution des coûts de la construction et des loyers, des produits alimentaires et des services et du taux d'évolution des retraites de base prévu à l'article L. 161-23-1 du code de la sécurité sociale.  
+
+Le conseil de la vie sociale est consulté au moins une fois par an sur le niveau du prix du socle de prestations et sur le prix des autres prestations d'hébergement ainsi qu'à chaque création d'une nouvelle prestation.  
+
+Pour les établissements relevant du 3° de l'article L. 342-1 du présent code, le prix du socle de prestations pris en compte dans le calcul de la part de redevance assimilable au loyer et aux charges locatives récupérables évolue conformément à ce que prévoit la convention conclue au titre de l'aide personnalisée au logement ; seules les autres prestations évoluent en fonction de l'arrêté interministériel mentionné au deuxième alinéa du présent article.
+
+Lorsqu'une des prestations offertes est choisie par un résident postérieurement à la signature du contrat ou à la création de cette prestation, son prix est celui qui figure dans le document contractuel mentionné à l'article L. 342-2, majoré, le cas échéant, dans la limite des pourcentages de variation autorisés depuis la date de signature du contrat ou de la création de la prestation si celle-ci est postérieure.
+
+### Article L342-3-1
+- Identifiant : LEGIARTI000049391885
+- État : en vigueur depuis le 01/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049391885
+- Renvoie à : [art. L121-3 du Code de l'action sociale et des familles](../../livre-ier/titre-ii/chapitre-ier.md#article-l121-3) ; [art. L312-1 du Code de l'action sociale et des familles](../titre-ier/chapitre-ii.md#article-l312-1) ; [art. L313-8-1 du Code de l'action sociale et des familles](../titre-ier/chapitre-iii.md#article-l313-8-1) ; [art. L313-12 du Code de l'action sociale et des familles](../titre-ier/chapitre-iii.md#article-l313-12) ; [art. L314-2 du Code de l'action sociale et des familles](../titre-ier/chapitre-iv.md#article-l314-2) ; [art. L342-3 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-3)
+- Cité par : [art. D342-2 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-d342-2) ; [art. D342-6 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-d342-6) ; [art. D342-7 du Code de l'action sociale et des familles](../../../partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-d342-7) ; [art. L313-12 du Code de l'action sociale et des familles](../titre-ier/chapitre-iii.md#article-l313-12) ; [art. L315-12 du Code de l'action sociale et des familles](../titre-ier/chapitre-v.md#article-l315-12) ; [art. L342-1 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-1) ; [art. L6114-1-2 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-ier/titre-ier/chapitre-iv.md#article-l6114-1-2) ; [Arrêté du 24 décembre 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053179816) ; [Décret n°2024-1270 du 31 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050936632) ; [Décret n°2024-1270 du 31 décembre 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050936645) ; [Décret n°2025-168 du 20 février 2025, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051237673) ; [LOI n°2024-317 du 8 avril 2024, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049386951)
+
+Les établissements d'hébergement pour personnes âgées mentionnés au 6° du I de l'article L. 312-1 habilités totalement ou majoritairement au titre de l'aide sociale peuvent opter, après en avoir informé le conseil départemental, pour les dispositions du présent chapitre.
+
+Dans les établissements optant pour ce régime tarifaire, les tarifs afférents à l'hébergement pouvant être pris en charge par l'aide sociale départementale et opposables aux bénéficiaires de celle-ci ainsi que les prestations garanties auxquelles ils correspondent sont déterminés par le président du conseil départemental dans les conditions prévues au premier alinéa du 3° du I de l'article L. 314-2.
+
+Pour un même niveau de garantie, l'écart entre les tarifs fixés par l'établissement et les tarifs mentionnés au deuxième alinéa du présent article ne peut excéder un taux fixé par décret. Le règlement départemental d'aide sociale mentionné à l'article L. 121-3 peut, pour tous les établissements habilités à l'aide sociale ou pour une partie d'entre eux, fixer cet écart à un taux moins élevé afin de maintenir une offre d'hébergement accessible.
+
+Avant le 31 mars de chaque année, les établissements relevant du présent article transmettent au président du conseil départemental un état des demandes reçues et des admissions prononcées au cours de l'exercice précédent ainsi qu'un état du nombre de bénéficiaires de l'aide sociale accueillis. L'habilitation mentionnée à l'article L. 313-8-1, le contrat pluriannuel mentionné au IV ter de l'article L. 313-12 ou une convention d'aide sociale conclue pour une durée maximale de cinq ans entre le représentant de l'établissement et le président du conseil départemental peuvent fixer à l'établissement des objectifs en matière d'admission de bénéficiaires de l'aide sociale.
+
+En cas de baisse supérieure à un taux fixé par décret de la part des bénéficiaires de l'aide sociale accueillis dans un établissement ayant opté pour le régime tarifaire défini au présent article, le maintien de ce régime tarifaire est conditionné à la conclusion d'une convention d'aide sociale, pour une durée maximale de cinq ans, entre le représentant de l'établissement et le président du conseil départemental fixant des objectifs en matière d'admission de bénéficiaires de l'aide sociale.
+
+Les tarifs afférents à l'hébergement appliqués aux résidents ne bénéficiant pas de l'aide sociale départementale sont revalorisés chaque année dans la limite du pourcentage prévu à l'article L. 342-3, sous réserve que l'écart entre ces tarifs et les tarifs applicables aux personnes bénéficiaires de l'aide sociale départementale n'excède pas l'écart maximal mentionné au troisième alinéa du présent article.
+
+> Nota : Conformément au II de l'article 24 de la loi n° 2024-317 du 8 avril 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+> 
+> Conformément au III de l'article 24 de la loi n° 2024-317 du 8 avril 2024, les tarifs afférents à l'hébergement applicables aux résidents non bénéficiaires de l'aide sociale à l'hébergement en application du présent article dans sa rédaction résultant de la loi précitée ne sont opposables qu'aux résidents dont l'accueil dans l'établissement concerné intervient à compter de la date mentionnée au II dudit article.
+> 
+> Conformément au IV de l'article 24 de la loi n° 2024-317 du 8 avril 2024, les conventions d'aide sociale conclues en application du présent article dans sa rédaction antérieure à la loi précitée prennent fin au plus tard le 1er janvier 2027.
+
+### Article L342-4
+- Identifiant : LEGIARTI000031728154
+- État : en vigueur depuis le 30/12/2015
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031728154
+- Cité par : [art. L342-5 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-5) ; [art. R342-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006907256)
+
+Le président du conseil départemental peut fixer un pourcentage supérieur en cas d'augmentation importante des coûts d'exploitation résultant d'amélioration de prestations existantes ou de la modification des conditions de gestion ou d'exploitation.
+
+L'établissement qui demande le bénéfice de ces dispositions doit adresser au président du conseil départemental, conjointement à sa demande, l'avis rendu par le conseil de la vie sociale.
+
+### Article L342-5
+- Identifiant : LEGIARTI000032235496
+- État : en vigueur depuis le 01/07/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032235496
+- Renvoie à : [art. L450-2 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iv/titre-v.md#article-l450-2) ; [art. L450-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iv/titre-v.md#article-l450-3) ; [art. L342-1 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-1) ; [art. L342-2 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-2) ; [art. L342-3 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-3) ; [art. L342-4 du Code de l'action sociale et des familles](chapitre-ii.md#article-l342-4) ; [art. L511-3 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md#article-l511-3) ; [art. L511-7 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md#article-l511-7) ; [art. L511-21 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md#article-l511-21)
+- Cité par : [art. L511-7 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md#article-l511-7)
+
+Constitue un manquement passible d'une amende administrative dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 € pour une personne morale le fait :
+
+1° D'héberger une personne âgée sans avoir au préalable conclu le contrat écrit conformément à l'article L. 342-1 ;
+
+2° De proposer ou conclure un contrat dont une des stipulations n'est pas conforme à l'article L. 342-2 ;
+
+3° De pratiquer des prix supérieurs à ceux résultant de l'application du pourcentage de variation fixé par les arrêtés prévus aux articles L. 342-3 et L. 342-4.
+
+Ces manquements sont recherchés et constatés par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la consommation, dans les conditions prévues à l'article L. 511-7 du même code. Lorsque le manquement fait l'objet d'une sanction et que toutes les voies de recours ont été épuisées, l'autorité administrative chargée de la concurrence et de la consommation informe le président du conseil départemental de la nature des manquements sanctionnés.
+
+L'amende est prononcée dans les conditions prévues au chapitre II du titre II du livre V du code de la consommation.
+
+### Article L342-6
+- Identifiant : LEGIARTI000006797678
+- État : en vigueur depuis le 06/03/2007
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797678
+
+Les dispositions du présent chapitre s'appliquent sans préjudice de celles qui figurent au chapitre III du titre III du livre VI du code de la construction et de l'habitation.

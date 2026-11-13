@@ -6,7 +6,7 @@ Code de commerce › Partie Arrêtés › LIVRE Ier : Du commerce en général.
 - Identifiant : LEGIARTI000039411280
 - État : en vigueur depuis le 23/11/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039411280
-- Renvoie à : [art. L123-16 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16) ; [art. L123-16-2 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16-2) ; [art. L232-25 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-25) ; [art. L233-16 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-16)
+- Renvoie à : [art. L123-16 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16) ; [art. L123-16-2 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16-2) ; [art. L232-25 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-25) ; [art. L233-16 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-16) ; [art. 441-1 du Code pénal](../../../code-penal/partie-legislative/livre-iv/titre-iv/chapitre-ier.md#article-441-1)
 
 ANNEXE 1-5-2  
 

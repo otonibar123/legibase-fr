@@ -100,7 +100,7 @@ Les dispositions du II de l'article L. 211-2 s'appliquent aux catégories de bie
 - État : en vigueur depuis le 01/07/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045981078
 - Renvoie à : [art. D211-6 du Code de la consommation](chapitre-ier.md#article-d211-6)
-- Cité par : [art. D541-371 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046739211)
+- Cité par : [art. D541-371 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-ier.md#article-d541-371)
 
 Tout document de facturation remis au consommateur, lors de l'achat d'un bien appartenant à l'une des catégories mentionnées à l'article D. 211-6, comporte une mention selon laquelle ce bien bénéficie auprès du vendeur d'une garantie légale de conformité d'une durée minimale de deux ans à compter de sa remise au consommateur.  
 

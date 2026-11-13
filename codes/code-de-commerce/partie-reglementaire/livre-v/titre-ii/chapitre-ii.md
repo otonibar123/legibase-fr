@@ -76,7 +76,7 @@ Le cautionnement imposé par l'arrêté du préfet est fixé à 3,18 par mètre 
 - Identifiant : LEGIARTI000029715975
 - État : en vigueur depuis le 06/11/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029715975
-- Renvoie à : art. L518-1 du Code monétaire et financier
+- Renvoie à : [art. L518-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-1)
 
 Le cautionnement peut être fourni en totalité ou en partie en argent, en rentes, en valeurs admises à la négociation sur un marché réglementé, ou par une première hypothèque sur des immeubles d'une valeur double de la somme garantie. Il peut également être fourni en totalité par l'un des établissements de crédit ou l'une des sociétés de financement habilités à cet effet ou l'une des institutions ou l'un des établissements mentionnés à l'article L. 518-1 du code monétaire et financier.
 

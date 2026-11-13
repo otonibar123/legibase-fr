@@ -8,7 +8,7 @@ Code civil › Livre Ier : Des personnes › Titre VI : Du divorce
 - Identifiant : LEGIARTI000038311015
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311015
-- Cité par : [Accord collectif du 20 octobre 2023, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049518522) ; [art. Annexe Tableau IV-III du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054718931) ; [art. Tableau IV bis du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031793613) ; [Décret n°2022-633 du 22 avril 2022, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045645686) ; [Décret n°2023-605 du 15 juillet 2023, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047840940)
+- Cité par : [art. Annexe Tableau IV-III du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-iii) ; [Accord collectif du 20 octobre 2023, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049518522) ; [art. Tableau IV bis du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031793613) ; [Décret n°2022-633 du 22 avril 2022, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045645686) ; [Décret n°2023-605 du 15 juillet 2023, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047840940)
 
 La séparation de corps peut être prononcée ou constatée dans les mêmes cas et aux mêmes conditions que le divorce.
 

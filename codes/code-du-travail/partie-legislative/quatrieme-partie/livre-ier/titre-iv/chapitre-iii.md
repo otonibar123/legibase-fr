@@ -6,7 +6,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - Identifiant : LEGIARTI000035653083
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653083
-- Renvoie à : [art. L4142-2 du Code du travail](chapitre-ii.md#article-l4142-2) ; [art. L4142-3 du Code du travail](chapitre-ii.md#article-l4142-3) ; art. L515-36 du Code de l'environnement
+- Renvoie à : [art. L515-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8) ; [art. L515-36 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-36) ; [art. L4142-2 du Code du travail](chapitre-ii.md#article-l4142-2) ; [art. L4142-3 du Code du travail](chapitre-ii.md#article-l4142-3) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2) ; art. L211-2 du Code minier
 
 Le comité social et économique est consulté sur les programmes de formation et veille à leur mise en oeuvre effective.
 

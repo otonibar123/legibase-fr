@@ -85,7 +85,7 @@ Tout mariage qui n'a point été contracté publiquement, et qui n'a point été
 - Identifiant : LEGIARTI000006422547
 - État : en vigueur depuis le 01/01/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422547
-- Cité par : [art. 156 du Code civil](chapitre-ier.md#article-156) ; [art. R215 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518202)
+- Cité par : [art. 156 du Code civil](chapitre-ier.md#article-156) ; [art. R215 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-iii.md#article-r215)
 
 Si le mariage n'a point été précédé de la publication requise ou s'il n'a pas été obtenu des dispenses permises par la loi, ou si les intervalles prescrits entre les publications et la célébration n'ont point été observés, le procureur de la République fera prononcer contre l'officier public une amende qui ne pourra excéder 4,5 euros et contre les parties contractantes, ou ceux sous la puissance desquels elles ont agi, une amende proportionnée à leur fortune.
 
@@ -154,7 +154,7 @@ Si l'officier public est décédé lors de la découverte de la fraude, l'action
 - Identifiant : LEGIARTI000006422623
 - État : en vigueur depuis le 01/08/1972
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422623
-- Cité par : [art. R161-19-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045414718)
+- Cité par : [art. L161-23-1 A du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-23-1-a) ; [art. R161-19-3 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-1er.md#article-r161-19-3)
 
 Le mariage qui a été déclaré nul produit, néanmoins, ses effets à l'égard des époux, lorsqu'il a été contracté de bonne foi.  
 

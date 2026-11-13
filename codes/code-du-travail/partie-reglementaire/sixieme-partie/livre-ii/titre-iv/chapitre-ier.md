@@ -107,7 +107,7 @@ Dans le cadre du service dématérialisé mentionné au II de l'article L. 6241-
 - Identifiant : LEGIARTI000047851974
 - État : en vigueur depuis le 17/07/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047851974
-- Renvoie à : [art. R123-221 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-221) ; [art. L6131-2 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-iii/chapitre-unique.md#article-l6131-2) ; [art. L6131-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-iii/chapitre-unique.md#article-l6131-4) ; [art. L723-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585241)
+- Renvoie à : [art. R123-221 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-221) ; [art. L6131-2 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-iii/chapitre-unique.md#article-l6131-2) ; [art. L6131-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-iii/chapitre-unique.md#article-l6131-4) ; [art. L723-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-2)
 
 I.-Les organismes chargés du recouvrement mentionnés au II de l'article L. 6131-4 transmettent à la Caisse des dépôts et consignations les informations relatives aux entreprises redevables de la taxe d'apprentissage suivantes :  
 

@@ -20,7 +20,7 @@ Copie de la requête et des pièces doit être remise au président pour être v
 - Identifiant : LEGIARTI000039623721
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623721
-- Cité par : [art. 1109 du Code de procédure civile](../../../livre-iii/titre-ier/chapitre-v.md#article-1109) ; [art. ANNEXE, art. 34 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-34)
+- Cité par : [art. 1109 du Code de procédure civile](../../../livre-iii/titre-ier/chapitre-v.md#article-1109) ; [art. ANNEXE, art. 34 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-34)
 
 L'assignation indique à peine de nullité les jour et heure fixés par le président auxquels l'affaire sera appelée ainsi que la chambre à laquelle elle est distribuée. Copie de la requête est jointe à l'assignation.  
 
@@ -43,8 +43,8 @@ Le défendeur est tenu de constituer avocat avant la date de l'audience.
 - Identifiant : LEGIARTI000051869353
 - État : en vigueur depuis le 01/09/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051869353
-- Renvoie à : [art. 446-2 du Code de procédure civile](../../../livre-ier/titre-xiv/chapitre-ier.md#article-446-2) ; [art. 446-3 du Code de procédure civile](../../../livre-ier/titre-xiv/chapitre-ier.md#article-446-3) ; art. L212-5-1 du Code de l'organisation judiciaire
-- Cité par : [art. 829 du Code de procédure civile](../sous-titre-iii/chapitre-ier.md#article-829) ; [art. 836 du Code de procédure civile](../sous-titre-iii/chapitre-ii.md#article-836) ; [art. ANNEXE, art. 36 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-36)
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1) ; [art. 446-2 du Code de procédure civile](../../../livre-ier/titre-xiv/chapitre-ier.md#article-446-2) ; [art. 446-3 du Code de procédure civile](../../../livre-ier/titre-xiv/chapitre-ier.md#article-446-3)
+- Cité par : [art. 829 du Code de procédure civile](../sous-titre-iii/chapitre-ier.md#article-829) ; [art. 836 du Code de procédure civile](../sous-titre-iii/chapitre-ii.md#article-836) ; [art. ANNEXE, art. 36 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-36)
 
 Le tribunal est saisi par la remise d'une copie de l'assignation au greffe.  
 

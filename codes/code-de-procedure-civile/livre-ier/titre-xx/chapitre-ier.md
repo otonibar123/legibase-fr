@@ -6,7 +6,7 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - Identifiant : LEGIARTI000006411163
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411163
-- Cité par : [art. R626-3 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046965781) ; [art. R627-3 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046960576)
+- Cité par : [art. R626-3 du Code de justice administrative](../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vi.md#article-r626-3) ; [art. R627-3 du Code de justice administrative](../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vii.md#article-r627-3)
 
 Lorsque l'éloignement des parties ou des personnes qui doivent apporter leur concours à la justice, ou l'éloignement des lieux, rend le déplacement trop difficile ou trop onéreux, le juge peut, à la demande des parties ou d'office, commettre la juridiction de degré égal ou inférieur qui lui paraît la mieux placée sur le territoire de la République, afin de procéder à tous les actes judiciaires qu'il estime nécessaires.
 

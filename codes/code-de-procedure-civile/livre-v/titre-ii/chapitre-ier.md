@@ -160,6 +160,7 @@ La décision interrompt le délai de péremption de l'instance jusqu'à l'issue 
 - Identifiant : LEGIARTI000054559788
 - État : en vigueur depuis le 01/10/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054559788
+- Cité par : [art. R123-24 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-24)
 
 La décision par laquelle le juge désigne un conciliateur de justice ou ordonne une médiation contient :
 

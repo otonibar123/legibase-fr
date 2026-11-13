@@ -15,7 +15,7 @@ Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait,
 - Identifiant : LEGIARTI000028312103
 - État : en vigueur depuis le 08/12/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028312103
-- Renvoie à : [art. L249-1 du Code de commerce](chapitre-ix.md#article-l249-1) ; art. 131-26 du Code pénal
+- Renvoie à : [art. L249-1 du Code de commerce](chapitre-ix.md#article-l249-1) ; [art. 131-26 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26)
 - Cité par : [art. 131-26-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052849849) ; [Décret n°2009-158 du 11 février 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045807083) ; [Loi n° 2002-1062 du 6 août 2002, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006493625) ; [Loi n°77-1468 du 30 décembre 1977, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020148668)
 
 Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros :

@@ -1,0 +1,70 @@
+# Code de la voirie routière
+
+Dernière modification du texte dans LEGI : 21/03/2026. 444 articles en vigueur, répartis dans 48 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **TITRE Ier : Dispositions communes aux voies du domaine public routier.**
+    - [Chapitre Ier : Définition.](partie-legislative/titre-ier/chapitre-ier.md) (1 article)
+    - [Chapitre II : Emprise.](partie-legislative/titre-ier/chapitre-ii.md) (8 articles)
+    - [Chapitre III : Utilisation.](partie-legislative/titre-ier/chapitre-iii.md) (6 articles)
+    - [Chapitre IV : Riveraineté.](partie-legislative/titre-ier/chapitre-iv.md) (8 articles)
+    - [Chapitre V : Travaux.](partie-legislative/titre-ier/chapitre-v.md) (3 articles)
+    - [Chapitre VI : Police de la conservation.](partie-legislative/titre-ier/chapitre-vi.md) (7 articles)
+    - [Chapitre VII : Dispositifs techniques de prévention et de constatation des infractions au code de la route.](partie-legislative/titre-ier/chapitre-vii.md) (1 article)
+    - [Chapitre VIII : Sécurité des ouvrages et des infrastructures](partie-legislative/titre-ier/chapitre-viii.md) (7 articles)
+    - [Chapitre IX : Dispositifs d'information sur le réseau routier.](partie-legislative/titre-ier/chapitre-ix.md) (1 article)
+    - [Chapitre X : Dispositions relatives aux péages](partie-legislative/titre-ier/chapitre-x.md) (14 articles)
+    - [Chapitre XI : Taxes sur l'utilisation par les poids lourds de certaines voies du domaine public routier](partie-legislative/titre-ier/chapitre-xi.md) (13 articles)
+  - **TITRE II : Voirie nationale.**
+    - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.](partie-legislative/titre-ii/chapitre-ier.md) (5 articles)
+    - [Chapitre II : Autoroutes.](partie-legislative/titre-ii/chapitre-ii.md) (36 articles)
+    - [Chapitre III : Routes nationales.](partie-legislative/titre-ii/chapitre-iii.md) (8 articles)
+  - **TITRE III : Voirie départementale.**
+    - [Chapitre unique.](partie-legislative/titre-iii/chapitre-unique.md) (9 articles)
+  - **TITRE IV : Voirie communale.**
+    - [Chapitre unique.](partie-legislative/titre-iv/chapitre-unique.md) (13 articles)
+  - **TITRE V : Voies à statuts particuliers.**
+    - [Chapitre Ier : Routes express.](partie-legislative/titre-v/chapitre-ier.md) (5 articles)
+    - [Chapitre II : Déviations.](partie-legislative/titre-v/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Ouvrages d'art.](partie-legislative/titre-v/chapitre-iii.md) (8 articles)
+    - [Chapitre IV : Véloroutes](partie-legislative/titre-v/chapitre-iv.md) (1 article)
+  - **TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.**
+    - [Chapitre Ier : Chemins ruraux.](partie-legislative/titre-vi/chapitre-ier.md) (2 articles)
+    - [Chapitre II : Voies privées.](partie-legislative/titre-vi/chapitre-ii.md) (6 articles)
+  - **TITRE VII : Dispositions particulières.**
+    - [Chapitre Ier : Dispositions applicables à la ville de Paris.](partie-legislative/titre-vii/chapitre-ier.md) (21 articles)
+    - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte](partie-legislative/titre-vii/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Dispositions diverses.](partie-legislative/titre-vii/chapitre-iii.md) (3 articles)
+- **Partie réglementaire**
+  - **TITRE Ier : Dispositions communes aux voies du domaine public routier.**
+    - [Chapitre Ier : Equipements routiers et enquêtes de circulation.](partie-reglementaire/titre-ier/chapitre-ier.md) (8 articles)
+    - [Chapitre II : Emprise.](partie-reglementaire/titre-ier/chapitre-ii.md) (3 articles)
+    - [Chapitre III : Utilisation.](partie-reglementaire/titre-ier/chapitre-iii.md) (11 articles)
+    - [Chapitre IV : Riveraineté.](partie-reglementaire/titre-ier/chapitre-iv.md) (2 articles)
+    - [Chapitre V : Travaux](partie-reglementaire/titre-ier/chapitre-v.md) (4 articles)
+    - [Chapitre VI : Police de la conservation.](partie-reglementaire/titre-ier/chapitre-vi.md) (2 articles)
+    - [Chapitre VIII : Sécurité des ouvrages et des infrastructures.](partie-reglementaire/titre-ier/chapitre-viii.md) (28 articles)
+    - [Chapitre IX : Equipements routiers.](partie-reglementaire/titre-ier/chapitre-ix.md) (13 articles)
+    - [Chapitre X : Dispositions relatives au péage](partie-reglementaire/titre-ier/chapitre-x.md) (54 articles)
+  - **TITRE II : Voirie nationale.**
+    - [Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.](partie-reglementaire/titre-ii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Autoroutes.](partie-reglementaire/titre-ii/chapitre-ii.md) (59 articles)
+    - [Chapitre III : Routes nationales.](partie-reglementaire/titre-ii/chapitre-iii.md) (5 articles)
+  - **TITRE III : Voirie départementale.**
+    - [Chapitre unique.](partie-reglementaire/titre-iii/chapitre-unique.md) (11 articles)
+  - **TITRE IV : Voirie communale.**
+    - [Chapitre unique](partie-reglementaire/titre-iv/chapitre-unique.md) (26 articles)
+  - **TITRE V : Voies à statuts particuliers.**
+    - [Chapitre Ier : Routes express.](partie-reglementaire/titre-v/chapitre-ier.md) (7 articles)
+    - [Chapitre II : Déviations.](partie-reglementaire/titre-v/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Ouvrages d'art.](partie-reglementaire/titre-v/chapitre-iii.md) (2 articles)
+  - **TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.**
+    - [Chapitre Ier : Chemins ruraux.](partie-reglementaire/titre-vi/chapitre-ier.md) (2 articles)
+    - [Chapitre II : Voies privées.](partie-reglementaire/titre-vi/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Dispositions communes.](partie-reglementaire/titre-vi/chapitre-iii.md) (1 article)
+  - **TITRE VII : Dispositions particulières.**
+    - [Chapitre Ier : Dispositions applicables à la ville de Paris.](partie-reglementaire/titre-vii/chapitre-ier.md) (8 articles)
+    - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte](partie-reglementaire/titre-vii/chapitre-ii.md) (1 article)
+    - [Chapitre III : Dispositions diverses.](partie-reglementaire/titre-vii/chapitre-iii.md) (2 articles)

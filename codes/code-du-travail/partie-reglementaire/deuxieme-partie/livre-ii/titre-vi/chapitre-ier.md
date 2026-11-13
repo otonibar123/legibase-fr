@@ -17,7 +17,7 @@ Pour l'application des 4°,9° et 10° de l'article L. 2261-22, la convention co
 - Identifiant : LEGIARTI000018535631
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018535631
-- Renvoie à : [art. L911-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745464)
+- Renvoie à : [art. L911-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-2)
 
 La convention de branche susceptible d'extension peut contenir, sans que cette énumération soit limitative, des stipulations concernant :
 
@@ -49,7 +49,7 @@ e) Travail des jours fériés ;
 - Identifiant : LEGIARTI000033311776
 - État : en vigueur depuis le 28/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033311776
-- Renvoie à : [art. L2261-19 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l2261-19) ; art. L243-6-3 du Code de la sécurité sociale ; art. R243-43-2 du Code de la sécurité sociale
+- Renvoie à : [art. L243-6-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-3.md#article-l243-6-3) ; [art. R243-43-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-43-2) ; [art. L2261-19 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l2261-19)
 - Cité par : [Décret n°2020-441 du 17 avril 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042212647)
 
 Lorsqu'un arrêté d'extension ou d'élargissement est envisagé, il est précédé de la publication au Journal officiel de la République française d'un avis. Cet avis invite les organisations et personnes intéressées à faire connaître leurs observations. Il indique le lieu où la convention ou l'accord a été déposé et le service auprès duquel les observations sont présentées.

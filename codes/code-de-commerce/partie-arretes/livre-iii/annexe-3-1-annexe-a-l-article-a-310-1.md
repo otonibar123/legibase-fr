@@ -6,7 +6,7 @@ Code de commerce › Partie Arrêtés › LIVRE III : De certaines formes de ven
 - Identifiant : LEGIARTI000020164614
 - État : en vigueur depuis le 21/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020164614
-- Renvoie à : [art. A310-1 du Code de commerce](titre-ier/section-1.md#article-a310-1) ; [art. R310-2 du Code de commerce](../../partie-reglementaire/livre-iii/titre-ier/section-1.md#article-r310-2) ; [art. R321-33 du Code de commerce](../../partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-33) ; [art. L310-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006231279) ; [art. R310-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006265658) ; [art. 441-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418752)
+- Renvoie à : [art. A310-1 du Code de commerce](titre-ier/section-1.md#article-a310-1) ; [art. R310-2 du Code de commerce](../../partie-reglementaire/livre-iii/titre-ier/section-1.md#article-r310-2) ; [art. R321-33 du Code de commerce](../../partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-33) ; [art. 441-1 du Code pénal](../../../code-penal/partie-legislative/livre-iv/titre-iv/chapitre-ier.md#article-441-1) ; [art. L310-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006231279) ; [art. R310-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006265658)
 
 MODÈLE DE DÉCLARATION PRÉALABLE À UNE VENTE EN LIQUIDATION
 

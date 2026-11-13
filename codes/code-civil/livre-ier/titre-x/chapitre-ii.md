@@ -8,7 +8,7 @@ Code civil › Livre Ier : Des personnes › Titre X : De la minorité, de la tu
 - Identifiant : LEGIARTI000031345425
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345425
-- Cité par : [art. 373-5 du Code civil](../titre-ix/chapitre-ier.md#article-373-5) ; [art. 1217 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1217) ; [art. L122-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796529) ; [Loi n°64-1230 du 14 décembre 1964, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283759)
+- Cité par : [art. 373-5 du Code civil](../titre-ix/chapitre-ier.md#article-373-5) ; [art. L122-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ii/chapitre-ii.md#article-l122-2) ; [art. 1217 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1217) ; [Loi n°64-1230 du 14 décembre 1964, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283759)
 
 La tutelle s'ouvre lorsque le père et la mère sont tous deux décédés ou se trouvent privés de l'exercice de l'autorité parentale.
 
@@ -47,7 +47,7 @@ Si un enfant vient à être reconnu par l'un de ses deux parents après l'ouvert
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345428
 - Renvoie à : [art. 392 du Code civil](chapitre-ii.md#article-392)
-- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-11)
+- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-11)
 
 Sans préjudice des dispositions de l'article 392, la tutelle prend fin à l'émancipation du mineur ou à sa majorité. Elle prend également fin en cas de jugement de mainlevée passé en force de chose jugée ou en cas de décès de l'intéressé.
 
@@ -59,7 +59,7 @@ Sans préjudice des dispositions de l'article 392, la tutelle prend fin à l'ém
 - Identifiant : LEGIARTI000031345380
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345380
-- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-11)
+- Cité par : [art. ANNEXE, art. 11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-11)
 
 La tutelle, protection due à l'enfant, est une charge publique. Elle est un devoir des familles et de la collectivité publique.
 
@@ -67,8 +67,8 @@ La tutelle, protection due à l'enfant, est une charge publique. Elle est un dev
 - Identifiant : LEGIARTI000031345374
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345374
-- Renvoie à : art. 131-26 du Code pénal
-- Cité par : [art. 384 du Code civil](../titre-ix/chapitre-ii.md#article-384) ; [art. 445 du Code civil](../titre-xi/chapitre-ii.md#article-445) ; [art. 480 du Code civil](../titre-xi/chapitre-ii.md#article-480) ; [Nouveau code de procédure civile, art. 1230](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412259)
+- Renvoie à : [art. 131-26 du Code pénal](../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26)
+- Cité par : [art. 384 du Code civil](../titre-ix/chapitre-ii.md#article-384) ; [art. 445 du Code civil](../titre-xi/chapitre-ii.md#article-445) ; [art. 480 du Code civil](../titre-xi/chapitre-ii.md#article-480) ; [art. 1230 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1230)
 
 Ne peuvent exercer les différentes charges de la tutelle :  
 
@@ -84,7 +84,7 @@ Ne peuvent exercer les différentes charges de la tutelle :
 - Identifiant : LEGIARTI000031345371
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345371
-- Cité par : [art. 1234-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1234-2) ; [art. 1234-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1234-4) ; [art. L422-2 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045293372)
+- Cité par : [art. 1234-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1234-2) ; [art. 1234-4 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1234-4) ; [art. L422-2 du Code des pensions militaires d'invalidité et des victimes de la guerre](../../../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ii.md#article-l422-2)
 
 Toute charge tutélaire peut être retirée en raison de l'inaptitude, de la négligence, de l'inconduite ou de la fraude de celui à qui elle a été confiée. Il en est de même lorsqu'un litige ou une contradiction d'intérêts empêche le titulaire de la charge de l'exercer dans l'intérêt du mineur.  
 
@@ -118,7 +118,7 @@ Même en présence d'un tuteur testamentaire et sauf vacance, la tutelle est org
 - Identifiant : LEGIARTI000031345397
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345397
-- Cité par : [art. 456 du Code civil](../titre-xi/chapitre-ii.md#article-456) ; [art. L422-2 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045293372)
+- Cité par : [art. 456 du Code civil](../titre-xi/chapitre-ii.md#article-456) ; [art. L422-2 du Code des pensions militaires d'invalidité et des victimes de la guerre](../../../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ii.md#article-l422-2)
 
 Le juge des tutelles désigne les membres du conseil de famille pour la durée de la tutelle.  
 
@@ -178,7 +178,7 @@ Les actes accomplis en vertu d'une délibération annulée sont annulables de la
 - Identifiant : LEGIARTI000031345368
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345368
-- Cité par : [art. L351-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053280393)
+- Cité par : [art. L351-4 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-4)
 
 Le droit individuel de choisir un tuteur, qu'il soit ou non parent du mineur, n'appartient qu'au dernier vivant des père et mère s'il a conservé, au jour de son décès, l'exercice de l'autorité parentale.  
 
@@ -276,7 +276,7 @@ Il ne remplace pas de plein droit le tuteur en cas de cessation des fonctions de
 - Identifiant : LEGIARTI000045205231
 - État : en vigueur depuis le 23/02/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045205231
-- Cité par : [art. L222-5 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049050913) ; [Décret du 26 mars 1910, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039347977)
+- Cité par : [art. L222-5 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l222-5) ; [Décret du 26 mars 1910, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039347977)
 
 La tutelle est déclarée vacante s'il est impossible de mettre en place une tutelle avec un conseil de famille ou d'admettre l'enfant à la qualité de pupille de l'Etat. Dans ce cas, le juge des tutelles la défère à la collectivité publique compétente en matière d'aide sociale à l'enfance. La tutelle ne comporte alors ni conseil de famille ni subrogé tuteur.  
 
@@ -304,7 +304,7 @@ Le juge peut prononcer contre eux des injonctions et condamner à l'amende civil
 - Identifiant : LEGIARTI000039368090
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039368090
-- Cité par : [art. 386 du Code civil](../titre-ix/chapitre-ii.md#article-386) ; [Décret du 26 mars 1910, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039347977) ; [Nouveau code de procédure civile, art. 1230](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412259) ; [Ordonnance n°2012-1222 du 2 novembre 2012, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039119951)
+- Cité par : [art. 386 du Code civil](../titre-ix/chapitre-ii.md#article-386) ; [art. 1230 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1230) ; [Décret du 26 mars 1910, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039347977) ; [Ordonnance n°2012-1222 du 2 novembre 2012, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039119951)
 
 Tous les organes de la tutelle sont responsables du dommage résultant d'une faute quelconque qu'ils commettent dans l'exercice de leur fonction.
 
@@ -316,6 +316,6 @@ Lorsque la faute à l'origine du dommage a été commise dans l'organisation et 
 - Identifiant : LEGIARTI000031345348
 - État : en vigueur depuis le 17/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031345348
-- Cité par : [Nouveau code de procédure civile, art. 1222](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412244) ; [Nouveau code de procédure civile, art. 1230](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412259)
+- Cité par : [art. 1222 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1222) ; [art. 1230 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1230)
 
 L'action en responsabilité se prescrit par cinq ans à compter de la majorité de l'intéressé, alors même que la gestion aurait continué au-delà, ou de la fin de la mesure si elle cesse avant.

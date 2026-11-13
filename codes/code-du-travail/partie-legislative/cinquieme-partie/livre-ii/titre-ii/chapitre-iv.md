@@ -6,8 +6,8 @@ Code du travail › Partie législative › Cinquième partie : L'emploi › Liv
 - Identifiant : LEGIARTI000006903754
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903754
-- Renvoie à : [art. L5221-4 du Code du travail](chapitre-ier.md#article-l5221-4) ; [art. 131-35 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417308)
-- Cité par : [art. R3113-26 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046177074) ; [art. R3211-27 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046177288)
+- Renvoie à : [art. L5221-4 du Code du travail](chapitre-ier.md#article-l5221-4) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
+- Cité par : [art. R3113-26 du Code des transports](../../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-r3113-26) ; [art. R3211-27 du Code des transports](../../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-27)
 
 Le fait de méconnaître les dispositions de l'article L. 5221-4 est puni d'une amende de 3 000 Euros.  
 
@@ -21,8 +21,8 @@ La juridiction peut également prononcer à titre de peines complémentaires :
 - Identifiant : LEGIARTI000006903755
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903755
-- Renvoie à : [art. L5222-1 du Code du travail](chapitre-ii.md#article-l5222-1) ; [art. 131-26 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417290) ; art. 131-27 du Code pénal ; art. 131-35 du Code pénal
-- Cité par : [art. L5224-3 du Code du travail](chapitre-iv.md#article-l5224-3) ; [art. L752-3-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054466922) ; [art. L752-3-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053280421)
+- Renvoie à : [art. L5222-1 du Code du travail](chapitre-ii.md#article-l5222-1) ; [art. 131-26 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26) ; [art. 131-27 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
+- Cité par : [art. L752-3-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-vii/titre-v/chapitre-2.md#article-l752-3-3) ; [art. L5224-3 du Code du travail](chapitre-iv.md#article-l5224-3) ; [art. L752-3-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054466922)
 
 Le fait de méconnaître les dispositions de l'article L. 5222-1 est puni d'un emprisonnement de trois ans et d'une amende de 45 000 euros.  
 
@@ -44,7 +44,7 @@ La juridiction peut également prononcer à titre de peines complémentaires :
 - Identifiant : LEGIARTI000006903756
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903756
-- Renvoie à : [art. L5224-2 du Code du travail](chapitre-iv.md#article-l5224-2) ; [art. 131-30 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417294)
+- Renvoie à : [art. L5224-2 du Code du travail](chapitre-iv.md#article-l5224-2) ; [art. 131-30 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-30)
 
 L'interdiction du territoire français peut être prononcée, dans les conditions prévues par les articles 131-30 à 131-30-2 du code pénal, pour une durée de dix ans au plus ou à titre définitif à l'encontre de tout étranger coupable des infractions définies à l'article L. 5224-2.
 
@@ -52,7 +52,7 @@ L'interdiction du territoire français peut être prononcée, dans les condition
 - Identifiant : LEGIARTI000006903757
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903757
-- Renvoie à : [art. L5222-2 du Code du travail](chapitre-ii.md#article-l5222-2) ; art. 131-35 du Code pénal
+- Renvoie à : [art. L5222-2 du Code du travail](chapitre-ii.md#article-l5222-2) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 Le fait de méconnaître les dispositions de l'article L. 5222-2 est puni d'un emprisonnement de deux ans et d'une amende de 3 000 euros.  
 

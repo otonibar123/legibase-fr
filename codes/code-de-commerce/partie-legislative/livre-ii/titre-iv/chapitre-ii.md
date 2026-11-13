@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - Identifiant : LEGIARTI000039260301
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260301
-- Renvoie à : [art. L411-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006652322) ; [art. L411-2-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039249830)
+- Renvoie à : [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1)
 - Cité par : [art. L242-30 du Code de commerce](chapitre-ii.md#article-l242-30) ; [art. L243-1 du Code de commerce](chapitre-iii.md#article-l243-1) ; [art. L244-1 du Code de commerce](chapitre-iv.md#article-l244-1) ; [art. L244-5 du Code de commerce](chapitre-iv-bis.md#article-l244-5) ; [art. L246-2 du Code de commerce](chapitre-vi.md#article-l246-2)
 
 Est puni de 150 000 € d'amende le fait, pour les fondateurs, le président, les administrateurs ou les directeurs généraux d'une société anonyme, d'émettre ou négocier des actions ou des coupures d'actions sans que les actions de numéraire aient été libérées à la souscription de la moitié au moins ou sans que les actions d'apport aient été intégralement libérées avant l'immatriculation de la société au registre du commerce et des sociétés.
@@ -19,7 +19,7 @@ La peine prévue au présent article peut être portée au double lorsque les ac
 - Identifiant : LEGIARTI000006230348
 - État : en vigueur depuis le 01/01/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230348
-- Cité par : [art. L242-21 du Code de commerce](chapitre-ii.md#article-l242-21) ; [art. L931-27 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745651) ; [art. L328-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018997711)
+- Cité par : [art. L242-21 du Code de commerce](chapitre-ii.md#article-l242-21) ; [art. L931-27 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-1.md#article-l931-27) ; [art. L328-3 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-viii.md#article-l328-3)
 
 Est puni d'un emprisonnement de cinq ans et d'une amende de 9000 euros le fait, pour toute personne :  
 
@@ -47,8 +47,8 @@ Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait d
 - Identifiant : LEGIARTI000028312097
 - État : en vigueur depuis le 08/12/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028312097
-- Renvoie à : [art. L249-1 du Code de commerce](chapitre-ix.md#article-l249-1) ; art. 131-26 du Code pénal
-- Cité par : [art. L241-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006824663) ; [art. L931-27 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745651) ; [art. L328-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018997711) ; [art. 131-26-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052849849) ; [Loi n° 2002-1062 du 6 août 2002, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006493625) ; [Loi n°77-1468 du 30 décembre 1977, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006491023)
+- Renvoie à : [art. L249-1 du Code de commerce](chapitre-ix.md#article-l249-1) ; [art. 131-26 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26)
+- Cité par : [art. L241-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-iv/chapitre-ier.md#article-l241-3) ; [art. L931-27 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-1.md#article-l931-27) ; [art. L328-3 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-viii.md#article-l328-3) ; [art. 131-26-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052849849) ; [Loi n° 2002-1062 du 6 août 2002, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006493625) ; [Loi n°77-1468 du 30 décembre 1977, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006491023)
 
 Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros le fait pour :
 
@@ -68,7 +68,7 @@ L'infraction définie au 3° est punie de sept ans d'emprisonnement et de 500 00
 - Identifiant : LEGIARTI000006230389
 - État : en vigueur depuis le 01/01/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230389
-- Cité par : [art. L244-1 du Code de commerce](chapitre-iv.md#article-l244-1) ; [art. L612-1 du Code de commerce](../../livre-vi/titre-ier/chapitre-ii.md#article-l612-1) ; [art. L612-4 du Code de commerce](../../livre-vi/titre-ier/chapitre-ii.md#article-l612-4) ; [art. L712-6 du Code de commerce](../../livre-vii/titre-ier/chapitre-ii.md#article-l712-6) ; [art. L312-5 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047362510) ; [art. L931-27 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745651) ; [art. L328-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018997711) ; [LOI n° 2008-776 du 4 août 2008, art. 140](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054334469) ; [LOI n° 2019-486 du 22 mai 2019, art. 177](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038497798) ; [Loi n° 87-571 du 23 juillet 1987, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048539796) ; [Loi n° 87-571 du 23 juillet 1987, art. 19-9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048539791) ; [Loi n°94-1 du 3 janvier 1994, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006314556)
+- Cité par : [art. L244-1 du Code de commerce](chapitre-iv.md#article-l244-1) ; [art. L612-1 du Code de commerce](../../livre-vi/titre-ier/chapitre-ii.md#article-l612-1) ; [art. L612-4 du Code de commerce](../../livre-vi/titre-ier/chapitre-ii.md#article-l612-4) ; [art. L712-6 du Code de commerce](../../livre-vii/titre-ier/chapitre-ii.md#article-l712-6) ; [art. L312-5 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-5) ; [art. L931-27 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-1.md#article-l931-27) ; [art. L328-3 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-viii.md#article-l328-3) ; [LOI n° 2008-776 du 4 août 2008, art. 140](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054334469) ; [LOI n° 2019-486 du 22 mai 2019, art. 177](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038497798) ; [Loi n° 87-571 du 23 juillet 1987, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048539796) ; [Loi n° 87-571 du 23 juillet 1987, art. 19-9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048539791) ; [Loi n°94-1 du 3 janvier 1994, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006314556)
 
 Est puni d'une amende de 9000 euros le fait, pour le président, les administrateurs ou les directeurs généraux d'une société anonyme, de ne pas, pour chaque exercice, dresser l'inventaire et établir des comptes annuels et un rapport de gestion.
 
@@ -91,7 +91,7 @@ Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros :
 - Identifiant : LEGIARTI000054141267
 - État : en vigueur depuis le 28/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054141267
-- Cité par : [art. L322-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039261631) ; [art. L322-26-8 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030461899) ; [art. L213-17 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647997)
+- Cité par : [art. L322-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-2-1) ; [art. L322-26-8 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-26-8) ; [art. L213-17 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-17)
 
 Est puni d'une amende de 9 000 euros le fait, pour le président ou les administrateurs d'une société anonyme, de ne pas soumettre à l'approbation de l'assemblée générale ordinaire les comptes annuels et le rapport de gestion prévus à l'article L. 232-1.
 
@@ -103,8 +103,8 @@ Est puni d'une amende de 9 000 euros le fait, pour le président ou les administ
 - Identifiant : LEGIARTI000039260295
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260295
-- Renvoie à : [art. L225-145 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-145) ; [art. L232-18 du Code de commerce](../titre-iii/chapitre-ii.md#article-l232-18) ; art. L411-2 du Code monétaire et financier ; [art. L411-2-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039249830)
-- Cité par : [art. L244-1 du Code de commerce](chapitre-iv.md#article-l244-1) ; [art. L241-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006824663)
+- Renvoie à : [art. L225-145 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-145) ; [art. L232-18 du Code de commerce](../titre-iii/chapitre-ii.md#article-l232-18) ; [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1)
+- Cité par : [art. L244-1 du Code de commerce](chapitre-iv.md#article-l244-1) ; [art. L241-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-iv/chapitre-ier.md#article-l241-3)
 
 Est puni de 150 000 € d'amende le fait, pour le président, les administrateurs ou les directeurs généraux d'une société anonyme, d'émettre des actions ou des coupures d'actions sans que le capital antérieurement souscrit de la société ait été intégralement libéré ou sans que les nouvelles actions d'apport aient été intégralement libérées avant l'inscription modificative au registre du commerce et des sociétés ou encore sans que les actions de numéraire nouvelles aient été libérées, lors de la souscription, du quart au moins de leur valeur nominale et, le cas échéant, de la totalité de la prime d'émission.
 
@@ -157,7 +157,7 @@ Est passible de la même peine le fait, pour le président, les administrateurs 
 - État : en vigueur depuis le 24/03/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559664
 - Renvoie à : [art. L225-57 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-57) ; [art. L242-1 du Code de commerce](chapitre-ii.md#article-l242-1) ; [art. L246-2 du Code de commerce](chapitre-vi.md#article-l246-2)
-- Cité par : [art. L322-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039261631) ; [art. L322-26-8 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030461899) ; [Loi n° 2002-1062 du 6 août 2002, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006493625)
+- Cité par : [art. L322-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-2-1) ; [art. L322-26-8 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-26-8) ; [Loi n° 2002-1062 du 6 août 2002, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006493625)
 
 Les peines prévues par les articles L. 242-1 à L. 242-24 pour les présidents, les directeurs généraux et les administrateurs des sociétés anonymes sont applicables, selon leurs attributions respectives, aux membres du directoire et aux membres du conseil de surveillance des sociétés anonymes régies par les dispositions des articles L. 225-57 à L. 225-93.
 

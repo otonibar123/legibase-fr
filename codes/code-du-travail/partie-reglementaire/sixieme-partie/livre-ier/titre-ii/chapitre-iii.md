@@ -10,7 +10,7 @@ Code du travail › Partie réglementaire › Sixième partie : La formation pro
 - Identifiant : LEGIARTI000053789547
 - État : en vigueur depuis le 11/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053789547
-- Cité par : [art. R6123-1-1 du Code du travail](chapitre-iii.md#article-r6123-1-1) ; [Arrêté du 1er octobre 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054963656) ; [art. D237-9 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038060318)
+- Cité par : [art. D237-9 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md#article-d237-9) ; [art. R6123-1-1 du Code du travail](chapitre-iii.md#article-r6123-1-1) ; [Arrêté du 1er octobre 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054963656)
 
 Le Conseil national de l'orientation et de la formation professionnelles pour le développement des compétences comprend :  
 
@@ -38,7 +38,7 @@ Le conseil peut associer à titre consultatif, en tant que de besoin, à ses tra
 - Identifiant : LEGIARTI000053789542
 - État : en vigueur depuis le 11/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053789542
-- Renvoie à : [art. L6332-1-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-1-1) ; [art. R6123-1 du Code du travail](chapitre-iii.md#article-r6123-1)
+- Renvoie à : [art. L214-13 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iv.md#article-l214-13) ; [art. L6332-1-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-1-1) ; [art. R6123-1 du Code du travail](chapitre-iii.md#article-r6123-1)
 - Cité par : [art. R6123-1-4 du Code du travail](chapitre-iii.md#article-r6123-1-4) ; [Arrêté du 1er octobre 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054963656)
 
 Les membres du Conseil national mentionnés aux 2° à 4° de l'article R. 6123-1 sont désignés pour une durée de quatre ans renouvelable.  
@@ -180,7 +180,7 @@ II. - Une convention annuelle d'objectifs et de moyens conclue entre le ministre
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049754296
 - Renvoie à : [art. L6123-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l6123-1)
-- Cité par : [art. D6123-2 du Code du travail](chapitre-iii.md#article-d6123-2) ; [art. R6123-3-17 du Code du travail](chapitre-iii.md#article-r6123-3-17) ; [art. R6523-17 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-17) ; [art. R6523-18 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-18) ; [art. R6523-24 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-24) ; [art. R6523-26-3 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-26-3) ; [art. R237-10 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045008899)
+- Cité par : [art. R237-10 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md#article-r237-10) ; [art. D6123-2 du Code du travail](chapitre-iii.md#article-d6123-2) ; [art. R6123-3-17 du Code du travail](chapitre-iii.md#article-r6123-3-17) ; [art. R6523-17 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-17) ; [art. R6523-18 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-18) ; [art. R6523-24 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-24) ; [art. R6523-26-3 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-26-3)
 
 I.-Le comité régional de l'emploi, de la formation et de l'orientation professionnelles est chargé des fonctions de diagnostic, d'étude, de suivi et d'évaluation des politiques nécessaires pour assurer la coordination entre les acteurs des politiques d'orientation, de formation professionnelle et d'emploi et la cohérence des programmes de formation dans la région.
 
@@ -219,7 +219,7 @@ Chaque année, le comité régional de l'emploi, de la formation et de l'orienta
 - Identifiant : LEGIARTI000049754288
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049754288
-- Renvoie à : [art. L5211-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l5211-3) ; [art. L6111-3 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l6111-3) ; [art. L6111-5 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l6111-5) ; [art. L6121-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l6121-4)
+- Renvoie à : [art. L214-13-1 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iv.md#article-l214-13-1) ; [art. L5211-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l5211-3) ; [art. L6111-3 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l6111-3) ; [art. L6111-5 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l6111-5) ; [art. L6121-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l6121-4)
 - Cité par : [art. R6123-3-11 du Code du travail](chapitre-iii.md#article-r6123-3-11) ; [art. R6523-26-2 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-26-2)
 
 Le comité régional de l'emploi, de la formation et de l'orientation professionnelles émet, avant leur adoption ou leur conclusion, un avis sur :
@@ -248,7 +248,7 @@ Les avis sont rendus publics par le comité.
 - Identifiant : LEGIARTI000049754280
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049754280
-- Renvoie à : [art. L6111-6 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l6111-6) ; [art. L6123-3 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l6123-3) ; [art. R2272-9 du Code du travail](../../../deuxieme-partie/livre-ii/titre-vii/chapitre-ii.md#article-r2272-9)
+- Renvoie à : [art. L718-2 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-viii-bis.md#article-l718-2) ; [art. L718-3 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-viii-bis.md#article-l718-3) ; [art. L6111-6 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l6111-6) ; [art. L6123-3 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l6123-3) ; [art. R2272-9 du Code du travail](../../../deuxieme-partie/livre-ii/titre-vii/chapitre-ii.md#article-r2272-9)
 - Cité par : [art. R5311-19 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ier/chapitre-ier-bis.md#article-r5311-19) ; [art. R6123-3-6 du Code du travail](chapitre-iii.md#article-r6123-3-6) ; [art. R6123-3-7 du Code du travail](chapitre-iii.md#article-r6123-3-7) ; [art. R6123-3-8 du Code du travail](chapitre-iii.md#article-r6123-3-8) ; [art. R6123-3-10 du Code du travail](chapitre-iii.md#article-r6123-3-10) ; [art. R6523-16 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-16) ; [art. R6523-26-2 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-26-2) ; [Décret n°2015-1689 du 17 décembre 2015, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031640600)
 
 Le comité régional de l'emploi, de la formation et de l'orientation professionnelles est composé, outre le préfet de région et le président du conseil régional, de membres nommés par arrêté du préfet de région :
@@ -1188,7 +1188,7 @@ A cette fin, France compétences s'appuie sur les informations communiquées dan
 - Identifiant : LEGIARTI000044946239
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044946239
-- Renvoie à : [Code des relations entre le public et l'adminis..., Chapitre III : Etablissement d'une licence](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000032255228)
+- Renvoie à : [Code des relations entre le public et l'administration, Chapitre III : Etablissement d'une licence](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000032255228)
 
 Les tables de correspondance sont diffusées sur le site internet de France compétences selon un format défini par arrêté du ministre chargé de la formation professionnelle.  
 

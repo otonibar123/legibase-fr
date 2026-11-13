@@ -10,7 +10,7 @@ Code du travail › Partie réglementaire › Cinquième partie : L'emploi › L
 - Identifiant : LEGIARTI000037583905
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037583905
-- Renvoie à : [art. R5411-6 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-r5411-6) ; art. L341-4 du Code de la sécurité sociale
+- Renvoie à : [art. L341-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-iv/chapitre-1er.md#article-l341-4) ; [art. R5411-6 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-r5411-6)
 - Cité par : [Décret n°2010-1783 du 31 décembre 2010, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023389745)
 
 Pour l'application à Mayotte de l'article R. 5411-6, les mots : "au titre des 2° et 3° de l'article L. 341-4 du code de la sécurité sociale" sont remplacés par les mots : "à l'article 20-8-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte".

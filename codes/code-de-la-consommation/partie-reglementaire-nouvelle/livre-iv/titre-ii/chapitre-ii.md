@@ -6,7 +6,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre IV : CONFOR
 - Identifiant : LEGIARTI000046012786
 - État : en vigueur depuis le 04/07/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046012786
-- Renvoie à : [art. L422-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ii.md#article-l422-1) ; art. L1313-1 du Code de la santé publique ; art. L5311-1 du Code de la santé publique
+- Renvoie à : [art. L422-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ii.md#article-l422-1) ; [art. L1313-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iii/titre-ier/chapitre-iii.md#article-l1313-1) ; [art. L5311-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-l5311-1)
 
 Les décrets prévus à l'article L. 422-1 sont pris après avis :  
 

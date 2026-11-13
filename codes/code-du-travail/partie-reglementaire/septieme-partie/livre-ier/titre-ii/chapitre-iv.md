@@ -527,7 +527,7 @@ Cette notification rappelle l'obligation faite à l'employeur par l'article R. 7
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018521450
 - Renvoie à : [art. L7124-9 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-l7124-9)
-- Cité par : [art. R7124-38 du Code du travail](chapitre-iv.md#article-r7124-38) ; [art. R321-45 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034696389)
+- Cité par : [art. R321-45 du Code de la sécurité intérieure](../../../../../code-de-la-securite-interieure/partie-reglementaire/livre-iii/titre-ii/chapitre-ier-bis.md#article-r321-45) ; [art. R7124-38 du Code du travail](chapitre-iv.md#article-r7124-38)
 
 L'autorisation donnée aux représentants légaux de l'enfant, en application de l'article L. 7124-9, de réaliser des prélèvements, en cas d'urgence et à titre exceptionnel, sur son pécule peut être retirée à tout moment s'il apparaît que les sommes déjà prélevées n'ont pas été intégralement affectées à l'usage auquel elles étaient destinées.  
 Les prélèvements sur le pécule sont autorisés par le président de la commission.  
@@ -546,7 +546,7 @@ Le versement à la Caisse des dépôts et consignations prévu au deuxième alin
 - Identifiant : LEGIARTI000018521446
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018521446
-- Renvoie à : [art. L518-23 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006656942)
+- Renvoie à : [art. L518-23 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-23)
 - Cité par : [Arrêté du 6 février 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036623144) ; [Arrêté du 6 février 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036623147)
 
 La Caisse des dépôts et consignations ouvre dans ses écritures, au nom de chacun des mineurs intéressés, un compte de dépôt auquel sont portés les versements réalisés par les employeurs.

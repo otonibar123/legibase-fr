@@ -7,7 +7,7 @@ Code de commerce › Partie législative › LIVRE IX : Dispositions relatives �
 - État : en vigueur depuis le 20/06/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029109571
 - Renvoie à : [art. L711-2 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-2) ; [art. L711-4 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-4)
-- Cité par : [art. D917-6 du Code de commerce](../../../partie-reglementaire/livre-ix/titre-ier/chapitre-vii.md#article-d917-6) ; [art. L574-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032344180)
+- Cité par : [art. D917-6 du Code de commerce](../../../partie-reglementaire/livre-ix/titre-ier/chapitre-vii.md#article-d917-6) ; [art. L574-2 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-vii/chapitre-iv.md#article-l574-2)
 
 A Saint-Pierre-et-Miquelon, une chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat, établissement public, est auprès des pouvoirs publics l'organe des intérêts agricoles, commerciaux, industriels et artisanaux de sa circonscription. Elle exerce les attributions dévolues aux chambres départementales d'agriculture, aux chambres de commerce et d'industrie territoriales et aux chambres de métiers et de l'artisanat par la législation en vigueur.
 

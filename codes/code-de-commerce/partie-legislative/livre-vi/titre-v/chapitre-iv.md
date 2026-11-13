@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE VI : Des difficultés des ent
 - Identifiant : LEGIARTI000019984472
 - État : en vigueur depuis le 15/02/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984472
-- Cité par : [art. L654-2 du Code de commerce](chapitre-iv.md#article-l654-2) ; [art. L654-8 du Code de commerce](chapitre-iv.md#article-l654-8) ; [art. L654-9 du Code de commerce](chapitre-iv.md#article-l654-9) ; [art. L654-10 du Code de commerce](chapitre-iv.md#article-l654-10) ; [art. L654-14 du Code de commerce](chapitre-iv.md#article-l654-14) ; [art. L654-6 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984524) ; [art. R3113-26 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046177074)
+- Cité par : [art. L654-2 du Code de commerce](chapitre-iv.md#article-l654-2) ; [art. L654-8 du Code de commerce](chapitre-iv.md#article-l654-8) ; [art. L654-9 du Code de commerce](chapitre-iv.md#article-l654-9) ; [art. L654-10 du Code de commerce](chapitre-iv.md#article-l654-10) ; [art. L654-14 du Code de commerce](chapitre-iv.md#article-l654-14) ; [art. R3113-26 du Code des transports](../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-r3113-26) ; [art. L654-6 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984524)
 
 Les dispositions de la présente section sont applicables :
 
@@ -49,7 +49,7 @@ La banqueroute est punie de cinq ans d'emprisonnement et de 75 000 euros d'amend
 - Identifiant : LEGIARTI000035043946
 - État : en vigueur depuis le 03/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035043946
-- Cité par : [art. L654-5 du Code de commerce](chapitre-iv.md#article-l654-5) ; [art. L654-7 du Code de commerce](chapitre-iv.md#article-l654-7) ; [art. R3113-26 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033449823) ; [art. R3211-27 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046177288)
+- Cité par : [art. L654-5 du Code de commerce](chapitre-iv.md#article-l654-5) ; [art. L654-7 du Code de commerce](chapitre-iv.md#article-l654-7) ; [art. R3113-26 du Code des transports](../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-r3113-26) ; [art. R3211-27 du Code des transports](../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-27)
 
 Lorsque l'auteur ou le complice de banqueroute est un dirigeant d'un prestataire de services d'investissement, les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende.
 
@@ -57,7 +57,7 @@ Lorsque l'auteur ou le complice de banqueroute est un dirigeant d'un prestataire
 - Identifiant : LEGIARTI000019293743
 - État : en vigueur depuis le 06/08/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019293743
-- Renvoie à : [art. L654-3 du Code de commerce](chapitre-iv.md#article-l654-3) ; [art. L654-4 du Code de commerce](chapitre-iv.md#article-l654-4) ; [art. 131-26 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417290) ; [art. 131-27 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417291) ; [art. 131-35 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417308)
+- Renvoie à : [art. L654-3 du Code de commerce](chapitre-iv.md#article-l654-3) ; [art. L654-4 du Code de commerce](chapitre-iv.md#article-l654-4) ; [art. 131-26 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 Les personnes physiques coupables des infractions prévues par les articles L. 654-3 et L. 654-4 encourent également les peines complémentaires suivantes :
 
@@ -75,7 +75,7 @@ Les personnes physiques coupables des infractions prévues par les articles L. 6
 - Identifiant : LEGIARTI000019984550
 - État : en vigueur depuis le 15/02/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984550
-- Renvoie à : [art. L654-3 du Code de commerce](chapitre-iv.md#article-l654-3) ; [art. L654-4 du Code de commerce](chapitre-iv.md#article-l654-4) ; art. 131-38 du Code pénal ; art. 131-39 du Code pénal
+- Renvoie à : [art. L654-3 du Code de commerce](chapitre-iv.md#article-l654-3) ; [art. L654-4 du Code de commerce](chapitre-iv.md#article-l654-4) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes morales déclarées responsables pénalement des infractions prévues par les articles L. 654-3 et L. 654-4 encourent les peines suivantes :
 
@@ -108,7 +108,7 @@ Est passible d'un emprisonnement de deux ans et d'une amende de 30 000 euros le 
 - Identifiant : LEGIARTI000045178183
 - État : en vigueur depuis le 15/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045178183
-- Renvoie à : [art. L654-1 du Code de commerce](chapitre-iv.md#article-l654-1) ; [art. L654-3 du Code de commerce](chapitre-iv.md#article-l654-3) ; [art. L654-14 du Code de commerce](chapitre-iv.md#article-l654-14) ; art. 121-7 du Code pénal
+- Renvoie à : [art. L654-1 du Code de commerce](chapitre-iv.md#article-l654-1) ; [art. L654-3 du Code de commerce](chapitre-iv.md#article-l654-3) ; [art. L654-14 du Code de commerce](chapitre-iv.md#article-l654-14) ; [art. 121-7 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-7)
 
 Est puni des peines prévues par les articles L. 654-3 à L. 654-5 le fait :
 
@@ -124,7 +124,7 @@ Est puni des peines prévues par les articles L. 654-3 à L. 654-5 le fait :
 - Identifiant : LEGIARTI000019984561
 - État : en vigueur depuis le 15/02/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984561
-- Renvoie à : [art. L654-1 du Code de commerce](chapitre-iv.md#article-l654-1) ; [art. 314-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418212)
+- Renvoie à : [art. L654-1 du Code de commerce](chapitre-iv.md#article-l654-1) ; [art. 314-1 du Code pénal](../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-314-1)
 
 Le fait, pour le conjoint, les descendants ou les ascendants ou les collatéraux ou les alliés des personnes mentionnées à l'article L. 654-1, de détourner, divertir ou receler des effets dépendant de l'actif du débiteur soumis à une procédure de redressement judiciaire ou de liquidation judiciaire, est puni des peines prévues par l'article 314-1 du code pénal.
 
@@ -143,7 +143,8 @@ Dans les cas prévus par les articles précédents, la juridiction saisie statue
 - Identifiant : LEGIARTI000032626475
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032626475
-- Renvoie à : art. 314-2 du Code pénal
+- Renvoie à : [art. 314-2 du Code pénal](../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-314-2)
+- Cité par : [art. L328-4 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-viii.md#article-l328-4)
 
 I.-Est puni des peines prévues par l'article 314-2 du code pénal le fait, pour tout administrateur, mandataire judiciaire, liquidateur ou commissaire à l'exécution du plan, y compris toute personne désignée en application des dispositions du premier alinéa du II de l'article L. 812-2 ou du III de ce même article :
 
@@ -157,7 +158,7 @@ II.-Est puni des mêmes peines le fait, pour tout administrateur, mandataire jud
 - Identifiant : LEGIARTI000006239409
 - État : en vigueur depuis le 01/01/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006239409
-- Renvoie à : [art. 314-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418212)
+- Renvoie à : [art. 314-1 du Code pénal](../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-314-1)
 
 Le fait, pour le créancier, après le jugement ouvrant la procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire, de passer une convention comportant un avantage particulier à la charge du débiteur est puni des peines prévues par l'article 314-1 du code pénal.  
 

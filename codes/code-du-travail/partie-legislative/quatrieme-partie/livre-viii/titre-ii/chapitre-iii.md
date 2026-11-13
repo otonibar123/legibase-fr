@@ -6,7 +6,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - Identifiant : LEGIARTI000045206844
 - État : en vigueur depuis le 23/02/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045206844
-- Renvoie à : [art. L4644-1 du Code du travail](../../livre-vi/titre-iv/chapitre-iv.md#article-l4644-1) ; [art. L6332-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-1) ; [art. L562-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006834573)
+- Renvoie à : [art. L562-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-vi/chapitre-ii.md#article-l562-1) ; [art. L4644-1 du Code du travail](../../livre-vi/titre-iv/chapitre-iv.md#article-l4644-1) ; [art. L6332-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-1)
 - Cité par : [art. R4823-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-viii/titre-ii/chapitre-iii.md#article-r4823-1) ; [art. R6332-40 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r6332-40)
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, les salariés mentionnés à l'article L. 4644-1 sont également chargés de l'information sur la prévention des risques naturels, mentionnés au I de l'article L. 562-1 du code de l'environnement, auxquels sont exposés les travailleurs sur leur lieu de travail.  
@@ -21,7 +21,7 @@ Un décret en Conseil d'Etat définit les modalités d'application du présent a
 - Identifiant : LEGIARTI000045206846
 - État : en vigueur depuis le 23/02/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045206846
-- Renvoie à : art. L562-1 du Code de l'environnement
+- Renvoie à : [art. L562-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-vi/chapitre-ii.md#article-l562-1)
 - Cité par : [art. R4823-4 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-viii/titre-ii/chapitre-iii.md#article-r4823-4)
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, l'employeur veille à ce que chaque travailleur reçoive régulièrement une information appropriée sur les risques naturels majeurs, mentionnés au I de l'article L. 562-1 du code de l'environnement, auxquels il est exposé sur son lieu de travail ainsi que sur les mesures prises pour leur prévention. Les modalités de cette information sont déterminées par décret en Conseil d'Etat.

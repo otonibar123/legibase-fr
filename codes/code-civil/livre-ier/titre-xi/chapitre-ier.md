@@ -6,7 +6,7 @@ Code civil › Livre Ier : Des personnes › Titre XI : De la majorité et des m
 - Identifiant : LEGIARTI000006427400
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427400
-- Cité par : [art. L311-4 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049391584) ; [art. L311-4-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049392118)
+- Cité par : [art. L311-4 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-4) ; [art. L311-4-1 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-4-1)
 
 La majorité est fixée à dix-huit ans accomplis ; à cet âge, chacun est capable d'exercer les droits dont il a la jouissance.
 
@@ -53,7 +53,7 @@ Celui qui a causé un dommage à autrui alors qu'il était sous l'empire d'un tr
 - Identifiant : LEGIARTI000006427566
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427566
-- Cité par : [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [art. L471-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049391760)
+- Cité par : [art. Annexe 4-3 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-4-3) ; [art. L471-1 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-vii/chapitre-ier.md#article-l471-1)
 
 Les personnes majeures reçoivent la protection de leur personne et de leurs biens que leur état ou leur situation rend nécessaire selon les modalités prévues au présent titre.  
 
@@ -67,7 +67,7 @@ Elle est un devoir des familles et de la collectivité publique.
 - Identifiant : LEGIARTI000006427402
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427402
-- Cité par : [art. 494 du Code civil](chapitre-ii.md#article-494) ; [art. 1212 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1212) ; [art. L472-10 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036514191) ; [art. L554-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026568361) ; [art. L564-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026568736) ; [art. L574-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026569018)
+- Cité par : [art. 494 du Code civil](chapitre-ii.md#article-494) ; [art. L472-10 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-vii/chapitre-ii.md#article-l472-10) ; [art. L554-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-v/titre-v/chapitre-iv.md#article-l554-6) ; [art. L564-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-v/titre-vi/chapitre-iv.md#article-l564-6) ; [art. L574-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-v/titre-vii/chapitre-iv.md#article-l574-6) ; [art. 1212 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1212)
 
 Le juge des tutelles et le procureur de la République exercent une surveillance générale des mesures de protection dans leur ressort.  
 
@@ -79,8 +79,8 @@ Les personnes chargées de la protection sont tenues de déférer à leur convoc
 - Identifiant : LEGIARTI000006427404
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427404
-- Renvoie à : [art. L471-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006798076)
-- Cité par : [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213) ; [art. 1216 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1216) ; [art. L472-10 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036514191) ; [art. L554-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026568361) ; [art. L564-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026568736) ; [art. L574-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026569018)
+- Renvoie à : [art. L471-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-vii/chapitre-ier.md#article-l471-2)
+- Cité par : [art. L472-10 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-vii/chapitre-ii.md#article-l472-10) ; [art. L554-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-v/titre-v/chapitre-iv.md#article-l554-6) ; [art. L564-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-v/titre-vi/chapitre-iv.md#article-l564-6) ; [art. L574-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-v/titre-vii/chapitre-iv.md#article-l574-6) ; [art. 1213 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1213) ; [art. 1216 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1216)
 
 Le juge des tutelles peut prononcer des injonctions contre les personnes chargées de la protection et condamner à l'amende civile prévue par le code de procédure civile celles qui n'y ont pas déféré.  
 

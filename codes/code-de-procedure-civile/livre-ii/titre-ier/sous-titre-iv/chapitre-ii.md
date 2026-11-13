@@ -20,7 +20,7 @@ Les requêtes afférentes à une instance en cours sont présentées au préside
 - Identifiant : LEGIARTI000039623705
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623705
-- Cité par : [art. 1379 du Code de procédure civile](../../../livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [art. R561-36 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044619935)
+- Cité par : [art. 1379 du Code de procédure civile](../../../livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [art. R561-36 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-36)
 
 La requête est présentée par un avocat ou par un officier public ou ministériel dans les cas où ce dernier y est habilité par les dispositions en vigueur.  
 

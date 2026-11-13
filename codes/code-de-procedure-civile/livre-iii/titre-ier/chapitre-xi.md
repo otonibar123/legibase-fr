@@ -6,7 +6,7 @@ Code de procédure civile › Livre III : Dispositions particulières à certain
 - Identifiant : LEGIARTI000034748122
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034748122
-- Renvoie à : art. L271-6 du Code de l'action sociale et des familles
+- Renvoie à : [art. L271-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vii/chapitre-unique.md#article-l271-6)
 - Cité par : [art. 1262-2 du Code de procédure civile](chapitre-xi.md#article-1262-2)
 
 Lorsqu'après avoir reçu le rapport prévu à l'article L. 271-6 du code de l'action sociale et des familles le procureur de la République saisit le juge des tutelles, il en informe aussitôt le président du conseil départemental par tout moyen. Il en est de même lorsqu'il estime n'y avoir lieu à cette saisine.

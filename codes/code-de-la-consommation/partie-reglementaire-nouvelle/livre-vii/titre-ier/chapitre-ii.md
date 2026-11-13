@@ -31,7 +31,7 @@ Les membres de la commission mentionnés aux 1°, 2° et 3° peuvent se faire re
 - Identifiant : LEGIARTI000032808538
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808538
-- Cité par : [art. R712-2 du Code de la consommation](chapitre-ii.md#article-r712-2) ; [art. D312-25 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046589712)
+- Cité par : [art. R712-2 du Code de la consommation](chapitre-ii.md#article-r712-2) ; [art. D312-25 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-d312-25)
 
 Le préfet et le directeur départemental des finances publiques ne peuvent se faire représenter respectivement dans chaque commission que par un seul délégué. En cas d'empêchement de ce dernier, il peut être remplacé par l'un des deux représentants nominativement désignés à cet effet dans le règlement intérieur de la commission.  
 Le préfet choisit son délégué parmi les membres du corps préfectoral, les chefs des services déconcentrés de l'Etat ou leurs adjoints ou les directeurs de préfecture.  
@@ -108,7 +108,7 @@ Il est affiché dans les locaux du secrétariat de la commission et est accessib
 - Identifiant : LEGIARTI000034671684
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034671684
-- Renvoie à : art. L143-1 du Code monétaire et financier
+- Renvoie à : [art. L143-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-1)
 - Cité par : [art. R771-1 du Code de la consommation](../titre-vii/chapitre-unique.md#article-r771-1)
 
 Chaque commission établit un rapport d'activité annuel. Ce rapport fait état de données statistiques sur le nombre des dossiers traités ainsi que les mesures prises par la commission. Il précise la typologie de l'endettement présentée dans ces dossiers et les difficultés de toute nature rencontrées dans leur traitement.  

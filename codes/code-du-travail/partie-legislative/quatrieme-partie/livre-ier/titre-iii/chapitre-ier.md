@@ -6,7 +6,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - Identifiant : LEGIARTI000006903155
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903155
-- Cité par : [art. R1237-13 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-r1237-13) ; [art. R4543-4 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-iv/chapitre-iii.md#article-r4543-4) ; [art. L344-2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048586843) ; [art. L5545-4 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027724097) ; [Décret n°2016-303 du 15 mars 2016, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032234312)
+- Cité par : [art. L344-2-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iv.md#article-l344-2-6) ; [art. L5545-4 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-l5545-4) ; [art. R1237-13 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-r1237-13) ; [art. R4543-4 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-iv/chapitre-iii.md#article-r4543-4) ; [Décret n°2016-303 du 15 mars 2016, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032234312)
 
 Le travailleur alerte immédiatement l'employeur de toute situation de travail dont il a un motif raisonnable de penser qu'elle présente un danger grave et imminent pour sa vie ou sa santé ainsi que de toute défectuosité qu'il constate dans les systèmes de protection.  
 
@@ -34,6 +34,6 @@ Aucune sanction, aucune retenue de salaire ne peut être prise à l'encontre d'u
 - Identifiant : LEGIARTI000035653293
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653293
-- Renvoie à : [art. L452-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743112)
+- Renvoie à : [art. L452-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-v/chapitre-2.md#article-l452-1)
 
 Le bénéfice de la faute inexcusable de l'employeur prévue à l'article L. 452-1 du code de la sécurité sociale est de droit pour le ou les travailleurs qui seraient victimes d'un accident du travail ou d'une maladie professionnelle alors qu'eux-mêmes ou un représentant du personnel au comité social et économique avaient signalé à l'employeur le risque qui s'est matérialisé.

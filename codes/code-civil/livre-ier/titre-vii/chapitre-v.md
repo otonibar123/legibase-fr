@@ -6,7 +6,7 @@ Code civil › Livre Ier : Des personnes › Titre VII : De la filiation
 - Identifiant : LEGIARTI000043889173
 - État : en vigueur depuis le 04/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043889173
-- Cité par : [art. 847 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046868420)
+- Cité par : [art. 847 bis du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-847-bis)
 
 En cas d'assistance médicale à la procréation nécessitant l'intervention d'un tiers donneur, aucun lien de filiation ne peut être établi entre l'auteur du don et l'enfant issu de l'assistance médicale à la procréation.  
 
@@ -17,7 +17,7 @@ Aucune action en responsabilité ne peut être exercée à l'encontre du donneur
 - État : en vigueur depuis le 04/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043889175
 - Renvoie à : [art. 229-1 du Code civil](../titre-vi/chapitre-ier.md#article-229-1)
-- Cité par : [art. 342-11 du Code civil](chapitre-v.md#article-342-11) ; [art. 342-13 du Code civil](chapitre-v.md#article-342-13) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 1157-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-vi.md#article-1157-2) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578) ; [art. 847 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046868420)
+- Cité par : [art. 342-11 du Code civil](chapitre-v.md#article-342-11) ; [art. 342-13 du Code civil](chapitre-v.md#article-342-13) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. L2141-6 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l2141-6) ; [art. 1157-2 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-vi.md#article-1157-2) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578) ; [art. 847 bis du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-847-bis)
 
 Les couples ou la femme non mariée qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers donneur doivent donner préalablement leur consentement à un notaire, qui les informe des conséquences de leur acte au regard de la filiation ainsi que des conditions dans lesquelles l'enfant pourra, s'il le souhaite, accéder à sa majorité aux données non identifiantes et à l'identité de ce tiers donneur.  
 

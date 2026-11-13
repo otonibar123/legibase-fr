@@ -17,7 +17,7 @@ La notification peut toujours être faite par voie de signification alors même 
 - Identifiant : LEGIARTI000006411016
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411016
-- Cité par : [art. R332-9 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939270)
+- Cité par : [art. R332-9 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md#article-r332-9)
 
 Lorsqu'une partie a chargé une personne de la représenter en justice, les actes qui lui sont destinés sont notifiés à son représentant sous réserve des règles particulières à la notification des jugements.
 
@@ -65,7 +65,7 @@ L'huissier de justice doit laisser, dans tous ces cas, au domicile ou à la rés
 - Identifiant : LEGIARTI000006411026
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411026
-- Cité par : [art. 658 du Code de procédure civile](chapitre-iii.md#article-658) ; [art. 415 du Code général des impôts, annexe 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518) ; [Décret n°2017-923 du 9 mai 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034797501)
+- Cité par : [art. 658 du Code de procédure civile](chapitre-iii.md#article-658) ; [art. 415 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415) ; [Décret n°2017-923 du 9 mai 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034797501)
 
 Si personne ne peut ou ne veut recevoir la copie de l'acte et s'il résulte des vérifications faites par l'huissier de justice, dont il sera fait mention dans l'acte de signification, que le destinataire demeure bien à l'adresse indiquée, la signification est faite à domicile. Dans ce cas, l'huissier de justice laisse au domicile ou à la résidence de celui-ci un avis de passage conforme aux prescriptions du dernier alinéa de l'article 655. Cet avis mentionne, en outre, que la copie de l'acte doit être retirée dans le plus bref délai à l'étude de l'huissier de justice, contre récépissé ou émargement, par l'intéressé ou par toute personne spécialement mandatée.  
 
@@ -98,7 +98,7 @@ Le cachet de l'huissier est apposé sur l'enveloppe.
 - Identifiant : LEGIARTI000006411032
 - État : en vigueur depuis le 15/09/1989
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411032
-- Cité par : [art. A444-33 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-33) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 662 du Code de procédure civile](chapitre-iii.md#article-662) ; [art. 664-1 du Code de procédure civile](chapitre-iii.md#article-664-1) ; [art. 687-1 du Code de procédure civile](chapitre-iii.md#article-687-1) ; [art. R2222-25 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345195) ; [art. 415 du Code général des impôts, annexe 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518)
+- Cité par : [art. A444-33 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-33) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 662 du Code de procédure civile](chapitre-iii.md#article-662) ; [art. 664-1 du Code de procédure civile](chapitre-iii.md#article-664-1) ; [art. 687-1 du Code de procédure civile](chapitre-iii.md#article-687-1) ; [art. R33 du Code du domaine de l'Etat](../../../code-du-domaine-de-l-etat/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md#article-r33) ; [art. R2222-25 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-r2222-25) ; [art. 415 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415)
 
 Lorsque la personne à qui l'acte doit être signifié n'a ni domicile, ni résidence, ni lieu de travail connus, l'huissier de justice dresse un procès-verbal où il relate avec précision les diligences qu'il a accomplies pour rechercher le destinataire de l'acte.
 
@@ -112,7 +112,7 @@ Les dispositions du présent article sont applicables à la signification d'un a
 - Identifiant : LEGIARTI000018797675
 - État : en vigueur depuis le 16/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018797675
-- Cité par : [art. 662 du Code de procédure civile](chapitre-iii.md#article-662) ; [art. 415 du Code général des impôts, annexe 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518)
+- Cité par : [art. 662 du Code de procédure civile](chapitre-iii.md#article-662) ; [art. 415 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415)
 
 Si l'acte est destiné à une personne qui demeure en Polynésie française, dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, et à moins que la signification ait pu être faite à personne, l'huissier de justice expédie l'acte à l'autorité compétente aux fins de sa remise à l'intéressé selon les modalités applicables dans la collectivité où il demeure.
 
@@ -138,7 +138,7 @@ Si, dans les cas prévus aux articles 659 et 660, il n'est pas établi que le de
 - État : en vigueur depuis le 01/09/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025526158
 - Renvoie à : [art. 654 du Code de procédure civile](chapitre-iii.md#article-654)
-- Cité par : [art. R211-18-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053497799) ; [Décret n°2021-1625 du 10 décembre 2021, art. 21](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053497843)
+- Cité par : [art. R211-18-1 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-18-1) ; [Décret n°2021-1625 du 10 décembre 2021, art. 21](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053497843)
 
 La signification par voie électronique est faite par la transmission de l'acte à son destinataire dans les conditions prévues par le titre XXI du présent livre. Les articles 654 à 662 ne sont pas applicables.
 
@@ -183,7 +183,7 @@ La date et l'heure de la signification par voie électronique sont celles de l'e
 - Identifiant : LEGIARTI000006411040
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411040
-- Cité par : [art. 1180-1 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-ix.md#article-1180-1) ; [art. ANNEXE, art. 45 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-v.md#article-annexe-art-45)
+- Cité par : [art. 1180-1 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-ix.md#article-1180-1) ; [art. ANNEXE, art. 45 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-v.md#article-annexe-art-45)
 
 La notification doit contenir toutes indications relatives aux nom et prénoms ou à la dénomination ou raison sociale de la personne dont elle émane et au domicile ou siège social de cette personne.
 
@@ -246,7 +246,7 @@ La date de réception d'une notification faite par lettre recommandée avec dema
 - Identifiant : LEGIARTI000006411050
 - État : en vigueur depuis le 01/03/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411050
-- Cité par : [art. 1074-4 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-v.md#article-1074-4) ; [art. 1387 du Code de procédure civile](../../livre-iii/titre-iv/chapitre-ier.md#article-1387) ; [art. ANNEXE, art. 45 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-v.md#article-annexe-art-45) ; [art. R311-30 du Code de l'expropriation pour cause d'utilité pu...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971370) ; [art. R421-2 du Code de l'expropriation pour cause d'utilité pu...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971474) ; [art. 1369 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001939) ; [art. 1370 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001933)
+- Cité par : [art. R311-30 du Code de l'expropriation pour cause d'utilité publique](../../../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ier.md#article-r311-30) ; [art. R421-2 du Code de l'expropriation pour cause d'utilité publique](../../../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-ier.md#article-r421-2) ; [art. 1074-4 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-v.md#article-1074-4) ; [art. 1387 du Code de procédure civile](../../livre-iii/titre-iv/chapitre-ier.md#article-1387) ; [art. ANNEXE, art. 45 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-v.md#article-annexe-art-45) ; [art. 1369 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001939) ; [art. 1370 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001933)
 
 La notification est réputée faite à personne lorsque l'avis de réception est signé par son destinataire.  
 
@@ -256,7 +256,7 @@ La notification est réputée faite à domicile ou à résidence lorsque l'avis 
 - Identifiant : LEGIARTI000034747827
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747827
-- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. ANNEXE, art. 30-13 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-13) ; [art. R442-4 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030360331)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. ANNEXE, art. 30-13 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-13) ; [art. R442-4 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md#article-r442-4)
 
 En cas de retour au greffe de la juridiction d'une lettre de notification dont l'avis de réception n'a pas été signé dans les conditions prévues à l'article 670, le greffier invite la partie à procéder par voie de signification.
 
@@ -273,7 +273,7 @@ L'autorité compétente informe la juridiction des diligences faites ; elle lui 
 - Identifiant : LEGIARTI000034747822
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747822
-- Renvoie à : art. R93 du Code de procédure pénale ; art. R122 du Code de procédure pénale
+- Renvoie à : [art. R93 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93) ; [art. R122 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r122)
 
 Lorsque, pour la notification à l'étranger accomplie à la diligence du greffe de la juridiction, la traduction de l'acte, ou de toute autre pièce, paraît nécessaire, le traducteur est requis par le directeur de greffe ou le responsable du greffe de la juridiction.
 
@@ -311,7 +311,7 @@ La notification directe s'opère par la remise de l'acte en double exemplaire à
 - Identifiant : LEGIARTI000034748026
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034748026
-- Cité par : [art. R662-1 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-vi/titre-vi/chapitre-ii.md#article-r662-1) ; [art. 693 du Code de procédure civile](chapitre-iii.md#article-693) ; [art. R311-30 du Code de l'expropriation pour cause d'utilité pu...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971370)
+- Cité par : [art. R662-1 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-vi/titre-vi/chapitre-ii.md#article-r662-1) ; [art. R311-30 du Code de l'expropriation pour cause d'utilité publique](../../../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ier.md#article-r311-30) ; [art. 693 du Code de procédure civile](chapitre-iii.md#article-693)
 
 Les jugements sont notifiés par voie de signification à moins que la loi n'en dispose autrement.
 
@@ -390,7 +390,7 @@ La notification d'un jugement est valablement faite au domicile élu en France p
 - Identifiant : LEGIARTI000034747126
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747126
-- Cité par : [art. 693 du Code de procédure civile](chapitre-iii.md#article-693) ; [art. R4123-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027232409)
+- Cité par : [art. 693 du Code de procédure civile](chapitre-iii.md#article-693) ; [art. R4123-5 du Code des transports](../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r4123-5)
 
 Les notifications des actes judiciaires et extrajudiciaires à l'étranger ou en provenance de l'étranger sont régies par les règles prévues par la présente section, sous réserve de l'application des règlements européens et des traités internationaux.
 
@@ -400,7 +400,7 @@ Les notifications des actes judiciaires et extrajudiciaires à l'étranger ou en
 - Identifiant : LEGIARTI000039389942
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039389942
-- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 415 du Code général des impôts, annexe 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 415 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415)
 
 L'acte destiné à être notifié à une personne ayant sa résidence habituelle à l'étranger est remis au parquet, sauf dans les cas où un règlement européen ou un traité international autorise l'huissier de justice ou le greffe à transmettre directement cet acte à son destinataire ou à une autorité compétente de l'Etat de destination.
 
@@ -470,7 +470,7 @@ Lorsqu'aucune attestation décrivant l'exécution de la demande n'a pu être obt
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747131
 - Renvoie à : [art. 684-1 du Code de procédure civile](chapitre-iii.md#article-684-1) ; [art. 687-1 du Code de procédure civile](chapitre-iii.md#article-687-1)
-- Cité par : [art. 693 du Code de procédure civile](chapitre-iii.md#article-693) ; [Décret n°2006-936 du 27 juillet 2006, art. 168](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020272624)
+- Cité par : [art. 693 du Code de procédure civile](chapitre-iii.md#article-693) ; [art. R57-7 du Code du domaine de l'Etat](../../../code-du-domaine-de-l-etat/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ier.md#article-r57-7) ; [Décret n°2006-936 du 27 juillet 2006, art. 168](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020272624)
 
 La juridiction est saisie de la demande formée par assignation par la remise qui lui est faite de l'acte complété par les indications prévues à l'article 684-1 ou selon le cas, à l'article 687-1, le cas échéant accompagné des justificatifs des diligences accomplies en vue de sa notification au destinataire.
 
@@ -600,7 +600,7 @@ A défaut d'un tel lieu, elle l'est en la personne de l'un de ses membres habili
 - Identifiant : LEGIARTI000039377065
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039377065
-- Cité par : [art. 415 du Code général des impôts, annexe 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518)
+- Cité par : [art. 415 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415)
 
 Les notifications destinées au ministère public et celles qui doivent être faites au parquet le sont, selon le cas, au parquet de la juridiction devant laquelle la demande est portée, à celui de la juridiction qui a statué ou à celui du dernier domicile connu.
 
@@ -621,7 +621,7 @@ Les notifications destinées aux collectivités publiques et aux établissements
 - Identifiant : LEGIARTI000030349556
 - État : en vigueur depuis le 15/03/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030349556
-- Cité par : [art. R713-4 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-ier/chapitre-iii.md#article-r713-4) ; [art. R733-16 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-iii.md#article-r733-16) ; [art. R741-11 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ier.md#article-r741-11) ; [art. R742-4 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-4) ; [art. R742-14 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-14) ; [art. R742-15 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-15) ; [art. R742-35 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-35) ; [art. 748-3 du Code de procédure civile](../titre-xxi.md#article-748-3) ; [art. 748-9 du Code de procédure civile](../titre-xxi.md#article-748-9) ; [art. R321-47 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624865) ; [Décret n°2019-402 du 3 mai 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038438952)
+- Cité par : [art. R713-4 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-ier/chapitre-iii.md#article-r713-4) ; [art. R733-16 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-iii.md#article-r733-16) ; [art. R741-11 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ier.md#article-r741-11) ; [art. R742-4 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-4) ; [art. R742-14 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-14) ; [art. R742-15 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-15) ; [art. R742-35 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-35) ; [art. R321-47 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iii/titre-ii/chapitre-ier-septies.md#article-r321-47) ; [art. 748-3 du Code de procédure civile](../titre-xxi.md#article-748-3) ; [art. 748-9 du Code de procédure civile](../titre-xxi.md#article-748-9) ; [Décret n°2019-402 du 3 mai 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038438952)
 
 Nonobstant toute disposition contraire, les convocations destinées aux personnes morales de droit privé, aux administrations de l'Etat, aux collectivités territoriales, aux établissements publics à caractère administratif, aux organismes de sécurité sociale et aux autres organismes chargés de la gestion d'un service public administratif peuvent leur être adressées par le greffe par tous moyens auxquels ils ont préalablement consenti.
 

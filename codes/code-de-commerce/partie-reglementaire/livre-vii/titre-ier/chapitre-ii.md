@@ -223,7 +223,7 @@ La persistance des difficultés dans le cadre d'une tutelle renforcée ou d'une 
 - Identifiant : LEGIARTI000039653603
 - État : en vigueur depuis le 11/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039653603
-- Renvoie à : [art. L711-8 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. R711-74-1 du Code de commerce](chapitre-ier.md#article-r711-74-1) ; [art. R712-6 du Code de commerce](chapitre-ii.md#article-r712-6) ; [art. R712-7 du Code de commerce](chapitre-ii.md#article-r712-7) ; [art. R* 712-8 du Code de commerce](chapitre-ii.md#article-r-712-8)
+- Renvoie à : [art. L711-8 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. R711-74-1 du Code de commerce](chapitre-ier.md#article-r711-74-1) ; [art. R712-6 du Code de commerce](chapitre-ii.md#article-r712-6) ; [art. R712-7 du Code de commerce](chapitre-ii.md#article-r712-7) ; [art. R* 712-8 du Code de commerce](chapitre-ii.md#article-r-712-8) ; [art. L2124-1 du Code de la commande publique](../../../../code-de-la-commande-publique/partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-l2124-1)
 - Cité par : [art. R917-13 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-13)
 
 Dans le cadre de la tutelle renforcée et sans préjudice des dispositions des articles R. 712-6, R. 712-7 et R. 712-8, les décisions suivantes ne sont exécutoires que lorsqu'elles sont approuvées par l'autorité de tutelle :
@@ -381,7 +381,7 @@ Les règles essentielles de l'organisation et des procédures financières, budg
 - Identifiant : LEGIARTI000039653597
 - État : en vigueur depuis le 11/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039653597
-- Cité par : [art. R711-13 du Code de commerce](chapitre-ier.md#article-r711-13) ; [art. R711-48 du Code de commerce](chapitre-ier.md#article-r711-48) ; [art. R4424-48 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126831)
+- Cité par : [art. R711-13 du Code de commerce](chapitre-ier.md#article-r711-13) ; [art. R711-48 du Code de commerce](chapitre-ier.md#article-r711-48) ; [art. R4424-48 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-48)
 
 Le président de l'établissement public est chargé, dans le respect de la séparation de ses fonctions et de celles de trésorier, de l'exécution du budget. Il émet les factures et signe les contrats desquels découlent des créances, préalablement à leur encaissement. Il émet, à destination du trésorier, les mandats des dépenses préalablement à leur paiement.
 
@@ -623,7 +623,7 @@ Les dépenses nécessaires au fonctionnement du groupement et à l'exploitation 
 - État : en vigueur depuis le 11/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039470711
 - Renvoie à : [art. L710-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/articles-directs.md#article-l710-1) ; [art. L711-15 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-15) ; [art. R713-66 du Code de commerce](chapitre-iii.md#article-r713-66)
-- Cité par : [art. D4424-54 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126807)
+- Cité par : [art. D4424-54 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-d4424-54)
 
 CCI France bénéficie d'impositions de toute nature affectées, des ressources mentionnées à l'article L. 710-1 et de contributions des chambres de commerce et d'industrie.
 

@@ -1,0 +1,307 @@
+# Code de procédure pénale
+
+Dernière modification du texte dans LEGI : 23/10/2026. 2035 articles en vigueur, répartis dans 208 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Titre préliminaire : Dispositions générales**
+    - [Sous-titre II : De la justice restaurative](partie-legislative/titre-preliminaire/sous-titre-ii.md) (1 article)
+  - **Livre Ier : De la conduite de la politique pénale, de l'exercice de l'action publique et de l'instruction**
+    - **Titre II : Des enquêtes et des contrôles d'identité**
+      - [Chapitre III : Des contrôles, des vérifications et des relevés d'identité](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+  - **Livre II : Des juridictions de jugement**
+    - **Titre Ier : De la cour d'assises et de la cour criminelle départementale**
+      - **Sous-titre Ier : De la cour d'assises**
+        - [Chapitre II : De la tenue des assises](partie-legislative/livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md) (1 article)
+        - [Chapitre III : De la composition de la cour d'assises](partie-legislative/livre-ii/titre-ier/sous-titre-ier/chapitre-iii.md) (1 article)
+        - [Chapitre IX : De l'appel des décisions rendues par la cour d'assises en premier ressort](partie-legislative/livre-ii/titre-ier/sous-titre-ier/chapitre-ix.md) (1 article)
+  - **Livre IV : De quelques procédures particulières**
+    - [Titre Ier bis : De la question prioritaire de constitutionnalité](partie-legislative/livre-iv/titre-ier-bis.md) (1 article)
+    - **Titre XIII : De la procédure applicable aux infractions en matière économique et financière**
+      - [Chapitre III : Dispositions diverses](partie-legislative/livre-iv/titre-xiii/chapitre-iii.md) (1 article)
+    - **Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme**
+      - [Section 6 : De la rétention de sûreté terroriste](partie-legislative/livre-iv/titre-xv/section-6.md) (3 articles)
+      - [Section 7 : De la mesure judiciaire de prévention de la commission d'actes terroristes par des condamnés de droit commun radicalisés et de réinsertion](partie-legislative/livre-iv/titre-xv/section-7.md) (1 article)
+    - **Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées et aux crimes**
+      - [Chapitre Ier A : Du procureur de la République anti-criminalité organisée](partie-legislative/livre-iv/titre-xxv/chapitre-ier-a.md) (6 articles)
+      - [Chapitre Ier : Compétence des juridictions spécialisées](partie-legislative/livre-iv/titre-xxv/chapitre-ier.md) (4 articles)
+  - **Livre V : Des procédures d'exécution**
+    - **Titre X : Des frais de justice**
+      - [Dispositions générales](partie-legislative/livre-v/titre-x/dispositions-generales.md) (1 article)
+- **Partie législative (nouvelle)**
+  - **1RE PARTIE : DISPOSITIONS GÉNÉRALES**
+    - **Livre VI : MISE EN ŒUVRE DES PROCÉDURES**
+      - **Titre IER : TRAITEMENTS NUMÉRIQUES DES PROCÉDURES**
+        - [Chapitre 2 : Bureau d'ordre national automatisé des procédures judiciaires](partie-legislative-nouvelle/1re-partie/livre-vi/titre-ier/chapitre-2.md) (1 article)
+        - [Chapitre 3 : Répertoire des données d'expertise](partie-legislative-nouvelle/1re-partie/livre-vi/titre-ier/chapitre-3.md) (1 article)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Titre préliminaire : Dispositions générales**
+    - [Sous-titre Ier : De l'action publique et de l'action civile](partie-reglementaire-decrets-en-conseil-d-etat/titre-preliminaire/sous-titre-ier.md) (4 articles)
+    - **Sous-titre II : De la participation des citoyens au jugement des affaires pénales.**
+      - [Chapitre Ier : Dispositions relatives à la désignation des jurés](partie-reglementaire-decrets-en-conseil-d-etat/titre-preliminaire/sous-titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions relatives à la désignation et à la formation des citoyens assesseurs](partie-reglementaire-decrets-en-conseil-d-etat/titre-preliminaire/sous-titre-ii/chapitre-ii.md) (14 articles)
+    - **Sous-titre III : Des droits des victimes**
+      - [Chapitre unique : Traitement de données à caractère personnel dénommé “ système d'information interministériel des victimes d'attentats et de catastrophes ”](partie-reglementaire-decrets-en-conseil-d-etat/titre-preliminaire/sous-titre-iii/chapitre-unique.md) (6 articles)
+  - **Livre Ier : De l'exercice de l'action publique et de l'instruction**
+    - **Titre Ier : Des autorités chargées de l'action publique et de l'instruction**
+      - [Chapitre Ier : De la police judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ier.md) (157 articles)
+      - [Chapitre II : Du ministère public](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ii.md) (72 articles)
+    - **Titre II : Des enquêtes**
+      - [Chapitre Ier : Des crimes et délits flagrants](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ier.md) (17 articles)
+    - **Titre III : Des juridictions d'instruction**
+      - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ier.md) (90 articles)
+    - **Titre IV : Dispositions communes**
+      - [Chapitre II : Des fichiers de police judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv/chapitre-ii.md) (27 articles)
+      - [Chapitre III : Des logiciels de rapprochement judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre III bis : De la plate-forme nationale des interceptions judiciaires](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv/chapitre-iii-bis.md) (17 articles)
+      - [Chapitre IV : Des traitements d'images au moyen de dispositifs de captation installés sur des aéronefs](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv/chapitre-iv.md) (7 articles)
+  - **Livre II : Des juridictions de jugement**
+    - **Titre Ier : De la cour d'assises**
+      - [Chapitre II : De la tenue des assises](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+    - **Titre II : Du jugement des délits**
+      - [Chapitre Ier : Du tribunal correctionnel](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ier.md) (10 articles)
+    - **Titre III : Du jugement des contraventions**
+      - [Chapitre II : Procédure simplifiée](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii.md) (7 articles)
+      - [Chapitre II bis : De la procédure de l'amende forfaitaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii-bis.md) (13 articles)
+      - [Chapitre II ter : Dispositions applicables à certaines infractions à la police des services publics de transports terrestres](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii-ter.md) (5 articles)
+      - [Chapitre II quater : Dispositions applicables à certaines infractions au code de la route](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii-quater.md) (13 articles)
+  - **Livre IV : De quelques procédures particulières**
+    - **Titre Ier : Des règles de procédure applicables aux crimes contre l'humanité et aux crimes de guerre**
+      - [Sous-titre II : Des juridictions compétentes pour la poursuite, l'instruction et le jugement des crimes contre l'humanité et des crimes et délits de guerre](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/sous-titre-ii.md) (1 article)
+    - **Titre Ier bis : De la question prioritaire de constitutionnalité**
+      - [Chapitre Ier : Dispositions applicables devant les juridictions d'instruction, de jugement, d'application des peines et de la rétention de sûreté](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier-bis/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Dispositions applicables devant la Cour de cassation](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier-bis/chapitre-ii.md) (5 articles)
+    - **Titre X : DE L'ENTRAIDE JUDICIAIRE INTERNATIONALE**
+      - [Chapitre unique : Dispositions propres à l'entraide entre la France et les autres Etats membres de l'Union européenne](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-x/chapitre-unique.md) (8 articles)
+    - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xiv.md) (24 articles)
+    - **Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme**
+      - [Chapitre Ier : De la protection de l'identité de certaines personnes intervenant dans les procédures relatives aux actes de terrorisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions terroristes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xv/chapitre-ii.md) (35 articles)
+      - [Chapitre III : Des demandes tendant à la réparation du dommage causé par un acte de terrorisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : De la mesure judiciaire de prévention de la récidive terroriste et de réinsertion](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xv/chapitre-iv.md) (16 articles)
+    - [Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de proxénétisme ou de recours à la prostitution des mineurs](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xvii.md) (2 articles)
+    - **Titre XIX : De la procédure applicable aux infractions de nature sexuelle et aux mineurs victimes**
+      - [Chapitre Ier : De l'administrateur ad hoc](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ii.md) (31 articles)
+      - [Chapitre III : De la surveillance de sûreté et de la rétention de sûreté](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-iii.md) (28 articles)
+    - [Titre XX : Du fichier national automatisé des empreintes génétiques et du service central de préservation des prélèvements biologiques](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx.md) (21 articles)
+    - **Titre XX bis : Du répertoire des données à caractère personnel collectées dans le cadre des procédures judiciaires dénommé "Redex"**
+      - [Titre XX bis : Du répertoire des données à caractère personnel collectées dans le cadre des procédures judiciaires dénommé "Redex" : articles rattachés directement](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx-bis/articles-directs.md) (1 article)
+      - [Section 1 : Enregistrement des données dans le répertoire](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx-bis/section-1.md) (5 articles)
+      - [Section 2 : Interrogation du répertoire](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx-bis/section-2.md) (3 articles)
+      - [Section 3 : Droit d'accès et demande de rectification ou d'effacement](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx-bis/section-3.md) (6 articles)
+      - [Section 4 : Conservation de la trace des interrogations et consultations](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx-bis/section-4.md) (1 article)
+      - [Section 5 : Durée de conservation des données inscrites dans le répertoire et modalités de leur effacement](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx-bis/section-5.md) (3 articles)
+      - [Section 6 : Dispositions communes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx-bis/section-6.md) (3 articles)
+    - **Titre XXI : De la protection des témoins**
+      - [Chapitre Ier : Déclaration d'adresse d'un témoin dans un commissariat ou une brigade de gendarmerie](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxi/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Possibilité pour un témoin de déposer de manière anonyme](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxi/chapitre-ii.md) (5 articles)
+    - **Titre XXI bis : Des collaborateurs de justice**
+      - [Section 1 : Du statut de collaborateur de justice](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxi-bis/section-1.md) (3 articles)
+      - [Section 2 : De la mise à exécution du reliquat de peine par le tribunal de l'application des peines](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxi-bis/section-2.md) (2 articles)
+    - [Titre XXIII : De l'utilisation de moyens de télécommunication au cours de la procédure](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxiii.md) (8 articles)
+    - [Titre XXIV - DE LA GÉOLOCALISATION](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxiv-de-la-geolocalisation.md) (4 articles)
+    - **Titre XXV : DE LA PROCÉDURE APPLICABLE À LA CRIMINALITÉ ET À LA DÉLINQUANCE ORGANISÉE**
+      - [Chapitre Ier : De l'anonymat des interprètes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : De l'anonymat des agents de l'administration pénitentiaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxv/chapitre-ii.md) (7 articles)
+      - [Chapitre III : De l'anonymat des professionnels accompagnant les mineurs](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : De l'infiltration civile](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxv/chapitre-iv.md) (5 articles)
+    - [Titre XXIX : Des saisies spéciales](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxix.md) (7 articles)
+    - [Titre XXX : De l'agence de gestion et de recouvrement des avoirs saisis et confisqués](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xxx.md) (9 articles)
+  - **Livre V : Des procédures d'exécution.**
+    - **Titre Ier : De l'exécution des sentences pénales**
+      - [Chapitre Ier : Diminution de l'amende du fait du paiement volontaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : De l'application des peines.](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Traitement de données à caractère personnel relatif à l'application des peines](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ier/chapitre-iii.md) (1 article)
+    - **Titre II : De la détention**
+      - [Chapitre Ier : De l'exécution de la détention provisoire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IX : Des relations des personnes détenues avec l'extérieur](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/chapitre-ix.md) (1 article)
+      - [Chapitre XII : Traitement de données à caractère personnel relatif à la gestion nationale des personnes écrouées pour le suivi individualisé et la sécurité (GENESIS)](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/chapitre-xii.md) (1 article)
+    - **Titre III : Du placement sous surveillance électronique**
+      - [Titre III : Du placement sous surveillance électronique : articles rattachés directement](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iii/chapitre-ier.md) (9 articles)
+    - **Titre IV : Du sursis**
+      - [Chapitre II : Du sursis probatoire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iv/chapitre-ii.md) (3 articles)
+    - **Titre VII bis : Du suivi socio-judiciaire**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-vii-bis/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Dispositions particulières applicables aux personnes exécutant une peine privative de liberté](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-vii-bis/chapitre-ii.md) (4 articles)
+    - **Titre VII ter : Des modalités du placement sous surveillance électronique mobile à titre de mesure de sûreté**
+      - [Chapitre Ier : De la commission pluridisciplinaire des mesures de sûreté et de l'examen de dangerosité](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-vii-ter/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Du traitement automatisé relatif au contrôle des personnes placées sous surveillance électronique mobile](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-vii-ter/chapitre-ii.md) (1 article)
+      - [Chapitre III : De la mise en oeuvre du placement sous surveillance électronique mobile](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-vii-ter/chapitre-iii.md) (15 articles)
+    - **Titre VII quater : Du dispositif électronique mobile anti-rapprochement**
+      - [Chapitre Ier : Du traitement de données à caractère personnel relatif au dispositif électronique mobile anti-rapprochement](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-vii-quater/chapitre-ier.md) (1 article)
+    - **Titre VIII : Du casier judiciaire**
+      - [Chapitre Ier : De l'organisation des services du casier judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : De l'établissement des fiches du casier judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Des copies des fiches du casier judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : De la délivrance des bulletins n° 1 du casier judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : De la délivrance des bulletins n° 2 du casier judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-v.md) (4 articles)
+      - [Chapitre VI : De la délivrance des bulletins n° 3 du casier judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Dispositions relatives à ECRIS-TCN et à l'interopérabilité des systèmes d'information européens](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : De l'application des droits des personnes vis-à-vis des traitements de données à caractère personnel gérés par le service du casier judiciaire national automatisé](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-viii.md) (3 articles)
+      - [Chapitre IX : Dispositions diverses](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-ix.md) (6 articles)
+    - **Titre X : Des frais de justice**
+      - [Chapitre Ier : Dispositions préliminaires](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Tarif des frais](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md) (86 articles)
+      - [Chapitre III : Des dépenses assimilées à celles de l'instruction des procès criminels](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Du payement et du recouvrement des frais](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-iv.md) (15 articles)
+      - [Chapitre V : De l'indemnité pouvant être accordée en cas non-lieu, relaxe ou acquittement](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-v.md) (4 articles)
+  - **Livre V BIS : Dispositions générales**
+    - [Chapitre Ier : Du traitement automatisé de données à caractère personnel dénommé “dossier pénal numérique"](partie-reglementaire-decrets-en-conseil-d-etat/livre-v-bis/chapitre-ier.md) (8 articles)
+    - [Chapitre II : Du recours judiciaire visant à garantir le droit au respect de la dignité en détention](partie-reglementaire-decrets-en-conseil-d-etat/livre-v-bis/chapitre-ii.md) (21 articles)
+  - **Livre VI : Dispositions relatives à l'outre-mer**
+    - [Titre Ier : Dispositions applicables dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ier.md) (3 articles)
+    - **Titre II : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : De l'exercice de l'action publique et de l'instruction](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Des juridictions de jugement](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : De quelques procédures particulières](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : Du casier judiciaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vi.md) (20 articles)
+      - [Chapitre VII : Des frais de justice](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vii.md) (35 articles)
+    - **Titre III : Dispositions particulières au Département de Mayotte**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : De l'exercice de l'action publique et de l'instruction](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Des juridictions de jugement](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : De quelques procédures particulières](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre VI : Des frais de justice](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-vi.md) (26 articles)
+    - [Titre IV : Dispositions diverses](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iv.md) (1 article)
+- **Partie réglementaire - Décrets simples**
+  - **Titre préliminaire**
+    - [Chapitre Ier : De l'action publique et de l'action civile](partie-reglementaire-decrets-simples/titre-preliminaire/chapitre-ier.md) (2 articles)
+    - [Chapitre Ier bis : De la justice restaurative](partie-reglementaire-decrets-simples/titre-preliminaire/chapitre-ier-bis.md) (1 article)
+    - [Chapitre II : Des droits des victimes](partie-reglementaire-decrets-simples/titre-preliminaire/chapitre-ii.md) (16 articles)
+    - [Chapitre III : Des missions et de l'agrément des associations d'aide aux victimes d'infraction](partie-reglementaire-decrets-simples/titre-preliminaire/chapitre-iii.md) (13 articles)
+  - **Livre Ier : De l'exercice de l'action publique et de l'instruction**
+    - **Titre Ier : Des autorités chargées de l'action publique et de l'instruction**
+      - [Chapitre Ier : De la police judiciaire](partie-reglementaire-decrets-simples/livre-ier/titre-ier/chapitre-ier.md) (42 articles)
+      - [Chapitre II : Du ministère public](partie-reglementaire-decrets-simples/livre-ier/titre-ier/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Du juge d'instruction et des pôles de l'instruction](partie-reglementaire-decrets-simples/livre-ier/titre-ier/chapitre-iii.md) (4 articles)
+    - **Titre II : Des enquêtes et des contrôles d'identité**
+      - [Chapitre Ier : Des enquêtes](partie-reglementaire-decrets-simples/livre-ier/titre-ii/chapitre-ier.md) (13 articles)
+    - **Titre III : Des juridictions d'instruction**
+      - [Chapitre Ier : Du juge d'instruction : juridiction d'instruction du premier degré](partie-reglementaire-decrets-simples/livre-ier/titre-iii/chapitre-ier.md) (64 articles)
+      - [Chapitre II : De la chambre d'instruction : juridiction d'instruction du second degré](partie-reglementaire-decrets-simples/livre-ier/titre-iii/chapitre-ii.md) (5 articles)
+  - **Livre II : Des juridictions de jugement**
+    - [Titre Ier : De la cour d'assises](partie-reglementaire-decrets-simples/livre-ii/titre-ier.md) (9 articles)
+    - **Titre II : Du jugement des délits**
+      - [Chapitre Ier : Du tribunal correctionnel](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-ier.md) (25 articles)
+      - [Chapitre II : De l'appel](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+    - [Titre IV : Des citations et significations](partie-reglementaire-decrets-simples/livre-ii/titre-iv.md) (8 articles)
+  - **Livre IV : De quelques procédures particulières**
+    - **Titre Ier : Des règles de procédure applicables aux crimes contre l'humanité et aux crimes de guerre.**
+      - [Sous-titre II : Des juridictions compétentes pour la poursuite, l'instruction et le jugement des crimes contre l'humanité et des crimes et délits de guerre.](partie-reglementaire-decrets-simples/livre-iv/titre-ier/sous-titre-ii.md) (1 article)
+    - [Titre II : Du faux](partie-reglementaire-decrets-simples/livre-iv/titre-ii.md) (1 article)
+    - **Titre X : De l'entraide judiciaire internationale**
+      - [Chapitre II : Dispositions propres à l'entraide entre la France et les autres Etats membres de l'Union européenne](partie-reglementaire-decrets-simples/livre-iv/titre-x/chapitre-ii.md) (29 articles)
+    - **Titre XI : Du Parquet européen**
+      - [Chapitre Ier : Des signalements au procureur européen délégué et de l'exercice de sa compétence](partie-reglementaire-decrets-simples/livre-iv/titre-xi/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Des procédures suivies par le procureur européen délégué](partie-reglementaire-decrets-simples/livre-iv/titre-xi/chapitre-ii.md) (3 articles)
+    - [Titre XIII : De la procédure applicable aux infractions en matière économique et financière](partie-reglementaire-decrets-simples/livre-iv/titre-xiii.md) (3 articles)
+    - [Titre XIII bis : De la procédure applicable aux infractions en matière sanitaire et environnementale](partie-reglementaire-decrets-simples/livre-iv/titre-xiii-bis.md) (3 articles)
+    - **Titre XIV : Du juge délégué aux victimes, président de la commission d'indemnisation des victimes d'infractions**
+      - [Titre XIV : Du juge délégué aux victimes, président de la commission d'indemnisation des victimes d'infractions : articles rattachés directement](partie-reglementaire-decrets-simples/livre-iv/titre-xiv/articles-directs.md) (1 article)
+      - [Chapitre III : Attributions administratives du juge délégué aux victimes](partie-reglementaire-decrets-simples/livre-iv/titre-xiv/chapitre-iii.md) (3 articles)
+    - **Titre XIV Ter : De la prise en charge des frais de voyage, de l'indemnité de comparution et de l'indemnité journalière de séjour lors d'un procès pénal à l'étranger**
+      - [Chapitre Ier : Des conditions d'octroi de l'aide financière](partie-reglementaire-decrets-simples/livre-iv/titre-xiv-ter/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Du montant de l'aide financière](partie-reglementaire-decrets-simples/livre-iv/titre-xiv-ter/chapitre-ii.md) (3 articles)
+      - [Chapitre III : De la procédure applicable](partie-reglementaire-decrets-simples/livre-iv/titre-xiv-ter/chapitre-iii.md) (1 article)
+    - **Titre XV : De la poursuite, de l'instruction et du jugement des actes de terrorisme**
+      - [Chapitre IV : De la mesure judiciaire de prévention de la récidive terroriste et de réinsertion](partie-reglementaire-decrets-simples/livre-iv/titre-xv/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Des assistants spécialisés en matière de lutte contre le terrorisme](partie-reglementaire-decrets-simples/livre-iv/titre-xv/chapitre-v.md) (1 article)
+    - [Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants](partie-reglementaire-decrets-simples/livre-iv/titre-xvi.md) (1 article)
+    - [Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de traite des êtres humains, de proxénétisme ou de recours à la prostitution des mineurs](partie-reglementaire-decrets-simples/livre-iv/titre-xvii.md) (2 articles)
+    - **Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-simples/livre-iv/titre-xix/chapitre-ier.md) (6 articles)
+    - [Titre XX : Du fichier national automatisé des empreintes génétiques](partie-reglementaire-decrets-simples/livre-iv/titre-xx.md) (1 article)
+    - [Titre XXI bis : Des collaborateurs de justice](partie-reglementaire-decrets-simples/livre-iv/titre-xxi-bis.md) (1 article)
+    - [Titre XXIII : De l'utilisation de moyens de communication au cours de la procédure](partie-reglementaire-decrets-simples/livre-iv/titre-xxiii.md) (5 articles)
+    - [Titre XXV : De la procédure applicable à la criminalité et à la délinquance organisées](partie-reglementaire-decrets-simples/livre-iv/titre-xxv.md) (1 article)
+    - [Titre XXV BIS : De la procédure applicable aux crimes sériels ou non élucidés](partie-reglementaire-decrets-simples/livre-iv/titre-xxv-bis.md) (3 articles)
+    - [Titre XXVI : De la procédure applicable en cas de pollution des eaux maritimes par rejets des navires et d'atteinte aux biens culturels maritimes](partie-reglementaire-decrets-simples/livre-iv/titre-xxvi.md) (2 articles)
+    - [Titre XXVII : De la poursuite, de l'instruction et du jugement des infractions commises par des majeurs protégés](partie-reglementaire-decrets-simples/livre-iv/titre-xxvii.md) (11 articles)
+    - **Titre XXVIII : De la procédure et des décisions d'irresponsabilité pénale pour cause de trouble mental**
+      - [Chapitre Ier : Dispositions applicables devant le juge d'instruction et la chambre de l'instruction](partie-reglementaire-decrets-simples/livre-iv/titre-xxviii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Mesures de sûreté pouvant être ordonnées en cas de déclaration d'irresponsabilité pénale pour cause de trouble mental.](partie-reglementaire-decrets-simples/livre-iv/titre-xxviii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Des soins pouvant être ordonnés en cas de trouble mental ayant altéré le discernement](partie-reglementaire-decrets-simples/livre-iv/titre-xxviii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions applicables lorsque l'abolition temporaire du discernement de la personne résulte de son fait et notamment de la consommation volontaire de substances psychoactives](partie-reglementaire-decrets-simples/livre-iv/titre-xxviii/chapitre-v.md) (7 articles)
+    - [Titre XXXIII : De la procédure applicable en cas d'accident collectif](partie-reglementaire-decrets-simples/livre-iv/titre-xxxiii.md) (1 article)
+  - **Livre V : Des procédures d'exécution**
+    - **Titre Ier : De l'exécution des sentences pénales**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-simples/livre-v/titre-ier/chapitre-ier.md) (16 articles)
+      - [Chapitre II : De l'émission et de l'exécution des sanctions pécuniaires en application de la décision-cadre du Conseil de l'Union européenne du 24 février 2005](partie-reglementaire-decrets-simples/livre-v/titre-ier/chapitre-ii.md) (31 articles)
+      - [Chapitre III : Des juridictions de l'application des peines](partie-reglementaire-decrets-simples/livre-v/titre-ier/chapitre-iii.md) (90 articles)
+    - **Titre Ier bis : De la peine de détention à domicile sous surveillance électronique**
+      - [Titre Ier bis : De la peine de détention à domicile sous surveillance électronique : articles rattachés directement](partie-reglementaire-decrets-simples/livre-v/titre-ier-bis/articles-directs.md) (7 articles)
+      - [Chapitre V : Des incidents d'exécution de la contrainte pénale](partie-reglementaire-decrets-simples/livre-v/titre-ier-bis/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Dispositions relatives aux victimes et aux parties civiles](partie-reglementaire-decrets-simples/livre-v/titre-ier-bis/chapitre-vi.md) (1 article)
+    - **Titre II : De la détention**
+      - [Titre II : De la détention : articles rattachés directement](partie-reglementaire-decrets-simples/livre-v/titre-ii/articles-directs.md) (4 articles)
+      - [Chapitre Ier : De l'exécution de la détention provisoire](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Des conditions générales de détention](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-ii.md) (100 articles)
+      - [Chapitre III : Des dispositions communes aux différents établissements pénitentiaires](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : De l'administration des établissements pénitentiaires](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : De la discipline et de la sécurité des établissements pénitentiaires](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Des mouvements de personnes détenues](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : De la gestion des biens et de l'entretien des personnes détenues](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : De la santé des personnes détenues](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-viii.md) (5 articles)
+      - [Chapitre IX : Des relations des personnes détenues avec l'extérieur](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-ix.md) (3 articles)
+      - [Chapitre X : Des actions de préparation à la réinsertion des personnes détenues](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-x.md) (2 articles)
+      - [Chapitre XI : De différentes catégories de personnes détenues](partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-xi.md) (4 articles)
+    - **Titre III : De la libération conditionnelle**
+      - [Chapitre Ier : De la procédure relative aux demandes de libération conditionnelle](partie-reglementaire-decrets-simples/livre-v/titre-iii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Des mesures et conditions auxquelles sont soumis ou peuvent être soumis les libérés conditionnels](partie-reglementaire-decrets-simples/livre-v/titre-iii/chapitre-ii.md) (16 articles)
+    - **Titre IV : Du sursis et de l'ajournement**
+      - [Chapitre Ier](partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Du sursis probatoire](partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Des conversions de peines](partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : De l'ajournement](partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-iv.md) (2 articles)
+    - [Titre VI : De la contrainte judiciaire](partie-reglementaire-decrets-simples/livre-v/titre-vi.md) (2 articles)
+    - [Titre VII : De l'interdiction de séjour](partie-reglementaire-decrets-simples/livre-v/titre-vii.md) (2 articles)
+    - [Titre VIII : Du casier judiciaire](partie-reglementaire-decrets-simples/livre-v/titre-viii.md) (4 articles)
+    - **Titre XI : Le service pénitentiaire d'insertion et de probation**
+      - [Chapitre Ier : Les missions du service pénitentiaire d'insertion et de probation](partie-reglementaire-decrets-simples/livre-v/titre-xi/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les attributions respectives du juge de l'application des peines, des autres magistrats mandants et du directeur du service pénitentiaire d'insertion et de probation](partie-reglementaire-decrets-simples/livre-v/titre-xi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : L'organisation et le fonctionnement du service pénitentiaire d'insertion et de probation](partie-reglementaire-decrets-simples/livre-v/titre-xi/chapitre-iii.md) (2 articles)
+    - **Titre XII : Dispositions générales**
+      - [Chapitre Ier : Dispositions relatives à la procédure numérique](partie-reglementaire-decrets-simples/livre-v/titre-xii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Des transmissions de demandes, notifications ou significations par un moyen de télécommunication électronique](partie-reglementaire-decrets-simples/livre-v/titre-xii/chapitre-ii.md) (5 articles)
+      - [Chapitre IV : Des modalités d'exercice du droit à l'assistance d'un interprète et à la traduction de certaines pièces de la procédure](partie-reglementaire-decrets-simples/livre-v/titre-xii/chapitre-iv.md) (17 articles)
+  - **Livre VI : Dispositions relatives à l'outre-mer**
+    - [Titre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique, la Réunion et Saint-Pierre-et-Miquelon](partie-reglementaire-decrets-simples/livre-vi/titre-ier.md) (3 articles)
+    - [Titre II : Dispositions applicables à Mayotte](partie-reglementaire-decrets-simples/livre-vi/titre-ii.md) (1 article)
+    - **Titre III : Dispositions applicables en Nouvelle-Calédonie, en Polynésie Française et dans les îles de Wallis et Futuna**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-simples/livre-vi/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des procédures d'exécution](partie-reglementaire-decrets-simples/livre-vi/titre-iii/chapitre-ii.md) (1 article)
+- **Partie Arrêtés**
+  - **Livre Ier : De l'exercice de l'action publique et de l'instruction**
+    - **Titre Ier : Des autorités chargées de l'action publique et de l'instruction**
+      - [Titre Ier : Des autorités chargées de l'action publique et de l'instruction : articles rattachés directement](partie-arretes/livre-ier/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre Ier : De la police judiciaire](partie-arretes/livre-ier/titre-ier/chapitre-ier.md) (72 articles)
+    - [Titre II : Des enquêtes et des contrôles d'identité](partie-arretes/livre-ier/titre-ii.md) (1 article)
+    - [Titre III : Des juridictions d'instruction](partie-arretes/livre-ier/titre-iii.md) (1 article)
+  - **Livre II : Des juridictions de jugement**
+    - **Titre Ier : De la cour d'assises**
+      - [Chapitre III : De la composition de la cour d'assises](partie-arretes/livre-ii/titre-ier/chapitre-iii.md) (3 articles)
+    - **Titre II : Du jugement des délits**
+      - [Chapitre Ier : Du tribunal correctionnel](partie-arretes/livre-ii/titre-ii/chapitre-ier.md) (5 articles)
+    - **Titre III : Du jugement des contraventions**
+      - [Chapitre II bis : De la procédure de l'amende forfaitaire](partie-arretes/livre-ii/titre-iii/chapitre-ii-bis.md) (43 articles)
+  - **Livre III : Des mesures de sûreté**
+    - [Chapitre Ier : Des commissions pluridisciplinaires des mesures de sûreté](partie-arretes/livre-iii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Des juridictions régionales de la rétention de sûreté](partie-arretes/livre-iii/chapitre-ii.md) (1 article)
+  - **Livre IV**
+    - [Titre XX : Du fichier national automatisé des empreintes génétiques.](partie-arretes/livre-iv/titre-xx.md) (1 article)
+    - [Titre XXI : De l'utilisation de moyens de télécommunication au cours de la procédure.](partie-arretes/livre-iv/titre-xxi.md) (1 article)
+    - [Titre XXII : De la prise en charge des frais de voyage, de l'indemnité de comparution et de l'indemnité journalière de séjour des victimes lors d'un procès pénal à l'étranger](partie-arretes/livre-iv/titre-xxii.md) (6 articles)
+  - **Livre V : Des procédures d'exécution**
+    - **Titre Ier**
+      - [Chapitre Ier : Dispositions générales.](partie-arretes/livre-v/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Augmentation du droit fixe de procédure en cas de condamnation pour conduite après usage de substances ou plantes classées comme stupéfiants](partie-arretes/livre-v/titre-ier/chapitre-ii.md) (1 article)
+    - [Titre X : Des frais de justice](partie-arretes/livre-v/titre-x.md) (19 articles)
+    - [Titre XII : Du casier judiciaire](partie-arretes/livre-v/titre-xii.md) (1 article)
+  - **Livre V bis : Dispositions générales**
+    - [Chapitre Ier : Dispositions relatives à la procédure numérique](partie-arretes/livre-v-bis/chapitre-ier.md) (8 articles)
+    - [Chapitre II : Dispositions relatives à la captation sonore des audiences des juridictions pénales spécialisées](partie-arretes/livre-v-bis/chapitre-ii.md) (1 article)

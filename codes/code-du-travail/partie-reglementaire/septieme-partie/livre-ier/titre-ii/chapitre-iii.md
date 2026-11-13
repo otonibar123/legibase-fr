@@ -341,7 +341,7 @@ La garantie financière prévue à l'article L. 7123-19 a exclusivement pour obj
 - Identifiant : LEGIARTI000018521588
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018521588
-- Renvoie à : [art. R243-14 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006748456)
+- Renvoie à : [art. R243-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-14)
 
 Le montant de la garantie financière peut être révisé à tout moment et fait l'objet d'un réexamen chaque année.
 

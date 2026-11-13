@@ -21,8 +21,8 @@ Le portage salarial désigne l'ensemble organisé constitué par :
 - Identifiant : LEGIARTI000033024491
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024491
-- Renvoie à : art. L241-3 du Code de la sécurité sociale
-- Cité par : [art. L1254-11 du Code du travail](chapitre-iv.md#article-l1254-11) ; [art. L2253-1 du Code du travail](../../../deuxieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l2253-1) ; [art. L5542-51 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024455) ; [ORDONNANCE n°2015-380 du 2 avril 2015, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031843598)
+- Renvoie à : [art. L241-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3)
+- Cité par : [art. L5542-51 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-51) ; [art. L1254-11 du Code du travail](chapitre-iv.md#article-l1254-11) ; [art. L2253-1 du Code du travail](../../../deuxieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l2253-1) ; [ORDONNANCE n°2015-380 du 2 avril 2015, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031843598)
 
 I.-Le salarié porté justifie d'une expertise, d'une qualification et d'une autonomie qui lui permettent de rechercher lui-même ses clients et de convenir avec eux des conditions d'exécution de sa prestation et de son prix.
 
@@ -141,7 +141,7 @@ La durée totale du contrat à durée déterminée ne peut excéder dix-huit moi
 - Identifiant : LEGIARTI000030442369
 - État : en vigueur depuis le 04/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030442369
-- Renvoie à : [art. L1253-17 du Code du travail](chapitre-iii.md#article-l1253-17) ; [art. L1254-12 du Code du travail](chapitre-iv.md#article-l1254-12)
+- Renvoie à : [art. L1253-17 du Code du travail](chapitre-iii.md#article-l1253-17) ; [art. L1254-12 du Code du travail](chapitre-iv.md#article-l1254-12) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 - Cité par : [art. L1254-17 du Code du travail](chapitre-iv.md#article-l1254-17) ; [art. L1255-14 du Code du travail](chapitre-v.md#article-l1255-14)
 
 Par dérogation à l'article L. 1254-12, pour permettre au salarié porté de prospecter de nouveaux clients, le terme du contrat peut être reporté par accord entre l'entreprise de portage salarial et le salarié porté pour une durée maximale de trois mois.
@@ -359,7 +359,7 @@ Le salarié porté est informé une fois par mois des éléments imputés sur ce
 - Identifiant : LEGIARTI000030436639
 - État : en vigueur depuis le 04/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030436639
-- Renvoie à : [art. L244-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742098)
+- Renvoie à : [art. L244-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-4.md#article-l244-8)
 - Cité par : [art. D1254-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-d1254-1) ; [art. L1255-14 du Code du travail](chapitre-v.md#article-l1255-14) ; [art. R1254-2 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-r1254-2)
 
 I.-L'entreprise de portage salarial justifie, à tout moment, d'une garantie financière assurant, en cas de défaillance de sa part, le paiement :  

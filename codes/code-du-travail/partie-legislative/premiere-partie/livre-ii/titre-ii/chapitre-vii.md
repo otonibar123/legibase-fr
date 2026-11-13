@@ -6,8 +6,8 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000006900992
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900992
-- Renvoie à : [art. 131-26 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417290)
-- Cité par : [art. L822-10 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053548604)
+- Renvoie à : [art. 131-26 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26)
+- Cité par : [art. L621-1 du Code de la propriété intellectuelle](../../../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vi/titre-ii/chapitre-ier.md#article-l621-1) ; [art. L822-10 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053548604)
 
 Le fait pour un directeur ou un salarié de révéler ou de tenter de révéler un secret de fabrication est puni d'un emprisonnement de deux ans et d'une amende de 30 000 euros.
 

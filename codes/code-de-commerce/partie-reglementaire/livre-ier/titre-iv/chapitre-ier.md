@@ -6,7 +6,7 @@ Code de commerce › Partie réglementaire › LIVRE Ier : Du commerce en géné
 - Identifiant : LEGIARTI000041563828
 - État : en vigueur depuis le 12/02/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041563828
-- Renvoie à : [art. L141-12 du Code de commerce](../../../partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l141-12) ; [art. L141-14 du Code de commerce](../../../partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l141-14) ; [art. R123-211 du Code de commerce](../titre-ii/chapitre-iii.md#article-r123-211)
+- Renvoie à : [art. L141-12 du Code de commerce](../../../partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l141-12) ; [art. L141-14 du Code de commerce](../../../partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l141-14) ; [art. R123-211 du Code de commerce](../titre-ii/chapitre-iii.md#article-r123-211) ; [art. 638 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-638) ; [art. 653 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-653)
 
 La publication au Bulletin officiel des annonces civiles et commerciales prévue à l'article L. 141-12 contient les indications mentionnées à l'article R. 123-211.
 

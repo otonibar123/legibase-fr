@@ -6,7 +6,7 @@ Code civil › Livre IV : Des sûretés › Titre II : Des sûretés réelles �
 - Identifiant : LEGIARTI000044071473
 - État : en vigueur depuis le 17/09/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071473
-- Cité par : [art. 2350 du Code civil](chapitre-ii.md#article-2350) ; [art. L121-22-5 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045525738)
+- Cité par : [art. 2350 du Code civil](chapitre-ii.md#article-2350) ; [art. L121-22-5 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-l121-22-5)
 
 Le gage est une convention par laquelle le constituant accorde à un créancier le droit de se faire payer par préférence à ses autres créanciers sur un bien mobilier ou un ensemble de biens mobiliers corporels, présents ou futurs.  
 
@@ -146,7 +146,7 @@ Sauf convention contraire, lorsque le détenteur du bien gagé est le créancier
 - Identifiant : LEGIARTI000044071421
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071421
-- Cité par : [art. L131-28 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-28) ; [art. L143-10 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-10) ; [art. L312-38 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-38) ; [art. R222-6 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929288) ; [art. 1584 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073354) ; [art. L214-97 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027810932)
+- Cité par : [art. L131-28 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-28) ; [art. L143-10 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-10) ; [art. L312-38 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-38) ; [art. R222-6 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-6) ; [art. R223-10 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md#article-r223-10) ; [art. R223-13 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md#article-r223-13) ; [art. 876 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-876) ; [art. 1584 du Code général des impôts](../../../../code-general-des-impots/livre-premier/deuxieme-partie/titre-premier/chapitre-iii.md#article-1584) ; [art. L214-97 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-97)
 
 A défaut de paiement de la dette garantie, le créancier peut poursuivre la vente du bien gagé. Cette vente a lieu selon les modalités prévues par le code des procédures civiles d'exécution sans que la convention de gage puisse y déroger.
 
@@ -158,7 +158,7 @@ Lorsque le gage est constitué en garantie d'une dette professionnelle, le créa
 - Identifiant : LEGIARTI000044071418
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071418
-- Cité par : [art. L312-38 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-38) ; [art. L211-20 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050367105)
+- Cité par : [art. L312-38 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md#article-l312-38) ; [art. L211-20 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-20)
 
 Le créancier peut aussi faire ordonner en justice que le bien lui demeurera en paiement.
 
@@ -170,7 +170,7 @@ Lorsque la valeur du bien excède le montant de la dette garantie, la somme éga
 - Identifiant : LEGIARTI000044071415
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071415
-- Cité par : [art. 1867 du Code civil](../../../livre-iii/titre-ix/chapitre-ii.md#article-1867) ; [art. L521-3 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233661) ; [art. L211-20 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050367105) ; [Ordonnance n°2006-346 du 23 mars 2006, art. 57](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006532997)
+- Cité par : [art. 1867 du Code civil](../../../livre-iii/titre-ix/chapitre-ii.md#article-1867) ; [art. L211-20 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-20) ; [art. L521-3 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233661) ; [Ordonnance n°2006-346 du 23 mars 2006, art. 57](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006532997)
 
 Il peut être convenu, lors de la constitution du gage ou postérieurement, qu'à défaut d'exécution de l'obligation garantie le créancier deviendra propriétaire du bien gagé.
 
@@ -196,6 +196,6 @@ Réciproquement, l'héritier du créancier, qui a reçu sa portion de créance, 
 - État : en vigueur depuis le 17/09/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071403
 - Renvoie à : [art. 2333 du Code civil](chapitre-ii.md#article-2333)
-- Cité par : [art. L632-1 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-vi/titre-iii/chapitre-ii.md#article-l632-1) ; [art. L523-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026135)
+- Cité par : [art. L632-1 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-vi/titre-iii/chapitre-ii.md#article-l632-1) ; [art. L523-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-v/titre-ii/chapitre-iii.md#article-l523-1)
 
 Le séquestre ou la consignation de sommes, effets ou valeurs, ordonné judiciairement à titre de garantie ou à titre conservatoire, emporte affectation spéciale et droit de préférence au sens de l'article 2333.

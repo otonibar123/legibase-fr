@@ -6,7 +6,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre VII : TRAIT
 - Identifiant : LEGIARTI000032808604
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808604
-- Cité par : [art. R224-59-1 du Code de la consommation](../../livre-ii/titre-ii/chapitre-iv.md#article-r224-59-1) ; [art. R733-5 du Code de la consommation](../titre-iii/chapitre-iii.md#article-r733-5) ; [art. R742-13 du Code de la consommation](../titre-iv/chapitre-ii.md#article-r742-13) ; [art. R771-1 du Code de la consommation](../titre-vii/chapitre-unique.md#article-r771-1) ; [Livre des procédures fiscales, art. R*247 A-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034719541) ; [Livre des procédures fiscales, art. R*247-18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034719528)
+- Cité par : [art. R224-59-1 du Code de la consommation](../../livre-ii/titre-ii/chapitre-iv.md#article-r224-59-1) ; [art. R733-5 du Code de la consommation](../titre-iii/chapitre-iii.md#article-r733-5) ; [art. R742-13 du Code de la consommation](../titre-iv/chapitre-ii.md#article-r742-13) ; [art. R771-1 du Code de la consommation](../titre-vii/chapitre-unique.md#article-r771-1) ; [Livre des procédures fiscales, art. R*247 A-1](../../../../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-iii.md#article-r247-a-1) ; [Livre des procédures fiscales, art. R*247-18](../../../../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-iii.md#article-r247-18)
 
 Le débiteur adresse ou remet la demande de traitement de sa situation de surendettement au secrétariat de la commission.
 
@@ -44,7 +44,7 @@ Elle précise que si la commission n'a pas décidé de l'orientation du dossier 
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808612
 - Renvoie à : [art. L721-4 du Code de la consommation](../../../partie-legislative-nouvelle/livre-vii/titre-ii/chapitre-ier.md#article-l721-4)
-- Cité par : [art. R713-1 du Code de la consommation](../titre-ier/chapitre-iii.md#article-r713-1) ; [art. R322-16 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747494)
+- Cité par : [art. R713-1 du Code de la consommation](../titre-ier/chapitre-iii.md#article-r713-1) ; [art. R322-16 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-16)
 
 La lettre par laquelle la commission saisit le juge en application du premier alinéa de l'article L. 721-4 indique les noms, prénoms et adresse du débiteur ainsi que ceux des créanciers poursuivants ou, pour les personnes morales, leur dénomination et leur siège social. Sont annexés à cette lettre un état des revenus du débiteur, un relevé des éléments actifs et passifs de son patrimoine et la liste des procédures d'exécution diligentées à l'encontre de ses biens, des cessions de rémunération qu'il a consenties et des mesures d'expulsion de son logement, établis au moyen des documents dont dispose la commission. La copie de l'acte de poursuite fondant la demande est également jointe à cette lettre.
 

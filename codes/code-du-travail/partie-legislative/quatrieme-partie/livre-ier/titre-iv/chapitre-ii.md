@@ -26,7 +26,7 @@ Par dérogation aux dispositions de l'article L. 4141-4, le financement de ces a
 - Identifiant : LEGIARTI000027722968
 - État : en vigueur depuis le 01/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027722968
-- Renvoie à : [art. L4141-4 du Code du travail](chapitre-ier.md#article-l4141-4) ; [art. L4522-2 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-l4522-2) ; [art. L515-36 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027716024)
+- Renvoie à : [art. L515-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8) ; [art. L515-36 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-36) ; [art. L4141-4 du Code du travail](chapitre-ier.md#article-l4141-4) ; [art. L4522-2 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-l4522-2) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2) ; art. L211-2 du Code minier
 - Cité par : [art. L4143-1 du Code du travail](chapitre-iii.md#article-l4143-1)
 
 Dans les établissements comprenant au moins une installation figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier, l'employeur définit et met en oeuvre une formation aux risques des chefs d'entreprises extérieures et de leurs salariés ainsi que des travailleurs indépendants qu'il accueille, dans les conditions prévues à l'article L. 4522-2.

@@ -1,0 +1,143 @@
+# Code minier (nouveau)
+
+Dernière modification du texte dans LEGI : 28/05/2026. 569 articles en vigueur, répartis dans 98 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **PARTIE LÉGISLATIVE**
+  - [PARTIE LÉGISLATIVE : articles rattachés directement](partie-legislative/articles-directs.md) (4 articles)
+  - **LIVRE IER : LE RÉGIME LÉGAL DES MINES**
+    - **TITRE IER : CHAMP D'APPLICATION**
+      - [Chapitre Ier : Les gîtes contenant des substances de mine](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Les gîtes géothermiques](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Politique nationale de gestion durable des ressources et des usages du sous-sol](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Principes régissant le modèle minier](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Régime contentieux](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (2 articles)
+    - **TITRE II : LA RECHERCHE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Le permis exclusif de recherches](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : La recherche en mer](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : La recherche de gîtes géothermiques](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (18 articles)
+      - [Chapitre V : La recherche de gîtes géothermiques sur le plateau continental et dans la zone économique exclusive](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (1 article)
+    - **TITRE III : L'EXPLOITATION**
+      - [Chapitre Ier : Le droit d'exploiter](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Les concessions](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (18 articles)
+      - [Chapitre III : L'exploitation en mer](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : L'exploitation des gîtes géothermiques](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (21 articles)
+      - [Chapitre VI : L'exploration et l'exploitation des mines ou gisements appartenant à l'État](partie-legislative/livre-ier/titre-iii/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : L'exploitation par le titulaire d'un titre minier des haldes et des terrils](partie-legislative/livre-ier/titre-iii/chapitre-vii.md) (1 article)
+    - **TITRE IV : DISPOSITIONS RELATIVES AUX TITRES MINIERS ET AUX AUTORISATIONS**
+      - [Chapitre Ier : Fusion des titres miniers](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Phase de développement des projets miniers, prolongation et extension des titres miniers](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Mutation et amodiation des titres](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Expiration des droits de recherches et d'exploitation](partie-legislative/livre-ier/titre-iv/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions propres aux gîtes géothermiques contenant des substances de mines](partie-legislative/livre-ier/titre-iv/chapitre-v.md) (2 articles)
+    - **TITRE V : DROITS ET OBLIGATIONS LIÉS À L'ACTIVITÉ MINIÈRE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : Droits et obligations des propriétaires de la surface](partie-legislative/livre-ier/titre-v/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Droits et obligations en cas de dommages](partie-legislative/livre-ier/titre-v/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Dispositions propres aux gîtes géothermiques](partie-legislative/livre-ier/titre-v/chapitre-vi.md) (1 article)
+    - **TITRE VI : TRAVAUX MINIERS**
+      - [Chapitre Ier : Règles générales régissant les activités extractives](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Ouverture des travaux](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Arrêt des travaux](partie-legislative/livre-ier/titre-vi/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Dispositions propres aux gîtes géothermiques](partie-legislative/livre-ier/titre-vi/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions propres aux stockages souterrains d'énergie calorifique](partie-legislative/livre-ier/titre-vi/chapitre-v.md) (2 articles)
+    - **TITRE VII : SURVEILLANCE ADMINISTRATIVE ET POLICE DES MINES**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-ier/titre-vii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Obligations faites aux exploitants](partie-legislative/livre-ier/titre-vii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Sanctions administratives](partie-legislative/livre-ier/titre-vii/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Prévention des risques](partie-legislative/livre-ier/titre-vii/chapitre-iv.md) (13 articles)
+      - [Chapitre V : Autorités chargées de la surveillance administrative et de la police des mines](partie-legislative/livre-ier/titre-vii/chapitre-v.md) (15 articles)
+      - [Chapitre VI : Police des mines en mer](partie-legislative/livre-ier/titre-vii/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : Dispositions applicables aux gîtes géothermiques](partie-legislative/livre-ier/titre-vii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Dispositions applicables aux stockages souterrains d'énergie calorifique](partie-legislative/livre-ier/titre-vii/chapitre-viii.md) (1 article)
+    - [TITRE VIII : SÉCURITÉ ET SANTÉ AU TRAVAIL](partie-legislative/livre-ier/titre-viii.md) (1 article)
+    - **TITRE IX : AUTRES DISPOSITIONS SOCIALES**
+      - [Chapitre Ier : Temps de travail](partie-legislative/livre-ier/titre-ix/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Délégués mineurs](partie-legislative/livre-ier/titre-ix/chapitre-ii.md) (35 articles)
+  - **LIVRE II : LE RÉGIME LÉGAL DES STOCKAGES SOUTERRAINS**
+    - **TITRE IER : CHAMP D'APPLICATION**
+      - [Chapitre unique : Dispositions générales](partie-legislative/livre-ii/titre-ier/chapitre-unique.md) (3 articles)
+    - **TITRE II : LA RECHERCHE DE STOCKAGE SOUTERRAIN**
+      - [Chapitre unique : Conditions générales](partie-legislative/livre-ii/titre-ii/chapitre-unique.md) (3 articles)
+    - **TITRE III : L'EXPLOITATION DE STOCKAGE SOUTERRAIN**
+      - [Chapitre unique : Conditions générales](partie-legislative/livre-ii/titre-iii/chapitre-unique.md) (9 articles)
+    - **TITRE IV : DISPOSITIONS RELATIVES AUX TITRES**
+      - [Chapitre unique : Conditions générales](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (5 articles)
+    - **TITRE V : DROITS ET OBLIGATIONS LIÉS À L'ACTIVITÉ DE STOCKAGE SOUTERRAIN**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Droits et obligations des explorateurs et des exploitants entre eux](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Droits et obligations des explorateurs et des exploitants à l'égard des tiers](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Droits et obligations des propriétaires de la surface](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Droits et obligations en cas de dommages](partie-legislative/livre-ii/titre-v/chapitre-v.md) (2 articles)
+    - **TITRE VI : TRAVAUX DE STOCKAGE SOUTERRAIN**
+      - [Chapitre Ier : Règles générales régissant les activités de stockage souterrain](partie-legislative/livre-ii/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Ouverture des travaux](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Arrêt des travaux](partie-legislative/livre-ii/titre-vi/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Sécurité et prévention des risques technologiques](partie-legislative/livre-ii/titre-vi/chapitre-iv.md) (3 articles)
+    - **TITRE VII : SURVEILLANCE ADMINISTRATIVE ET POLICE DES STOCKAGES SOUTERRAINS**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-ii/titre-vii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Obligations](partie-legislative/livre-ii/titre-vii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Sanctions administratives](partie-legislative/livre-ii/titre-vii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Pouvoirs de police administrative](partie-legislative/livre-ii/titre-vii/chapitre-iv.md) (2 articles)
+    - **TITRE VIII : DISPOSITIONS DIVERSES**
+      - [Chapitre Ier : Dispositions propres aux stockages souterrains de gaz naturel](partie-legislative/livre-ii/titre-viii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Frais à la charge du demandeur ou du titulaire de la concession de stockage souterrain](partie-legislative/livre-ii/titre-viii/chapitre-ii.md) (2 articles)
+  - **LIVRE III : RÉGIME LÉGAL DES CARRIÈRES**
+    - **TITRE IER : CHAMP D'APPLICATION**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Passage dans la catégorie des substances de mines](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (11 articles)
+    - **TITRE II : LA RECHERCHE DANS LES ZONES SPÉCIALES DE CARRIÈRES**
+      - [Chapitre Ier : Définition](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : L'autorisation de recherches](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (8 articles)
+    - **TITRE III : L'EXPLOITATION DES CARRIÈRES**
+      - [Chapitre Ier : Régime de l'exploitation des carrières](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Droit d'exploiter](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Modalités particulières d'exploitation dans les zones spéciales de carrières](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Modalités particulières d'exploitation dans les zones d'exploitation coordonnée des carrières](partie-legislative/livre-iii/titre-iii/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Exploitation des déchets de mines, de carrières et d'affouillement](partie-legislative/livre-iii/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Droit de préemption des communes et des départements](partie-legislative/livre-iii/titre-iii/chapitre-vi.md) (1 article)
+    - **TITRE IV : SURVEILLANCE ADMINISTRATIVE DES CARRIÈRES**
+      - [Chapitre unique](partie-legislative/livre-iii/titre-iv/chapitre-unique.md) (1 article)
+    - **TITRE V : RÉGLEMENTATION SOCIALE**
+      - [Chapitre Ier : Santé et sécurité au travail](partie-legislative/livre-iii/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Délégués à la sécurité des ouvriers des carrières](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (3 articles)
+  - **LIVRE IV : FOUILLES ET LEVÉS GÉOPHYSIQUES**
+    - **TITRE UNIQUE : CONDITIONS GÉNÉRALES**
+      - [Chapitre Ier : Déclarations préalables](partie-legislative/livre-iv/titre-unique/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Prérogatives des personnes publiques](partie-legislative/livre-iv/titre-unique/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Publicité et cession des renseignements recueillis](partie-legislative/livre-iv/titre-unique/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions applicables aux gîtes géothermiques](partie-legislative/livre-iv/titre-unique/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions applicables aux stockages souterrains](partie-legislative/livre-iv/titre-unique/chapitre-v.md) (1 article)
+  - **LIVRE V : INFRACTIONS ET SANCTIONS PÉNALES**
+    - **TITRE UNIQUE**
+      - [Chapitre Ier : Constatation des infractions](partie-legislative/livre-v/titre-unique/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Sanctions pénales](partie-legislative/livre-v/titre-unique/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Dispositions particulières](partie-legislative/livre-v/titre-unique/chapitre-iii.md) (10 articles)
+  - **LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE MER**
+    - **TITRE IER : DISPOSITIONS COMMUNES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET À MAYOTTE**
+      - [Chapitre Ier : Dispositions d'adaptation du livre Ier](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (32 articles)
+      - [Chapitre V : Dispositions d'adaptation du livre V](partie-legislative/livre-vi/titre-ier/chapitre-v.md) (3 articles)
+    - **TITRE II : DISPOSITIONS PARTICULIÈRES À LA GUYANE ET À MAYOTTE**
+      - [Chapitre Ier : Dispositions particulières à la Guyane](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (32 articles)
+      - [Chapitre II : Dispositions particulières à Mayotte](partie-legislative/livre-vi/titre-ii/chapitre-ii.md) (3 articles)
+    - **TITRE III : SAINT BARTHÉLEMY**
+      - [Chapitre Ier : Dispositions générales d'adaptation](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (2 articles)
+    - **TITRE IV : SAINT MARTIN**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-vi/titre-iv/chapitre-ier.md) (2 articles)
+    - **TITRE V : SAINT PIERRE ET MIQUELON**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-vi/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions d'adaptation du livre Ier](partie-legislative/livre-vi/titre-v/chapitre-ii.md) (1 article)
+    - **TITRE VI : TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-vi/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Contrôle administratif et constatation des infractions](partie-legislative/livre-vi/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : Redevances](partie-legislative/livre-vi/titre-vi/chapitre-iii.md) (1 article)
+    - **TITRE VII : POLYNÉSIE FRANÇAISE**
+      - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des matières premières stratégiques](partie-legislative/livre-vi/titre-vii/chapitre-unique.md) (5 articles)
+    - **TITRE VIII : NOUVELLE CALÉDONIE**
+      - [Chapitre unique : Dispositions applicables aux substances utiles à l'énergie atomique](partie-legislative/livre-vi/titre-viii/chapitre-unique.md) (5 articles)
+    - **TITRE IX : ÎLES WALLIS ET FUTUNA**
+      - [Chapitre unique : Dispositions applicables à la prospection, à la recherche et à l'exploitation des substances minérales](partie-legislative/livre-vi/titre-ix/chapitre-unique.md) (6 articles)

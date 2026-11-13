@@ -10,7 +10,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006431826
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431826
-- Cité par : [art. 813-2 du Code civil](chapitre-vi.md#article-813-2) ; [art. R4322-90 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042795858) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
+- Cité par : [art. 813-2 du Code civil](chapitre-vi.md#article-813-2) ; [art. R4322-90 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-r4322-90) ; [Décret n°67-223 du 17 mars 1967, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053191325)
 
 Toute personne peut donner à une ou plusieurs autres personnes, physiques ou morales, mandat d'administrer ou de gérer, sous réserve des pouvoirs confiés à l'exécuteur testamentaire, tout ou partie de sa succession pour le compte et dans l'intérêt d'un ou de plusieurs héritiers identifiés.  
 

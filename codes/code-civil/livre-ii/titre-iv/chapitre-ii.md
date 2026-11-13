@@ -73,7 +73,7 @@ Cependant tout copropriétaire d'un mur mitoyen peut se dispenser de contribuer 
 - Identifiant : LEGIARTI000006430015
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430015
-- Cité par : [art. L112-8 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041587611) ; [art. L113-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041563709)
+- Cité par : [art. L112-8 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-8) ; [art. L113-5 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-5)
 
 Tout copropriétaire peut faire bâtir contre un mur mitoyen, et y faire placer des poutres ou solives dans toute l'épaisseur du mur, à cinquante-quatre millimètres près, sans préjudice du droit qu'a le voisin de faire réduire à l'ébauchoir la poutre jusqu'à la moitié du mur, dans le cas où il voudrait lui-même asseoir des poutres dans le même lieu, ou y adosser une cheminée.
 
@@ -177,7 +177,7 @@ Chaque propriétaire a le droit d'exiger que les arbres mitoyens soient arraché
 - Identifiant : LEGIARTI000006430133
 - État : en vigueur depuis le 26/08/1881
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430133
-- Cité par : [art. 672 du Code civil](chapitre-ii.md#article-672) ; [art. L182-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032359730) ; [art. L114-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027573407) ; [art. R126-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035413709) ; [Ordonnance n°2013-516 du 20 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043160)
+- Cité par : [art. 672 du Code civil](chapitre-ii.md#article-672) ; [art. L114-1 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114-1) ; [art. L182-6 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-viii/chapitre-ii.md#article-l182-6) ; [art. R126-2 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md#article-r126-2) ; [Ordonnance n°2013-516 du 20 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043160)
 
 Il n'est permis d'avoir des arbres, arbrisseaux et arbustes près de la limite de la propriété voisine qu'à la distance prescrite par les règlements particuliers actuellement existants, ou par des usages constants et reconnus et, à défaut de règlements et usages, qu'à la distance de deux mètres de la ligne séparative des deux héritages pour les plantations dont la hauteur dépasse deux mètres, et à la distance d'un demi-mètre pour les autres plantations.  
 
@@ -199,7 +199,7 @@ Si les arbres meurent ou s'ils sont coupés ou arrachés, le voisin ne peut les 
 - Identifiant : LEGIARTI000006430148
 - État : en vigueur depuis le 15/02/1921
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430148
-- Cité par : [art. L175-5 du Code forestier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025246456)
+- Cité par : [art. L175-5 du Code forestier (nouveau)](../../../code-forestier-nouveau/partie-legislative/livre-ier/titre-vii/chapitre-v.md#article-l175-5)
 
 Celui sur la propriété duquel avancent les branches des arbres, arbustes et arbrisseaux du voisin peut contraindre celui-ci à les couper. Les fruits tombés naturellement de ces branches lui appartiennent.  
 
@@ -213,6 +213,7 @@ Le droit de couper les racines, ronces et brindilles ou de faire couper les bran
 - Identifiant : LEGIARTI000006430180
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430180
+- Cité par : [art. Annexe Tableau IV-II du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-ii) ; [art. R211-3-8 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-8)
 
 Celui qui fait creuser un puits ou une fosse d'aisance près d'un mur mitoyen ou non,  
 
@@ -230,7 +231,7 @@ Est obligé à laisser la distance prescrite par les règlements et usages parti
 - Identifiant : LEGIARTI000006430196
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430196
-- Cité par : [art. L113-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041563709)
+- Cité par : [art. L113-5 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-5)
 
 L'un des voisins ne peut, sans le consentement de l'autre, pratiquer dans le mur mitoyen aucune fenêtre ou ouverture, en quelque manière que ce soit, même à verre dormant.
 
@@ -247,7 +248,7 @@ Ces fenêtres doivent être garnies d'un treillis de fer dont les mailles auront
 - Identifiant : LEGIARTI000006430214
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430214
-- Cité par : [art. L113-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041563709)
+- Cité par : [art. L113-5 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-5)
 
 Ces fenêtres ou jours ne peuvent être établis qu'à vingt-six décimètres (huit pieds) au-dessus du plancher ou sol de la chambre qu'on veut éclairer, si c'est à rez-de-chaussée, et à dix-neuf décimètres (six pieds) au-dessus du plancher pour les étages supérieurs.
 

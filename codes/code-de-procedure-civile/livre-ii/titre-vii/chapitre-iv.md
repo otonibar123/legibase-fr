@@ -6,7 +6,7 @@ Code de procédure civile › Livre II : Dispositions particulières à chaque j
 - Identifiant : LEGIARTI000044212177
 - État : en vigueur depuis le 16/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044212177
-- Cité par : [Décret n°2021-1341 du 13 octobre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044208017) ; [Livre des procédures fiscales, art. R*288-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039725868)
+- Cité par : [Livre des procédures fiscales, art. R*288-3](../../../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-v/chapitre-ii.md#article-r288-3) ; [Décret n°2021-1341 du 13 octobre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044208017)
 
 Le premier président, ou son délégué, à la demande d'une des parties ou d'office, peut, après avis du procureur général, réduire les délais prévus pour le dépôt des mémoires et des pièces.
 
@@ -96,7 +96,7 @@ Il peut également, après le dépôt des mémoires et, s'il y a lieu, après av
 - Identifiant : LEGIARTI000044212172
 - État : en vigueur depuis le 16/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044212172
-- Renvoie à : [art. R431-1 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018920311)
+- Renvoie à : [art. R431-1 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md#article-r431-1)
 - Cité par : [Décret n°2021-1341 du 13 octobre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044208017)
 
 En dehors des cas dans lesquels la chambre statue en formation restreinte, le président peut, notamment lorsque la complexité de l'affaire le justifie, désigner deux rapporteurs parmi les conseillers ou les conseillers référendaires.  
@@ -152,7 +152,7 @@ Le rapporteur de la formation chargée de statuer sur le pourvoi assiste au dél
 - Identifiant : LEGIARTI000034275188
 - État : en vigueur depuis le 27/03/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034275188
-- Renvoie à : art. L431-3-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L431-3-1 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-3-1)
 
 Lorsque la Cour de cassation invite une personne à produire des observations d'ordre général sur les points qu'elle détermine en application de l'article L. 431-3-1 du code de l'organisation judiciaire, celle-ci peut faire des observations par écrit, qui sont alors communiquées aux parties, ou être entendue au cours d'une audience à laquelle les parties sont convoquées. Il est imparti à ces dernières un délai pour présenter leurs observations écrites.
 

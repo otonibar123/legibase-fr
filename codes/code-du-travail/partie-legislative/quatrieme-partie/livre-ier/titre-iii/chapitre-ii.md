@@ -6,7 +6,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - Identifiant : LEGIARTI000006903159
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903159
-- Cité par : [art. L2312-60 du Code du travail](../../../deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-60) ; [art. L5545-4 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027724097)
+- Cité par : [art. L5545-4 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-l5545-4) ; [art. L2312-60 du Code du travail](../../../deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-60)
 
 Le droit de retrait est exercé de telle manière qu'elle ne puisse créer pour autrui une nouvelle situation de danger grave et imminent.
 

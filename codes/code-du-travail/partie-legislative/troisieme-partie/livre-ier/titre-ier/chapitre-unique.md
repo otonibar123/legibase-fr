@@ -6,7 +6,7 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - Identifiant : LEGIARTI000006902438
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902438
-- Cité par : [art. D331-1 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028683057) ; [art. R715-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050365022)
+- Cité par : [art. D331-1 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-d331-1) ; [art. R715-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-v.md#article-r715-1)
 
 Les dispositions du présent livre sont applicables aux employeurs de droit privé ainsi qu'à leurs salariés.  
 
@@ -16,7 +16,7 @@ Elles sont également applicables aux établissements publics à caractère indu
 - Identifiant : LEGIARTI000006902439
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902439
-- Cité par : [art. L5122-3 du Code du travail](../../../cinquieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l5122-3) ; [art. R2312-7 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-7) ; [art. R123-47-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033471288) ; [art. L5544-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035627501) ; [art. D1142-15 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047548240) ; [Décret n°2020-1786 du 30 décembre 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042970788)
+- Cité par : [art. L313-25 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-25) ; [art. R123-47-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-ii/chapitre-3.md#article-r123-47-3) ; [art. L5544-1 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-iv.md#article-l5544-1) ; [art. L5122-3 du Code du travail](../../../cinquieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l5122-3) ; [art. R2312-7 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-7) ; [art. D1142-15 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047548240) ; [Décret n°2020-1786 du 30 décembre 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042970788)
 
 Les cadres dirigeants ne sont pas soumis aux dispositions des titres II et III.  
 

@@ -90,7 +90,7 @@ Pour l'application du présent article, le curateur peut donner mandat aux fins 
 - Identifiant : LEGIARTI000053775748
 - État : en vigueur depuis le 09/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053775748
-- Cité par : [art. 810-8 du Code civil](chapitre-v.md#article-810-8) ; [art. 1349 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1349) ; [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798) ; [art. R2222-26 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024885396)
+- Cité par : [art. 810-8 du Code civil](chapitre-v.md#article-810-8) ; [art. 1349 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1349) ; [art. R2222-26 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-r2222-26) ; [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798)
 
 La vente a lieu soit par commissaire de justice ou notaire selon les lois et règlements applicables à ces professions, soit par le tribunal, soit dans les formes prévues par le code général de la propriété des personnes publiques pour l'aliénation, à titre onéreux, du domaine immobilier ou du domaine mobilier appartenant à l'Etat.
 

@@ -9,7 +9,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre Ier : INFOR
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033176868
 - Renvoie à : [art. L122-20 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ii.md#article-l122-20)
-- Cité par : [art. D122-3 du Code de la consommation](chapitre-ii.md#article-d122-3) ; [art. D213-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047724966)
+- Cité par : [art. D213-1 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-d213-1) ; [art. D122-3 du Code de la consommation](chapitre-ii.md#article-d122-3)
 
 I.-Un produit brut, au sens de l'article L. 122-20, est un produit alimentaire cru ne contenant, notamment à l'occasion de son conditionnement ou du procédé utilisé pour sa conservation, aucun assemblage avec d'autre produit alimentaire excepté le sel.  
 
@@ -71,7 +71,7 @@ III.-Un plat composé exclusivement de produits mentionnés à l'article D. 122-
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045186126
 - Renvoie à : [art. L321-1 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1)
-- Cité par : [art. R122-6 du Code de la consommation](chapitre-ii.md#article-r122-6)
+- Cité par : [art. R543-156-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-iii.md#article-r543-156-1) ; [art. R122-6 du Code de la consommation](chapitre-ii.md#article-r122-6)
 
 Un produit ou une pièce détachée d'occasion, au sens de l'article L. 321-1 du code de commerce, peut être qualifié de “ produit reconditionné ” ou être accompagné du terme “ reconditionné ”, dès lors que les conditions suivantes sont réunies :  
 

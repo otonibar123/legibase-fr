@@ -1,0 +1,235 @@
+# Code du cinéma et de l'image animée
+
+Dernière modification du texte dans LEGI : 01/11/2026. 2057 articles en vigueur, répartis dans 157 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : Organisation administrative**
+    - **Titre Ier : Centre national du cinéma et de l'image animée**
+      - [Chapitre Ier : Statut et missions](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Organisation et fonctionnement](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Recrutement et statut des agents contractuels](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions financières et comptables](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Compétences fiscales](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (4 articles)
+      - [Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée](partie-legislative/livre-ier/titre-ier/chapitre-vi.md) (2 articles)
+    - **Titre II : Registres du cinéma et de l'audiovisuel**
+      - [Chapitre Ier : Principes généraux](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dépôt du titre et immatriculation des œuvres](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Inscription et publication des actes, conventions et jugements](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Privilège et réalisation du nantissement](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Communication de renseignements relatifs aux recettes](partie-legislative/livre-ier/titre-ii/chapitre-vi.md) (3 articles)
+  - **Livre II : Professions et activités**
+    - **Titre Ier : Exercice des professions et activités du cinéma**
+      - [Chapitre Ier : Visa d'exploitation cinématographique](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Secteur de l'exploitation cinématographique](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (55 articles)
+      - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (23 articles)
+      - [Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée](partie-legislative/livre-ii/titre-ier/chapitre-iii-bis.md) (14 articles)
+      - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (9 articles)
+    - **Titre II : Edition vidéographique et services de médias audiovisuels à la demande**
+      - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Contrôle des recettes d'exploitation vidéographique](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : Chronologie de l'exploitation des oeuvres cinématographiques**
+      - [Chapitre Ier : Exploitation sous forme de vidéogrammes](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Exploitation sur les services de télévision](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions communes](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (2 articles)
+    - **Titre IV : Dépôt légal**
+      - [Chapitre unique : Obligation de dépôt légal](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (1 article)
+    - **Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles**
+      - [Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles](partie-legislative/livre-ii/titre-v/chapitre-unique.md) (13 articles)
+    - **Titre VI : Protection de l'accès du public aux œuvres cinématographiques et audiovisuelles**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-vi/chapitre-unique.md) (5 articles)
+  - **Livre III : Financement et fiscalité**
+    - **Titre Ier : Aides du Centre national du cinéma et de l'image animée**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (4 articles)
+    - **Titre II : Aides des collectivités territoriales**
+      - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques](partie-legislative/livre-iii/titre-ii/chapitre-unique.md) (3 articles)
+    - **Titre III : Incitations fiscales**
+      - [Chapitre Ier : Crédits d'impôt](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Déductions fiscales et réductions d'impôt au titre des investissements outre-mer](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre V : Contribution économique territoriale](partie-legislative/livre-iii/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions diverses](partie-legislative/livre-iii/titre-iii/chapitre-vi.md) (1 article)
+  - **Livre IV : Contrôles et sanctions**
+    - **Titre Ier : Procédures de contrôle**
+      - [Chapitre Ier : Compétence des agents de contrôle](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Prérogatives et moyens d'intervention](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Echanges d'informations](partie-legislative/livre-iv/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Constatation des manquements et des infractions](partie-legislative/livre-iv/titre-ier/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Secret professionnel](partie-legislative/livre-iv/titre-ier/chapitre-v.md) (1 article)
+    - **Titre II : Sanctions administratives**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Nature des sanctions administratives](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Procédure de sanction](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : Dispositions diverses](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques](partie-legislative/livre-iv/titre-ii/chapitre-v.md) (1 article)
+    - **Titre III : Dispositions pénales**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques](partie-legislative/livre-iv/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : Actions en justice**
+      - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Délit de contrefaçon](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : Atteinte à un droit d'auteur ou à un droit voisin par un service de communication au public en ligne](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (1 article)
+  - **Livre V : Dispositions relatives à l'outre-mer**
+    - **Titre unique**
+      - [Chapitre unique](partie-legislative/livre-v/titre-unique/chapitre-unique.md) (2 articles)
+- **Partie réglementaire**
+  - **Livre Ier : Organisation administrative**
+    - **Titre Ier : Centre national du cinéma et de l'image animée**
+      - [Chapitre Ier : Statut et missions](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Organisation et fonctionnement](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (37 articles)
+      - [Chapitre III : Recrutement et statut des agents contractuels](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Dispositions financières et comptables](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (4 articles)
+    - **Titre II : Registres du cinéma et de l'audiovisuel**
+      - [Chapitre Ier : Principes généraux](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Inscription et publication des actes, conventions et jugements](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (3 articles)
+  - **Livre II : Professions et activités**
+    - **Titre Ier : Exercice des professions et activités du cinéma**
+      - **Section préliminaire : Les œuvres cinématographiques**
+        - **Sous-section 1 : Caractéristiques des œuvres cinématographiques**
+          - [Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée](partie-reglementaire/livre-ii/titre-ier/section-preliminaire/sous-section-1/paragraphe-1.md) (2 articles)
+          - [Paragraphe 2 : Œuvres cinématographiques d'art et d'essai](partie-reglementaire/livre-ii/titre-ier/section-preliminaire/sous-section-1/paragraphe-2.md) (3 articles)
+          - [Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire](partie-reglementaire/livre-ii/titre-ier/section-preliminaire/sous-section-1/paragraphe-3.md) (2 articles)
+        - [Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques](partie-reglementaire/livre-ii/titre-ier/section-preliminaire/sous-section-2.md) (3 articles)
+        - [Sous-section 3 : Sélection de l'œuvre cinématographique de longue durée représentant le cinéma français aux Oscars](partie-reglementaire/livre-ii/titre-ier/section-preliminaire/sous-section-3.md) (2 articles)
+      - [Chapitre Ier : Visa d'exploitation cinématographique](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (51 articles)
+      - [Chapitre II : Secteur de l'exploitation cinématographique](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (128 articles)
+      - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (11 articles)
+      - [Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée](partie-reglementaire/livre-ii/titre-ier/chapitre-iii-bis.md) (4 articles)
+      - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (11 articles)
+    - **Titre II : Édition vidéographique et services de médias audiovisuels à la demande**
+      - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Contrôle des recettes d'exploitation vidéographique](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+    - **Titre III : Chronologie de l'exploitation des oeuvres cinématographiques**
+      - [Chapitre Ier : Exploitation sous forme de vidéogrammes](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (6 articles)
+    - **Titre IV : Dépôt légal**
+      - [Chapitre unique : Obligation de dépôt légal](partie-reglementaire/livre-ii/titre-iv/chapitre-unique.md) (3 articles)
+    - **Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles**
+      - [Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles](partie-reglementaire/livre-ii/titre-v/chapitre-unique.md) (5 articles)
+    - **Titre VI : Protection de l'accès du public aux œuvres cinématographiques et audiovisuelles**
+      - [Chapitre unique](partie-reglementaire/livre-ii/titre-vi/chapitre-unique.md) (20 articles)
+  - **Livre III : Financement et fiscalité**
+    - **Titre Ier : Aides du centre national du cinéma et de l'image animée**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+    - **Titre II : Aides des collectivités territoriales**
+      - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques](partie-reglementaire/livre-iii/titre-ii/chapitre-unique.md) (2 articles)
+    - **Titre III : Incitations fiscales**
+      - [Chapitre Ier : Crédits d'impôt](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (66 articles)
+      - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (2 articles)
+  - **Livre IV : Contrôles et sanctions**
+    - **Titre Ier : Procédures de contrôle**
+      - [Chapitre Ier : Compétence des agents de contrôle](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Prérogatives et moyens d'intervention](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre IV : Constatation des manquements et des infractions](partie-reglementaire/livre-iv/titre-ier/chapitre-iv.md) (2 articles)
+    - **Titre II : Sanctions administratives**
+      - [Chapitre Ier : Champ d'application](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Procédure de sanction](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (18 articles)
+    - **Titre III : Dispositions pénales**
+      - [Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques](partie-reglementaire/livre-iv/titre-iii/chapitre-iv.md) (1 article)
+- **Annexe : RÈGLEMENT GÉNÉRAL DES AIDES FINANCIÈRES DU CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE**
+  - **Livre I : DISPOSITIONS GÉNÉRALES**
+    - [Titre I : OBJET ET CHAMP D'APPLICATION](annexe/livre-i/titre-i.md) (5 articles)
+    - **Titre II : RÈGLES GÉNÉRALES RELATIVES AUX AIDES FINANCIÈRES**
+      - [Chapitre liminaire : Définitions](annexe/livre-i/titre-ii/chapitre-liminaire.md) (1 article)
+      - [Chapitre I : Dispositions applicables à l'ensemble des aides financières](annexe/livre-i/titre-ii/chapitre-i.md) (10 articles)
+      - [Chapitre II : Dispositions relatives à certaines conditions de procédure et d'éligibilité](annexe/livre-i/titre-ii/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Dispositions relatives aux aides automatiques sous forme d'allocations d'investissement](annexe/livre-i/titre-ii/chapitre-iii.md) (14 articles)
+    - **Titre III : RÈGLES GÉNÉRALES RELATIVES AUX COMMISSIONS CONSULTATIVES, AUX COMITÉS DE LECTURE ET AUX LECTEURS**
+      - [Chapitre I : Nomination](annexe/livre-i/titre-iii/chapitre-i.md) (2 articles)
+      - [Chapitre II : Déontologie](annexe/livre-i/titre-iii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Fonctionnement](annexe/livre-i/titre-iii/chapitre-iii.md) (14 articles)
+  - **Livre II : SOUTIEN À LA CRÉATION CINÉMATOGRAPHIQUE ET À LA DIFFUSION EN SALLE**
+    - **Titre I : AIDES FINANCIÈRES À LA CRÉATION DES ŒUVRES CINÉMATOGRAPHIQUES DE LONGUE DURÉE**
+      - [Chapitre I : Aides financières à la production et à la préparation des œuvres cinématographiques de longue durée](annexe/livre-ii/titre-i/chapitre-i.md) (166 articles)
+      - [Chapitre II : Aides financières à l'élaboration et au développement de projets d'œuvres cinématographiques de longue durée](annexe/livre-ii/titre-i/chapitre-ii.md) (53 articles)
+    - **Titre II : AIDES FINANCIÈRES À LA DISTRIBUTION CINÉMATOGRAPHIQUE**
+      - [Chapitre I : Dispositions générales](annexe/livre-ii/titre-ii/chapitre-i.md) (6 articles)
+      - [Chapitre II : Aides financières automatiques](annexe/livre-ii/titre-ii/chapitre-ii.md) (25 articles)
+      - [Chapitre III : Aides financières sélectives](annexe/livre-ii/titre-ii/chapitre-iii.md) (34 articles)
+    - **Titre III : AIDES FINANCIÈRES À L'EXPLOITATION CINÉMATOGRAPHIQUE**
+      - [Titre III : AIDES FINANCIÈRES À L'EXPLOITATION CINÉMATOGRAPHIQUE : articles rattachés directement](annexe/livre-ii/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre I : Aides financières à la programmation et aux actions d'animation dans les établissements de spectacles cinématographiques](annexe/livre-ii/titre-iii/chapitre-i.md) (41 articles)
+      - [Chapitre II : Aides financières à la création et à la modernisation des établissements de spectacles cinématographiques](annexe/livre-ii/titre-iii/chapitre-ii.md) (35 articles)
+      - [Chapitre III : Aides financières sélectives au développement de l'emploi dans le secteur de l'exploitation cinématographique itinérante](annexe/livre-ii/titre-iii/chapitre-iii.md) (7 articles)
+    - [ANNEXE AU LIVRE II](annexe/livre-ii/annexe-au-livre-ii.md) (1 article)
+  - **Livre III : SOUTIEN À LA CRÉATION AUDIOVISUELLE ET MULTIMÉDIA**
+    - **Titre I : AIDES FINANCIÈRES À LA CRÉATION DES ŒUVRES AUDIOVISUELLES**
+      - [Chapitre I : Aides financières à la production et à la préparation des œuvres audiovisuelles](annexe/livre-iii/titre-i/chapitre-i.md) (120 articles)
+      - [Chapitre II : Aides financières à l'élaboration et au développement de projets d'œuvres audiovisuelles](annexe/livre-iii/titre-i/chapitre-ii.md) (61 articles)
+    - **Titre II : AIDES FINANCIÈRES À LA CRÉATION DES ŒUVRES DU MULTIMÉDIA**
+      - [Chapitre I : Aides financières à la création, à la production et à la promotion des œuvres immersives](annexe/livre-iii/titre-ii/chapitre-i.md) (36 articles)
+      - [Chapitre II : Aides financières à la création, à la production, à la diffusion et à la promotion des jeux vidéo](annexe/livre-iii/titre-ii/chapitre-ii.md) (41 articles)
+    - [ANNEXE AU LIVRE III](annexe/livre-iii/annexe-au-livre-iii.md) (1 article)
+  - **Livre IV : SOUTIEN À LA DIVERSITÉ DE LA CRÉATION ET À LA DIFFUSION AUPRÈS DES PUBLICS**
+    - **Titre I : AIDES FINANCIÈRES À LA CRÉATION ET À LA DIFFUSION DES ŒUVRES CINÉMATOGRAPHIQUES ET AUDIOVISUELLES DE COURTE DURÉE**
+      - [Chapitre I : Aides financières à la production, à l'élaboration et au développement des œuvres cinématographiques et audiovisuelles de courte durée](annexe/livre-iv/titre-i/chapitre-i.md) (97 articles)
+      - [Chapitre II : Aides financières à la programmation en salles des œuvres cinématographiques et audiovisuelles de courte durée](annexe/livre-iv/titre-i/chapitre-ii.md) (10 articles)
+    - **Titre II : AIDES FINANCIÈRES À LA CRÉATION ET À LA DIFFUSION DE CERTAINES ŒUVRES CINÉMATOGRAPHIQUES, AUDIOVISUELLES ET MULTIMÉDIAS**
+      - [Chapitre I : Aides financières à l'innovation en documentaire de création](annexe/livre-iv/titre-ii/chapitre-i.md) (28 articles)
+      - [Chapitre II : Aides financières à la création et à la diffusion des œuvres traitant de la diversité de la population et de l'égalité des chances](annexe/livre-iv/titre-ii/chapitre-ii.md) (38 articles)
+    - **Titre III : AIDES FINANCIÈRES À LA CRÉATION ET À LA PROMOTION D'ŒUVRES POUR LES PLATEFORMES SOCIALES**
+      - [Chapitre Ier : Dispositions générales](annexe/livre-iv/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre 2 : Aides aux auteurs émergents](annexe/livre-iv/titre-iii/chapitre-2.md) (6 articles)
+      - [Chapitre 3 : Aides au développement et à la production d'œuvres pour les plateformes sociales](annexe/livre-iv/titre-iii/chapitre-3.md) (9 articles)
+      - [Chapitre 4 : Aides aux opérations à caractère collectif](annexe/livre-iv/titre-iii/chapitre-4.md) (6 articles)
+      - [Chapitre 5 : Commission consultative](annexe/livre-iv/titre-iii/chapitre-5.md) (2 articles)
+    - **Titre IV : Aides au parcours d'auteur**
+      - [Chapitre I : Objet et conditions d'attribution](annexe/livre-iv/titre-iv/chapitre-i.md) (6 articles)
+      - [Chapitre II : Procédure et modalités d'attribution](annexe/livre-iv/titre-iv/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Commission consultative](annexe/livre-iv/titre-iv/chapitre-iii.md) (2 articles)
+    - [ANNEXE AU LIVRE IV](annexe/livre-iv/annexe-au-livre-iv.md) (1 article)
+  - **Livre V : SOUTIEN AUX ACTIONS EN FAVEUR DU PATRIMOINE CINÉMATOGRAPHIQUE**
+    - **Titre UNIQUE : AIDES FINANCIÈRES À LA PRÉSERVATION ET À LA VALORISATION DU PATRIMOINE CINÉMATOGRAPHIQUE**
+      - [Chapitre unique : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine](annexe/livre-v/titre-unique/chapitre-unique.md) (13 articles)
+    - [ANNEXE AU LIVRE V](annexe/livre-v/annexe-au-livre-v.md) (1 article)
+  - **Livre VI : SOUTIEN À LA DIFFUSION VIDÉOGRAPHIQUE ET À L'INNOVATION TECHNOLOGIQUE**
+    - **Titre I : AIDES FINANCIÈRES À LA DIFFUSION EN VIDÉO PHYSIQUE ET EN LIGNE**
+      - [Chapitre I : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles](annexe/livre-vi/titre-i/chapitre-i.md) (30 articles)
+      - [Chapitre II : Aides financières à la diffusion en ligne](annexe/livre-vi/titre-i/chapitre-ii.md) (28 articles)
+      - [Chapitre III : Commissions consultatives](annexe/livre-vi/titre-i/chapitre-iii.md) (2 articles)
+    - **Titre II : AIDES FINANCIÈRES À L'UTILISATION DES EFFETS VISUELS NUMÉRIQUES ET DES TECHNIQUES D'ANIMATION**
+      - [Chapitre I : Aides financières à la production d'œuvres cinématographiques ou audiovisuelles ayant recours à des effets visuels numériques](annexe/livre-vi/titre-ii/chapitre-i.md) (23 articles)
+      - [Chapitre II : Aides financières à la production d'œuvres cinématographiques ou audiovisuelles ayant recours à des techniques d'animation](annexe/livre-vi/titre-ii/chapitre-ii.md) (12 articles)
+    - **Titre III : AIDES FINANCIÈRES AUX PROJETS TECHNIQUES**
+      - [Chapitre I : Dispositions générales](annexe/livre-vi/titre-iii/chapitre-i.md) (4 articles)
+      - [Chapitre II : Aide à la faisabilité](annexe/livre-vi/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Aide à la réalisation de projets](annexe/livre-vi/titre-iii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Aide aux opérations à caractère collectif](annexe/livre-vi/titre-iii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Commission consultative](annexe/livre-vi/titre-iii/chapitre-v.md) (2 articles)
+    - [ANNEXE AU LIVRE VI](annexe/livre-vi/annexe-au-livre-vi.md) (1 article)
+  - **Livre VII : SOUTIEN À LA COOPÉRATION ET À LA DIFFUSION INTERNATIONALE ET EUROPÉENNE**
+    - **Titre I : AIDES FINANCIÈRES AU DÉVELOPPEMENT DES COPRODUCTIONS INTERNATIONALES**
+      - [Chapitre I : Aides financières aux projets de codéveloppement international ou de coproductions internationales](annexe/livre-vii/titre-i/chapitre-i.md) (3 articles)
+      - [Chapitre II : Aides financières aux cinémas du monde](annexe/livre-vii/titre-i/chapitre-ii.md) (34 articles)
+    - **Titre II : AIDES FINANCIÈRES À LA PROMOTION ET A LA DISTRIBUTION À L'ÉTRANGER DES ŒUVRES CINÉMATOGRAPHIQUES ET AUDIOVISUELLES**
+      - [Chapitre I : Aides financières à la promotion à l'étranger des œuvres cinématographiques](annexe/livre-vii/titre-ii/chapitre-i.md) (26 articles)
+      - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles](annexe/livre-vii/titre-ii/chapitre-ii.md) (24 articles)
+      - [Chapitre IV : Dispositif de soutien financier à la distribution à l'étranger d'Unifrance](annexe/livre-vii/titre-ii/chapitre-iv.md) (1 article)
+    - [ANNEXE AU LIVRE VII](annexe/livre-vii/annexe-au-livre-vii.md) (1 article)
+  - **Livre VIII : DISPOSITIONS DIVERSES**
+    - [Titre I : DISPOSITIONS RELATIVES AU CALCUL DU SOUTIEN À LA PRODUCTION, À LA DISTRIBUTION ET À L'EXPLOITATION DES ŒUVRES CINÉMATOGRAPHIQUES](annexe/livre-viii/titre-i.md) (1 article)
+    - **Titre II : Aides financières au développement de la cinéphilie**
+      - [Chapitre Ier : Aides aux livres et revues de cinéma](annexe/livre-viii/titre-ii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Aides aux manifestations contribuant à développer la cinéphilie](annexe/livre-viii/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Dispositions communes](annexe/livre-viii/titre-ii/chapitre-iii.md) (3 articles)
+    - [ANNEXE AU LIVRE VIII](annexe/livre-viii/annexe-au-livre-viii.md) (1 article)
+  - **Livre IX : MESURES EXCEPTIONNELLES**
+    - **Titre UNIQUE : MESURES EXCEPTIONNELLES EN FAVEUR DES ENTREPRISES DU SECTEUR DU CINÉMA ET DES AUTRES ARTS ET INDUSTRIES DE L'IMAGE ANIMÉE AFFECTÉES PAR L'ÉPIDÉMIE DE COVID-19**
+      - [Chapitre I : Dispositions relatives à l'affectation des allocations d'investissement](annexe/livre-ix/titre-unique/chapitre-i.md) (2 articles)
+      - [Chapitre II : Dispositions relatives à l'éligibilité des œuvres cinématographiques de longue durée](annexe/livre-ix/titre-unique/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions relatives au fonds d'indemnisation pour interruption ou abandon des tournages d'œuvres cinématographiques ou audiovisuelles liés à l'épidémie de covid-19](annexe/livre-ix/titre-unique/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Dispositions relatives au soutien exceptionnel des entreprises de production et de distribution d'œuvres cinématographiques durant la période de reprise de l'exploitation en salles des œuvres cinématographiques](annexe/livre-ix/titre-unique/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions relatives aux aides financières à la promotion à l'étranger des œuvres audiovisuelles](annexe/livre-ix/titre-unique/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Plan de relance du cinéma et de l'audiovisuel](annexe/livre-ix/titre-unique/chapitre-vi.md) (49 articles)
+      - [Chapitre VII : Dispositions relatives au soutien exceptionnel des entreprises de production et de distribution d'œuvres cinématographiques en raison des mesures de restriction et d'interdiction d'accueil du public dans les salles à compter du mois d'octobre 2020](annexe/livre-ix/titre-unique/chapitre-vii.md) (18 articles)
+      - [Chapitre VIII : Dispositions relatives aux aides à la création et à la diffusion des œuvres cinématographiques et audiovisuelles de courte durée](annexe/livre-ix/titre-unique/chapitre-viii.md) (9 articles)
+      - [Chapitre IX : Dispositions relatives au soutien exceptionnel du secteur du cinéma et de l'image animée en raison des conditions dégradées de production et d'exploitation des œuvres liées à la crise sanitaire](annexe/livre-ix/titre-unique/chapitre-ix.md) (118 articles)

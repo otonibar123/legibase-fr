@@ -37,7 +37,7 @@ La modification d'assiette du bénéfice net intervenue après la délivrance d'
 - Identifiant : LEGIARTI000018533180
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533180
-- Renvoie à : [art. L3325-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l3325-3) ; [art. 171 bis du CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006295421) ; [art. 237 bis A du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006309047)
+- Renvoie à : [art. L3325-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l3325-3) ; [art. 237 bis A du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-237-bis-a) ; [art. 171 bis du Code général des impôts, annexe II](../../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-premier/chapitre-viii.md#article-171-bis)
 
 La constitution en franchise d'impôt de la provision pour investissement prévue à l'article L. 3325-3 et au II de l'article 237 bis A du code général des impôts est subordonnée au respect des dispositions prévues à l'article 171 bis de l'annexe II au code général des impôts.
 
@@ -45,7 +45,7 @@ La constitution en franchise d'impôt de la provision pour investissement prévu
 - Identifiant : LEGIARTI000018533178
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533178
-- Renvoie à : [art. L3325-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l3325-2)
+- Renvoie à : [art. L3325-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l3325-2) ; [art. 77 du Code général des impôts, annexe II](../../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-77)
 
 L'avoir fiscal et le crédit d'impôt attachés aux revenus des valeurs mobilières attribuées aux salariés ou acquises pour leur compte au titre de la participation donnent lieu à délivrance d'un certificat distinct, conformément aux dispositions de l'article 77 de l'annexe II au code général des impôts et sous les deux modalités suivantes :
 

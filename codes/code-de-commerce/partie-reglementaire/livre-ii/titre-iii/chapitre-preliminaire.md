@@ -6,7 +6,7 @@ Code de commerce › Partie réglementaire › LIVRE II : Des sociétés commerc
 - Identifiant : LEGIARTI000049216666
 - État : en vigueur depuis le 01/03/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049216666
-- Renvoie à : [art. L230-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-preliminaire.md#article-l230-1) ; art. L130-1 du Code de la sécurité sociale
+- Renvoie à : [art. L230-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-preliminaire.md#article-l230-1) ; [art. L130-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1)
 - Cité par : [Arrêté du 2 mai 2025, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051554257) ; [Arrêté du 8 octobre 2026, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054972327) ; [Décret n°2024-152 du 28 février 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049213858)
 
 Pour l'application de l'article L. 230-1 :
@@ -33,7 +33,7 @@ Sauf disposition contraire, ces seuils sont réputés franchis à la date de cl�
 - Identifiant : LEGIARTI000049216663
 - État : en vigueur depuis le 01/03/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049216663
-- Renvoie à : art. L130-1 du Code de la sécurité sociale
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1)
 - Cité par : [Décret n°2024-152 du 28 février 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049213858)
 
 Pour l'application de l'article L. 230-2 :

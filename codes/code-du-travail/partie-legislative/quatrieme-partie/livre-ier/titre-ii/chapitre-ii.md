@@ -6,7 +6,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - Identifiant : LEGIARTI000006903153
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903153
-- Cité par : [art. L1321-1 du Code du travail](../../../premiere-partie/livre-iii/titre-ii/chapitre-ier.md#article-l1321-1) ; [art. L5545-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023079397)
+- Cité par : [art. L5545-2 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-l5545-2) ; [art. L1321-1 du Code du travail](../../../premiere-partie/livre-iii/titre-ii/chapitre-ier.md#article-l1321-1)
 
 Conformément aux instructions qui lui sont données par l'employeur, dans les conditions prévues au règlement intérieur pour les entreprises tenues d'en élaborer un, il incombe à chaque travailleur de prendre soin, en fonction de sa formation et selon ses possibilités, de sa santé et de sa sécurité ainsi que de celles des autres personnes concernées par ses actes ou ses omissions au travail.  
 

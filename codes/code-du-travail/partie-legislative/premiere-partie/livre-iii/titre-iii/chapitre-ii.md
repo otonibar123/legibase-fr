@@ -31,7 +31,7 @@ La sanction ne peut intervenir moins de deux jours ouvrables, ni plus d'un mois 
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901449
 - Renvoie à : [art. L1332-2 du Code du travail](chapitre-ii.md#article-l1332-2)
-- Cité par : [art. L6222-18 du Code du travail](../../../sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-18) ; [Arrêté du 12 novembre 2004, art. 721-5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051205666) ; [art. D621-37-1-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035530700)
+- Cité par : [art. L6222-18 du Code du travail](../../../sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-18) ; [art. D621-37-1-2 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-reglementaire/livre-vi/titre-ii/chapitre-unique.md#article-d621-37-1-2) ; [Arrêté du 12 novembre 2004, art. 721-5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051205666)
 
 Lorsque les faits reprochés au salarié ont rendu indispensable une mesure conservatoire de mise à pied à effet immédiat, aucune sanction définitive relative à ces faits ne peut être prise sans que la procédure prévue à l'article L. 1332-2 ait été respectée.
 

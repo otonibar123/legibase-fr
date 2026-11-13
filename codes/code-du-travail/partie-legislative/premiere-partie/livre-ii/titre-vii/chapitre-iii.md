@@ -6,7 +6,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000033021108
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033021108
-- Renvoie à : [art. L3141-30 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-30) ; [art. L3141-32 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-32) ; [art. L5312-1 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; art. L133-5 du Code de la sécurité sociale ; [art. L133-5-7 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030748405) ; art. L133-5-8 du Code de la sécurité sociale
+- Renvoie à : [art. L133-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5) ; [art. L133-5-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-7) ; [art. L133-5-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-8) ; [art. L3141-30 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-30) ; [art. L3141-32 du Code du travail](../../../troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-32) ; [art. L5312-1 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1)
 
 Le recours au service " Titre Emploi-Service Entreprise " permet notamment à l'entreprise :
 

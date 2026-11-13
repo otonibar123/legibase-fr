@@ -8,7 +8,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006444211
 - État : en vigueur depuis le 01/07/1978
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444211
-- Cité par : [Décret n°78-704 du 3 juillet 1978, art. 30](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006569319) ; [Livre des procédures fiscales, art. L94 A](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006315141)
+- Cité par : [art. Annexe Tableau IV-II du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-ii) ; [Livre des procédures fiscales, art. L94 A](../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-ii.md#article-l94-a) ; [Décret n°78-704 du 3 juillet 1978, art. 30](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006569319)
 
 Les dispositions du présent chapitre sont applicables à toutes les sociétés civiles, à moins qu'il n'y soit dérogé par le statut légal particulier auquel certaines d'entre elles sont assujetties.  
 
@@ -151,7 +151,7 @@ Toutefois, un ou plusieurs associés de la société absorbante réunissant au m
 - Identifiant : LEGIARTI000006444317
 - État : en vigueur depuis le 01/07/1978
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444317
-- Cité par : [art. R213-7 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033231371) ; [art. R218-12 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046275899) ; [art. L321-5 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033687849) ; [art. R241-51 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006590562) ; [Décret n°78-704 du 3 juillet 1978, art. 48](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006569473)
+- Cité par : [art. R213-7 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md#article-r213-7) ; [art. R218-12 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-viii.md#article-r218-12) ; [art. L321-5 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-ier.md#article-l321-5) ; [art. R241-51 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md#article-r241-51) ; [Décret n°78-704 du 3 juillet 1978, art. 48](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006569473)
 
 Les associés ont le droit d'obtenir, au moins une fois par an, communication des livres et des documents sociaux, et de poser par écrit des questions sur la gestion sociale auxquelles il devra être répondu par écrit dans le délai d'un mois.
 
@@ -159,7 +159,7 @@ Les associés ont le droit d'obtenir, au moins une fois par an, communication de
 - Identifiant : LEGIARTI000006444320
 - État : en vigueur depuis le 01/07/1978
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444320
-- Cité par : [art. R213-7 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033231371) ; [art. R218-12 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046275899) ; [art. Annexe à l'article R443-9-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042116925) ; [art. R422-26 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006280197) ; [art. R241-50 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035416617) ; [Décret n°78-704 du 3 juillet 1978, art. 41](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006569408)
+- Cité par : [art. R213-7 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md#article-r213-7) ; [art. R218-12 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-viii.md#article-r218-12) ; [art. Annexe à l'article R443-9-4 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/statuts-des-societes-civiles-immobilieres-d-accession-progressive-a-la-propriete.md#article-annexe-à-larticle-r443-9-4) ; [art. R422-26 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md#article-r422-26) ; [art. R241-50 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md#article-r241-50) ; [Décret n°78-704 du 3 juillet 1978, art. 41](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006569408)
 
 Les gérants doivent, au moins une fois dans l'année, rendre compte de leur gestion aux associés. Cette reddition de compte doit comporter un rapport écrit d'ensemble sur l'activité de la société au cours de l'année ou de l'exercice écoulé comportant l'indication des bénéfices réalisés ou prévisibles et des pertes encourues ou prévues.
 
@@ -169,7 +169,7 @@ Les gérants doivent, au moins une fois dans l'année, rendre compte de leur ges
 - Identifiant : LEGIARTI000006444321
 - État : en vigueur depuis le 01/07/1978
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444321
-- Cité par : [art. L200-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028778402) ; [art. L443-6-7 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006825462) ; [art. R4131-18 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006913206) ; [Loi n°86-18 du 6 janvier 1986, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006305608)
+- Cité par : [art. Annexe à l'article R443-9-4 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/statuts-des-societes-civiles-immobilieres-d-accession-progressive-a-la-propriete.md#article-annexe-à-larticle-r443-9-4) ; [art. L200-5 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-preliminaire/articles-directs.md#article-l200-5) ; [art. L443-6-7 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-iv/chapitre-iii.md#article-l443-6-7) ; [art. R4131-18 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-r4131-18) ; [Loi n°86-18 du 6 janvier 1986, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006305608)
 
 A l'égard des tiers, les associés répondent indéfiniment des dettes sociales à proportion de leur part dans le capital social à la date de l'exigibilité ou au jour de la cessation des paiements.  
 
@@ -203,7 +203,7 @@ S'il y a déconfiture, faillite personnelle, liquidation de biens ou règlement 
 - Identifiant : LEGIARTI000006444345
 - État : en vigueur depuis le 01/07/1978
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444345
-- Cité par : [art. 1863 du Code civil](chapitre-ii.md#article-1863) ; [art. L322-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583394)
+- Cité par : [art. 1863 du Code civil](chapitre-ii.md#article-1863) ; [art. L322-4 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-4)
 
 Les parts sociales ne peuvent être cédées qu'avec l'agrément de tous les associés.  
 
@@ -251,7 +251,7 @@ Il ne peut être dérogé aux dispositions des deux articles qui précèdent que
 - État : en vigueur depuis le 21/07/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038799302
 - Renvoie à : [art. 1690 du Code civil](../titre-vi/chapitre-viii.md#article-1690)
-- Cité par : [art. R814-133 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-viii/titre-ier/chapitre-iv.md#article-r814-133) ; [art. L214-58 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027810204) ; [art. L214-59 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006650491) ; [art. L214-92 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027810116) ; [art. L214-93 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027810952) ; [Décret n°2026-340 du 30 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054028813) ; [Décret n°78-704 du 3 juillet 1978, art. 52](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054032783) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063)
+- Cité par : [art. R814-133 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-viii/titre-ier/chapitre-iv.md#article-r814-133) ; [art. L214-58 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-58) ; [art. L214-59 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-59) ; [art. L214-92 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-92) ; [art. L214-93 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-93) ; [Décret n°2026-340 du 30 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054028813) ; [Décret n°78-704 du 3 juillet 1978, art. 52](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054032783) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063)
 
 La cession de parts sociales doit être constatée par écrit. Elle est rendue opposable à la société dans les formes prévues à l'article 1690 ou, si les statuts le stipulent, par transfert sur les registres de la société.
 
@@ -261,8 +261,8 @@ Elle n'est opposable aux tiers qu'après accomplissement de ces formalités et a
 - Identifiant : LEGIARTI000054318785
 - État : en vigueur depuis le 27/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054318785
-- Renvoie à : [art. 1374 du Code civil](../titre-iv-bis/chapitre-iii.md#article-1374) ; art. 726 du Code général des impôts ; art. L214-1 du Code monétaire et financier
-- Cité par : [art. 635-0 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054318793)
+- Renvoie à : [art. 1374 du Code civil](../titre-iv-bis/chapitre-iii.md#article-1374) ; [art. 726 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-726) ; [art. L214-1 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1)
+- Cité par : [art. 635-0 A du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-635-0-a)
 
 I. - A peine de nullité, la cession de parts sociales ou d'actions d'une personne morale à prépondérance immobilière, au sens du 2° du I de l'article 726 du code général des impôts, est constatée par :
 
@@ -281,7 +281,7 @@ II. - Le I du présent article n'est pas applicable aux cessions portant sur des
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072392
 - Renvoie à : [art. 2355 du Code civil](../../livre-iv/titre-ii/sous-titre-ii/chapitre-iii.md#article-2355)
-- Cité par : [art. D211-14 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037927495)
+- Cité par : [art. D211-14 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-d211-14)
 
 Les parts sociales peuvent faire l'objet d'un nantissement dans les conditions prévues au dernier alinéa de l'article 2355 du code civil.
 
@@ -309,7 +309,7 @@ La notification prévue au deuxième alinéa ainsi que le troisième alinéa ne 
 - État : en vigueur depuis le 01/07/1978
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444403
 - Renvoie à : [art. 1862 du Code civil](chapitre-ii.md#article-1862) ; [art. 1863 du Code civil](chapitre-ii.md#article-1863) ; [art. 1867 du Code civil](chapitre-ii.md#article-1867)
-- Cité par : [art. R233-7 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938895) ; [Décret n°78-704 du 3 juillet 1978, art. 58](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020554118)
+- Cité par : [art. R233-7 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md#article-r233-7) ; [Décret n°78-704 du 3 juillet 1978, art. 58](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020554118)
 
 La réalisation forcée qui ne procède pas d'un nantissement auquel les autres associés ont donné leur consentement doit pareillement être notifiée un mois avant la vente aux associés et à la société.  
 
@@ -348,7 +348,7 @@ Sauf clause contraire des statuts, lorsque la succession est dévolue à une per
 - État : en vigueur depuis le 01/07/1978
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444440
 - Renvoie à : [art. 1843-4 du Code civil](chapitre-ier.md#article-1843-4)
-- Cité par : [art. L323-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583448)
+- Cité par : [art. L323-6 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-iii.md#article-l323-6)
 
 Les héritiers ou légataires qui ne deviennent pas associés n'ont droit qu'à la valeur des parts sociales de leur auteur. Cette valeur doit leur être payée par les nouveaux titulaires des parts ou par la société elle-même si celle-ci les a rachetées en vue de leur annulation.
 

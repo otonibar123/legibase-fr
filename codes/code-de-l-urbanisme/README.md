@@ -1,0 +1,324 @@
+# Code de l'urbanisme
+
+Dernière modification du texte dans LEGI : 01/09/2026. 2450 articles en vigueur, répartis dans 236 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : Réglementation de l'urbanisme**
+    - **Titre préliminaire : Principes généraux**
+      - [Chapitre Ier : Objectifs généraux](partie-legislative/livre-ier/titre-preliminaire/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Objectifs de l'Etat](partie-legislative/livre-ier/titre-preliminaire/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Participation du public](partie-legislative/livre-ier/titre-preliminaire/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Evaluation environnementale](partie-legislative/livre-ier/titre-preliminaire/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Conditions d'indemnisation de certaines servitudes](partie-legislative/livre-ier/titre-preliminaire/chapitre-v.md) (1 article)
+    - **Titre Ier : Règles applicables sur l'ensemble du territoire**
+      - [Chapitre Ier : Règlement national d'urbanisme](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (37 articles)
+      - [Chapitre II : Servitudes d'urbanisme](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Espaces protégés](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (30 articles)
+      - [Chapitre IV : Etude de sécurité publique](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Règles applicables à certaines cessions et locations](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (6 articles)
+    - **Titre II : Règles spécifiques à certaines parties du territoire**
+      - [Chapitre Ier : Aménagement et protection du littoral](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (69 articles)
+      - [Chapitre II : Aménagement et protection de la montagne](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (29 articles)
+      - [Chapitre III : Dispositions particulières à l'Ile-de-France](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (36 articles)
+    - **Titre III : Dispositions communes aux documents d'urbanisme**
+      - [Chapitre Ier : Obligations de compatibilité et de prise en compte](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Elaboration des documents d'urbanisme](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (19 articles)
+      - [Chapitre III : Accès à l'information en matière d'urbanisme](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Documents d'urbanisme de certaines métropoles](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (12 articles)
+      - [Chapitre V : Documents d'urbanisme de la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (2 articles)
+    - **Titre IV : Schéma de cohérence territoriale**
+      - [Chapitre Ier : Contenu du schéma de cohérence territoriale](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (20 articles)
+      - [Chapitre II : Effets du schéma de cohérence territoriale](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Procédure d'élaboration, d'évaluation et d'évolution du schéma de cohérence territoriale](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (45 articles)
+      - [Chapitre IV : Documents tenant lieu de schéma de cohérence territoriale](partie-legislative/livre-ier/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : Projet d'aménagement stratégique de cohérence territoriale tenant lieu de projet de territoire](partie-legislative/livre-ier/titre-iv/chapitre-v.md) (1 article)
+      - [Chapitre VI : Document d'urbanisme unique valant schéma de cohérence territoriale et plan local d'urbanisme intercommunal](partie-legislative/livre-ier/titre-iv/chapitre-vi.md) (1 article)
+    - **Titre V : Plan local d'urbanisme**
+      - [Chapitre Ier : Contenu du plan local d'urbanisme](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (60 articles)
+      - [Chapitre II : Effets du plan local d'urbanisme](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Procédure d'élaboration, d'évaluation et d'évolution du plan local d'urbanisme](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (55 articles)
+      - [Chapitre IV : Dispositions particulières aux établissements publics de coopération intercommunale à fiscalité propre de grande taille](partie-legislative/livre-ier/titre-v/chapitre-iv.md) (4 articles)
+    - **Titre VI : Carte communale**
+      - [Titre VI : Carte communale : articles rattachés directement](partie-legislative/livre-ier/titre-vi/articles-directs.md) (1 article)
+      - [Chapitre Ier : Contenu de la carte communale](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Effets de la carte communale](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : Procédure d'élaboration, d'évaluation et d'évolution de la carte communale](partie-legislative/livre-ier/titre-vi/chapitre-iii.md) (10 articles)
+    - **Titre VII : Dispositions diverses et transitoirement maintenues en vigueur**
+      - [Chapitre Ier : Modalités d'application du livre Ier](partie-legislative/livre-ier/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Directive territoriale d'aménagement](partie-legislative/livre-ier/titre-vii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Schéma de secteur](partie-legislative/livre-ier/titre-vii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Plan d'occupation des sols](partie-legislative/livre-ier/titre-vii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Plan local d'urbanisme](partie-legislative/livre-ier/titre-vii/chapitre-v.md) (1 article)
+  - **Livre II : Préemption et réserves foncières**
+    - **Titre Ier : Droits de préemption**
+      - [Titre Ier : Droits de préemption : articles rattachés directement](partie-legislative/livre-ii/titre-ier/articles-directs.md) (2 articles)
+      - [Chapitre Ier : Droit de préemption urbain](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Zones d'aménagement différé et périmètres provisoires](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce, les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Droit de préemption dans les espaces naturels sensibles](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (26 articles)
+      - [Chapitre VI : Dispositions particulières aux jardins familiaux](partie-legislative/livre-ii/titre-ier/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte](partie-legislative/livre-ii/titre-ier/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Droit de préemption pour la préservation des ressources en eau destinées à la consommation humaine](partie-legislative/livre-ii/titre-ier/chapitre-viii.md) (14 articles)
+      - [Chapitre IX : Droit de préemption pour l'adaptation des territoires au recul du trait de côte](partie-legislative/livre-ii/titre-ier/chapitre-ix.md) (14 articles)
+    - **Titre II : Réserves foncières**
+      - [Chapitre Ier : Réserves foncières](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (5 articles)
+    - [Titre III : Droits de délaissement](partie-legislative/livre-ii/titre-iii.md) (6 articles)
+    - [Titre IV : Droit de priorité](partie-legislative/livre-ii/titre-iv.md) (2 articles)
+  - **Livre III : Aménagement foncier**
+    - [Livre III : Aménagement foncier : articles rattachés directement](partie-legislative/livre-iii/articles-directs.md) (15 articles)
+    - **Titre Ier : Opérations d'aménagement**
+      - [Chapitre Ier : Zones d'aménagement concerté](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Projets partenariaux d'aménagement](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : Protection des occupants](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Opérations de transformation urbaine](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (1 article)
+      - [Chapitre VIII : Dispositions relatives à certaines opérations](partie-legislative/livre-iii/titre-ier/chapitre-viii.md) (10 articles)
+    - **Titre II : Organismes d'exécution**
+      - [Chapitre Ier : Etablissements publics fonciers et d'aménagement de l'Etat](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (53 articles)
+      - [Chapitre II : Associations foncières urbaines](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (23 articles)
+      - [Chapitre IV : Etablissements publics fonciers locaux](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (15 articles)
+      - [Chapitre VI : Etablissements publics locaux d'aménagement](partie-legislative/livre-iii/titre-ii/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Sociétés publiques locales d'aménagement et sociétés publiques locales d'aménagement d'intérêt national](partie-legislative/livre-iii/titre-ii/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Etablissement public Paris La Défense](partie-legislative/livre-iii/titre-ii/chapitre-viii.md) (17 articles)
+      - [Chapitre IX : Organismes de foncier solidaire](partie-legislative/livre-iii/titre-ii/chapitre-ix.md) (1 article)
+      - [Chapitre X : Société d'économie mixte d'aménagement à opération unique](partie-legislative/livre-iii/titre-ii/chapitre-x.md) (1 article)
+    - **Titre III : Dispositions financières**
+      - [Chapitre Ier : Fiscalité de l'aménagement](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Participation des constructeurs et des lotisseurs](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (16 articles)
+    - [Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte.](partie-legislative/livre-iii/titre-iv.md) (2 articles)
+    - [Titre V : Projets d'intérêt majeur](partie-legislative/livre-iii/titre-v.md) (7 articles)
+  - **Livre IV : Régime applicable aux constructions, aménagements et démolitions**
+    - [Titre Ier : Certificat d'urbanisme](partie-legislative/livre-iv/titre-ier.md) (1 article)
+    - **Titre II : Dispositions communes aux diverses autorisations et aux déclarations préalables**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Compétence](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Dépôt et instruction des demandes de permis et des déclarations](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Décision](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation](partie-legislative/livre-iv/titre-ii/chapitre-v.md) (16 articles)
+      - [Chapitre VI : Dispositions diverses](partie-legislative/livre-iv/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions particulières à Mayotte](partie-legislative/livre-iv/titre-ii/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Dispositions particulières à la Guyane](partie-legislative/livre-iv/titre-ii/chapitre-viii.md) (1 article)
+    - **Titre III : Dispositions propres aux constructions**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Dispositions propres aux constructions saisonnières](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions propres aux permis délivrés à titre précaire](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions diverses](partie-legislative/livre-iv/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : Dispositions propres aux aménagements**
+      - [Chapitre Ier : Dispositions communes](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Dispositions applicables aux lotissements](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (18 articles)
+      - [Chapitre III : Dispositions applicables aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions applicables aux terrains aménagés pour l'installation de résidences mobiles ou démontables constituant l'habitat permanent de leurs utilisateurs](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions diverses](partie-legislative/livre-iv/titre-iv/chapitre-v.md) (1 article)
+    - **Titre V : Dispositions propres aux démolitions**
+      - [Chapitre Ier : Dispositions applicables aux permis de démolir](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions diverses](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (1 article)
+    - **Titre VI : Contrôles administratifs de la conformité des constructions, aménagements, installations et travaux**
+      - [Chapitre Ier : Droit de visite et de communication](partie-legislative/livre-iv/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Achèvement des travaux de construction, d'aménagement ou de démolition](partie-legislative/livre-iv/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions diverses](partie-legislative/livre-iv/titre-vi/chapitre-iii.md) (1 article)
+    - **Titre VII : Dispositions diverses**
+      - [Chapitre Ier : Cours communes](partie-legislative/livre-iv/titre-vii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Remontées mécaniques](partie-legislative/livre-iv/titre-vii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Aménagements de domaine skiable](partie-legislative/livre-iv/titre-vii/chapitre-iii.md) (3 articles)
+    - **Titre VIII : Dispositions relatives aux contrôles, aux sanctions et aux mesures administratives**
+      - [Chapitre préliminaire : Constat des infractions et sanctions pénales et civiles](partie-legislative/livre-iv/titre-viii/chapitre-preliminaire.md) (14 articles)
+      - [Chapitre Ier : Mise en demeure, astreinte et consignation](partie-legislative/livre-iv/titre-viii/chapitre-ier.md) (4 articles)
+  - **Livre V : Implantation des services, établissements et entreprises**
+    - [Titre Ier : Dispositions administratives générales](partie-legislative/livre-v/titre-ier.md) (4 articles)
+    - **Titre II : Dispositions financières concernant la région d'Ile-de-France**
+      - [Chapitre unique](partie-legislative/livre-v/titre-ii/chapitre-unique.md) (23 articles)
+    - [Titre III : Implantation hors de la région parisienne de certaines activités](partie-legislative/livre-v/titre-iii.md) (4 articles)
+    - [Titre IV : Construction ou aménagement des immeubles à usage industriel en vue de leur revente](partie-legislative/livre-v/titre-iv.md) (3 articles)
+    - [Titre V : Sanctions](partie-legislative/livre-v/titre-v.md) (1 article)
+  - **Livre VI : Dispositions relatives au contentieux de l'urbanisme**
+    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme : articles rattachés directement](partie-legislative/livre-vi/articles-directs.md) (22 articles)
+    - [Titre Ier : Infractions et sanctions](partie-legislative/livre-vi/titre-ier.md) (4 articles)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Livre Ier : Réglementation de l'urbanisme**
+    - **Titre préliminaire : Principes généraux**
+      - [Chapitre Ier : Objectifs généraux](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-preliminaire/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Objectifs de l'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-preliminaire/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Participation du public](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-preliminaire/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Evaluation environnementale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-preliminaire/chapitre-iv.md) (41 articles)
+    - **Titre Ier : Règles applicables sur l'ensemble du territoire**
+      - [Chapitre Ier : Règlement national d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ier.md) (86 articles)
+      - [Chapitre II : Servitudes d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Espaces protégés](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-iii.md) (29 articles)
+      - [Chapitre IV : Etude de sécurité publique](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Règles applicables à certaines cessions et locations](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-v.md) (1 article)
+    - **Titre II : Règles applicables dans certaines parties du territoire**
+      - [Chapitre Ier : Aménagement et protection du littoral](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ier.md) (48 articles)
+      - [Chapitre II : Aménagement et protection de la montagne](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md) (22 articles)
+      - [Chapitre III : Dispositions particulières à l'Ile-de-France](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-iii.md) (16 articles)
+    - **Titre III : Dispositions communes aux documents d'urbanisme**
+      - [Chapitre II : Elaboration des documents d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ii.md) (19 articles)
+      - [Chapitre III : Accès à l'information en matière d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Documents d'urbanisme de certaines métropoles](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-v.md) (1 article)
+    - **Titre IV : Schéma de cohérence territoriale**
+      - [Chapitre Ier : Contenu du schéma de cohérence territoriale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Effets du schéma de cohérence territoriale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Procédure d'élaboration, d'évaluation et d'évolution du schéma de cohérence territoriale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv/chapitre-iii.md) (16 articles)
+    - **Titre V : Plan local d'urbanisme**
+      - [Chapitre Ier : Contenu du plan local d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-v/chapitre-ier.md) (58 articles)
+      - [Chapitre II : Effets du plan local d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-v/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Procédure d'élaboration, d'évaluation et d'évolution du plan local d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-v/chapitre-iii.md) (21 articles)
+    - **Titre VI : Carte communale**
+      - [Chapitre Ier : Contenu de la carte communale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vi/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Effets de la carte communale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Procédure d'élaboration, d'évaluation et d'évolution de la carte communale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vi/chapitre-iii.md) (10 articles)
+    - **Titre VII : Dispositions diverses et transitoirement maintenues en vigueur**
+      - [Chapitre II : Directive territoriale d'aménagement](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Schéma de secteur](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vii/chapitre-iii.md) (1 article)
+    - [Annexe au présent livre](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/annexe-au-present-livre.md) (2 articles)
+  - **Livre II : Préemption et réserves foncières**
+    - **Titre Ier : Droits de préemption**
+      - [Chapitre Ier : Droit de préemption urbain](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Zones d'aménagement différé et périmètres provisoires](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Dispositions communes au droit de préemption urbain, aux zones d'aménagement différé et aux périmètres provisoires](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md) (32 articles)
+      - [Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux et les terrains faisant l'objet de projets d'aménagement commercial](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iv.md) (22 articles)
+      - [Chapitre V : Droit de préemption dans les espaces naturels sensibles](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-v.md) (21 articles)
+      - [Chapitre VIII : Droit de préemption pour la préservation des ressources en eau destinées à la consommation humaine](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-viii.md) (21 articles)
+      - [Chapitre IX : Droit de préemption pour l'adaptation des territoires au recul du trait de côte](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ix.md) (7 articles)
+    - [Titre IV : Droit de priorité](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv.md) (1 article)
+  - **Livre III : Aménagement foncier**
+    - [Section 1 : Règles générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-1.md) (2 articles)
+    - **Section 2 : Concessions d'aménagement**
+      - [Sous-section 1 : Procédure relative aux concessions d'aménagement transférant un risque économique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-2/sous-section-1.md) (4 articles)
+      - [Sous-section 2 : Procédure relative aux concessions d'aménagement ne transférant pas un risque économique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-2/sous-section-2.md) (3 articles)
+      - [Sous-section 3 : Concessions d'aménagement accordées par l'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-2/sous-section-3.md) (1 article)
+    - [Section 3 : Contrats conclus par le concessionnaire d'une opération d'aménagement](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-3.md) (2 articles)
+    - [Section 3 bis : Déclaration de projet](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-3-bis.md) (1 article)
+    - **Section 4 : Procédures intégrées**
+      - [Sous-section 1 : Dispositions communes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-4/sous-section-1.md) (5 articles)
+      - [Sous-section 2 : Dispositions applicables à la mise en compatibilité d'un schéma de cohérence territoriale](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-4/sous-section-2.md) (2 articles)
+      - [Sous-section 3 : Dispositions applicables à la mise en compatibilité d'un plan local d'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-4/sous-section-3.md) (2 articles)
+      - [Sous-section 4 : Dispositions applicables à la mise en compatibilité du schéma directeur de la région d'Ile-de-France](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-4/sous-section-4.md) (3 articles)
+      - [Sous-section 5 : Dispositions applicables à la mise en compatibilité de plus d'un document](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-4/sous-section-5.md) (1 article)
+    - [Section 4 bis : Procédure de mise en compatibilité avec un projet qualifié de projet d'intérêt national majeur](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-4-bis.md) (1 article)
+    - [Section 5 : Réhabilitation des ensembles commerciaux dans les quartiers prioritaires de la ville et de locaux, terrains et équipements dans les zones d'activité économique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/section-5.md) (2 articles)
+    - **Titre Ier : Opérations d'aménagement**
+      - [Chapitre Ier : Zones d'aménagement concerté](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre III : Plan de sauvegarde et de mise en valeur et restauration immobilière](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-iii.md) (32 articles)
+      - [Chapitre VIII : Dispositions relatives à certaines opérations](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-viii.md) (21 articles)
+    - **Titre II : Organismes d'exécution**
+      - [Chapitre Ier : Etablissements publics](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Associations foncières urbaines](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ii.md) (45 articles)
+      - [Chapitre IV : Etablissements publics fonciers locaux](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-iv.md) (5 articles)
+      - [Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-viii.md) (14 articles)
+      - [Chapitre IX : Organisme de foncier solidaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ix.md) (16 articles)
+    - **Titre III : Dispositions financières**
+      - [Chapitre II : Participation des constructeurs et des lotisseurs](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iii/chapitre-ii.md) (6 articles)
+    - [Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv.md) (7 articles)
+  - **Livre IV : Régime applicable aux constructions, aménagements et démolitions**
+    - **Titre Ier : Certificat d'urbanisme**
+      - [Section 1 : Présentation, dépôt et transmission de la demande](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/section-1.md) (3 articles)
+      - [Section 2 : Instruction de la demande](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/section-2.md) (7 articles)
+      - [Section 3 : Décision](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/section-3.md) (12 articles)
+      - [Section 4 : Modèles nationaux de demande et de décision](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/section-4.md) (1 article)
+    - **Titre II : Dispositions communes aux diverses autorisations et aux déclarations préalables**
+      - [Chapitre Ier : Champ d'application](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-ier.md) (36 articles)
+      - [Chapitre II : Compétence](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Dépôt et instruction des demandes de permis et des déclarations](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iii.md) (109 articles)
+      - [Chapitre IV : Décisions](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-iv.md) (31 articles)
+      - [Chapitre V : Opérations soumises à un régime d'autorisation prévu par une autre législation](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-v.md) (40 articles)
+      - [Chapitre VII : Dispositions particulières à Mayotte](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-vii.md) (7 articles)
+    - **Titre III : Dispositions propres aux constructions**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ier.md) (52 articles)
+      - [Chapitre III : Dispositions propres aux permis délivrés à titre précaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions diverses](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-iv.md) (2 articles)
+    - **Titre IV : Dispositions propres aux aménagements**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Dispositions propres aux lotissements](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Dispositions propres aux terrains de camping et aux autres terrains aménagés pour l'hébergement touristique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : Modèles nationaux de demande et de décision](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-iv.md) (1 article)
+    - **Titre V : Dispositions propres aux démolitions**
+      - [Chapitre Ier : Demande de permis de démolir](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-v/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Décision](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Modèles nationaux de demande et de décision](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VI : Contrôle de la conformité des travaux**
+      - [Chapitre II : Achèvement des travaux de construction ou d'aménagement](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-vi/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Dispositions diverses](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-vi/chapitre-iii.md) (4 articles)
+    - **Titre VII : Dispositions diverses**
+      - [Chapitre Ier : Cours communes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-vii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Remontées mécaniques](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-vii/chapitre-ii.md) (21 articles)
+      - [Chapitre III : Aménagements de domaine skiable](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-vii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Saisine et échanges par voie électronique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-vii/chapitre-iv.md) (1 article)
+    - [Titre VIII : Sanctions](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-viii.md) (5 articles)
+  - **Livre V : Implantation des services, établissements et entreprises**
+    - [Titre Ier : Dispositions administratives générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ier.md) (12 articles)
+    - **Titre II : Dispositions financières concernant la région parisienne**
+      - [Section 1 : Généralités et champ d'application](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-1.md) (2 articles)
+      - [Section 2 : Redevable et fait générateur](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-2.md) (1 article)
+      - [Section 3 : Exonérations](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-3.md) (3 articles)
+      - [Section 4 : Assiette](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-4.md) (1 article)
+      - [Section 5 : Plafonnement de la taxe](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-5.md) (2 articles)
+      - **Section 6 : Etablissement de la taxe**
+        - [Section 6 : Etablissement de la taxe : articles rattachés directement](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-6/articles-directs.md) (6 articles)
+        - [Sous-section 6 bis : Procédure de rescrit](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-6/sous-section-6-bis.md) (1 article)
+      - [Section 7 : Contrôle et sanctions](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-7.md) (1 article)
+      - [Section 8 : Recouvrement](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-8.md) (1 article)
+      - [Section 9 : Recours](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/section-9.md) (1 article)
+    - [Titre III : Implantation hors de la région parisienne de certaines activités](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iii.md) (3 articles)
+    - [Titre V : Sanctions](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v.md) (1 article)
+  - **Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses**
+    - [Livre VI : Dispositions relatives au contentieux de l'urbanisme et dispositions diverses : articles rattachés directement](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/articles-directs.md) (7 articles)
+    - **Titre Ier : Infractions et sanctions**
+      - [Section 1 : Assermentation des agents chargés de constater les infractions](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ier/section-1.md) (3 articles)
+    - [Titre II : Dispositions diverses](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii.md) (2 articles)
+- **Partie réglementaire - Arrêtés**
+  - **Livre Ier : Règles générales d'aménagement et d'urbanisme**
+    - **Titre Ier : Règles générales d'utilisation du sol**
+      - [Chapitre Ier : Règles générales de l'urbanisme](partie-reglementaire-arretes/livre-ier/titre-ier/chapitre-ier.md) (10 articles)
+    - **Titre II : Prévisions et règles d'urbanisme**
+      - [Chapitre Ier : Dispositions générales communes aux schémas directeurs et aux plans d'occupation des sols](partie-reglementaire-arretes/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Plans d'occupation des sols](partie-reglementaire-arretes/livre-ier/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre VI : Servitudes d'utilité publique affectant l'utilisation du sol](partie-reglementaire-arretes/livre-ier/titre-ii/chapitre-vi.md) (1 article)
+    - [Titre III : Espaces boisés](partie-reglementaire-arretes/livre-ier/titre-iii.md) (3 articles)
+    - **Titre IV : Dispositions spéciales à certaines parties du territoire**
+      - [Chapitre II : Espaces naturels sensibles des départements](partie-reglementaire-arretes/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+    - **Titre VI : Sanctions et servitudes**
+      - [Section 3 : Agrément des associations exerçant leurs activités dans le domaine de la protection de la nature et de l'environnement et de l'amélioration du cadre de vie](partie-reglementaire-arretes/livre-ier/titre-vi/section-3.md) (1 article)
+  - **Livre II : Préemption et réserves foncières**
+    - **Titre Ier : Droits de préemption**
+      - [Chapitre Ier : Droit de préemption urbain](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Zones d'aménagement différé](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions communes au droit de préemption urbain et aux zones d'aménagement différé](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Droit de préemption des communes sur les fonds artisanaux, les fonds de commerce et les baux commerciaux](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-iv.md) (1 article)
+  - **Livre III : Aménagement foncier**
+    - **Titre III : Dispositions financières**
+      - [Chapitre II : Participation des constructeurs et des lotisseurs](partie-reglementaire-arretes/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+    - [Titre IV : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte](partie-reglementaire-arretes/livre-iii/titre-iv.md) (4 articles)
+  - **Livre IV : Régime applicable aux constructions, aménagements et démolitions**
+    - [Titre Ier : Certificat d'urbanisme](partie-reglementaire-arretes/livre-iv/titre-ier.md) (5 articles)
+    - **Titre II : Dispositions communes aux diverses autorisations et aux déclarations préalables**
+      - [Chapitre Ier : Champ d'application](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Dépôt et instruction des demandes de permis et des déclarations](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Décisions](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-iv.md) (20 articles)
+    - **Titre III : Dispositions propres aux constructions**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-arretes/livre-iv/titre-iii/chapitre-ier.md) (11 articles)
+      - [Chapitre IV : Dispositions diverses](partie-reglementaire-arretes/livre-iv/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : Dispositions propres aux aménagements**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire-arretes/livre-iv/titre-iv/chapitre-ier.md) (12 articles)
+      - [Chapitre IV : Modèles nationaux de demande et de décision](partie-reglementaire-arretes/livre-iv/titre-iv/chapitre-iv.md) (1 article)
+    - **Titre V : Dispositions propres aux démolitions**
+      - [Chapitre Ier : Demande de permis de démolir](partie-reglementaire-arretes/livre-iv/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre III : Modèles nationaux de demande et de décision](partie-reglementaire-arretes/livre-iv/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VI : Contrôle de la conformité des travaux**
+      - [Chapitre II : Achèvement des travaux de construction ou d'aménagement](partie-reglementaire-arretes/livre-iv/titre-vi/chapitre-ii.md) (1 article)
+    - **Titre VII : Dispositions diverses**
+      - [Chapitre II : Remontées mécaniques](partie-reglementaire-arretes/livre-iv/titre-vii/chapitre-ii.md) (1 article)
+  - **Livre V : Implantation des services, établissements et entreprises**
+    - **Titre II : Dispositions financières concernant la région d'Ile-de-France**
+      - **Section 1 : Dispositions générales**
+        - [Sous-section 1 : Perception des redevances](partie-reglementaire-arretes/livre-v/titre-ii/section-1/sous-section-1.md) (3 articles)
+        - [Sous-section 2 : Modalités de liquidation et de recouvrement de la redevance](partie-reglementaire-arretes/livre-v/titre-ii/section-1/sous-section-2.md) (8 articles)
+  - **Livre VI : Organismes consultatifs et dispositions diverses**
+    - **Titre Ier : Organismes consultatifs**
+      - [Chapitre IV : Architectes-conseils et paysagistes-conseils](partie-reglementaire-arretes/livre-vi/titre-ier/chapitre-iv.md) (4 articles)
+- **Annexes**
+  - [Attestation du contrôleur technique établissant qu'il a fait connaître au maître d'ouvrage de la construction son avis sur la prise en compte au stade de la conception des règles parasismiques.](annexes/attestation-du-controleur-technique-etablissant-qu-il-a-fait-connaitre-au.md) (1 article)
+  - [Attestation du contrôleur technique justifiant de la prise en compte de ses avis par le maître d'ouvrage de la construction sur le respect des règles de construction parasismique](annexes/attestation-du-controleur-technique-justifiant-de-la-prise-en-compte-de-ses.md) (1 article)

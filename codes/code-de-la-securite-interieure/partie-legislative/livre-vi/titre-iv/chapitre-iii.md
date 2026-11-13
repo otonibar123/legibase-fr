@@ -1,0 +1,32 @@
+# Chapitre III : Dispositions particulières à Saint-Barthélemy et Saint-Martin
+
+Code de la sécurité intérieure › Partie législative › LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ › TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+### Article L643-1
+- Identifiant : LEGIARTI000025506616
+- État : en vigueur depuis le 01/05/2012
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025506616
+
+Pour l'application du présent livre à Saint-Barthélemy et à Saint-Martin :  
+1° Les références au représentant de l'Etat dans le département sont remplacées par la référence au représentant de l'Etat dans la collectivité ;  
+2° Les références au département sont remplacées par la référence à la collectivité.
+
+### Article L643-2
+- Identifiant : LEGIARTI000047555950
+- État : en vigueur depuis le 01/03/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047555950
+- Renvoie à : [art. L612-1 du Code de la sécurité intérieure](../titre-ier/chapitre-ii.md#article-l612-1) ; [art. L612-7 du Code de la sécurité intérieure](../titre-ier/chapitre-ii.md#article-l612-7) ; [art. L612-20 du Code de la sécurité intérieure](../titre-ier/chapitre-ii.md#article-l612-20) ; [art. L612-22 du Code de la sécurité intérieure](../titre-ier/chapitre-ii.md#article-l612-22) ; [art. L612-24 du Code de la sécurité intérieure](../titre-ier/chapitre-ii.md#article-l612-24) ; [art. L625-5 du Code de la sécurité intérieure](../titre-ii-bis/chapitre-ii.md#article-l625-5) ; [art. L625-11 du Code de la sécurité intérieure](../titre-ii-bis/chapitre-ii.md#article-l625-11)
+
+Le présent livre est applicable à Saint-Barthélemy sous réserve des adaptations suivantes :
+
+1° Au 2° de l'article L. 612-1, à la fin du 4° de l'article L. 612-7 et au 4° de l'article L. 625-5, les mots : " ou un autre Etat partie à l'accord sur l'Espace économique européen " sont supprimés ;
+
+2° A la fin du 1° du même article L. 612-7, au 6° de l'article L. 612-20, au deuxième alinéa de l'article L. 612-22, au 1° de l'article L. 625-5 et au 7° de l'article L. 625-11, les mots : " ou d'un Etat partie à l'accord sur l'Espace économique européen " sont supprimés ;
+
+3° (Supprimé) ;
+
+4° Aux premier et second alinéas de l'article L. 612-24, les mots : " ou de l'Etat partie à l'accord sur l'Espace économique européen " sont supprimés.
+
+> Nota : Conformément à l’article 3 de l’ordonnance n° 2023-374 du 16 mai 2023, ces dispositions entrent en vigueur aux dates et dans les conditions prévues par décret en Conseil d'Etat et au plus tard le 1er septembre 2025.
+> 
+> Conformément à l'article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

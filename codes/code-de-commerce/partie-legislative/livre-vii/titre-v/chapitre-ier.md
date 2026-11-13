@@ -8,8 +8,8 @@ Code de commerce › Partie législative › LIVRE VII : Des juridictions commer
 - Identifiant : LEGIARTI000029109438
 - État : en vigueur depuis le 18/12/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029109438
-- Renvoie à : [art. L751-2 du Code de commerce](chapitre-ier.md#article-l751-2) ; [art. L752-1 du Code de commerce](chapitre-ii.md#article-l752-1) ; [art. L752-3 du Code de commerce](chapitre-ii.md#article-l752-3) ; [art. L752-15 du Code de commerce](chapitre-ii.md#article-l752-15)
-- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. L212-10 du Code du cinéma et de l'image animée](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029109464)
+- Renvoie à : [art. L751-2 du Code de commerce](chapitre-ier.md#article-l751-2) ; [art. L752-1 du Code de commerce](chapitre-ii.md#article-l752-1) ; [art. L752-3 du Code de commerce](chapitre-ii.md#article-l752-3) ; [art. L752-15 du Code de commerce](chapitre-ii.md#article-l752-15) ; [art. L212-7 du Code du cinéma et de l'image animée](../../../../code-du-cinema-et-de-l-image-animee/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-7)
+- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. L212-10 du Code du cinéma et de l'image animée](../../../../code-du-cinema-et-de-l-image-animee/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-10)
 
 Une commission départementale d'aménagement commercial statue sur les demandes d'autorisation qui lui sont présentées en vertu des dispositions des articles L. 752-1,
 L. 752-3 et L. 752-15.
@@ -20,7 +20,7 @@ L. 752-3 et L. 752-15.
 - Identifiant : LEGIARTI000054142523
 - État : en vigueur depuis le 28/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054142523
-- Renvoie à : art. L143-16 du Code de l'urbanisme
+- Renvoie à : [art. L143-16 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-16)
 - Cité par : [art. L751-1 du Code de commerce](chapitre-ier.md#article-l751-1) ; [art. L752-17 du Code de commerce](chapitre-ii.md#article-l752-17) ; [art. R751-1 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-v/chapitre-ier.md#article-r751-1) ; [art. R751-2 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-v/chapitre-ier.md#article-r751-2) ; [art. R751-3 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-v/chapitre-ier.md#article-r751-3) ; [art. R752-10 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-v/chapitre-ii.md#article-r752-10) ; [art. R752-14 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-v/chapitre-ii.md#article-r752-14) ; [art. R752-15 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-v/chapitre-ii.md#article-r752-15) ; [Décret n°2018-96 du 13 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036601256)
 
 I.-La commission départementale d'aménagement commercial est présidée par le préfet. Elle auditionne pour tout projet nouveau la personne chargée d'animer le commerce de centre-ville au nom de la commune ou de l'établissement public de coopération intercommunale à fiscalité propre, l'agence du commerce et les associations de commerçants de la commune d'implantation et des communes limitrophes lorsqu'elles existent. Elle informe les maires des communes limitrophes à la commune d'implantation, dès leur enregistrement, des demandes d'autorisation d'exploitation commerciale. Elle en informe également, le cas échéant, l'organe exécutif des collectivités territoriales frontalières ou de leurs groupements compétents en matière d'aménagement commercial.

@@ -7,7 +7,7 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034748015
 - Renvoie à : [art. 52 du Code de procédure civile](../titre-iii/chapitre-iii.md#article-52) ; [art. 695 du Code de procédure civile](chapitre-ier.md#article-695)
-- Cité par : [art. 719 du Code de procédure civile](chapitre-iv.md#article-719) ; [art. 725-1 du Code de procédure civile](chapitre-vi.md#article-725-1) ; [art. R437-11 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041463462) ; [art. R581-7 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846315)
+- Cité par : [art. R437-11 du Code de l'environnement](../../../code-de-l-environnement/partie-reglementaire/livre-iv/titre-iii/chapitre-vii.md#article-r437-11) ; [art. R581-7 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-1er.md#article-r581-7) ; [art. 719 du Code de procédure civile](chapitre-iv.md#article-719) ; [art. 725-1 du Code de procédure civile](chapitre-vi.md#article-725-1)
 
 Les parties peuvent, en cas de difficultés, demander, sans forme, au greffier de la juridiction compétente en application de l'article 52, de vérifier le montant des dépens mentionnés à l'article 695.  
 
@@ -33,7 +33,7 @@ Cette notification doit mentionner le délai de contestation et les modalités d
 - Identifiant : LEGIARTI000034748007
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034748007
-- Cité par : [art. 687 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310240)
+- Cité par : [art. 687 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-687)
 
 En l'absence de contestation par l'adversaire dans le délai, le poursuivant peut demander au greffier vérificateur de le mentionner sur le certificat de vérification. Cette mention vaut titre exécutoire.
 

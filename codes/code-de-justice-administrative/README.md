@@ -1,0 +1,249 @@
+# Code de justice administrative
+
+Dernière modification du texte dans LEGI : 01/09/2026. 1279 articles en vigueur, répartis dans 185 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - [Titre préliminaire](partie-legislative/titre-preliminaire.md) (13 articles)
+  - **Livre Ier : Le Conseil d'Etat**
+    - **Titre Ier : Attributions**
+      - [Chapitre Ier : Attributions contentieuses](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Attributions en matière administrative et législative](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (6 articles)
+      - [Chapitre III : L'avis sur une question de droit](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : La médiation](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Contrôle des opérations de traitement de données à caractère personnel effectuées par les juridictions administratives dans l'exercice de leur fonction juridictionnelle](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (1 article)
+    - **Titre II : Organisation et fonctionnement**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (3 articles)
+    - **Titre III : Dispositions statutaires**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : La commission supérieure du Conseil d'Etat](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Nominations](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (20 articles)
+      - [Chapitre VI : Discipline](partie-legislative/livre-ier/titre-iii/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général](partie-legislative/livre-ier/titre-iii/chapitre-vii.md) (1 article)
+  - **Livre II : Les tribunaux administratifs et les cours administratives d'appel**
+    - **Titre Ier : Attributions**
+      - [Chapitre Ier : Attributions contentieuses](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Attributions administratives](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : La médiation](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (14 articles)
+    - **Titre II : Organisation et fonctionnement**
+      - [Chapitre Ier : Organisation des tribunaux administratifs et des cours administratives d'appel](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions particulières à la Polynésie française](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna](partie-legislative/livre-ii/titre-ii/chapitre-v-bis.md) (1 article)
+      - [Chapitre VII : Les assistants de justice](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Les juristes assistants](partie-legislative/livre-ii/titre-ii/chapitre-viii.md) (1 article)
+    - **Titre III : Dispositions statutaires**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Nomination, recrutement et formation](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Affectation, avancement et évaluation](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (9 articles)
+      - [Chapitre VI : Discipline](partie-legislative/livre-ii/titre-iii/chapitre-vi.md) (7 articles)
+  - **Livre III : La compétence**
+    - **Titre Ier : La compétence de premier ressort**
+      - [Chapitre Ier : La compétence en raison de la matière](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (13 articles)
+    - **Titre II : La compétence d'appel**
+      - [Chapitre Ier : La compétence en raison de la matière](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+    - [Titre III : Le Conseil d'Etat juge de cassation](partie-legislative/livre-iii/titre-iii.md) (1 article)
+  - **Livre V : Le référé**
+    - [Titre Ier : Le juge des référés](partie-legislative/livre-v/titre-ier.md) (2 articles)
+    - **Titre II : Le juge des référés statuant en urgence**
+      - [Chapitre Ier : Pouvoirs](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Procédure](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Voies de recours](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre V : Dispositions diverses et particulières à certains contentieux**
+      - [Chapitre Ier : Le référé en matière de passation de contrats et marchés](partie-legislative/livre-v/titre-v/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Le référé en matière fiscale](partie-legislative/livre-v/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Le référé en matière de communication audiovisuelle](partie-legislative/livre-v/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Les régimes spéciaux de suspension](partie-legislative/livre-v/titre-v/chapitre-iv.md) (12 articles)
+      - [Chapitre V : Dispositions diverses](partie-legislative/livre-v/titre-v/chapitre-v.md) (2 articles)
+  - **Livre VI : L'instruction**
+    - **Titre unique : La procédure ordinaire**
+      - [Chapitre unique : La communication de la requête et des mémoires](partie-legislative/livre-vi/titre-unique/chapitre-unique.md) (1 article)
+  - **Livre VII : Le jugement**
+    - [Titre II : L'abstention et la récusation](partie-legislative/livre-vii/titre-ii.md) (1 article)
+    - **Titre III : La tenue de l'audience**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-vii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel](partie-legislative/livre-vii/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre IV : La décision**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-vii/titre-iv/chapitre-ier.md) (4 articles)
+    - [Titre VI : Les frais et dépens](partie-legislative/livre-vii/titre-vi.md) (1 article)
+    - **Titre VII : Dispositions spéciales**
+      - [Chapitre Ier bis : La question prioritaire de constitutionnalité](partie-legislative/livre-vii/titre-vii/chapitre-ier-bis.md) (2 articles)
+      - [Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat](partie-legislative/livre-vii/titre-vii/chapitre-iii-bis.md) (8 articles)
+      - [Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme](partie-legislative/livre-vii/titre-vii/chapitre-iii-ter.md) (3 articles)
+      - [Chapitre IV : Les contraventions de grande voirie](partie-legislative/livre-vii/titre-vii/chapitre-iv.md) (13 articles)
+      - [Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles](partie-legislative/livre-vii/titre-vii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Le contentieux des décisions relatives à l'entrée, au séjour et à l'éloignement des étrangers](partie-legislative/livre-vii/titre-vii/chapitre-vi.md) (1 article)
+      - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme](partie-legislative/livre-vii/titre-vii/chapitre-viii.md) (2 articles)
+      - [Chapitre IX : Le contentieux du stationnement des résidences mobiles des gens du voyage](partie-legislative/livre-vii/titre-vii/chapitre-ix.md) (1 article)
+      - [Chapitre X : L'action de groupe](partie-legislative/livre-vii/titre-vii/chapitre-x.md) (1 article)
+      - [Chapitre XII : L'action en reconnaissance de droits](partie-legislative/livre-vii/titre-vii/chapitre-xii.md) (5 articles)
+      - [Chapitre XIII : Le contentieux relatif à la prévention, la cessation ou la réparation d'une atteinte au secret des affaires](partie-legislative/livre-vii/titre-vii/chapitre-xiii.md) (1 article)
+      - [Chapitre XIV : Le contentieux des pensions militaires d'invalidité](partie-legislative/livre-vii/titre-vii/chapitre-xiv.md) (1 article)
+      - [Chapitre XV : Le contentieux de certaines décisions en matière agricole](partie-legislative/livre-vii/titre-vii/chapitre-xv.md) (4 articles)
+      - [Chapitre XVI : Le contentieux de certains projets en matière environnementale](partie-legislative/livre-vii/titre-vii/chapitre-xvi.md) (1 article)
+    - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer](partie-legislative/livre-vii/titre-viii.md) (1 article)
+  - **Livre VIII : Les voies de recours**
+    - [Titre Ier : L'appel](partie-legislative/livre-viii/titre-ier.md) (1 article)
+    - **Titre II : Le recours en cassation**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-viii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Procédure d'admission](partie-legislative/livre-viii/titre-ii/chapitre-ii.md) (1 article)
+  - **Livre IX : L'exécution des décisions**
+    - [Titre Ier : Principes](partie-legislative/livre-ix/titre-ier.md) (11 articles)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Livre Ier : Le Conseil d'Etat**
+    - **Titre Ier : Attributions**
+      - [Chapitre II : Attributions en matière administrative et législative](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : L'avis sur une question de droit](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : La médiation](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : Organisation et fonctionnement**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Le Conseil d'Etat dans l'exercice de ses attributions contentieuses](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md) (40 articles)
+      - [Chapitre III : Le Conseil d'Etat dans l'exercice de ses attributions administratives et législatives](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-iii.md) (31 articles)
+    - **Titre III : Dispositions statutaires**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : La commission supérieure du Conseil d'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Nominations](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Avancement](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Positions](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-v.md) (8 articles)
+      - [Chapitre VI : Discipline](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : La participation des membres du Conseil d'Etat à des activités administratives ou d'intérêt général](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-vii.md) (2 articles)
+  - **Livre II : Les tribunaux administratifs et les cours administratives d'appel**
+    - **Titre Ier : Attributions**
+      - [Chapitre II : Attributions administratives](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : La médiation](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md) (14 articles)
+    - **Titre II : Organisation et fonctionnement**
+      - [Chapitre Ier : Organisation des tribunaux administratifs et des cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ier.md) (25 articles)
+      - [Chapitre II : Fonctionnement des tribunaux administratifs et des cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii.md) (36 articles)
+      - [Chapitre III : Dispositions particulières aux tribunaux administratifs des départements et régions d'outre-mer, de Mayotte, de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Dispositions particulières à la Nouvelle-Calédonie](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iv.md) (14 articles)
+      - [Chapitre V : Dispositions particulières à la Polynésie française](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-v.md) (13 articles)
+      - [Chapitre V bis : Dispositions particulières aux îles Wallis et Futuna](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-v-bis.md) (4 articles)
+      - [Chapitre VI : Les greffes](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-vi.md) (13 articles)
+      - [Chapitre VII : Les assistants de justice](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-vii.md) (10 articles)
+      - [Chapitre VIII : Les juristes assistants](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-viii.md) (5 articles)
+    - **Titre III : Dispositions statutaires**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Le Conseil supérieur des tribunaux administratifs et cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii.md) (38 articles)
+      - [Chapitre III : Nomination, recrutement et formation](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Affectation, avancement et évaluation](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Positions](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Discipline](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-vi.md) (5 articles)
+      - [Chapitre VII : De la participation des magistrats des tribunaux administratifs et des cours administratives d'appel à des activités administratives ou d'intérêt général](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-vii.md) (1 article)
+  - **Livre III : La compétence**
+    - **Titre Ier : La compétence de premier ressort**
+      - [Chapitre Ier : La compétence en raison de la matière](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : La compétence territoriale des tribunaux administratifs](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ii.md) (23 articles)
+    - **Titre II : La compétence d'appel**
+      - [Chapitre Ier : La compétence en raison de la matière](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : La compétence territoriale des cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ii.md) (4 articles)
+    - **Titre IV : La connexité**
+      - [Chapitre Ier : Connexité entre des demandes relevant de la compétence d'un tribunal administratif ou d'une cour administrative d'appel et des demandes relevant de la compétence de premier ressort du Conseil d'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Connexité entre des demandes relevant de la compétence de deux tribunaux administratifs](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Connexité entre des demandes relevant de la compétence d'une cour administrative d'appel et des demandes relevant de la compétence d'appel du Conseil d'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Connexité entre des demandes relevant de la compétence de deux cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Connexité entre des demandes relevant de la compétence d'un tribunal administratif et des demandes relevant de la compétence de premier ressort d'une cour administrative d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-v.md) (4 articles)
+    - [Titre V : Le règlement des questions de compétence](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v.md) (10 articles)
+  - **Livre IV : L'introduction de l'instance de premier ressort**
+    - **Titre Ier : La requête introductive d'instance**
+      - [Chapitre Ier : Présentation de la requête](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Pièces jointes ou productions](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dépôt de la requête](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Transmission de la requête par voie électronique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/chapitre-iv.md) (7 articles)
+    - [Titre II : Les délais](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii.md) (6 articles)
+    - **Titre III : La représentation des parties**
+      - [Chapitre Ier : La représentation des parties devant le tribunal administratif](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ier.md) (12 articles)
+      - [Chapitre Ier bis : La représentation des parties devant la cour administrative d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ier-bis.md) (4 articles)
+      - [Chapitre II : La représentation des parties devant le Conseil d'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ii.md) (4 articles)
+    - [Titre IV : L'aide juridictionnelle](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv.md) (1 article)
+  - **Livre V : Le référé**
+    - [Titre Ier : Le juge des référés](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ier.md) (1 article)
+    - **Titre II : Le juge des référés statuant en urgence**
+      - [Chapitre II : Procédure](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Voies de recours](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-ii/chapitre-iii.md) (3 articles)
+    - **Titre III : Le juge des référés ordonnant un constat ou une mesure d'instruction**
+      - [Chapitre Ier : Le constat](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Le référé instruction](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Voies de recours](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iii/chapitre-iii.md) (3 articles)
+    - **Titre IV : Le juge des référés accordant une provision**
+      - [Chapitre unique.](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iv/chapitre-unique.md) (6 articles)
+    - **Titre V : Dispositions particulières à certains contentieux**
+      - [Chapitre Ier : Le référé en matière de passation de contrats et marchés](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-ier.md) (13 articles)
+      - [Chapitre IV : Les régimes spéciaux de suspension](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-iv.md) (1 article)
+      - [Chapitre V : Le référé en matière d'informatique et libertés](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Le référé en matière de sécurité des immeubles, locaux et installations](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Le référé sur saisine du Défenseur des droits](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-vii.md) (2 articles)
+      - [Chapitre VIII : Le référé en matière de secret des affaires](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-viii.md) (1 article)
+      - [Chapitre IX : Les recours relatifs aux conditions de détention](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-ix.md) (2 articles)
+  - **Livre VI : L'instruction**
+    - **Titre Ier : La procédure ordinaire**
+      - [Chapitre Ier : La communication de la requête et des mémoires](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ier/chapitre-ier.md) (43 articles)
+      - [Chapitre II : La confirmation de la requête, la régularisation et la mise en demeure](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ier/chapitre-ii.md) (7 articles)
+      - [Chapitre III : La clôture de l'instruction](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ier/chapitre-iii.md) (6 articles)
+    - **Titre II : Les différents moyens d'investigation**
+      - [Chapitre Ier : L'expertise](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-ier.md) (25 articles)
+      - [Chapitre II : La visite des lieux](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : L'enquête](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Les vérifications d'écritures](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Les procédures orales d'instruction](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Les autres mesures d'instruction](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Dispositions diverses](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vii.md) (4 articles)
+    - **Titre III : Les incidents de l'instruction**
+      - [Chapitre Ier : La demande incidente](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : L'intervention](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : L'inscription de faux](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Les reprises d'instance et constitution de nouvel avocat](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Le désaveu](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Le désistement](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-vi.md) (1 article)
+  - **Livre VII : Le jugement**
+    - **Titre Ier : L'inscription au rôle**
+      - [Chapitre Ier : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Dispositions applicables au Conseil d'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ier/chapitre-ii.md) (2 articles)
+    - [Titre II : L'abstention et la récusation](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ii.md) (9 articles)
+    - **Titre III : La tenue de l'audience et le délibéré**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Dispositions applicables aux tribunaux administratifs et aux cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions applicables au Conseil d'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-iii/chapitre-iii.md) (3 articles)
+    - **Titre IV : La décision**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-iv/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Dispositions propres aux ordonnances](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-iv/chapitre-ii.md) (6 articles)
+    - [Titre V : La notification de la décision](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-v.md) (16 articles)
+    - [Titre VI : Les frais et dépens](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vi.md) (5 articles)
+    - **Titre VII : Dispositions spéciales**
+      - [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-ier.md) (4 articles)
+      - [Chapitre Ier bis : La question prioritaire de constitutionnalité](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-ier-bis.md) (19 articles)
+      - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre II bis : Les contentieux sociaux](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-ii-bis.md) (6 articles)
+      - [Chapitre III : Le contentieux des élections](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-iii.md) (6 articles)
+      - [Chapitre III bis : Le contentieux de la mise en œuvre des techniques de renseignement soumises à autorisation et des fichiers intéressant la sûreté de l'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-iii-bis.md) (32 articles)
+      - [Chapitre III ter : Le contentieux des décisions administratives fondées sur des motifs en lien avec la prévention d'actes de terrorisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-iii-ter.md) (18 articles)
+      - [Chapitre III quater : Le contentieux des demandes de retrait de contenus illicites mentionnés à l'article 6-1 de la loi n° 2004-575 du 21 juin 2004](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-iii-quater.md) (3 articles)
+      - [Chapitre V : Le contentieux indemnitaire du fait des pratiques anticoncurrentielles](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-v.md) (8 articles)
+      - [Chapitre VI : Le contentieux des decisions relatives à l'entrée, au séjour et à l'éloignement des étrangers](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-vi.md) (1 article)
+      - [Chapitre VII quinquies : Le contentieux des refus de visa et d'autorisation de voyage](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-vii-quinquies.md) (1 article)
+      - [Chapitre VIII : Le contentieux du droit au logement et le contentieux de l'urbanisme](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-viii.md) (9 articles)
+      - [Chapitre IX : Autres dispositions](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-ix.md) (12 articles)
+      - [Chapitre X : L'action de groupe](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-x.md) (20 articles)
+      - [Chapitre XII : L'action en reconnaissance de droits](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-xii.md) (20 articles)
+      - [Chapitre XIII : Le contentieux relatif à la prévention, la cessation ou la réparation d'une atteinte au secret des affaires](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-xiii.md) (2 articles)
+      - [Chapitre XVI : Le contentieux de certains projets en matière environnementale](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vii/chapitre-xvi.md) (3 articles)
+    - [Titre VIII : Dispositions particulières aux tribunaux administratifs d'outre-mer.](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-viii.md) (3 articles)
+  - **Livre VIII : Les voies de recours.**
+    - [Titre Ier : L'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-ier.md) (26 articles)
+    - **Titre II : Le recours en cassation**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Procédure d'admission](partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-ii/chapitre-ii.md) (7 articles)
+    - **Titre III : Autres voies de recours**
+      - [Chapitre Ier : L'opposition](partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : La tierce opposition](partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Le recours en rectification d'erreur matérielle](partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Le recours en révision](partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-iii/chapitre-iv.md) (4 articles)
+  - **Livre IX : L'exécution des décisions**
+    - [Titre Ier : Principes](partie-reglementaire-decrets-en-conseil-d-etat/livre-ix/titre-ier.md) (5 articles)
+    - [Titre II : Dispositions applicables aux tribunaux administratifs et cours administratives d'appel](partie-reglementaire-decrets-en-conseil-d-etat/livre-ix/titre-ii.md) (8 articles)
+    - [Titre III : Dispositions applicables au Conseil d'Etat](partie-reglementaire-decrets-en-conseil-d-etat/livre-ix/titre-iii.md) (9 articles)

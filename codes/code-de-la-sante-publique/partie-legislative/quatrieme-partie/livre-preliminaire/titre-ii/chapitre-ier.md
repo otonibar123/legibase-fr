@@ -1,0 +1,107 @@
+# Chapitre Ier
+
+Code de la santé publique › Partie législative › Quatrième partie : Professions de santé › Livre préliminaire : Dispositions communes › Titre II : Développement professionnel continu et certification périodique des professionnels de santé
+
+### Article L4021-1
+- Identifiant : LEGIARTI000031929691
+- État : en vigueur depuis le 28/01/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031929691
+- Cité par : [art. D4135-1 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-ier/titre-iii/chapitre-v.md#article-d4135-1) ; [art. L4234-6-1 du Code de la santé publique](../../livre-ii/titre-iii/chapitre-iv.md#article-l4234-6-1) ; [art. R4021-7 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-7) ; [art. R4021-22 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-22) ; [art. R4127-305 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-305) ; [art. R4235-31 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-ii/titre-iii/chapitre-v.md#article-r4235-31) ; [art. R4322-38 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-r4322-38) ; [art. R6152-409 du Code de la santé publique](../../../../partie-reglementaire/sixieme-partie/livre-ier/titre-v/chapitre-ii.md#article-r6152-409) ; [art. L162-1-11 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-1-11) ; [art. L213-93 du Code des impositions sur les biens et services](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053105740) ; [Décret n°2007-437 du 25 mars 2007, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032886047) ; [Décret n°2011-2113 du 30 décembre 2011, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032885921) ; [Décret n°2014-1138 du 7 octobre 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000032885946) ; [Décret n°2016-942 du 8 juillet 2016, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034695280) ; [Décret n°91-1195 du 27 novembre 1991, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032886074) ; [Décret n°95-569 du 6 mai 1995, art. 12-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032886065) ; [LOI n°2011-940 du 10 août 2011, art. 62](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024460091)
+
+Le développement professionnel continu a pour objectifs le maintien et l'actualisation des connaissances et des compétences ainsi que l'amélioration des pratiques. Il constitue une obligation pour les professionnels de santé. Chaque professionnel de santé doit justifier, sur une période de trois ans, de son engagement dans une démarche de développement professionnel continu comportant des actions de formation continue, d'analyse, d'évaluation et d'amélioration de ses pratiques et de gestion des risques. L'engagement dans une démarche d'accréditation vaut engagement dans une démarche de développement professionnel continu.
+
+### Article L4021-2
+- Identifiant : LEGIARTI000031919964
+- État : en vigueur depuis le 28/01/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031919964
+- Renvoie à : [art. L162-1-13 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-1-13) ; [art. L162-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-9) ; [art. L162-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-14) ; [art. L162-32-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-32-1)
+- Cité par : [art. D4021-2 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-d4021-2) ; [art. R4021-4 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-4) ; [art. R4021-7 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-7) ; [art. R4021-13 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-13) ; [art. R4021-20 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-20) ; [art. R4021-22 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-22) ; [art. R4021-24 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-24) ; [art. L162-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-5) ; [art. L162-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-9) ; [art. L162-12-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-12-2) ; [art. L162-12-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-12-9) ; [art. L162-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-14) ; [art. L162-14-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-14-1) ; [art. L162-16-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-16-1) ; [art. L162-32-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-32-1) ; [Arrêté du 14 septembre 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033134336) ; [Arrêté du 14 septembre 2016, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033134338) ; [Arrêté du 14 septembre 2016, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033134342) ; [Arrêté du 23 juin 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051817513) ; [Arrêté du 3 juin 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054211611)
+
+Un arrêté des ministres chargés de la santé et de la sécurité sociale, et du ministre de la défense pour les professionnels du service de santé des armées, définit les orientations pluriannuelles prioritaires de développement professionnel continu. Ces orientations comportent :  
+
+1° Des orientations définies par profession ou par spécialité sur la base des propositions des conseils nationaux professionnels ou, en l'absence de conseils nationaux professionnels, des représentants de la profession ou de la spécialité ;  
+
+2° Des orientations s'inscrivant dans le cadre de la politique nationale de santé ;  
+
+3° Des orientations issues du dialogue conventionnel relevant des articles L. 162-1-13, L. 162-5, L. 162-9, L. 162-12-2, L. 162-12-9, L. 162-14, L. 162-14-1, L. 162-16-1 et L. 162-32-1 du code de la sécurité sociale.
+
+### Article L4021-3
+- Identifiant : LEGIARTI000042686153
+- État : en vigueur depuis le 16/12/2020
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042686153
+- Renvoie à : [art. L221-1-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-ii/chapitre-1er.md#article-l221-1-2)
+- Cité par : [art. D4021-1-1 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-d4021-1-1) ; [art. D4021-2 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-d4021-2) ; [art. D4021-2-2 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-d4021-2-2) ; [art. L1453-4 du Code de la santé publique](../../../premiere-partie/livre-iv/titre-v/chapitre-iii.md#article-l1453-4) ; [art. R4021-1 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-1) ; [art. R4021-4 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-4) ; [art. R4021-22 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-22) ; [art. R4022-26 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-ii.md#article-r4022-26) ; [art. D162-10-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-vi/chapitre-2.md#article-d162-10-2) ; [art. L162-1-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-2.md#article-l162-1-7) ; [art. L221-1-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-ii/chapitre-1er.md#article-l221-1-2) ; [art. R162-78 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-2.md#article-r162-78) ; [art. R162-80 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-2.md#article-r162-80) ; [art. R162-84 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-2.md#article-r162-84) ; [art. R162-86 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-2.md#article-r162-86) ; [art. R162-89 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-2.md#article-r162-89) ; [art. R162-114 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-2.md#article-r162-114) ; [art. R162-125 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-2.md#article-r162-125) ; [art. R165-65 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-5.md#article-r165-65) ; [Arrêté du 23 juin 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051817513) ; [Arrêté du 24 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054543741) ; [Arrêté du 26 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052186111) ; [Arrêté du 3 juin 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054211611) ; [Décret n°2016-1317 du 5 octobre 2016](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033199068) ; [Décret n°2016-942 du 8 juillet 2016, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034695280) ; [Décret n°2019-17 du 9 janvier 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037974761) ; [Décret n°2024-290 du 29 mars 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049350851)
+
+Pour chaque profession ou spécialité, les conseils nationaux professionnels proposent un parcours pluriannuel de développement professionnel continu qui permet à chaque professionnel de satisfaire à son obligation. Ce parcours comporte, notamment, des actions s'inscrivant dans le cadre des priorités définies à l'article L. 4021-2. Chaque professionnel choisit les actions auxquelles il s'inscrit. Pour les professionnels salariés, ce choix s'effectue en lien avec l'employeur.  
+
+L'ensemble des actions réalisées par les professionnels au titre de leur obligation de développement professionnel continu sont retracées dans un document dont le contenu et les modalités d'utilisation sont définis par le conseil national professionnel compétent au titre de leur métier ou de leur spécialité.  
+
+Les conseils nationaux professionnels retiennent, notamment sur la base des méthodes élaborées par la Haute Autorité de santé, celles qui leur paraissent les plus adaptées pour la mise en œuvre du développement professionnel continu.  
+
+Les conseils nationaux professionnels regroupent, pour chaque profession de santé ou, le cas échéant, pour chaque spécialité, les sociétés savantes et les organismes professionnels. Les conseils nationaux professionnels et leurs organismes fédérateurs sont éligibles à un financement par le fonds mentionné à l'article L. 221-1-2 du code de la sécurité sociale. Leurs missions ainsi que les principes généraux relatifs à leur composition, à leur financement et à leur fonctionnement sont fixés par décret. Ils font l'objet d'une convention conclue entre les différents conseils ou leur organisme fédérateur, la Caisse nationale de l'assurance maladie et l'Etat.  
+
+En l'absence de conseils nationaux professionnels, les représentants de la profession ou de la spécialité sont sollicités pour exercer les missions définies au présent article.
+
+### Article L4021-3-1
+- Identifiant : LEGIARTI000036505783
+- État : en vigueur depuis le 19/01/2018
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036505783
+- Renvoie à : [art. L4138-2 du Code de la défense](../../../../../code-de-la-defense/partie-legislative/partie-4/livre-ier/titre-iii/chapitre-viii.md#article-l4138-2)
+- Cité par : [art. D4021-2 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-d4021-2) ; [art. R4021-4 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-4)
+
+Pour les professionnels de santé relevant des dispositions de l'article L. 4138-2 du code de la défense, le ministre de la défense adapte les parcours pluriannuels de développement professionnel continu proposés par les conseils nationaux professionnels.
+
+### Article L4021-4
+- Identifiant : LEGIARTI000031919968
+- État : en vigueur depuis le 28/01/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031919968
+- Cité par : [art. R4021-5 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-5) ; [art. R4021-7 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-7)
+
+L'université participe, par son expertise pédagogique dans le domaine de la formation initiale et continue des professionnels de santé, au développement professionnel continu.
+
+### Article L4021-5
+- Identifiant : LEGIARTI000031919970
+- État : en vigueur depuis le 28/01/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031919970
+- Renvoie à : [art. L6331-1 du Code du travail](../../../../../code-du-travail/partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-1) ; [art. L6332-9 du Code du travail](../../../../../code-du-travail/partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-9)
+
+Le développement professionnel continu se réalise dans le respect des règles d'organisation et de prise en charge propres aux différents secteurs d'activité des professionnels de santé, notamment par les employeurs ou par les organismes mentionnés aux articles L. 6331-1 et L. 6332-9 du code du travail ainsi qu'au II de l'article 16 de l'ordonnance n° 2005-406 du 2 mai 2005 simplifiant le régime juridique des établissements de santé. Le contrôle du respect par les professionnels de santé de leur obligation de développement professionnel continu est réalisé par les instances ordinales, les employeurs et les autorités compétentes, dans des conditions fixées par décret en Conseil d'Etat.
+
+### Article L4021-6
+- Identifiant : LEGIARTI000051288292
+- État : en vigueur depuis le 28/02/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051288292
+- Cité par : [art. R632-1-1 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md#article-r632-1-1) ; [art. R632-28-2 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md#article-r632-28-2) ; [art. R4021-6 du Code de la santé publique](../../../../partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-ii/chapitre-premier.md#article-r4021-6) ; [art. D311-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) ; [LOI n°2025-1403 du 30 décembre 2025, art. 107](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053265460) ; [LOI n°2025-199 du 28 février 2025, art. 95](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051273896)
+
+L'Agence nationale du développement professionnel continu assure le pilotage et contribue à la gestion financière du dispositif de développement professionnel continu pour l'ensemble des professionnels de santé, quels que soient leurs statuts ou leurs conditions d'exercice. Elle exerce le contrôle de ce dispositif. A cette fin, elle peut se faire communiquer toute pièce nécessaire à ce contrôle. Ce contrôle est mis en œuvre sans préjudice du contrôle prévu à la seconde phrase de l'article L. 4021-5.
+
+Les ressources de l'Agence nationale du développement professionnel continu sont constituées notamment d'une contribution des régimes obligatoires d'assurance maladie dont le montant est fixé chaque année par la loi.
+
+Un décret en Conseil d'Etat fixe les missions et les instances de l'Agence nationale du développement professionnel continu.
+
+### Article L4021-7
+- Identifiant : LEGIARTI000038888254
+- État : en vigueur depuis le 27/07/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038888254
+
+Un décret en Conseil d'Etat définit les modalités selon lesquelles :
+
+1° Les organismes ou les structures peuvent présenter des actions ou des programmes s'inscrivant dans le cadre des orientations définies à l'article L. 4021-2 ;
+
+2° Les actions ou programmes mentionnés au 1° du présent article font l'objet d'une évaluation avant d'être mis à la disposition des professionnels de santé ;
+
+3° L'Agence nationale du développement professionnel continu contribue à la gestion financière des programmes et actions s'inscrivant dans le cadre des orientations pluriannuelles prioritaires définies à l'article L. 4021-2 ;
+
+3° bis L'Agence nationale du développement professionnel continu établit et met en œuvre le plan de contrôle du dispositif ;
+
+4° Des sanctions à caractère financier ou administratif peuvent être prises en cas de manquements constatés dans la mise en œuvre des actions et des programmes.
+
+### Article L4021-8
+- Identifiant : LEGIARTI000031919976
+- État : en vigueur depuis le 28/01/2016
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031919976
+- Cité par : [art. L4234-6-1 du Code de la santé publique](../../livre-ii/titre-iii/chapitre-iv.md#article-l4234-6-1) ; [art. R6152-409 du Code de la santé publique](../../../../partie-reglementaire/sixieme-partie/livre-ier/titre-v/chapitre-ii.md#article-r6152-409) ; [Décret n°2007-437 du 25 mars 2007, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032886047) ; [Décret n°91-1195 du 27 novembre 1991, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032886074) ; [Décret n°95-569 du 6 mai 1995, art. 12-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032886065)
+
+Sont prescrites, au profit de l'organisme gestionnaire du développement professionnel continu, puis de l'Agence nationale du développement professionnel continu, toutes créances dues au titre des actions de développement professionnel continu dès lors qu'elles n'ont pas fait l'objet d'une demande de paiement dans un délai de deux ans à compter du jour où les droits ont été acquis.  
+
+Le délai de prescription prévu au premier alinéa est applicable aux créances dues avant la date d'entrée en vigueur du présent article à compter de cette même date, sans que la durée totale du délai de prescription puisse excéder la durée antérieurement en vigueur.

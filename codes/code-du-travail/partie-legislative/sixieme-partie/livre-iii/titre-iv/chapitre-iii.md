@@ -6,7 +6,7 @@ Code du travail › Partie législative › Sixième partie : La formation profe
 - Identifiant : LEGIARTI000022265871
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022265871
-- Renvoie à : [art. L6313-1 du Code du travail](../titre-ier/chapitre-iii.md#article-l6313-1) ; [Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071367)
+- Renvoie à : [art. L6313-1 du Code du travail](../titre-ier/chapitre-iii.md#article-l6313-1) ; [Code rural (nouveau)](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071367)
 - Cité par : [Arrêté du 20 avril 2016, art. Annexe 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049821327)
 
 Pendant la durée de sa présence en entreprise au titre de l'une des actions de formation mentionnées à l'article L. 6313-1, le stagiaire non titulaire d'un contrat de travail bénéficie des dispositions du présent code et, le cas échéant, du code rural et de la pêche maritime relatives :

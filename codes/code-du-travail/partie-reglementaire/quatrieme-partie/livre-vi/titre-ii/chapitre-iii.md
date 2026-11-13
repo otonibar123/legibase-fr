@@ -11,7 +11,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676623
 - Renvoie à : [art. L4622-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-3) ; [art. R4623-5 du Code du travail](chapitre-iii.md#article-r4623-5) ; [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14)
-- Cité par : [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14) ; [art. R4624-4 du Code du travail](chapitre-iv.md#article-r4624-4) ; [art. R4624-4-1 du Code du travail](chapitre-iv.md#article-r4624-4-1) ; [Arrêté du 22 avril 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045745680) ; [Arrêté du 4 décembre 2020, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049988727) ; [art. R5545-6-12 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480038)
+- Cité par : [art. R5545-6-12 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-12) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14) ; [art. R4624-4 du Code du travail](chapitre-iv.md#article-r4624-4) ; [art. R4624-4-1 du Code du travail](chapitre-iv.md#article-r4624-4-1) ; [Arrêté du 22 avril 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045745680) ; [Arrêté du 4 décembre 2020, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049988727)
 
 Le médecin du travail est le conseiller de l'employeur, des travailleurs, des représentants du personnel et des services sociaux. Dans le champ de ses missions :
 
@@ -52,7 +52,7 @@ Dans les services de prévention et de santé au travail interentreprises, l'éq
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025279912
 - Renvoie à : [Loi n° 2002-73 du 17 janvier 2002, art. 189](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006697343)
-- Cité par : [art. R4626-9 du Code du travail](chapitre-vi.md#article-r4626-9) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [art. R5545-6-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480020) ; [art. R5785-7 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051481283) ; [art. R5795-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051481332) ; [art. R717-50 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035492268) ; [Décret n°2012-422 du 29 mars 2012, art. 39](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046789845) ; [Décret n°82-453 du 28 mai 1982, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041934538) ; [Décret n°85-603 du 10 juin 1985, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045589098)
+- Cité par : [art. R5545-6-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-6) ; [art. R5785-7 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-vii/titre-viii/chapitre-v.md#article-r5785-7) ; [art. R5795-5 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-vii/titre-ix/chapitre-v.md#article-r5795-5) ; [art. R4626-9 du Code du travail](chapitre-vi.md#article-r4626-9) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [art. R717-50 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-50) ; [Décret n°2012-422 du 29 mars 2012, art. 39](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046789845) ; [Décret n°82-453 du 28 mai 1982, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041934538) ; [Décret n°85-603 du 10 juin 1985, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045589098)
 
 Seul un médecin remplissant l'une des conditions suivantes peut pratiquer la médecine du travail :
 
@@ -73,7 +73,7 @@ Le médecin du travail communique ses titres à l'inspection médicale du travai
 - Identifiant : LEGIARTI000045676942
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676942
-- Renvoie à : art. L4127-1 du Code de la santé publique
+- Renvoie à : [art. L4127-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-l4127-1)
 - Cité par : [art. R4626-13-1 du Code du travail](chapitre-vi.md#article-r4626-13-1) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5)
 
 Le médecin du travail est lié par un contrat de travail conclu avec l'employeur ou le président du service de prévention et de santé au travail interentreprises, dans les conditions prévues par le code de déontologie médicale prévu à l'article L. 4127-1 du code de la santé publique.
@@ -178,7 +178,7 @@ b) En cas de changement de secteur d'un médecin du travail, lorsque ce changeme
 - Identifiant : LEGIARTI000041455650
 - État : en vigueur depuis le 02/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041455650
-- Renvoie à : [art. R4623-5 du Code du travail](chapitre-iii.md#article-r4623-5) ; art. L130-1 du Code de la sécurité sociale
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1) ; [art. R4623-5 du Code du travail](chapitre-iii.md#article-r4623-5)
 - Cité par : [Décret n°2019-1586 du 31 décembre 2019, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041432762)
 
 A défaut d'accord des instances mentionnées à l'article R. 4623-5 ou de l'employeur, les changements de secteur et d'affectation du médecin du travail interviennent sur autorisation de l'inspecteur du travail délivrée après avis du médecin inspecteur du travail.
@@ -355,7 +355,7 @@ Le silence gardé pendant plus de quatre mois sur ce recours vaut décision de r
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676921
 - Renvoie à : [art. R4623-25-1 du Code du travail](chapitre-iii.md#article-r4623-25-1) ; [art. R4623-25-2 du Code du travail](chapitre-iii.md#article-r4623-25-2)
-- Cité par : [art. R5545-6-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480020) ; [DÉCRET n°2014-1255 du 27 octobre 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029647554) ; [DÉCRET n°2015-161 du 11 février 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000030230979) ; [Décret n°82-453 du 28 mai 1982, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041934507)
+- Cité par : [art. R5545-6-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-6) ; [DÉCRET n°2014-1255 du 27 octobre 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029647554) ; [DÉCRET n°2015-161 du 11 février 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000030230979) ; [Décret n°82-453 du 28 mai 1982, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041934507)
 
 Le service de prévention et de santé au travail ou l'employeur peut recruter des collaborateurs médecins. Ces médecins s'engagent à suivre une formation en vue de l'obtention de la qualification en médecine du travail auprès de l'ordre des médecins. Ils sont encadrés par un médecin qualifié en médecine du travail qu'ils assistent dans ses missions.
 
@@ -390,7 +390,7 @@ Il ne peut subir de discrimination en raison de l'exercice de ses missions.
 - Identifiant : LEGIARTI000045677158
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677158
-- Renvoie à : [art. L4622-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-4)
+- Renvoie à : [art. L632-5 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-ii.md#article-l632-5) ; [art. L4622-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-4)
 - Cité par : [art. R4412-6 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-6) ; [art. R4623-15 du Code du travail](chapitre-iii.md#article-r4623-15)
 
 Les services de prévention et de santé au travail peuvent être agréés, dans les conditions prévues par l'article L. 632-5 du code de l'éducation, comme organismes extrahospitaliers accueillant en stage les internes inscrits au diplôme d'études spécialisées de médecine du travail ou les étudiants inscrits en deuxième cycle des études médicales.
@@ -399,7 +399,7 @@ Les services de prévention et de santé au travail peuvent être agréés, dans
 - Identifiant : LEGIARTI000025279807
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025279807
-- Renvoie à : [art. L632-2 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006525233) ; [art. L6153-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006691130)
+- Renvoie à : [art. L632-2 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-ii.md#article-l632-2) ; [art. L6153-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-ier/titre-v/chapitre-iii.md#article-l6153-1)
 
 L'interne en médecine du travail est soumis aux dispositions relatives au régime de l'internat déterminé en application de l'article L. 6153-1 du code de la santé publique et à l'organisation du troisième cycle des études médicales fixée en application de l'article L. 632-2 du code de l'éducation.
 
@@ -407,7 +407,7 @@ L'interne en médecine du travail est soumis aux dispositions relatives au régi
 - Identifiant : LEGIARTI000025279803
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025279803
-- Renvoie à : [art. R4623-36 du Code du travail](chapitre-iii.md#article-r4623-36) ; [art. L4131-2 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006688814)
+- Renvoie à : [art. L4131-2 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l4131-2) ; [art. R4623-36 du Code du travail](chapitre-iii.md#article-r4623-36)
 - Cité par : [art. R4623-15 du Code du travail](chapitre-iii.md#article-r4623-15) ; [Arrêté du 4 décembre 2020, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042646813)
 
 Peuvent être autorisés à exercer la médecine du travail en remplacement d'un médecin du travail temporairement absent, l'interne en médecine du travail disposant du niveau d'études requis par l'article L. 4131-2 du code de la santé publique et autorisé par le conseil départemental de l'ordre des médecins dans les conditions fixées par ce même article. L'interne en médecine du travail peut aussi être autorisé à exercer la médecine du travail dans l'attente de la prise de fonction d'un médecin du travail.
@@ -420,7 +420,7 @@ Peuvent être autorisés à exercer la médecine du travail en remplacement d'un
 - Identifiant : LEGIARTI000045676700
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676700
-- Renvoie à : art. L4111-2 du Code de la santé publique ; art. L4131-1-1 du Code de la santé publique
+- Renvoie à : [art. L4111-2 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l4111-2) ; [art. L4131-1-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l4131-1-1) ; [art. R4111-18 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-r4111-18)
 - Cité par : [art. R4623-25-4 du Code du travail](chapitre-iii.md#article-r4623-25-4) ; [art. R4623-25-5 du Code du travail](chapitre-iii.md#article-r4623-25-5) ; [Arrêté du 3 septembre 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052223872) ; [Arrêté du 3 septembre 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052223874)
 
 I.-Le candidat à l'autorisation ministérielle d'exercice de la profession de médecin, dans la spécialité médecine du travail, prévue au I de l'article L. 4111-2 du code de la santé publique, lauréat des épreuves de vérification des connaissances, peut être recruté par un service de prévention et de santé au travail, agréé comme organisme extrahospitalier accueillant en stage les internes inscrits au diplôme d'études spécialisées de médecine du travail, pour l'accomplissement des fonctions requises par les dispositions du même article.
@@ -433,7 +433,7 @@ II.-Le candidat à l'autorisation d'exercice de la profession de médecin, dans 
 - Identifiant : LEGIARTI000045676695
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676695
-- Renvoie à : [art. R4623-25-3 du Code du travail](chapitre-iii.md#article-r4623-25-3) ; [art. R4111-17 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020940166)
+- Renvoie à : [art. R4111-17 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-r4111-17) ; [art. R4623-25-3 du Code du travail](chapitre-iii.md#article-r4623-25-3)
 
 Le candidat à l'autorisation d'exercice est lié par un contrat de travail conclu avec l'employeur ou le président du service de prévention et de santé au travail interentreprises.
 
@@ -459,7 +459,7 @@ Le médecin recruté en application des dispositions de l'article R. 4623-25-3 e
 - Identifiant : LEGIARTI000046824806
 - État : en vigueur depuis le 31/03/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046824806
-- Renvoie à : [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14)
+- Renvoie à : [art. R4311-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-r4311-1) ; [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14)
 
 Dans le respect des dispositions des articles R. 4311-1 et suivants du code de la santé publique, l'infirmier exerce ses missions propres ainsi que celles déléguées par le médecin du travail dans les conditions prévues à l'article R. 4623-14 du présent code.
 
@@ -467,7 +467,7 @@ Dans le respect des dispositions des articles R. 4311-1 et suivants du code de l
 - Identifiant : LEGIARTI000046824799
 - État : en vigueur depuis le 31/03/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046824799
-- Renvoie à : [art. D4622-42 du Code du travail](chapitre-ii.md#article-d4622-42) ; art. L4311-1 du Code de la santé publique
+- Renvoie à : [art. L4311-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-l4311-1) ; [art. D4622-42 du Code du travail](chapitre-ii.md#article-d4622-42)
 - Cité par : [art. R4626-26 du Code du travail](chapitre-vi.md#article-r4626-26)
 
 Un entretien infirmier peut être mis en place en accord avec le médecin du travail et sous sa responsabilité.
@@ -608,7 +608,7 @@ Lorsque le service de prévention et de santé au travail ne dispose pas des com
 - Identifiant : LEGIARTI000045676916
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676916
-- Cité par : [art. R4624-45-5 du Code du travail](chapitre-iv.md#article-r4624-45-5) ; [art. R5545-6-41 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051479993)
+- Cité par : [art. R5545-6-41 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-41) ; [art. R4624-45-5 du Code du travail](chapitre-iv.md#article-r4624-45-5)
 
 Dans les services de prévention et de santé au travail interentreprises, l'assistant de service de prévention et de santé au travail apporte une assistance administrative au médecin du travail et aux autres membres de l'équipe pluridisciplinaire dans leurs activités.
 

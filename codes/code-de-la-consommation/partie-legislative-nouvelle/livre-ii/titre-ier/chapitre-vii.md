@@ -9,7 +9,7 @@ Code de la consommation › Partie législative nouvelle › Livre II : FORMATIO
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142587
 - Renvoie à : [art. L217-16 du Code de la consommation](chapitre-vii.md#article-l217-16) ; [art. L224-42-2 du Code de la consommation](../titre-ii/chapitre-iv.md#article-l224-42-2)
-- Cité par : [art. Annexe à l'article D. 211-2 du code de la consommation du Code de la consommation](../../../partie-reglementaire-nouvelle/annexes.md#article-annexe-à-larticle-d-211-2-du-code-de-la-consommation) ; [art. L112-4-1 du Code de la consommation](../../livre-ier/titre-ier/chapitre-ii.md#article-l112-4-1) ; [art. L211-2 du Code de la consommation](chapitre-ier.md#article-l211-2) ; [art. L217-16 du Code de la consommation](chapitre-vii.md#article-l217-16) ; [art. L224-25-3 du Code de la consommation](../titre-ii/chapitre-iv.md#article-l224-25-3) ; [art. L241-5 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-5) ; [art. Annexe à l'article D. 211-2 du code de la conso... du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045981314) ; [art. L213-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142785)
+- Cité par : [art. Annexe à l'article D. 211-2 du code de la consommation du Code de la consommation](../../../partie-reglementaire-nouvelle/annexes.md#article-annexe-à-larticle-d-211-2-du-code-de-la-consommation) ; [art. L112-4-1 du Code de la consommation](../../livre-ier/titre-ier/chapitre-ii.md#article-l112-4-1) ; [art. L211-2 du Code de la consommation](chapitre-ier.md#article-l211-2) ; [art. L217-16 du Code de la consommation](chapitre-vii.md#article-l217-16) ; [art. L224-25-3 du Code de la consommation](../titre-ii/chapitre-iv.md#article-l224-25-3) ; [art. L241-5 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-5) ; [art. L213-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-1) ; [art. Annexe à l'article D. 211-2 du code de la conso... du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045981314)
 
 I.-Les dispositions du présent chapitre sont applicables aux contrats de vente de biens meubles corporels entre un vendeur professionnel, ou toute personne se présentant ou se comportant comme tel, et un acheteur agissant en qualité de consommateur.  
 
@@ -142,7 +142,7 @@ Lorsqu'à l'occasion du contrat, un traitement de données à caractère personn
 - Identifiant : LEGIARTI000044152587
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044152587
-- Cité par : [art. L213-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142785)
+- Cité par : [art. L213-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-1)
 
 Les défauts de conformité qui apparaissent dans un délai de vingt-quatre mois à compter de la délivrance du bien, y compris du bien comportant des éléments numériques, sont, sauf preuve contraire, présumés exister au moment de la délivrance, à moins que cette présomption ne soit incompatible avec la nature du bien ou du défaut invoqué.  
 
@@ -163,7 +163,7 @@ Lorsque le contrat de vente d'un bien comportant des éléments numériques pré
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142560
 - Renvoie à : [art. 1219 du Code civil](../../../../code-civil/livre-iii/titre-iii/sous-titre-ier/chapitre-iv.md#article-1219) ; [art. 1220 du Code civil](../../../../code-civil/livre-iii/titre-iii/sous-titre-ier/chapitre-iv.md#article-1220)
-- Cité par : [art. L241-5 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-5) ; [art. L213-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142785)
+- Cité par : [art. L241-5 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-5) ; [art. L213-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-1)
 
 En cas de défaut de conformité, le consommateur a droit à la mise en conformité du bien par réparation ou remplacement ou, à défaut, à la réduction du prix ou à la résolution du contrat, dans les conditions énoncées à la présente sous-section.  
 

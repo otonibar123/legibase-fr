@@ -10,7 +10,7 @@ Code du travail › Partie législative › Cinquième partie : L'emploi › Liv
 - Identifiant : LEGIARTI000035902570
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035902570
-- Renvoie à : [art. L5134-19-1 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-1) ; [art. L5134-125 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-125) ; [art. L5311-4 du Code du travail](../../livre-iii/titre-ier/chapitre-ier.md#article-l5311-4) ; [art. L5312-1 du Code du travail](../../livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. L5314-1 du Code du travail](../../livre-iii/titre-ier/chapitre-iv.md#article-l5314-1)
+- Renvoie à : [art. L522-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-v/titre-ii/chapitre-ii.md#article-l522-1) ; [art. L5134-19-1 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-1) ; [art. L5134-125 du Code du travail](../../livre-ier/titre-iii/chapitre-iv.md#article-l5134-125) ; [art. L5311-4 du Code du travail](../../livre-iii/titre-ier/chapitre-ier.md#article-l5311-4) ; [art. L5312-1 du Code du travail](../../livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. L5314-1 du Code du travail](../../livre-iii/titre-ier/chapitre-iv.md#article-l5314-1)
 - Cité par : [art. R5134-39 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-39)
 
 Pour son application en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, l'article L. 5134-19-1 est ainsi rédigé :
@@ -81,7 +81,7 @@ Pour l'application de l'article L. 5141-5, la région ou la collectivité territ
 - Identifiant : LEGIARTI000035902553
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035902553
-- Cité par : [art. L5522-28 du Code du travail](chapitre-ii.md#article-l5522-28) ; [art. R5522-57 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-v/titre-ii/chapitre-ii.md#article-r5522-57) ; [art. D371-9 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032715712) ; [art. D373-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047803532)
+- Cité par : [art. L5522-28 du Code du travail](chapitre-ii.md#article-l5522-28) ; [art. R5522-57 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-v/titre-ii/chapitre-ii.md#article-r5522-57) ; [art. D371-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-iii/titre-vii/chapitre-ier.md#article-d371-9) ; [art. D373-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-iii/titre-vii/chapitre-iii.md#article-d373-6)
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, en vue de faciliter la réalisation d'un projet professionnel, les jeunes âgés de dix-huit à trente ans peuvent bénéficier d'une aide financière de l'Etat dénommée " aide au projet initiative-jeune ".
 
@@ -140,8 +140,8 @@ Pour l'application à Mayotte de l'article L. 5142-1, les mots : "aux articles L
 - Identifiant : LEGIARTI000006903962
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903962
-- Renvoie à : [art. L5522-22 du Code du travail](chapitre-ii.md#article-l5522-22) ; [art. 313-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418191)
-- Cité par : [Ordonnance n°2016-160 du 18 février 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035903404)
+- Renvoie à : [art. L5522-22 du Code du travail](chapitre-ii.md#article-l5522-22) ; [art. 313-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-313-1)
+- Cité par : [art. L114-16-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-i/chapitre-4-ter.md#article-l114-16-2) ; [Ordonnance n°2016-160 du 18 février 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035903404)
 
 Le fait de bénéficier ou de tenter de bénéficier frauduleusement de l'aide au projet initiative-jeune, en méconnaissance des dispositions des articles L. 5522-22 à L. 5522-25, est puni des peines prévues aux articles 313-1 à 313-3 du code pénal.
 

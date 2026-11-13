@@ -157,6 +157,7 @@ De son côté, celui qui a un droit de servitude ne peut en user que suivant son
 - Identifiant : LEGIARTI000006430499
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430499
+- Cité par : [art. L123-14 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-14)
 
 Les servitudes cessent lorsque les choses se trouvent en tel état qu'on ne peut plus en user.
 

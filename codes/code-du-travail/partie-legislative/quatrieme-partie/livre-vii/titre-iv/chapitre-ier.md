@@ -9,7 +9,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032376248
 - Renvoie à : [art. L8113-7 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-7) ; [Code du travail, Chapitre II : Demandes de vérifications, de mes](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006178112) ; [Code du travail, Chapitre IV : Prescriptions techniques de prote](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006178097) ; [Code du travail, Section 2 : Obligations particulières d'informa](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006189722) ; [Code du travail, Titre IV : Autres activités et opérations](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006160790)
-- Cité par : [art. L4741-2 du Code du travail](chapitre-ier.md#article-l4741-2) ; [art. L4741-5 du Code du travail](chapitre-ier.md#article-l4741-5) ; [art. L4741-6 du Code du travail](chapitre-ier.md#article-l4741-6) ; [art. L4741-9 du Code du travail](chapitre-ier.md#article-l4741-9) ; [art. R5221-20 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-r5221-20) ; [art. R2332-15 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034672755) ; [art. R313-38 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034686403) ; [art. L163-18 du Code forestier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025246363) ; [art. L412-20-8 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046451287) ; [art. L719-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585187) ; [art. L719-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029593827)
+- Cité par : [art. R2332-15 du Code de la défense](../../../../../code-de-la-defense/partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-ii.md#article-r2332-15) ; [art. R313-38 du Code de la sécurité intérieure](../../../../../code-de-la-securite-interieure/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-r313-38) ; [art. L4741-2 du Code du travail](chapitre-ier.md#article-l4741-2) ; [art. L4741-5 du Code du travail](chapitre-ier.md#article-l4741-5) ; [art. L4741-6 du Code du travail](chapitre-ier.md#article-l4741-6) ; [art. L4741-9 du Code du travail](chapitre-ier.md#article-l4741-9) ; [art. R5221-20 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-r5221-20) ; [art. L163-18 du Code forestier (nouveau)](../../../../../code-forestier-nouveau/partie-legislative/livre-ier/titre-vi/chapitre-iii.md#article-l163-18) ; [art. L412-20-8 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-20-8) ; [art. L719-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-5) ; [art. L719-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-9)
 
 Est puni d'une amende de 10 000 euros, le fait pour l'employeur ou son délégataire de méconnaître par sa faute personnelle les dispositions suivantes et celles des décrets en Conseil d'Etat pris pour leur application :
 
@@ -33,8 +33,8 @@ L'amende est appliquée autant de fois qu'il y a de travailleurs de l'entreprise
 - Identifiant : LEGIARTI000051877354
 - État : en vigueur depuis le 11/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051877354
-- Renvoie à : [art. L4741-1 du Code du travail](chapitre-ier.md#article-l4741-1)
-- Cité par : [art. L719-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029593827)
+- Renvoie à : [art. L4741-1 du Code du travail](chapitre-ier.md#article-l4741-1) ; [art. 221-6 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-221-6) ; [art. 221-6-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-221-6-1)
+- Cité par : [art. L719-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-9)
 
 Lorsqu'une des infractions énumérées à l'article L. 4741-1, qui a provoqué la mort ou des blessures dans les conditions définies aux articles 221-6, 221-6-1, 221-18 à 221-20 et 222-19 à 222-20-1 du code pénal ou, involontairement, des blessures, coups ou maladies n'entraînant pas une incapacité totale de travail personnelle supérieure à trois mois, a été commise par un délégataire, la juridiction peut, compte tenu des circonstances de fait et des conditions de travail de l'intéressé, décider que le paiement des amendes prononcées sera mis, en totalité ou en partie, à la charge de l'employeur si celui-ci a été cité à l'audience.
 
@@ -51,7 +51,7 @@ Le fait pour l'employeur de ne pas s'être conformé aux mesures prises par le d
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032376310
 - Renvoie à : [art. L4731-1 du Code du travail](../titre-iii/chapitre-ier.md#article-l4731-1) ; [art. L4731-2 du Code du travail](../titre-iii/chapitre-ier.md#article-l4731-2)
-- Cité par : [art. L412-20-8 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046451287)
+- Cité par : [art. L412-20-8 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-20-8)
 
 Le fait pour l'employeur de ne pas s'être conformé aux mesures prises par l'agent de contrôle en application des articles L. 4731-1 ou L. 4731-2 est puni d'un emprisonnement d'un an et d'une amende de 3 750 euros.
 
@@ -60,7 +60,7 @@ Le fait pour l'employeur de ne pas s'être conformé aux mesures prises par l'ag
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903421
 - Renvoie à : [art. L4221-1 du Code du travail](../../livre-ii/titre-ii/chapitre-ier.md#article-l4221-1) ; [art. L4411-7 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l4411-7) ; [art. L4525-1 du Code du travail](../../livre-v/titre-ii/chapitre-v.md#article-l4525-1) ; [art. L4721-4 du Code du travail](../titre-ii/chapitre-ier.md#article-l4721-4) ; [Code du travail, Livre III : Equipements de travail et moyens de](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006145409)
-- Cité par : [art. L5215-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-v.md#article-l5215-1) ; [art. L719-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029593827)
+- Cité par : [art. L5215-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-v.md#article-l5215-1) ; [art. L719-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-9)
 
 En cas d'infraction aux dispositions de l'article L. 4221-1, de celles du livre III ainsi que des articles L. 4411-7, L. 4525-1 et L. 4721-4 et des décrets pris en application, le jugement fixe, en outre, le délai dans lequel sont exécutés les travaux de sécurité et de salubrité imposés par ces dispositions. Ce délai ne peut excéder dix mois.
 
@@ -68,8 +68,8 @@ En cas d'infraction aux dispositions de l'article L. 4221-1, de celles du livre 
 - Identifiant : LEGIARTI000006903422
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903422
-- Renvoie à : [art. L4741-1 du Code du travail](chapitre-ier.md#article-l4741-1) ; art. 131-35 du Code pénal
-- Cité par : [art. L4744-4 du Code du travail](chapitre-iv.md#article-l4744-4) ; [art. L4744-5 du Code du travail](chapitre-iv.md#article-l4744-5) ; [art. L5215-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-v.md#article-l5215-1) ; [art. R2332-15 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034672755) ; [art. R313-38 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034686403) ; [art. L719-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585187) ; [art. L719-9 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585191)
+- Renvoie à : [art. L4741-1 du Code du travail](chapitre-ier.md#article-l4741-1) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
+- Cité par : [art. R2332-15 du Code de la défense](../../../../../code-de-la-defense/partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-ii.md#article-r2332-15) ; [art. R313-38 du Code de la sécurité intérieure](../../../../../code-de-la-securite-interieure/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-r313-38) ; [art. L4744-4 du Code du travail](chapitre-iv.md#article-l4744-4) ; [art. L4744-5 du Code du travail](chapitre-iv.md#article-l4744-5) ; [art. L5215-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-v.md#article-l5215-1) ; [art. L719-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-5) ; [art. L719-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-9)
 
 En cas de condamnation prononcée en application de l'article L. 4741-1, la juridiction peut ordonner, à titre de peine complémentaire, l'affichage du jugement aux portes des établissements de la personne condamnée, aux frais de celle-ci, dans les conditions prévues à l'article 131-35 du code pénal, et son insertion, intégrale ou par extraits, dans les journaux qu'elle désigne. Ces frais ne peuvent excéder le montant de l'amende encourue.  
 
@@ -96,7 +96,7 @@ L'employeur est civilement responsable des condamnations prononcées contre ses 
 - Identifiant : LEGIARTI000006903425
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903425
-- Renvoie à : [art. 225-12-6 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417888) ; [art. 227-29 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418118)
+- Renvoie à : [art. 225-12-6 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-225-12-6) ; [art. 227-29 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-29)
 
 Le fait d'employer des mineurs à la mendicité habituelle, soit ouvertement, soit sous l'apparence d'une profession, est puni des peines prévues aux articles 225-12-6 et 227-29 du code pénal.
 
@@ -107,7 +107,7 @@ Le fait d'employer des mineurs à la mendicité habituelle, soit ouvertement, so
 - État : en vigueur depuis le 11/03/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047291461
 - Renvoie à : [art. L4311-1 du Code du travail](../../livre-iii/titre-ier/chapitre-ier.md#article-l4311-1) ; [art. L4314-1 du Code du travail](../../livre-iii/titre-ier/chapitre-iv.md#article-l4314-1) ; [art. L4321-2 du Code du travail](../../livre-iii/titre-ii/chapitre-ier.md#article-l4321-2) ; [art. L4321-3 du Code du travail](../../livre-iii/titre-ii/chapitre-ier.md#article-l4321-3) ; [art. L4411-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l4411-1) ; [art. L4412-2 du Code du travail](../../livre-iv/titre-ier/chapitre-ii-bis.md#article-l4412-2) ; [art. L4451-1 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-l4451-1) ; [art. L4451-2 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-l4451-2) ; [art. L4741-1 du Code du travail](chapitre-ier.md#article-l4741-1) ; [art. L8113-7 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-7)
-- Cité par : [art. L4741-6 du Code du travail](chapitre-ier.md#article-l4741-6) ; [art. L4741-10 du Code du travail](chapitre-ier.md#article-l4741-10) ; [art. R2332-15 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034672755) ; [art. R313-38 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034686403) ; [art. L719-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585187) ; [art. L719-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029593827)
+- Cité par : [art. R2332-15 du Code de la défense](../../../../../code-de-la-defense/partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-ii.md#article-r2332-15) ; [art. R313-38 du Code de la sécurité intérieure](../../../../../code-de-la-securite-interieure/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-r313-38) ; [art. L4741-6 du Code du travail](chapitre-ier.md#article-l4741-6) ; [art. L4741-10 du Code du travail](chapitre-ier.md#article-l4741-10) ; [art. L719-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-5) ; [art. L719-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-9)
 
 Est puni d'une amende de 3 750 euros, le fait pour toute personne autre que celles mentionnées à l'article L. 4741-1, de méconnaître par sa faute personnelle les dispositions des articles L. 4321-2, L. 4321-3, L. 4411-1, L. 4411-2, L. 4411-6, L. 4412-2, L. 4451-1 à L. 4451-4 et celles des décrets en Conseil d'Etat pris pour leur application.
 
@@ -119,7 +119,7 @@ L'amende est appliquée autant de fois qu'il y a de salariés de l'entreprise co
 - Identifiant : LEGIARTI000006903427
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903427
-- Renvoie à : [art. L4741-9 du Code du travail](chapitre-ier.md#article-l4741-9) ; art. 131-35 du Code pénal
+- Renvoie à : [art. L4741-9 du Code du travail](chapitre-ier.md#article-l4741-9) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 - Cité par : [art. L4746-1 du Code du travail](chapitre-vi.md#article-l4746-1)
 
 En cas de condamnation prononcée en application de l'article L. 4741-9, la juridiction peut ordonner, à titre de peine complémentaire, l'affichage du jugement aux portes des établissements de la personne condamnée, aux frais de celle-ci, dans les conditions prévues à l'article 131-35 du code pénal, et son insertion, intégrale ou par extraits, dans les journaux qu'elle désigne. Ces frais ne peuvent excéder le montant maximum de l'amende encourue.  
@@ -134,8 +134,8 @@ Le fait de méconnaître cette interdiction est puni d'un emprisonnement de deux
 - Identifiant : LEGIARTI000051877327
 - État : en vigueur depuis le 11/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051877327
-- Renvoie à : [art. L4741-14 du Code du travail](chapitre-ier.md#article-l4741-14)
-- Cité par : [art. L4741-12 du Code du travail](chapitre-ier.md#article-l4741-12) ; [art. L5545-14 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023654330) ; [art. 218-3 du Code minier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018266704)
+- Renvoie à : [art. L4741-14 du Code du travail](chapitre-ier.md#article-l4741-14) ; [art. 221-6 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-221-6) ; [art. 221-6-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-221-6-1) ; [art. 221-18 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ier-ter.md#article-221-18) ; [art. 222-19 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-222-19)
+- Cité par : [art. L5545-14 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-l5545-14) ; [art. L4741-12 du Code du travail](chapitre-ier.md#article-l4741-12) ; [art. 218-3 du Code minier](../../../../../code-minier/livre-iii/titre-ier/chapitre-ii.md#article-218-3)
 
 Lorsqu'un accident du travail survient dans une entreprise où ont été relevés des manquements graves ou répétés aux règles de santé et sécurité au travail, la juridiction saisie, qui relaxe la ou les personnes physiques poursuivies sur le fondement des articles 221-6, 221-6-1, 221-18 à 221-20 et 222-19 à 222-20-1 du code pénal, fait obligation à l'entreprise de prendre toutes mesures pour rétablir des conditions normales de santé et sécurité au travail.
 
@@ -154,7 +154,7 @@ L'employeur qui, dans les délais prévus, n'a pas présenté le plan mentionné
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903431
 - Renvoie à : [art. L4741-11 du Code du travail](chapitre-ier.md#article-l4741-11)
-- Cité par : [art. L4741-13 du Code du travail](chapitre-ier.md#article-l4741-13) ; [art. L4741-14 du Code du travail](chapitre-ier.md#article-l4741-14) ; [art. L5215-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-v.md#article-l5215-1) ; [art. L5545-14 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023654330) ; [art. L719-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585187)
+- Cité par : [art. L5545-14 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-l5545-14) ; [art. L4741-13 du Code du travail](chapitre-ier.md#article-l4741-13) ; [art. L4741-14 du Code du travail](chapitre-ier.md#article-l4741-14) ; [art. L5215-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-v.md#article-l5215-1) ; [art. L719-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-5)
 
 Lorsqu'il a été fait application de l'article L. 4741-11, aucune infraction nouvelle ne peut être relevée pour la même cause durant le délai qui a été, le cas échéant, accordé.  
 
@@ -167,7 +167,7 @@ Le jugement est susceptible d'appel. Dans ce cas, la juridiction statue d'urgenc
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903432
 - Renvoie à : [art. L1235-2 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-v.md#article-l1235-2) ; [art. L4741-12 du Code du travail](chapitre-ier.md#article-l4741-12)
-- Cité par : [art. L5545-14 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023654330)
+- Cité par : [art. L5545-14 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-l5545-14)
 
 Les condamnations prononcées en application de l'article L. 4741-12 ne peuvent, sous réserve des dispositions du second alinéa, entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés.  
 
@@ -177,8 +177,8 @@ Lorsque la fermeture totale et définitive entraîne le licenciement du personne
 - Identifiant : LEGIARTI000006903433
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903433
-- Renvoie à : [art. L4741-12 du Code du travail](chapitre-ier.md#article-l4741-12) ; art. 131-35 du Code pénal
-- Cité par : [art. L4741-11 du Code du travail](chapitre-ier.md#article-l4741-11) ; [art. L719-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585187) ; [art. L719-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029593827)
+- Renvoie à : [art. L4741-12 du Code du travail](chapitre-ier.md#article-l4741-12) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
+- Cité par : [art. L4741-11 du Code du travail](chapitre-ier.md#article-l4741-11) ; [art. L719-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-5) ; [art. L719-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ix.md#article-l719-9)
 
 En cas de condamnation prononcée en application de l'article L. 4741-12, la juridiction peut ordonner, à titre de peine complémentaire, l'affichage du jugement aux portes des établissements de la personne condamnée, aux frais de celle-ci, dans les conditions prévues à l'article 131-35 du code pénal, et son insertion, intégrale ou par extraits, dans les journaux qu'elle désigne. Ces frais ne peuvent excéder le montant maximum de l'amende encourue.  
 

@@ -227,7 +227,7 @@ Le fait pour le prêteur de contrevenir aux dispositions du premier alinéa de l
 - Identifiant : LEGIARTI000032303393
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032303393
-- Renvoie à : [art. L341-29 du Code de la consommation](chapitre-ier.md#article-l341-29) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-39 du Code pénal
+- Renvoie à : [art. L341-29 du Code de la consommation](chapitre-ier.md#article-l341-29) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques déclarées coupables des infractions punies par les dispositions des articles L. 341-29 à L. 341-32 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.
 
@@ -324,7 +324,7 @@ Le fait pour le prêteur, en infraction aux dispositions de l'article L. 313-38,
 - Identifiant : LEGIARTI000032395753
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032395753
-- Renvoie à : [art. L341-37 du Code de la consommation](chapitre-ier.md#article-l341-37) ; [art. L341-38 du Code de la consommation](chapitre-ier.md#article-l341-38) ; [art. L341-40 du Code de la consommation](chapitre-ier.md#article-l341-40) ; art. 131-27 du Code pénal
+- Renvoie à : [art. L341-37 du Code de la consommation](chapitre-ier.md#article-l341-37) ; [art. L341-38 du Code de la consommation](chapitre-ier.md#article-l341-38) ; [art. L341-40 du Code de la consommation](chapitre-ier.md#article-l341-40) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27)
 
 Les personnes physiques coupables des délits punis aux articles L. 341-37, L. 341-38 et L. 341-40 à L. 341-43 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.
 
@@ -364,7 +364,7 @@ Le prêteur qui n'a pas respecté l'obligation d'information de l'emprunteur en 
 - Identifiant : LEGIARTI000032395782
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032395782
-- Renvoie à : [art. L313-49 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-49) ; [art. L313-52 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-52) ; [art. L313-60 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-60) ; [art. L313-61 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-61) ; art. 131-27 du Code pénal
+- Renvoie à : [art. L313-49 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-49) ; [art. L313-52 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-52) ; [art. L313-60 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-60) ; [art. L313-61 du Code de la consommation](../titre-ier/chapitre-iii.md#article-l313-61) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27)
 
 Le fait pour le prêteur de réclamer à l'emprunteur ou au preneur ou de retenir sur son compte des sommes supérieures à celles qu'il est autorisé à réclamer ou à retenir en application des dispositions des articles L. 313-49, L. 313-52, L. 313-60 ou L. 313-61 est puni d'une amende de 300 000 euros.
 
@@ -390,7 +390,7 @@ Lorsque le prêteur est déchu du droit aux intérêts dans les conditions prév
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032302966
 - Renvoie à : [art. L314-1 du Code de la consommation](../titre-ier/chapitre-iv.md#article-l314-1)
-- Cité par : [art. L354-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190822) ; [art. L313-17 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033232520) ; [art. L754-5 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045235975)
+- Cité par : [art. L313-17 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-17) ; [art. L754-5 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-vii/titre-v/chapitre-iv.md#article-l754-5) ; [art. L354-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190822)
 
 Lorsqu'un prêt conventionnel est usuraire, les perceptions excessives au regard des articles L. 314-1 à L. 314-9 sont imputées de plein droit sur les intérêts normaux alors échus et subsidiairement sur le capital de la créance.  
 Si la créance est éteinte en capital et intérêts, les sommes indûment perçues sont restituées avec intérêts légaux à compter du jour où elles ont été payées.
@@ -400,7 +400,7 @@ Si la créance est éteinte en capital et intérêts, les sommes indûment perç
 - État : en vigueur depuis le 19/07/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038778502
 - Renvoie à : [art. L314-5 du Code de la consommation](../titre-ier/chapitre-iv.md#article-l314-5)
-- Cité par : [art. L354-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038782762) ; [art. L313-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038782743)
+- Cité par : [art. L313-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4) ; [art. L354-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038782762)
 
 En cas de défaut de mention ou de mention erronée du taux effectif global prévue à l'article L. 314-5, le prêteur peut être déchu du droit aux intérêts dans la proportion fixée par le juge, au regard notamment du préjudice pour l'emprunteur.  
 
@@ -414,7 +414,7 @@ Lorsque le prêteur est déchu du droit aux intérêts dans les conditions prév
 - Identifiant : LEGIARTI000032302978
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032302978
-- Renvoie à : [art. L314-6 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032222349) ; art. 131-27 du Code pénal ; art. 131-35 du Code pénal
+- Renvoie à : [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35) ; [art. L314-6 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032222349)
 - Cité par : [art. L341-51 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052848138)
 
 Le fait de consentir à autrui un prêt usuraire ou d'apporter à quelque titre et de quelque manière que ce soit, directement ou indirectement, son concours à l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait usuraire au sens de l'article L. 314-6 du fait de son concours est puni d'un emprisonnement de deux ans et d'une amende de 300 000 euros.  
@@ -511,7 +511,7 @@ Le fait pour le prêteur de réclamer à l'emprunteur des sommes supérieures à
 - Identifiant : LEGIARTI000032303066
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032303066
-- Renvoie à : [art. L341-56 du Code de la consommation](chapitre-ier.md#article-l341-56) ; art. 131-27 du Code pénal
+- Renvoie à : [art. L341-56 du Code de la consommation](chapitre-ier.md#article-l341-56) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27)
 
 Les personnes physiques coupables des délits punis par les dispositions des articles L. 341-56 à L. 341-59 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l' article 131-27 du code pénal , soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.
@@ -520,7 +520,7 @@ Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles p
 - Identifiant : LEGIARTI000032303072
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032303072
-- Renvoie à : art. L341-1 du Code monétaire et financier ; [art. 131-26 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417290) ; art. 131-27 du Code pénal ; art. 131-35 du Code pénal
+- Renvoie à : [art. L341-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-ier.md#article-l341-1) ; [art. 131-26 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 Tout démarchage au sens de l'article L. 341-1 du code monétaire et financier en vue de la réalisation d'une opération de prêt viager hypothécaire est puni d'une peine de cinq ans d'emprisonnement et d'une amende de 375 000 euros.  
 Les personnes coupables du délit mentionné au premier alinéa encourent également les peines complémentaires suivantes :  

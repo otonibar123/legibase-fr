@@ -29,7 +29,7 @@ Les conventions qui ont pour objet de créer des droits ou de renoncer à des dr
 - Identifiant : LEGIARTI000006430730
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430730
-- Cité par : [art. L1122-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361149)
+- Cité par : [art. L1122-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ii.md#article-l1122-1) ; [art. L5721-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/cinquieme-partie/livre-vii/titre-ii/chapitre-unique.md#article-l5721-1)
 
 Les héritiers désignés par la loi sont saisis de plein droit des biens, droits et actions du défunt.  
 

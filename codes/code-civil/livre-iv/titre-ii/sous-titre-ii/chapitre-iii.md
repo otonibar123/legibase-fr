@@ -7,7 +7,7 @@ Code civil › Livre IV : Des sûretés › Titre II : Des sûretés réelles �
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071500
 - Renvoie à : [art. 2286 du Code civil](../../articles-directs.md#article-2286)
-- Cité par : [art. 1866 du Code civil](../../../livre-iii/titre-ix/chapitre-ii.md#article-1866) ; [art. L132-10 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017841460)
+- Cité par : [art. 1866 du Code civil](../../../livre-iii/titre-ix/chapitre-ii.md#article-1866) ; [art. L132-10 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-10)
 
 Le nantissement est l'affectation, en garantie d'une obligation, d'un bien meuble incorporel ou d'un ensemble de biens meubles incorporels, présents ou futurs.
 

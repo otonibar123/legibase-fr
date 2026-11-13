@@ -32,7 +32,7 @@ Le titulaire d'un compte de dépôt obligatoire affecté peut procéder, sur ord
 - Identifiant : LEGIARTI000020831587
 - État : en vigueur depuis le 25/06/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020831587
-- Renvoie à : [art. L3253-15 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-15) ; [art. L518-23 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006656942)
+- Renvoie à : [art. L3253-15 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-15) ; [art. L518-23 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-23)
 
 A l'exception des fonds ou des instruments financiers reçus par le greffier des tribunaux de commerce au titre de l'article L. 3253-15 du code du travail, les dépôts enregistrés sur chaque compte de dépôt obligatoire sont rémunérés par un intérêt calculé au taux et selon les modalités prévus par la décision prise en application de l'article L. 518-23 du code monétaire et financier.
 

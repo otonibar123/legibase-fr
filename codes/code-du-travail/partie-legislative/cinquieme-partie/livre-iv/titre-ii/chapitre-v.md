@@ -41,7 +41,7 @@ Les modalités d'application du présent article sont déterminées :
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903902
 - Renvoie à : [art. L5421-4 du Code du travail](chapitre-ier.md#article-l5421-4)
-- Cité par : [art. L131-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029961466)
+- Cité par : [art. L131-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-1er.md#article-l131-2)
 
 Les personnes mentionnées à l'article L. 5421-4 de moins de soixante-cinq ans et ne pouvant percevoir qu'une pension de vieillesse à taux plein calculée sur une durée de cotisation inférieure à 150 trimestres bénéficient sous condition de ressources d'une allocation complémentaire à la charge de l'Etat jusqu'à la date à laquelle elles peuvent faire liquider au taux plein l'ensemble des pensions auxquelles elles peuvent prétendre, dans des conditions déterminées par décret en Conseil d'Etat.  
 
@@ -53,7 +53,7 @@ La période pendant laquelle cette allocation complémentaire est versée n'est 
 - Identifiant : LEGIARTI000033813698
 - État : en vigueur depuis le 01/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033813698
-- Renvoie à : [art. L841-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745050)
+- Renvoie à : [art. L841-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-viii/titre-iv/chapitre-1.md#article-l841-1)
 - Cité par : [art. L5312-1 du Code du travail](../../livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. L5426-5 du Code du travail](chapitre-vi.md#article-l5426-5) ; [art. L5429-1 du Code du travail](chapitre-ix.md#article-l5429-1) ; [art. R5423-3 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-r5423-3) ; [DÉCRET n°2014-1709 du 30 décembre 2014, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030077249) ; [Décret n°2009-1550 du 14 décembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021483230) ; [Décret n°2009-404 du 15 avril 2009, art. 16](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020522743) ; [Décret n°2009-96 du 26 janvier 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020159681) ; [Décret n°2011-1839 du 8 décembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024939251) ; [Décret n°2013-1294 du 30 décembre 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028449571) ; [Décret n°2017-1785 du 27 décembre 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036497426) ; [Décret n°2017-826 du 5 mai 2017, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034621318) ; [Décret n°2019-1323 du 10 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039476335) ; [Décret n°2019-1324 du 10 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039476363) ; … et 15 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
 
 Lorsqu'il exerce, prend ou reprend une activité professionnelle, le bénéficiaire de l'allocation de solidarité spécifique est réputé avoir formulé une demande de prime d'activité mentionnée à l'article L. 841-1 du code de la sécurité sociale, sauf mention contraire de sa part.

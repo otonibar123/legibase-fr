@@ -10,7 +10,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000032041314
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041314
-- Cité par : [art. L7 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042956) ; [art. L8 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042948)
+- Cité par : [art. L7 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l7) ; [art. L8 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l8)
 
 Les contrats ne peuvent être modifiés ou révoqués que du consentement mutuel des parties, ou pour les causes que la loi autorise.
 
@@ -25,7 +25,7 @@ Les contrats obligent non seulement à ce qui y est exprimé, mais encore à tou
 - Identifiant : LEGIARTI000032041302
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041302
-- Cité par : [art. L211-40-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036828490)
+- Cité par : [art. L211-40-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-40-1)
 
 Si un changement de circonstances imprévisible lors de la conclusion du contrat rend l'exécution excessivement onéreuse pour une partie qui n'avait pas accepté d'en assumer le risque, celle-ci peut demander une renégociation du contrat à son cocontractant. Elle continue à exécuter ses obligations durant la renégociation.
 
@@ -94,7 +94,7 @@ Lorsque les parties ont conclu un contrat apparent qui dissimule un contrat occu
 - Identifiant : LEGIARTI000032041363
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041363
-- Cité par : [art. 864 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042921)
+- Cité par : [art. 864 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-864)
 
 Est nulle toute contre-lettre ayant pour objet une augmentation du prix stipulé dans le traité de cession d'un office ministériel.
 
@@ -354,7 +354,7 @@ Si le créancier a déjà payé, à défaut d'accord entre les parties, il peut 
 - Identifiant : LEGIARTI000032041482
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041482
-- Cité par : [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042913) ; [Loi n°67-1253 du 30 décembre 1967, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043081)
+- Cité par : [art. 1961 du Code général des impôts](../../../../code-general-des-impots/livre-ii/chapitre-v.md#article-1961) ; [Loi n°67-1253 du 30 décembre 1967, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043081)
 
 La résolution résulte soit de l'application d'une clause résolutoire soit, en cas d'inexécution suffisamment grave, d'une notification du créancier au débiteur ou d'une décision de justice.
 
@@ -401,7 +401,7 @@ Le juge peut, selon les circonstances, constater ou prononcer la résolution ou 
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041457
 - Renvoie à : [art. 1352 du Code civil](../../titre-iv/chapitre-v.md#article-1352) ; [art. 1352-9 du Code civil](../../titre-iv/chapitre-v.md#article-1352-9)
-- Cité par : [Ordonnance n°2020-315 du 25 mars 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041757787) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860728) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860729)
+- Cité par : [art. 150-0 D ter du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-150-0-d-ter) ; [art. 151 septies A du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-151-septies-a) ; [Ordonnance n°2020-315 du 25 mars 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041757787) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860728) ; [Ordonnance n°2020-538 du 7 mai 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041860729)
 
 La résolution met fin au contrat.
 

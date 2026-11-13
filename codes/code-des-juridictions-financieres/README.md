@@ -1,0 +1,140 @@
+# Code des juridictions financières
+
+Dernière modification du texte dans LEGI : 05/08/2026. 1303 articles en vigueur, répartis dans 98 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : La Cour des comptes**
+    - **TITRE Ier : Missions et organisation**
+      - [CHAPITRE Ier : Missions](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (19 articles)
+      - [CHAPITRE II : Organisation](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (12 articles)
+    - **TITRE II : Dispositions statutaires**
+      - [CHAPITRE PRELIMINAIRE : Dispositions générales](partie-legislative/livre-ier/titre-ii/chapitre-preliminaire.md) (15 articles)
+      - [CHAPITRE Ier : Nominations](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (3 articles)
+      - [CHAPITRE II : Avancements](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (11 articles)
+      - [CHAPITRE III : Détachement](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - [CHAPITRE IV : Discipline](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (15 articles)
+    - **TITRE III : Compétences et attributions**
+      - [CHAPITRE Ier : Compétences juridictionnelles](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (21 articles)
+      - [CHAPITRE II : Relations avec le Parlement et avec le Gouvernement](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (13 articles)
+      - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (5 articles)
+      - [CHAPITRE IV : Contrôle de la sécurité sociale](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (1 article)
+    - **TITRE IV : Procédure**
+      - [CHAPITRE Ier : Règles générales de procédure](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (12 articles)
+      - [CHAPITRE II : Dispositions relatives aux activités juridictionnelles](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (15 articles)
+      - [CHAPITRE III : Dispositions relatives aux procédures applicables en matière non juridictionnelle](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (11 articles)
+  - **LIVRE II : Les chambres régionales et territoriales des comptes**
+    - **PREMIERE PARTIE : Les chambres régionales des comptes**
+      - **TITRE Ier : Missions et organisation**
+        - [CHAPITRE Ier : Missions](partie-legislative/livre-ii/premiere-partie/titre-ier/chapitre-ier.md) (14 articles)
+        - [CHAPITRE II : Organisation](partie-legislative/livre-ii/premiere-partie/titre-ier/chapitre-ii.md) (12 articles)
+      - **TITRE II : Dispositions statutaires**
+        - [CHAPITRE PRELIMINAIRE](partie-legislative/livre-ii/premiere-partie/titre-ii/chapitre-preliminaire.md) (16 articles)
+        - [CHAPITRE Ier : Nominations](partie-legislative/livre-ii/premiere-partie/titre-ii/chapitre-ier.md) (10 articles)
+        - [CHAPITRE II : Obligations et incompatibilités](partie-legislative/livre-ii/premiere-partie/titre-ii/chapitre-ii.md) (5 articles)
+        - [CHAPITRE III : Discipline](partie-legislative/livre-ii/premiere-partie/titre-ii/chapitre-iii.md) (11 articles)
+      - **TITRE III : Compétences et attributions**
+        - [CHAPITRE II : Contrôle des actes budgétaires](partie-legislative/livre-ii/premiere-partie/titre-iii/chapitre-ii.md) (7 articles)
+        - [CHAPITRE III : Ordres de réquisition](partie-legislative/livre-ii/premiere-partie/titre-iii/chapitre-iii.md) (1 article)
+        - [Chapitre V bis : Évaluation des politiques publiques territoriales](partie-legislative/livre-ii/premiere-partie/titre-iii/chapitre-v-bis.md) (2 articles)
+        - [CHAPITRE VI : Dispositions particulières concernant la collectivité territoriale de Corse](partie-legislative/livre-ii/premiere-partie/titre-iii/chapitre-vi.md) (2 articles)
+      - **TITRE IV : Procédure**
+        - [CHAPITRE Ier : Règles générales de procédure](partie-legislative/livre-ii/premiere-partie/titre-iv/chapitre-ier.md) (11 articles)
+        - [CHAPITRE III : Dispositions relatives au contrôle des comptes et de la gestion](partie-legislative/livre-ii/premiere-partie/titre-iv/chapitre-iii.md) (13 articles)
+        - [CHAPITRE IV : Contrôle des actes budgétaires et de certaines conventions](partie-legislative/livre-ii/premiere-partie/titre-iv/chapitre-iv.md) (3 articles)
+        - [CHAPITRE V : Évaluation des politiques publiques territoriales](partie-legislative/livre-ii/premiere-partie/titre-iv/chapitre-v.md) (1 article)
+    - **DEUXIEME PARTIE : Les chambres territoriales des comptes**
+      - **TITRE V : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon**
+        - [TITRE V : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon : articles rattachés directement](partie-legislative/livre-ii/deuxieme-partie/titre-v/articles-directs.md) (2 articles)
+        - [CHAPITRE Ier : Du rapport public de la Cour des comptes](partie-legislative/livre-ii/deuxieme-partie/titre-v/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : Des chambres territoriales des comptes de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon](partie-legislative/livre-ii/deuxieme-partie/titre-v/chapitre-ii.md) (29 articles)
+        - [CHAPITRE III : Compétences et attributions](partie-legislative/livre-ii/deuxieme-partie/titre-v/chapitre-iii.md) (22 articles)
+        - [CHAPITRE IV : Procédure](partie-legislative/livre-ii/deuxieme-partie/titre-v/chapitre-iv.md) (8 articles)
+        - [CHAPITRE V : Des comptables des collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon](partie-legislative/livre-ii/deuxieme-partie/titre-v/chapitre-v.md) (2 articles)
+      - **TITRE VI : Dispositions applicables en Nouvelle-Calédonie**
+        - [CHAPITRE Ier : Du rapport public de la Cour des comptes](partie-legislative/livre-ii/deuxieme-partie/titre-vi/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : De la chambre territoriale des comptes de la Nouvelle-Calédonie](partie-legislative/livre-ii/deuxieme-partie/titre-vi/chapitre-ii.md) (77 articles)
+        - [CHAPITRE III : Contrôle des actes budgétaires](partie-legislative/livre-ii/deuxieme-partie/titre-vi/chapitre-iii.md) (21 articles)
+        - [CHAPITRE IV : Des comptables](partie-legislative/livre-ii/deuxieme-partie/titre-vi/chapitre-iv.md) (7 articles)
+      - **TITRE VII : Dispositions applicables en Polynésie française**
+        - [CHAPITRE Ier : Du rapport public de la Cour des comptes](partie-legislative/livre-ii/deuxieme-partie/titre-vii/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : De la chambre territoriale des comptes de la Polynésie française](partie-legislative/livre-ii/deuxieme-partie/titre-vii/chapitre-ii.md) (73 articles)
+        - [CHAPITRE III : Contrôle des actes budgétaires du territoire, des communes et des établissements publics](partie-legislative/livre-ii/deuxieme-partie/titre-vii/chapitre-iii.md) (4 articles)
+        - [CHAPITRE IV : Des comptables](partie-legislative/livre-ii/deuxieme-partie/titre-vii/chapitre-iv.md) (5 articles)
+  - **LIVRE III : La cour d'appel financière**
+    - [CHAPITRE Ier : Compétence](partie-legislative/livre-iii/chapitre-ier.md) (1 article)
+    - [CHAPITRE II : Composition et organisation](partie-legislative/livre-iii/chapitre-ii.md) (3 articles)
+    - [CHAPITRE III : Procédure](partie-legislative/livre-iii/chapitre-iii.md) (2 articles)
+    - [CHAPITRE IV : Dispositions finales](partie-legislative/livre-iii/chapitre-iv.md) (1 article)
+  - **LIVRE IV : Conseil des prélèvements obligatoires**
+    - [CHAPITRE UNIQUE](partie-legislative/livre-iv/chapitre-unique.md) (13 articles)
+- **Partie réglementaire**
+  - **LIVRE Ier : La Cour des comptes**
+    - **TITRE Ier : Missions et organisation**
+      - [CHAPITRE Ier : Missions](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (2 articles)
+      - [CHAPITRE II : Organisation](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (59 articles)
+    - **TITRE II : Dispositions statutaires**
+      - [CHAPITRE PRÉLIMINAIRE : Dispositions générales](partie-reglementaire/livre-ier/titre-ii/chapitre-preliminaire.md) (9 articles)
+      - [CHAPITRE Ier : Nominations](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+      - [CHAPITRE II : Avancements](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (3 articles)
+      - [CHAPITRE III : Mobilité](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (2 articles)
+      - [CHAPITRE IV : Mise à disposition, détachement et disponibilité](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (3 articles)
+      - [CHAPITRE V : Conseillers référendaires en service extraordinaire](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (2 articles)
+      - [CHAPITRE VI : Conseillers maîtres en service extraordinaire](partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md) (3 articles)
+      - [CHAPITRE VII : Discipline](partie-reglementaire/livre-ier/titre-ii/chapitre-vii.md) (9 articles)
+    - **TITRE III : Compétences et attributions**
+      - [CHAPITRE Ier : Accès aux comptes](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (2 articles)
+      - [CHAPITRE III : Contrôle des entreprises publiques et d'organismes bénéficiant de concours financiers publics](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (1 article)
+      - [CHAPITRE IV : Contrôle de la sécurité sociale](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (7 articles)
+    - **TITRE IV : Procédure**
+      - [CHAPITRE Ier : Règles générales de procédure](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (7 articles)
+      - [CHAPITRE II : Dispositions relatives au jugement des gestionnaires publics](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (38 articles)
+      - [CHAPITRE III : Dispositions relatives aux procédures applicables en matière non contentieuse](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (33 articles)
+  - **LIVRE II : Les chambres régionales et territoriales des comptes**
+    - **PREMIÈRE PARTIE : Les chambres régionales des comptes**
+      - **TITRE Ier : Missions et organisation**
+        - [CHAPITRE II : Organisation](partie-reglementaire/livre-ii/premiere-partie/titre-ier/chapitre-ii.md) (42 articles)
+      - **TITRE II : Dispositions statutaires**
+        - [CHAPITRE PRÉLIMINAIRE : Dispositions générales](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-preliminaire.md) (17 articles)
+        - [CHAPITRE Ier : Nominations](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-ier.md) (13 articles)
+        - [CHAPITRE II : Obligations et incompatibilités](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Discipline](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-iii.md) (9 articles)
+        - [CHAPITRE IV : Avancement](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-iv.md) (7 articles)
+        - [CHAPITRE V : Evaluation et notation](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-v.md) (2 articles)
+        - [CHAPITRE VI : Positions des magistrats](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-vi.md) (9 articles)
+        - [CHAPITRE VII : Emploi de président et de vice-président de chambre régionale des comptes](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-vii.md) (1 article)
+        - [Chapitre VIII : Recrutement direct](partie-reglementaire/livre-ii/premiere-partie/titre-ii/chapitre-viii.md) (6 articles)
+      - **TITRE III : Compétences et attributions**
+        - [CHAPITRE II : Contrôle des actes budgétaires](partie-reglementaire/livre-ii/premiere-partie/titre-iii/chapitre-ii.md) (3 articles)
+        - [CHAPITRE IV : Contrôle de certaines conventions](partie-reglementaire/livre-ii/premiere-partie/titre-iii/chapitre-iv.md) (2 articles)
+        - [CHAPITRE V : Contrôle des actes des sociétés d'économie mixte locales](partie-reglementaire/livre-ii/premiere-partie/titre-iii/chapitre-v.md) (1 article)
+      - **TITRE IV : Procédure**
+        - [CHAPITRE Ier : Règles générales de procédure](partie-reglementaire/livre-ii/premiere-partie/titre-iv/chapitre-ier.md) (9 articles)
+        - [CHAPITRE III : Dispositions relatives au contrôle des comptes et de la gestion](partie-reglementaire/livre-ii/premiere-partie/titre-iv/chapitre-iii.md) (26 articles)
+        - [CHAPITRE IV : Contrôle des actes budgétaires](partie-reglementaire/livre-ii/premiere-partie/titre-iv/chapitre-iv.md) (4 articles)
+        - [CHAPITRE V : Evaluation des politiques publiques territoriales](partie-reglementaire/livre-ii/premiere-partie/titre-iv/chapitre-v.md) (22 articles)
+    - **DEUXIÈME PARTIE : les chambres territoriales des comptes**
+      - **TITRE V : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon**
+        - [TITRE V : Dispositions applicables à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon : articles rattachés directement](partie-reglementaire/livre-ii/deuxieme-partie/titre-v/articles-directs.md) (1 article)
+        - [CHAPITRE Ier : Du rapport public de la Cour des comptes](partie-reglementaire/livre-ii/deuxieme-partie/titre-v/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Des chambres territoriales des comptes de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ii/deuxieme-partie/titre-v/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Compétences et attributions](partie-reglementaire/livre-ii/deuxieme-partie/titre-v/chapitre-iii.md) (16 articles)
+        - [Chapitre IV : Procédure](partie-reglementaire/livre-ii/deuxieme-partie/titre-v/chapitre-iv.md) (3 articles)
+      - **TITRE VI : Dispositions applicables en Nouvelle-Calédonie**
+        - [CHAPITRE Ier : Du rapport public de la Cour des comptes](partie-reglementaire/livre-ii/deuxieme-partie/titre-vi/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : De la chambre territoriale des comptes de la Nouvelle-Calédonie](partie-reglementaire/livre-ii/deuxieme-partie/titre-vi/chapitre-ii.md) (133 articles)
+        - [CHAPITRE III : Contrôle des actes budgétaires et de l'exécution des budgets](partie-reglementaire/livre-ii/deuxieme-partie/titre-vi/chapitre-iii.md) (49 articles)
+        - [CHAPITRE IV : Des comptables](partie-reglementaire/livre-ii/deuxieme-partie/titre-vi/chapitre-iv.md) (4 articles)
+      - **TITRE VII : Dispositions applicables en Polynésie française.**
+        - [Chapitre Ier : Le rapport public de la Cour des comptes.](partie-reglementaire/livre-ii/deuxieme-partie/titre-vii/chapitre-ier.md) (1 article)
+        - [Chapitre II : De la chambre territoriale des comptes de la Polynésie française](partie-reglementaire/livre-ii/deuxieme-partie/titre-vii/chapitre-ii.md) (121 articles)
+        - [Chapitre III : Contrôle des actes budgétaires et de l'exécution du budget.](partie-reglementaire/livre-ii/deuxieme-partie/titre-vii/chapitre-iii.md) (31 articles)
+  - **LIVRE III : Cour d'appel financière**
+    - [TITRE Ier : Composition et organisation](partie-reglementaire/livre-iii/titre-ier.md) (13 articles)
+    - **TITRE II : Procédure**
+      - [Chapitre Ier : Instruction](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Jugement](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+    - [TITRE III : Voies de recours et révisions](partie-reglementaire/livre-iii/titre-iii.md) (3 articles)
+    - [TITRE IV : Notification des arrêts](partie-reglementaire/livre-iii/titre-iv.md) (1 article)
+  - [LIVRE IV : Le conseil des prélèvements obligatoires](partie-reglementaire/livre-iv.md) (12 articles)

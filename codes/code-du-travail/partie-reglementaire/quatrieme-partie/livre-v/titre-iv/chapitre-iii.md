@@ -50,7 +50,7 @@ L'étude de sécurité spécifique est mise à jour, dans un délai de six semai
 - Identifiant : LEGIARTI000043841149
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841149
-- Renvoie à : [art. R134-11 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818747)
+- Renvoie à : [art. R134-11 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md#article-r134-11)
 - Cité par : [art. R4543-6 du Code du travail](chapitre-iii.md#article-r4543-6)
 
 Le rapport de contrôle technique défini à l'article R. 134-11 du code de la construction et de l'habitation est réputé constituer l'étude de sécurité de l'entreprise intervenante qui réalise ce contrôle. Pour cette entreprise, il vaut étude de sécurité préalable aux vérifications qu'elle réalise ultérieurement sur le même équipement.
@@ -266,7 +266,7 @@ Les dispositions de la présente section s'appliquent au montage et au démontag
 - Identifiant : LEGIARTI000043841141
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841141
-- Renvoie à : [art. R4323-58 du Code du travail](../../livre-iii/titre-ii/chapitre-iii.md#article-r4323-58) ; [art. R134-31 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818800)
+- Renvoie à : [art. R134-31 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md#article-r134-31) ; [art. R4323-58 du Code du travail](../../livre-iii/titre-ii/chapitre-iii.md#article-r4323-58)
 
 Le montage et le démontage des ascenseurs sont réalisés en suivant une méthode sûre. Celle-ci est établie pour le montage et, le cas échéant, pour le démontage sur la base des éléments fournis par le constructeur.
 

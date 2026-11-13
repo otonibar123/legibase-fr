@@ -117,6 +117,6 @@ La rente viagère ne peut être stipulée insaisissable que lorsqu'elle a été 
 - Identifiant : LEGIARTI000006445235
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006445235
-- Cité par : [art. D117-25 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043017433) ; [DÉCRET n°2015-1407 du 5 novembre 2015, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043592890)
+- Cité par : [art. D117-25 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ier/titre-ier/chapitre-vii.md#article-d117-25) ; [DÉCRET n°2015-1407 du 5 novembre 2015, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043592890)
 
 Le propriétaire d'une rente viagère n'en peut demander les arrérages qu'en justifiant de son existence, ou de celle de la personne sur la tête de laquelle elle a été constituée.

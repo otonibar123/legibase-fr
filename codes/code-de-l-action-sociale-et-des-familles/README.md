@@ -1,0 +1,339 @@
+# Code de l'action sociale et des familles
+
+Dernière modification du texte dans LEGI : 31/10/2026. 3660 articles en vigueur, répartis dans 258 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : Dispositions générales**
+    - **Titre Ier : Principes généraux**
+      - [Chapitre Ier : Droit à l'aide sociale.](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Politique familiale.](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Personnes âgées.](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Personnes handicapées.](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Lutte contre la pauvreté et les exclusions.](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Action sociale et médico-sociale.](partie-legislative/livre-ier/titre-ier/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : Personnes immigrées ou issues de l'immigration](partie-legislative/livre-ier/titre-ier/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Cohabitation intergénérationnelle solidaire](partie-legislative/livre-ier/titre-ier/chapitre-viii.md) (1 article)
+      - [Chapitre IX : Maltraitance](partie-legislative/livre-ier/titre-ier/chapitre-ix.md) (2 articles)
+    - **Titre II : Compétences**
+      - [Chapitre Ier : Collectivités publiques et organismes responsables](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (17 articles)
+      - [Chapitre II : Domicile de secours.](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Organisation administrative](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (10 articles)
+    - **Titre III : Procédures**
+      - [Chapitre Ier : Admission.](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Participation et récupération.](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Contrôle en matière d'aide sociale, confidentialité des données et incompatibilités](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Contentieux.](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Dispositions pénales.](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (1 article)
+    - **Titre IV : Institutions**
+      - [Chapitre Ier : Conseil pour les droits et devoirs des familles et accompagnement parental](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Haut Conseil de la famille, de l'enfance et de l'âge.](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale.](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre VI : Institutions relatives aux personnes handicapées.](partie-legislative/livre-ier/titre-iv/chapitre-vi.md) (19 articles)
+      - [Chapitre VII : Institutions compétentes en matière de protection de l'enfance, d'adoption et d'accès aux origines personnelles](partie-legislative/livre-ier/titre-iv/chapitre-vii.md) (17 articles)
+      - [Chapitre VIII : Autorité centrale pour l'adoption internationale](partie-legislative/livre-ier/titre-iv/chapitre-viii.md) (1 article)
+      - [Chapitre IX : Institutions communes aux personnes âgées et aux personnes handicapées](partie-legislative/livre-ier/titre-iv/chapitre-ix.md) (14 articles)
+  - **Livre II : Différentes formes d'aide et d'action sociales**
+    - **Titre Ier : Famille**
+      - [Chapitre Ier : Associations familiales.](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Aide sociale aux familles.](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Education et conseil familial.](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Services aux familles](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (12 articles)
+      - [Chapitre IV bis : Aide universelle d'urgence pour les personnes victimes de violences conjugales](partie-legislative/livre-ii/titre-ier/chapitre-iv-bis.md) (10 articles)
+      - [Chapitre V : Dispositions diverses en faveur des familles.](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (3 articles)
+    - **Titre II : Enfance**
+      - [Chapitre Ier : Service de l'aide sociale à l'enfance.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Prestations d'aide sociale à l'enfance.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance.](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : Pupilles de l'Etat](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (14 articles)
+      - [Chapitre V : Adoption](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (23 articles)
+      - [Chapitre VI : Protection des mineurs en danger et recueil des informations préoccupantes.](partie-legislative/livre-ii/titre-ii/chapitre-vi.md) (16 articles)
+      - [Chapitre VII : Mineurs accueillis hors du domicile parental.](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (12 articles)
+      - [Chapitre VIII : Dispositions financières.](partie-legislative/livre-ii/titre-ii/chapitre-viii.md) (6 articles)
+    - **Titre III : Personnes âgées**
+      - [Chapitre Ier : Aide à domicile et accueil.](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Allocation personnalisée d'autonomie](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (34 articles)
+    - **Titre IV : Personnes handicapées**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées.](partie-legislative/livre-ii/titre-iv/chapitre-ier-bis.md) (8 articles)
+      - [Chapitre II : Enfance et adolescence handicapées](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Travailleurs handicapés](partie-legislative/livre-ii/titre-iv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Allocation aux adultes handicapés.](partie-legislative/livre-ii/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : Prestation de compensation.](partie-legislative/livre-ii/titre-iv/chapitre-v.md) (14 articles)
+      - [Chapitre VI : Personnes atteintes de syndrome autistique et personnes atteintes de polyhandicap.](partie-legislative/livre-ii/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Gestion et suivi statistique](partie-legislative/livre-ii/titre-iv/chapitre-vii.md) (7 articles)
+    - **Titre V : Personnes non bénéficiaires de la couverture maladie universelle**
+      - [Chapitre Ier : Droit à l'aide médicale de l'Etat.](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Modalités d'admission.](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions financières.](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Prise en charge des soins urgents](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (2 articles)
+    - **Titre VI : Lutte contre la pauvreté et les exclusions**
+      - [Chapitre Ier : Logement](partie-legislative/livre-ii/titre-vi/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Revenu de solidarité active](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (54 articles)
+      - [Chapitre III : Actions d'insertion](partie-legislative/livre-ii/titre-vi/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Domiciliation](partie-legislative/livre-ii/titre-vi/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Statut des personnes accueillies dans des organismes d'accueil communautaire et d'activités solidaires](partie-legislative/livre-ii/titre-vi/chapitre-v.md) (1 article)
+      - [Chapitre VI : Lutte contre la précarité alimentaire](partie-legislative/livre-ii/titre-vi/chapitre-vi.md) (2 articles)
+    - **Titre VII : Accompagnement de la personne en matière sociale et budgétaire**
+      - [Chapitre unique : Mesure d'accompagnement social personnalisé](partie-legislative/livre-ii/titre-vii/chapitre-unique.md) (8 articles)
+    - **Titre VIII : Dispositions communes aux personnes handicapées et aux personnes âgées**
+      - [Chapitre Ier : Habitat inclusif pour les personnes handicapées et les personnes âgées](partie-legislative/livre-ii/titre-viii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Compensation technique](partie-legislative/livre-ii/titre-viii/chapitre-ii.md) (1 article)
+  - **Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services**
+    - **Titre Ier : Etablissements et services soumis à autorisation**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Organisation de l'action sociale et médico-sociale](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (19 articles)
+      - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (48 articles)
+      - [Chapitre IV : Dispositions financières](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (28 articles)
+      - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (16 articles)
+    - **Titre II : Etablissements soumis à déclaration**
+      - [Chapitre Ier : Accueil de mineurs.](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Accueil d'adultes.](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (8 articles)
+    - **Titre III : Dispositions communes aux établissements, services et lieux de vie et d'accueil soumis à autorisation, habilitation, agrément et déclaration**
+      - [Chapitre unique.](partie-legislative/livre-iii/titre-iii/chapitre-unique.md) (7 articles)
+    - **Titre IV : Dispositions spécifiques à certaines catégories d'établissements**
+      - [Chapitre II : Hébergement de personnes âgées.](partie-legislative/livre-iii/titre-iv/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Centres d'action médico-sociale précoce.](partie-legislative/livre-iii/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Centres pour handicapés adultes.](partie-legislative/livre-iii/titre-iv/chapitre-iv.md) (21 articles)
+      - [Chapitre V : Centres d'hébergement et de réinsertion sociale.](partie-legislative/livre-iii/titre-iv/chapitre-v.md) (15 articles)
+      - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.](partie-legislative/livre-iii/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Services autonomie à domicile non habilités à l'aide sociale](partie-legislative/livre-iii/titre-iv/chapitre-vii.md) (2 articles)
+      - [Chapitre VIII : Centres d'accueil pour demandeurs d'asile.](partie-legislative/livre-iii/titre-iv/chapitre-viii.md) (3 articles)
+      - [Chapitre IX : Centres provisoires d'hébergement.](partie-legislative/livre-iii/titre-iv/chapitre-ix.md) (4 articles)
+      - [Chapitre X : Maisons d'accompagnement et de soins palliatifs](partie-legislative/livre-iii/titre-iv/chapitre-x.md) (1 article)
+    - **Titre V : Contentieux de la tarification sanitaire et sociale**
+      - [Chapitre unique.](partie-legislative/livre-iii/titre-v/chapitre-unique.md) (4 articles)
+    - **Titre VI : Financement de la protection judiciaire des majeurs**
+      - [Chapitre unique : Dispositions financières](partie-legislative/livre-iii/titre-vi/chapitre-unique.md) (3 articles)
+  - **Livre IV : Professions et activités sociales**
+    - **Titre Ier : Assistants de service social**
+      - [Chapitre unique.](partie-legislative/livre-iv/titre-ier/chapitre-unique.md) (6 articles)
+    - **Titre II : Assistants maternels et assistants familiaux**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public.](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Assistants maternels et assistants familiaux employés par des personnes de droit privé](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (38 articles)
+      - [Chapitre IV : Maisons d'assistants maternels](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (7 articles)
+    - **Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs, permanents des lieux de vie**
+      - [Chapitre Ier : Educateurs et aides familiaux](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Personnels pédagogiques occasionnels des accueils collectifs de mineurs](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Permanents des lieux de vie](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (2 articles)
+    - **Titre IV : Particuliers accueillant des personnes âgées ou handicapées**
+      - [Chapitre Ier : Accueillants familiaux et modalités d'agrément.](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial.](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions communes.](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Accueillants familiaux employés par des personnes morales de droit public ou de droit privé](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (9 articles)
+    - **Titre V : Formation des travailleurs sociaux**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Formation supérieure.](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (1 article)
+    - [Titre VI : Reconnaissance des qualifications professionnelles](partie-legislative/livre-iv/titre-vi.md) (4 articles)
+    - **Titre VII : Mandataires judiciaires à la protection des majeurs et délégués aux prestations familiales**
+      - [Chapitre Ier : Dispositions communes aux mandataires judiciaires à la protection des majeurs](partie-legislative/livre-iv/titre-vii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Personnes physiques mandataires judiciaires à la protection des majeurs](partie-legislative/livre-iv/titre-vii/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Dispositions pénales communes aux mandataires judiciaires à la protection des majeurs](partie-legislative/livre-iv/titre-vii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Délégués aux prestations familiales](partie-legislative/livre-iv/titre-vii/chapitre-iv.md) (8 articles)
+  - **Livre V : Dispositions particulières applicables à certaines parties du territoire**
+    - **Titre Ier : Départements du Bas-Rhin, du Haut-Rhin et de la Moselle**
+      - [Chapitre Ier : Aide sociale communale](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Revenu de solidarité active.](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (2 articles)
+    - **Titre II : Guadeloupe, Guyane, Martinique et La Réunion**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Revenu de solidarité active](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (18 articles)
+      - [Chapitre III : Aide sociale à la famille et à l'enfance](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : Saint-Pierre-et-Miquelon**
+      - [Chapitre unique : Dispositions générales.](partie-legislative/livre-v/titre-iii/chapitre-unique.md) (13 articles)
+    - **Titre IV : Département-Région de Mayotte**
+      - [Chapitre préliminaire](partie-legislative/livre-v/titre-iv/chapitre-preliminaire.md) (1 article)
+      - [Chapitre II : Adaptations du livre II](partie-legislative/livre-v/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Adaptations du livre III](partie-legislative/livre-v/titre-iv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Adaptation du livre IV](partie-legislative/livre-v/titre-iv/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Dispositions communes](partie-legislative/livre-v/titre-iv/chapitre-v.md) (2 articles)
+    - **Titre V : Territoire des îles Wallis et Futuna**
+      - [Chapitre Ier : Accès aux origines personnelles](partie-legislative/livre-v/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Pupilles de l'Etat.](partie-legislative/livre-v/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre IV : Protection des majeurs](partie-legislative/livre-v/titre-v/chapitre-iv.md) (8 articles)
+    - **Titre VI : Polynésie française**
+      - [Chapitre Ier A : Dispositions relatives à l'obligation alimentaire](partie-legislative/livre-v/titre-vi/chapitre-ier-a.md) (3 articles)
+      - [Chapitre Ier : Accès aux origines personnelles](partie-legislative/livre-v/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Pupilles de l'Etat](partie-legislative/livre-v/titre-vi/chapitre-ii.md) (7 articles)
+      - [Chapitre IV : Protection des majeurs](partie-legislative/livre-v/titre-vi/chapitre-iv.md) (8 articles)
+    - **Titre VII : Nouvelle-Calédonie**
+      - [Chapitre Ier : Accès aux origines personnelles](partie-legislative/livre-v/titre-vii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Statut des pupilles de l'Etat.](partie-legislative/livre-v/titre-vii/chapitre-ii.md) (7 articles)
+      - [Chapitre IV : Protection des majeurs](partie-legislative/livre-v/titre-vii/chapitre-iv.md) (8 articles)
+    - **Titre VIII : Saint-Barthélemy et Saint-Martin**
+      - [Chapitre Ier : Dispositions communes à Saint-Barthélemy et à Saint-Martin.](partie-legislative/livre-v/titre-viii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Dispositions relatives à Saint-Barthélemy](partie-legislative/livre-v/titre-viii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions relatives à Saint-Martin](partie-legislative/livre-v/titre-viii/chapitre-iii.md) (2 articles)
+    - **Titre IX : Terres australes et antarctiques françaises**
+      - [Chapitre unique : Principes généraux.](partie-legislative/livre-v/titre-ix/chapitre-unique.md) (1 article)
+- **Partie réglementaire**
+  - **Livre Ier : Dispositions générales**
+    - **Titre Ier : Principes généraux**
+      - [Chapitre II : Politique familiale](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Personnes âgées](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Personnes handicapées](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Lutte contre la pauvreté et les exclusions](partie-reglementaire/livre-ier/titre-ier/chapitre-v.md) (11 articles)
+      - [Chapitre VII : Personnes immigrées ou issues de l'immigration](partie-reglementaire/livre-ier/titre-ier/chapitre-vii.md) (25 articles)
+      - [Chapitre VIII : Maltraitance](partie-reglementaire/livre-ier/titre-ier/chapitre-viii.md) (2 articles)
+    - **Titre II : Compétences**
+      - [Chapitre Ier : Collectivités publiques et organismes responsables](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (41 articles)
+      - [Chapitre III : Organisation administrative](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (54 articles)
+    - **Titre III : Procédures**
+      - [Chapitre Ier : Admission](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Participation et récupération](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Contrôle des antécédents judiciaires](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Contentieux](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (2 articles)
+    - **Titre IV : Institutions**
+      - [Chapitre Ier : Haut Conseil de la famille, de l'enfance et de l'âge](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (7 articles)
+      - [Chapitre Ier bis : Conseil pour les droits et devoirs des familles](partie-reglementaire/livre-ier/titre-iv/chapitre-ier-bis.md) (1 article)
+      - [Chapitre II : Haut Conseil du travail social](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Conseil national des politiques de lutte contre la pauvreté et l'exclusion sociale](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (8 articles)
+      - [Chapitre V : Coordination des interventions](partie-reglementaire/livre-ier/titre-iv/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Consultation des personnes handicapées](partie-reglementaire/livre-ier/titre-iv/chapitre-vi.md) (60 articles)
+      - [Chapitre VII : Institutions compétentes en matière de protection de l'enfance, d'adoption et d'accès aux origines personnelles](partie-reglementaire/livre-ier/titre-iv/chapitre-vii.md) (44 articles)
+      - [Chapitre VIII : Autorité centrale pour l'adoption internationale](partie-reglementaire/livre-ier/titre-iv/chapitre-viii.md) (10 articles)
+      - [Chapitre IX : Institutions communes aux personnes âgées et aux personnes handicapées](partie-reglementaire/livre-ier/titre-iv/chapitre-ix.md) (21 articles)
+  - **Livre II : Différentes formes d'aide et d'action sociales**
+    - **Titre Ier : Famille**
+      - [Chapitre Ier : Associations familiales](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (27 articles)
+      - [Chapitre III : Education et conseil familial](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Accueil des jeunes enfants](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (16 articles)
+      - [Chapitre IV bis : Aide universelle d'urgence pour les personnes victimes de violences conjugales](partie-reglementaire/livre-ii/titre-ier/chapitre-iv-bis.md) (16 articles)
+      - [Chapitre V : Dispositions diverses en faveur des familles](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (19 articles)
+      - [Chapitre VI : Espace de rencontre](partie-reglementaire/livre-ii/titre-ier/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Centres d'information sur les droits des femmes et des familles](partie-reglementaire/livre-ii/titre-ier/chapitre-vii.md) (10 articles)
+    - **Titre II : Enfance**
+      - [Chapitre Ier : Service de l'aide sociale à l'enfance](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (58 articles)
+      - [Chapitre II : Prestations d'aide sociale à l'enfance](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Droits des familles dans leurs rapports avec les services de l'aide sociale à l'enfance](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (28 articles)
+      - [Chapitre IV : Pupilles de l'Etat](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (27 articles)
+      - [Chapitre V : Adoption](partie-reglementaire/livre-ii/titre-ii/chapitre-v.md) (52 articles)
+      - [Chapitre VI : Protection des mineurs en danger et recueil des informations préoccupantes](partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md) (23 articles)
+      - [Chapitre VII : Mineurs accueillis hors du domicile parental](partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md) (30 articles)
+      - [Chapitre VIII : Dispositions financières](partie-reglementaire/livre-ii/titre-ii/chapitre-viii.md) (3 articles)
+    - **Titre III : Personnes âgées**
+      - [Chapitre Ier : Aide à domicile et placement](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Allocation personnalisée d'autonomie](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (54 articles)
+      - [Chapitre III : Prévention de la perte d'autonomie](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (20 articles)
+    - **Titre IV : Personnes handicapées**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (45 articles)
+      - [Chapitre Ier bis : Commission des droits et de l'autonomie des personnes handicapées](partie-reglementaire/livre-ii/titre-iv/chapitre-ier-bis.md) (18 articles)
+      - [Chapitre II : Enfance et adolescence handicapées](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Travailleurs handicapés admis en établissements et services d'accompagnement par le travail](partie-reglementaire/livre-ii/titre-iv/chapitre-iii.md) (37 articles)
+      - [Chapitre IV : Allocation aux adultes handicapés](partie-reglementaire/livre-ii/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : La prestation de compensation à domicile](partie-reglementaire/livre-ii/titre-iv/chapitre-v.md) (76 articles)
+      - [Chapitre V-1 : La prestation de compensation en établissement](partie-reglementaire/livre-ii/titre-iv/chapitre-v-1.md) (6 articles)
+      - [Chapitre VII : Systèmes d'information](partie-reglementaire/livre-ii/titre-iv/chapitre-vii.md) (18 articles)
+    - **Titre V : Personnes non bénéficiaires de la couverture maladie universelle**
+      - [Chapitre I : Droit à l'aide médicale de l'Etat.](partie-reglementaire/livre-ii/titre-v/chapitre-i.md) (5 articles)
+      - [Chapitre II : Modalités d'admission.](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions financières.](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (4 articles)
+    - **Titre VI : Lutte contre la pauvreté et les exclusions**
+      - [Chapitre Ier : Logement](partie-reglementaire/livre-ii/titre-vi/chapitre-ier.md) (1 article)
+      - [Chapitre II : Revenu de solidarité active](partie-reglementaire/livre-ii/titre-vi/chapitre-ii.md) (131 articles)
+      - [Chapitre III : Actions d'insertion](partie-reglementaire/livre-ii/titre-vi/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Domiciliation](partie-reglementaire/livre-ii/titre-vi/chapitre-iv.md) (15 articles)
+      - [Chapitre V : Statut des personnes accueillies par des organismes d'accueil communautaire et d'activités solidaires.](partie-reglementaire/livre-ii/titre-vi/chapitre-v.md) (11 articles)
+      - [Chapitre VI : Lutte contre la précarité alimentaire](partie-reglementaire/livre-ii/titre-vi/chapitre-vi.md) (13 articles)
+    - **Titre VII : Accompagnement de la personne en matière sociale et budgétaire**
+      - [Chapitre Ier : La mesure d'accompagnement social personnalisé](partie-reglementaire/livre-ii/titre-vii/chapitre-ier.md) (16 articles)
+      - [Chapitre II : La mesure d'accompagnement judiciaire](partie-reglementaire/livre-ii/titre-vii/chapitre-ii.md) (2 articles)
+    - **Titre VIII : Habitat inclusif pour les personnes handicapées et les personnes âgées**
+      - [Chapitre unique : Habitat inclusif pour les personnes handicapées et les personnes âgées](partie-reglementaire/livre-ii/titre-viii/chapitre-unique.md) (7 articles)
+  - **Livre III : Action sociale et médico-sociale mise en oeuvre par des établissements et des services**
+    - **Titre Ier : Etablissements et services soumis à autorisation**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (55 articles)
+      - [Chapitre II : Organisation de l'action sociale et médico-sociale](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (326 articles)
+      - [Chapitre III : Droits et obligations des établissements et services sociaux et médico-sociaux](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (89 articles)
+      - [Chapitre IV : Dispositions financières](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (301 articles)
+      - [Chapitre V : Dispositions propres aux établissements et services sociaux et médico-sociaux relevant de personnes morales de droit public](partie-reglementaire/livre-iii/titre-ier/chapitre-v.md) (38 articles)
+      - [Chapitre VI : Autres catégories d'établissements et de services soumis à autorisation](partie-reglementaire/livre-iii/titre-ier/chapitre-vi.md) (10 articles)
+    - **Titre II : Etablissements soumis à déclaration**
+      - [Chapitre Ier : Accueil de mineurs.](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Accueil d'adultes.](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (7 articles)
+    - **Titre III : Dispositions communes aux établissements, services et lieux de vie et d'accueil soumis à autorisation, habilitation, agrément et déclaration**
+      - [Chapitre unique](partie-reglementaire/livre-iii/titre-iii/chapitre-unique.md) (11 articles)
+    - **Titre IV : Dispositions spécifiques à certaines catégories d'établissements**
+      - [Chapitre Ier : Pouponnières à caractère social](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Hébergement de personnes âgées.](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (6 articles)
+      - [Chapitre IV : Centres pour handicapés adultes](partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md) (51 articles)
+      - [Chapitre V : Centres d'hébergement et de réinsertion sociale](partie-reglementaire/livre-iii/titre-iv/chapitre-v.md) (10 articles)
+      - [Chapitre VI : Centre d'accueil et de soins hospitaliers de Nanterre.](partie-reglementaire/livre-iii/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VIII : Centres d'accueil pour demandeurs d'asile](partie-reglementaire/livre-iii/titre-iv/chapitre-viii.md) (3 articles)
+      - [Chapitre IX : Centres provisoires d'hébergement](partie-reglementaire/livre-iii/titre-iv/chapitre-ix.md) (4 articles)
+      - [Chapitre X : Village d'enfants](partie-reglementaire/livre-iii/titre-iv/chapitre-x.md) (1 article)
+  - **Livre IV : Professions et activités sociales**
+    - **Titre Ier : Assistants de service social**
+      - [Chapitre unique.](partie-reglementaire/livre-iv/titre-ier/chapitre-unique.md) (10 articles)
+    - **Titre II : Assistants maternels et assistants familiaux**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (55 articles)
+      - [Chapitre II : Assistants maternels et assistants familiaux employés par des personnes morales de droit public](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (20 articles)
+      - [Chapitre III : Assistants maternels et assistants familiaux employés par des personnes de droit privé.](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (29 articles)
+    - **Titre III : Educateurs et aides familiaux, personnels pédagogiques occasionnels des accueils collectifs de mineurs.**
+      - [Chapitre II : Personnels pédagogiques occasionnels des accueils collectifs de mineurs.](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (20 articles)
+    - **Titre IV : Particuliers accueillant des personnes âgées ou handicapées**
+      - [Chapitre Ier : Accueillants familiaux et modalités d'agrément](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Contrat entre la personne accueillie et l'accueillant familial](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions communes](partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Accueillants familiaux employés par des personnes morales de droit public ou de droit privé](partie-reglementaire/livre-iv/titre-iv/chapitre-iv.md) (8 articles)
+    - **Titre V : Formation des travailleurs sociaux**
+      - [Chapitre unique : Dispositions générales](partie-reglementaire/livre-iv/titre-v/chapitre-unique.md) (74 articles)
+    - **Titre VI : Autres professions.**
+      - [Chapitre unique : Techniciens de l'intervention sociale et familiale.](partie-reglementaire/livre-iv/titre-vi/chapitre-unique.md) (3 articles)
+    - **Titre VII : Mandataires judiciaires à la protection des majeurs et délégués aux prestations familiales.**
+      - [Chapitre Ier : Dispositions communes aux mandataires judiciaires à la protection des majeurs.](partie-reglementaire/livre-iv/titre-vii/chapitre-ier.md) (26 articles)
+      - [Chapitre II : Personnes physiques mandataires judiciaires à la protection des majeurs.](partie-reglementaire/livre-iv/titre-vii/chapitre-ii.md) (32 articles)
+      - [Chapitre IV : Délégués aux prestations familiales](partie-reglementaire/livre-iv/titre-vii/chapitre-iv.md) (27 articles)
+  - **Livre V : Dispositions particulières applicables à certaines parties du territoire**
+    - [Titre Ier bis : Collectivité de Corse](partie-reglementaire/livre-v/titre-ier-bis.md) (1 article)
+    - **Titre II : Guadeloupe, Guyane, Martinique et La Réunion**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Lutte contre la pauvreté et les exclusions](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (44 articles)
+      - [Chapitre III : Aide sociale à la famille et à l'enfance](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Personnes âgées et personnes handicapées](partie-reglementaire/livre-v/titre-ii/chapitre-iv.md) (4 articles)
+    - **Titre III : Saint-Pierre-et-Miquelon**
+      - [Chapitre Ier : Etablissements et services sociaux et médico-sociaux](partie-reglementaire/livre-v/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Personnes handicapées et personnes âgées](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Revenu de solidarité active](partie-reglementaire/livre-v/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre III bis : Coordination des interventions dans le domaine de la lutte contre les exclusions](partie-reglementaire/livre-v/titre-iii/chapitre-iii-bis.md) (1 article)
+      - [Chapitre IV : Adoption, dispositif d'accueil et d'évaluation des mineurs privés temporairement ou définitivement de la protection de leur famille](partie-reglementaire/livre-v/titre-iii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Personnes physiques mandataires judiciaires à la protection des majeurs](partie-reglementaire/livre-v/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Centres d'information sur les droits des femmes et des familles](partie-reglementaire/livre-v/titre-iii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à l'accompagnement des victimes de la prostitution](partie-reglementaire/livre-v/titre-iii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Dispositions relatives à l'accès aux origines personnelles](partie-reglementaire/livre-v/titre-iii/chapitre-viii.md) (1 article)
+    - **Titre IV : Département-Région de Mayotte**
+      - [Chapitre Ier : Adaptations du livre Ier](partie-reglementaire/livre-v/titre-iv/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Adaptations du livre II](partie-reglementaire/livre-v/titre-iv/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Adaptations du livre III](partie-reglementaire/livre-v/titre-iv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Adaptations du livre IV](partie-reglementaire/livre-v/titre-iv/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions communes et particulières](partie-reglementaire/livre-v/titre-iv/chapitre-v.md) (3 articles)
+    - **Titre V : Territoire des Iles Wallis et Futuna**
+      - [Chapitre Ier : Accès aux origines personnelles](partie-reglementaire/livre-v/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Pupilles de l'Etat](partie-reglementaire/livre-v/titre-v/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Politique de la ville et cohésion sociale](partie-reglementaire/livre-v/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Protection des majeurs](partie-reglementaire/livre-v/titre-v/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Centres d'information sur les droits des femmes et des familles](partie-reglementaire/livre-v/titre-v/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à l'accompagnement des victimes de la prostitution](partie-reglementaire/livre-v/titre-v/chapitre-vi.md) (1 article)
+    - **Titre VI : Polynésie française**
+      - [Chapitre Ier : Accès aux origines personnelles](partie-reglementaire/livre-v/titre-vi/chapitre-ier.md) (1 article)
+      - [Chapitre II : Pupilles de l'Etat](partie-reglementaire/livre-v/titre-vi/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Politique de la ville et cohésion sociale](partie-reglementaire/livre-v/titre-vi/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Protection des majeurs](partie-reglementaire/livre-v/titre-vi/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Centres d'information sur les droits des femmes et des familles](partie-reglementaire/livre-v/titre-vi/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à l'accompagnement des victimes de la prostitution](partie-reglementaire/livre-v/titre-vi/chapitre-vi.md) (1 article)
+    - **Titre VII : Nouvelle-Calédonie**
+      - [Chapitre Ier : Accès aux origines personnelles](partie-reglementaire/livre-v/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Politique de la ville et cohésion sociale](partie-reglementaire/livre-v/titre-vii/chapitre-iii.md) (1 article)
+      - [Chapitre V : Centres d'information sur les droits des femmes et des familles](partie-reglementaire/livre-v/titre-vii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à l'accompagnement des victimes de la prostitution](partie-reglementaire/livre-v/titre-vii/chapitre-vi.md) (1 article)
+    - **Titre VIII : Saint-Barthélemy et Saint-Martin**
+      - [Chapitre Ier : Etablissements et services sociaux et médico-sociaux](partie-reglementaire/livre-v/titre-viii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Revenu de solidarité active](partie-reglementaire/livre-v/titre-viii/chapitre-ii.md) (1 article)
+      - [Chapitre II bis : Coordination des interventions dans le domaine de la lutte contre les exclusions](partie-reglementaire/livre-v/titre-viii/chapitre-ii-bis.md) (1 article)
+      - [Chapitre III : Centres d'information sur les droits des femmes et des familles](partie-reglementaire/livre-v/titre-viii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Conditions d'accueil et d'évaluation des mineurs privés temporairement ou définitivement de la protection de leur famille](partie-reglementaire/livre-v/titre-viii/chapitre-iv.md) (1 article)
+      - [Chapitre V: Personnes âgées et personnes handicapées](partie-reglementaire/livre-v/titre-viii/chapitre-v.md) (11 articles)
+      - [Chapitre VI : Dispositions relatives à l'accompagnement des victimes de la prostitution](partie-reglementaire/livre-v/titre-viii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à l'accès aux origines personnelles](partie-reglementaire/livre-v/titre-viii/chapitre-vii.md) (1 article)
+- [Annexe](annexe.md) (44 articles)

@@ -20,7 +20,7 @@ L'échange s'opère par le seul consentement, de la même manière que la vente.
 - Identifiant : LEGIARTI000006442613
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442613
-- Cité par : [art. L1212-8 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361175) ; [art. L3222-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361461)
+- Cité par : [art. L1212-8 du Code général de la propriété des personnes publiques](../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-ii.md#article-l1212-8) ; [art. L3222-1 du Code général de la propriété des personnes publiques](../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/troisieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l3222-1)
 
 Si l'un des copermutants a déjà reçu la chose à lui donnée en échange, et qu'il prouve ensuite que l'autre contractant n'est pas propriétaire de cette chose, il ne peut pas être forcé à livrer celle qu'il a promise en contre-échange, mais seulement à rendre celle qu'il a reçue.
 

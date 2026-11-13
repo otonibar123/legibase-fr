@@ -1,0 +1,135 @@
+# Chapitre IV : Etablissements d'accueil des enfants de moins de six ans.
+
+Code de la santé publique › Partie législative › Deuxième partie : Santé sexuelle et reproductive, droits de la femme et protection de la santé de l'enfant, de l'adolescent et du jeune adulte › Livre III : Etablissements, services et organismes › Titre II : Autres établissements et services
+
+### Article L2324-1
+- Identifiant : LEGIARTI000048599947
+- État : en vigueur depuis le 01/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048599947
+- Renvoie à : [art. L214-1-3 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1-3) ; art. L133-6 du Code de l'action sociale et des familles
+- Cité par : [art. D214-10 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-d214-10) ; [art. L214-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1) ; [art. L214-1-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1-1) ; [art. L214-2-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-2-2) ; [art. L214-7 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7) ; [art. L343-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iii.md#article-l343-1) ; [art. L421-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-1) ; [art. D2324-51 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d2324-51) ; [art. D2324-52 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d2324-52) ; [art. D2324-52-1 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d2324-52-1) ; [art. D2324-52-2 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d2324-52-2) ; [art. L2132-4 du Code de la santé publique](../../livre-ier/titre-iii/chapitre-ii.md#article-l2132-4) ; [art. L2324-2-1 du Code de la santé publique](chapitre-iv.md#article-l2324-2-1) ; [art. L2324-3 du Code de la santé publique](chapitre-iv.md#article-l2324-3) ; [art. L2326-4 du Code de la santé publique](chapitre-vi.md#article-l2326-4) ; [art. R2324-3 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-3) ; [art. R2324-10 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-10) ; [art. R2324-12 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-12) ; [art. R2324-16 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-16) ; [art. R2324-18 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-18) ; [art. R2324-19 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-19) ; [art. R2324-20 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-20) ; [art. R2324-21 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-21) ; [art. R2324-46-1 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-46-1) ; [art. R2324-59 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-59) ; [art. R3112-1 du Code de la santé publique](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-r3112-1) ; [art. D531-21 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-v/titre-iii/chapitre-1.md#article-d531-21) ; [art. L531-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-iii/chapitre-1er.md#article-l531-6) ; [art. L553-2-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-v/chapitre-3.md#article-l553-2-1) ; [art. D1271-29 du Code du travail](../../../../../code-du-travail/partie-reglementaire/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-d1271-29) ; [art. L1271-1 du Code du travail](../../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1) ; [art. L1271-17 du Code du travail](../../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-17) ; [art. L7232-1-2 du Code du travail](../../../../../code-du-travail/partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-1-2) ; [art. L7233-4 du Code du travail](../../../../../code-du-travail/partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-iii.md#article-l7233-4) ; [art. R1271-15 du Code du travail](../../../../../code-du-travail/partie-reglementaire/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-r1271-15) ; [art. 200 quater B du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-200-quater-b) ; [art. 244 quater F du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-244-quater-f) ; [art. 49 septies Y du Code général des impôts, annexe III](../../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-premier/chapitre-ii.md#article-49-septies-y) ; [Arrêté du 29 juillet 2022, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046142023) ; [Arrêté du 31 août 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044026529) ; [art. L133-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052848022) ; [art. L213-111 du Code des impositions sur les biens et services](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053105810) ; [Décret du 14 janvier 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053374824) ; [Décret n°2002-884 du 3 mai 2002, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006212566) ; [Décret n°2009-479 du 29 avril 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020565305) ; [Décret n°2020-1262 du 16 octobre 2020, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042431461) ; [Décret n°2025-1207 du 10 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053025960) ; [Décret n°2025-304 du 1er avril 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051410806) ; … et 3 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+Si elles ne sont pas soumises à un régime d'autorisation en vertu d'une autre disposition législative, la création, l'extension et la transformation des établissements et services gérés par une personne physique ou morale de droit privé ou de droit public accueillant des enfants de moins de six ans sont subordonnées à une autorisation délivrée par le président du conseil départemental.
+
+Le projet de création, d'extension ou de transformation d'un établissement ou d'un service de droit privé accueillant des enfants de moins de six ans fait l'objet, préalablement à la demande d'autorisation mentionnée au premier alinéa, d'un avis favorable de l'autorité organisatrice de l'accueil du jeune enfant compétente au titre du 3° du I de l'article L. 214-1-3 du code de l'action sociale et des familles. L'avis est rendu au regard des besoins recensés sur son territoire.
+
+L'organisation d'un accueil collectif à caractère éducatif hors du domicile parental, à l'occasion des vacances scolaires, des congés professionnels ou des loisirs, public ou privé, ouvert à des enfants scolarisés de moins de six ans est subordonnée à une autorisation délivrée par le représentant de l'Etat dans le département, après avis du médecin responsable du service départemental de protection maternelle et infantile.
+
+Les seules conditions exigibles de qualification ou d'expérience professionnelle, de moralité et d'aptitude physique requises des personnes exerçant leur activité dans les établissements ou services mentionnés aux alinéas précédents ainsi que les seules conditions exigibles d'installation et de fonctionnement de ces établissements ou services sont fixées par décret.
+
+Les dispositions de l'article L. 133-6 du code de l'action sociale et des familles s'appliquent aux établissements, services et lieux de vie et d'accueil mentionnés au présent chapitre.
+
+> Nota : Conformément au IV de l'article 18 de la loi 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+### Article L2324-1-1
+- Identifiant : LEGIARTI000048590476
+- État : en vigueur depuis le 20/12/2023
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048590476
+- Cité par : [Décret du 14 janvier 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053374824)
+
+L'autorisation, pour les établissements et les services mentionnés au premier alinéa de l'article L. 2324-1, est accordée pour une durée de quinze ans, renouvelable dans des conditions définies par décret.
+
+En cas de changement de gestionnaire d'un établissement ou d'un service mentionné au même premier alinéa, le président du conseil départemental vérifie que l'organisme cessionnaire de l'autorisation présente les garanties nécessaires pour gérer l'établissement ou le service. Ces garanties doivent être équivalentes à celles présentées par l'organisme cédant l'autorisation, notamment en ce qui concerne la capacité d'accueil de l'établissement ou du service.
+
+### Article L2324-2
+- Identifiant : LEGIARTI000048599942
+- État : en vigueur depuis le 20/12/2023
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048599942
+- Renvoie à : [art. L531-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-iii/chapitre-1er.md#article-l531-6)
+- Cité par : [art. L214-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1) ; [art. R2324-14 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-14) ; [art. R2324-23 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-23) ; [art. R2324-59 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-59) ; [Arrêté du 31 août 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044026529) ; [Décret n°2025-941 du 8 septembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052216624)
+
+I. - Le président du conseil départemental contrôle l'application du présent code par les établissements et les services mentionnés au premier alinéa de l'article L. 2324-1 et par les autres services de leurs organismes gestionnaires qui concourent à la gestion desdits établissements et services. Il vérifie que les conditions d'installation, d'organisation ou de fonctionnement des établissements ou des services mentionnés au même premier alinéa ne présentent pas de risques susceptibles de compromettre ou menacer la santé, la sécurité, le bien-être physique ou mental ou l'éducation des enfants accueillis.
+
+Le président du conseil départemental vérifie que les conditions mentionnées à l'avant-dernier alinéa du même article L. 2324-1 sont respectées par les accueils collectifs à caractère éducatif hors du domicile parental mentionnés au troisième alinéa dudit article L. 2324-1.
+
+II. - Le représentant de l'Etat dans le département peut, à tout moment, diligenter les contrôles prévus au I du présent article. Il dispose à cette fin des personnels, placés sous son autorité ou sous celle de l'agence régionale de santé ou mis à sa disposition par d'autres services de l'Etat ou par d'autres agences régionales de santé, mentionnés aux articles L. 1421-1 et L. 1435-7. Ils peuvent être assistés par d'autres personnes dans les conditions prévues à l'article L. 1421-1.
+
+III. - Les directeurs des organismes débiteurs de prestations familiales contrôlent l'emploi des fonds versés aux établissements et aux services d'accueil du jeune enfant mentionnés au premier alinéa de l'article L. 2324-1 et l'application par lesdits établissements ou services du dernier alinéa de l'article L. 531-6 du code de la sécurité sociale. Ils peuvent contrôler les autres services de leurs organismes gestionnaires qui concourent à la gestion desdits établissements et services.
+
+IV. - Les établissements et services mentionnés au premier alinéa de l'article L. 2324-1 du présent code ainsi que les personnes morales gestionnaires de ces établissements et services, pour leurs activités consacrées à cette gestion, sont soumis au contrôle de l'inspection générale des affaires sociales et de l'inspection générale des finances. Les personnes morales qui exercent, directement ou indirectement, le contrôle exclusif ou conjoint des personnes morales gestionnaires des établissements et des services ainsi que les autres personnes morales qu'elles contrôlent et qui concourent à la gestion de ces établissements et services ou leur fournissent des biens et services sont également soumises au contrôle de l'inspection générale des affaires sociales et de l'inspection générale des finances, pour leurs activités consacrées à cette gestion.
+
+V. - Les modalités de mise en œuvre du présent article sont précisées par décret.
+
+### Article L2324-2-1
+- Identifiant : LEGIARTI000022326397
+- État : en vigueur depuis le 11/06/2010
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022326397
+- Renvoie à : [art. L2324-1 du Code de la santé publique](chapitre-iv.md#article-l2324-1)
+
+L'autorisation mentionnée au premier alinéa de l'article L. 2324-1 prévoit, à la demande du responsable d'établissement ou de service, des capacités d'accueil différentes suivant les périodes de l'année, de la semaine ou de la journée, compte tenu des variations prévisibles des besoins d'accueil.
+
+### Article L2324-2-3
+- Identifiant : LEGIARTI000048590505
+- État : en vigueur depuis le 01/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048590505
+- Renvoie à : [art. L233-3 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-3)
+- Cité par : [art. D2324-52-2 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d2324-52-2) ; [Décret n°2025-941 du 8 septembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052216624)
+
+Les établissements et les services mentionnés au premier alinéa de l'article L. 2324-1, leurs organismes gestionnaires et les personnes morales sous le contrôle desquelles ils sont placés, au sens de l'article L. 233-3 du code de commerce, transmettent chaque année aux organismes débiteurs de prestations familiales des documents de nature comptable et financière dont la liste et les modalités de transmission sont fixées par décret, sans préjudice des demandes de transmission d'information complémentaires formulées dans le cadre des contrôles conduits par le président du conseil départemental, le représentant de l'Etat dans le département ou les organismes débiteurs de prestations familiales ou prévues dans le cadre des conventions conclues entre ces organismes et ces établissements.
+
+> Nota : Conformément au IV de l'article 18 de la loi 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+### Article L2324-2-4
+- Identifiant : LEGIARTI000048590509
+- État : en vigueur depuis le 01/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048590509
+- Renvoie à : [art. L214-1-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1-1)
+
+I. - Les établissements et les services d'accueil des enfants de moins de six ans mentionnés au premier alinéa de l'article L. 2324-1 font l'objet, tous les cinq ans, d'une évaluation, sur le fondement des référentiels mentionnés au dernier alinéa du II de l'article L. 214-1-1 du code de l'action sociale et des familles. Les résultats de cette évaluation sont publiés et communiqués à l'autorité organisatrice de l'accueil du jeune enfant mentionnée à l'article L. 214-1-3 du même code, au président du conseil départemental, au représentant de l'Etat dans le département et aux directeurs des organismes débiteurs de prestations familiales.
+
+II. - Les établissements et les services d'accueil des enfants de moins de six ans mentionnés au premier alinéa de l'article L. 2324-1 du présent code publient des indicateurs relatifs à leur activité et à leur fonctionnement.
+
+III. - Les modalités d'application du présent article sont déterminées par décret.
+
+> Nota : Conformément au IV de l'article 18 de la loi 2023-1196 du 18 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+
+### Article L2324-3
+- Identifiant : LEGIARTI000048599939
+- État : en vigueur depuis le 20/12/2023
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048599939
+- Renvoie à : [art. L2324-1 du Code de la santé publique](chapitre-iv.md#article-l2324-1)
+- Cité par : [art. L214-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1) ; [art. D2324-52 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-d2324-52) ; [art. R2324-14 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-14) ; [art. R2324-56 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-56) ; [art. R2324-57 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-57) ; [art. R2324-58 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-58) ; [art. R2324-59 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-59) ; [art. R2324-60 du Code de la santé publique](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-r2324-60) ; [Décret n°2019-822 du 2 août 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038877154) ; [Décret n°2019-822 du 2 août 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041436206)
+
+I. - Lorsqu'il estime que les conditions d'installation, d'organisation ou de fonctionnement d'un établissement ou d'un service d'accueil méconnaissent les dispositions du présent code ou présentent des risques susceptibles de compromettre ou menacer la santé, la sécurité, le bien-être physique ou mental ou l'éducation des enfants accueillis :
+
+1° Le président du conseil départemental ou, en application du II de l'article L. 2324-2, le représentant de l'Etat dans le département peut enjoindre au gestionnaire d'un établissement ou d'un service mentionné au premier alinéa de l'article L. 2324-1 d'y remédier, dans un délai qu'il fixe. Ce délai doit être raisonnable et adapté à l'objectif recherché ;
+
+2° Le représentant de l'Etat dans le département peut enjoindre au gestionnaire d'un accueil collectif à caractère éducatif hors du domicile parental mentionné au troisième alinéa du même article L. 2324-1 d'y remédier.
+
+Le président du conseil départemental ou, en application du II de l'article L. 2324-2, le représentant de l'Etat dans le département en informe le conseil d'établissement ou de service. Il peut également prévoir les conditions dans lesquelles le responsable de l'établissement ou du service assure l'affichage de l'injonction à l'entrée des locaux.
+
+L'injonction peut inclure des mesures de réorganisation des locaux ou du fonctionnement de l'établissement ou du service, y compris de limitation de la capacité d'accueil.
+
+Toute injonction est suivie d'un contrôle à l'expiration du délai fixé.
+
+II. - Simultanément ou consécutivement à la décision d'injonction, le président du conseil départemental ou, en application du II de l'article L. 2324-2, le représentant de l'Etat dans le département peut désigner un administrateur provisoire pour une durée qui ne peut être supérieure à six mois, renouvelable une fois. Celui-ci accomplit, au nom de l'autorité compétente et pour le compte du gestionnaire, les actes d'administration urgents ou nécessaires pour mettre fin aux difficultés constatées. Il dispose à cette fin de tout ou partie des pouvoirs nécessaires à l'administration et à la direction de l'établissement, du service ou du lieu de vie et d'accueil, dans des conditions précisées par l'acte de désignation.
+
+III. - En cas de non-respect de l'injonction et tant qu'il n'est pas remédié aux risques ou aux manquements constatés, le président du conseil départemental ou, en application du II de l'article L. 2324-2, le représentant de l'Etat dans le département peut prononcer une astreinte, pour chaque jour de retard, dont le montant est proportionné à la gravité des faits ou des irrégularités et ne peut être supérieur à 1 000 euros par jour. Simultanément ou alternativement, il peut prononcer une interdiction de gérer tout nouvel établissement ou service pour une durée déterminée. La durée de cette interdiction est proportionnée à la gravité des faits et ne peut excéder trois ans.
+
+IV. - En cas de non-respect des dispositions applicables aux modes d'accueil du jeune enfant, le président du conseil départemental ou, en application du II de l'article L. 2324-2, le représentant de l'Etat dans le département peut prononcer une sanction financière, dont le montant est proportionné à la gravité des faits constatés et ne peut être supérieur à 5 % du chiffre d'affaires réalisé, en France et dans le champ d'activité en cause, par le gestionnaire lors du dernier exercice clos. A défaut d'activité permettant de déterminer ce plafond, le montant de la sanction financière ne peut être supérieur à 100 000 euros.
+
+Lorsque la sanction financière est susceptible de se cumuler avec une amende pénale infligée en raison des mêmes faits, le montant global des amendes et des sanctions financières prononcées ne dépasse pas le maximum légal le plus élevé.
+
+V. - Les astreintes et les sanctions financières mentionnées aux III et IV du présent article ne peuvent être prises en charge sous quelque forme que ce soit par des financements publics. Ces financements publics s'entendent de ceux qu'apportent, directement ou indirectement, en application de dispositions législatives ou réglementaires, les personnes morales de droit public ou les organismes débiteurs de prestations familiales en vue de supporter tout ou partie des dépenses de fonctionnement.
+
+VI. - Lorsqu'il n'a pas été satisfait aux injonctions, soit pendant le délai mentionné au 1° du I du présent article, soit, le cas échéant, pendant la durée de l'administration provisoire :
+
+1° Le président du conseil départemental ou, en application du II de l'article L. 2324-2, le représentant de l'Etat dans le département peut décider la suspension ou la cessation de tout ou partie des activités des établissements ou des services mentionnés au premier alinéa de l'article L. 2324-1 ;
+
+2° Le représentant de l'Etat dans le département peut décider la suspension ou la cessation de tout ou partie des activités des accueils collectifs à caractère éducatif hors du domicile parental mentionnés au troisième alinéa du même article L. 2324-1.
+
+En cas d'urgence, le président du conseil départemental ou le représentant de l'Etat dans le département peut prononcer, par arrêté motivé, la fermeture immédiate, à titre provisoire, des établissements ou des services mentionnés au premier alinéa dudit article L. 2324-1. Ils se tiennent informés de ces décisions.
+
+En cas d'urgence, le représentant de l'Etat dans le département peut prononcer, par arrêté motivé, la fermeture immédiate, à titre provisoire, des accueils collectifs à caractère éducatif hors du domicile parental mentionnés au troisième alinéa du même article L. 2324-1. Il en informe le président du conseil départemental.
+
+La fermeture définitive vaut abrogation des autorisations prévues aux premier et troisième alinéas du même article L. 2324-1.
+
+VII. - Sauf en cas d'urgence, le représentant de l'Etat dans le département prend les décisions mentionnées aux II à VI du présent article après avis du président du conseil départemental.
+
+### Article L2324-4
+- Identifiant : LEGIARTI000006687621
+- État : en vigueur depuis le 22/06/2000
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687621
+- Cité par : [art. L214-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-1) ; [Décret n°2024-1136 du 4 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050737070) ; [Décret n°2025-1207 du 10 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053025960) ; [Décret n°2025-304 du 1er avril 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051410806) ; [Décret n°2026-731 du 1er août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054611896)
+
+Sauf disposition contraire, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.

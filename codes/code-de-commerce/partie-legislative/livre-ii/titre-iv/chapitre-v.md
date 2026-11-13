@@ -18,7 +18,7 @@ Le fait, pour le président et les administrateurs, les directeurs généraux, l
 - Identifiant : LEGIARTI000006230691
 - État : en vigueur depuis le 27/03/2004
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230691
-- Cité par : [art. L245-15 du Code de commerce](chapitre-v.md#article-l245-15) ; [art. L213-17 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647997) ; [art. L231-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006651978) ; [Loi n°2003-591 du 2 juillet 2003, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019764190)
+- Cité par : [art. L245-15 du Code de commerce](chapitre-v.md#article-l245-15) ; [art. L213-17 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-17) ; [art. L231-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-iii/chapitre-ier.md#article-l231-1) ; [Loi n°2003-591 du 2 juillet 2003, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019764190)
 
 Est puni d'une amende de 9 000 euros le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants d'une société par actions d'émettre, pour le compte de cette société, des obligations négociables qui, dans une même émission, ne confèrent pas les mêmes droits de créance pour une même valeur nominale.
 
@@ -49,7 +49,7 @@ Est puni d'une amende de 6 000 euros le fait :
 - Identifiant : LEGIARTI000006230758
 - État : en vigueur depuis le 27/03/2004
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230758
-- Cité par : [art. L245-15 du Code de commerce](chapitre-v.md#article-l245-15) ; [art. L322-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039261631) ; [art. L213-17 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647997) ; [Loi n°2003-591 du 2 juillet 2003, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019764190)
+- Cité par : [art. L245-15 du Code de commerce](chapitre-v.md#article-l245-15) ; [art. L322-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-2-1) ; [art. L213-17 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-17) ; [Loi n°2003-591 du 2 juillet 2003, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019764190)
 
 Est puni d'une amende de 4 500 euros le fait, pour le président de l'assemblée générale des obligataires, de ne pas procéder à la constatation des décisions de toute assemblée générale d'obligataires par procès-verbal, mentionnant la date et le lieu de la réunion, le mode de convocation, l'ordre du jour, la composition du bureau, le nombre d'obligataires participant au vote et le quorum atteint, les documents et rapports soumis à l'assemblée, un résumé des débats, le texte des résolutions mises aux voix et le résultat des votes.
 

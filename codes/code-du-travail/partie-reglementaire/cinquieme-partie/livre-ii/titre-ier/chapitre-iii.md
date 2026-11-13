@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Cinquième partie : L'emploi › L
 - Identifiant : LEGIARTI000018526084
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526084
-- Cité par : [art. D412-79 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795072)
+- Cité par : [art. D412-79 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-i/chapitre-2.md#article-d412-79)
 
 Le pilotage des actions du service public de l'emploi et des organismes de placement spécialisés en matière d'insertion professionnelle des personnes handicapées associe :  
 1° L'Etat ;  
@@ -21,7 +21,7 @@ Le pilotage des actions du service public de l'emploi et des organismes de place
 - Identifiant : LEGIARTI000037473057
 - État : en vigueur depuis le 07/10/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037473057
-- Renvoie à : art. R241-33 du Code de l'action sociale et des familles
+- Renvoie à : [art. R241-33 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-iv/chapitre-ier-bis.md#article-r241-33)
 
 Toute demande de renouvellement de la reconnaissance de la qualité de travailleur handicapé, formée auprès de la maison départementale des personnes handicapées, proroge les effets du bénéfice de la reconnaissance de cette qualité délivrée au titre de la précédente décision par la commission des droits et de l'autonomie des personnes handicapées jusqu'à ce qu'il soit statué à nouveau sur son renouvellement avant l'expiration du délai mentionné à l'article R. 241-33 du code de l'action sociale et des familles, dès lors qu'elle a été déposée avant l'échéance du droit en cours par tout moyen permettant de conférer date certaine à la réception de cette demande. Le bénéfice de cette prorogation demeure acquis indépendamment du sort de la demande en cours d'instruction.
 
@@ -29,7 +29,7 @@ Toute demande de renouvellement de la reconnaissance de la qualité de travaille
 - Identifiant : LEGIARTI000018526082
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526082
-- Cité par : [art. R4153-39 du Code du travail](../../../quatrieme-partie/livre-ier/titre-v/chapitre-iii.md#article-r4153-39) ; [art. R5213-27 du Code du travail](chapitre-iii.md#article-r5213-27) ; [art. D412-79 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795072) ; [art. R481-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022073157)
+- Cité par : [art. D412-79 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-i/chapitre-2.md#article-d412-79) ; [art. R481-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-viii/chapitre-1er.md#article-r481-4) ; [art. R4153-39 du Code du travail](../../../quatrieme-partie/livre-ier/titre-v/chapitre-iii.md#article-r4153-39) ; [art. R5213-27 du Code du travail](chapitre-iii.md#article-r5213-27)
 
 Des centres de préorientation contribuent à l'orientation professionnelle des travailleurs handicapés.  
 Ils accueillent, sur décision motivée de la commission des droits et de l'autonomie des personnes handicapées, des travailleurs reconnus handicapés dont l'orientation professionnelle présente des difficultés particulières qui n'ont pu être résolues par l'équipe technique de cette commission.
@@ -70,7 +70,7 @@ A l'issue de la période de préorientation, le centre adresse à la commission 
 - Identifiant : LEGIARTI000018526072
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526072
-- Cité par : [art. D412-79 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795072)
+- Cité par : [art. D412-79 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-i/chapitre-2.md#article-d412-79)
 
 Des organismes de placement spécialisés, en charge de la préparation, de l'accompagnement et du suivi durable dans l'emploi des personnes handicapées, participent au dispositif d'insertion professionnelle et d'accompagnement particulier pendant la période d'adaptation au poste de travail des travailleurs handicapés mis en œuvre par l'Etat, le service public de l'emploi, l'association chargée de la gestion du fonds de développement pour l'insertion professionnelle des handicapés et le gestionnaire du fonds pour l'insertion professionnelle des handicapés dans la fonction publique.  
 Ils sont conventionnés à cet effet et peuvent, à cette condition, recevoir l'aide de l'association et du fonds mentionnés au premier alinéa.  
@@ -80,7 +80,7 @@ Les conventions sont conformes aux orientations fixées par la convention d'obje
 - Identifiant : LEGIARTI000018526070
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526070
-- Renvoie à : [art. L146-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796666)
+- Renvoie à : [art. L146-3 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-3)
 
 Les centres de préorientation et les organismes de placement spécialisés concluent une convention avec la maison départementale des personnes handicapées mentionnée à l'article L. 146-3 du code de l'action sociale et des familles afin de coordonner leurs interventions auprès des personnes handicapées.
 
@@ -92,8 +92,8 @@ Les centres de préorientation et les organismes de placement spécialisés conc
 - Identifiant : LEGIARTI000041541598
 - État : en vigueur depuis le 07/02/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041541598
-- Renvoie à : [art. L6341-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-4)
-- Cité par : [art. R4153-39 du Code du travail](../../../quatrieme-partie/livre-ier/titre-v/chapitre-iii.md#article-r4153-39) ; [art. R5213-13 du Code du travail](chapitre-iii.md#article-r5213-13) ; [art. R5213-27 du Code du travail](chapitre-iii.md#article-r5213-27) ; [art. R481-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022073157)
+- Renvoie à : [art. L6341-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-4) ; art. D526 du Code des pensions militaires d'invalidité et des victimes de la guerre
+- Cité par : [art. R481-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-viii/chapitre-1er.md#article-r481-4) ; [art. R4153-39 du Code du travail](../../../quatrieme-partie/livre-ier/titre-v/chapitre-iii.md#article-r4153-39) ; [art. R5213-13 du Code du travail](chapitre-iii.md#article-r5213-13) ; [art. R5213-27 du Code du travail](chapitre-iii.md#article-r5213-27)
 
 L'éducation ou la rééducation professionnelle des travailleurs handicapés est assurée par :
 
@@ -163,8 +163,8 @@ La convention détermine notamment :
 - Identifiant : LEGIARTI000045368574
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045368574
-- Renvoie à : [art. L5213-3-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-3-1) ; [art. R323-3-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045368418)
-- Cité par : [art. R5213-17 du Code du travail](chapitre-iii.md#article-r5213-17)
+- Renvoie à : [art. R323-3-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-3.md#article-r323-3-1) ; [art. L5213-3-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-3-1)
+- Cité par : [art. R323-3-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-3.md#article-r323-3-1) ; [art. R5213-17 du Code du travail](chapitre-iii.md#article-r5213-17)
 
 I.-La convention mentionnée au I de l'article L. 5213-3-1 définit le montant total de la rémunération perçue par le salarié au titre du salaire versé pour le compte de l'employeur et des indemnités journalières mentionnées à l'article R. 323-3-1 du code de la sécurité sociale. Ce montant ne peut être inférieur à la rémunération perçue avant l'arrêt de travail précédant la mise en place de la convention.  
 
@@ -463,7 +463,7 @@ Pour les personnes présentant un taux d'invalidité ou d'incapacité permanente
 - Identifiant : LEGIARTI000038032423
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038032423
-- Renvoie à : [art. L5212-9 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-9) ; [art. L5213-13 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13) ; [art. R5213-42 du Code du travail](chapitre-iii.md#article-r5213-42) ; [art. R5213-44 du Code du travail](chapitre-iii.md#article-r5213-44) ; [art. R5213-51 du Code du travail](chapitre-iii.md#article-r5213-51) ; art. L344-2 du Code de l'action sociale et des familles
+- Renvoie à : [art. L344-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iv.md#article-l344-2) ; [art. L5212-9 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-9) ; [art. L5213-13 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13) ; [art. R5213-42 du Code du travail](chapitre-iii.md#article-r5213-42) ; [art. R5213-44 du Code du travail](chapitre-iii.md#article-r5213-44) ; [art. R5213-51 du Code du travail](chapitre-iii.md#article-r5213-51)
 - Cité par : [art. R5213-46 du Code du travail](chapitre-iii.md#article-r5213-46) ; [Arrêté du 9 septembre 2019, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039086400)
 
 Pour les salariés ouvrant droit à l'aide au poste sortant d'entreprises adaptées mentionnées à l' article L. 5213-13 du code du travail , et les usagers sortant d'établissements et services d'aide par le travail mentionnés à l' article L. 344-2 du code de l'action sociale et des familles , recrutés par une entreprise du milieu ordinaire de travail autre qu'une entreprise adaptée, la première décision de reconnaissance de la lourdeur du handicap est prise sur présentation du justificatif établi par la structure du milieu adapté ou protégé, attestant de la sortie depuis moins d'un an à la date du dépôt de la demande. Cette première décision ouvre droit à une aide à l'emploi à taux majoré ou le cas échéant à une modulation de la contribution annuelle prévue à l'article L. 5212-9 dans les conditions prévues à l'article R. 5213-51 . Le modèle de formulaire contenant l'attestation susmentionnée est fixé par arrêté conjoint des ministres chargés de l'emploi et des personnes handicapées. Ce formulaire, dûment renseigné et signé par l'employeur ou le travailleur non salarié demandeur de la reconnaissance de la lourdeur du handicap, est accompagné des justificatifs prévus aux 1°, 2° et 3° de l'article R. 5213-42 ou aux 1° et 2° de l'article R. 5213-44 .
@@ -610,7 +610,8 @@ L'inspection du travail est habilitée à contrôler l'utilisation de la subvent
 - Identifiant : LEGIARTI000045950355
 - État : en vigueur depuis le 23/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045950355
-- Cité par : [art. R5213-62-1 du Code du travail](chapitre-iii.md#article-r5213-62-1) ; [art. R5213-86-1 du Code du travail](chapitre-iii.md#article-r5213-86-1) ; [art. R412-82 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045678855)
+- Renvoie à : [art. L412-3 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-3)
+- Cité par : [art. R5213-62-1 du Code du travail](chapitre-iii.md#article-r5213-62-1) ; [art. R5213-86-1 du Code du travail](chapitre-iii.md#article-r5213-86-1) ; [art. R412-82 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-82)
 
 Le préfet de région, en tenant compte des besoins économiques et sociaux et de l'offre existante sur son territoire, peut conclure avec une structure présentant un projet économique et social viable en faveur de l'emploi de travailleurs handicapés, ou de personnes détenues reconnues travailleurs handicapés ayant signé le contrat d'emploi pénitentiaire mentionné à l'article L. 412-3 du code pénitentiaire, un contrat pluriannuel d'objectifs et de moyens valant agrément en qualité d'entreprise adaptée dans la région d'implantation.
 
@@ -634,7 +635,7 @@ Lorsque l'entreprise adaptée recourt au contrat prévu à l'article L. 5213-13-
 - Identifiant : LEGIARTI000045950343
 - État : en vigueur depuis le 23/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045950343
-- Renvoie à : [art. L5213-13 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13) ; [art. L5213-13-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-1) ; art. R130-1 du Code de la sécurité sociale
+- Renvoie à : [art. R130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-preliminaire.md#article-r130-1) ; [art. L5213-13 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13) ; [art. L5213-13-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-1) ; [art. L412-3 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-3)
 - Cité par : [Décret n°2019-360 du 24 avril 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038414688)
 
 I.-Sous réserve des dispositions du III, pour la conclusion du contrat pluriannuel d'objectifs et de moyens prévu au premier alinéa de l'article L. 5213-13 valant agrément des entreprises adaptées, les proportions minimale et maximale de travailleurs reconnus handicapés, à l'exclusion des personnes détenues reconnues travailleurs handicapés ayant signé le contrat d'emploi pénitentiaire mentionné à l'article L. 412-3 du code pénitentiaire, dans les effectifs salariés s'établissent respectivement à 55 % et 100 %.
@@ -651,7 +652,7 @@ Ces proportions sont déterminées par le rapport, calculé en pourcentage, entr
 - Identifiant : LEGIARTI000049125075
 - État : en vigueur depuis le 12/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049125075
-- Renvoie à : [art. L5213-13-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-1) ; [art. L5213-13-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-2) ; [art. L5213-13-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-3) ; [art. R5213-76 du Code du travail](chapitre-iii.md#article-r5213-76)
+- Renvoie à : [art. L5213-13-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-1) ; [art. L5213-13-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-2) ; [art. L5213-13-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-3) ; [art. R5213-76 du Code du travail](chapitre-iii.md#article-r5213-76) ; [art. L412-3 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-3)
 - Cité par : [Arrêté du 16 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051021328) ; [Décret n°2019-39 du 23 janvier 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038052974) ; [Décret n°2019-39 du 23 janvier 2019, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044055755)
 
 I.-Sous réserve des dispositions du II, le montant total annuel d'aide versée à l'entreprise adaptée au titre de l'enveloppe financière mentionnée à l'article R. 5213-76 est calculé sur la base d'une proportion de travailleurs, à l'exclusion des personnes détenues reconnues travailleurs handicapés ayant signé un contrat d'emploi pénitentiaire, qui ne peut être supérieure à 75 % de l'effectif salarié annuel de l'entreprise.
@@ -826,7 +827,7 @@ Les organismes gestionnaires des entreprises adaptées se soumettent au contrôl
 - Identifiant : LEGIARTI000049127323
 - État : en vigueur depuis le 12/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049127323
-- Renvoie à : [art. L5213-13-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-1) ; [art. L5213-13-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-2)
+- Renvoie à : [art. L5213-13-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-1) ; [art. L5213-13-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-13-2) ; [art. L412-3 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-3)
 - Cité par : [art. D5213-63-1 du Code du travail](chapitre-iii.md#article-d5213-63-1) ; [art. D5213-81 du Code du travail](chapitre-iii.md#article-d5213-81) ; [art. R5523-2-2 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r5523-2-2) ; [Arrêté du 12 mars 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051332197) ; [Arrêté du 13 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053976498) ; [Arrêté du 13 avril 2026, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053976507) ; [Arrêté du 13 avril 2026, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053976511) ; [Arrêté du 16 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051021328) ; [Arrêté du 16 janvier 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051021338) ; [Arrêté du 16 janvier 2025, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051021342) ; [Arrêté du 31 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054788807) ; [Arrêté du 31 juillet 2026, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054788815) ; [Arrêté du 31 juillet 2026, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054788819)
 
 I.-L'emploi par une entreprise adaptée des personnes mentionnées à l'article L. 5213-13-1, ou l'accomplissement par celle-ci de la mission prévue à l'article L. 412-3 du code pénitentiaire auprès des personnes détenues reconnues travailleurs handicapés ayant signé un contrat d'emploi pénitentiaire, ouvre droit à l'aide financière prévue au présent paragraphe.  
@@ -859,7 +860,7 @@ Des montants spécifiques peuvent être prévus à Mayotte, pour tenir compte du
 - Identifiant : LEGIARTI000038008113
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038008113
-- Renvoie à : art. L321-1 du Code de la sécurité sociale
+- Renvoie à : [art. L321-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-1er.md#article-l321-1)
 
 Sont considérés comme du temps de travail effectif, quand ils sont rémunérés, les trois premiers jours d'absence justifiée par l'incapacité résultant de maladie ou d'accident.  
 
@@ -932,7 +933,7 @@ En cas d'embauche à l'issue de cette période de mise en situation en milieu pr
 - État : en vigueur depuis le 12/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049125068
 - Renvoie à : [art. D5213-84 du Code du travail](chapitre-iii.md#article-d5213-84) ; [art. R5213-76 du Code du travail](chapitre-iii.md#article-r5213-76)
-- Cité par : [Arrêté du 13 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053976498) ; [Arrêté du 13 avril 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053976509) ; [Arrêté du 16 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051021328) ; [Arrêté du 16 janvier 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051021340) ; [Arrêté du 31 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054788807) ; [Arrêté du 31 juillet 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054788817) ; [art. R344-17 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052140697)
+- Cité par : [art. R344-17 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md#article-r344-17) ; [Arrêté du 13 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053976498) ; [Arrêté du 13 avril 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053976509) ; [Arrêté du 16 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051021328) ; [Arrêté du 16 janvier 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051021340) ; [Arrêté du 31 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054788807) ; [Arrêté du 31 juillet 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054788817)
 
 Le travailleur handicapé employé dans une entreprise adaptée peut, avec son accord et en vue d'une embauche éventuelle, être mis à la disposition d'un autre employeur, dans le cadre du contrat de mise à disposition prévu à l'article D. 5213-84.  
 
@@ -1128,7 +1129,7 @@ Lorsque la commission des droits et de l'autonomie des personnes handicapées en
 - Identifiant : LEGIARTI000034369193
 - État : en vigueur depuis le 06/04/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034369193
-- Renvoie à : [art. L5211-5 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l5211-5) ; [art. L5212-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-1) ; [art. L5213-2-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2-1) ; [art. L5214-3-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iv.md#article-l5214-3-1) ; [art. L5314-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l5314-1) ; art. L312-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1) ; [art. L5211-5 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l5211-5) ; [art. L5212-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-1) ; [art. L5213-2-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2-1) ; [art. L5214-3-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iv.md#article-l5214-3-1) ; [art. L5314-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l5314-1)
 
 Le dispositif d'emploi accompagné mentionné à l'article L. 5213-2-1 est mis en œuvre aux fins d'insertion dans le milieu ordinaire de travail, par une personne morale gestionnaire qui organise, au moyen de la convention de gestion mentionnée au III du même article, le soutien à l'insertion professionnelle et l'accompagnement médico-social du travailleur handicapé ainsi que l'accompagnement de son employeur. Il s'inscrit dans le cadre du plan régional d'insertion des travailleurs handicapés défini à l'article L. 5211-5.
 
@@ -1142,7 +1143,7 @@ La personne morale gestionnaire est :
 - Identifiant : LEGIARTI000033730555
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033730555
-- Renvoie à : [art. L5213-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2) ; art. L312-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1) ; [art. L5213-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2)
 
 Peuvent être bénéficiaires du dispositif d'emploi accompagné, donnant lieu à l'accompagnement de leur employeur :  
 
@@ -1198,7 +1199,7 @@ La convention de financement conclue en application du IV de l'article L. 5213-2
 - Identifiant : LEGIARTI000033730549
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033730549
-- Renvoie à : [art. D5213-90 du Code du travail](chapitre-iii.md#article-d5213-90) ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. L146-9 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9) ; [art. D5213-90 du Code du travail](chapitre-iii.md#article-d5213-90)
 
 Le dispositif d'emploi accompagné fait l'objet d'un appel à candidatures de l'agence régionale de santé, qui définit le ou les territoires d'intervention du dispositif dans le respect du cahier des charges mentionné à l'article D. 5213-90. Pour l'instruction des candidatures, l'agence régionale de santé peut associer la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et consulter le Fonds de développement pour l'insertion professionnelle des handicapés et le Fonds d'insertion des personnes handicapées dans la fonction publique.  
 
@@ -1208,7 +1209,7 @@ A l'issue de la procédure d'appel à candidatures, l'agence régionale de sant�
 - Identifiant : LEGIARTI000033730547
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033730547
-- Renvoie à : [art. L5213-2-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2-1) ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. L146-9 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9) ; [art. L241-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-iv/chapitre-ier-bis.md#article-l241-6) ; [art. R241-28 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-iv/chapitre-ier-bis.md#article-r241-28) ; [art. L5213-2-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2-1)
 
 I.-La décision d'admission du travailleurs handicapé dans le dispositif, prise après accord de l'intéressé, est rendue par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles conformément aux dispositions de l'article L. 241-6 du même code.  
 

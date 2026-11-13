@@ -6,7 +6,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000006901483
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901483
-- Cité par : [art. D412-79 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795072)
+- Cité par : [art. D412-79 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-i/chapitre-2.md#article-d412-79)
 
 Le Conseil supérieur de la prud'homie, organisme consultatif, siège auprès du garde des sceaux, ministre de la justice, et du ministre chargé du travail.
 

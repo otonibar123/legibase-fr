@@ -24,7 +24,7 @@ La société en nom collectif est désignée par une dénomination sociale, à l
 - Identifiant : LEGIARTI000006222473
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222473
-- Cité par : [art. L214-162-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320541)
+- Cité par : [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1)
 
 Tous les associés sont gérants, sauf stipulation contraire des statuts qui peuvent désigner un ou plusieurs gérants, associés ou non, ou en prévoir la désignation par un acte ultérieur.  
 
@@ -44,7 +44,7 @@ En cas de pluralité de gérants, ceux-ci détiennent séparément les pouvoirs 
 - Identifiant : LEGIARTI000006222490
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222490
-- Cité par : [art. L214-162-18 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049872490)
+- Cité par : [art. L214-162-18 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-18)
 
 Dans les rapports avec les tiers, le gérant engage la société par les actes entrant dans l'objet social.  
 
@@ -69,7 +69,7 @@ Les statuts peuvent également prévoir que les décisions sont prises par voie 
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535087
 - Renvoie à : [art. L22-10-35 du Code de commerce](chapitre-x.md#article-l22-10-35) ; [art. L22-10-36 du Code de commerce](chapitre-x.md#article-l22-10-36) ; [art. L225-102-1 du Code de commerce](chapitre-v.md#article-l225-102-1) ; [art. L232-1-1 du Code de commerce](../titre-iii/chapitre-ii.md#article-l232-1-1) ; [art. L232-6-3 du Code de commerce](../titre-iii/chapitre-ii.md#article-l232-6-3) ; [art. L233-26 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-26) ; [art. L233-28-4 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-28-4) ; [Code de commerce, Chapitre X : Des sociétés dont les titres sont ](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000042338407)
-- Cité par : [art. L221-11 du Code de commerce](chapitre-ier.md#article-l221-11) ; [art. L238-1 du Code de commerce](../titre-iii/chapitre-viii.md#article-l238-1) ; [art. R221-6 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-6) ; [art. R221-7 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-7) ; [art. L214-162-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320541)
+- Cité par : [art. L221-11 du Code de commerce](chapitre-ier.md#article-l221-11) ; [art. L238-1 du Code de commerce](../titre-iii/chapitre-viii.md#article-l238-1) ; [art. R221-6 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-6) ; [art. R221-7 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-7) ; [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1)
 
 Le rapport de gestion, l'inventaire et les comptes annuels établis par les gérants sont soumis à l'approbation de l'assemblée des associés, dans le délai de six mois à compter de la clôture dudit exercice.
 
@@ -133,7 +133,7 @@ Les documents visés au premier alinéa de l'article L. 221-7 sont mis à la dis
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222547
 - Renvoie à : [art. 1843-4 du Code civil](../../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1843-4)
-- Cité par : [art. L214-162-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320541)
+- Cité par : [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1)
 
 Si tous les associés sont gérants ou si un ou plusieurs gérants choisis parmi les associés sont désignés dans les statuts, la révocation de l'un d'eux de ses fonctions ne peut être décidée qu'à l'unanimité des autres associés. Elle entraîne la dissolution de la société, à moins que sa continuation ne soit prévue par les statuts ou que les autres associés ne la décident à l'unanimité. Le gérant révoqué peut alors décider de se retirer de la société en demandant le remboursement de ses droits sociaux, dont la valeur est déterminée conformément à l'article 1843-4 du code civil. Toute clause contraire à l'article 1843-4 dudit code est réputée non écrite.  
 
@@ -147,7 +147,7 @@ Si la révocation est décidée sans juste motif, elle peut donner lieu à domma
 - Identifiant : LEGIARTI000039260285
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260285
-- Renvoie à : art. L411-1 du Code monétaire et financier
+- Renvoie à : [art. L411-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-1)
 
 Les parts sociales ne peuvent être représentées par des titres négociables. Toute émission réalisée en méconnaissance de cette règle est sanctionnée dans les conditions prévues au premier alinéa de l'article L. 411-1 du code monétaire et financier.  
 
@@ -160,7 +160,7 @@ Toute clause contraire aux dispositions du présent article est réputée non é
 - État : en vigueur depuis le 03/08/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029329292
 - Renvoie à : [art. 1690 du Code civil](../../../../code-civil/livre-iii/titre-vi/chapitre-viii.md#article-1690)
-- Cité par : [art. L223-17 du Code de commerce](chapitre-iii.md#article-l223-17) ; [art. R221-9 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-9) ; [art. R6223-65 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031932902)
+- Cité par : [art. L223-17 du Code de commerce](chapitre-iii.md#article-l223-17) ; [art. R221-9 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-9) ; [art. R6223-65 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-r6223-65)
 
 La cession des parts sociales doit être constatée par écrit. Elle est rendue opposable à la société, dans les formes prévues à l'article 1690 du code civil. Toutefois, la signification peut être remplacée par le dépôt d'un original de l'acte de cession au siège social contre remise par le gérant d'une attestation de ce dépôt.
 
@@ -191,7 +191,7 @@ En cas de continuation et si l'un ou plusieurs des héritiers de l'associé sont
 - État : en vigueur depuis le 01/01/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222664
 - Renvoie à : [art. 1843-4 du Code civil](../../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1843-4)
-- Cité par : [art. L222-11 du Code de commerce](chapitre-ii.md#article-l222-11) ; [art. L214-162-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320541)
+- Cité par : [art. L222-11 du Code de commerce](chapitre-ii.md#article-l222-11) ; [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1)
 
 Lorsqu'un jugement de liquidation judiciaire ou arrêtant un plan de cession totale, une mesure d'interdiction d'exercer une profession commerciale ou une mesure d'incapacité est devenu définitif à l'égard de l'un des associés, la société est dissoute, à moins que sa continuation ne soit prévue par les statuts ou que les autres associés ne la décident à l'unanimité.  
 

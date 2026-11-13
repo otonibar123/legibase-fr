@@ -10,8 +10,8 @@ Code du travail › Partie réglementaire › Première partie : Les relations i
 - Identifiant : LEGIARTI000035492419
 - État : en vigueur depuis le 01/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035492419
-- Renvoie à : [art. R717-13 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006596618) ; [art. R717-16 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006596621) ; art. L727-2 du Code rural et de la pêche maritime
-- Cité par : [art. D1272-1 du Code du travail](../titre-vii/chapitre-ii.md#article-d1272-1) ; [art. D1272-5 du Code du travail](../titre-vii/chapitre-ii.md#article-d1272-5) ; [art. R1221-3 du Code du travail](chapitre-ier.md#article-r1221-3) ; [art. R1221-6 du Code du travail](chapitre-ier.md#article-r1221-6) ; [art. R1227-1 du Code du travail](chapitre-vii.md#article-r1227-1) ; [art. R1524-1 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r1524-1) ; [art. R7122-20 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-20) ; [art. R1451-20 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048187711) ; [art. D712-15 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038251913)
+- Renvoie à : [art. L727-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-vii.md#article-l727-2) ; [art. R717-13 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-13) ; [art. R717-16 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-16)
+- Cité par : [art. R1451-20 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iv/titre-v/chapitre-ier.md#article-r1451-20) ; [art. D1272-1 du Code du travail](../titre-vii/chapitre-ii.md#article-d1272-1) ; [art. D1272-5 du Code du travail](../titre-vii/chapitre-ii.md#article-d1272-5) ; [art. R1221-3 du Code du travail](chapitre-ier.md#article-r1221-3) ; [art. R1221-6 du Code du travail](chapitre-ier.md#article-r1221-6) ; [art. R1227-1 du Code du travail](chapitre-vii.md#article-r1227-1) ; [art. R1524-1 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r1524-1) ; [art. R7122-20 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-20) ; [art. D712-15 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-ii-bis.md#article-d712-15)
 
 La déclaration préalable à l'embauche comporte les mentions suivantes :
 
@@ -29,7 +29,7 @@ La déclaration préalable à l'embauche comporte les mentions suivantes :
 - Identifiant : LEGIARTI000039809034
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039809034
-- Renvoie à : [art. L4622-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-7) ; [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. L4624-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2) ; [art. R4624-10 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-r4624-10) ; [art. R5422-5 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-r5422-5) ; art. R243-2 du Code de la sécurité sociale ; art. R312-4 du Code de la sécurité sociale ; [art. R717-13 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006596618) ; [art. R717-16 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006596621) ; art. L727-2 du Code rural et de la pêche maritime ; art. R722-34 du Code rural et de la pêche maritime
+- Renvoie à : [art. R243-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-2) ; [art. L4622-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-7) ; [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. L4624-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2) ; [art. R4624-10 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-r4624-10) ; [art. R5422-5 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-r5422-5) ; [art. L727-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-vii.md#article-l727-2) ; [art. R717-13 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-13) ; [art. R717-16 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-16) ; [art. R722-34 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md#article-r722-34) ; art. R312-4 du Code de la sécurité sociale
 - Cité par : [art. R1221-14 du Code du travail](chapitre-ier.md#article-r1221-14) ; [art. R1221-15 du Code du travail](chapitre-ier.md#article-r1221-15) ; [art. R1524-2 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r1524-2) ; [art. R1524-3 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r1524-3)
 
 Au moyen de la déclaration préalable à l'embauche, l'employeur accomplit les déclarations et demandes suivantes :
@@ -52,7 +52,7 @@ Au moyen de la déclaration préalable à l'embauche, l'employeur accomplit les 
 - Identifiant : LEGIARTI000039809055
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039809055
-- Renvoie à : [art. R1221-1 du Code du travail](chapitre-ier.md#article-r1221-1) ; art. L213-4 du Code de la sécurité sociale
+- Renvoie à : [art. L213-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-i/chapitre-3.md#article-l213-4) ; [art. R1221-1 du Code du travail](chapitre-ier.md#article-r1221-1)
 - Cité par : [art. R1221-5 du Code du travail](chapitre-ier.md#article-r1221-5) ; [art. R1221-14 du Code du travail](chapitre-ier.md#article-r1221-14) ; [art. R1221-16 du Code du travail](chapitre-ier.md#article-r1221-16) ; [art. R1221-17 du Code du travail](chapitre-ier.md#article-r1221-17) ; [art. R1221-18 du Code du travail](chapitre-ier.md#article-r1221-18) ; [art. R7122-20 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-20)
 
 La déclaration préalable à l'embauche est adressée par l'employeur :
@@ -77,7 +77,7 @@ La déclaration préalable à l'embauche est adressée au plus tôt dans les hui
 - État : en vigueur depuis le 28/12/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053220410
 - Renvoie à : [art. R1221-3 du Code du travail](chapitre-ier.md#article-r1221-3) ; [art. R1221-7 du Code du travail](chapitre-ier.md#article-r1221-7)
-- Cité par : [art. R1221-6 du Code du travail](chapitre-ier.md#article-r1221-6) ; [art. R7122-20 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-20) ; [art. D712-15 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038251913)
+- Cité par : [art. R1221-6 du Code du travail](chapitre-ier.md#article-r1221-6) ; [art. R7122-20 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-20) ; [art. D712-15 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-ii-bis.md#article-d712-15)
 
 La déclaration préalable à l'embauche est effectuée par voie électronique.
 
@@ -112,7 +112,7 @@ A défaut de contestation par l'employeur des informations figurant sur ce docum
 - Identifiant : LEGIARTI000024214311
 - État : en vigueur depuis le 01/08/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024214311
-- Renvoie à : [art. R243-14 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006748456) ; [art. R741-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006597630) ; art. R741-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. R243-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-14) ; [art. R741-2 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006597630)
 - Cité par : [art. R1221-12 du Code du travail](chapitre-ier.md#article-r1221-12) ; [art. R1227-2 du Code du travail](chapitre-vii.md#article-r1227-2) ; [art. R8221-2 du Code du travail](../../../huitieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-r8221-2)
 
 L'employeur conserve l'avis de réception jusqu'à l'accomplissement de la déclaration prévue par l'article R. 243-14 du code de la sécurité sociale pour les salariés non agricoles et par l'article R. 741-2 du code rural et de la pêche maritime pour les salariés agricoles.
@@ -123,7 +123,7 @@ L'employeur conserve l'avis de réception jusqu'à l'accomplissement de la décl
 - Identifiant : LEGIARTI000024214309
 - État : en vigueur depuis le 01/08/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024214309
-- Cité par : [art. R1227-2 du Code du travail](chapitre-vii.md#article-r1227-2) ; [art. R712-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051573451)
+- Cité par : [art. R1227-2 du Code du travail](chapitre-vii.md#article-r1227-2) ; [art. R712-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-ii.md#article-r712-9)
 
 Lors de l'embauche du salarié, l'employeur lui fournit une copie de la déclaration préalable à l'embauche ou de l'accusé de réception.
 
@@ -148,8 +148,8 @@ Sur toute demande des agents de contrôle mentionnés à l'article L. 8271-7, l'
 - Identifiant : LEGIARTI000024214298
 - État : en vigueur depuis le 01/08/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024214298
-- Renvoie à : [art. L1221-11 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-l1221-11) ; art. R243-19 du Code de la sécurité sociale ; art. L725-3 du Code rural et de la pêche maritime
-- Cité par : [art. R1524-4 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r1524-4) ; [art. D133-13-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048864504)
+- Renvoie à : [art. R243-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-14) ; [art. R243-19 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-19) ; [art. L1221-11 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-l1221-11) ; art. L725-3 du Code rural (nouveau)
+- Cité par : [art. D133-13-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-3-bis.md#article-d133-13-1) ; [art. R1524-4 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r1524-4)
 
 La pénalité prévue à l'article L. 1221-11 en cas de non-respect de l'obligation de déclaration préalable à l'embauche est recouvrée selon les modalités et dans les conditions fixées :
 
@@ -174,7 +174,7 @@ Ces destinataires finaux sont seuls compétents pour apprécier la validité des
 - Identifiant : LEGIARTI000049816315
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816315
-- Renvoie à : [art. R1221-2 du Code du travail](chapitre-ier.md#article-r1221-2) ; [art. R1221-14 du Code du travail](chapitre-ier.md#article-r1221-14) ; art. L727-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. R1221-2 du Code du travail](chapitre-ier.md#article-r1221-2) ; [art. R1221-14 du Code du travail](chapitre-ier.md#article-r1221-14) ; [art. L727-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-vii.md#article-l727-2)
 
 Les modalités de la transmission mentionnée à l'article R. 1221-14 sont fixées par voie de conventions passées :
 
@@ -204,7 +204,7 @@ Ces conventions prévoient les modalités de rémunération du service rendu par
 - Identifiant : LEGIARTI000024214263
 - État : en vigueur depuis le 01/08/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024214263
-- Renvoie à : [art. L1221-10 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-l1221-10) ; [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. R1221-3 du Code du travail](chapitre-ier.md#article-r1221-3) ; [art. R4622-4 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-r4622-4) ; [art. R4624-10 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-r4624-10) ; [art. R5422-5 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-r5422-5)
+- Renvoie à : [art. R243-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-2) ; [art. L1221-10 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-l1221-10) ; [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. R1221-3 du Code du travail](chapitre-ier.md#article-r1221-3) ; [art. R4622-4 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-r4622-4) ; [art. R4624-10 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-r4624-10) ; [art. R5422-5 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-r5422-5) ; [art. R717-14 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-14) ; [art. R722-34 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md#article-r722-34)
 
 L'organisme mentionné à l'article R. 1221-3 conserve les données qui y sont portées pendant un délai de six mois suivant la date de leur réception pour les besoins des administrations, services, organismes ou institutions concernés.
 
@@ -212,7 +212,7 @@ L'organisme mentionné à l'article R. 1221-3 conserve les données qui y sont p
 - Identifiant : LEGIARTI000049816312
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816312
-- Renvoie à : [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. R1221-3 du Code du travail](chapitre-ier.md#article-r1221-3)
+- Renvoie à : [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. R1221-3 du Code du travail](chapitre-ier.md#article-r1221-3) ; [art. L727-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-vii.md#article-l727-2)
 
 L'organisme mentionné à l'article R. 1221-3 transmet à l'opérateur France Travail les informations suivantes portées sur la déclaration préalable à l'embauche :
 
@@ -255,7 +255,7 @@ II. - Les employeurs dont le personnel relève du régime de protection sociale 
 - Identifiant : LEGIARTI000029134104
 - État : en vigueur depuis le 01/10/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029134104
-- Cité par : [art. R741-26 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039343747)
+- Cité par : [art. R741-26 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-iv/chapitre-ier.md#article-r741-26)
 
 La méconnaissance de l'obligation de déclaration préalable à l'embauche dématérialisée entraîne l'application d'une pénalité égale, par salarié, à 0,5 % du plafond mensuel de la sécurité sociale.
 

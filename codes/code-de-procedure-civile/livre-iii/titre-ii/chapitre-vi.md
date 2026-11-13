@@ -64,6 +64,7 @@ L'ordonnance est notifiée par le greffe par lettre recommandée avec demande d'
 - Identifiant : LEGIARTI000044929233
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929233
+- Renvoie à : [art. R322-30 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-30)
 
 A la diligence du créancier poursuivant, il est procédé aux formalités de publicité dans les conditions prévues par les articles R. 322-30 à R. 322-38 du code des procédures civiles d'exécution, avec la précision du montant de la surenchère.
 
@@ -90,6 +91,7 @@ Il contient :
 - Identifiant : LEGIARTI000044929226
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929226
+- Renvoie à : [art. R322-39 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-39) ; [art. R322-66 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-66)
 
 Il est procédé à la vente aux enchères dans les conditions prévues aux articles R. 322-39 à R. 322-63 du code des procédures civiles d'exécution.
 
@@ -103,7 +105,7 @@ La réitération des enchères peut être poursuivie dans les conditions prévue
 - Identifiant : LEGIARTI000044929241
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929241
-- Renvoie à : [art. R311-9 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929852)
+- Renvoie à : [art. R311-9 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-9)
 
 En cas de carence du créancier poursuivant ou du tiers acquéreur, la subrogation peut être demandée par les créanciers inscrits dans les formes prévues par l'article R. 311-9 du même code.
 

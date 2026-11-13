@@ -22,7 +22,7 @@ Le reclassement des travailleurs handicapés comporte :
 - État : en vigueur depuis le 01/01/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028698774
 - Renvoie à : [art. L6121-2 du Code du travail](../../../sixieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l6121-2)
-- Cité par : [art. D5211-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-d5211-1) ; [art. L4622-8-1 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-8-1) ; [art. L723-3 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044797168)
+- Cité par : [art. D5211-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-d5211-1) ; [art. L4622-8-1 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-8-1) ; [art. L723-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-3)
 
 La région est chargée, dans le cadre du service public régional de la formation professionnelle défini à l'article L. 6121-2, de l'accès à la formation et à la qualification professionnelle des personnes handicapées.
 
@@ -48,7 +48,7 @@ Elle définit et met en œuvre un programme régional d'accès à la formation e
 - Identifiant : LEGIARTI000028698768
 - État : en vigueur depuis le 01/01/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028698768
-- Renvoie à : [art. L5211-5 du Code du travail](chapitre-ier.md#article-l5211-5) ; art. L312-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1) ; [art. L214-13 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iv.md#article-l214-13) ; [art. L5211-5 du Code du travail](chapitre-ier.md#article-l5211-5)
 - Cité par : [art. L5211-5 du Code du travail](chapitre-ier.md#article-l5211-5) ; [art. L6121-2 du Code du travail](../../../sixieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l6121-2) ; [art. R6123-3-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r6123-3-2)
 
 Le programme régional d'accès à la formation et à la qualification professionnelle des personnes handicapées a pour objectif de répondre à leurs besoins de développement de compétences afin de faciliter leur insertion professionnelle.

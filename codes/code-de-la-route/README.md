@@ -1,0 +1,179 @@
+# Code de la route
+
+Dernière modification du texte dans LEGI : 25/10/2026. 1141 articles en vigueur, répartis dans 132 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre 1er : Dispositions générales**
+    - [Titre 1er : Définitions.](partie-legislative/livre-1er/titre-1er.md) (3 articles)
+    - **Titre 2 : Responsabilité**
+      - [Chapitre 1er : Responsabilité pénale.](partie-legislative/livre-1er/titre-2/chapitre-1er.md) (5 articles)
+      - [Chapitre 2 : Indemnisation des victimes d'accidents de la circulation.](partie-legislative/livre-1er/titre-2/chapitre-2.md) (1 article)
+      - [Chapitre 3 : Responsabilité pénale applicable en cas de circulation d'un véhicule à délégation de conduite](partie-legislative/livre-1er/titre-2/chapitre-3.md) (3 articles)
+    - [Titre 3 : Recherche et constatation des infractions.](partie-legislative/livre-1er/titre-3.md) (8 articles)
+    - [Titre 3 bis : Conseil national de la sécurité routière](partie-legislative/livre-1er/titre-3-bis.md) (1 article)
+    - [Titre 3 ter : Signalement des contrôles routiers par les services électroniques d'aide à la conduite ou à la navigation](partie-legislative/livre-1er/titre-3-ter.md) (1 article)
+    - **Titre 4 : Dispositions relatives à l'outre-mer**
+      - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-legislative/livre-1er/titre-4/chapitre-1er.md) (1 article)
+      - [Chapitre 2 : Dispositions applicables à Mayotte.](partie-legislative/livre-1er/titre-4/chapitre-2.md) (2 articles)
+      - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna](partie-legislative/livre-1er/titre-4/chapitre-3.md) (2 articles)
+  - **Livre 2 : Le conducteur**
+    - **Titre 1er : Enseignement de la conduite et de la sécurité routière**
+      - [Chapitre 1er : Formation à la conduite et à la sécurité routière.](partie-legislative/livre-2/titre-1er/chapitre-1er.md) (8 articles)
+      - [Chapitre 2 : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière](partie-legislative/livre-2/titre-1er/chapitre-2.md) (5 articles)
+      - [Chapitre 3 : Etablissements d'enseignement et d'animation de stages de sensibilisation à la sécurité routière.](partie-legislative/livre-2/titre-1er/chapitre-3.md) (11 articles)
+    - **Titre 2 : Permis de conduire**
+      - [Chapitre 1er : Vérification d'aptitude, délivrance et catégories.](partie-legislative/livre-2/titre-2/chapitre-1er.md) (12 articles)
+      - [Chapitre 3 : Permis à points.](partie-legislative/livre-2/titre-2/chapitre-3.md) (7 articles)
+      - [Chapitre 3 bis : Points affectés au conducteur titulaire d'un permis de conduire délivré par une autorité étrangère](partie-legislative/livre-2/titre-2/chapitre-3-bis.md) (2 articles)
+      - [Chapitre 4 : Interdiction de délivrance, rétention, suspension et annulation.](partie-legislative/livre-2/titre-2/chapitre-4.md) (15 articles)
+      - [Chapitre 5 : Enregistrement et communication des informations relatives au permis de conduire.](partie-legislative/livre-2/titre-2/chapitre-5.md) (9 articles)
+    - **Titre 3 : Comportement du conducteur**
+      - [Chapitre 1er : Comportement en cas d'accident.](partie-legislative/livre-2/titre-3/chapitre-1er.md) (3 articles)
+      - [Chapitre 2 : Atteintes involontaires aux personnes.](partie-legislative/livre-2/titre-3/chapitre-2.md) (4 articles)
+      - [Chapitre 3 : Comportement en cas de contrôle routier.](partie-legislative/livre-2/titre-3/chapitre-3.md) (4 articles)
+      - [Chapitre 4 : Conduite sous l'influence de l'alcool.](partie-legislative/livre-2/titre-3/chapitre-4.md) (13 articles)
+      - [Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants](partie-legislative/livre-2/titre-3/chapitre-5.md) (3 articles)
+      - [Chapitre 6 : Comportements compromettant délibérément la sécurité ou la tranquillité des usagers de la route](partie-legislative/livre-2/titre-3/chapitre-6.md) (3 articles)
+      - [Chapitre 7 : Conduite malgré l'usage ou la consommation manifeste de substances entraînant une altération de la vigilance](partie-legislative/livre-2/titre-3/chapitre-7.md) (4 articles)
+    - **Titre 4 : Dispositions relatives à l'outre-mer**
+      - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-legislative/livre-2/titre-4/chapitre-1er.md) (1 article)
+      - [Chapitre 2 : Dispositions applicables à Mayotte.](partie-legislative/livre-2/titre-4/chapitre-2.md) (2 articles)
+      - [Chapitre 3 : Dispositions applicables à la Nouvelle-Calédonie.](partie-legislative/livre-2/titre-4/chapitre-3.md) (3 articles)
+      - [Chapitre 4 : Dispositions applicables à la Polynésie française.](partie-legislative/livre-2/titre-4/chapitre-4.md) (4 articles)
+      - [Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.](partie-legislative/livre-2/titre-4/chapitre-5.md) (4 articles)
+  - **Livre 3 : Le véhicule**
+    - **Titre 1er : Dispositions techniques**
+      - [Chapitre 1er : Dispositions générales et définitions.](partie-legislative/livre-3/titre-1er/chapitre-1er.md) (2 articles)
+      - [Chapitre 2 : Poids et dimensions.](partie-legislative/livre-3/titre-1er/chapitre-2.md) (1 article)
+      - [Chapitre 3 : Eclairage et signalisations.](partie-legislative/livre-3/titre-1er/chapitre-3.md) (1 article)
+      - [Chapitre 4 : Pneumatiques.](partie-legislative/livre-3/titre-1er/chapitre-4.md) (1 article)
+      - [Chapitre 7 : Dispositifs et aménagements particuliers.](partie-legislative/livre-3/titre-1er/chapitre-7.md) (13 articles)
+      - [Chapitre 8 : Energie, émissions polluantes et nuisances.](partie-legislative/livre-3/titre-1er/chapitre-8.md) (2 articles)
+      - [Chapitre 9 : Dispositions applicables au véhicule à délégation de conduite](partie-legislative/livre-3/titre-1er/chapitre-9.md) (4 articles)
+    - **Titre 2 : Dispositions administratives**
+      - [Chapitre 1er : Réception et homologation.](partie-legislative/livre-3/titre-2/chapitre-1er.md) (8 articles)
+      - [Chapitre 2 : Immatriculation.](partie-legislative/livre-3/titre-2/chapitre-2.md) (4 articles)
+      - [Chapitre 3 : Contrôle technique.](partie-legislative/livre-3/titre-2/chapitre-3.md) (1 article)
+      - [Chapitre 4 : Assurance.](partie-legislative/livre-3/titre-2/chapitre-4.md) (1 article)
+      - [Chapitre 5 : Immobilisation et mise en fourrière.](partie-legislative/livre-3/titre-2/chapitre-5.md) (13 articles)
+      - [Chapitre 6 : Organisation de la profession d'expert en automobile.](partie-legislative/livre-3/titre-2/chapitre-6.md) (9 articles)
+      - [Chapitre 7 : Véhicules endommagés.](partie-legislative/livre-3/titre-2/chapitre-7.md) (6 articles)
+      - [Chapitre 8 : Messages promotionnels](partie-legislative/livre-3/titre-2/chapitre-8.md) (2 articles)
+      - [Chapitre 9 : Surveillance du marché des véhicules à moteur](partie-legislative/livre-3/titre-2/chapitre-9.md) (48 articles)
+    - [Titre 3 : Enregistrement et communication des informations relatives à la circulation des véhicules.](partie-legislative/livre-3/titre-3.md) (6 articles)
+    - **Titre 4 : Dispositions relatives à l'outre-mer**
+      - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-legislative/livre-3/titre-4/chapitre-1er.md) (1 article)
+      - [Chapitre 2 : Dispositions applicables à Mayotte.](partie-legislative/livre-3/titre-4/chapitre-2.md) (3 articles)
+      - [Chapitre 3 : Dispositions applicables à la Polynésie française.](partie-legislative/livre-3/titre-4/chapitre-3.md) (1 article)
+      - [Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie.](partie-legislative/livre-3/titre-4/chapitre-4.md) (1 article)
+  - **Livre 4 : L'usage des voies**
+    - **Titre 1er : Dispositions générales**
+      - [Chapitre 1er : Pouvoirs de police de la circulation.](partie-legislative/livre-4/titre-1er/chapitre-1er.md) (10 articles)
+      - [Chapitre 2 : Conduite des véhicules et circulation des piétons.](partie-legislative/livre-4/titre-1er/chapitre-2.md) (1 article)
+      - [Chapitre 3 : Vitesse.](partie-legislative/livre-4/titre-1er/chapitre-3.md) (5 articles)
+      - [Chapitre 7 : Arrêt et stationnement.](partie-legislative/livre-4/titre-1er/chapitre-7.md) (1 article)
+    - **Titre 3 : Dispositions complémentaires applicables à la circulation de certains véhicules**
+      - [Chapitre 1er : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.](partie-legislative/livre-4/titre-3/chapitre-1er.md) (1 article)
+      - [Chapitre 3 : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque.](partie-legislative/livre-4/titre-3/chapitre-3.md) (1 article)
+    - **Titre 4 : Dispositions relatives à l'outre-mer**
+      - [Chapitre 1er : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-legislative/livre-4/titre-4/chapitre-1er.md) (2 articles)
+      - [Chapitre 2 : Dispositions applicables à Mayotte.](partie-legislative/livre-4/titre-4/chapitre-2.md) (2 articles)
+      - [Chapitre 3 : Dispositions applicables à la Polynésie française.](partie-legislative/livre-4/titre-4/chapitre-3.md) (1 article)
+      - [Chapitre 4 : Dispositions applicables en Nouvelle-Calédonie.](partie-legislative/livre-4/titre-4/chapitre-4.md) (1 article)
+- **Partie réglementaire**
+  - **Livre Ier : Dispositions générales**
+    - [Titre Ier : Définitions.](partie-reglementaire/livre-ier/titre-ier.md) (3 articles)
+    - **Titre II : Responsabilité.**
+      - [Chapitre Ier : Responsabilité pénale.](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (6 articles)
+    - [Titre III : Recherche et constatation des infractions.](partie-reglementaire/livre-ier/titre-iii.md) (14 articles)
+    - [Titre III ter : Signalement des contrôles routiers par les services électroniques d'aide à la conduite ou à la navigation](partie-reglementaire/livre-ier/titre-iii-ter.md) (1 article)
+    - **Titre IV : Dispositions relatives à l'outre-mer.**
+      - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions applicables à Mayotte.](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna](partie-reglementaire/livre-ier/titre-iv/chapitre-3.md) (1 article)
+  - **Livre II : Le conducteur.**
+    - **Titre Ier : Enseignement de la conduite et de la sécurité routière.**
+      - [Chapitre Ier : Formation à la conduite et à la sécurité routière](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière.](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière.](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Conseil supérieur de l'éducation routière (CSER)](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (4 articles)
+    - **Titre II : Permis de conduire.**
+      - [Chapitre Ier : Vérification d'aptitude, délivrance et catégories](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (41 articles)
+      - [Chapitre II : Reconnaissance et équivalences.](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Permis à points.](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (11 articles)
+      - [Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (19 articles)
+      - [Chapitre V : Enregistrement et communication des informations relatives au permis de conduire.](partie-reglementaire/livre-ii/titre-ii/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite](partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md) (5 articles)
+      - [Chapitre VII : Permis de conduire international](partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md) (1 article)
+    - **Titre III : Comportement du conducteur.**
+      - [Chapitre Ier : Comportement en cas d'accident.](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Comportement en cas de contrôle routier.](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Conduite sous l'influence de l'alcool.](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants](partie-reglementaire/livre-ii/titre-iii/chapitre-v.md) (13 articles)
+    - **Titre IV : Dispositions relatives à l'outre-mer.**
+      - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions applicables à Mayotte.](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.](partie-reglementaire/livre-ii/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions applicables à la Polynésie française.](partie-reglementaire/livre-ii/titre-iv/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Dispositions applicables au territoire des îles Wallis-et-Futuna.](partie-reglementaire/livre-ii/titre-iv/chapitre-v.md) (3 articles)
+  - **Livre III : Le véhicule.**
+    - **Titre Ier : Dispositions techniques.**
+      - [Chapitre Ier : Dispositions générales et définitions.](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Poids et dimensions](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (26 articles)
+      - [Chapitre III : Eclairage et signalisations](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (42 articles)
+      - [Chapitre IV : Pneumatiques.](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Freinage.](partie-reglementaire/livre-iii/titre-ier/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Organes de manoeuvre, de direction et de visibilité.](partie-reglementaire/livre-iii/titre-ier/chapitre-vi.md) (11 articles)
+      - [Chapitre VII : Dispositifs et aménagements particuliers](partie-reglementaire/livre-iii/titre-ier/chapitre-vii.md) (33 articles)
+      - [Chapitre VIII : Energie, émissions polluantes et nuisances.](partie-reglementaire/livre-iii/titre-ier/chapitre-viii.md) (7 articles)
+      - [Chapitre IX : Dispositions applicables au véhicule à délégation de conduite](partie-reglementaire/livre-iii/titre-ier/chapitre-ix.md) (1 article)
+    - **Titre II : Dispositions administratives.**
+      - [Chapitre Ier : Réception et homologation](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (31 articles)
+      - [Chapitre II : Immatriculation](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Contrôle technique](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (33 articles)
+      - [Chapitre V : Immobilisation et mise en fourrière](partie-reglementaire/livre-iii/titre-ii/chapitre-v.md) (55 articles)
+      - [Chapitre VI : Organisation de la profession d'expert en automobile](partie-reglementaire/livre-iii/titre-ii/chapitre-vi.md) (16 articles)
+      - [Chapitre VII : Véhicules endommagés](partie-reglementaire/livre-iii/titre-ii/chapitre-vii.md) (7 articles)
+      - [Chapitre VIII : Messages promotionnels](partie-reglementaire/livre-iii/titre-ii/chapitre-viii.md) (4 articles)
+      - [Chapitre IX : Surveillance du marché des véhicules à moteur](partie-reglementaire/livre-iii/titre-ii/chapitre-ix.md) (25 articles)
+    - [Titre III : Enregistrement et communication des informations relatives à la circulation des véhicules.](partie-reglementaire/livre-iii/titre-iii.md) (11 articles)
+    - **Titre IV : Dispositions relatives à l'outre-mer.**
+      - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions applicables à Mayotte.](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions applicables à la Polynésie française](partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Dispositions applicables à la Nouvelle-Calédonie](partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md) (5 articles)
+    - [Titre V : Dispositions relatives aux démarches effectuées par voie électronique](partie-reglementaire/livre-iii/titre-v.md) (3 articles)
+  - **Livre IV : L'usage des voies.**
+    - **Titre Ier : Dispositions générales.**
+      - [Chapitre Ier : Pouvoirs de police de la circulation](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (35 articles)
+      - [Chapitre II : Conduite des véhicules et circulation des piétons](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (66 articles)
+      - [Chapitre III : Vitesse](partie-reglementaire/livre-iv/titre-ier/chapitre-iii.md) (21 articles)
+      - [Chapitre IV : Croisement et dépassement](partie-reglementaire/livre-iv/titre-ier/chapitre-iv.md) (18 articles)
+      - [Chapitre V : Intersections et priorité de passage.](partie-reglementaire/livre-iv/titre-ier/chapitre-v.md) (15 articles)
+      - [Chapitre VI : Usage des dispositifs d'éclairage et de signalisation](partie-reglementaire/livre-iv/titre-ier/chapitre-vi.md) (20 articles)
+      - [Chapitre VII : Arrêt et stationnement](partie-reglementaire/livre-iv/titre-ier/chapitre-vii.md) (13 articles)
+      - [Chapitre VIII : Publicité, enseignes et préenseignes.](partie-reglementaire/livre-iv/titre-ier/chapitre-viii.md) (9 articles)
+      - [Chapitre IX : Péages](partie-reglementaire/livre-iv/titre-ier/chapitre-ix.md) (2 articles)
+    - **Titre II : Dispositions complémentaires applicables sur certaines voies.**
+      - [Chapitre Ier : Autoroutes.](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Voies à circulation spécialisée et ouvrages d'art.](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (5 articles)
+    - **Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.**
+      - [Chapitre Ier : Motocyclettes, tricycles et quadricycles à moteur, cyclomoteurs et cycles.](partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Véhicules d'intérêt général](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque](partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md) (22 articles)
+      - [Chapitre IV : Convois et véhicules à traction animale.](partie-reglementaire/livre-iv/titre-iii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Autres véhicules](partie-reglementaire/livre-iv/titre-iii/chapitre-v.md) (6 articles)
+    - **Titre IV : Dispositions relatives à l'outre-mer.**
+      - [Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Dispositions applicables à Mayotte.](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (7 articles)
+- **Partie arrêtés**
+  - **Livre 1er : Dispositions générales**
+    - **Titre 2 : Responsabilité**
+      - [Chapitre 1er : Responsabilité pénale](partie-arretes/livre-1er/titre-2/chapitre-1er.md) (4 articles)
+    - **Titre 4 : Dispositions relatives à l'outre-mer**
+      - [Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna](partie-arretes/livre-1er/titre-4/chapitre-3.md) (1 article)
+  - **Livre 3 : Le véhicule**
+    - **Titre 2 : Dispositions administratives**
+      - [Chapitre 5 : Immobilisation et mise en fourrière](partie-arretes/livre-3/titre-2/chapitre-5.md) (3 articles)

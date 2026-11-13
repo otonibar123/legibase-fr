@@ -8,7 +8,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - Identifiant : LEGIARTI000006903189
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903189
-- Cité par : [art. D1242-4 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-d1242-4) ; [art. D4154-3 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-ier/titre-v/chapitre-iv.md#article-d4154-3) ; [art. L1242-6 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-l1242-6) ; [art. L1251-10 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-10) ; [art. L1254-4 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-l1254-4)
+- Cité par : [art. R592-7-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-ix/chapitre-ii.md#article-r592-7-1) ; [art. D1242-4 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-d1242-4) ; [art. D4154-3 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-ier/titre-v/chapitre-iv.md#article-d4154-3) ; [art. L1242-6 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-l1242-6) ; [art. L1251-10 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-10) ; [art. L1254-4 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-l1254-4)
 
 Il est interdit de recourir à un salarié titulaire d'un contrat de travail à durée déterminée ou à un salarié temporaire pour l'exécution de travaux particulièrement dangereux figurant sur une liste établie par voie réglementaire. Cette liste comporte notamment certains des travaux qui font l'objet d'une surveillance médicale renforcée au sens de la réglementation relative à la médecine du travail.  
 
@@ -31,7 +31,7 @@ La liste de ces postes de travail est établie par l'employeur, après avis du m
 - Identifiant : LEGIARTI000020627449
 - État : en vigueur depuis le 14/05/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020627449
-- Renvoie à : [art. L4154-2 du Code du travail](chapitre-iv.md#article-l4154-2) ; art. L452-1 du Code de la sécurité sociale
+- Renvoie à : [art. L452-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-v/chapitre-2.md#article-l452-1) ; [art. L4154-2 du Code du travail](chapitre-iv.md#article-l4154-2)
 
 La faute inexcusable de l'employeur prévue à l'article L. 452-1 du code de la sécurité sociale est présumée établie pour les salariés titulaires d'un contrat de travail à durée déterminée, les salariés temporaires et les stagiaires en entreprise victimes d'un accident du travail ou d'une maladie professionnelle alors qu'affectés à des postes de travail présentant des risques particuliers pour leur santé ou leur sécurité ils n'auraient pas bénéficié de la formation à la sécurité renforcée prévue par l'article L. 4154-2.
 

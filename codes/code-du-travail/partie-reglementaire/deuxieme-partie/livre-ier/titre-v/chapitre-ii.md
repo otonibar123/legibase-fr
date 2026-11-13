@@ -28,7 +28,7 @@ Pour les entreprises et exploitations mentionnées au cinquième alinéa de l'ar
 - État : en vigueur depuis le 14/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030730076
 - Renvoie à : [art. R2152-1 du Code du travail](chapitre-ii.md#article-r2152-1)
-- Cité par : [art. R2152-4 du Code du travail](chapitre-ii.md#article-r2152-4) ; [art. R2152-8 du Code du travail](chapitre-ii.md#article-r2152-8) ; [art. R2152-9 du Code du travail](chapitre-ii.md#article-r2152-9) ; [art. R612-12 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042363304)
+- Cité par : [art. R612-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-i/chapitre-2.md#article-r612-12) ; [art. R2152-4 du Code du travail](chapitre-ii.md#article-r2152-4) ; [art. R2152-8 du Code du travail](chapitre-ii.md#article-r2152-8) ; [art. R2152-9 du Code du travail](chapitre-ii.md#article-r2152-9)
 
 Sont également prises en compte comme entreprises adhérentes celles qui, selon les modalités fixées par une délibération de l'organe compétent de l'organisation ou de la structure territoriale statutaire de cette organisation, s'acquittent d'une cotisation dont le montant est réduit, pour tenir compte d'une adhésion en cours d'année ou de tout autre motif prévu par la délibération précitée, sous réserve que cette réduction n'excède pas de moitié la cotisation due en application des règles mentionnées à l'article R. 2152-1.
 
@@ -53,7 +53,7 @@ Lorsque l'adhésion de plusieurs entreprises est effectuée par l'une d'entre el
 - État : en vigueur depuis le 14/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030730082
 - Renvoie à : [art. L2152-5 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-5)
-- Cité par : [Arrêté du 21 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050665116) ; [Arrêté du 22 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050049735) ; [art. R612-12 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042363304) ; [Décret n°2020-927 du 29 juillet 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042173235)
+- Cité par : [art. R612-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-i/chapitre-2.md#article-r612-12) ; [Arrêté du 21 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050665116) ; [Arrêté du 22 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050049735) ; [Décret n°2020-927 du 29 juillet 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042173235)
 
 Pour être pris en compte, l'adhérent doit avoir payé au 31 mars de l'année de la déclaration de candidature prévue à l'article L. 2152-5 l'intégralité des cotisations dues au titre de l'année précédente.
 
@@ -108,7 +108,7 @@ Le respect du critère de l'audience défini au 6° de l'article L. 2151-1 est a
 - Identifiant : LEGIARTI000033288672
 - État : en vigueur depuis le 23/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033288672
-- Renvoie à : [art. L2152-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-1) ; [art. L2152-5 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-5) ; [art. R2152-1 du Code du travail](chapitre-ii.md#article-r2152-1) ; [art. R2152-2 du Code du travail](chapitre-ii.md#article-r2152-2) ; [art. R2152-6 du Code du travail](chapitre-ii.md#article-r2152-6) ; art. L722-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L2152-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-1) ; [art. L2152-5 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-5) ; [art. R2152-1 du Code du travail](chapitre-ii.md#article-r2152-1) ; [art. R2152-2 du Code du travail](chapitre-ii.md#article-r2152-2) ; [art. R2152-6 du Code du travail](chapitre-ii.md#article-r2152-6) ; [art. L722-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-ii.md#article-l722-1)
 - Cité par : [art. R2152-14 du Code du travail](chapitre-ii.md#article-r2152-14) ; [Décret n°2020-927 du 29 juillet 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042173235)
 
 I.-Pour la mesure de l'audience d'une organisation professionnelle d'employeurs prévue au 3° de l'article L. 2152-1, sont prises en compte les entreprises relevant de la branche professionnelle concernée et adhérentes à cette organisation professionnelle à ce niveau ou à une structure territoriale statutaire de cette organisation.
@@ -209,7 +209,7 @@ Cet arrêté fixe notamment la période de dépôt des candidatures.
 - Identifiant : LEGIARTI000030730106
 - État : en vigueur depuis le 14/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030730106
-- Renvoie à : [art. L2152-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-1) ; art. L722-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L2152-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-1) ; [art. L722-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-ii.md#article-l722-1)
 
 L'organisation professionnelle d'employeurs qui souhaite voir établie sa représentativité en application de l'article L. 2152-1 dans plusieurs branches professionnelles dépose une déclaration de candidature au titre de chacune des branches dans laquelle elle est candidate.  
 
@@ -313,6 +313,6 @@ Le ministre chargé du travail présente au Haut Conseil du dialogue social les 
 - Identifiant : LEGIARTI000034266722
 - État : en vigueur depuis le 25/03/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034266722
-- Renvoie à : [art. L2152-6 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-6) ; art. R311-2 du Code de justice administrative
+- Renvoie à : [art. R311-2 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md#article-r311-2) ; [art. L2152-6 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l2152-6)
 
 Les recours dirigés contre les arrêtés pris en application de l'article L. 2152-6 sont portés devant la juridiction désignée par l'article R. 311-2 du code de justice administrative.

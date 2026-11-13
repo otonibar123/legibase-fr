@@ -65,7 +65,7 @@ Ce droit d'accès s'exerce dans des conditions garantissant le caractère confid
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052016557
 - Renvoie à : [art. L4644-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-iv/chapitre-iv.md#article-l4644-1)
-- Cité par : [Arrêté du 2 octobre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048211922) ; [Arrêté du 2 octobre 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048211925) ; [art. R717-56-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035492318) ; [Décret n°2025-729 du 29 juillet 2025, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052012842)
+- Cité par : [art. R717-56-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-56-2) ; [Arrêté du 2 octobre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048211922) ; [Arrêté du 2 octobre 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048211925) ; [Décret n°2025-729 du 29 juillet 2025, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052012842)
 
 Le dossier de l'enregistrement prévu à l'article L. 4644-1 est adressé au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi du domicile du demandeur par tout moyen conférant date certaine à sa réception. Il contient :
 

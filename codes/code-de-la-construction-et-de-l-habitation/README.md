@@ -1,0 +1,503 @@
+# Code de la construction et de l'habitation
+
+Dernière modification du texte dans LEGI : 09/10/2026. 4063 articles en vigueur, répartis dans 363 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : Construction, entretien et rénovation des bâtiments**
+    - **Titre Ier : Règles générales applicables à la construction et la rénovation de bâtiments**
+      - [Chapitre Ier : Définitions](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Principes généraux de respect des règles de construction](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Autres règles applicables aux bâtiments](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (20 articles)
+    - **Titre II : Encadrement de la conception, de la réalisation, de l'exploitation et des mutations des bâtiments**
+      - [Chapitre Ier : Structures de conseil et de recherche pour le secteur de la construction](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Procédures administratives](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Responsabilités et assurances](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Contrats et marchés](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Contrôle technique](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Exploitation des bâtiments](partie-legislative/livre-ier/titre-ii/chapitre-vi.md) (51 articles)
+    - **Titre III : Règles générales de sécurité**
+      - [Chapitre Ier : Stabilité et solidité](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Prévention des risques naturels](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Prévention des risques technologiques et miniers](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Sécurité d'usage des bâtiments](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (13 articles)
+    - **Titre IV : Sécurité des personnes contre les risques d'incendie**
+      - [Chapitre Ier : Objectifs généraux de sécurité contre les risques d'incendie](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Bâtiments d'habitation](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Etablissements recevant du public](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre V : Immeubles de moyenne hauteur](partie-legislative/livre-ier/titre-iv/chapitre-v.md) (1 article)
+      - [Chapitre VI : Immeubles de grande hauteur](partie-legislative/livre-ier/titre-iv/chapitre-vi.md) (1 article)
+    - **Titre V : Qualité sanitaire**
+      - [Chapitre Ier : Objectifs généraux de qualité sanitaire des bâtiments](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Réseaux d'eau](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Qualité d'air intérieur](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Acoustique](partie-legislative/livre-ier/titre-v/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Ouvertures](partie-legislative/livre-ier/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Règles dimensionnelles](partie-legislative/livre-ier/titre-v/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Autres équipements](partie-legislative/livre-ier/titre-v/chapitre-vii.md) (2 articles)
+    - **Titre VI : Accessibilité**
+      - [Chapitre Ier : Objectifs généraux d'accessibilité des bâtiments](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Construction de bâtiments](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : Modification de bâtiments existants](partie-legislative/livre-ier/titre-vi/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Etablissements recevant du public existants](partie-legislative/livre-ier/titre-vi/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Agendas d'accessibilité programmée](partie-legislative/livre-ier/titre-vi/chapitre-v.md) (7 articles)
+    - **Titre VII : Performance énergétique et environnementale**
+      - [Chapitre Ier : Objectifs généraux de performance énergétique et environnementale](partie-legislative/livre-ier/titre-vii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Construction de bâtiments](partie-legislative/livre-ier/titre-vii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Bâtiments existants](partie-legislative/livre-ier/titre-vii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Suivi de l'efficacité énergétique et environnementale](partie-legislative/livre-ier/titre-vii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Entretien et renouvellement des systèmes techniques](partie-legislative/livre-ier/titre-vii/chapitre-v.md) (2 articles)
+    - **Titre VIII : Contrôle et sanctions**
+      - [Titre VIII : Contrôle et sanctions : articles rattachés directement](partie-legislative/livre-ier/titre-viii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Contrôles administratifs et sanctions administratives](partie-legislative/livre-ier/titre-viii/chapitre-ier.md) (14 articles)
+      - [Chapitre III : Recherche et constations des infractions et sanctions pénales applicables](partie-legislative/livre-ier/titre-viii/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : Règles de sécurité](partie-legislative/livre-ier/titre-viii/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Règles en matière énergétique](partie-legislative/livre-ier/titre-viii/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Sécurité des ascenseurs](partie-legislative/livre-ier/titre-viii/chapitre-vi.md) (8 articles)
+    - **Titre IX : Dispositions particulières à l'outre-mer**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-ix/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, la Réunion et Mayotte](partie-legislative/livre-ier/titre-ix/chapitre-ii.md) (7 articles)
+  - **Livre II : Statut des constructeurs.**
+    - **Titre préliminaire : Les sociétés d'habitat participatif**
+      - [Titre préliminaire : Les sociétés d'habitat participatif : articles rattachés directement](partie-legislative/livre-ii/titre-preliminaire/articles-directs.md) (12 articles)
+      - [Chapitre Ier : Les coopératives d'habitants](partie-legislative/livre-ii/titre-preliminaire/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Les sociétés d'attribution et d'autopromotion](partie-legislative/livre-ii/titre-preliminaire/chapitre-ii.md) (12 articles)
+    - **Titre Ier : Statut des sociétés de construction.**
+      - [Titre Ier : Statut des sociétés de construction. : articles rattachés directement](partie-legislative/livre-ii/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre Ier : Sociétés civiles constituées en vue de la vente d'immeubles.](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Sociétés constituées en vue de l'attribution d'immeubles aux associés par fractions divises.](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (17 articles)
+      - [Chapitre III : Sociétés coopératives de construction.](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : Dispositions particulières communes aux sociétés constituées en vue de l'attribution d'immeubles aux associés par fractions divises et aux sociétés coopératives de construction](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (10 articles)
+    - **Titre II : Promotion immobilière.**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Dispositions particulières au contrat de promotion immobilière pour la construction d'immeubles à usage d'habitation ou à usage professionnel et d'habitation.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (7 articles)
+    - **Titre III : Construction d'une maison individuelle.**
+      - [Titre III : Construction d'une maison individuelle. : articles rattachés directement](partie-legislative/livre-ii/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Contrat de construction d'une maison individuelle avec fourniture du plan.](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Contrat de construction d'une maison individuelle sans fourniture du plan.](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (2 articles)
+    - **Titre IV : Dispositions communes diverses.**
+      - [Chapitre Ier : Dispositions pénales.](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Dispositions diverses.](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (4 articles)
+    - **Titre V : Bail à construction, bail à réhabilitation, bail dans le cadre d'une convention d'usufruit, bail réel immobilier, bail réel solidaire et bail réel solidaire d'activité**
+      - [Chapitre Ier : Bail à construction.](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Bail à réhabilitation.](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Bail dans le cadre d'une convention d'usufruit.](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Bail réel immobilier](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Bail réel solidaire](partie-legislative/livre-ii/titre-v/chapitre-v.md) (22 articles)
+      - [Chapitre VI : Bail réel solidaire d'activité](partie-legislative/livre-ii/titre-v/chapitre-vi.md) (21 articles)
+    - **Titre VI : Ventes d'immeubles à construire ou à rénover.**
+      - [Chapitre Ier : Ventes d'immeubles à construire.](partie-legislative/livre-ii/titre-vi/chapitre-ier.md) (19 articles)
+      - [Chapitre II : Ventes d'immeubles à rénover.](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Dispositions communes.](partie-legislative/livre-ii/titre-vi/chapitre-iii.md) (3 articles)
+    - **Titre VII : Protection de l'acquéreur immobilier.**
+      - [Chapitre unique.](partie-legislative/livre-ii/titre-vii/chapitre-unique.md) (6 articles)
+    - **Titre VIII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.**
+      - [Chapitre unique.](partie-legislative/livre-ii/titre-viii/chapitre-unique.md) (2 articles)
+    - [Titre IX : Mesures de protection concernant certains vendeurs de biens immobiliers.](partie-legislative/livre-ii/titre-ix.md) (2 articles)
+    - **Titre IX : Dispositions particulières à la Nouvelle-Calédonie**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-ix-2/chapitre-unique.md) (4 articles)
+  - **Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement**
+    - **Titre préliminaire : Dispositions générales relatives aux politiques de l'habitat.**
+      - [Chapitre préliminaire : Droit au logement.](partie-legislative/livre-iii/titre-preliminaire/chapitre-preliminaire.md) (3 articles)
+      - [Chapitre Ier : Politiques d'aide au logement.](partie-legislative/livre-iii/titre-preliminaire/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Politique locale de l'habitat.](partie-legislative/livre-iii/titre-preliminaire/chapitre-ii.md) (28 articles)
+      - [Chapitre III : Opérations programmées d'amélioration de l'habitat et opérations de revitalisation de territoire](partie-legislative/livre-iii/titre-preliminaire/chapitre-iii.md) (4 articles)
+    - **Titre Ier : Mesures tendant à favoriser la construction et l'amélioration d'habitations.**
+      - [Chapitre Ier : Primes et prêts à la construction.](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Garantie de l'Etat-Action des collectivités territoriales et des chambres de commerce et d'industrie territoriales.](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Participation des employeurs à l'effort de construction.](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (43 articles)
+      - [Chapitre V : Epargne-logement](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Contrôle.](partie-legislative/livre-iii/titre-ier/chapitre-vi.md) (4 articles)
+      - [Chapitre X : Prêt ne portant pas intérêt consenti pour financer la primo-accession à la propriété](partie-legislative/livre-iii/titre-ier/chapitre-x.md) (12 articles)
+    - **Titre II : Amélioration de l'habitat.**
+      - [Chapitre Ier : Agence nationale de l'habitat - Statut et concours financier.](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (19 articles)
+      - [Chapitre IV : Aide à l'habitat rural.](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre VI : Service public de la performance énergétique de l'habitat](partie-legislative/livre-iii/titre-ii/chapitre-vi.md) (1 article)
+    - **Titre IV : Reversement de l'aide de l'Etat et sanctions.**
+      - [Chapitre Ier : Reversement de l'aide de l'Etat](partie-legislative/livre-iii/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Agence nationale de contrôle du logement social](partie-legislative/livre-iii/titre-iv/chapitre-ii.md) (22 articles)
+    - **Titre V : Conventions d'aide personnalisée au logement**
+      - [Chapitre II : Dispositions particulières aux bâtiments et îlots insalubres et à la restauration immobilière.](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Régime juridique des logements locatifs conventionnés.](partie-legislative/livre-iii/titre-v/chapitre-iii.md) (29 articles)
+    - **Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.**
+      - [Chapitre Ier : Conseil national de l'habitat](partie-legislative/livre-iii/titre-vi/chapitre-ier.md) (1 article)
+      - [Chapitre IV : Comité régional de l'habitat et de l'hébergement.](partie-legislative/livre-iii/titre-vi/chapitre-iv.md) (1 article)
+      - [Chapitre V : Organismes concourant aux objectifs de la politique d'aide au logement.](partie-legislative/livre-iii/titre-vi/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Organismes d'information sur le logement.](partie-legislative/livre-iii/titre-vi/chapitre-vi.md) (1 article)
+    - **Titre VII : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.**
+      - [Chapitre unique.](partie-legislative/livre-iii/titre-vii/chapitre-unique.md) (6 articles)
+    - **Titre VIII : Dispositions relatives au tiers-financement**
+      - [Chapitre unique : Sociétés de tiers-financement](partie-legislative/livre-iii/titre-viii/chapitre-unique.md) (3 articles)
+  - **Livre IV : Habitations à loyer modéré.**
+    - **Titre Ier : Dispositions générales.**
+      - [Chapitre unique.](partie-legislative/livre-iv/titre-ier/chapitre-unique.md) (14 articles)
+    - **Titre II : Organismes d'habitations à loyer modéré.**
+      - [Chapitre Ier : Offices publics de l'habitat.](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (30 articles)
+      - [Chapitre II : Organismes privés d'habitations à loyer modéré.](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré.](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (20 articles)
+      - [Chapitre IV : Dispositions diverses.](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (3 articles)
+    - **Titre III : Dispositions financières.**
+      - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Prêts aux autres organismes et collectivités.](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Marchés des organismes d'habitations à loyer modéré.](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre V : Fonds national des aides à la pierre](partie-legislative/livre-iv/titre-iii/chapitre-v.md) (1 article)
+    - **Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.**
+      - [Chapitre Ier : Conditions d'attribution des logements et plafonds de ressources - Supplément de loyer de solidarité.](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (34 articles)
+      - [Chapitre II : Loyers et divers.](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (36 articles)
+      - [Chapitre III : Accession à la propriété et autres cessions.](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (50 articles)
+      - [Chapitre IV : Prise à bail et en gestion de logements par les organismes d'habitations à loyer modéré.](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (14 articles)
+      - [Chapitre V : Dispositions particulières applicables aux organismes d'habitations à loyer modéré ayant conclu une convention d'utilité sociale.](partie-legislative/livre-iv/titre-iv/chapitre-v.md) (7 articles)
+    - **Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.**
+      - [Chapitre Ier : Contrôle.](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes.](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Garantie des opérations d'accession sociale à la propriété.](partie-legislative/livre-iv/titre-v/chapitre-iii.md) (3 articles)
+    - **Titre VII : Dispositions particulières à certaines parties du territoire.**
+      - [Chapitre Ier : Départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](partie-legislative/livre-iv/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.](partie-legislative/livre-iv/titre-vii/chapitre-ii.md) (13 articles)
+    - **Titre VIII : Dispositions particulières aux sociétés d'économie mixte de construction et de gestion de logements sociaux.**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-iv/titre-viii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Dispositions relatives à la mobilité des locataires.](partie-legislative/livre-iv/titre-viii/chapitre-ii.md) (6 articles)
+  - **Livre V : Lutte contre l'habitat indigne**
+    - **Titre Ier : Sécurité et salubrité des immeubles, locaux et installations**
+      - [Chapitre unique.](partie-legislative/livre-v/titre-ier/chapitre-unique.md) (22 articles)
+    - **Titre II : Conséquences financières des situations d'insalubrité ou d'insécurité**
+      - [Chapitre Ier : Protection des occupants](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires.](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (2 articles)
+    - **Titre III : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.**
+      - [Chapitre unique](partie-legislative/livre-v/titre-iii/chapitre-unique.md) (4 articles)
+    - **Titre IV : Dispositions relatives à l'exécution des mesures de police concernant des locaux d'habitation insalubres ou dangereux.**
+      - [Chapitre Ier : Solidarité entre propriétaires et exploitants successifs de locaux insalubres ou dangereux et entre indivisaires .](partie-legislative/livre-v/titre-iv/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Meubles des occupants évacués dont le logement a fait l'objet d'une interdiction définitive d'habiter.](partie-legislative/livre-v/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Procédures applicables aux propriétaires défaillants](partie-legislative/livre-v/titre-iv/chapitre-iii.md) (2 articles)
+    - **Titre V : Lutte contre l'habitat indigne**
+      - [Chapitre unique](partie-legislative/livre-v/titre-v/chapitre-unique.md) (1 article)
+  - **Livre VI : Mesures tendant à remédier à des difficultés exceptionnelles de logement.**
+    - **Titre Ier : Dispositions générales**
+      - [Chapitre Ier : Principe.](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Occupation du domaine public.](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions diverses - Sursis à l'exécution de décisions de justice.](partie-legislative/livre-vi/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Réquisition de terrains.](partie-legislative/livre-vi/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Mesures de sauvegarde.](partie-legislative/livre-vi/titre-ier/chapitre-v.md) (12 articles)
+      - [Chapitre VI : Dispositions applicables en matière de saisie immobilière du logement principal.](partie-legislative/livre-vi/titre-ier/chapitre-vi.md) (1 article)
+    - **Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants et dispositions diverses**
+      - [Chapitre Ier : Service municipal du logement.](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Dispositions transitoires relatives aux droits et obligations de la "bourse d'échange de logements".](partie-legislative/livre-vi/titre-ii/chapitre-ii.md) (1 article)
+    - **Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (25 articles)
+      - [Chapitre Ier bis : Cohabitation intergénérationnelle solidaire](partie-legislative/livre-vi/titre-iii/chapitre-ier-bis.md) (3 articles)
+      - [Chapitre II : Mesures relatives à la protection des occupants de certains meublés.](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Mesures relatives à la protection des personnes logées en logement-foyer.](partie-legislative/livre-vi/titre-iii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Déclaration de mise en location](partie-legislative/livre-vi/titre-iii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Autorisation préalable de mise en location](partie-legislative/livre-vi/titre-iii/chapitre-v.md) (11 articles)
+    - **Titre IV : Mise en oeuvre du droit au logement par la réquisition**
+      - [Chapitre Ier : Réquisition.](partie-legislative/livre-vi/titre-iv/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Réquisition avec attributaire.](partie-legislative/livre-vi/titre-iv/chapitre-ii.md) (29 articles)
+    - **Titre V : Sanctions et dispositions diverses.**
+      - [Chapitre unique.](partie-legislative/livre-vi/titre-v/chapitre-unique.md) (10 articles)
+    - **Titre VI : Dispositions relatives à l'outre-mer.**
+      - [Chapitre Ier : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion et à Mayotte](partie-legislative/livre-vi/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions relatives à la Polynésie française.](partie-legislative/livre-vi/titre-vi/chapitre-ii.md) (2 articles)
+  - **Livre VII : Immeubles relevant du statut de la copropriété**
+    - **Titre Ier : Identification des immeubles relevant du statut de la copropriété.**
+      - [Chapitre unique : De l'immatriculation des syndicats de copropriétaires.](partie-legislative/livre-vii/titre-ier/chapitre-unique.md) (7 articles)
+    - **Titre II : Information des acquéreurs.**
+      - [Chapitre unique : Dispositions particulières relatives à la vente d'un immeuble soumis au statut de la copropriété.](partie-legislative/livre-vii/titre-ii/chapitre-unique.md) (3 articles)
+    - **Titre III : Entretien, conservation et amélioration des immeubles relevant du statut de la copropriété.**
+      - [Chapitre Ier : Diagnostic technique global des immeubles relevant du statut de la copropriété.](partie-legislative/livre-vii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Prêt pour travaux consenti aux syndicats de copropriétaires](partie-legislative/livre-vii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Remisage d'engins motorisés](partie-legislative/livre-vii/titre-iii/chapitre-iii.md) (1 article)
+    - **Titre IV : Traitement des difficultés des copropriétés dégradées**
+      - [Chapitre unique : Opérations de requalification des copropriétés dégradées](partie-legislative/livre-vii/titre-iv/chapitre-unique.md) (4 articles)
+  - **Livre VIII : AIDES PERSONNELLES AU LOGEMENT**
+    - **Titre Ier : Fonds national d'aide au logement**
+      - [Chapitre Ier : Organisation](partie-legislative/livre-viii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Missions](partie-legislative/livre-viii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions financieres](partie-legislative/livre-viii/titre-ier/chapitre-iii.md) (12 articles)
+    - **Titre II : Dispositions communes aux aides personnelles au logement**
+      - [Chapitre Ier : Principes généraux](partie-legislative/livre-viii/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Conditions générales d'attribution](partie-legislative/livre-viii/titre-ii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Modalités de liquidation et de versement](partie-legislative/livre-viii/titre-ii/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Impayés de dépenses de logement](partie-legislative/livre-viii/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Contentieux](partie-legislative/livre-viii/titre-ii/chapitre-v.md) (3 articles)
+    - **Titre III : Aide personnalisée au logement**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-viii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Modalités de liquidation et de versement de l'aide personnalisée au logement](partie-legislative/livre-viii/titre-iii/chapitre-ii.md) (4 articles)
+    - **Titre IV : Allocations de logement**
+      - [Chapitre Ier : Champ d'application](partie-legislative/livre-viii/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Modalités de liquidation et de versement des allocations de logement](partie-legislative/livre-viii/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Procédure de conservation et de versement des allocations de logement en cas de non-décence constatée des logements](partie-legislative/livre-viii/titre-iv/chapitre-iii.md) (7 articles)
+    - **Titre V : Contrôles, lutte contre la fraude et sanctions**
+      - [Chapitre Ier : Contrôles](partie-legislative/livre-viii/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Lutte contre la fraude et sanctions](partie-legislative/livre-viii/titre-v/chapitre-ii.md) (3 articles)
+    - **Titre VI : Dispositions particulières à l'outre-mer**
+      - [Titre VI : Dispositions particulières à l'outre-mer : articles rattachés directement](partie-legislative/livre-viii/titre-vi/articles-directs.md) (3 articles)
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-viii/titre-vi/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Saint-Barthélemy et Saint-Martin](partie-legislative/livre-viii/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Saint-Pierre-et-Miquelon](partie-legislative/livre-viii/titre-vi/chapitre-iii.md) (5 articles)
+- **Partie réglementaire**
+  - **Livre Ier : Construction, entretien et rénovation des bâtiments**
+    - **Titre Ier : RÈGLES GÉNÉRALES APPLICABLES À LA CONSTRUCTION ET LA RÉNOVATION DE BÂTIMENTS**
+      - [Chapitre Ier : Définitions](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Principes généraux de respect des règles de construction](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (19 articles)
+      - [Chapitre III : AUTRES RÈGLES APPLICABLES AUX BÂTIMENTS](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (24 articles)
+      - [Chapitre IV : Autres dispositions relatives à la mise sur le marché des produits de construction](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (5 articles)
+    - **Titre II : ENCADREMENT DE LA CONCEPTION, DE LA RÉALISATION ET DE L'EXPLOITATION DES BÂTIMENTS**
+      - [Chapitre Ier : STRUCTURES DE CONSEIL ET DE RECHERCHE POUR LE SECTEUR DE LA CONSTRUCTION](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Procédures administratives](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (37 articles)
+      - [Chapitre III : RESPONSABILITÉS ET ASSURANCES](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre V : Contrôleurs techniques et bureaux d'étude agréés](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (32 articles)
+      - [Chapitre V BIS : Agrément des organismes de qualification de certains professionnels](partie-reglementaire/livre-ier/titre-ii/chapitre-v-bis.md) (9 articles)
+      - [Chapitre VI : EXPLOITATION DES BÂTIMENTS](partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md) (62 articles)
+    - **Titre III : RÈGLES GÉNÉRALES DE SÉCURITÉ**
+      - [Chapitre Ier : STABILITÉ ET SOLIDITÉ DES BÂTIMENTS](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : RISQUES NATURELS](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (26 articles)
+      - [Chapitre IV : SÉCURITÉ D'USAGE DES BÂTIMENTS](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (70 articles)
+    - **Titre IV : SÉCURITÉ DES PERSONNES CONTRE LES RISQUES D'INCENDIE**
+      - [Chapitre Ier : Règles générales](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (17 articles)
+      - [Chapitre II : BÂTIMENTS D'HABITATION](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (5 articles)
+      - [Chapitre III : ÉTABLISSEMENTS RECEVANT DU PUBLIC](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (45 articles)
+      - [Chapitre V : IMMEUBLES DE MOYENNE HAUTEUR](partie-reglementaire/livre-ier/titre-iv/chapitre-v.md) (6 articles)
+      - [Chapitre VI : IMMEUBLES DE GRANDE HAUTEUR](partie-reglementaire/livre-ier/titre-iv/chapitre-vi.md) (33 articles)
+    - **Titre V : QUALITÉ SANITAIRE**
+      - [Chapitre Ier : OBJECTIFS GÉNÉRAUX DE QUALITÉ SANITAIRE DES BÂTIMENTS](partie-reglementaire/livre-ier/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : RÉSEAUX D'EAU](partie-reglementaire/livre-ier/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : QUALITÉ D'AIR INTÉRIEUR](partie-reglementaire/livre-ier/titre-v/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : ACOUSTIQUE](partie-reglementaire/livre-ier/titre-v/chapitre-iv.md) (7 articles)
+      - [Chapitre V : OUVERTURES](partie-reglementaire/livre-ier/titre-v/chapitre-v.md) (1 article)
+      - [Chapitre VI : RÈGLES DIMENSIONNELLES](partie-reglementaire/livre-ier/titre-v/chapitre-vi.md) (1 article)
+      - [Chapitre VII : AUTRES ÉQUIPEMENTS](partie-reglementaire/livre-ier/titre-v/chapitre-vii.md) (6 articles)
+    - **Titre VI : ACCESSIBILITÉ ET QUALITÉ D'USAGE**
+      - [Chapitre Ier : RÈGLES GÉNÉRALES D'ACCESSIBILITÉ DES BÂTIMENTS](partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre II : BÂTIMENTS NEUFS](partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md) (15 articles)
+      - [Chapitre III : MODIFICATION DE BÂTIMENTS D'HABITATION ET DE BÂTIMENTS A USAGE PROFESSIONNEL EXISTANTS](partie-reglementaire/livre-ier/titre-vi/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : ÉTABLISSEMENTS RECEVANT DU PUBLIC EXISTANTS](partie-reglementaire/livre-ier/titre-vi/chapitre-iv.md) (6 articles)
+      - [Chapitre V : AGENDAS D'ACCESSIBILITÉ PROGRAMMÉE](partie-reglementaire/livre-ier/titre-vi/chapitre-v.md) (21 articles)
+    - **Titre VII : PERFORMANCE ÉNERGÉTIQUE ET ENVIRONNEMENTALE**
+      - [Chapitre Ier : RÈGLES GÉNÉRALES DE PERFORMANCE ÉNERGÉTIQUE ET ENVIRONNEMENTALE](partie-reglementaire/livre-ier/titre-vii/chapitre-ier.md) (42 articles)
+      - [Chapitre II : CONSTRUCTION DES BÂTIMENTS](partie-reglementaire/livre-ier/titre-vii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : BÂTIMENTS EXISTANTS](partie-reglementaire/livre-ier/titre-vii/chapitre-iii.md) (11 articles)
+      - [Chapitre IV : SUIVI DE L'EFFICACITÉ ÉNERGÉTIQUE ET ENVIRONNEMENTALE](partie-reglementaire/livre-ier/titre-vii/chapitre-iv.md) (32 articles)
+      - [Chapitre V : SYSTEMES TECHNIQUES DES BATIMENTS](partie-reglementaire/livre-ier/titre-vii/chapitre-v.md) (10 articles)
+    - **Titre VIII : CONTRÔLE ET SANCTIONS**
+      - [Chapitre IV : Règles de sécurité](partie-reglementaire/livre-ier/titre-viii/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Règles en matière énergétique](partie-reglementaire/livre-ier/titre-viii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Sécurité des ascenseurs](partie-reglementaire/livre-ier/titre-viii/chapitre-vi.md) (1 article)
+    - **Titre IX : RÈGLES PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ier/titre-ix/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, la Réunion et Mayotte](partie-reglementaire/livre-ier/titre-ix/chapitre-ii.md) (4 articles)
+  - **Livre II : Statut des constructeurs.**
+    - **Titre préliminaire : Les sociétés d'habitat participatif**
+      - [Titre préliminaire : Les sociétés d'habitat participatif : articles rattachés directement](partie-reglementaire/livre-ii/titre-preliminaire/articles-directs.md) (8 articles)
+      - [Chapitre Ier : Dispositions particulières aux sociétés coopératives d'habitants](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Dispositions particulières aux sociétés d'attribution et d'autopromotion](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-ii.md) (8 articles)
+    - **Titre Ier : Statut des sociétés de construction.**
+      - [Titre Ier : Statut des sociétés de construction. : articles rattachés directement](partie-reglementaire/livre-ii/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre Ier : Sociétés civiles constituées en vue de la vente d'immeubles.](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Sociétés constituées en vue de l'attribution d'immeubles aux associés par fractions divises.](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (18 articles)
+      - [Chapitre III : Sociétés coopératives de construction.](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (20 articles)
+      - [Chapitre V : Sociétés anonymes coopératives d'intérêt collectif pour l'accession à la propriété.](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (4 articles)
+    - **Titre II : Promotion immobilière.**
+      - [Chapitre II : Dispositions applicables à la construction d'immeubles à usage d'habitation ou à usage professionnel et d'habitation.](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (14 articles)
+    - **Titre III : Construction d'une maison individuelle.**
+      - [Chapitre Ier : Construction d'une maison individuelle avec fourniture de plan.](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Construction d'une maison individuelle sans fourniture de plan.](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (7 articles)
+    - **Titre V : Bail à construction, bail à réhabilitation, bail dans le cadre d'une convention d'usufruit, bail réel immobilier, bail réel solidaire et bail réel solidaire d'activité**
+      - [Chapitre Ier : Bail à construction.](partie-reglementaire/livre-ii/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre III : Bail dans le cadre d'une convention d'usufruit.](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Bail réel immobilier](partie-reglementaire/livre-ii/titre-v/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Bail réel solidaire](partie-reglementaire/livre-ii/titre-v/chapitre-v.md) (12 articles)
+      - [Chapitre VI : Bail réel solidaire d'activité](partie-reglementaire/livre-ii/titre-v/chapitre-vi.md) (11 articles)
+    - **Titre VI : Ventes d'immeubles à construire ou à rénover.**
+      - [Chapitre Ier : Ventes d'immeubles à construire.](partie-reglementaire/livre-ii/titre-vi/chapitre-ier.md) (35 articles)
+      - [Chapitre II : Ventes d'immeubles à rénover.](partie-reglementaire/livre-ii/titre-vi/chapitre-ii.md) (15 articles)
+    - **Titre VII : Protection de l'acquéreur immobilier.**
+      - [Chapitre unique](partie-reglementaire/livre-ii/titre-vii/chapitre-unique.md) (8 articles)
+    - **Titre VIII : Dispositions particulières à Saint-Pierre-et-Miquelon et à Mayotte.**
+      - [Chapitre unique.](partie-reglementaire/livre-ii/titre-viii/chapitre-unique.md) (2 articles)
+  - **Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement.**
+    - **Titre préliminaire : Politique d'aide au logement.**
+      - [Chapitre Ier : Droit au logement.](partie-reglementaire/livre-iii/titre-preliminaire/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Politique locale de l'habitat.](partie-reglementaire/livre-iii/titre-preliminaire/chapitre-ii.md) (41 articles)
+      - [Chapitre IV : Classement des communes par zone applicable à certaines aides au logement.](partie-reglementaire/livre-iii/titre-preliminaire/chapitre-iv.md) (1 article)
+    - **Titre Ier : Mesures tendant à favoriser la construction d'habitations.**
+      - [Chapitre Ier : Primes et prêts à la construction.](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (65 articles)
+      - [Chapitre II : Garantie de l'Etat et des collectivités locales - Action des chambres de commerce et d'industrie territoriales.](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (41 articles)
+      - [Chapitre III : Participation des employeurs à l'effort de construction.](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (62 articles)
+      - [Chapitre IV : Logement des fonctionnaires.](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (18 articles)
+      - [Chapitre V : Epargne-logement - Dispositions transitoires applicables à l'épargne-construction et à l'épargne-crédit](partie-reglementaire/livre-iii/titre-ier/chapitre-v.md) (57 articles)
+      - [Chapitre VI : Contrôle.](partie-reglementaire/livre-iii/titre-ier/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Avances aidées par l'Etat pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété.](partie-reglementaire/livre-iii/titre-ier/chapitre-vii.md) (25 articles)
+      - [Chapitre VIII : Avances remboursables sans intérêt pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété](partie-reglementaire/livre-iii/titre-ier/chapitre-viii.md) (34 articles)
+      - [Chapitre IX : Avance remboursable sans intérêt destinée au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens](partie-reglementaire/livre-iii/titre-ier/chapitre-ix.md) (55 articles)
+      - [Chapitre X : Prêt ne portant pas intérêt consenti pour financer la primo-accession à la propriété.](partie-reglementaire/livre-iii/titre-ier/chapitre-x.md) (13 articles)
+      - [Chapitre XI : Prêt avance mutation ne portant pas intérêt destiné au financement de travaux permettant d'améliorer la performance énergétique des logements anciens](partie-reglementaire/livre-iii/titre-ier/chapitre-xi.md) (16 articles)
+    - **Titre II : Amélioration de l'habitat.**
+      - [Chapitre Ier : Agence nationale de l'habitat.](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (47 articles)
+      - [Chapitre III : Aides de l'Etat.](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (24 articles)
+      - [Chapitre V : Restauration immobilière.](partie-reglementaire/livre-iii/titre-ii/chapitre-v.md) (6 articles)
+      - [Chapitre VII : Programme d'intérêt.](partie-reglementaire/livre-iii/titre-ii/chapitre-vii.md) (1 article)
+    - **Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.**
+      - [Chapitre unique.](partie-reglementaire/livre-iii/titre-iii/chapitre-unique.md) (142 articles)
+    - **Titre IV : Reversement de l'aide de l'Etat et sanctions**
+      - [Chapitre II : Agence nationale de contrôle du logement social](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (48 articles)
+    - **Titre V : Conventions à l'aide personnalisée au logement**
+      - [Chapitre III : Régime juridique des logements locatifs conventionnés.](partie-reglementaire/livre-iii/titre-v/chapitre-iii.md) (153 articles)
+    - **Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.**
+      - [Chapitre Ier : Conseil national de l'habitat.](partie-reglementaire/livre-iii/titre-vi/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Comité régional de l'habitat et de l'hébergement.](partie-reglementaire/livre-iii/titre-vi/chapitre-ii.md) (15 articles)
+      - [Chapitre V : Organismes concourant aux objectifs de la politique d'aide au logement.](partie-reglementaire/livre-iii/titre-vi/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Organismes d'information sur le logement.](partie-reglementaire/livre-iii/titre-vi/chapitre-vi.md) (8 articles)
+    - **Titre VII : Dispositions diverses ou particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion et à Mayotte.**
+      - [Chapitre Ier : Conseil départemental de l'habitat et de l'hébergement.](partie-reglementaire/livre-iii/titre-vii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.](partie-reglementaire/livre-iii/titre-vii/chapitre-ii.md) (26 articles)
+      - [Chapitre III : Conventions portant sur les logements-foyers](partie-reglementaire/livre-iii/titre-vii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Dispositions particulières à Mayotte](partie-reglementaire/livre-iii/titre-vii/chapitre-iv.md) (1 article)
+    - [Titre VII bis : Dispositions particulières à Saint-Pierre-et-Miquelon](partie-reglementaire/livre-iii/titre-vii-bis.md) (1 article)
+    - **Titre VIII bis : Dispositions relatives au tiers-financement**
+      - [Chapitre unique : Dispositions relatives au tiers-financement](partie-reglementaire/livre-iii/titre-viii-bis/chapitre-unique.md) (4 articles)
+    - **Titre IX : Dispositions relatives aux prêts locatifs intermédiaires.**
+      - [Chapitre unique : Prêts pour la construction, l'acquisition et l'amélioration d'habitations](partie-reglementaire/livre-iii/titre-ix/chapitre-unique.md) (9 articles)
+  - **Livre IV : Habitations à loyer modéré**
+    - **Titre Ier : Dispositions générales**
+      - [Chapitre unique.](partie-reglementaire/livre-iv/titre-ier/chapitre-unique.md) (6 articles)
+    - **Titre II : Organismes d'habitations à loyer modéré**
+      - [Chapitre Ier : Offices publics de l'habitat.](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (33 articles)
+      - [Chapitre II : Organismes privés d'habitations à loyer modéré.](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (52 articles)
+      - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (58 articles)
+    - **Titre III : Dispositions financières.**
+      - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.](partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md) (44 articles)
+      - [Chapitre II : Prêts aux autres organismes et collectivités](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Marchés des organismes d'habitations à loyer modéré.](partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md) (11 articles)
+      - [Chapitre V : Fonds national des aides à la pierre](partie-reglementaire/livre-iv/titre-iii/chapitre-v.md) (9 articles)
+    - **Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.**
+      - [Chapitre Ier : Conditions d'attribution des logements et plafonds de ressources - Supplément de loyer de solidarité.](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (65 articles)
+      - [Chapitre II : Loyers et divers.](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (35 articles)
+      - [Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions.](partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md) (49 articles)
+      - [Chapitre V : Dispositions applicables aux conventions d'utilité sociale entre l'Etat et les organismes d'habitations à loyer modéré](partie-reglementaire/livre-iv/titre-iv/chapitre-v.md) (46 articles)
+    - **Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.**
+      - [Chapitre Ier : Contrôle.](partie-reglementaire/livre-iv/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes.](partie-reglementaire/livre-iv/titre-v/chapitre-ii.md) (40 articles)
+      - [Chapitre III : Garantie des opérations d'accession à la propriété.](partie-reglementaire/livre-iv/titre-v/chapitre-iii.md) (8 articles)
+    - **Titre VI : Organismes consultatifs.**
+      - [Chapitre unique.](partie-reglementaire/livre-iv/titre-vi/chapitre-unique.md) (13 articles)
+    - **Titre VII : Dispositions particulières à certaines parties du territoire.**
+      - [Chapitre II : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion et à Mayotte](partie-reglementaire/livre-iv/titre-vii/chapitre-ii.md) (6 articles)
+    - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte de construction et de gestion de logements sociaux.](partie-reglementaire/livre-iv/titre-viii.md) (29 articles)
+    - **Titre IX : Dispositions particulières relatives au maintien du caractère de logement social.**
+      - [Chapitre unique.](partie-reglementaire/livre-iv/titre-ix/chapitre-unique.md) (6 articles)
+  - **Livre V : Lutte contre l'habitat indigne**
+    - **Titre Ier : Sécurité et salubrité des immeubles, locaux et installations**
+      - [Chapitre unique.](partie-reglementaire/livre-v/titre-ier/chapitre-unique.md) (13 articles)
+    - **Titre II : Bâtiments insalubres.**
+      - [Chapitre II : Financement des opérations de résorption de l'habitat insalubre ou dangereux faisant l'objet d'une mesure de police définitive](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Financement des autres opérations de résorption de l'habitat insalubre ou dangereux](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (3 articles)
+    - [Titre III : Dispositions spéciales aux départements d'outre-mer.](partie-reglementaire/livre-v/titre-iii.md) (4 articles)
+    - **Titre IV : Dispositions relatives à l'exécution des mesures de police concernant des locaux d'habitation insalubres ou dangereux**
+      - [Chapitre unique : Publicité des arrêtés](partie-reglementaire/livre-v/titre-iv/chapitre-unique.md) (5 articles)
+  - **Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.**
+    - **Titre Ier : Dispositions générales.**
+      - [Chapitre II : Occupation du domaine public.](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre V : Mesures de sauvegarde.](partie-reglementaire/livre-vi/titre-ier/chapitre-v.md) (5 articles)
+    - **Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.**
+      - [Chapitre Ier : Service municipal du logement.](partie-reglementaire/livre-vi/titre-ii/chapitre-ier.md) (3 articles)
+    - **Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.**
+      - [Chapitre I : Dispositions générales](partie-reglementaire/livre-vi/titre-iii/chapitre-i.md) (29 articles)
+      - [Chapitre III : Mesures relatives à la protection des personnes logées en logement-foyer.](partie-reglementaire/livre-vi/titre-iii/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Déclaration de mise en location](partie-reglementaire/livre-vi/titre-iii/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Autorisation préalable de mise en location](partie-reglementaire/livre-vi/titre-iii/chapitre-v.md) (5 articles)
+    - **Titre IV : Mise en oeuvre du droit au logement par la réquisition.**
+      - [Chapitre Ier : Réquisition.](partie-reglementaire/livre-vi/titre-iv/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Réquisition avec attributaire.](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (16 articles)
+    - **Titre V : Sanctions et dispositions diverses.**
+      - [Chapitre unique.](partie-reglementaire/livre-vi/titre-v/chapitre-unique.md) (2 articles)
+    - **Titre VI : Dispositions relatives à l'outre-mer.**
+      - [Chapitre II : Dispositions relatives à la Polynésie française.](partie-reglementaire/livre-vi/titre-vi/chapitre-ii.md) (1 article)
+  - **Livre VII : Immeubles relevant du statut de la copropriété**
+    - **Titre Ier : Identification des immeubles relevant du statut de la copropriété**
+      - [Chapitre unique : De l'immatriculation des syndicats de copropriétaires](partie-reglementaire/livre-vii/titre-ier/chapitre-unique.md) (18 articles)
+    - **Titre II : Information des acquéreurs**
+      - [Chapitre unique : Dispositions particulières relatives à la vente d'un immeuble soumis au statut de la copropriété](partie-reglementaire/livre-vii/titre-ii/chapitre-unique.md) (1 article)
+    - **Titre III : Entretien, conservation et amélioration des immeubles relevant du statut de la copropriété**
+      - [Chapitre Ier : Diagnostic technique global des immeubles relevant du statut de la copropriété](partie-reglementaire/livre-vii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Prêt pour travaux consenti aux syndicats de copropriétaires](partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md) (1 article)
+  - **Livre VIII : Aides personnelles au logement**
+    - **Titre Ier : Fonds national d'aide au logement**
+      - [Chapitre Ier : Organisation](partie-reglementaire/livre-viii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Missions](partie-reglementaire/livre-viii/titre-ier/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Dispositions financières](partie-reglementaire/livre-viii/titre-ier/chapitre-iii.md) (10 articles)
+    - **Titre II : Dispositions communes aux aides personnelles au logement**
+      - [Chapitre Ier : Principes généraux](partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Conditions générales d'attribution](partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md) (26 articles)
+      - [Chapitre III : Modalités de liquidation et de versement](partie-reglementaire/livre-viii/titre-ii/chapitre-iii.md) (27 articles)
+      - [Chapitre V : Contentieux](partie-reglementaire/livre-viii/titre-ii/chapitre-v.md) (4 articles)
+    - **Titre III : Aide personnalisée au logement**
+      - [Chapitre Ier : Champ d'application](partie-reglementaire/livre-viii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Modalités de liquidation et de versement de l'aide personnalisée au logement](partie-reglementaire/livre-viii/titre-iii/chapitre-ii.md) (28 articles)
+    - **Titre IV : Allocations de logement**
+      - [Chapitre Ier : Champ d'application](partie-reglementaire/livre-viii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Modalités de liquidation et de versement des allocations de logement](partie-reglementaire/livre-viii/titre-iv/chapitre-ii.md) (18 articles)
+      - [Chapitre III : Procédure de conservation et de versement des allocations de logement en cas de non-décence constatée des logements](partie-reglementaire/livre-viii/titre-iv/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Conditions de peuplement](partie-reglementaire/livre-viii/titre-iv/chapitre-iv.md) (5 articles)
+    - **Titre V : Contrôles, lutte contre la fraude et sanctions**
+      - [Chapitre II : Lutte contre la fraude et sanctions](partie-reglementaire/livre-viii/titre-v/chapitre-ii.md) (2 articles)
+    - **Titre VI : Dispositions particulières à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-viii/titre-vi/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Saint-Barthélemy et Saint-Martin](partie-reglementaire/livre-viii/titre-vi/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-viii/titre-vi/chapitre-iii.md) (15 articles)
+- **Annexes**
+  - **Livre Ier : Construction, entretien et rénovation des bâtiments**
+    - **Titre VII : Performance énergétique et environnementale**
+      - [Chapitre II : Construction des bâtiments](annexes/livre-ier/titre-vii/chapitre-ii.md) (1 article)
+  - [Clauses types afférentes au contrat de construction d'une maison individuelle avec fourniture de plan rédigées en application de l'article R. 231-13](annexes/clauses-types-afferentes-au-contrat-de-construction-d-une-maison-individuelle.md) (1 article)
+  - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées.](annexes/clauses-types-applicables-aux-societes-immobilieres-mentionnees-au-2-du-i-de-l.md) (1 article)
+  - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17.](annexes/clauses-types-applicables-aux-societes-immobilieres-mentionnees-au-2-du-i-de-l-2.md) (1 article)
+  - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9.](annexes/clauses-types-applicables-aux-societes-immobilieres-mentionnees-au-2-du-i-des.md) (1 article)
+  - [Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative.](annexes/clauses-types-applicables-aux-societes-immobilieres-mentionnees-au-2-bis-du-i.md) (1 article)
+  - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL).](annexes/clauses-types-applicables-aux-societes-immobilieres-mentionnees-au-2-du-i-de-l-3.md) (1 article)
+  - [Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.](annexes/clauses-types-applicables-aux-societes-immobilieres-locatives-mentionnees-a-l.md) (1 article)
+  - [Convention-type applicable au secteur locatif intermédiaire portant sur un logement ne bénéficiant pas de subvention pour travaux.](annexes/convention-type-applicable-au-secteur-locatif-intermediaire-portant-sur-un.md) (1 article)
+  - [Convention-type applicable au secteur locatif social portant sur un logement ne bénéficiant pas de subvention pour travaux.](annexes/convention-type-applicable-au-secteur-locatif-social-portant-sur-un-logement-ne.md) (1 article)
+  - [Convention-type applicable au secteur locatif intermédiaire et au secteur locatif social portant sur un immeuble ou sur un ou plusieurs logements bénéficiant de subventions pour travaux](annexes/convention-type-applicable-au-secteur-locatif-intermediaire-et-au-secteur.md) (1 article)
+  - [Convention-type applicable au secteur locatif intermédiaire et au secteur locatif social portant sur un logement loué dans le cadre d'un bail à ferme bénéficiant de subventions pour travaux](annexes/convention-type-applicable-au-secteur-locatif-intermediaire-et-au-secteur-2.md) (1 article)
+  - [Convention type pour les établissements de crédit consentant des prêts conventionnés.](annexes/convention-type-pour-les-etablissements-de-credit-consentant-des-prets.md) (1 article)
+  - [Convention type conclue en application de articles L. 351-1 et L. 831-1 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré.](annexes/convention-type-conclue-en-application-de-articles-l-351-1-et-l-831-1-2-ou-3-du.md) (1 article)
+  - [Convention type conclue en application des articles L. 353-1 et L. 831-1 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.](annexes/convention-type-conclue-en-application-des-articles-l-353-1-et-l-831-1-2-ou-3.md) (1 article)
+  - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1 du code de la construction et de l'habitation lorsque le loyer maximum des logements est exprimé en surface corrigée](annexes/document-prevu-par-l-article-1er-des-annexes-i-et-ii-a-l-article-r-353-1-du.md) (1 article)
+  - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.](annexes/engagements-de-portee-generale-prevus-par-les-annexes-i-et-ii-a-l-article-r-353.md) (1 article)
+  - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application des articles L. 353-1 et L. 831-1 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale de l'habitat.](annexes/convention-type-conclue-entre-l-etat-et-m-ou-la-societe-en-application-des.md) (3 articles)
+  - [Convention type conclue en application des articles L. 353-1 et L. 831-1 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société d'économie mixte de construction et de gestion de logements sociaux](annexes/convention-type-conclue-en-application-des-articles-l-353-1-et-l-831-1-2-ou-3-2.md) (1 article)
+  - [Document prévu par l'article 1er de la présente convention.](annexes/document-prevu-par-l-article-1er-de-la-presente-convention.md) (1 article)
+  - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application des articles L. 353-1 et L. 831-1 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.](annexes/conventions-conclues-entre-l-etat-et-les-personnes-physiques-ou-morales-autres.md) (1 article)
+  - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application des articles L. 353-1 et L. 831-1 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionné aux 1,2 et 3 du I de l'article 278 sexies du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90](annexes/conventions-conclues-entre-l-etat-et-les-personnes-physiques-ou-morales-autres-2.md) (1 article)
+  - [Convention conclue en application des articles L. 353-1 et L. 831-1 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.](annexes/convention-conclue-en-application-des-articles-l-353-1-et-l-831-1-3-du-code-de.md) (2 articles)
+  - [Convention conclue en application des articles L. 353-1 et L. 831-1 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.](annexes/convention-conclue-en-application-des-articles-l-353-1-et-l-831-1-3-du-code-de-2.md) (1 article)
+  - [Engagements de portée générale applicables à tout programme conventionné.](annexes/engagements-de-portee-generale-applicables-a-tout-programme-conventionne.md) (1 article)
+  - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-2 du code de la construction et de l'habitation et portant sur les logements-foyers accueillant des personnes âgées ou des personnes handicapées et mentionnés aux articles L. 353-1, L. 831-1 (5°) et R. 832-19 de ce code et ouvrant droit à l'aide personnalisée au logement.](annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme.md) (1 article)
+  - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-2 du code de la construction et de l'habitation et portant sur les résidences sociales visées aux articles L. 353-1, L. 831-1 (5°) et R. 832-20 du code de la construction et de l'habitation et ouvrant droit à l'aide personnalisée au logement.](annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme-2.md) (1 article)
+  - **Convention conclue en application des articles L. 353-1, L. 831-1 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).**
+    - [Convention conclue en application des articles L. 353-1, L. 831-1 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). : articles rattachés directement](annexes/convention-conclue-en-application-des-articles-l-353-1-l-831-1-3-et-r-353-167/articles-directs.md) (2 articles)
+    - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.](annexes/convention-conclue-en-application-des-articles-l-353-1-l-831-1-3-et-r-353-167/document-prevu-a-l-article-1er-de-l-annexe-a-l-article-r-353-166-du-code-de-la.md) (1 article)
+  - **Convention conclue en application des articles L. 353-1 et L. 831-1 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.**
+    - [Convention conclue en application des articles L. 353-1 et L. 831-1 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. : articles rattachés directement](annexes/convention-conclue-en-application-des-articles-l-353-1-et-l-831-1-3-entre-l/articles-directs.md) (2 articles)
+    - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190.](annexes/convention-conclue-en-application-des-articles-l-353-1-et-l-831-1-3-entre-l/document-prevu-par-l-article-1er-de-l-annexe-a-l-article-r-353-190.md) (1 article)
+  - **Convention conclue en application des articles L. 353-1, L. 831-1 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.**
+    - [Convention conclue en application des articles L. 353-1, L. 831-1 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. : articles rattachés directement](annexes/convention-conclue-en-application-des-articles-l-353-1-l-831-1-3-et-r-353-200/articles-directs.md) (2 articles)
+    - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.](annexes/convention-conclue-en-application-des-articles-l-353-1-l-831-1-3-et-r-353-200/document-prevu-par-l-article-1er-de-l-annexe-a-l-article-r-353-200-du-code-de.md) (1 article)
+  - **Livre III : Aides diverses à la construction d'habitations et à L'amélioration de l'habitat - Aide personnalisée au logement**
+    - **Titre VI : Organismes consultatifs**
+      - [Chapitre VI : Organismes d'information sur le logement](annexes/livre-iii/titre-vi/chapitre-vi.md) (2 articles)
+  - [Convention-type conclue entre l'état, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-2 du code de la construction et de l'habitation portant sur les logements-foyers accueillant des personnes âgées ou des personnes handicapées, mentionnés aux articles L. 353-1, l. 831-1 (5°) et R. 832-20 (1°) de ce code, et ouvrant droit à l'aide personnalisée au logement, situés en Guadeloupe, en Guyane, en Martinique, à la réunion et à Mayotte](annexes/convention-type-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme.md) (1 article)
+  - [Statuts types des sociétés anonymes d'habitations à loyer modéré.](annexes/statuts-types-des-societes-anonymes-d-habitations-a-loyer-modere.md) (1 article)
+  - [Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré.](annexes/statuts-types-des-societes-anonymes-cooperatives-de-production-d-habitations-a.md) (1 article)
+  - [Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.](annexes/clauses-types-des-statuts-des-societes-anonymes-cooperatives-d-interet.md) (1 article)
+  - [Société de vente d'habitations à loyer modéré sous forme de société anonyme](annexes/societe-de-vente-d-habitations-a-loyer-modere-sous-forme-de-societe-anonyme.md) (2 articles)
+  - [Statuts types des sociétés anonymes de crédit immobilier.](annexes/statuts-types-des-societes-anonymes-de-credit-immobilier.md) (1 article)
+  - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.](annexes/statuts-types-des-societes-anonymes-cooperatives-d-habitations-a-loyer-modere.md) (1 article)
+  - [Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré.](annexes/clauses-types-des-statuts-des-societes-anonymes-de-coordination-d-organismes-d.md) (1 article)
+  - [Société de coordination sous forme de société anonyme](annexes/societe-de-coordination-sous-forme-de-societe-anonyme.md) (2 articles)
+  - [Statuts des sociétés civiles immobilières d'accession progressive à la propriété](annexes/statuts-des-societes-civiles-immobilieres-d-accession-progressive-a-la-propriete.md) (1 article)
+  - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.](annexes/normes-minimales-d-habitabilite-des-logements-vendus-en-application-de-l.md) (1 article)
+  - [Liste des charges](annexes/liste-des-charges.md) (1 article)
+  - [Clauses types de la convention de garantie fixées en application de l'article R. 453-8.](annexes/clauses-types-de-la-convention-de-garantie-fixees-en-application-de-l-article-r.md) (1 article)

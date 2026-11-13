@@ -7,7 +7,7 @@ Code de la consommation › Partie législative nouvelle › Livre IV : CONFORMI
 - État : en vigueur depuis le 18/08/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046194274
 - Renvoie à : [art. L441-1 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l441-1)
-- Cité par : [art. L454-4 du Code de la consommation](chapitre-iv.md#article-l454-4) ; [art. L454-5 du Code de la consommation](chapitre-iv.md#article-l454-5) ; [art. L454-7 du Code de la consommation](chapitre-iv.md#article-l454-7) ; [art. L455-2 du Code de la consommation](chapitre-v.md#article-l455-2) ; [art. L511-22 du Code de la consommation](../../livre-v/titre-ier/chapitre-ier.md#article-l511-22) ; [art. L224-16 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041983881) ; [art. L329-5 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984276) ; [art. L329-32 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984348) ; [art. L329-33 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984352) ; [art. L1271-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046479737) ; [art. L500-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035042751) ; [art. L256-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049069740)
+- Cité par : [art. L224-16 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-16) ; [art. L454-4 du Code de la consommation](chapitre-iv.md#article-l454-4) ; [art. L454-5 du Code de la consommation](chapitre-iv.md#article-l454-5) ; [art. L454-7 du Code de la consommation](chapitre-iv.md#article-l454-7) ; [art. L455-2 du Code de la consommation](chapitre-v.md#article-l455-2) ; [art. L511-22 du Code de la consommation](../../livre-v/titre-ier/chapitre-ier.md#article-l511-22) ; [art. L329-5 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-5) ; [art. L329-32 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-32) ; [art. L329-33 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-33) ; [art. L1271-8 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-8) ; [art. L256-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-v/chapitre-vi.md#article-l256-1) ; [art. L500-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035042751)
 
 La violation de l'interdiction prévue à l'article L. 441-1 est punie d'une peine d'emprisonnement de trois ans et d'une amende de 300 000 euros.
 
@@ -37,7 +37,7 @@ La violation de l'interdiction prévue à l'article L. 441-1 est punie d'une pei
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225232
 - Renvoie à : [art. L454-1 du Code de la consommation](chapitre-iv.md#article-l454-1)
-- Cité par : [art. L1271-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046479737)
+- Cité par : [art. L1271-8 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-8)
 
 Les peines d'amende prévues aux articles L. 454-1 à L. 454-3 peuvent être portées, de manière proportionnée aux avantages tirés du délit, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits.
 
@@ -45,7 +45,7 @@ Les peines d'amende prévues aux articles L. 454-1 à L. 454-3 peuvent être por
 - Identifiant : LEGIARTI000032225230
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225230
-- Renvoie à : [art. L454-1 du Code de la consommation](chapitre-iv.md#article-l454-1) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; art. 131-39 du Code pénal
+- Renvoie à : [art. L454-1 du Code de la consommation](chapitre-iv.md#article-l454-1) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables des délits punis aux articles L. 454-1 à L. 454-3 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.  
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des délits punis aux articles L. 454-1 à L. 454-3 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par les 2° à 9° de l'article 131-39 du même code.  
@@ -55,7 +55,7 @@ L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l
 - Identifiant : LEGIARTI000041598833
 - État : en vigueur depuis le 12/02/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041598833
-- Renvoie à : [art. L441-2 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l441-2) ; [art. L441-3 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l441-3) ; [art. L441-4 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l441-4) ; art. 131-27 du Code pénal
+- Renvoie à : [art. L441-2 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l441-2) ; [art. L441-3 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l441-3) ; [art. L441-4 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l441-4) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27)
 - Cité par : [art. L454-7 du Code de la consommation](chapitre-iv.md#article-l454-7)
 
 Les délits prévus aux articles L. 441-2, L. 441-3 et L. 441-4 sont punis d'une peine de deux ans d'emprisonnement et d'une amende de 300 000 euros.
@@ -68,7 +68,7 @@ Les personnes physiques encourent également à titre de peines complémentaires
 - Identifiant : LEGIARTI000032225226
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225226
-- Renvoie à : [art. L454-1 du Code de la consommation](chapitre-iv.md#article-l454-1) ; [art. L454-6 du Code de la consommation](chapitre-iv.md#article-l454-6) ; art. 131-35 du Code pénal
+- Renvoie à : [art. L454-1 du Code de la consommation](chapitre-iv.md#article-l454-1) ; [art. L454-6 du Code de la consommation](chapitre-iv.md#article-l454-6) ; [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 En cas de condamnation pour les délits punis aux articles L. 454-1 à L. 454-3 et L. 454-6, le tribunal peut prononcer en outre :  
 1° L'affichage et la diffusion de la décision dans les conditions à l'article 131-35 du code pénal ;  

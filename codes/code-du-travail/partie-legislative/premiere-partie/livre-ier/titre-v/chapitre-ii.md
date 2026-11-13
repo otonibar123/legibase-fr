@@ -6,7 +6,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000006900818
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900818
-- Cité par : [art. L1152-3 du Code du travail](chapitre-ii.md#article-l1152-3) ; [art. L1154-1 du Code du travail](chapitre-iv.md#article-l1154-1) ; [art. L1154-2 du Code du travail](chapitre-iv.md#article-l1154-2) ; [art. L1155-2 du Code du travail](chapitre-v.md#article-l1155-2) ; [art. L1471-1 du Code du travail](../../livre-iv/titre-vii/chapitre-unique.md#article-l1471-1) ; [art. L4121-2 du Code du travail](../../../quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-2) ; [art. L5135-8 du Code du travail](../../../cinquieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l5135-8) ; [art. L7211-3 du Code du travail](../../../septieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l7211-3) ; [art. L7221-2 du Code du travail](../../../septieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l7221-2) ; [art. L8113-5 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-5) ; [art. L124-12 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029234213)
+- Cité par : [art. L124-12 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-12) ; [art. L1152-3 du Code du travail](chapitre-ii.md#article-l1152-3) ; [art. L1154-1 du Code du travail](chapitre-iv.md#article-l1154-1) ; [art. L1154-2 du Code du travail](chapitre-iv.md#article-l1154-2) ; [art. L1155-2 du Code du travail](chapitre-v.md#article-l1155-2) ; [art. L1471-1 du Code du travail](../../livre-iv/titre-vii/chapitre-unique.md#article-l1471-1) ; [art. L4121-2 du Code du travail](../../../quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-2) ; [art. L5135-8 du Code du travail](../../../cinquieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l5135-8) ; [art. L7211-3 du Code du travail](../../../septieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l7211-3) ; [art. L7221-2 du Code du travail](../../../septieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l7221-2) ; [art. L8113-5 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-5)
 
 Aucun salarié ne doit subir les agissements répétés de harcèlement moral qui ont pour objet ou pour effet une dégradation de ses conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel.
 
@@ -36,7 +36,7 @@ Toute rupture du contrat de travail intervenue en méconnaissance des dispositio
 - Identifiant : LEGIARTI000029144897
 - État : en vigueur depuis le 28/06/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144897
-- Renvoie à : [art. L1152-2 du Code du travail](chapitre-ii.md#article-l1152-2) ; [art. 222-33-2 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417711)
+- Renvoie à : [art. L1152-2 du Code du travail](chapitre-ii.md#article-l1152-2) ; [art. 222-33-2 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-222-33-2)
 
 L'employeur prend toutes dispositions nécessaires en vue de prévenir les agissements de harcèlement moral.
 

@@ -260,6 +260,7 @@ La personne intéressée peut mettre un terme au mandat à tout moment. Elle doi
 - Identifiant : LEGIARTI000052025257
 - État : en vigueur depuis le 02/08/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052025257
+- Renvoie à : [art. L111-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-1) ; [art. L111-2 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-2)
 
 Le demandeur à l'action ayant reçu mandat aux fins d'indemnisation est réputé créancier, au sens des articles L. 111-1 et L. 111-2 du code des procédures civiles d'exécution, pour l'exécution forcée du jugement rendu sur le fondement du c du 1 ou du b du 2 du B du III de l'article 16 précité.
 

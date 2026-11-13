@@ -139,7 +139,7 @@ En cas de changement des modalités de remboursement des frais mentionnés à l'
 - Identifiant : LEGIARTI000044338432
 - État : en vigueur depuis le 19/11/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044338432
-- Renvoie à : [art. L3261-3-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l3261-3-1) ; [art. L224-7 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031051048) ; [art. R311-1 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006841575) ; [art. L1231-14 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031050970)
+- Renvoie à : [art. L224-7 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-7) ; [art. R311-1 du Code de la route](../../../../../code-de-la-route/partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-r311-1) ; [art. L1231-14 du Code des transports](../../../../../code-des-transports/partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-unique.md#article-l1231-14) ; [art. L3261-3-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l3261-3-1)
 - Cité par : [art. R3423-12 du Code du travail](../../livre-iv/titre-ii/chapitre-iii.md#article-r3423-12) ; [Décret n°2020-1554 du 9 décembre 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046735650) ; [Décret n°2022-1557 du 13 décembre 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046734332) ; [Décret n°2022-1560 du 13 décembre 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046734722) ; [Décret n°2022-1562 du 13 décembre 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046734765)
 
 Les autres services de mobilité partagée mentionnés à l'article L. 3261-3-1 comprennent :  
@@ -164,7 +164,7 @@ La prise en charge prend la forme d'une allocation forfaitaire dénommée "forfa
 - Identifiant : LEGIARTI000044507367
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044507367
-- Renvoie à : [art. L3261-7 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l3261-7) ; [art. L32 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006465394)
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32) ; [art. L3261-7 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l3261-7)
 
 Sont affichées directement sur les équipements terminaux, au sens du 10° de l'article L. 32 du code des postes et des communications électroniques, utilisés par le salarié et l'entreprise agréée sur le fondement de l'article L. 3261-7 pour un paiement à l'aide d'un titre-mobilité, les mentions suivantes :
 

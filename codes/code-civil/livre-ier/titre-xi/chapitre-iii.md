@@ -6,6 +6,7 @@ Code civil › Livre Ier : Des personnes › Titre XI : De la majorité et des m
 - Identifiant : LEGIARTI000006428217
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428217
+- Renvoie à : [art. L271-1 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vii/chapitre-unique.md#article-l271-1)
 - Cité par : [Loi n°2007-308 du 5 mars 2007, art. 45](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020628275)
 
 Lorsque les mesures mises en oeuvre en application des articles L. 271-1 à L. 271-5 du code de l'action sociale et des familles au profit d'une personne majeure n'ont pas permis une gestion satisfaisante par celle-ci de ses prestations sociales et que sa santé ou sa sécurité en est compromise, le juge des tutelles peut ordonner une mesure d'accompagnement judiciaire destinée à rétablir l'autonomie de l'intéressé dans la gestion de ses ressources.  
@@ -25,7 +26,7 @@ Le prononcé d'une mesure de protection juridique met fin de plein droit à la m
 - Identifiant : LEGIARTI000006428056
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428056
-- Renvoie à : [art. L271-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797362)
+- Renvoie à : [art. L271-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vii/chapitre-unique.md#article-l271-6)
 
 La mesure d'accompagnement judiciaire ne peut être prononcée qu'à la demande du procureur de la République qui en apprécie l'opportunité au vu du rapport des services sociaux prévu à l'article L. 271-6 du code de l'action sociale et des familles.  
 
@@ -43,7 +44,7 @@ Sous réserve des dispositions de l'article 495-7, la mesure d'accompagnement ju
 - Identifiant : LEGIARTI000006428065
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428065
-- Cité par : [art. 1262-6 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-xi.md#article-1262-6) ; [art. D272-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020057107) ; [art. R272-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020056661) ; [Décret n°2008-1498 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020053710) ; [Décret n°2008-1506 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020056328)
+- Cité par : [art. D272-1 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-vii/chapitre-ii.md#article-d272-1) ; [art. R272-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-vii/chapitre-ii.md#article-r272-2) ; [art. 1262-6 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-xi.md#article-1262-6) ; [Décret n°2008-1498 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020053710) ; [Décret n°2008-1506 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020056328)
 
 La mesure d'accompagnement judiciaire porte sur la gestion des prestations sociales choisies par le juge, lors du prononcé de celle-ci, dans une liste fixée par décret.  
 
@@ -63,7 +64,7 @@ Les personnes chargées respectivement de l'exécution d'une mesure prévue à l
 - Identifiant : LEGIARTI000006428067
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428067
-- Renvoie à : [art. L471-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006798076)
+- Renvoie à : [art. L471-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-vii/chapitre-ier.md#article-l471-2)
 
 Seul un mandataire judiciaire à la protection des majeurs inscrit sur la liste prévue à l'article L. 471-2 du code de l'action sociale et des familles peut être désigné par le juge pour exercer la mesure d'accompagnement judiciaire.
 
@@ -72,7 +73,7 @@ Seul un mandataire judiciaire à la protection des majeurs inscrit sur la liste 
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428068
 - Renvoie à : [art. 472 du Code civil](chapitre-ii.md#article-472)
-- Cité par : [art. 495-3 du Code civil](chapitre-iii.md#article-495-3) ; [art. 495-9 du Code civil](chapitre-iii.md#article-495-9) ; [art. R471-5-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037362244) ; [art. R472-8 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037362268)
+- Cité par : [art. 495-3 du Code civil](chapitre-iii.md#article-495-3) ; [art. 495-9 du Code civil](chapitre-iii.md#article-495-9) ; [art. R471-5-1 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iv/titre-vii/chapitre-ier.md#article-r471-5-1) ; [art. R472-8 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iv/titre-vii/chapitre-ii.md#article-r472-8)
 
 Le mandataire judiciaire à la protection des majeurs perçoit les prestations incluses dans la mesure d'accompagnement judiciaire sur un compte ouvert au nom de la personne auprès d'un établissement habilité à recevoir des fonds du public, dans les conditions prévues au premier alinéa de l'article 472, sous réserve des dispositions applicables aux mesures de protection confiées aux personnes ou services préposés des établissements de santé et des établissements sociaux ou médico-sociaux soumis aux règles de la comptabilité publique.  
 

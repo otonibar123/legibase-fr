@@ -1,0 +1,14 @@
+# Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client
+
+Code monétaire et financier › Partie législative › Livre III : Les services › Titre V : Dispositions pénales
+
+### Article L351-1
+- Identifiant : LEGIARTI000037294454
+- État : en vigueur depuis le 06/08/2018
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037294454
+- Renvoie à : [art. L312-1-1 du Code monétaire et financier](../titre-ier/chapitre-ii.md#article-l312-1-1) ; [art. L312-1-2 du Code monétaire et financier](../titre-ier/chapitre-ii.md#article-l312-1-2) ; [art. L314-12 du Code monétaire et financier](../titre-ier/chapitre-iv.md#article-l314-12) ; [art. L314-13 du Code monétaire et financier](../titre-ier/chapitre-iv.md#article-l314-13) ; [art. L315-5 du Code monétaire et financier](../titre-ier/chapitre-v.md#article-l315-5) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38)
+- Cité par : [art. L733-3 du Code monétaire et financier](../../livre-vii/titre-iii/chapitre-iii.md#article-l733-3) ; [art. L752-19 du Code monétaire et financier](../../livre-vii/titre-v/chapitre-ii.md#article-l752-19) ; [art. L753-19 du Code monétaire et financier](../../livre-vii/titre-v/chapitre-iii.md#article-l753-19) ; [art. L754-18 du Code monétaire et financier](../../livre-vii/titre-v/chapitre-iv.md#article-l754-18) ; [Arrêté du 29 juillet 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020933697) ; [LOI n°2013-100 du 28 janvier 2013, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027005543) ; [Ordonnance n°2006-60 du 19 janvier 2006, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006532150)
+
+Est puni d'une amende fiscale de 75 euros le fait de méconnaître l'une des obligations mentionnées aux premier, deuxième, troisième et dernier alinéas du II de l'article L. 312-1-1 et, lorsque le client est une personne physique agissant pour des besoins non professionnels, à l'article L. 314-12 et au III de l'article L. 314-13. Cette amende est prononcée et recouvrée suivant les règles applicables à la taxe sur la valeur ajoutée. Le contentieux est suivi par l'administration qui a constaté l'infraction.
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de méconnaître l'une des obligations mentionnées aux I et IV de l'article L. 312-1-1, au I de l'article L. 314-13, ainsi qu'au IV du même article L. 314-13 lorsque le client est une personne physique agissant pour des besoins non professionnels, et aux articles L. 315-5 à L. 315-8 ou l'une des interdictions édictées au I de l'article L. 312-1-2.

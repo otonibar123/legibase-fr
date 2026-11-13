@@ -1,0 +1,64 @@
+# Code général des impôts, annexe III
+
+Dernière modification du texte dans LEGI : 22/08/2026. 1114 articles en vigueur, répartis dans 41 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Livre premier : Assiette et liquidation de l'impôt**
+  - **Première partie : Impôts d'État**
+    - **Titre premier : Impôts directs et taxes assimilées**
+      - [Chapitre Ier : Impôt sur le revenu](livre-premier/premiere-partie/titre-premier/chapitre-ier.md) (333 articles)
+      - [Chapitre I bis : Impôt sur les sociétés](livre-premier/premiere-partie/titre-premier/chapitre-i-bis.md) (84 articles)
+      - [Chapitre I ter : Imposition minimale mondiale des groupes d'entreprises multinationales et des groupes nationaux](livre-premier/premiere-partie/titre-premier/chapitre-i-ter.md) (7 articles)
+      - [Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés](livre-premier/premiere-partie/titre-premier/chapitre-ii.md) (172 articles)
+      - [Chapitre III : Taxes diverses](livre-premier/premiere-partie/titre-premier/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III](livre-premier/premiere-partie/titre-premier/chapitre-iv.md) (4 articles)
+    - **Titre II : Taxes sur le chiffre d'affaires et taxes assimilées**
+      - [Chapitre premier : Taxe sur la valeur ajoutée](livre-premier/premiere-partie/titre-ii/chapitre-premier.md) (80 articles)
+      - [Chapitre IV : Redevance sanitaire d'abattage](livre-premier/premiere-partie/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Redevance sanitaire de découpage](livre-premier/premiere-partie/titre-ii/chapitre-v.md) (8 articles)
+      - [Chapitre VIII : Redevance pour l'agrément des établissements du secteur de l'alimentation animale](livre-premier/premiere-partie/titre-ii/chapitre-viii.md) (1 article)
+    - **Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires**
+      - [Chapitre premier : Règles applicables aux représentants fiscaux](livre-premier/premiere-partie/titre-ii-bis/chapitre-premier.md) (1 article)
+    - **Titre III : Contributions indirectes et taxes diverses**
+      - [Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés](livre-premier/premiere-partie/titre-iii/chapitre-0i.md) (29 articles)
+      - [Chapitre premier : Boissons](livre-premier/premiere-partie/titre-iii/chapitre-premier.md) (20 articles)
+      - [Chapitre II : Garantie des matières d'or, d'argent et de platine](livre-premier/premiere-partie/titre-iii/chapitre-ii.md) (25 articles)
+    - **Titre IV : Enregistrement, publicité foncière, timbre**
+      - [Chapitre premier : Droits d'enregistrement et taxe de publicité foncière](livre-premier/premiere-partie/titre-iv/chapitre-premier.md) (42 articles)
+      - [Chapitre II : Droits de timbre](livre-premier/premiere-partie/titre-iv/chapitre-ii.md) (17 articles)
+      - [Chapitre 0II bis : Impôt sur la fortune immobilière](livre-premier/premiere-partie/titre-iv/chapitre-0ii-bis.md) (2 articles)
+      - [Chapitre II bis : Taxe sur la valeur vénale des immeubles possédés en France par des entités juridiques](livre-premier/premiere-partie/titre-iv/chapitre-ii-bis.md) (2 articles)
+  - **Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes**
+    - **Titre premier : Impositions communales**
+      - [Chapitre premier : Impôts directs et taxes assimilées](livre-premier/deuxieme-partie/titre-premier/chapitre-premier.md) (74 articles)
+    - **Titre I bis : Impositions départementales**
+      - [Chapitre premier : Impôts directs et taxes assimilées](livre-premier/deuxieme-partie/titre-i-bis/chapitre-premier.md) (12 articles)
+      - [Chapitre II : Enregistrement](livre-premier/deuxieme-partie/titre-i-bis/chapitre-ii.md) (1 article)
+    - **Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics**
+      - [Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux](livre-premier/deuxieme-partie/titre-ier-quater/chapitre-unique.md) (5 articles)
+      - [Chapitre II : Taxe d'aménagement](livre-premier/deuxieme-partie/titre-ier-quater/chapitre-ii.md) (7 articles)
+    - **Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers**
+      - [Chapitre premier : Impôts directs et taxes assimilées](livre-premier/deuxieme-partie/titre-ii/chapitre-premier.md) (4 articles)
+      - [Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées](livre-premier/deuxieme-partie/titre-ii/chapitre-i-bis.md) (1 article)
+      - [Chapitre III : Enregistrement](livre-premier/deuxieme-partie/titre-ii/chapitre-iii.md) (4 articles)
+    - **Titre III : Dispositions communes aux titres Ier à II**
+      - [Chapitre II : Abattement sur les bases d'impositions directes locales](livre-premier/deuxieme-partie/titre-iii/chapitre-ii.md) (1 article)
+  - **Troisième partie : Dispositions communes aux première et deuxième parties**
+    - **Titre premier : Assiette et contrôle de l'impôt**
+      - [Chapitre premier : Obligations des contribuables](livre-premier/troisieme-partie/titre-premier/chapitre-premier.md) (30 articles)
+      - [Chapitre I ter : Transmission des déclarations professionnelles par voie électronique](livre-premier/troisieme-partie/titre-premier/chapitre-i-ter.md) (2 articles)
+      - [Chapitre IV : Agrément](livre-premier/troisieme-partie/titre-premier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Fiducie](livre-premier/troisieme-partie/titre-premier/chapitre-v.md) (1 article)
+      - [Chapitre VI : Obligations déclaratives relatives à la taxe d'aménagement et à la taxe d'archéologie préventive](livre-premier/troisieme-partie/titre-premier/chapitre-vi.md) (2 articles)
+    - **Titre II : Dispositions diverses**
+      - [Chapitre premier : Commissions administratives des impôts](livre-premier/troisieme-partie/titre-ii/chapitre-premier.md) (11 articles)
+      - [Chapitre II : Régime de certains organismes et sociétés](livre-premier/troisieme-partie/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées](livre-premier/troisieme-partie/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Compétences des fonctionnaires de la direction générale des finances publiques](livre-premier/troisieme-partie/titre-ii/chapitre-iv.md) (3 articles)
+- **Livre II : Recouvrement de l'impôt**
+  - [Chapitre premier : Paiement de l'impôt](livre-ii/chapitre-premier.md) (97 articles)
+  - [Chapitre I bis : Pénalités](livre-ii/chapitre-i-bis.md) (5 articles)
+  - [Chapitre II : Procédures](livre-ii/chapitre-ii.md) (2 articles)
+  - [Chapitre II bis : Sûretés et privilèges](livre-ii/chapitre-ii-bis.md) (2 articles)
+  - [Chapitre III : Dégrèvements et restitutions d'impôts](livre-ii/chapitre-iii.md) (1 article)

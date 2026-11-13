@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Première partie : Les relations i
 - Identifiant : LEGIARTI000033231523
 - État : en vigueur depuis le 01/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033231523
-- Renvoie à : [art. L1441-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ier.md#article-l1441-1)
+- Renvoie à : [art. L1441-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ier.md#article-l1441-1) ; [art. L62 du Code électoral](../../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l62)
 - Cité par : [art. R1423-5 du Code du travail](../titre-ii/chapitre-iii.md#article-r1423-5) ; [Arrêté du 3 juillet 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051858831)
 
 Les conseillers prud'hommes sont nommés, en application de l'article L. 1441-1, par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé du travail, publié au Journal officiel de la République française.
@@ -307,7 +307,7 @@ Les catégories de données à caractère personnel relatives au mandataire dép
 - Identifiant : LEGIARTI000034113163
 - État : en vigueur depuis le 03/03/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034113163
-- Renvoie à : [art. L1441-12 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ier.md#article-l1441-12)
+- Renvoie à : [art. R77 du Code de procédure pénale](../../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-iv.md#article-r77) ; [art. R80-1 du Code de procédure pénale](../../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-v.md#article-r80-1) ; [art. L1441-12 du Code du travail](../../../../partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ier.md#article-l1441-12)
 - Cité par : [art. D1441-24-2 du Code du travail](chapitre-ier.md#article-d1441-24-2) ; [art. D1441-24-3 du Code du travail](chapitre-ier.md#article-d1441-24-3)
 
 I. – Les données à caractère personnel enregistrées relatives au candidat présenté par l'organisation syndicale ou professionnelle sont les suivantes :

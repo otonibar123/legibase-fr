@@ -54,7 +54,7 @@ La demande comporte :
 - Identifiant : LEGIARTI000018532730
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532730
-- Cité par : [art. D331-1 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028683057)
+- Cité par : [art. D331-1 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-d331-1)
 
 Lorsque l'inspecteur du travail n'a pas adressé de refus motivé à l'embauche d'un mineur, dans un délai de huit jours francs à compter de l'envoi de la demande de l'employeur, l'autorisation est réputée accordée. Le cachet de la poste fait foi.  
 Lorsque dans ce même délai, l'inspecteur du travail a conditionné son autorisation à une ou plusieurs modifications ou adjonctions dans le libellé de la demande, cette décision vaut autorisation d'embauche, sous réserve que l'employeur respecte, dans l'exécution du contrat, les obligations résultant des modifications ou adjonctions demandées.
@@ -133,7 +133,7 @@ La décision de l'inspecteur du travail de renvoyer de l'établissement un jeune
 - État : en vigueur depuis le 01/07/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037000998
 - Renvoie à : [art. D4153-21 du Code du travail](chapitre-iii.md#article-d4153-21) ; [art. L4153-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-iii.md#article-l4153-8) ; [art. L4153-9 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-iii.md#article-l4153-9)
-- Cité par : [art. D331-15 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030508228) ; [art. R121-12 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034545468)
+- Cité par : [art. D331-15 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-d331-15) ; [art. R121-12 du Code du service national](../../../../../code-du-service-national/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier-bis.md#article-r121-12)
 
 Les dispositions de la présente section définissent les travaux interdits aux jeunes âgés d'au moins quinze ans et de moins de dix-huit ans en application de l'article L. 4153-8 ainsi que, sous réserve des dispositions prévues à l'article D. 4153-21, les travaux interdits susceptibles de dérogation en application de l'article L. 4153-9.
 
@@ -344,6 +344,7 @@ Il est interdit d'affecter les jeunes à des travaux en hauteur portant sur les 
 - Identifiant : LEGIARTI000028058783
 - État : en vigueur depuis le 14/10/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028058783
+- Renvoie à : [art. L557-28 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-v/chapitre-vii.md#article-l557-28)
 - Cité par : [ARRÊTÉ du 16 juin 2015, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030821485)
 
 I.-Il est interdit aux jeunes de procéder à des travaux impliquant les opérations de manipulation, de surveillance, de contrôle et d'intervention sur des appareils à pression soumis à suivi en service en application de l'article L. 557-28 du code de la l'environnement.
@@ -357,7 +358,7 @@ II.-Il peut être dérogé à l'interdiction mentionnée au I dans les condition
 - État : en vigueur depuis le 14/10/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028058780
 - Renvoie à : [art. R4453-2 du Code du travail](../../livre-iv/titre-v/chapitre-iii.md#article-r4453-2) ; [art. R4453-6 du Code du travail](../../livre-iv/titre-v/chapitre-iii.md#article-r4453-6) ; [Code du travail, Section 3 : Dérogations pour les jeunes de quin](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018488561)
-- Cité par : [art. R4452-19 du Code du travail](../../livre-iv/titre-v/chapitre-ii.md#article-r4452-19) ; [art. R1333-96 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022442982)
+- Cité par : [art. R1333-96 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-r1333-96) ; [art. R4452-19 du Code du travail](../../livre-iv/titre-v/chapitre-ii.md#article-r4452-19)
 
 I. - Il est interdit d'affecter des jeunes :
 
@@ -394,7 +395,7 @@ Il est interdit d'affecter les jeunes aux travaux les exposant à une températu
 - Identifiant : LEGIARTI000028058766
 - État : en vigueur depuis le 14/10/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028058766
-- Cité par : [art. R121-12 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034545468)
+- Cité par : [art. R121-12 du Code du service national](../../../../../code-du-service-national/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier-bis.md#article-r121-12)
 
 Il est interdit d'affecter les jeunes à :
 
@@ -410,8 +411,8 @@ Il est interdit d'affecter les jeunes à :
 - Identifiant : LEGIARTI000028057774
 - État : en vigueur depuis le 14/10/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028057774
-- Renvoie à : art. L312-1 du Code de l'action sociale et des familles
-- Cité par : [art. D4153-30 du Code du travail](chapitre-iii.md#article-d4153-30) ; [art. R4153-40 du Code du travail](chapitre-iii.md#article-r4153-40) ; [art. R4153-41 du Code du travail](chapitre-iii.md#article-r4153-41) ; [art. D331-15 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030508228) ; [Décret n°82-453 du 28 mai 1982, art. 5-11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041934650)
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1)
+- Cité par : [art. D331-15 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-d331-15) ; [art. D4153-30 du Code du travail](chapitre-iii.md#article-d4153-30) ; [art. R4153-40 du Code du travail](chapitre-iii.md#article-r4153-40) ; [art. R4153-41 du Code du travail](chapitre-iii.md#article-r4153-41) ; [Décret n°82-453 du 28 mai 1982, art. 5-11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041934650)
 
 Pour l'application de la présente section, le chef d'établissement est le chef de l'établissement d'enseignement, le directeur du centre de formation d'apprentis ou de l'organisme de formation professionnelle, le directeur de l'établissement ou du service social ou médico-social mentionné au V de l'article L. 312-1 du code de l'action sociale et des familles.
 
@@ -419,7 +420,7 @@ Pour l'application de la présente section, le chef d'établissement est le chef
 - Identifiant : LEGIARTI000030508222
 - État : en vigueur depuis le 02/05/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030508222
-- Renvoie à : [art. R5213-2 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-r5213-2) ; [art. R5213-9 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-r5213-9) ; [art. L312-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797382)
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1) ; [art. R5213-2 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-r5213-2) ; [art. R5213-9 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-r5213-9)
 - Cité par : [art. R4153-40 du Code du travail](chapitre-iii.md#article-r4153-40) ; [art. R4153-41 du Code du travail](chapitre-iii.md#article-r4153-41) ; [Décret n°82-453 du 28 mai 1982, art. 5-11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041934650) ; [Décret n°85-603 du 10 juin 1985, art. 5-5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045589276)
 
 Les dispositions de la présente section s'appliquent aux jeunes âgés d'au moins quinze ans et de moins de dix-huit ans suivants :
@@ -449,7 +450,7 @@ f) Les établissements ou services gérés, conventionnés ou habilités par les
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769318
 - Renvoie à : [art. L4111-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md#article-l4111-1) ; [art. L4121-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-1) ; [art. L4121-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-3) ; [art. L4141-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l4141-1) ; [art. R4153-38 du Code du travail](chapitre-iii.md#article-r4153-38) ; [art. R4153-39 du Code du travail](chapitre-iii.md#article-r4153-39) ; [art. R4153-41 du Code du travail](chapitre-iii.md#article-r4153-41) ; [art. R4624-22 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-22) ; [art. R4624-23 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-23)
-- Cité par : [art. D717-37 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053615430)
+- Cité par : [art. D717-37 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-d717-37)
 
 L'employeur ou le responsable de l'établissement mentionné à l'article L. 4111-1 et le chef d'établissement mentionné aux articles R. 4153-38 et R. 4153-39 peuvent, pour une durée de trois ans à compter de l'envoi de la déclaration prévue à l'article R. 4153-41, affecter des jeunes aux travaux interdits susceptibles de dérogation mentionnés à la section 2 du présent chapitre, sous réserve de satisfaire aux conditions suivantes :
 
@@ -523,7 +524,7 @@ La déclaration prévue à l'article R. 4153-41 est renouvelée tous les trois a
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043128589
 - Renvoie à : [art. L4141-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l4141-1) ; [art. L4141-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l4141-3)
-- Cité par : [art. D717-37 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053615430)
+- Cité par : [art. D717-37 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-d717-37)
 
 L'employeur ou le chef d'établissement qui déclare déroger tient à disposition de l'agent de contrôle de l'inspection du travail, à compter de l'affectation de chaque jeune aux travaux en cause, les informations relatives :
 

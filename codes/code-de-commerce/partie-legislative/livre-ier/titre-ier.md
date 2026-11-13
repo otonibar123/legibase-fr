@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE Ier : Du commerce en généra
 - Identifiant : LEGIARTI000044072567
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072567
-- Cité par : [art. L611-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042683852) ; [art. D112-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019730521) ; [Ordonnance n°2010-11 du 7 janvier 2010, art. 16](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021657069) ; [Ordonnance n°2013-792 du 30 août 2013, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027916189)
+- Cité par : [art. L611-1 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-i/chapitre-1er.md#article-l611-1) ; [art. D112-2 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-d112-2) ; [Ordonnance n°2010-11 du 7 janvier 2010, art. 16](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021657069) ; [Ordonnance n°2013-792 du 30 août 2013, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027916189)
 
 La loi répute actes de commerce :
 

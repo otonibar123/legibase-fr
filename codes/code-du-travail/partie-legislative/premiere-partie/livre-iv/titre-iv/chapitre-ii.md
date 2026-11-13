@@ -87,7 +87,7 @@ Les fonctions de conseiller prud'homme sont gratuites vis-à-vis des parties.
 - Identifiant : LEGIARTI000006901533
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901533
-- Renvoie à : [art. 4 du Code civil](../../../../../code-civil/titre-preliminaire.md#article-4) ; [art. 5 du Code civil](../../../../../code-civil/titre-preliminaire.md#article-5) ; [art. 434-7-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418617)
+- Renvoie à : [art. 4 du Code civil](../../../../../code-civil/titre-preliminaire.md#article-4) ; [art. 5 du Code civil](../../../../../code-civil/titre-preliminaire.md#article-5) ; [art. 434-7-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-iv/titre-iii/chapitre-iv.md#article-434-7-1)
 
 Les articles 4 et 5 du code civil et 434-7-1 du code pénal sont applicables aux conseils de prud'hommes et à leurs membres pris individuellement.
 

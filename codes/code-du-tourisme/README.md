@@ -1,0 +1,134 @@
+# Code du tourisme
+
+Dernière modification du texte dans LEGI : 03/09/2026. 641 articles en vigueur, répartis dans 82 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME.**
+    - **TITRE Ier : PRINCIPES GÉNÉRAUX.**
+      - [Chapitre unique.](partie-legislative/livre-ier/titre-ier/chapitre-unique.md) (2 articles)
+    - **TITRE II : L'ÉTAT.**
+      - [Chapitre 1er : Compétences.](partie-legislative/livre-ier/titre-ii/chapitre-1er.md) (1 article)
+    - **TITRE III : LES COLLECTIVITÉS TERRITORIALES ET LEURS GROUPEMENTS.**
+      - [Chapitre 1er : La région](partie-legislative/livre-ier/titre-iii/chapitre-1er.md) (10 articles)
+      - [Chapitre 2 : Le département.](partie-legislative/livre-ier/titre-iii/chapitre-2.md) (6 articles)
+      - [Chapitre 3 : La commune](partie-legislative/livre-ier/titre-iii/chapitre-3.md) (21 articles)
+      - [Chapitre 4 : Groupements intercommunaux.](partie-legislative/livre-ier/titre-iii/chapitre-4.md) (7 articles)
+      - [Chapitre 5 : La métropole de Lyon](partie-legislative/livre-ier/titre-iii/chapitre-5.md) (2 articles)
+    - **TITRE IV : GROUPEMENTS**
+      - [Chapitre unique](partie-legislative/livre-ier/titre-iv/chapitre-unique.md) (2 articles)
+    - **TITRE V : DISPOSITIONS RELATIVES À LA CORSE.**
+      - [Chapitre unique.](partie-legislative/livre-ier/titre-v/chapitre-unique.md) (6 articles)
+    - **TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.**
+      - [Chapitre 1er : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et La Réunion.](partie-legislative/livre-ier/titre-vi/chapitre-1er.md) (4 articles)
+      - [Chapitre 2 : Dispositions relatives à Saint-Pierre-et-Miquelon.](partie-legislative/livre-ier/titre-vi/chapitre-2.md) (3 articles)
+      - [Chapitre 3 : Dispositions relatives à Mayotte.](partie-legislative/livre-ier/titre-vi/chapitre-3.md) (8 articles)
+  - **LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME**
+    - **TITRE Ier : DES AGENTS DE VOYAGE ET AUTRES OPÉRATEURS DE LA VENTE DE VOYAGES ET DE SÉJOURS**
+      - [Chapitre unique : Régime de la vente de voyages et de séjours](partie-legislative/livre-ii/titre-ier/chapitre-unique.md) (26 articles)
+    - **TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES**
+      - [Chapitre unique : Personnels qualifiés](partie-legislative/livre-ii/titre-ii/chapitre-unique.md) (4 articles)
+    - **TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER**
+      - [Chapitre 2 : Dispositions relatives à Saint-Pierre-et-Miquelon](partie-legislative/livre-ii/titre-iv/chapitre-2.md) (2 articles)
+      - [Chapitre 3 : Dispositions relatives à Mayotte](partie-legislative/livre-ii/titre-iv/chapitre-3.md) (2 articles)
+  - **LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS**
+    - **TITRE Ier : HÔTELS, AUBERGES COLLECTIVES, CAFÉS ET DÉBITS DE BOISSONS**
+      - [Chapitre 1er : Hôtels](partie-legislative/livre-iii/titre-ier/chapitre-1er.md) (13 articles)
+      - [Chapitre 2 : Auberges collectives](partie-legislative/livre-iii/titre-ier/chapitre-2.md) (1 article)
+      - [Chapitre 3 : Cafés et débits de boissons](partie-legislative/livre-iii/titre-ier/chapitre-3.md) (1 article)
+      - [Chapitre 4 : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse](partie-legislative/livre-iii/titre-ier/chapitre-4.md) (1 article)
+    - **TITRE II : HÉBERGEMENTS AUTRES QU'HÔTELS ET TERRAINS DE CAMPING**
+      - [Chapitre 1er : Résidences de tourisme](partie-legislative/livre-iii/titre-ii/chapitre-1er.md) (5 articles)
+      - [Chapitre 2 : Immobilier de loisir réhabilité](partie-legislative/livre-iii/titre-ii/chapitre-2.md) (1 article)
+      - [Chapitre 4 : Meublés de tourisme et chambres d'hôtes](partie-legislative/livre-iii/titre-ii/chapitre-4.md) (8 articles)
+      - [Chapitre 5 : Villages de vacances](partie-legislative/livre-iii/titre-ii/chapitre-5.md) (1 article)
+      - [Chapitre 6 : Refuges de montagne](partie-legislative/livre-iii/titre-ii/chapitre-6.md) (1 article)
+      - [Chapitre 7 : Dénominations et appellations](partie-legislative/livre-iii/titre-ii/chapitre-7.md) (1 article)
+    - **TITRE III : TERRAINS DE CAMPING, CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS**
+      - [Chapitre 1er : Ouverture et aménagement](partie-legislative/livre-iii/titre-iii/chapitre-1er.md) (1 article)
+      - [Chapitre 2 : Classement](partie-legislative/livre-iii/titre-iii/chapitre-2.md) (1 article)
+      - [Chapitre 3 : Règles relatives aux habitations légères de loisirs et aux parcs résidentiels de loisirs](partie-legislative/livre-iii/titre-iii/chapitre-3.md) (1 article)
+    - **TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.**
+      - [Chapitre 1er : Littoral.](partie-legislative/livre-iii/titre-iv/chapitre-1er.md) (16 articles)
+      - [Chapitre 2 : Montagne.](partie-legislative/livre-iii/titre-iv/chapitre-2.md) (31 articles)
+      - [Chapitre 3 : Espace rural et naturel.](partie-legislative/livre-iii/titre-iv/chapitre-3.md) (9 articles)
+    - **TITRE V : DISPOSITIONS RELATIVES À LA CORSE.**
+      - [Chapitre unique.](partie-legislative/livre-iii/titre-v/chapitre-unique.md) (1 article)
+    - **TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER**
+      - [Chapitre 1er : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et La Réunion](partie-legislative/livre-iii/titre-vi/chapitre-1er.md) (3 articles)
+      - [Chapitre 2 : Dispositions relatives à Saint-Pierre-et-Miquelon](partie-legislative/livre-iii/titre-vi/chapitre-2.md) (2 articles)
+      - [Chapitre 3 : Dispositions relatives à Mayotte.](partie-legislative/livre-iii/titre-vi/chapitre-3.md) (1 article)
+    - [TITRE VII : DISPOSITIONS COMMUNES](partie-legislative/livre-iii/titre-vii.md) (1 article)
+  - **LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.**
+    - **TITRE Ier : ACCÈS AUX VACANCES**
+      - [Chapitre 1er : Chèques-vacances](partie-legislative/livre-iv/titre-ier/chapitre-1er.md) (19 articles)
+      - [Chapitre 2 : Agrément d'organismes ou de personnes physiques concourant au tourisme social.](partie-legislative/livre-iv/titre-ier/chapitre-2.md) (1 article)
+    - **TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.**
+      - [Chapitre 1er : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.](partie-legislative/livre-iv/titre-ii/chapitre-1er.md) (2 articles)
+      - [Chapitre 2 : Ressources des collectivités territoriales relatives au tourisme.](partie-legislative/livre-iv/titre-ii/chapitre-2.md) (13 articles)
+    - **TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.**
+      - [Chapitre 1er : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et La Réunion.](partie-legislative/livre-iv/titre-iv/chapitre-1er.md) (3 articles)
+      - [Chapitre 2 : Dispositions relatives à Saint-Pierre-et-Miquelon.](partie-legislative/livre-iv/titre-iv/chapitre-2.md) (2 articles)
+      - [Chapitre 3 : Dispositions relatives à Mayotte.](partie-legislative/livre-iv/titre-iv/chapitre-3.md) (4 articles)
+- **Partie réglementaire**
+  - **LIVRE Ier : ORGANISATION GÉNÉRALE DU TOURISME.**
+    - **TITRE II : L'ÉTAT.**
+      - [Chapitre II : Organisation administrative.](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (2 articles)
+    - **TITRE III : LES COLLECTIVITÉS TERRITORIALES ET LEURS GROUPEMENTS.**
+      - [Chapitre III : La commune.](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (43 articles)
+      - [Chapitre IV : Groupements intercommunaux.](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (9 articles)
+    - **TITRE IV : GROUPEMENTS.**
+      - [Chapitre unique.](partie-reglementaire/livre-ier/titre-iv/chapitre-unique.md) (7 articles)
+    - **TITRE V : DISPOSITIONS RELATIVES À LA CORSE.**
+      - [Chapitre unique.](partie-reglementaire/livre-ier/titre-v/chapitre-unique.md) (1 article)
+    - **TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.**
+      - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.](partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions relatives à Mayotte.](partie-reglementaire/livre-ier/titre-vi/chapitre-iii.md) (3 articles)
+  - **LIVRE II : ACTIVITÉS ET PROFESSIONS DU TOURISME.**
+    - **TITRE Ier : DES AGENTS DE VOYAGES ET AUTRES OPERATEURS DE LA VENTE DE VOYAGES ET DE SEJOURS.**
+      - [Chapitre unique : Régime de la vente de voyages et de séjours.](partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md) (51 articles)
+    - **TITRE II : DISPOSITIONS RELATIVES AUX VISITES DANS LES MUSÉES ET MONUMENTS HISTORIQUES.**
+      - [Chapitre unique : Personnels qualifiés.](partie-reglementaire/livre-ii/titre-ii/chapitre-unique.md) (15 articles)
+    - **TITRE III : EXPLOITATION DES VÉHICULES DE TOURISME.**
+      - [Chapitre unique : Exploitation de véhicules à usage touristique et de loisirs](partie-reglementaire/livre-ii/titre-iii/chapitre-unique.md) (1 article)
+    - **TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.**
+      - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions relatives à Mayotte.](partie-reglementaire/livre-ii/titre-iv/chapitre-iii.md) (2 articles)
+  - **LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS.**
+    - **TITRE Ier : Hôtels, auberges collectives, cafés et débits de boissons**
+      - [Chapitre Ier : Hôtels.](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Café, débits de boissons et auberges collectives](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (8 articles)
+      - [Chapitre IV : Débits de boissons ayant pour activité principale l'exploitation d'une piste de danse](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+    - **TITRE II : HÉBERGEMENTS AUTRES QUE HÔTELS ET TERRAINS DE CAMPING.**
+      - [Chapitre Ier : Résidences de tourisme.](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre IV : Meublés de tourisme et chambres d'hôtes.](partie-reglementaire/livre-iii/titre-ii/chapitre-iv.md) (33 articles)
+      - [Chapitre V : Villages et maisons familiales de vacances.](partie-reglementaire/livre-iii/titre-ii/chapitre-v.md) (26 articles)
+      - [Chapitre VI : Refuges de montagne.](partie-reglementaire/livre-iii/titre-ii/chapitre-vi.md) (3 articles)
+    - **TITRE III : TERRAINS DE CAMPING OU DE CARAVANAGE ET AUTRES TERRAINS AMÉNAGÉS.**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Classement.](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Règles relatives aux habitations légères de loisirs, aux parcs résidentiels de loisirs et aux résidences mobiles de loisirs.](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (13 articles)
+    - **TITRE IV : AMÉNAGEMENTS ET RÉGLEMENTATION DES ESPACES À VOCATION TOURISTIQUE.**
+      - [Chapitre Ier : Littoral.](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Montagne.](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (33 articles)
+      - [Chapitre III : Espace rural et naturel.](partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md) (6 articles)
+    - **TITRE V : DISPOSITIONS RELATIVES À LA CORSE.**
+      - [Chapitre unique.](partie-reglementaire/livre-iii/titre-v/chapitre-unique.md) (3 articles)
+    - **TITRE VI : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.**
+      - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.](partie-reglementaire/livre-iii/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-iii/titre-vi/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Dispositions relatives à Mayotte.](partie-reglementaire/livre-iii/titre-vi/chapitre-iii.md) (4 articles)
+  - **LIVRE IV : FINANCEMENT DE L'ACCÈS AUX VACANCES ET FISCALITÉ DU TOURISME.**
+    - **TITRE Ier : ACCÈS AUX VACANCES.**
+      - [Chapitre Ier : Chèques-vacances.](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (27 articles)
+      - [Chapitre II : Agrément d'organismes ou de personnes physiques concourant au tourisme social.](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (13 articles)
+    - **TITRE II : DISPOSITIONS FISCALES PARTICULIÈRES AUX ACTIVITÉS TOURISTIQUES.**
+      - [Chapitre Ier : Ressources et incitations de l'Etat relatives aux activités et hébergements touristiques.](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Ressources des collectivités territoriales relatives au tourisme.](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (7 articles)
+    - **TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES COLLECTIVITÉS D'OUTRE-MER.**
+      - [Chapitre Ier : Dispositions relatives à la Guadeloupe, la Guyane, la Martinique et la Réunion.](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions relatives à Saint-Pierre-et-Miquelon.](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions relatives à Mayotte.](partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md) (2 articles)

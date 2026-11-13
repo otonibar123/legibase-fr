@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000038319547
 - État : en vigueur depuis le 31/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038319547
-- Renvoie à : art. L312-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1)
 - Cité par : [art. R4733-15 du Code du travail](chapitre-iii.md#article-r4733-15)
 
 Pour l'application du présent chapitre, le chef d'établissement est le chef de l'établissement d'enseignement, le directeur du centre de formation d'apprentis ou de l'organisme de formation professionnelle, le directeur de l'établissement ou du service social ou médico-social mentionné au V de l'article L. 312-1 du code de l'action sociale et des familles.

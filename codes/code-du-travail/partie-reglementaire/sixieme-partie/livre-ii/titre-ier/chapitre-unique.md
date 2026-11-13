@@ -69,7 +69,7 @@ La fraction des ressources faisant l'objet d'une réaffectation en application d
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038060882
 - Renvoie à : [art. L6222-33 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-33) ; [art. L6241-2 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-iv/chapitre-ier.md#article-l6241-2)
-- Cité par : [art. D214-12 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030428818)
+- Cité par : [art. D214-12 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-d214-12)
 
 Conformément au 3° de l'article L. 6123-1, la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle est consulté sur les projets de dispositions réglementaires prévus par le présent livre.
 

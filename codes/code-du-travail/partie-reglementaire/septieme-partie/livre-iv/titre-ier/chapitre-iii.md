@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Septième partie : Dispositions pa
 - Identifiant : LEGIARTI000018521025
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018521025
-- Cité par : [art. R7413-5 du Code du travail](chapitre-iii.md#article-r7413-5) ; [art. R718-25 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018334796)
+- Cité par : [art. R7413-5 du Code du travail](chapitre-iii.md#article-r7413-5) ; [art. R718-25 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md#article-r718-25)
 
 Le donneur d'ouvrage à domicile tient une comptabilité distincte des matières premières et fournitures destinées au travailleur à domicile.  
 Cette comptabilité fait ressortir séparément :  

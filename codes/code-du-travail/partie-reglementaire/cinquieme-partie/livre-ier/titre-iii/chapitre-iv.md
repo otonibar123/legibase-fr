@@ -217,7 +217,7 @@ Elle comprend l'ensemble des éléments indiqués à l'article R. 5134-17.
 - Identifiant : LEGIARTI000026566087
 - État : en vigueur depuis le 01/11/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026566087
-- Renvoie à : [art. L5134-19-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-1) ; [art. L5311-4 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-l5311-4) ; [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; art. L262-24 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-24 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-24) ; [art. L5134-19-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-1) ; [art. L5311-4 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ier.md#article-l5311-4) ; [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1)
 - Cité par : [art. R5134-20 du Code du travail](chapitre-iv.md#article-r5134-20) ; [art. R5134-21 du Code du travail](chapitre-iv.md#article-r5134-21) ; [art. R5134-22 du Code du travail](chapitre-iv.md#article-r5134-22) ; [art. R5134-23 du Code du travail](chapitre-iv.md#article-r5134-23) ; [Arrêté du 26 novembre 2012, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032424629)
 
 L'Agence de services et de paiement est autorisée à mettre en œuvre un traitement automatisé des données à caractère personnel contenues dans les décisions d'attribution de l'aide à l'insertion professionnelle.
@@ -272,7 +272,7 @@ Les catégories de données à caractère personnel enregistrées sont les suiva
 - Identifiant : LEGIARTI000021338111
 - État : en vigueur depuis le 01/01/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021338111
-- Renvoie à : [art. R5134-18 du Code du travail](chapitre-iv.md#article-r5134-18) ; art. L262-16 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-16 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-16) ; [art. R5134-18 du Code du travail](chapitre-iv.md#article-r5134-18)
 
 Pour les nécessités liées à la seule finalité mentionnée au 3° de l'article R. 5134-18 les agents des organismes mentionnés à l'article L. 262-16 du code de l'action sociale et des familles désignés et habilités par l'autorité responsable de ces organismes sont destinataires des données du traitement relatives aux personnes bénéficiaires du revenu de solidarité active financé par le département et portant sur :
 
@@ -453,7 +453,7 @@ Ce programme prévisionnel peut être modifié à la condition que cette possibi
 - Identifiant : LEGIARTI000026566039
 - État : en vigueur depuis le 01/11/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026566039
-- Renvoie à : art. L262-27 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-27 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-27)
 - Cité par : [art. R5134-17 du Code du travail](chapitre-iv.md#article-r5134-17) ; [art. R5134-39 du Code du travail](chapitre-iv.md#article-r5134-39)
 
 L'autorité qui attribue l'aide à l'insertion professionnelle désigne en son sein ou auprès d'un organisme chargé de l'accompagnement ou de l'insertion, en le mentionnant dans la décision d'attribution initiale de l'aide, un référent chargé d'assurer le suivi du parcours d'insertion professionnelle du salarié en contrat d'accompagnement dans l'emploi.
@@ -509,7 +509,7 @@ L'employeur communique aux organismes mentionnés au 1° ou au 2° les justifica
 - Identifiant : LEGIARTI000031694898
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031694898
-- Renvoie à : [art. L5134-26 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-26) ; [art. L5134-30-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-30-2) ; art. L262-2 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-2) ; [art. L5134-26 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-26) ; [art. L5134-30-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-30-2)
 - Cité par : [art. R5134-42 du Code du travail](chapitre-iv.md#article-r5134-42) ; [art. R5134-43 du Code du travail](chapitre-iv.md#article-r5134-43) ; [art. R5134-70 du Code du travail](chapitre-iv.md#article-r5134-70)
 
 Pour l'application de l'article L. 5134-30-2, la participation mensuelle du département au financement de l'aide est égale à 88 % du montant forfaitaire mentionné à l'article L. 262-2 du code de l'action sociale et des familles, applicable à un foyer composé d'une seule personne, dans la limite de l'aide effectivement versée.
@@ -720,7 +720,7 @@ Cette demande motivée est accompagnée d'un bilan des actions réalisées en ma
 - Identifiant : LEGIARTI000026565998
 - État : en vigueur depuis le 01/11/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026565998
-- Renvoie à : [art. L5134-67-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-67-1) ; [art. L6314-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l6314-1)
+- Renvoie à : [art. L262-37 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-37) ; [art. L5134-67-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-67-1) ; [art. L6314-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l6314-1)
 - Cité par : [art. R5134-167 du Code du travail](chapitre-iv.md#article-r5134-167)
 
 La durée maximale de l'aide à l'insertion professionnelle, fixée à vingt-quatre mois par l'article L. 5134-67-1, peut être prolongée, en application du troisième alinéa du même article, pour la durée de la formation suivie par le salarié restant à courir et dans la limite de soixante mois.
@@ -754,7 +754,7 @@ En application de l'article L. 2323-48, les institutions représentatives du per
 - Identifiant : LEGIARTI000026565991
 - État : en vigueur depuis le 01/11/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026565991
-- Renvoie à : art. L262-27 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-27 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-27)
 - Cité par : [art. R5134-17 du Code du travail](chapitre-iv.md#article-r5134-17) ; [art. R5134-49 du Code du travail](chapitre-iv.md#article-r5134-49) ; [art. R5134-62 du Code du travail](chapitre-iv.md#article-r5134-62)
 
 L'autorité qui attribue l'aide à l'insertion professionnelle désigne en son sein ou auprès d'un organisme chargé de l'accompagnement ou de l'insertion, en le mentionnant dans la décision d'attribution initiale de l'aide, un référent chargé d'assurer le suivi du parcours d'insertion professionnelle du salarié en contrat initiative-emploi.
@@ -809,7 +809,7 @@ L'employeur communique aux organismes mentionnés au 1° ou au 2° les justifica
 - Identifiant : LEGIARTI000031831493
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031831493
-- Renvoie à : [art. L5134-72-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-72-2) ; art. L262-2 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-2) ; [art. L5134-72-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-72-2)
 - Cité par : [art. R5134-66 du Code du travail](chapitre-iv.md#article-r5134-66)
 
 Pour l'application de l'article L. 5134-72-2, la participation mensuelle du département au financement de l'aide est égale à 88 % du montant forfaitaire mentionné à l'article L. 262-2 du code de l'action sociale et des familles, applicable à un foyer composé d'une seule personne, dans la limite du montant de l'aide effectivement versée.
@@ -827,7 +827,7 @@ Les taux de prise en charge déterminant le montant de l'aide financière mentio
 - Identifiant : LEGIARTI000021338323
 - État : en vigueur depuis le 01/01/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021338323
-- Renvoie à : [art. D5134-64 du Code du travail](chapitre-iv.md#article-d5134-64) ; [art. L5134-19-4 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-4) ; [art. R5134-65 du Code du travail](chapitre-iv.md#article-r5134-65)
+- Renvoie à : [art. L262-30 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-30) ; [art. D5134-64 du Code du travail](chapitre-iv.md#article-d5134-64) ; [art. L5134-19-4 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-4) ; [art. R5134-65 du Code du travail](chapitre-iv.md#article-r5134-65)
 
 Lorsque, en application du cinquième alinéa de l'article L. 5134-19-4, le département majore les taux de prise en charge mentionnés à l'article R. 5134-65, le coût induit par cette majoration est à la charge du département. Cette contribution du département s'ajoute au montant de sa participation telle que définie à l'article D. 5134-64.
 
@@ -854,7 +854,7 @@ Sous réserve des cas mentionnés aux articles R. 5134-69 et R. 5134-70, l'emplo
 - Identifiant : LEGIARTI000026565979
 - État : en vigueur depuis le 01/11/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026565979
-- Renvoie à : [art. L1237-11 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-11) ; [art. R5425-7 du Code du travail](../../livre-iv/titre-ii/chapitre-v.md#article-r5425-7)
+- Renvoie à : [art. L262-8 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-8) ; [art. L262-30 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-30) ; [art. R821-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-ii.md#article-r821-4) ; [art. L1237-11 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-11) ; [art. R5425-7 du Code du travail](../../livre-iv/titre-ii/chapitre-v.md#article-r5425-7)
 - Cité par : [art. R5134-54 du Code du travail](chapitre-iv.md#article-r5134-54) ; [art. R5134-68 du Code du travail](chapitre-iv.md#article-r5134-68)
 
 Les montants perçus au titre de l'aide à l'insertion professionnelle ne font pas l'objet d'un reversement et l'employeur conserve le bénéfice des aides correspondant au nombre de jours travaillés par le salarié dont le contrat initiative-emploi est un contrat à durée indéterminée, dans les cas suivants :
@@ -1077,7 +1077,7 @@ Ce montant est revalorisé annuellement au 1er juillet, proportionnellement à l
 - Identifiant : LEGIARTI000028639852
 - État : en vigueur depuis le 23/02/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028639852
-- Renvoie à : [art. L5134-19-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-1)
+- Renvoie à : [art. L5134-19-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l5134-19-1) ; art. L335-6 du Code de l'éducation ; art. R335-13 du Code de l'éducation
 
 Peuvent être recrutés en emploi d'avenir les jeunes sans emploi de seize à vingt-cinq ans et les personnes handicapées de moins de trente ans sans emploi, à la date de la signature du contrat, qui :
 
@@ -1091,6 +1091,7 @@ Peuvent être recrutés en emploi d'avenir les jeunes sans emploi de seize à vi
 - Identifiant : LEGIARTI000026563435
 - État : en vigueur depuis le 01/11/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026563435
+- Renvoie à : [art. L214-13 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iv.md#article-l214-13)
 - Cité par : [art. R5134-163 du Code du travail](chapitre-iv.md#article-r5134-163) ; [art. R5134-164 du Code du travail](chapitre-iv.md#article-r5134-164)
 
 I.-Le schéma d'orientation régional définit la stratégie territoriale de mise en œuvre des emplois d'avenir, notamment :

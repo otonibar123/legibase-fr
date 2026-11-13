@@ -20,7 +20,7 @@ Dans tous les cas, les parties peuvent saisir la juridiction par une requête co
 - Identifiant : LEGIARTI000047539064
 - État : en vigueur depuis le 13/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047539064
-- Renvoie à : [art. R211-3-4 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039011906) ; [art. R211-3-8 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039011914) ; [art. L125-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032009727) ; [LOI n° 2016-1547 du 18 novembre 2016, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000033418816)
+- Renvoie à : [art. R211-3-4 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-4) ; [art. R211-3-8 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-8) ; [art. L125-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-1) ; [LOI n° 2016-1547 du 18 novembre 2016, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000033418816)
 - Cité par : [art. 127 du Code de procédure civile](../../../livre-ier/titre-vi/articles-directs.md#article-127) ; [ARRÊTÉ du 29 mai 2015, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054998002) ; [Décret n°2023-357 du 11 mai 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047538387)
 
 En application de l'article 4 de la loi n° 2016-1547 du 18 novembre 2016, à peine d'irrecevabilité que le juge peut prononcer d'office, la demande en justice est précédée, au choix des parties, d'une tentative de conciliation menée par un conciliateur de justice, d'une tentative de médiation ou d'une tentative de procédure participative, lorsqu'elle tend au paiement d'une somme n'excédant pas 5 000 euros ou lorsqu'elle est relative à l'une des actions mentionnées aux articles R. 211-3-4 et R. 211-3-8 du code de l'organisation judiciaire ou à un trouble anormal de voisinage.
@@ -55,7 +55,7 @@ La demande formée par assignation est portée à une audience dont la date est 
 - Identifiant : LEGIARTI000039623508
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623508
-- Renvoie à : [art. 54 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-54) ; [art. 56 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-56) ; art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1) ; [art. 54 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-54) ; [art. 56 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-56)
 - Cité par : [Décret n°2019-1333 du 11 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039482301)
 
 Lorsque la représentation par avocat est obligatoire, outre les mentions prescrites aux articles 54 et 56, l'assignation contient à peine de nullité :  
@@ -72,7 +72,7 @@ Le cas échéant, l'assignation mentionne l'accord du demandeur pour que la proc
 - Identifiant : LEGIARTI000039623505
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623505
-- Renvoie à : [art. 54 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-54) ; [art. 56 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-56) ; [art. 832 du Code de procédure civile](../sous-titre-iii/chapitre-ier.md#article-832) ; art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1) ; [art. 54 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-54) ; [art. 56 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-56) ; [art. 832 du Code de procédure civile](../sous-titre-iii/chapitre-ier.md#article-832)
 
 Lorsque la représentation par avocat n'est pas obligatoire, l'assignation contient, à peine de nullité, outre les mentions prescrites aux articles 54 et 56, les nom, prénoms et adresse de la personne chez qui le demandeur élit domicile en France lorsqu'il réside à l'étranger.  
 
@@ -99,7 +99,7 @@ La remise doit avoir lieu dans ce délai sous peine de caducité de l'assignatio
 - Identifiant : LEGIARTI000039623499
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623499
-- Cité par : [art. ANNEXE, art. 33 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-33)
+- Cité par : [art. ANNEXE, art. 33 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-33)
 
 En cas d'urgence, les délais de comparution et de remise de l'assignation peuvent être réduits par autorisation du juge.  
 
@@ -125,7 +125,7 @@ Lorsque les parties ont soumis leur différend à un conciliateur de justice san
 - Identifiant : LEGIARTI000039623489
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623489
-- Renvoie à : [art. 54 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-54) ; [art. 57 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-57) ; art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1) ; [art. 54 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-54) ; [art. 57 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-57)
 - Cité par : [Décret n°2019-1333 du 11 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039482301)
 
 Outre les mentions prescrites par les articles 54 et 57, la requête doit contenir, à peine de nullité, un exposé sommaire des motifs de la demande. Les pièces que le requérant souhaite invoquer à l'appui de ses prétentions sont jointes à sa requête en autant de copies que de personnes dont la convocation est demandée.  
@@ -165,7 +165,7 @@ La copie de la requête est jointe à l'avis adressé à l'avocat du défendeur 
 - Identifiant : LEGIARTI000039623483
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623483
-- Cité par : [art. ANNEXE, art. 33 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-33)
+- Cité par : [art. ANNEXE, art. 33 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-33)
 
 Lorsque la requête est formée conjointement par les parties, les requérants peuvent, dès le dépôt de la requête au greffe demander que l'affaire soit attribuée à un juge unique, ou renoncer à la faculté de demander le renvoi à la formation collégiale.
 

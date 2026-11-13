@@ -15,6 +15,7 @@ Code du travail › Partie réglementaire › Deuxième partie : Les relations c
 - État : en vigueur depuis le 18/12/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036226423
 - Renvoie à : [art. L2241-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-iv/chapitre-ier.md#article-l2241-1) ; [art. L2241-8 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-iv/chapitre-ier.md#article-l2241-8)
+- Cité par : [art. R138-28 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-8-ter.md#article-r138-28)
 
 Pour la négociation sur les salaires prévue à l'article L. 2241-8, un rapport est remis par les organisations d'employeurs aux organisations syndicales de salariés au moins quinze jours avant la date d'ouverture de la négociation.
 

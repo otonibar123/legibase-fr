@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE IV : De la liberté des prix 
 - Identifiant : LEGIARTI000034161152
 - État : en vigueur depuis le 11/03/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034161152
-- Cité par : [art. L123-11-6 du Code de commerce](../livre-ier/titre-ii/chapitre-iii.md#article-l123-11-6) ; [art. L761-8 du Code de commerce](../livre-vii/titre-vi/chapitre-ier.md#article-l761-8) ; [art. L311-8 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034185074) ; [art. L511-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725644)
+- Cité par : [art. L123-11-6 du Code de commerce](../livre-ier/titre-ii/chapitre-iii.md#article-l123-11-6) ; [art. L761-8 du Code de commerce](../livre-vii/titre-vi/chapitre-ier.md#article-l761-8) ; [art. L311-8 du Code du tourisme](../../../code-du-tourisme/partie-legislative/livre-iii/titre-ier/chapitre-1er.md#article-l311-8) ; [art. L511-4 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-4)
 
 La juridiction peut condamner solidairement les personnes morales au paiement des amendes prononcées contre leurs dirigeants en vertu des dispositions du présent livre et des textes pris pour son application.
 
@@ -14,7 +14,7 @@ La juridiction peut condamner solidairement les personnes morales au paiement de
 - Identifiant : LEGIARTI000034161161
 - État : en vigueur depuis le 11/03/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034161161
-- Renvoie à : art. 131-10 du Code pénal
+- Renvoie à : [art. 131-10 du Code pénal](../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-10)
 - Cité par : [art. L930-1 du Code de commerce](../livre-ix/titre-iii/articles-directs.md#article-l930-1)
 
 En cas de condamnation au titre d'un délit prévu au titre IV du présent livre, la juridiction peut ordonner que sa décision soit affichée ou diffusée dans les conditions prévues par l'article 131-10 du code pénal.

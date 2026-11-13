@@ -23,7 +23,7 @@ Constituent, en particulier, des pratiques commerciales déloyales les pratiques
 - État : en vigueur depuis le 28/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563114
 - Renvoie à : [art. L112-1-1 du Code de la consommation](../titre-ier/chapitre-ii.md#article-l112-1-1)
-- Cité par : [art. L121-1 du Code de la consommation](chapitre-ier.md#article-l121-1) ; [art. L121-4 du Code de la consommation](chapitre-ier.md#article-l121-4) ; [art. L121-5 du Code de la consommation](chapitre-ier.md#article-l121-5) ; [art. L132-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-1) ; [art. L132-2 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2) ; [art. L132-2-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2-1) ; [art. L132-2-2 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2-2) ; [art. L455-2 du Code de la consommation](../../livre-iv/titre-v/chapitre-v.md#article-l455-2) ; [art. L511-20 du Code de la consommation](../../livre-v/titre-ier/chapitre-ier.md#article-l511-20) ; [Arrêté du 9 juillet 2018, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037219861) ; [art. L511-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052191351) ; [art. L523-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052848135) ; [art. L114-21 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845955) ; [art. L165-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049071113) ; [art. L931-7-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845932) ; [art. L500-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052852576)
+- Cité par : [art. L121-1 du Code de la consommation](chapitre-ier.md#article-l121-1) ; [art. L121-4 du Code de la consommation](chapitre-ier.md#article-l121-4) ; [art. L121-5 du Code de la consommation](chapitre-ier.md#article-l121-5) ; [art. L132-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-1) ; [art. L132-2 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2) ; [art. L132-2-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2-1) ; [art. L132-2-2 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2-2) ; [art. L455-2 du Code de la consommation](../../livre-iv/titre-v/chapitre-v.md#article-l455-2) ; [art. L511-20 du Code de la consommation](../../livre-v/titre-ier/chapitre-ier.md#article-l511-20) ; [art. L165-8 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-5.md#article-l165-8) ; [art. L643-3-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-iii.md#article-l643-3-3) ; [Arrêté du 9 juillet 2018, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037219861) ; [art. L511-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052191351) ; [art. L523-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052848135) ; [art. L114-21 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845955) ; [art. L931-7-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845932) ; [art. L500-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052852576)
 
 Une pratique commerciale est trompeuse si elle est commise dans l'une des circonstances suivantes :
 
@@ -55,7 +55,7 @@ g) Le traitement des réclamations et les droits du consommateur ;
 - Identifiant : LEGIARTI000044563111
 - État : en vigueur depuis le 28/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563111
-- Cité par : [art. L442-5 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-5) ; [art. L443-1 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iv/titre-iv/chapitre-iii.md#article-l443-1) ; [art. L121-4 du Code de la consommation](chapitre-ier.md#article-l121-4) ; [art. L165-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049071113) ; [LOI n°2023-451 du 9 juin 2023, art. 5-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050457275)
+- Cité par : [art. L442-5 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-5) ; [art. L443-1 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iv/titre-iv/chapitre-iii.md#article-l443-1) ; [art. L121-4 du Code de la consommation](chapitre-ier.md#article-l121-4) ; [art. L165-8 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-5.md#article-l165-8) ; [LOI n°2023-451 du 9 juin 2023, art. 5-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050457275)
 
 Une pratique commerciale est également trompeuse si, compte tenu des limites propres au moyen de communication utilisé et des circonstances qui l'entourent, elle omet, dissimule ou fournit de façon inintelligible, ambiguë ou à contretemps une information substantielle ou lorsqu'elle n'indique pas sa véritable intention commerciale dès lors que celle-ci ne ressort pas déjà du contexte.
 
@@ -161,7 +161,7 @@ Par dérogation au 24° du présent article, sont exclus du dispositif les ingr�
 - État : en vigueur depuis le 23/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034072564
 - Renvoie à : [art. L121-2 du Code de la consommation](chapitre-ier.md#article-l121-2)
-- Cité par : [art. L165-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049071113)
+- Cité par : [art. L165-8 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-5.md#article-l165-8)
 
 Les dispositions des articles L. 121-2 à L. 121-4 sont également applicables aux pratiques qui visent les professionnels et les non-professionnels.
 
@@ -240,7 +240,7 @@ Est interdit le fait d'abuser de la faiblesse ou de l'ignorance d'une personne p
 - Identifiant : LEGIARTI000051830271
 - État : en vigueur depuis le 02/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830271
-- Renvoie à : [art. L121-1 du Code de la consommation](chapitre-ier.md#article-l121-1) ; art. L518-1 du Code monétaire et financier
+- Renvoie à : [art. L121-1 du Code de la consommation](chapitre-ier.md#article-l121-1) ; [art. L312-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1-2) ; [art. L518-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-1)
 - Cité par : [art. R132-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ii.md#article-r132-1) ; [art. R132-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ii.md#article-r132-2)
 
 Est interdit le fait de refuser à un consommateur la vente d'un produit ou la prestation d'un service, sauf motif légitime ;  
@@ -268,7 +268,7 @@ Les dispositions du présent article s'appliquent également aux contrats portan
 - Identifiant : LEGIARTI000032227264
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227264
-- Renvoie à : [art. L121-12 du Code de la consommation](chapitre-ier.md#article-l121-12) ; art. L312-1-1 du Code monétaire et financier
+- Renvoie à : [art. L121-12 du Code de la consommation](chapitre-ier.md#article-l121-12) ; [art. L312-1-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1-1)
 
 Les dispositions de l'article L. 121-12 ne font pas obstacle à la perception d'intérêts, de commissions ou de frais au titre de facilités de caisse ou de découverts bancaires prévus par la convention de compte instituée à l'article L. 312-1-1 du code monétaire et financier qui précise le montant ou le mode de calcul de ces rémunérations.  
 Il en est de même dans le cas où une modification des conditions initiales du contrat résulte de la mise en œuvre d'une clause de révision dont les modalités ont été expressément définies et ont recueilli l'accord des parties au moment de la signature du contrat.
@@ -277,7 +277,7 @@ Il en est de même dans le cas où une modification des conditions initiales du 
 - Identifiant : LEGIARTI000032227262
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227262
-- Renvoie à : [art. 1382 du Code civil](../../../../code-civil/livre-iii/titre-iv-bis/chapitre-iii.md#article-1382)
+- Renvoie à : [art. 1382 du Code civil](../../../../code-civil/livre-iii/titre-iv-bis/chapitre-iii.md#article-1382) ; [art. L716-12 du Code de la propriété intellectuelle](../../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-vi-bis.md#article-l716-12)
 
 Le paiement résultant d'une obligation législative ou réglementaire n'exige pas d'engagement exprès et préalable.
 
@@ -323,6 +323,7 @@ Les dispositions du présent article s'appliquent aux contrats portant sur la fo
 - Identifiant : LEGIARTI000032227248
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227248
+- Cité par : [art. D98-12 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-simples/livre-ii/titre-ier/chapitre-ii.md#article-d98-12)
 
 Les dispositions de la présente section sont d'ordre public.
 
@@ -332,7 +333,7 @@ Les dispositions de la présente section sont d'ordre public.
 - Identifiant : LEGIARTI000032227244
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227244
-- Renvoie à : [art. L121-1 du Code de la consommation](chapitre-ier.md#article-l121-1) ; art. L312-1-2 du Code monétaire et financier
+- Renvoie à : [art. L121-1 du Code de la consommation](chapitre-ier.md#article-l121-1) ; [art. L312-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1-2)
 - Cité par : [art. R121-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ier.md#article-r121-1)
 
 Est interdite toute vente ou offre de vente de produits ou de biens ou toute prestation ou offre de prestation de services faite aux consommateurs et donnant droit, à titre gratuit, immédiatement ou à terme, à une prime consistant en produits, biens ou services dès lors que la pratique en cause revêt un caractère déloyal au sens de l'article L. 121-1.  
@@ -346,7 +347,7 @@ Les règles relatives aux ventes avec primes applicables aux produits et service
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227240
 - Renvoie à : [art. L121-1 du Code de la consommation](chapitre-ier.md#article-l121-1)
-- Cité par : [art. L320-6 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039169738)
+- Cité par : [art. L320-6 du Code de la sécurité intérieure](../../../../code-de-la-securite-interieure/partie-legislative/livre-iii/titre-ii/chapitre-preliminaire.md#article-l320-6)
 
 Dès lors qu'elles sont déloyales au sens de l'article L. 121-1, sont interdites les pratiques commerciales mises en œuvre par les professionnels à l'égard des consommateurs, sous la forme d'opérations promotionnelles tendant à l'attribution d'un gain ou d'un avantage de toute nature par la voie d'un tirage au sort, quelles qu'en soient les modalités, ou par l'intervention d'un élément aléatoire.
 
@@ -356,7 +357,7 @@ Dès lors qu'elles sont déloyales au sens de l'article L. 121-1, sont interdite
 - Identifiant : LEGIARTI000032227234
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227234
-- Renvoie à : art. L111-8 du Code des procédures civiles d'exécution
+- Renvoie à : [art. L111-8 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-8)
 - Cité par : [art. L132-23 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-23)
 
 Est interdit le fait pour un professionnel de solliciter ou de percevoir d'un consommateur des frais de recouvrement dans des conditions contraires au deuxième alinéa de l'article L. 111-8 du code des procédures civiles d'exécution.
@@ -384,7 +385,7 @@ Est interdite toute publicité portant :
 - Identifiant : LEGIARTI000042615545
 - État : en vigueur depuis le 05/12/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042615545
-- Renvoie à : [art. L132-24-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-24-1) ; [art. L133-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020860742) ; art. L314-1 du Code monétaire et financier
+- Renvoie à : [art. L132-24-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-24-1) ; [art. L133-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-iii.md#article-l133-4) ; [art. L314-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-l314-1)
 - Cité par : [art. L132-24-2 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-24-2)
 
 Sous réserve des dispositions de l'article L. 132-24-1, il est interdit à un professionnel :  
@@ -421,7 +422,7 @@ Lorsque des raisons objectives le justifient, l'interdiction énoncée au prése
 - Identifiant : LEGIARTI000044872394
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044872394
-- Renvoie à : [art. L421-30 du Code des impositions sur les biens et services](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044598975)
+- Renvoie à : [art. L421-30 du Code des impositions sur les biens et services](../../../../code-des-impositions-sur-les-biens-et-services/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-30)
 
 Est interdite toute forme de publicité ou de communication proposant une remise ou une réduction annulant ou réduisant pour le consommateur final l'effet de la taxe sur les émissions de dioxyde de carbone des véhicules de tourisme prévue au a du 4° de l'article L. 421-30 du code des impositions sur les biens et services.
 

@@ -73,7 +73,7 @@ La décision du garde des sceaux, ministre de la justice, précise les matières
 - Identifiant : LEGIARTI000048875405
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048875405
-- Renvoie à : [art. R821-51 du Code de commerce](chapitre-ier.md#article-r821-51) ; [art. R822-1-1 du Code de commerce](chapitre-ii.md#article-r822-1-1) ; [art. R822-3 du Code de commerce](chapitre-ii.md#article-r822-3) ; [art. L114 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796446)
+- Renvoie à : [art. R821-51 du Code de commerce](chapitre-ier.md#article-r821-51) ; [art. R822-1-1 du Code de commerce](chapitre-ii.md#article-r822-1-1) ; [art. R822-3 du Code de commerce](chapitre-ii.md#article-r822-3) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114)
 - Cité par : [art. A822-8 du Code de commerce](../../../partie-arretes/livre-viii/titre-ii/chapitre-ii.md#article-a822-8)
 
 Les candidats à l'épreuve et à l'examen mentionnés respectivement aux articles R. 822-1-1 et R. 822-3, qui présentent un handicap au sens de l'article L. 114 du code de l'action sociale et des familles bénéficient des aménagements rendus nécessaires par leur situation selon les modalités prévues à l'article R. 821-51.

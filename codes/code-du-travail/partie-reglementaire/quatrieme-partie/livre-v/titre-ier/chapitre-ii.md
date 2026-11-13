@@ -85,7 +85,7 @@ Les mesures prévues par le plan de prévention comportent au moins les disposit
 - Identifiant : LEGIARTI000033769545
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769545
-- Renvoie à : [art. R4624-19 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-19) ; [art. R4624-22 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-22) ; art. R717-16 du Code rural et de la pêche maritime
+- Renvoie à : [art. R4624-19 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-19) ; [art. R4624-22 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-22) ; [art. R717-16 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-16)
 
 Chaque entreprise concernée fournit la liste des postes occupés par les travailleurs susceptibles de relever du suivi individuel renforcé prévu par les articles R. 4624-22 à R. 4624-28 ou, s'il s'agit d'un salarié agricole, par l'article R. 717-16 du code rural et de la pêche maritime, en raison des risques liés aux travaux réalisés dans l'entreprise utilisatrice. Cette liste figure dans le plan de prévention.
 
@@ -101,7 +101,7 @@ Le plan de prévention fixe la répartition des charges d'entretien entre les en
 - Identifiant : LEGIARTI000043841178
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841178
-- Renvoie à : [art. R4412-97 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97-5) ; art. R126-10 du Code de la construction et de l'habitation ; [art. R1334-29-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024117149)
+- Renvoie à : [art. R126-10 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md#article-r126-10) ; [art. R1334-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-22) ; [art. R1334-27 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-27) ; [art. R1334-28 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-28) ; [art. R1334-29-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-4) ; [art. R4412-97 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97-5)
 
 Les dossiers techniques regroupant les informations relatives à la recherche et à l'identification des matériaux contenant de l'amiante prévus aux articles R. 1334-29-4 à R. 1334-29-6 du code de la santé publique et à l'article R. 126-10 du code de la construction et de l'habitation ou, le cas échéant, le rapport de repérage de l'amiante prévu à l'article R. 4412-97-5 du présent code sont joints au plan de prévention.
 

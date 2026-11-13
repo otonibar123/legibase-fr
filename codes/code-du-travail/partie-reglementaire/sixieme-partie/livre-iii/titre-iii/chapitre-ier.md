@@ -121,7 +121,7 @@ Un compte rendu annuel d'activités et des sommes consacrées à la prise en cha
 - État : en vigueur depuis le 01/07/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045987495
 - Renvoie à : [art. L6331-48 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-48) ; [art. L6331-53 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-53) ; art. 231 du Code général des impôts
-- Cité par : [art. R252-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047725052)
+- Cité par : [art. R252-1 du Code de l'artisanat](../../../../../code-de-l-artisanat/partie-reglementaire/livre-ii/titre-v/chapitre-ii.md#article-r252-1)
 
 La contribution prévue à l'article L. 6331-48 est due par les personnes non salariées, à l'exception de celles dont la rémunération ne peut être prise en compte pour la détermination du montant des salaires, entendu au sens du 1 de l'article 231 du code général des impôts, mentionnées au premier alinéa de l'article L. 6331-48 et à l'article L. 6331-53.
 
@@ -173,7 +173,7 @@ La décision de retrait intervient après que l'organisme gestionnaire a été a
 - Identifiant : LEGIARTI000046002936
 - État : en vigueur depuis le 01/09/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046002936
-- Renvoie à : [art. L6331-52 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-52) ; [art. L6331-53 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-53) ; [art. L225-1-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742298) ; [art. L723-11 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585258)
+- Renvoie à : [art. L225-1-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-ii/chapitre-5.md#article-l225-1-1) ; [art. L6331-52 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-52) ; [art. L6331-53 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-53) ; [art. L723-11 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-11)
 - Cité par : [art. R6523-2-6 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-2-6) ; [art. R6523-2-16-1 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-2-16-1) ; [art. R6523-2-20 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-2-20)
 
 La contribution prévue à l'article L. 6331-53 est versée par les organismes de recouvrement à France compétences, selon des modalités précisées par convention conclue respectivement avec les organismes mentionnés aux articles L. 225-1-1 du code de la sécurité sociale et L. 723-11 du code rural et de la pêche maritime, après déduction des frais de gestion mentionnés respectivement à l'article L. 6331-52 du présent code.
@@ -208,8 +208,8 @@ Ses disponibilités sont régies par les dispositions de l'article R. 6332-77-1.
 - Identifiant : LEGIARTI000044969934
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044969934
-- Renvoie à : [art. L6331-55 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-55) ; [art. L6331-65 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-65) ; [art. R6332-77-1 du Code du travail](chapitre-ii.md#article-r6332-77-1) ; [art. R382-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006749873)
-- Cité par : [Arrêté du 14 mai 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051648494) ; [Arrêté du 14 mai 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051648502) ; [art. R382-1-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054906971)
+- Renvoie à : [art. R382-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-viii/chapitre-2.md#article-r382-1) ; [art. L6331-55 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-55) ; [art. L6331-65 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-65) ; [art. R6332-77-1 du Code du travail](chapitre-ii.md#article-r6332-77-1)
+- Cité par : [art. R382-1-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-viii/chapitre-2.md#article-r382-1-2) ; [Arrêté du 14 mai 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051648494) ; [Arrêté du 14 mai 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051648502)
 
 I. ― Il est créé au sein de l'opérateur de compétences chargé de gérer la contribution mentionné à l'article L. 6331-55 une section particulière chargée de gérer les contributions mentionnées à l'article L. 6331-65 du présent code.
 

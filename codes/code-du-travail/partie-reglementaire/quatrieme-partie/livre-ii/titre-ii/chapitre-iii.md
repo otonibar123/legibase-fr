@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018532271
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532271
-- Cité par : [art. R4223-4 du Code du travail](chapitre-iii.md#article-r4223-4) ; [art. R717-90 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020095075)
+- Cité par : [art. R4223-4 du Code du travail](chapitre-iii.md#article-r4223-4) ; [art. R717-90 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-90)
 
 Les dispositions de la présente section fixent les règles relatives à l'éclairage et à l'éclairement :  
 1° Des locaux de travail et de leurs dépendances, notamment les passages et escaliers ;  

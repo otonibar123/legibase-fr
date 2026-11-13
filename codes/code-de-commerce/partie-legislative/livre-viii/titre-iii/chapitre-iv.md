@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE VIII : De quelques profession
 - Identifiant : LEGIARTI000048651531
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651531
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659) ; [art. 211 A du Code général des impôts, annexe III](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830690)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7) ; [art. 211 A du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-iii/chapitre-ii.md#article-211-a)
 
 Est tenu de transmettre une déclaration d'existence auprès des services de l'administration des douanes et droits indirects dont il dépend :  
 
@@ -34,7 +34,7 @@ Il est tenu registre de ces déclarations et en est délivré copie au besoin.
 - Identifiant : LEGIARTI000048651529
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651529
-- Cité par : [art. 56 J novodecies du Code général des impôts, annexe IV](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054359548)
+- Cité par : [art. 56 J novodecies du Code général des impôts, annexe IV](../../../../code-general-des-impots-annexe-iv/livre-premier/premiere-partie/titre-iii/chapitre-i-ter-a.md#article-56-j-novodecies)
 
 Le fabricant d'ouvrages soumis à l'obligation d'insculpation du titre légal prévue à l'article L. 833-1 informe l'administration de l'identité de l'organisme de contrôle mentionné à l'article L. 833-4 auquel il recourt et justifie de l'accord de ce dernier.  
 
@@ -49,7 +49,7 @@ En cas de changement d'organisme de contrôle agréé, il justifie auprès de l'
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651527
 - Renvoie à : [art. L224-99 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-99)
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659) ; [art. 56 J quinquies du Code général des impôts, annexe IV](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051829363)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7) ; [art. 56 J quinquies du Code général des impôts, annexe IV](../../../../code-general-des-impots-annexe-iv/livre-premier/premiere-partie/titre-iii/chapitre-i-ter-a.md#article-56-j-quinquies)
 
 Les personnes mentionnées à l'article L. 834-1 apportent au service de l'administration des douanes et droits indirects compétent ou à l'organisme de contrôle agréé auquel elle recourt l'ouvrage d'or, d'argent ou de platine soumis à l'obligation d'insculpation du titre légal prévue à l'article L. 833-1 afin qu'il y soit essayé, titré et marqué.  
 
@@ -88,7 +88,8 @@ La personne mentionnée à l'article L. 834-1 ne peut acquérir des ouvrages d'o
 - Identifiant : LEGIARTI000048651519
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651519
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659) ; [art. 213 du Code général des impôts annexe I](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830681) ; [art. 215 du Code général des impôts annexe I](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830671) ; [art. 211 AC du Code général des impôts, annexe III](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830701)
+- Renvoie à : [art. 9 du Code des instruments monétaires et des médailles](../../../../code-des-instruments-monetaires-et-des-medailles/chapitre-i.md#article-9)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7) ; [art. 213 du Code général des impôts, annexe I](../../../../code-general-des-impots-annexe-i/livre-premier/premiere-partie/titre-iii/chapitre-ii.md#article-213) ; [art. 215 du Code général des impôts, annexe I](../../../../code-general-des-impots-annexe-i/livre-premier/premiere-partie/titre-iii/chapitre-ii.md#article-215) ; [art. 211 AC du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-iii/chapitre-ii.md#article-211-ac)
 
 Peut être fabriqué par la personne mentionnée au 1° de l'article L. 834-1 un ouvrage d'or, d'argent ou de platine à tous autres titres non légaux lorsque les conditions suivantes sont cumulativement remplies :  
 
@@ -110,7 +111,7 @@ Un arrêté du ministre chargé du budget détermine les conditions dans lesquel
 - Identifiant : LEGIARTI000048651517
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651517
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7)
 
 Sont interdits la détention et la mise en vente d'un ouvrage revêtu d'une ou plusieurs des empreintes suivantes :  
 

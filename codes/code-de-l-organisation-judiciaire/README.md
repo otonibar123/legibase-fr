@@ -1,0 +1,149 @@
+# Code de l'organisation judiciaire
+
+Dernière modification du texte dans LEGI : 01/09/2026. 986 articles en vigueur, répartis dans 95 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES**
+    - **TITRE Ier : PRINCIPES GÉNÉRAUX**
+      - [Chapitre unique](partie-legislative/livre-ier/titre-ier/chapitre-unique.md) (14 articles)
+    - **TITRE II : RÈGLES GÉNÉRALES D'ORGANISATION ET DE FONCTIONNEMENT**
+      - [Chapitre Ier : Les juges](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Le ministère public](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Le greffe](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Siège et ressort des juridictions](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Dispositions particulières aux collectivités mentionnées à l'article 72-3 de la Constitution et à la collectivité de Corse](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (2 articles)
+    - **TITRE IV : RESPONSABILITÉ DU FAIT DU FONCTIONNEMENT DU SERVICE PUBLIC DE LA JUSTICE**
+      - [Chapitre unique](partie-legislative/livre-ier/titre-iv/chapitre-unique.md) (3 articles)
+  - **LIVRE II : JURIDICTIONS DU PREMIER DEGRÉ**
+    - **TITRE Ier : LE TRIBUNAL JUDICIAIRE**
+      - [Chapitre Ier : Institution et compétence](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Organisation et fonctionnement](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Fonctions particulières](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (23 articles)
+      - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (8 articles)
+      - [Chapitre VI : Dispositions particulières au Département-Région de Mayotte](partie-legislative/livre-ii/titre-ier/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Dispositions particulières au tribunal judiciaire de Paris](partie-legislative/livre-ii/titre-ier/chapitre-vii.md) (4 articles)
+      - [Chapitre VIII : Dispositions particulières au tribunal judiciaire spécialement désigné au titre de l'article L. 211-16](partie-legislative/livre-ii/titre-ier/chapitre-viii.md) (11 articles)
+    - **TITRE IV : LA COUR D'ASSISES**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (1 article)
+    - **TITRE V : LES JURIDICTIONS DES MINEURS**
+      - [Chapitre Ier : Le tribunal pour enfants](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Le juge des enfants](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre IV : La cour d'assises des mineurs](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (1 article)
+    - **TITRE VI : AUTRES JURIDICTIONS D'ATTRIBUTION**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-vi/chapitre-unique.md) (1 article)
+  - **LIVRE III : JURIDICTIONS DU SECOND DEGRÉ**
+    - **TITRE Ier : LA COUR D'APPEL**
+      - [Chapitre Ier : Compétence](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Organisation et fonctionnement](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Dispositions particulières au Département-Région de Mayotte](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (2 articles)
+    - **TITRE II : LA COUR D'ASSISES STATUANT EN APPEL**
+      - [Chapitre unique](partie-legislative/livre-iii/titre-ii/chapitre-unique.md) (1 article)
+  - **LIVRE IV : LA COUR DE CASSATION**
+    - **TITRE Ier : INSTITUTION ET COMPÉTENCE**
+      - [Chapitre unique](partie-legislative/livre-iv/titre-ier/chapitre-unique.md) (4 articles)
+    - **TITRE II : ORGANISATION**
+      - [Chapitre unique](partie-legislative/livre-iv/titre-ii/chapitre-unique.md) (8 articles)
+    - **TITRE III : FONCTIONNEMENT**
+      - [Chapitre Ier : Les chambres de la cour](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Le parquet général](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (5 articles)
+    - **TITRE IV : DISPOSITIONS PARTICULIÈRES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION**
+      - [Chapitre unique](partie-legislative/livre-iv/titre-iv/chapitre-unique.md) (5 articles)
+    - **TITRE V : JURIDICTIONS ET COMMISSIONS PLACÉES AUPRÈS DE LA COUR DE CASSATION**
+      - [Chapitre Ier : Révision et réexamen en matière pénale](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Réexamen en matière civile](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Contrôle des opérations de traitement des données à caractère personnel effectuées par les juridictions judiciaires et leur ministère public dans l'exercice de leur fonction juridictionnelle](partie-legislative/livre-iv/titre-v/chapitre-iii.md) (2 articles)
+    - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ](partie-legislative/livre-iv/titre-vi.md) (2 articles)
+  - **LIVRE V : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON, À WALLIS-ET-FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, À LA POLYNÉSIE FRANCAISE ET À LA NOUVELLE-CALÉDONIE**
+    - **TITRE Ier : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Des fonctions judiciaires](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Des juridictions](partie-legislative/livre-v/titre-ier/chapitre-iii.md) (10 articles)
+    - **TITRE III : DISPOSITIONS APPLICABLES À WALLIS-ET-FUTUNA**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-v/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des juridictions](partie-legislative/livre-v/titre-iii/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Du greffe](partie-legislative/livre-v/titre-iii/chapitre-iii.md) (1 article)
+    - [TITRE IV : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-legislative/livre-v/titre-iv.md) (1 article)
+    - **TITRE V : DISPOSITIONS APPLICABLES À LA POLYNÉSIE FRANÇAISE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-v/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des juridictions](partie-legislative/livre-v/titre-v/chapitre-ii.md) (26 articles)
+      - [Chapitre III : Du greffe](partie-legislative/livre-v/titre-v/chapitre-iii.md) (1 article)
+    - **TITRE VI : DISPOSITIONS APPLICABLES À LA NOUVELLE-CALÉDONIE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-v/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des juridictions](partie-legislative/livre-v/titre-vi/chapitre-ii.md) (31 articles)
+      - [Chapitre III : Du greffe](partie-legislative/livre-v/titre-vi/chapitre-iii.md) (1 article)
+- **Partie réglementaire**
+  - **LIVRE IER : DISPOSITIONS COMMUNES AUX JURIDICTIONS JUDICIAIRES**
+    - **TITRE IER : PRINCIPES GENERAUX**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Le règlement des conflits de compétence entre les ordres de juridiction](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : La mise à disposition du public des décisions de justice sous forme électronique](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (4 articles)
+    - **TITRE II : REGLES GENERALES D'ORGANISATION ET DE FONCTIONNEMENT**
+      - [Chapitre Ier : Les juges](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Le ministère public](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Le greffe](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (31 articles)
+      - [Chapitre III bis : Des attachés de justice et des assistants spécialisés](partie-reglementaire/livre-ier/titre-ii/chapitre-iii-bis.md) (19 articles)
+      - [Chapitre IV : Siège et ressort des juridictions](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Dispositions particulières aux collectivités mentionnées à l'article 72-3 de la Constitution et à la collectivité de Corse](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (2 articles)
+    - **TITRE III : MAISONS DE JUSTICE ET DU DROIT**
+      - [Chapitre unique](partie-reglementaire/livre-ier/titre-iii/chapitre-unique.md) (11 articles)
+    - [TITRE V : CONCILIATEURS DE JUSTICE](partie-reglementaire/livre-ier/titre-v.md) (1 article)
+  - **LIVRE II : JURIDICTIONS DU PREMIER DEGRE**
+    - **TITRE IER : LE TRIBUNAL JUDICIAIRE**
+      - [Chapitre Ier : Institution et compétence](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (57 articles)
+      - [Chapitre II : Organisation et fonctionnement](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (80 articles)
+      - [Chapitre III : Fonctions particulières](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (30 articles)
+      - [Chapitre IV : La commission d'indemnisation des victimes d'infractions](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (13 articles)
+      - [Chapitre VII : Dispositions particulières au tribunal judiciaire de Paris](partie-reglementaire/livre-ii/titre-ier/chapitre-vii.md) (8 articles)
+      - [Chapitre VIII : Dispositions particulières au tribunal judiciaire spécialement désigné au titre de l'article L. 211-16](partie-reglementaire/livre-ii/titre-ier/chapitre-viii.md) (19 articles)
+    - **TITRE V : LES JURIDICTIONS DES MINEURS**
+      - [Chapitre Ier : Le tribunal pour enfants](partie-reglementaire/livre-ii/titre-v/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Le juge des enfants](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions communes au tribunal pour enfant et au juge des enfants](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (1 article)
+  - **LIVRE III : JURIDICTIONS DU SECOND DEGRE**
+    - **TITRE IER : LA COUR D'APPEL**
+      - [Chapitre Ier : Compétence](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Organisation et fonctionnement](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (85 articles)
+      - [Chapitre III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions particulières au département de Mayotte](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (10 articles)
+  - **LIVRE IV : LA COUR DE CASSATION**
+    - **TITRE IER : INSTITUTION ET COMPETENCE**
+      - [Chapitre unique](partie-reglementaire/livre-iv/titre-ier/chapitre-unique.md) (8 articles)
+    - **TITRE II : ORGANISATION**
+      - [Chapitre unique](partie-reglementaire/livre-iv/titre-ii/chapitre-unique.md) (13 articles)
+    - **TITRE III : FONCTIONNEMENT**
+      - [Chapitre Ier : Les chambres de la Cour](partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Le parquet général](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Le service de documentation et d'études](partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Le greffe](partie-reglementaire/livre-iv/titre-iii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Les assemblées générales](partie-reglementaire/livre-iv/titre-iii/chapitre-v.md) (3 articles)
+    - **TITRE IV : DISPOSITIONS PARTICULIERES EN CAS DE SAISINE POUR AVIS DE LA COUR DE CASSATION**
+      - [Chapitre unique](partie-reglementaire/livre-iv/titre-iv/chapitre-unique.md) (1 article)
+    - [TITRE VI : QUESTION PRIORITAIRE DE CONSTITUTIONNALITÉ](partie-reglementaire/livre-iv/titre-vi.md) (1 article)
+  - **LIVRE V : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON, A WALLIS ET FUTUNA, AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES, A LA POLYNESIE FRANCAISE ET A LA NOUVELLE CALEDONIE**
+    - **TITRE IER : DISPOSITIONS PARTICULIERES A SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Des fonctions judiciaires](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Des juridictions](partie-reglementaire/livre-v/titre-ier/chapitre-iii.md) (9 articles)
+    - **TITRE III : DISPOSITIONS APPLICABLES A WALLIS ET FUTUNA**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-v/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des juridictions](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Du greffe](partie-reglementaire/livre-v/titre-iii/chapitre-iii.md) (4 articles)
+    - **TITRE IV : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES**
+      - [Chapitre unique](partie-reglementaire/livre-v/titre-iv/chapitre-unique.md) (1 article)
+    - **TITRE V : DISPOSITIONS APPLICABLES A LA POLYNESIE FRANCAISE**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-v/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des juridictions](partie-reglementaire/livre-v/titre-v/chapitre-ii.md) (38 articles)
+      - [Chapitre III : Du greffe](partie-reglementaire/livre-v/titre-v/chapitre-iii.md) (21 articles)
+    - **TITRE VI : DISPOSITIONS APPLICABLES A LA NOUVELLE-CALEDONIE**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-v/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des juridictions](partie-reglementaire/livre-v/titre-vi/chapitre-ii.md) (42 articles)
+      - [Chapitre III : Du greffe](partie-reglementaire/livre-v/titre-vi/chapitre-iii.md) (4 articles)
+  - [Annexes](partie-reglementaire/annexes.md) (28 articles)
+- **Partie législative ancienne**
+  - **Livre IX : Dispositions particulières**
+    - **Titre III : Dispositions particulières aux territoires d'outre-mer et à la Nouvelle-Calédonie**
+      - [Chapitre II : Dispositions particulières applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française](partie-legislative-ancienne/livre-ix/titre-iii/chapitre-ii.md) (14 articles)

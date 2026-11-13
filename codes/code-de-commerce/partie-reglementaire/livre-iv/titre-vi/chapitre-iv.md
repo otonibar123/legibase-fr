@@ -46,7 +46,7 @@ Lorsque le rapporteur général propose à l'Autorité de la concurrence de fair
 - Identifiant : LEGIARTI000043495519
 - État : en vigueur depuis le 11/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043495519
-- Renvoie à : [art. L464-2 du Code de commerce](../../../partie-legislative/livre-iv/titre-vi/chapitre-iv.md#article-l464-2)
+- Renvoie à : [art. L464-2 du Code de commerce](../../../partie-legislative/livre-iv/titre-vi/chapitre-iv.md#article-l464-2) ; [art. R112-5 du Code des relations entre le public et l'administration](../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-5)
 
 La démarche mentionnée au IV de l'article L. 464-2 est effectuée par le biais d'une demande adressée soit au directeur général de la concurrence, de la consommation et de la répression des fraudes, soit au rapporteur général de l'Autorité de la concurrence. La demande est adressée par lettre recommandée avec demande d'avis de réception, par l'intermédiaire d'une plateforme d'échanges sécurisés de documents électroniques, oralement ou par tout autre moyen approprié prévu par l'administration ou par l'Autorité de la concurrence.  
 

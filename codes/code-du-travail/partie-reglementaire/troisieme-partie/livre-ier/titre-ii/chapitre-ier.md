@@ -102,7 +102,7 @@ Les recours hiérarchiques contre les décisions prévues aux articles D. 3121-5
 - État : en vigueur depuis le 16/08/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054686685
 - Renvoie à : [art. L3121-21 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-21) ; [art. L3121-25 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-25)
-- Cité par : [art. R713-13 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014342) ; [art. R713-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014337)
+- Cité par : [art. R713-13 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-13) ; [art. R713-14 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-14)
 
 L'autorité administrative fait connaître sa décision sur la demande d'autorisation de dépassement de la durée maximale hebdomadaire prévue aux articles L. 3121-21 et L. 3121-25 dans un délai de trente jours à compter de la date de réception de cette demande.
 
@@ -165,7 +165,7 @@ A défaut d'accord prévu à l'article L. 3121-23, le dépassement de la durée 
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033443858
 - Renvoie à : [art. L3121-25 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-25)
-- Cité par : [art. R713-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014337)
+- Cité par : [art. R713-14 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-14)
 
 L'autorisation de dépassement à la durée hebdomadaire maximale moyenne prévue à l'article L. 3121-25 revêt l'une des modalités suivantes :
 
@@ -181,7 +181,7 @@ La décision d'autorisation précise la modalité, l'ampleur et les autres condi
 - Identifiant : LEGIARTI000033443863
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033443863
-- Cité par : [art. R3121-15 du Code du travail](chapitre-ier.md#article-r3121-15) ; [art. R3121-16 du Code du travail](chapitre-ier.md#article-r3121-16) ; [art. R713-14 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014337)
+- Cité par : [art. R3121-15 du Code du travail](chapitre-ier.md#article-r3121-15) ; [art. R3121-16 du Code du travail](chapitre-ier.md#article-r3121-16) ; [art. R713-14 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-14)
 
 La demande de dépassement concernant l'ensemble d'un secteur d'activité sur le plan national est adressée par l'organisation d'employeurs intéressée au ministre chargé du travail.
 
@@ -191,7 +191,7 @@ Celui-ci prend sa décision après consultation des organisations d'employeurs e
 - Identifiant : LEGIARTI000041541500
 - État : en vigueur depuis le 07/02/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041541500
-- Cité par : [art. R3121-15 du Code du travail](chapitre-ier.md#article-r3121-15) ; [art. R3121-16 du Code du travail](chapitre-ier.md#article-r3121-16) ; [art. R713-14 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014337)
+- Cité par : [art. R3121-15 du Code du travail](chapitre-ier.md#article-r3121-15) ; [art. R3121-16 du Code du travail](chapitre-ier.md#article-r3121-16) ; [art. R713-14 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-14)
 
 La demande de dépassement concernant un secteur d'activité sur le plan local, départemental ou interdépartemental est adressée par l'organisation d'employeurs intéressée au directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi.
 
@@ -210,7 +210,7 @@ Lorsqu'une autorisation est attribuée en application des articles R. 3121-13 ou
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483269
 - Renvoie à : [art. R3121-13 du Code du travail](chapitre-ier.md#article-r3121-13) ; [art. R3121-14 du Code du travail](chapitre-ier.md#article-r3121-14)
-- Cité par : [art. R713-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014337)
+- Cité par : [art. R713-14 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-14)
 
 L'employeur qui ne relève pas d'un secteur couvert par l'une des décisions prévues aux articles R. 3121-13 et R. 3121-14 peut, pour faire face à des situations exceptionnelles propres à son entreprise, demander une autorisation particulière.
 
@@ -348,7 +348,7 @@ Lorsque l'affectation à une deuxième équipe a prolongé la durée du travail 
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483227
 - Renvoie à : [art. L3121-44 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-44) ; [art. L3121-45 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-45)
-- Cité par : [art. D3121-28 du Code du travail](chapitre-ier.md#article-d3121-28) ; [art. D3171-5 du Code du travail](../titre-vii/chapitre-ier.md#article-d3171-5) ; [art. D3171-12 du Code du travail](../titre-vii/chapitre-ier.md#article-d3171-12) ; [art. R713-46 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014540)
+- Cité par : [art. D3121-28 du Code du travail](chapitre-ier.md#article-d3121-28) ; [art. D3171-5 du Code du travail](../titre-vii/chapitre-ier.md#article-d3171-5) ; [art. D3171-12 du Code du travail](../titre-vii/chapitre-ier.md#article-d3171-12) ; [art. R713-46 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-46)
 
 A défaut d'accord prévu à l'article L. 3121-44, la durée du travail de l'entreprise ou de l'établissement peut être organisée sous forme de périodes de travail, chacune d'une durée au plus égale aux durées fixées à l'article L. 3121-45.
 
@@ -415,7 +415,7 @@ La faculté de récupération est, en cas de chômage extraordinaire et prolong�
 - Identifiant : LEGIARTI000033452989
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033452989
-- Cité par : [art. R713-4 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014266)
+- Cité par : [art. R713-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md#article-r713-4)
 
 L'inspecteur du travail est préalablement informé par l'employeur des interruptions collectives de travail et des modalités de la récupération. Si le travail est interrompu par un évènement imprévu, l'information est donnée immédiatement.
 

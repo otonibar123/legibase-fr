@@ -6,7 +6,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000006902139
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902139
-- Cité par : [art. D2332-2 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-d2332-2) ; [art. R2332-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r2332-1) ; [art. L2101-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038582641)
+- Cité par : [art. L2101-5 du Code des transports](../../../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ier/titre-preliminaire/chapitre-ier.md#article-l2101-5) ; [art. D2332-2 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-d2332-2) ; [art. R2332-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r2332-1)
 
 Le comité de groupe est composé du chef de l'entreprise dominante, assisté de deux personnes de son choix ayant voix consultative et de représentants du personnel des entreprises constituant le groupe.  
 

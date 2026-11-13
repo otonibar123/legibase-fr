@@ -51,7 +51,7 @@ La décision, notifiée à l'intéressé, est motivée. Elle indique le montant 
 - Identifiant : LEGIARTI000049816568
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816568
-- Renvoie à : [art. R5312-26 du Code du travail](../../livre-iii/titre-ier/chapitre-ii.md#article-r5312-26)
+- Renvoie à : [art. R213-10 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md#article-r213-10) ; [art. R5312-26 du Code du travail](../../livre-iii/titre-ier/chapitre-ii.md#article-r5312-26)
 
 Le demandeur d'emploi intéressé engage, lorsqu'il entend contester la décision de pénalité administrative, une médiation auprès du médiateur régional de l'opérateur France Travail dans les conditions prévues aux articles R. 213-10 à R. 213-13 du code de justice administrative.
 
@@ -73,7 +73,7 @@ L'opérateur France Travail peut, si le débiteur n'en conteste pas le caractèr
 - Identifiant : LEGIARTI000049816559
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816559
-- Renvoie à : [art. L5422-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l5422-1) ; [art. L5424-25 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-l5424-25)
+- Renvoie à : [art. L411-7 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-iv/titre-ier/chapitre-ier.md#article-l411-7) ; [art. L5422-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l5422-1) ; [art. L5424-25 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-l5424-25)
 - Cité par : [Décret n°2019-797 du 26 juillet 2019, art. 27](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820167)
 
 Le débiteur qui conteste le caractère indu des prestations mentionnées aux articles L. 5422-1 et L. 5424-25 qui lui sont réclamées forme un recours gracieux préalable devant le directeur général de l'opérateur France Travail dans un délai de deux mois à compter de la date de notification de l'indu par l'opérateur France Travail.

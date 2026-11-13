@@ -20,7 +20,7 @@ Un décret fixe les modalités d'application du présent article.
 - Identifiant : LEGIARTI000038610077
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038610077
-- Renvoie à : [art. L6243-1 du Code du travail](chapitre-iii.md#article-l6243-1) ; [art. L130-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038498675)
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1) ; [art. L6243-1 du Code du travail](chapitre-iii.md#article-l6243-1)
 - Cité par : [Décret n°2020-1084 du 24 août 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042261154) ; [Décret n°2020-1085 du 24 août 2020, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042261430)
 
 Pour l'application de l'article L. 6243-1, l'effectif salarié est déterminé selon les modalités prévues au I de l'article L. 130-1 du code de la sécurité sociale.
@@ -54,8 +54,8 @@ L'apprenti est exonéré de la totalité des cotisations salariales d'origine l�
 - Identifiant : LEGIARTI000051289076
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051289076
-- Renvoie à : [art. L6227-8-1 du Code du travail](../titre-ii/chapitre-vii.md#article-l6227-8-1) ; [art. L6243-2 du Code du travail](chapitre-iii.md#article-l6243-2) ; art. L200-2 du Code de la sécurité sociale
-- Cité par : [art. L6227-8 du Code du travail](../titre-ii/chapitre-vii.md#article-l6227-8) ; [art. D373-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045658237) ; [art. D373-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045655844) ; [art. L222-2-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054466881) ; [LOI n°2025-199 du 28 février 2025, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051273754)
+- Renvoie à : [art. L200-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/articles-directs.md#article-l200-2) ; [art. L6227-8-1 du Code du travail](../titre-ii/chapitre-vii.md#article-l6227-8-1) ; [art. L6243-2 du Code du travail](chapitre-iii.md#article-l6243-2)
+- Cité par : [art. D373-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-vii/chapitre-3.md#article-d373-4) ; [art. D373-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-vii/chapitre-3.md#article-d373-5) ; [art. R135-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-5.md#article-r135-8) ; [art. L6227-8 du Code du travail](../titre-ii/chapitre-vii.md#article-l6227-8) ; [art. L222-2-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054466881) ; [LOI n°2025-199 du 28 février 2025, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051273754)
 
 L'Etat prend en charge les cotisations et contributions sociales des apprentis qui font l'objet des exonérations prévues aux articles L. 6227-8-1 et L. 6243-2.
 

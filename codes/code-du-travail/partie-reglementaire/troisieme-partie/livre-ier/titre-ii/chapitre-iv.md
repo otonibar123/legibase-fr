@@ -128,7 +128,7 @@ Les infractions donnent lieu à autant d'amendes qu'il y a de salariés indûmen
 - Identifiant : LEGIARTI000033471418
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033471418
-- Renvoie à : [art. R3121-10 du Code du travail](chapitre-ier.md#article-r3121-10) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R3121-10 du Code du travail](chapitre-ier.md#article-r3121-10) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de méconnaître les dispositions de l'article R. 3121-10, relatives à la durée maximale hebdomadaire absolue, est puni de l'amende prévue pour les contraventions de la cinquième classe, prononcée autant de fois qu'il y a de salariés concernés par l'infraction.
 
@@ -138,8 +138,8 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000033471412
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033471412
-- Renvoie à : [art. L3122-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l3122-1) ; [art. L3122-24 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l3122-24) ; [art. L3163-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l3163-1) ; [art. L3163-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l3163-2) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368)
-- Cité par : [art. R4512-7 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034063333)
+- Renvoie à : [art. L3122-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l3122-1) ; [art. L3122-24 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l3122-24) ; [art. L3163-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l3163-1) ; [art. L3163-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l3163-2) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11)
+- Cité par : [art. R4512-7 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-v/titre-ier/chapitre-ii.md#article-r4512-7)
 
 Le fait de méconnaître les dispositions relatives au travail de nuit prévues par les articles L. 3122-1 à L. 3122-24, L. 3163-1 et L. 3163-2 ainsi que celles des décrets pris pour leur application, est puni de l'amende prévue pour les contraventions de la cinquième classe, prononcée autant de fois qu'il y a de salariés concernés par l'infraction.
 

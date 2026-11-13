@@ -46,7 +46,7 @@ Le gestionnaire porte ce tarif à la connaissance des usagers.
 - Identifiant : LEGIARTI000006270522
 - État : en vigueur depuis le 28/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006270522
-- Renvoie à : [art. L761-3 du Code de commerce](../../../partie-legislative/livre-vii/titre-vi/chapitre-ier.md#article-l761-3) ; [art. L1411-3 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389215)
+- Renvoie à : [art. L761-3 du Code de commerce](../../../partie-legislative/livre-vii/titre-vi/chapitre-ier.md#article-l761-3) ; [art. L1411-3 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-ier.md#article-l1411-3)
 
 Le gestionnaire du marché établit un rapport annuel dans les conditions prévues à l'article L. 1411-3 du code général des collectivités territoriales et le transmet aux communes et aux établissements publics de coopération intercommunale sur le territoire desquels est implanté le marché, au conseil régional et au préfet.  
 
@@ -321,7 +321,7 @@ Sa composition et son fonctionnement sont fixés par arrêté des ministres char
 - Identifiant : LEGIARTI000033188872
 - État : en vigueur depuis le 19/03/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033188872
-- Renvoie à : [art. L121-1 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367424) ; [art. L122-1 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367431)
+- Renvoie à : [art. L121-1 du Code des relations entre le public et l'administration](../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ii/chapitre-ier.md#article-l121-1) ; [art. L122-1 du Code des relations entre le public et l'administration](../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ii/chapitre-ii.md#article-l122-1)
 - Cité par : [art. R761-18 du Code de commerce](chapitre-ier.md#article-r761-18)
 
 Les usagers peuvent faire l'objet de sanctions disciplinaires pour infraction aux règles qui régissent le marché. L'intéressé doit être mis à même de présenter ses observations, dans les conditions prévues aux articles L. 121-1, L. 121-2 et L. 122-1 du code des relations entre le public et l'administration.

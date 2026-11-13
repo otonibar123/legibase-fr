@@ -8,7 +8,7 @@ Code de la consommation › Partie législative nouvelle › Livre II : FORMATIO
 - Identifiant : LEGIARTI000053310529
 - État : en vigueur depuis le 19/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310529
-- Cité par : [art. R222-3 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ii.md#article-r222-3) ; [art. Annexe à l'article R312-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516602) ; [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050369302) ; [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038614272) ; [art. L343-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033232799) ; [art. R519-23 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032546526)
+- Cité par : [art. R222-3 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ii.md#article-r222-3) ; [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1) ; [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1) ; [art. L343-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-iii.md#article-l343-1) ; [art. R519-23 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-ix.md#article-r519-23) ; [art. Annexe à l'article R312-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516602) ; [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050369302)
 
 Les dispositions du présent chapitre s'appliquent aux services mentionnés aux livres Ier à III et au titre V du livre V du code monétaire et financier ainsi qu'aux opérations pratiquées par les entreprises régies par le code des assurances, par les mutuelles et unions régies par le livre II du code de la mutualité et par les institutions de prévoyance et unions régies par le titre 3 du livre 9 du code de la sécurité sociale.
 
@@ -29,7 +29,7 @@ Les obligations prévues par les dispositions du présent chapitre s'imposent au
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226805
 - Renvoie à : [art. L222-5 du Code de la consommation](chapitre-ii.md#article-l222-5)
-- Cité par : [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677)
+- Cité par : [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1)
 
 Pour les contrats portant sur des services financiers comportant une première convention de service suivie d'opérations successives ou d'une série d'opérations distinctes, de même nature, échelonnées dans le temps, les dispositions du présent chapitre ne s'appliquent qu'à la première convention de service. Pour les contrats renouvelables par tacite reconduction, les dispositions du présent chapitre ne s'appliquent qu'au contrat initial.  
 En l'absence de première convention de service, lorsque des opérations successives ou distinctes, de même nature, échelonnées dans le temps, sont exécutées entre les mêmes parties, les dispositions de l'article L. 222-5 ne sont applicables qu'à la première opération. Cependant, lorsqu'aucune opération de même nature n'est effectuée pendant plus d'un an, ces dispositions s'appliquent à l'opération suivante, considérée comme une première opération.
@@ -38,7 +38,7 @@ En l'absence de première convention de service, lorsque des opérations success
 - Identifiant : LEGIARTI000032226803
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226803
-- Cité par : [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594)
+- Cité par : [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18)
 
 Pour l'application du présent chapitre, est considéré comme support durable, tout instrument permettant au consommateur de stocker des informations qui lui sont adressées personnellement afin de pouvoir s'y reporter ultérieurement pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l'identique des informations stockées.
 
@@ -48,7 +48,7 @@ Pour l'application du présent chapitre, est considéré comme support durable, 
 - Identifiant : LEGIARTI000053310533
 - État : en vigueur depuis le 19/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310533
-- Cité par : [art. D111-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-d111-7) ; [art. D111-9 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-d111-9) ; [art. L222-3 du Code de la consommation](chapitre-ii.md#article-l222-3) ; [art. L222-5-1 du Code de la consommation](chapitre-ii.md#article-l222-5-1) ; [art. L222-7 du Code de la consommation](chapitre-ii.md#article-l222-7) ; [art. L222-13 du Code de la consommation](chapitre-ii.md#article-l222-13) ; [art. R242-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-1) ; [art. L222-6 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053731113) ; [art. R222-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516319) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038614272) ; [art. L343-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731775)
+- Cité par : [art. D111-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-d111-7) ; [art. D111-9 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-d111-9) ; [art. L222-3 du Code de la consommation](chapitre-ii.md#article-l222-3) ; [art. L222-5-1 du Code de la consommation](chapitre-ii.md#article-l222-5-1) ; [art. L222-7 du Code de la consommation](chapitre-ii.md#article-l222-7) ; [art. L222-13 du Code de la consommation](chapitre-ii.md#article-l222-13) ; [art. R242-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-1) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1) ; [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1) ; [art. L343-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-iii.md#article-l343-2) ; [art. L222-6 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053731113) ; [art. R222-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516319)
 
 I. - En temps utile avant la conclusion à distance d'un contrat, le professionnel fournit au consommateur des informations dont la nature est précisée par décret en Conseil d'Etat et portant sur :
 
@@ -145,8 +145,8 @@ La charge de la preuve du respect des exigences en matière d'information prévu
 - Identifiant : LEGIARTI000053310541
 - État : en vigueur depuis le 19/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310541
-- Renvoie à : [art. L222-5 du Code de la consommation](chapitre-ii.md#article-l222-5)
-- Cité par : [art. L222-8 du Code de la consommation](chapitre-ii.md#article-l222-8) ; [art. L222-10 du Code de la consommation](chapitre-ii.md#article-l222-10) ; [art. L222-13 du Code de la consommation](chapitre-ii.md#article-l222-13) ; [art. R222-4 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ii.md#article-r222-4) ; [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050369302) ; [art. R222-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516319) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038614272) ; [art. L341-12 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033232675) ; [art. R341-16 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036769282)
+- Renvoie à : [art. L222-5 du Code de la consommation](chapitre-ii.md#article-l222-5) ; [art. L224-28 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-28) ; [art. L225-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-1)
+- Cité par : [art. L222-8 du Code de la consommation](chapitre-ii.md#article-l222-8) ; [art. L222-10 du Code de la consommation](chapitre-ii.md#article-l222-10) ; [art. L222-13 du Code de la consommation](chapitre-ii.md#article-l222-13) ; [art. R222-4 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ii.md#article-r222-4) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1) ; [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1) ; [art. L341-12 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-ier.md#article-l341-12) ; [art. R341-16 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md#article-r341-16) ; [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050369302) ; [art. R222-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516319)
 
 Le consommateur dispose d'un délai de quatorze jours calendaires révolus pour exercer son droit de rétractation, sans avoir à justifier de motif ni à supporter de pénalités. Ce délai est porté à trente jours calendaires pour les plans et produits mentionnés aux articles L. 224-28 et L. 225-1 du code monétaire et financier donnant lieu à l'ouverture d'un compte-titres.
 
@@ -169,7 +169,7 @@ La présente section 4 ne s'applique pas si le produit, instrument financier ou 
 - État : en vigueur depuis le 19/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310548
 - Renvoie à : [art. L222-7 du Code de la consommation](chapitre-ii.md#article-l222-7)
-- Cité par : [art. D222-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ii.md#article-d222-2) ; [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677)
+- Cité par : [art. D222-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ii.md#article-d222-2) ; [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1)
 
 Pour les contrats conclus à distance au moyen d'une interface en ligne, le professionnel met à la disposition du consommateur, sans frais pour ce dernier, une fonctionnalité lui permettant d'exercer gratuitement son droit de rétractation avant l'expiration des délais prévus à l'article L. 222-7.
 
@@ -183,8 +183,8 @@ Un décret fixe les modalités de présentation et d'utilisation de cette foncti
 - Identifiant : LEGIARTI000053310552
 - État : en vigueur depuis le 19/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310552
-- Renvoie à : [art. L313-1 du Code de la consommation](../../livre-iii/titre-ier/chapitre-iii.md#article-l313-1) ; [art. L315-1 du Code de la consommation](../../livre-iii/titre-ier/chapitre-v.md#article-l315-1) ; [art. L321-1 du Code de la consommation](../../livre-iii/titre-ii/chapitre-ier.md#article-l321-1) ; art. L211-1 du Code monétaire et financier
-- Cité par : [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050369302) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038614272) ; [art. L343-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033232799)
+- Renvoie à : [art. L313-1 du Code de la consommation](../../livre-iii/titre-ier/chapitre-iii.md#article-l313-1) ; [art. L315-1 du Code de la consommation](../../livre-iii/titre-ier/chapitre-v.md#article-l315-1) ; [art. L321-1 du Code de la consommation](../../livre-iii/titre-ii/chapitre-ier.md#article-l321-1) ; [art. L211-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-1)
+- Cité par : [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1) ; [art. L343-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-iii.md#article-l343-1) ; [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050369302)
 
 Le droit de rétractation ne s'applique pas :
 
@@ -234,7 +234,7 @@ Les dispositions de l'article L. 222-7 ne s'appliquent pas aux contrats d'utilis
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226777
 - Renvoie à : [art. L222-5 du Code de la consommation](chapitre-ii.md#article-l222-5) ; [art. L222-7 du Code de la consommation](chapitre-ii.md#article-l222-7)
-- Cité par : [art. L222-15 du Code de la consommation](chapitre-ii.md#article-l222-15) ; [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923582) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038614272)
+- Cité par : [art. L222-15 du Code de la consommation](chapitre-ii.md#article-l222-15) ; [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1) ; [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1)
 
 Les contrats pour lesquels s'applique le délai de rétractation défini à l'article L. 222-7 ne peuvent recevoir de commencement d'exécution par les parties avant l'arrivée du terme de ce délai sans l'accord du consommateur. Lorsque celui-ci exerce son droit de rétractation, il ne peut être tenu qu'au paiement proportionnel du service financier effectivement fourni, à l'exclusion de toute pénalité.  
 Le fournisseur ne peut exiger du consommateur le paiement du service mentionné au premier alinéa que s'il peut prouver que le consommateur a été informé du montant dû, conformément à l'article L. 222-5. Toutefois, il ne peut pas exiger ce paiement s'il a commencé à exécuter le contrat avant l'expiration du délai de rétractation sans demande préalable du consommateur.
@@ -260,6 +260,7 @@ Le consommateur restitue au fournisseur dans les meilleurs délais et au plus ta
 - Identifiant : LEGIARTI000034072604
 - État : en vigueur depuis le 23/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034072604
+- Renvoie à : [art. L34-5 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l34-5)
 
 Les dispositions de l'article L. 34-5 du code des postes et communications électroniques sont applicables aux services financiers.  
 Les techniques de communication à distance destinées à la commercialisation de services financiers autres que celles mentionnées à l'article L. 34-5 du code des postes et communications électroniques ne peuvent être utilisées que si le consommateur n'a pas manifesté son opposition.  
@@ -269,7 +270,7 @@ Les mesures prévues au présent article ne doivent pas entraîner de frais pour
 - Identifiant : LEGIARTI000050372040
 - État : en vigueur depuis le 01/07/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050372040
-- Renvoie à : art. L533-12-7 du Code monétaire et financier
+- Renvoie à : [art. L533-12-7 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-iii.md#article-l533-12-7) ; [art. L541-9-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-9-1) ; [art. L552-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-v/chapitre-ii.md#article-l552-3)
 - Cité par : [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053311909) ; [Ordonnance n°2024-936 du 15 octobre 2024, art. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050354849)
 
 La publicité, directe ou indirecte, adressée par voie électronique à des clients susceptibles d'être non professionnels, notamment des clients potentiels, relative à la fourniture de services d'investissement portant sur les contrats financiers définis à l'article L. 533-12-7 du code monétaire et financier est interdite.
@@ -302,7 +303,7 @@ L'amende est prononcée dans les conditions prévues au chapitre II du titre II 
 - Identifiant : LEGIARTI000050372078
 - État : en vigueur depuis le 01/07/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050372078
-- Renvoie à : art. L533-12-7 du Code monétaire et financier
+- Renvoie à : [art. L533-12-7 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-iii.md#article-l533-12-7) ; [art. L552-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-v/chapitre-ii.md#article-l552-3)
 - Cité par : [LOI n°2023-451 du 9 juin 2023, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054402940) ; [Ordonnance n°2024-936 du 15 octobre 2024, art. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050354849)
 
 Toute opération de parrainage ou de mécénat est interdite lorsqu'elle a pour objet ou pour effet la publicité, directe ou indirecte, en faveur :
@@ -340,7 +341,7 @@ Lorsqu'il conclut des contrats de services financiers à distance, le profession
 - Identifiant : LEGIARTI000034072595
 - État : en vigueur depuis le 23/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034072595
-- Cité par : [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677)
+- Cité par : [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1)
 
 Des règles spécifiques relatives à la fourniture à distance d'opérations d'assurance un consommateur sont par ailleurs fixées par les dispositions :
 
@@ -354,6 +355,6 @@ Des règles spécifiques relatives à la fourniture à distance d'opérations d'
 - Identifiant : LEGIARTI000032226765
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226765
-- Cité par : [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053311909) ; [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310567)
+- Cité par : [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1) ; [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053311909)
 
 Les dispositions du présent chapitre sont d'ordre public.

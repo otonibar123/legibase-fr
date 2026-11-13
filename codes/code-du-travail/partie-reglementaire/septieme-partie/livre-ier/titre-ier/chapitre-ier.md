@@ -123,7 +123,7 @@ La décision de la commission d'annuler de la carte est notifiée à l'intéress
 - Identifiant : LEGIARTI000030067816
 - État : en vigueur depuis le 04/01/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030067816
-- Renvoie à : [art. L7111-3 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l7111-3) ; [art. L7111-4 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l7111-4) ; [art. L161-17-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023024749)
+- Renvoie à : [art. L161-17-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-17-2) ; [art. L7111-3 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l7111-3) ; [art. L7111-4 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l7111-4)
 
 A l'appui de sa demande de carte de journaliste professionnel honoraire, l'intéressé fournit :
 

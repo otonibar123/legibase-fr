@@ -76,8 +76,8 @@ Sont nulles toutes stipulations d'une convention ou d'un accord collectif de tra
 - Identifiant : LEGIARTI000052437183
 - État : en vigueur depuis le 26/10/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052437183
-- Renvoie à : [art. L5122-4 du Code du travail](../../../cinquieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l5122-4) ; [art. L5123-6 du Code du travail](../../../cinquieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l5123-6) ; art. L351-1 du Code de la sécurité sociale ; art. L351-8 du Code de la sécurité sociale
-- Cité par : [art. D1237-2-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-2-1) ; [art. D3243-8 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ii/titre-iv/chapitre-iii.md#article-d3243-8) ; [art. L1221-18 du Code du travail](../titre-ii/chapitre-ier.md#article-l1221-18) ; [art. L137-12 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452702) ; [art. L1524-9 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054468608) ; [Décret n°2008-1515 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020058321) ; [LOI n°2025-989 du 24 octobre 2025, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052432351)
+- Renvoie à : [art. L351-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-1) ; [art. L351-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-8) ; [art. L5122-4 du Code du travail](../../../cinquieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l5122-4) ; [art. L5123-6 du Code du travail](../../../cinquieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l5123-6)
+- Cité par : [art. L137-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-12) ; [art. D1237-2-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-2-1) ; [art. D3243-8 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ii/titre-iv/chapitre-iii.md#article-d3243-8) ; [art. L1221-18 du Code du travail](../titre-ii/chapitre-ier.md#article-l1221-18) ; [art. L1524-9 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054468608) ; [Décret n°2008-1515 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020058321) ; [LOI n°2025-989 du 24 octobre 2025, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052432351)
 
 La mise à la retraite s'entend de la possibilité donnée à l'employeur de rompre le contrat de travail d'un salarié ayant atteint, y compris avant son embauche, l'âge mentionné au 1° de l'article L. 351-8 du code de la sécurité sociale sous réserve des septième à neuvième alinéas :
 
@@ -101,7 +101,7 @@ La même procédure est applicable chaque année jusqu'au soixante-neuvième ann
 - Identifiant : LEGIARTI000052437176
 - État : en vigueur depuis le 26/10/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052437176
-- Renvoie à : art. L351-8 du Code de la sécurité sociale
+- Renvoie à : [art. L351-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-8)
 
 Aucune convention ou accord collectif prévoyant la possibilité d'une mise à la retraite d'office d'un salarié à un âge inférieur à celui fixé au 1° de l'article L. 351-8 du code de la sécurité sociale ne peut être signé ou étendu.
 
@@ -140,7 +140,7 @@ Si les conditions de mise à la retraite ne sont pas réunies, la rupture du con
 - Identifiant : LEGIARTI000052437168
 - État : en vigueur depuis le 26/10/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052437168
-- Cité par : [art. D1237-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-1) ; [art. L161-22-1-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052437156) ; [art. 81 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023388926) ; [Décret n°2011-636 du 8 juin 2011, art. 46](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024148568)
+- Cité par : [art. L222-4 du Code de la mutualité](../../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ii-bis.md#article-l222-4) ; [art. L161-22-1-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-22-1-5) ; [art. L932-41 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-41) ; [art. L143-2 du Code des assurances](../../../../../code-des-assurances/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-2) ; [art. D1237-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-1) ; [art. 81 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023388926) ; [Décret n°2011-636 du 8 juin 2011, art. 46](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024148568)
 
 Tout salarié quittant volontairement l'entreprise pour bénéficier d'une pension de vieillesse a droit à une indemnité de départ à la retraite.
 
@@ -165,7 +165,7 @@ Le contenu, le champ d'application et les modalités de mise en œuvre du prése
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901184
 - Renvoie à : [art. L1234-1 du Code du travail](chapitre-iv.md#article-l1234-1)
-- Cité par : [art. L444-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046774725)
+- Cité par : [art. L444-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-iv/chapitre-iv.md#article-l444-2)
 
 Le salarié demandant son départ à la retraite respecte un préavis dont la durée est déterminée conformément à l'article L. 1234-1.
 
@@ -175,7 +175,7 @@ Le salarié demandant son départ à la retraite respecte un préavis dont la du
 - Identifiant : LEGIARTI000019071187
 - État : en vigueur depuis le 27/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071187
-- Cité par : [art. L1221-18 du Code du travail](../titre-ii/chapitre-ier.md#article-l1221-18) ; [art. L1233-3 du Code du travail](chapitre-iii.md#article-l1233-3) ; [art. L5421-1 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l5421-1) ; [art. L5422-1 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l5422-1) ; [art. L6324-7 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l6324-7) ; [art. R5134-46 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-46) ; [art. R5134-69 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-69) ; [Arrêté du 30 mars 2009, art. Règlement général](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028037008) ; [art. L137-12 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452702) ; [art. L137-15 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452686) ; [Décret n°2019-797 du 26 juillet 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039327056) ; [LOI n°2016-483 du 20 avril 2016, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038923225)
+- Cité par : [art. L137-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-12) ; [art. L137-15 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-15) ; [art. L1221-18 du Code du travail](../titre-ii/chapitre-ier.md#article-l1221-18) ; [art. L1233-3 du Code du travail](chapitre-iii.md#article-l1233-3) ; [art. L5421-1 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l5421-1) ; [art. L5422-1 du Code du travail](../../../cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l5422-1) ; [art. L6324-7 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l6324-7) ; [art. R5134-46 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-46) ; [art. R5134-69 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-r5134-69) ; [Arrêté du 30 mars 2009, art. Règlement général](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028037008) ; [Décret n°2019-797 du 26 juillet 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039327056) ; [LOI n°2016-483 du 20 avril 2016, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038923225)
 
 L'employeur et le salarié peuvent convenir en commun des conditions de la rupture du contrat de travail qui les lie.
 
@@ -203,7 +203,7 @@ L'employeur peut se faire assister par une personne de son choix appartenant au 
 - État : en vigueur depuis le 27/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071182
 - Renvoie à : [art. L1234-9 du Code du travail](chapitre-iv.md#article-l1234-9)
-- Cité par : [art. L1237-15 du Code du travail](chapitre-vii.md#article-l1237-15) ; [art. L242-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026947038) ; [art. L741-10 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019950229)
+- Cité par : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. L1237-15 du Code du travail](chapitre-vii.md#article-l1237-15) ; [art. 80 duodecies du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-80-duodecies) ; [art. L741-10 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-iv/chapitre-ier.md#article-l741-10)
 
 La convention de rupture définit les conditions de celle-ci, notamment le montant de l'indemnité spécifique de rupture conventionnelle qui ne peut pas être inférieur à celui de l'indemnité prévue à l'article L. 1234-9.
 
@@ -215,7 +215,7 @@ A compter de la date de sa signature par les deux parties, chacune d'entre elles
 - Identifiant : LEGIARTI000019071180
 - État : en vigueur depuis le 27/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071180
-- Cité par : [art. D1237-3-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-3-1) ; [art. L1237-15 du Code du travail](chapitre-vii.md#article-l1237-15) ; [art. L1471-1 du Code du travail](../../livre-iv/titre-vii/chapitre-unique.md#article-l1471-1) ; [art. R1237-3 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-r1237-3) ; [Arrêté du 18 juillet 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000027090024) ; [art. 120 du Code du travail maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020763077) ; [art. Rubrique 2 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046790904)
+- Cité par : [art. D1237-3-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-3-1) ; [art. L1237-15 du Code du travail](chapitre-vii.md#article-l1237-15) ; [art. L1471-1 du Code du travail](../../livre-iv/titre-vii/chapitre-unique.md#article-l1471-1) ; [art. R1237-3 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-r1237-3) ; [art. Rubrique 2 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/annexes/annexe-i.md#article-rubrique-2) ; [Arrêté du 18 juillet 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000027090024) ; [art. 120 du Code du travail maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020763077)
 
 A l'issue du délai de rétractation, la partie la plus diligente adresse une demande d'homologation à l'autorité administrative, avec un exemplaire de la convention de rupture. Un arrêté du ministre chargé du travail fixe le modèle de cette demande.
 
@@ -294,7 +294,7 @@ Elles peuvent prendre soit la forme d'un contrat de travail à durée indétermi
 - Identifiant : LEGIARTI000035623944
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035623944
-- Cité par : [art. L137-15 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452686)
+- Cité par : [art. L137-15 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-15)
 
 L'accord collectif détermine :
 
@@ -370,7 +370,7 @@ L'administration est informée sans délai de l'ouverture d'une négociation en 
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052437244
 - Renvoie à : [art. L1237-18-1 du Code du travail](chapitre-vii.md#article-l1237-18-1) ; [art. L6324-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l6324-1) ; [art. L6324-9 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l6324-9)
-- Cité par : [art. D1237-9 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-9) ; [art. D1237-12 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-12) ; [art. L1237-19-3 du Code du travail](chapitre-vii.md#article-l1237-19-3) ; [art. L137-15 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452686) ; [Décret n°2026-972 du 20 octobre 2026, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000055004114) ; [LOI n°2026-103 du 19 février 2026, art. 191](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053511380)
+- Cité par : [art. L137-15 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-15) ; [art. D1237-9 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-9) ; [art. D1237-12 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-d1237-12) ; [art. L1237-19-3 du Code du travail](chapitre-vii.md#article-l1237-19-3) ; [art. 80 duodecies du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-80-duodecies) ; [Décret n°2026-972 du 20 octobre 2026, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000055004114) ; [LOI n°2026-103 du 19 février 2026, art. 191](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053511380)
 
 L'accord portant rupture conventionnelle collective détermine :
 

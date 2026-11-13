@@ -72,7 +72,7 @@ Seules les personnes mentionnées aux 1° et 2° ont voix délibérative.
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035631607
 - Renvoie à : [art. L2314-11 du Code du travail](chapitre-iv.md#article-l2314-11)
-- Cité par : [art. L6411-10 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243335) ; [art. L6524-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243326)
+- Cité par : [art. L6411-10 du Code des transports](../../../../../code-des-transports/partie-legislative/sixieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-l6411-10) ; [art. L6524-2 du Code des transports](../../../../../code-des-transports/partie-legislative/sixieme-partie/livre-v/titre-ii/chapitre-iv.md#article-l6524-2)
 
 Lorsqu'un ou plusieurs établissements de l'entreprise constituent trois collèges électoraux en application de l'article L. 2314-11 un délégué titulaire et un délégué suppléant au moins au comité social et économique central appartiennent à la catégorie des ingénieurs, chefs de service et cadres administratifs, commerciaux ou techniques assimilés sur le plan de la classification.
 
@@ -243,7 +243,7 @@ Une commission santé, sécurité et conditions de travail centrale est mise en 
 - Identifiant : LEGIARTI000036262591
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262591
-- Cité par : [art. L2101-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243390)
+- Cité par : [art. L2101-5 du Code des transports](../../../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ier/titre-preliminaire/chapitre-ier.md#article-l2101-5)
 
 La sous-section 9 de la section 3 du chapitre V du présent titre et le sous-paragraphe 5 du paragraphe 3 de la sous-section 6 de la même section 3 sont applicables au comité social et économique central dans des conditions déterminées par décret.
 
@@ -289,7 +289,7 @@ A défaut d'accord, l'avis de chaque comité social et économique d'établissem
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262585
 - Renvoie à : [art. L2232-12 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-12)
-- Cité par : [art. D2316-7 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-d2316-7) ; [art. R2312-43 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-43) ; [art. L2101-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038582641)
+- Cité par : [art. L2101-5 du Code des transports](../../../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ier/titre-preliminaire/chapitre-ier.md#article-l2101-5) ; [art. D2316-7 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-d2316-7) ; [art. R2312-43 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-43)
 
 Les comités sociaux et économiques d'établissement assurent et contrôlent la gestion de toutes les activités sociales et culturelles.
 

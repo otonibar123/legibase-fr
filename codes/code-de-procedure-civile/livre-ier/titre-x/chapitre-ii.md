@@ -8,8 +8,8 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - Identifiant : LEGIARTI000034747029
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747029
-- Renvoie à : art. L111-6 du Code de l'organisation judiciaire
-- Cité par : [art. 349 du Code de procédure civile](chapitre-ii.md#article-349) ; [art. 350 du Code de procédure civile](chapitre-ii.md#article-350) ; [art. R1457-1 du Code du travail](../../../code-du-travail/partie-reglementaire/premiere-partie/livre-iv/titre-v/chapitre-vii.md#article-r1457-1) ; [art. L4234-2 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034059285) ; [art. R4441-26 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047249289) ; [Décret n°2024-674 du 3 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049881397) ; [Décret n°91-1197 du 27 novembre 1991, art. 143](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021480334)
+- Renvoie à : [art. L111-6 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ier/chapitre-unique.md#article-l111-6)
+- Cité par : [art. L4234-2 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-ii/titre-iii/chapitre-iv.md#article-l4234-2) ; [art. R4441-26 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-i.md#article-r4441-26) ; [art. 349 du Code de procédure civile](chapitre-ii.md#article-349) ; [art. 350 du Code de procédure civile](chapitre-ii.md#article-350) ; [art. R1457-1 du Code du travail](../../../code-du-travail/partie-reglementaire/premiere-partie/livre-iv/titre-v/chapitre-vii.md#article-r1457-1) ; [Décret n°2024-674 du 3 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049881397) ; [Décret n°91-1197 du 27 novembre 1991, art. 143](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021480334)
 
 Sauf disposition particulière, la récusation d'un juge est admise pour les causes prévues par l'article L. 111-6 du code de l'organisation judiciaire.
 
@@ -62,7 +62,7 @@ La requête présentée au premier président ne dessaisit pas le magistrat dont
 - Identifiant : LEGIARTI000034747003
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747003
-- Renvoie à : art. L213-8 du Code de l'organisation judiciaire
+- Renvoie à : [art. L213-8 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-8)
 
 Le premier président statue sans débat dans le délai d'un mois à compter de sa saisine après avis du procureur général. Lorsque la demande de récusation concerne le juge des libertés et de la détention statuant dans les contentieux visés à l'article L. 213-8 du code de l'organisation judiciaire, le premier président statue à bref délai.
 

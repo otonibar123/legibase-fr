@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018530498
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530498
-- Cité par : [Arrêté du 10 juillet 2013, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027917635) ; [art. R717-85-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602500)
+- Cité par : [art. R717-85-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-8) ; [Arrêté du 10 juillet 2013, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027917635)
 
 Pour toute activité susceptible de présenter un risque d'exposition à des agents biologiques, l'employeur détermine la nature, la durée et les conditions de l'exposition des travailleurs.  
 Pour les activités impliquant une exposition à des agents biologiques appartenant à plusieurs groupes, les risques sont évalués en tenant compte du danger présenté par tous les agents biologiques présents ou susceptibles de l'être du fait de cette activité.

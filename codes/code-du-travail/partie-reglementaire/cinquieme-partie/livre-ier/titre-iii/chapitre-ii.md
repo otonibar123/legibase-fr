@@ -97,7 +97,7 @@ A compter de la déclaration d'une date de début de contrat de travail par une 
 - Identifiant : LEGIARTI000043995978
 - État : en vigueur depuis le 01/09/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043995978
-- Renvoie à : [art. L5423-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l5423-1) ; art. L262-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L244-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-iv/chapitre-iv.md#article-l244-1) ; [art. L262-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-1) ; [art. L5423-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l5423-1)
 - Cité par : [art. R5132-1-12 du Code du travail](chapitre-ii.md#article-r5132-1-12) ; [Arrêté du 1er septembre 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050955047) ; [Arrêté du 1er septembre 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044012930) ; [Arrêté du 2 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050954864) ; [Arrêté du 4 septembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052206867)
 
 I.-L'éligibilité d'une personne à un parcours est appréciée en fonction de ses difficultés sociales et professionnelles ainsi que de son besoin d'un accompagnement renforcé.  
@@ -228,7 +228,7 @@ Ce contrôle vise à s'assurer de :
 - Identifiant : LEGIARTI000043996001
 - État : en vigueur depuis le 01/09/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043996001
-- Renvoie à : [art. R5132-1-12 du Code du travail](chapitre-ii.md#article-r5132-1-12) ; [art. R5132-1-19 du Code du travail](chapitre-ii.md#article-r5132-1-19)
+- Renvoie à : [art. L122-1 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ii/chapitre-ii.md#article-l122-1) ; [art. R5132-1-12 du Code du travail](chapitre-ii.md#article-r5132-1-12) ; [art. R5132-1-19 du Code du travail](chapitre-ii.md#article-r5132-1-19)
 - Cité par : [art. R5132-1-12 du Code du travail](chapitre-ii.md#article-r5132-1-12) ; [art. R5132-1-14 du Code du travail](chapitre-ii.md#article-r5132-1-14) ; [art. R5132-1-17 du Code du travail](chapitre-ii.md#article-r5132-1-17)
 
 La direction départementale de l'emploi, du travail et des solidarités transmet à la structure concernée la liste des personnes déclarées éligibles faisant l'objet du contrôle et des pièces justificatives demandées au moyen du téléservice mentionné à l'article R. 5132-1-19. La structure dispose d'un délai de six semaines pour y répondre.  
@@ -415,8 +415,8 @@ En cas de contentieux, les délais mentionnés au présent article peuvent être
 - Identifiant : LEGIARTI000049816185
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816185
-- Renvoie à : [art. L5132-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-1) ; [art. L5132-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-2) ; [art. L5132-7 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-7) ; [art. R5132-7 du Code du travail](chapitre-ii.md#article-r5132-7) ; [art. R5132-8 du Code du travail](chapitre-ii.md#article-r5132-8) ; [art. R5311-26 du Code du travail](../../livre-iii/titre-ier/chapitre-ier-bis.md#article-r5311-26)
-- Cité par : [art. R5132-9 du Code du travail](chapitre-ii.md#article-r5132-9) ; [art. R5132-10-14 du Code du travail](chapitre-ii.md#article-r5132-10-14) ; [art. R5523-15-43 du Code du travail](../../livre-v/titre-ii/chapitre-iii-bis.md#article-r5523-15-43) ; [art. R412-82 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045678855)
+- Renvoie à : [art. L5132-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-1) ; [art. L5132-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-2) ; [art. L5132-7 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-7) ; [art. R5132-7 du Code du travail](chapitre-ii.md#article-r5132-7) ; [art. R5132-8 du Code du travail](chapitre-ii.md#article-r5132-8) ; [art. R5311-26 du Code du travail](../../livre-iii/titre-ier/chapitre-ier-bis.md#article-r5311-26) ; [art. L412-3 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-3)
+- Cité par : [art. R5132-9 du Code du travail](chapitre-ii.md#article-r5132-9) ; [art. R5132-10-14 du Code du travail](chapitre-ii.md#article-r5132-10-14) ; [art. R5523-15-43 du Code du travail](../../livre-v/titre-ii/chapitre-iii-bis.md#article-r5523-15-43) ; [art. R412-82 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-82)
 
 Après consultation de la commission spécialisée du comité départemental pour l'emploi mentionnée à l'article R. 5311-26, et en tenant compte de la qualité du projet d'insertion proposé et de l'offre existante pour assurer un développement équilibré des actions d'insertion, le préfet peut conclure les conventions prévues à l'article L. 5132-2 avec des entreprises candidates au conventionnement d'entreprise d'insertion, quelle que soit leur forme juridique, contribuant à l'insertion professionnelle des personnes mentionnées à l'article L. 5132-1.
 
@@ -1412,7 +1412,7 @@ Après consultation de la commission spécialisée du comité départemental pou
 - État : en vigueur depuis le 23/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045950370
 - Renvoie à : [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. R5132-37 du Code du travail](chapitre-ii.md#article-r5132-37)
-- Cité par : [art. R5132-40 du Code du travail](chapitre-ii.md#article-r5132-40) ; [art. R412-82 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045678855)
+- Cité par : [art. R5132-40 du Code du travail](chapitre-ii.md#article-r5132-40) ; [art. R412-82 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-82)
 
 La convention conclue pour la mise en place d'un ou plusieurs ateliers et chantiers d'insertion comporte notamment :
 
@@ -1626,7 +1626,7 @@ En cas de modification de la situation juridique de l'employeur au sens de l'art
 - Identifiant : LEGIARTI000031694903
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031694903
-- Renvoie à : [art. L5132-3-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-3-1) ; art. L262-2 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-2) ; [art. L5132-3-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-3-1)
 
 Pour l'application du troisième alinéa de l'article L. 5132-3-1, la participation mensuelle du département aux aides financières est égale, pour chaque salarié en insertion qui était, avant son embauche, bénéficiaire du revenu de solidarité active financé par le département, à 88 % du montant forfaitaire mentionné à l'article L. 262-2 du code de l'action sociale et des familles applicable à un foyer composé d'une seule personne, dans la limite de la durée de conventionnement avec la structure d'insertion par l'activité économique concernée.
 

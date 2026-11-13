@@ -376,7 +376,7 @@ Lorsqu'il est fait application de l'article L. 631-16 et que le mandataire judic
 - Identifiant : LEGIARTI000032139410
 - État : en vigueur depuis le 29/02/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032139410
-- Renvoie à : [art. L444-3 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-3) ; art. L515-8 du Code de l'environnement
+- Renvoie à : [art. L444-3 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-3) ; [art. L515-8 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8)
 - Cité par : [art. A663-24 du Code de commerce](../../../partie-arretes/livre-vi/titre-vi/chapitre-iii.md#article-a663-24) ; [art. R663-19 du Code de commerce](chapitre-iii.md#article-r663-19)
 
 Il est alloué au liquidateur un émolument déterminé par un arrêté pris en application de l'article L. 444-3 au titre de l'ensemble des obligations résultant de la cessation d'activité d'une ou de plusieurs installations classées au sens du titre Ier du livre V du code de l'environnement. Cet émolument varie selon que :

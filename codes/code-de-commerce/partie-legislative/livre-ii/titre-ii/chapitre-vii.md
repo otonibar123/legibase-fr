@@ -7,7 +7,7 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535177
 - Renvoie à : [art. 1843-2 du Code civil](../../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1843-2) ; [art. L224-2 du Code de commerce](chapitre-iv.md#article-l224-2) ; [art. L225-14 du Code de commerce](chapitre-v.md#article-l225-14) ; [art. L225-17 du Code de commerce](chapitre-v.md#article-l225-17) ; [art. L225-243 du Code de commerce](chapitre-v.md#article-l225-243) ; [art. L233-8 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-8) ; [art. L236-6 du Code de commerce](../titre-iii/chapitre-vi.md#article-l236-6) ; [art. L526-6 du Code de commerce](../../livre-v/titre-ii/chapitre-vi.md#article-l526-6)
-- Cité par : [art. D227-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md#article-d227-3) ; [art. L227-2-1 du Code de commerce](chapitre-vii.md#article-l227-2-1) ; [art. L950-1-1 du Code de commerce](../../livre-ix/titre-v/articles-directs.md#article-l950-1-1) ; [Arrêté du 12 novembre 2004, art. 411-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028423279) ; [art. L313-19-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033281189) ; [art. L313-20-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033281269) ; [art. L214-7-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320415) ; [art. L214-24-32 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320387) ; [art. L214-67 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725669) ; [art. L214-125 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559735) ; [Décret n°2008-1488 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020050589) ; [Décret n°2026-513 du 15 juin 2026, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054258884) ; [Décret n°2026-514 du 15 juin 2026, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054259427) ; … et 3 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+- Cité par : [art. D227-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md#article-d227-3) ; [art. L227-2-1 du Code de commerce](chapitre-vii.md#article-l227-2-1) ; [art. L950-1-1 du Code de commerce](../../livre-ix/titre-v/articles-directs.md#article-l950-1-1) ; [art. L313-19-4 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-19-4) ; [art. L313-20-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-20-3) ; [art. L214-7-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7-3) ; [art. L214-24-32 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-32) ; [art. L214-67 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-67) ; [art. L214-125 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-125) ; [Arrêté du 12 novembre 2004, art. 411-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028423279) ; [Décret n°2008-1488 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020050589) ; [Décret n°2026-513 du 15 juin 2026, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054258884) ; [Décret n°2026-514 du 15 juin 2026, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054259427) ; [Ordonnance n°2004-604 du 24 juin 2004, art. 56](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006530463) ; [Ordonnance n°2004-604 du 24 juin 2004, art. 57](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006530466) ; [Ordonnance n°2004-604 du 24 juin 2004, art. 58](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006530497)
 
 Une société par actions simplifiée peut être instituée par une ou plusieurs personnes qui ne supportent les pertes qu'à concurrence de leur apport.
 
@@ -31,8 +31,8 @@ La société par actions simplifiée dont l'associé unique, personne physique, 
 - Identifiant : LEGIARTI000039260228
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260228
-- Renvoie à : art. L411-2 du Code monétaire et financier
-- Cité par : [art. L412-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020148262) ; [Ordonnance n°2014-559 du 30 mai 2014, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029011059)
+- Renvoie à : [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2)
+- Cité par : [art. L412-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-2) ; [Ordonnance n°2014-559 du 30 mai 2014, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029011059)
 
 La société par actions simplifiée ne peut procéder à une offre au public de titres financiers ou à l'admission aux négociations sur un marché réglementé de ses actions. Elle peut néanmoins procéder aux offres mentionnées :  
 
@@ -46,7 +46,7 @@ La société par actions simplifiée ne peut procéder à une offre au public de
 - Identifiant : LEGIARTI000039260213
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260213
-- Renvoie à : [art. L225-96 du Code de commerce](chapitre-v.md#article-l225-96) ; [art. L225-105 du Code de commerce](chapitre-v.md#article-l225-105) ; [art. L227-1 du Code de commerce](chapitre-vii.md#article-l227-1) ; [art. L227-9 du Code de commerce](chapitre-vii.md#article-l227-9) ; art. L411-2 du Code monétaire et financier
+- Renvoie à : [art. L225-96 du Code de commerce](chapitre-v.md#article-l225-96) ; [art. L225-105 du Code de commerce](chapitre-v.md#article-l225-105) ; [art. L227-1 du Code de commerce](chapitre-vii.md#article-l227-1) ; [art. L227-9 du Code de commerce](chapitre-vii.md#article-l227-9) ; [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2)
 
 I. – Par dérogation aux articles L. 227-1 et L. 227-9, lorsqu'une société par actions simplifiée procède à une offre mentionnée au 2° de l'article L. 411-2 du code monétaire et financier portant sur ses titres de capital :
 
@@ -81,7 +81,7 @@ En cas de réunion en une seule main de toutes les actions d'une société par a
 - Identifiant : LEGIARTI000006227032
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227032
-- Cité par : [art. R5142-33 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027860028)
+- Cité par : [art. R5142-33 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/cinquieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r5142-33)
 
 Les statuts fixent les conditions dans lesquelles la société est dirigée.
 
@@ -89,7 +89,7 @@ Les statuts fixent les conditions dans lesquelles la société est dirigée.
 - Identifiant : LEGIARTI000006227034
 - État : en vigueur depuis le 02/08/2003
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227034
-- Cité par : [art. L313-19-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037669469) ; [art. L313-20-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037669439) ; [Décret n°2026-513 du 15 juin 2026, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054258886) ; [Décret n°2026-514 du 15 juin 2026, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054259429) ; [Ordonnance n°2004-604 du 24 juin 2004, art. 57](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006530466) ; [Ordonnance n°2004-604 du 24 juin 2004, art. 58](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006530497)
+- Cité par : [art. L313-19-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-19-3) ; [art. L313-20-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-20-2) ; [art. L214-63 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-63) ; [Décret n°2026-513 du 15 juin 2026, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054258886) ; [Décret n°2026-514 du 15 juin 2026, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054259429) ; [Ordonnance n°2004-604 du 24 juin 2004, art. 57](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006530466) ; [Ordonnance n°2004-604 du 24 juin 2004, art. 58](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006530497)
 
 La société est représentée à l'égard des tiers par un président désigné dans les conditions prévues par les statuts. Le président est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la société dans la limite de l'objet social.  
 
@@ -103,7 +103,7 @@ Les dispositions statutaires limitant les pouvoirs du président sont inopposabl
 - Identifiant : LEGIARTI000006227035
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227035
-- Cité par : [art. L214-63 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051323780)
+- Cité par : [art. L214-63 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-63)
 
 Lorsqu'une personne morale est nommée président ou dirigeant d'une société par actions simplifiée, les dirigeants de ladite personne morale sont soumis aux mêmes conditions et obligations et encourent les mêmes responsabilités civile et pénale que s'ils étaient président ou dirigeant en leur nom propre, sans préjudice de la responsabilité solidaire de la personne morale qu'ils dirigent.
 
@@ -187,7 +187,7 @@ Les interdictions prévues à l'article L. 225-43 s'appliquent, dans les conditi
 - Identifiant : LEGIARTI000006227107
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227107
-- Cité par : [art. L227-19 du Code de commerce](chapitre-vii.md#article-l227-19) ; [art. L227-20 du Code de commerce](chapitre-vii.md#article-l227-20) ; [art. L6223-7 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021708855) ; [art. L214-7-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320415) ; [art. L214-24-32 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320387) ; [art. L214-67 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725669) ; [art. L214-125 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559735)
+- Cité par : [art. L227-19 du Code de commerce](chapitre-vii.md#article-l227-19) ; [art. L227-20 du Code de commerce](chapitre-vii.md#article-l227-20) ; [art. L6223-7 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-7) ; [art. L214-7-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7-3) ; [art. L214-24-32 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-32) ; [art. L214-67 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-67) ; [art. L214-125 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-125)
 
 Les statuts de la société peuvent prévoir l'inaliénabilité des actions pour une durée n'excédant pas dix ans.
 
@@ -232,7 +232,7 @@ Les dispositions de l'alinéa précédent peuvent s'appliquer, dans les mêmes c
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006227187
 - Renvoie à : [art. 1843-4 du Code civil](../../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1843-4) ; [art. L227-14 du Code de commerce](chapitre-vii.md#article-l227-14) ; [art. L227-16 du Code de commerce](chapitre-vii.md#article-l227-16)
-- Cité par : [art. L214-67 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725669) ; [art. L214-125 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559735)
+- Cité par : [art. L214-67 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-67) ; [art. L214-125 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-125)
 
 Si les statuts ne précisent pas les modalités du prix de cession des actions lorsque la société met en oeuvre une clause introduite en application des articles L. 227-14, L. 227-16 et L. 227-17, ce prix est fixé par accord entre les parties ou, à défaut, déterminé dans les conditions prévues à l'article 1843-4 du code civil.  
 

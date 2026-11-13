@@ -30,7 +30,7 @@ Ce dossier technique fait partie du dossier de maintenance des lieux de travail 
 - État : en vigueur depuis le 02/09/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022765011
 - Renvoie à : [art. R4226-9 du Code du travail](../titre-ii/chapitre-vi.md#article-r4226-9) ; [art. R4226-10 du Code du travail](../titre-ii/chapitre-vi.md#article-r4226-10) ; [art. R4226-11 du Code du travail](../titre-ii/chapitre-vi.md#article-r4226-11)
-- Cité par : [art. R4226-6 du Code du travail](../titre-ii/chapitre-vi.md#article-r4226-6) ; [Arrêté du 15 décembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025049444) ; [Arrêté du 16 décembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025049452) ; [Arrêté du 26 décembre 2011, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025049541) ; [art. R6351-40 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054973858) ; [art. R4211-3 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532571)
+- Cité par : [art. R6351-40 du Code des transports](../../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ier.md#article-r6351-40) ; [art. R4226-6 du Code du travail](../titre-ii/chapitre-vi.md#article-r4226-6) ; [Arrêté du 15 décembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025049444) ; [Arrêté du 16 décembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025049452) ; [Arrêté du 26 décembre 2011, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025049541) ; [art. R4211-3 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532571)
 
 Les installations sont conçues et réalisées de telle façon que :
 
@@ -42,7 +42,7 @@ Les installations sont conçues et réalisées de telle façon que :
 - Identifiant : LEGIARTI000022765055
 - État : en vigueur depuis le 02/09/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022765055
-- Cité par : [art. R6351-40 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054973858)
+- Cité par : [art. R6351-40 du Code des transports](../../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ier.md#article-r6351-40)
 
 Toutes dispositions sont prises pour éviter que les parties actives ou les masses d'une installation soient portées à des tensions qui seraient dangereuses pour les personnes, du fait de leur voisinage avec une installation dont le domaine de tension est supérieur, ou du fait de défaut à la terre dans une telle installation.
 
@@ -71,7 +71,7 @@ Les matériels contenant des diélectriques liquides inflammables et les transfo
 - Identifiant : LEGIARTI000022765049
 - État : en vigueur depuis le 02/09/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022765049
-- Cité par : [art. R6351-39 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054973856)
+- Cité par : [art. R6351-39 du Code des transports](../../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ier.md#article-r6351-39)
 
 Des dispositifs de sectionnement assurent la séparation de l'installation électrique, des circuits ou des appareils d'utilisation, de leurs sources d'alimentation et permettent d'effectuer en sécurité toute opération sur l'installation, les circuits ou les appareils d'utilisation.
 
@@ -79,7 +79,7 @@ Des dispositifs de sectionnement assurent la séparation de l'installation élec
 - Identifiant : LEGIARTI000022765047
 - État : en vigueur depuis le 02/09/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022765047
-- Cité par : [art. R4215-8-1 du Code du travail](chapitre-v.md#article-r4215-8-1) ; [art. R6351-40 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054973858) ; [Décret n°2025-1271 du 22 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053161587)
+- Cité par : [art. R6351-40 du Code des transports](../../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ier.md#article-r6351-40) ; [art. R4215-8-1 du Code du travail](chapitre-v.md#article-r4215-8-1) ; [Décret n°2025-1271 du 22 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053161587)
 
 Des dispositifs permettent, en cas d'urgence, de couper l'alimentation électrique de circuits ou de groupes de circuits en cas d'apparition d'un danger inattendu de choc électrique, d'incendie ou d'explosion.
 
@@ -87,7 +87,7 @@ Des dispositifs permettent, en cas d'urgence, de couper l'alimentation électriq
 - Identifiant : LEGIARTI000053161614
 - État : en vigueur depuis le 25/12/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053161614
-- Renvoie à : [art. R4215-8 du Code du travail](chapitre-v.md#article-r4215-8) ; art. L593-2 du Code de l'environnement
+- Renvoie à : [art. L593-2 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ix/chapitre-iii.md#article-l593-2) ; [art. R4215-8 du Code du travail](chapitre-v.md#article-r4215-8)
 
 Les dispositions de l'article R. 4215-8 ne sont pas applicables aux installations électriques des centrales de production d'électricité comprenant des installations nucléaires de base énumérées à l'article L. 593-2 du code de l'environnement qui concourent à la sûreté nucléaire, à la radioprotection, à la continuité ou à la sécurité d'approvisionnement d'électricité au réseau public de transport d'électricité.
 
@@ -106,7 +106,7 @@ Les canalisations électriques sont mises en place selon les prescriptions parti
 - Identifiant : LEGIARTI000022765043
 - État : en vigueur depuis le 02/09/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022765043
-- Cité par : [art. R6351-39 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054973856)
+- Cité par : [art. R6351-39 du Code des transports](../../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ier.md#article-r6351-39)
 
 L'identification des circuits et des appareillages est assurée de façon pérenne.  
 

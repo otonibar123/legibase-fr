@@ -9,7 +9,7 @@ Code du travail › Partie réglementaire › Septième partie : Dispositions pa
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747505
 - Renvoie à : [art. L7232-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-1)
-- Cité par : [art. D7233-2 du Code du travail](chapitre-iii.md#article-d7233-2) ; [ARRÊTÉ du 17 mars 2015, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030396533) ; [art. Annexe 3-0 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047851019)
+- Cité par : [art. Annexe 3-0 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-3-0) ; [art. D7233-2 du Code du travail](chapitre-iii.md#article-d7233-2) ; [ARRÊTÉ du 17 mars 2015, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030396533)
 
 Lorsqu'ils assurent la fourniture aux personnes physiques de prestations de services à la personne, les personnes morales et les entrepreneurs individuels produisent une facture faisant apparaître :
 
@@ -47,6 +47,7 @@ Lorsque les prestations de service sont imposables à la taxe sur la valeur ajou
 - Identifiant : LEGIARTI000033747500
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747500
+- Renvoie à : [art. 199 sexdecies du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-199-sexdecies)
 - Cité par : [Arrêté du 4 décembre 2024, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050738107)
 
 Seules peuvent ouvrir droit à l'aide prévue par l'article 199 sexdecies du code général des impôts, les factures acquittées :
@@ -59,8 +60,8 @@ Seules peuvent ouvrir droit à l'aide prévue par l'article 199 sexdecies du cod
 - Identifiant : LEGIARTI000033747494
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747494
-- Renvoie à : [art. 199 sexdecies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006303298)
-- Cité par : [art. 46 AO bis du Code général des impôts, annexe 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025887123)
+- Renvoie à : [art. 199 sexdecies du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-199-sexdecies)
+- Cité par : [art. 46 AO bis du Code général des impôts, annexe III](../../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-premier/chapitre-ier.md#article-46-ao-bis)
 
 La personne morale ou l'entrepreneur individuel déclaré en application de l'article L. 7232-1-1 délivre à chacun de ses clients une attestation fiscale annuelle, pour leur permettre de bénéficier de l'aide prévue par l'article 199 sexdecies du code général des impôts.
 
@@ -80,7 +81,8 @@ Cette attestation mentionne :
 - Identifiant : LEGIARTI000033747497
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747497
-- Cité par : [art. 199 sexdecies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054251333)
+- Renvoie à : [art. 199 sexdecies du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-199-sexdecies)
+- Cité par : [art. 199 sexdecies du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-199-sexdecies)
 
 Les activités de service à la personne à domicile ouvrent droit à l'aide prévue par l'article 199 sexdecies du code général des impôts sous les réserves suivantes :
 
@@ -112,7 +114,7 @@ Les bénéficiaires de l'aide financière prévue à l'article L. 7233-4 sont le
 - Identifiant : LEGIARTI000053302496
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053302496
-- Cité par : [Arrêté du 23 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053266313) ; [Arrêté du 26 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051109853) ; [art. D2123-22-6 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042209928) ; [art. D3123-22-3 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042209921) ; [art. D4135-22-3 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042209915) ; [art. D7125-31 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031694931) ; [art. D7227-31 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031695348)
+- Cité par : [art. D2123-22-6 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-d2123-22-6) ; [art. D2573-8 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/deuxieme-partie/livre-v/titre-vii/chapitre-iii.md#article-d2573-8) ; [art. D3123-22-3 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-d3123-22-3) ; [art. D4135-22-3 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-ier/titre-iii/chapitre-v.md#article-d4135-22-3) ; [art. D7125-31 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-v.md#article-d7125-31) ; [art. D7227-31 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/septieme-partie/livre-ii/titre-ii/chapitre-vii.md#article-d7227-31) ; [Arrêté du 23 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053266313) ; [Arrêté du 26 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051109853)
 
 Le montant maximum de l'aide financière est fixé à 1 830 € par année civile et par bénéficiaire.
 
@@ -141,7 +143,7 @@ Le comité social et économique qui verse l'aide financière transmet à l'entr
 - Identifiant : LEGIARTI000036482996
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036482996
-- Renvoie à : art. 87 du Code général des impôts
+- Renvoie à : [art. 87 du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-87)
 
 L'employeur communique au bénéficiaire de l'aide, avant le 1er février de l'année suivant celle de l'attribution de l'aide versée par le comité social et économique ou l'entreprise au cours de l'année écoulée, une attestation mentionnant le montant total de celle-ci et précisant son caractère non imposable.
 

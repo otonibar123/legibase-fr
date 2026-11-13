@@ -22,7 +22,7 @@ Les électeurs mentionnés au 2° ne peuvent être inscrits sur la liste des mem
 - Identifiant : LEGIARTI000044191455
 - État : en vigueur depuis le 13/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044191455
-- Renvoie à : art. 131-27 du Code pénal
+- Renvoie à : [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27)
 - Cité par : [art. L724-7 du Code de commerce](chapitre-iv.md#article-l724-7) ; [art. L937-5 du Code de commerce](../../livre-ix/titre-iii/chapitre-vii.md#article-l937-5) ; [art. L947-5 du Code de commerce](../../livre-ix/titre-iv/chapitre-vii.md#article-l947-5) ; [art. R723-2 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-2) ; [art. R723-6 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-6)
 
 Les personnes mentionnées à l'article L. 723-1 ne peuvent faire partie du collège électoral qu'à la condition :
@@ -41,6 +41,7 @@ Les personnes mentionnées à l'article L. 723-1 ne peuvent faire partie du coll
 - Identifiant : LEGIARTI000038314871
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038314871
+- Renvoie à : [art. L20 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l20)
 - Cité par : [art. L937-6 du Code de commerce](../../livre-ix/titre-iii/chapitre-vii.md#article-l937-6) ; [art. L947-6 du Code de commerce](../../livre-ix/titre-iv/chapitre-vii.md#article-l947-6) ; [art. R723-1 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-1) ; [art. R723-20 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-20) ; [Décret n°2012-1047 du 13 septembre 2012, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026368577)
 
 La liste électorale pour les élections aux tribunaux de commerce est établie par une commission présidée par le juge commis à la surveillance du registre du commerce et des sociétés. En cas de création d'un tribunal de commerce, le premier président de la cour d'appel désigne comme président de la commission un magistrat honoraire de l'ordre judiciaire.
@@ -55,7 +56,7 @@ Les dispositions de l'article L. 20 du code électoral sont applicables en cas d
 - Identifiant : LEGIARTI000046482926
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046482926
-- Renvoie à : [art. L713-1 du Code de commerce](../titre-ier/chapitre-iii.md#article-l713-1) ; [art. L713-3 du Code de commerce](../titre-ier/chapitre-iii.md#article-l713-3) ; art. 131-27 du Code pénal
+- Renvoie à : [art. L713-1 du Code de commerce](../titre-ier/chapitre-iii.md#article-l713-1) ; [art. L713-3 du Code de commerce](../titre-ier/chapitre-iii.md#article-l713-3) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. L2 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l2)
 - Cité par : [art. L937-7 du Code de commerce](../../livre-ix/titre-iii/chapitre-vii.md#article-l937-7) ; [art. L947-7 du Code de commerce](../../livre-ix/titre-iv/chapitre-vii.md#article-l947-7) ; [art. R723-6 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-6) ; [art. R713-41 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036914101)
 
 I.- Sont éligibles aux fonctions de juge d'un tribunal de commerce les personnes âgées de trente ans au moins :
@@ -150,7 +151,7 @@ Sont déclarés élus au premier tour les candidats ayant obtenu un nombre de vo
 - Identifiant : LEGIARTI000006240550
 - État : en vigueur depuis le 09/06/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006240550
-- Cité par : [art. L722-6 du Code de commerce](chapitre-ii.md#article-l722-6) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L940-1 du Code de commerce](../../livre-ix/titre-iv/articles-directs.md#article-l940-1) ; [art. R722-10 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md#article-r722-10) ; [art. R723-3 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-3) ; [art. R723-5 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-5) ; [art. R713-41 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036914101) ; [art. R322-15 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049793402) ; [Décret n°2020-854 du 7 juillet 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042093251) ; [Décret n°2021-1046 du 6 août 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043918303)
+- Cité par : [art. L722-6 du Code de commerce](chapitre-ii.md#article-l722-6) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L940-1 du Code de commerce](../../livre-ix/titre-iv/articles-directs.md#article-l940-1) ; [art. R722-10 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md#article-r722-10) ; [art. R723-3 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-3) ; [art. R723-5 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-5) ; [art. R322-15 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-15) ; [art. R713-41 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036914101) ; [Décret n°2020-854 du 7 juillet 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042093251) ; [Décret n°2021-1046 du 6 août 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043918303)
 
 Des élections ont lieu tous les ans dans chaque tribunal de commerce où il y a des sièges à pourvoir pour quelque cause que ce soit.  
 
@@ -160,7 +161,7 @@ Si, en cours d'année, le nombre des vacances dépasse le tiers des effectifs d'
 - Identifiant : LEGIARTI000006240551
 - État : en vigueur depuis le 09/06/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006240551
-- Renvoie à : [art. L49 du Code électoral](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353094) ; [art. L58 du Code électoral](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353162) ; [art. L86 du Code électoral](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353198)
+- Renvoie à : [art. L49 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-v.md#article-l49) ; [art. L58 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l58) ; [art. L86 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vii.md#article-l86)
 
 Les dispositions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117 du code électoral s'appliquent aux opérations électorales organisées en vue de la désignation des juges des tribunaux de commerce.
 

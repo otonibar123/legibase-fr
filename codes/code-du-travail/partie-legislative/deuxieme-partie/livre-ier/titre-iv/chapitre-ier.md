@@ -7,7 +7,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - État : en vigueur depuis le 29/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018881593
 - Renvoie à : [art. L1132-1 du Code du travail](../../../premiere-partie/livre-ier/titre-iii/chapitre-ii.md#article-l1132-1)
-- Cité par : [art. L2133-2 du Code du travail](../titre-iii/chapitre-iii.md#article-l2133-2) ; [art. R2146-5 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-vi.md#article-r2146-5) ; [art. L344-2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048586843) ; [art. L2651-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054140669)
+- Cité par : [art. L344-2-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iv.md#article-l344-2-6) ; [art. L2133-2 du Code du travail](../titre-iii/chapitre-iii.md#article-l2133-2) ; [art. R2146-5 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-vi.md#article-r2146-5) ; [art. L2651-2 du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054140669)
 
 Tout salarié peut librement adhérer au syndicat professionnel de son choix et ne peut être écarté pour l'un des motifs visés à l'article L. 1132-1.
 
@@ -32,7 +32,7 @@ Le syndicat peut réclamer la cotisation correspondant aux six mois qui suivent 
 - Identifiant : LEGIARTI000006901605
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901605
-- Cité par : [art. L2146-1 du Code du travail](chapitre-vi.md#article-l2146-1) ; [art. L621-5-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033912158)
+- Cité par : [art. L2146-1 du Code du travail](chapitre-vi.md#article-l2146-1) ; [art. L621-5-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ii/chapitre-unique.md#article-l621-5-1)
 
 L'exercice du droit syndical est reconnu dans toutes les entreprises dans le respect des droits et libertés garantis par la Constitution de la République, en particulier de la liberté individuelle du travail.  
 
@@ -43,7 +43,7 @@ Les syndicats professionnels peuvent s'organiser librement dans toutes les entre
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653309
 - Renvoie à : [art. L6315-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l6315-1)
-- Cité par : [art. L2134-2 du Code du travail](../titre-iii/chapitre-iv.md#article-l2134-2) ; [art. L2141-8 du Code du travail](chapitre-ier.md#article-l2141-8) ; [art. L2146-2 du Code du travail](chapitre-vi.md#article-l2146-2) ; [art. L8113-5 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-5) ; [art. L514-3-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051374259)
+- Cité par : [art. L2134-2 du Code du travail](../titre-iii/chapitre-iv.md#article-l2134-2) ; [art. L2141-8 du Code du travail](chapitre-ier.md#article-l2141-8) ; [art. L2146-2 du Code du travail](chapitre-vi.md#article-l2146-2) ; [art. L8113-5 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-5) ; [art. L514-3-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-iv.md#article-l514-3-2)
 
 Il est interdit à l'employeur de prendre en considération l'appartenance à un syndicat ou l'exercice d'une activité syndicale pour arrêter ses décisions en matière notamment de recrutement, de conduite et de répartition du travail, de formation professionnelle, d'avancement, de rémunération et d'octroi d'avantages sociaux, de mesures de discipline et de rupture du contrat de travail.
 
@@ -66,7 +66,7 @@ En l'absence d'accord collectif de branche ou d'entreprise déterminant des gara
 - Identifiant : LEGIARTI000006901607
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901607
-- Cité par : [art. L344-2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048586843)
+- Cité par : [art. L344-2-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iv.md#article-l344-2-6)
 
 Il est interdit à l'employeur de prélever les cotisations syndicales sur les salaires de son personnel et de les payer au lieu et place de celui-ci.
 
@@ -82,7 +82,7 @@ Il est interdit à l'employeur ou à ses représentants d'employer un moyen quel
 - Identifiant : LEGIARTI000036773159
 - État : en vigueur depuis le 01/04/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036773159
-- Cité par : [art. L344-2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048586843)
+- Cité par : [art. L344-2-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iv.md#article-l344-2-6)
 
 L'employeur informe chaque année les salariés, par tout moyen, de la disponibilité des adresses des organisations syndicales de salariés représentatives dans la branche dont relève l'entreprise sur le site du ministère du travail.
 
@@ -109,7 +109,7 @@ Les syndicats représentatifs dans l'entreprise bénéficient des dispositions a
 - Identifiant : LEGIARTI000006901611
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901611
-- Cité par : [Arrêté du 21 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049821517) ; [art. L421-25 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020466429)
+- Cité par : [art. L421-25 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-25) ; [Arrêté du 21 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049821517)
 
 Les dispositions du présent titre ne font pas obstacle aux conventions ou accords collectifs de travail comportant des clauses plus favorables, notamment celles qui sont relatives à l'institution de délégués syndicaux ou de délégués syndicaux centraux dans tous les cas où les dispositions légales n'ont pas rendu obligatoire cette institution.  
 
@@ -120,7 +120,7 @@ Aucune limitation ne peut être apportée aux dispositions relatives à l'exerci
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901612
 - Renvoie à : [art. L1111-2 du Code du travail](../../../premiere-partie/livre-ier/titre-ier/chapitre-unique.md#article-l1111-2) ; [art. L1251-54 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-54)
-- Cité par : [art. L2146-1 du Code du travail](chapitre-vi.md#article-l2146-1) ; [art. L442-5 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982740) ; [art. L961-2 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037110405)
+- Cité par : [art. L442-5 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/deuxieme-partie/livre-iv/titre-iv/chapitre-ii.md#article-l442-5) ; [art. L961-2 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/quatrieme-partie/livre-ix/titre-vi/chapitre-ier.md#article-l961-2) ; [art. L2146-1 du Code du travail](chapitre-vi.md#article-l2146-1)
 
 Pour l'application du présent titre, les modalités de calcul des effectifs sont celles prévues aux articles L. 1111-2 et L. 1251-54.
 

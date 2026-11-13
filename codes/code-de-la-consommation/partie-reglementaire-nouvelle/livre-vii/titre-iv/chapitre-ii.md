@@ -297,7 +297,7 @@ Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la vente par 
 - Identifiant : LEGIARTI000039066293
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039066293
-- Renvoie à : art. R321-3 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R321-3 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-3) ; [art. R322-37 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-37) ; [art. R322-38 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-38)
 - Cité par : [art. R742-32 du Code de la consommation](chapitre-ii.md#article-r742-32) ; [art. R742-33 du Code de la consommation](chapitre-ii.md#article-r742-33) ; [art. R742-34 du Code de la consommation](chapitre-ii.md#article-r742-34) ; [art. R742-36 du Code de la consommation](chapitre-ii.md#article-r742-36) ; [art. R742-37 du Code de la consommation](chapitre-ii.md#article-r742-37)
 
 Le juge des contentieux de la protection, à la demande du liquidateur, détermine la mise à prix du bien à vendre, les conditions essentielles de la vente et les modalités de visite. A la demande du liquidateur ou de l'une des parties, il peut aménager, restreindre ou compléter les mesures de publicité de la vente dans les conditions des articles R. 322-37 et R. 322-38 du code des procédures civiles d'exécution.  
@@ -317,7 +317,7 @@ Une copie du jugement est adressée au liquidateur par le greffe par lettre simp
 - Identifiant : LEGIARTI000032808870
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808870
-- Renvoie à : [art. R321-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938974)
+- Renvoie à : [art. R321-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-1)
 
 Le jugement produit les effets du commandement prévu à l'article R. 321-1 du code des procédures civiles d'exécution. Il est publié à la diligence du liquidateur, au service chargé de la publicité foncière du lieu de situation des biens, dans les conditions prévues pour ledit commandement.  
 Le chef du service chargé de la publicité foncière procède à la formalité de publicité du jugement même si des commandements ont été antérieurement publiés. Ces commandements cessent de produire effet à compter de la publication du jugement.  
@@ -327,6 +327,7 @@ Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, la publicité
 - Identifiant : LEGIARTI000039066285
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039066285
+- Renvoie à : [art. R322-37 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-37) ; [art. R322-38 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-38)
 - Cité par : [art. R742-32 du Code de la consommation](chapitre-ii.md#article-r742-32) ; [art. R742-33 du Code de la consommation](chapitre-ii.md#article-r742-33) ; [art. R742-34 du Code de la consommation](chapitre-ii.md#article-r742-34) ; [art. R742-36 du Code de la consommation](chapitre-ii.md#article-r742-36) ; [art. R742-37 du Code de la consommation](chapitre-ii.md#article-r742-37)
 
 Lorsqu'une procédure de saisie immobilière, suspendue par l'effet du jugement d'ouverture, est reprise par le liquidateur, le juge des contentieux de la protection, à la demande du liquidateur, fixe ou modifie, s'il y a lieu, la mise à prix, les conditions essentielles de la vente, les modalités de visite et statue, à la demande du liquidateur ou d'une des parties, sur les mesures de publicité de la vente dans les conditions des articles R. 322-37 et R. 322-38 du code des procédures civiles d'exécution.  
@@ -341,7 +342,7 @@ Le créancier qui avait engagé la procédure de saisie immobilière remet contr
 - Identifiant : LEGIARTI000032808874
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808874
-- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R322-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939044) ; [art. R322-2 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939046) ; [art. R322-3 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939048)
+- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R322-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-1) ; [art. R322-2 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-2) ; [art. R322-3 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-3)
 
 Dans un délai de quinze jours à compter de la publication du jugement prononcé en application de l'article R. 742-28 ou, s'il y a lieu, de la mention du jugement pris en application de l'article R. 742-31 en marge de la copie du commandement publié au service chargé de la publicité foncière, le liquidateur commet un huissier de justice aux fins d'établir un procès-verbal de description des lieux mis en vente dans les conditions des articles R. 322-1, R. 322-2 et R. 322-3 du code des procédures civiles d'exécution.
 
@@ -349,7 +350,7 @@ Dans un délai de quinze jours à compter de la publication du jugement prononc�
 - Identifiant : LEGIARTI000039345319
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345319
-- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R742-38 du Code de la consommation](chapitre-ii.md#article-r742-38) ; art. R322-10 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R742-38 du Code de la consommation](chapitre-ii.md#article-r742-38) ; [art. R322-10 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-10)
 
 Dans un délai de deux mois à compter de la publication du jugement prononcé en application de l'article R. 742-28 ou de la mention du jugement pris en application de l'article R. 742-31 en marge de la copie du commandement publié au service chargé de la publicité foncière, le liquidateur établit un cahier des conditions de vente et le dépose au greffe du juge chargé des saisies immobilières du tribunal judiciaire compétent.  
 Par exception à l'article R. 322-10 du code des procédures civiles d'exécution, le cahier des conditions de ventes contient :  
@@ -377,7 +378,7 @@ Aux fins du 3°, l'avis vaut notification du cahier des conditions de vente.
 - Identifiant : LEGIARTI000054559969
 - État : en vigueur depuis le 01/10/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054559969
-- Renvoie à : [art. R742-34 du Code de la consommation](chapitre-ii.md#article-r742-34) ; [art. 692-1 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ier/titre-xvii/chapitre-iii.md#article-692-1) ; art. R124-7 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R742-34 du Code de la consommation](chapitre-ii.md#article-r742-34) ; [art. 692-1 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ier/titre-xvii/chapitre-iii.md#article-692-1) ; [art. R124-7 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md#article-r124-7)
 
 En cas de contestation formée en application des dispositions de l'article R. 742-34, les parties sont convoquées à une audience par le greffe du juge chargé des saisies immobilières, en application des dispositions du troisième alinéa de l'article R. 124-7 du code des procédures civiles d'exécution, par lettre recommandée avec demande d'avis de réception, un mois au moins avant la date de l'audience.
 
@@ -389,7 +390,7 @@ Par dérogation, lorsqu'elles sont créancières, les personnes mentionnées à 
 - Identifiant : LEGIARTI000032808882
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808882
-- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R322-31 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939129)
+- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R322-31 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-31)
 
 Sous réserve de la modification des conditions de publicité de la vente prévues par le jugement prononcé en application des dispositions de l'article R. 742-28 ou de l'article R. 742-31, la vente forcée est annoncée dans les conditions prévues par les dispositions des articles R. 322-31 à R. 322-36 du code des procédures civiles d'exécution.
 
@@ -397,7 +398,7 @@ Sous réserve de la modification des conditions de publicité de la vente prévu
 - Identifiant : LEGIARTI000032808884
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808884
-- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R322-47 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939169) ; [art. R322-50 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939179) ; [art. R322-58 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939198) ; [art. R322-61 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939208) ; [art. R322-64 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939222) ; [art. Sous-section 3 : Les enchères du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000025939147)
+- Renvoie à : [art. R742-28 du Code de la consommation](chapitre-ii.md#article-r742-28) ; [art. R742-31 du Code de la consommation](chapitre-ii.md#article-r742-31) ; [art. R322-47 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-47) ; [art. R322-50 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-50) ; [art. R322-58 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-58) ; [art. R322-61 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-61) ; [art. R322-64 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-64) ; [art. Sous-section 3 : Les enchères du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000025939147)
 
 A l'audience d'adjudication, il est procédé en application des dispositions de la sous-section 3 de la section 4 du chapitre II du titre II du livre III du code des procédures civiles d'exécution, à l'exception de l'article R. 322-47.  
 Les dispositions de l'article R. 322-58 du même code sont applicables au paiement des frais taxés et des droits de mutation.  
@@ -420,7 +421,7 @@ Dans un délai de deux mois à compter de la date d'adjudication définitive, l'
 - Identifiant : LEGIARTI000032808888
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808888
-- Renvoie à : [art. R742-38 du Code de la consommation](chapitre-ii.md#article-r742-38) ; [art. R322-66 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939228) ; [art. R322-68 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939232)
+- Renvoie à : [art. R742-38 du Code de la consommation](chapitre-ii.md#article-r742-38) ; [art. R322-66 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-66) ; [art. R322-68 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-68)
 
 La réitération des enchères est régie par les dispositions des articles R. 322-66 à R. 322-72 du code des procédures civiles d'exécution, sous les réserves qui suivent.  
 En cas de défaut de consignation du prix de vente ou de justification du paiement des frais taxés et des droits de mutation dans le délai prévu à l'article R. 742-38, le liquidateur enjoint l'adjudicataire, par lettre recommandée avec demande d'avis de réception, d'acquitter les sommes restant dues, dans un délai de huit jours, à peine de réitération des enchères.  

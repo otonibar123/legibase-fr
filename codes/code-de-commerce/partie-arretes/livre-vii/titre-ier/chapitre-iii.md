@@ -88,7 +88,7 @@ Le nombre de circulaires admis à remboursement ne peut excéder celui effective
 - Identifiant : LEGIARTI000043591961
 - État : en vigueur depuis le 02/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043591961
-- Renvoie à : [art. A713-9 du Code de commerce](chapitre-iii.md#article-a713-9)
+- Renvoie à : [art. A713-9 du Code de commerce](chapitre-iii.md#article-a713-9) ; [art. L52-11 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-v-bis.md#article-l52-11) ; [art. L52-11-1 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-v-bis.md#article-l52-11-1) ; [art. R27 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-v.md#article-r27) ; [art. R29 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-v.md#article-r29) ; [art. R30 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-v.md#article-r30) ; [art. R39 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-v.md#article-r39)
 - Cité par : [art. A713-22-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022726617)
 
 Lorsqu'il est procédé à un vote par correspondance, les frais de campagne remboursés aux candidats en application de l'article R. 713-12 s'entendent du coût du papier et de l'impression des bulletins de vote et des circulaires présentant les caractéristiques suivantes :  
@@ -103,6 +103,7 @@ Le nombre de bulletins et de circulaires admis à remboursement ne peut excéder
 - Identifiant : LEGIARTI000043591977
 - État : en vigueur depuis le 02/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043591977
+- Renvoie à : [art. L52-11 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-v-bis.md#article-l52-11)
 
 Le montant maximum de remboursement des dépenses engagées par les candidats est fixé, dans chaque circonscription de chambre de commerce et d'industrie de région, par le préfet de région en prenant comme cadre de référence les dispositions de l'arrêté en vigueur fixant les tarifs maxima de remboursement des frais d'impression et d'affichage des documents électoraux pour les élections municipales, communautaires et métropolitaines.  
 
@@ -146,6 +147,7 @@ Les instruments de vote envoyés aux électeurs mentionnent les liens internet v
 - Identifiant : LEGIARTI000043591929
 - État : en vigueur depuis le 02/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043591929
+- Renvoie à : [art. L49 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-v.md#article-l49)
 - Cité par : [art. A713-7 du Code de commerce](chapitre-iii.md#article-a713-7)
 
 I.-Lorsqu'il est fait application du 3e alinéa de l'article R. 713-21, les candidats ou leurs mandataires remettent, vingt et un jour au plus tard avant le dernier jour du scrutin, au secrétariat de la commission d'organisation des élections, un nombre de circulaires égal au nombre d'électeurs inscrits dans la catégorie ou, le cas échéant, sous-catégorie, plus 5 % afin de les joindre à l'envoi des instruments de vote aux électeurs.  

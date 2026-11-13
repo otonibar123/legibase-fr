@@ -43,7 +43,7 @@ Il est interdit de faire obstacle à l'exercice des fonctions des agents habilit
 - Identifiant : LEGIARTI000032225122
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225122
-- Cité par : [art. L512-6 du Code de la consommation](chapitre-ii.md#article-l512-6) ; [art. L329-23 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984322) ; [art. L6143-16 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045444707) ; [art. L230-5 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049392015)
+- Cité par : [art. L512-6 du Code de la consommation](chapitre-ii.md#article-l512-6) ; [art. L329-23 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-23) ; [art. L6143-16 du Code des transports](../../../../code-des-transports/partie-legislative/sixieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-l6143-16) ; [art. L230-5 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-iii/chapitre-preliminaire.md#article-l230-5)
 
 Les agents habilités peuvent opérer sur la voie publique.  
 Entre 8 heures et 20 heures, ils peuvent pénétrer dans les lieux à usage professionnel ou dans les lieux d'exécution d'une prestation de service, ainsi qu'accéder à tous moyens de transport à usage professionnel.  
@@ -74,7 +74,7 @@ Lorsque l'établissement de la preuve de l'infraction ou du manquement en dépen
 - Identifiant : LEGIARTI000032225113
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225113
-- Cité par : [art. L329-14 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984300)
+- Cité par : [art. L329-14 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-14)
 
 Les agents habilités peuvent exiger la communication de documents de toute nature propres à faciliter l'accomplissement de leur mission. Ils peuvent les obtenir ou en prendre copie, par tout moyen et sur tout support, ou procéder à la saisie de ces documents en quelques mains qu'ils se trouvent.
 
@@ -99,7 +99,7 @@ Sur demande des agents habilités, les documents leur sont communiqués sur un s
 - Identifiant : LEGIARTI000032225105
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225105
-- Cité par : [art. L329-14 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984300)
+- Cité par : [art. L329-14 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-14)
 
 Lorsqu'ils constatent une infraction, les agents habilités peuvent procéder à la prise d'un échantillon de la marchandise ou d'un exemplaire de celle-ci destiné à servir de pièce à conviction. Cette prise d'échantillon donne lieu à un procès-verbal.
 
@@ -107,7 +107,7 @@ Lorsqu'ils constatent une infraction, les agents habilités peuvent procéder à
 - Identifiant : LEGIARTI000032225101
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225101
-- Cité par : [art. L541-3 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-3) ; [Livre des procédures fiscales, art. L116](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032235625)
+- Cité par : [art. L541-3 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-3) ; [Livre des procédures fiscales, art. L116](../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-iii.md#article-l116)
 
 Les agents habilités peuvent accéder à tout document nécessaire à l'accomplissement de leur mission auprès des administrations publiques, des établissements et organismes placés sous le contrôle de l'Etat et des collectivités territoriales, ainsi que dans les entreprises ou services concédés par l'Etat, les régions, les départements et les communes.
 
@@ -127,7 +127,7 @@ Ces dispositions s'appliquent également à la recherche et à la constatation d
 - Identifiant : LEGIARTI000051830424
 - État : en vigueur depuis le 02/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830424
-- Cité par : [art. R512-8 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-8) ; [art. R512-16 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-16) ; [art. R512-16-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-16-2) ; [art. R512-24-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-24-1) ; [art. L205-7 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053460851)
+- Cité par : [art. R512-8 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-8) ; [art. R512-16 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-16) ; [art. R512-16-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-16-2) ; [art. R512-24-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-24-1) ; [art. L205-7 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053460851)
 
 Pour le contrôle de la vente de biens, de la fourniture de services et des pratiques commerciales sur internet, les agents habilités peuvent faire usage d'une identité d'emprunt.  
 
@@ -139,8 +139,8 @@ Les conditions dans lesquelles ils procèdent à leurs constatations sont préci
 - Identifiant : LEGIARTI000032225091
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225091
-- Renvoie à : [art. 226-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417944)
-- Cité par : [art. L541-2 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-2) ; [art. L224-17 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041983883) ; [art. L6143-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045444670)
+- Renvoie à : [art. 226-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-226-13)
+- Cité par : [art. L224-17 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-17) ; [art. L541-2 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-2) ; [art. L329-6 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-6) ; [art. L6143-5 du Code des transports](../../../../code-des-transports/partie-legislative/sixieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-l6143-5)
 
 Les agents habilités peuvent recourir à toute personne qualifiée, désignée par l'autorité administrative dont ils dépendent.  
 Cette personne peut les accompagner lors de leurs contrôles. Elle peut prendre connaissance de tout document ou élément nécessaire à la réalisation de sa mission ou de son expertise.  
@@ -173,7 +173,7 @@ Les agents de la concurrence, de la consommation et de la répression des fraude
 - Identifiant : LEGIARTI000032225073
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225073
-- Cité par : [art. L8113-3 du Code du travail](../../../../code-du-travail/partie-legislative/huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-3) ; [art. L3322-11 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048654763)
+- Cité par : [art. L3322-11 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-l3322-11) ; [art. L8113-3 du Code du travail](../../../../code-du-travail/partie-legislative/huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-3)
 
 Les agents habilités peuvent prélever des échantillons dans les conditions fixées par décret en Conseil d'Etat.  
 Les rapports d'essais ou d'analyses des échantillons prélevés peuvent être transmis aux personnes concernées.
@@ -199,7 +199,7 @@ Les dispositions de la présente sous-section sont applicables dans le cadre de 
 - Identifiant : LEGIARTI000039382259
 - État : en vigueur depuis le 15/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039382259
-- Cité par : [art. L531-3 du Code de la consommation](../titre-iii/chapitre-ier.md#article-l531-3) ; [art. L329-25 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984326)
+- Cité par : [art. L531-3 du Code de la consommation](../titre-iii/chapitre-ier.md#article-l531-3) ; [art. L329-25 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-25)
 
 Dans l'attente des résultats des contrôles nécessaires, les agents habilités peuvent consigner :
 
@@ -217,7 +217,7 @@ Dans l'attente des résultats des contrôles nécessaires, les agents habilités
 - Identifiant : LEGIARTI000037557014
 - État : en vigueur depuis le 02/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037557014
-- Cité par : [art. L329-25 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984326)
+- Cité par : [art. L329-25 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-25)
 
 Les produits, objets ou appareils consignés sont laissés à la garde de leur détenteur ou, à défaut, déposés dans un local désigné par les agents habilités.
 
@@ -237,7 +237,7 @@ La mainlevée de la mesure de consignation peut être ordonnée à tout moment p
 - État : en vigueur depuis le 15/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039382255
 - Renvoie à : [art. L413-1 du Code de la consommation](../../livre-iv/titre-ier/chapitre-iii.md#article-l413-1) ; [art. L413-2 du Code de la consommation](../../livre-iv/titre-ier/chapitre-iii.md#article-l413-2)
-- Cité par : [art. L512-33 du Code de la consommation](chapitre-ii.md#article-l512-33) ; [art. L531-4 du Code de la consommation](../titre-iii/chapitre-ier.md#article-l531-4) ; [art. L541-2 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-2) ; [art. L329-25 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984326)
+- Cité par : [art. L512-33 du Code de la consommation](chapitre-ii.md#article-l512-33) ; [art. L531-4 du Code de la consommation](../titre-iii/chapitre-ier.md#article-l531-4) ; [art. L541-2 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-2) ; [art. L329-25 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-25)
 
 Les agents habilités peuvent effectuer des saisies sans autorisation judiciaire dans le cas d'un flagrant délit de falsification ou lorsqu'elles portent sur :
 
@@ -301,7 +301,7 @@ La mainlevée de la consignation est donnée à tout moment par les agents habil
 - Identifiant : LEGIARTI000032225047
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225047
-- Cité par : [art. L329-25 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984326)
+- Cité par : [art. L329-25 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-25)
 
 Les agents habilités peuvent demander au juge des libertés et de la détention l'autorisation de consigner, dans l'attente des contrôles nécessaires, les marchandises suspectées d'être non conformes aux dispositions du livre IV et aux textes pris pour son application, lorsque leur maintien sur le marché est de nature à porter une atteinte grave et immédiate à la loyauté des transactions ou à l'intérêt des consommateurs.
 
@@ -351,7 +351,7 @@ L'ordonnance du juge des libertés et de la détention précise les voies de rec
 - Identifiant : LEGIARTI000032225035
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225035
-- Cité par : [art. L541-1 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-1) ; [art. R512-16-6 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-16-6) ; [art. R512-30 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-30) ; [art. L3322-11 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048654763) ; [Décret n°2024-1171 du 6 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050758406)
+- Cité par : [art. L541-1 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-1) ; [art. R512-16-6 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-16-6) ; [art. R512-30 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-30) ; [art. L3322-11 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-l3322-11) ; [Décret n°2024-1171 du 6 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050758406)
 
 Les dispositions de la présente sous-section s'appliquent aux prélèvements réalisés dans le cadre de la recherche et de la constatation des infractions.  
 Les essais et analyses réalisés sur ces échantillons sont contradictoires.  
@@ -361,7 +361,7 @@ Les modalités de prélèvement et d'expertise contradictoire sont définies par
 - Identifiant : LEGIARTI000032225033
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225033
-- Cité par : [art. L329-32 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984348)
+- Cité par : [art. L329-32 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-2/chapitre-9.md#article-l329-32)
 
 Lorsque les agents habilités constatent par procès-verbal une infraction sur le fondement d'essais ou d'analyses, ils transmettent le rapport du laboratoire d'Etat à l'auteur présumé de l'infraction et l'informent qu'il dispose d'un délai de trois jours francs à compter de la réception du rapport pour leur indiquer s'il demande la mise en œuvre d'une expertise prévue à la présente sous-section.  
 Si, dans le délai mentionné au premier alinéa, l'auteur présumé de l'infraction leur indique qu'il demande l'expertise, les agents habilités en informent le procureur de la République lorsqu'ils lui transmettent le procès-verbal.
@@ -414,7 +414,7 @@ L'examen commence à la diligence de l'expert le plus prompt et les experts conc
 - Identifiant : LEGIARTI000032225011
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225011
-- Cité par : [art. L3322-11 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048654763)
+- Cité par : [art. L3322-11 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-l3322-11)
 
 Un décret en Conseil d'Etat définit les modalités d'application de la présente section.
 

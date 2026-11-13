@@ -66,7 +66,7 @@ A l'article R. 712-4-1, les mots : " le président de la chambre de région, sur
 - Identifiant : LEGIARTI000006271072
 - État : en vigueur depuis le 01/07/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006271072
-- Renvoie à : [art. R713-6 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006270019)
+- Renvoie à : [art. L66 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l66) ; [art. R60 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-vi.md#article-r60) ; [art. R713-6 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006270019)
 
 Après l'article R. 713-6, est inséré l'article suivant :  
 

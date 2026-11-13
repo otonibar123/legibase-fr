@@ -30,7 +30,7 @@ A Saint-Pierre-et-Miquelon, l'autorité administrative compétente pour conclure
 - Identifiant : LEGIARTI000037561737
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037561737
-- Renvoie à : [art. R5213-76 du Code du travail](../../livre-ii/titre-ier/chapitre-iii.md#article-r5213-76) ; art. L321-1 du Code de la sécurité sociale
+- Renvoie à : [art. L321-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-1er.md#article-l321-1) ; [art. R5213-76 du Code du travail](../../livre-ii/titre-ier/chapitre-iii.md#article-r5213-76)
 
 Pour l'application à Mayotte de l'article R. 5213-76, les mots : "à l'article L. 321-1 du code de la sécurité sociale" sont remplacés par les mots : "au 7° de l'article 20-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte".
 

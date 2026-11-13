@@ -1,0 +1,358 @@
+# Code général de la fonction publique
+
+Dernière modification du texte dans LEGI : 31/10/2026. 4241 articles en vigueur, répartis dans 268 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **PARTIE LÉGISLATIVE**
+  - [Chapitre liminaire : Champ d'application et définitions](partie-legislative/chapitre-liminaire.md) (9 articles)
+  - **Livre Ier : DROITS, OBLIGATIONS ET PROTECTIONS**
+    - **Titre Ier : DROITS ET LIBERTÉS**
+      - [Chapitre Ier : Liberté d'opinion](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Principe de participation](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Droit syndical](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Droit de grève](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (11 articles)
+      - [Chapitre V : Droits à rémunération, droits sociaux, droit à la formation professionnelle et droit à l'information](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (7 articles)
+    - **Titre II : OBLIGATIONS**
+      - [Chapitre Ier : Obligations générales](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Prévention des conflits d'intérêts et d'infractions pénales](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (25 articles)
+      - [Chapitre III : Règles de cumul](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Contrôle et conseil](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (26 articles)
+      - [Chapitre V : Responsabilités](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (2 articles)
+    - **Titre III : PROTECTIONS ET GARANTIES**
+      - [Chapitre Ier : Protection contre les discriminations](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Égalité professionnelle entre les femmes et les hommes](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Protection contre le harcèlement](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Protection dans l'exercice des fonctions](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (12 articles)
+      - [Chapitre V : Dispositifs d'alerte et de signalement](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Protection en matiere d'hygiène et de sécurité](partie-legislative/livre-ier/titre-iii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Garanties relatives au dossier individuel](partie-legislative/livre-ier/titre-iii/chapitre-vii.md) (4 articles)
+    - **Titre IV : DISPOSITIONS PARTICULIERES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions particulières aux îles Wallis et Futuna, à la Polynésie française, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (3 articles)
+  - **Livre II : EXERCICE DU DROIT SYNDICAL ET DIALOGUE SOCIAL**
+    - **Titre Ier : REPRÉSENTATION DES AGENTS ET GARANTIES DE L'EXERCICE DU DROIT SYNDICAL**
+      - [Chapitre Ier : Représentation des agents](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Garanties des agents déchargés de fonctions ou mis à disposition à titre syndical](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Subventions et facilités accordées aux organisations syndicales](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Congés et facilités accordés aux représentants syndicaux](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Congés et facilités accordées aux agents](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Assistance dans l'exercice de recours administratifs](partie-legislative/livre-ii/titre-ier/chapitre-vi.md) (3 articles)
+    - **Titre II : NÉGOCIATION ET ACCORDS COLLECTIFS**
+      - [Chapitre Ier : Acteurs habilités à négocier](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Objet et contenu des accords](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Conditions de majorité des accords](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Autorités compétentes pour conclure, signer ou approuver un accord](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Négociations sur initiative syndicale](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Entrée en vigueur et publication des accords](partie-legislative/livre-ii/titre-ii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Suivi, modification, suspension et dénonciation des accords](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (4 articles)
+    - **Titre III : RAPPORT SOCIAL UNIQUE ET BASE DE DONNÉES SOCIALES**
+      - [Chapitre Ier : Rapport social unique](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Base de données sociales](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre IV : INSTANCES CONSULTATIVES SUPÉRIEURES**
+      - [Chapitre Ier : Représentation équilibrée entre les femmes et les hommes](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Conseil commun de la fonction publique](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Conseil supérieur de la fonction publique de l'Etat](partie-legislative/livre-ii/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Conseil supérieur de la fonction publique territoriale](partie-legislative/livre-ii/titre-iv/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Conseil supérieur de la fonction publique hospitalière](partie-legislative/livre-ii/titre-iv/chapitre-v.md) (3 articles)
+    - **Titre V : COMITÉS SOCIAUX**
+      - [Chapitre Ier : Mise en place](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Composition](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Attributions](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Fonctionnement](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (6 articles)
+    - **Titre VI : COMMISSIONS ADMINISTRATIVES PARITAIRES**
+      - [Chapitre Ier : Mise en place](partie-legislative/livre-ii/titre-vi/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Composition](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Attributions](partie-legislative/livre-ii/titre-vi/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Fonctionnement](partie-legislative/livre-ii/titre-vi/chapitre-iv.md) (4 articles)
+    - **Titre VII : COMMISSIONS CONSULTATIVES PARITAIRES**
+      - [Chapitre II : Commissions consultatives paritaires dans la fonction publique territoriale](partie-legislative/livre-ii/titre-vii/chapitre-ii.md) (2 articles)
+    - **Titre VIII : DISPOSITIONS PARTICULIÈRES RELATIVES AUX INSTANCES DE DIALOGUE SOCIAL DE LA FONCTION PUBLIQUE TERRITORIALE ET DE LA FONCTION PUBLIQUE HOSPITALIÈRE**
+      - [Chapitre Ier : Instances de dialogue social en cas de création de collectivités territoriales ou d'établissements publics locaux](partie-legislative/livre-ii/titre-viii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Organismes consultatifs particuliers de la fonction publique hospitalière](partie-legislative/livre-ii/titre-viii/chapitre-ii.md) (10 articles)
+    - **Titre IX : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-legislative/livre-ii/titre-ix/chapitre-ier.md) (2 articles)
+  - **Livre III : RECRUTEMENT**
+    - **Titre Ier : CONDITIONS GÉNÉRALES D'ACCÈS AUX EMPLOIS**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre III : Dispositions propres à la fonction publique territoriale](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Dispositions propres à la fonction publique hospitalière](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : RECRUTEMENT DES FONCTIONNAIRES**
+      - [Titre II : RECRUTEMENT DES FONCTIONNAIRES : articles rattachés directement](partie-legislative/livre-iii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Contrôle préalable des conditions d'accès au statut de fonctionnaire](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions applicables à certains recrutements](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Préparation aux procédures de recrutement](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Recul ou suppression de l'âge maximal pour le recrutement](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Recrutement par concours](partie-legislative/livre-iii/titre-ii/chapitre-v.md) (51 articles)
+      - [Chapitre VI : Autres modalités d'accès aux fonctions publiques](partie-legislative/livre-iii/titre-ii/chapitre-vi.md) (17 articles)
+      - [Chapitre VII : Stage et titularisation](partie-legislative/livre-iii/titre-ii/chapitre-vii.md) (12 articles)
+    - **Titre III : RECRUTEMENT PAR CONTRAT**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Possibilités de recrutement par contrat](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (28 articles)
+      - [Chapitre III : Agents contractuels territoriaux recrutés sur des emplois particuliers](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Recours à des salariés de droit privé](partie-legislative/livre-iii/titre-iii/chapitre-iv.md) (3 articles)
+    - **Titre IV : EMPLOIS À LA DÉCISION DU GOUVERNEMENT ET EMPLOIS DE DIRECTION**
+      - [Chapitre Ier : Emplois à la décision du Gouvernement](partie-legislative/livre-iii/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Emplois de direction de l'Etat](partie-legislative/livre-iii/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Emplois supérieurs de la fonction publique territoriale](partie-legislative/livre-iii/titre-iv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Emplois supérieurs hospitaliers](partie-legislative/livre-iii/titre-iv/chapitre-iv.md) (5 articles)
+    - **Titre V : EMPLOI DES PERSONNES EN SITUATION DE HANDICAP**
+      - [Chapitre Ier : Obligation d'emploi et fonds pour l'insertion des personnes handicapées dans la fonction publique](partie-legislative/livre-iii/titre-v/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Recrutement et conditions d'accès aux emplois des personnes en situation de handicap](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Droits des associations de défense des intérêts des personnes en situation de handicap](partie-legislative/livre-iii/titre-v/chapitre-iii.md) (1 article)
+    - [Titre VI : EXPERTS TECHNIQUES INTERNATIONAUX](partie-legislative/livre-iii/titre-vi.md) (7 articles)
+    - **Titre VII : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-legislative/livre-iii/titre-vii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions particulières aux îles Wallis et Futuna, à la Polynésie française, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises](partie-legislative/livre-iii/titre-vii/chapitre-ii.md) (2 articles)
+  - **Livre IV : PRINCIPES D'ORGANISATION ET DE GESTION DES RESSOURCES HUMAINES**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Organisation en corps et cadres d'emplois](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Emplois supérieurs](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Lignes directrices de gestion](partie-legislative/livre-iv/titre-ier/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions propres à la fonction publique de l'Etat](partie-legislative/livre-iv/titre-ier/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Dispositions propres à la fonction publique territoriale](partie-legislative/livre-iv/titre-ier/chapitre-v.md) (5 articles)
+      - [Chapitre V : Dispositions propres à la fonction publique hospitalière](partie-legislative/livre-iv/titre-ier/chapitre-v-2.md) (5 articles)
+      - [Chapitre VII : Dispositions propres à la Ville de Paris et à ses établissements publics](partie-legislative/livre-iv/titre-ier/chapitre-vii.md) (5 articles)
+    - **Titre II : FORMATION PROFESSIONNELLE TOUT AU LONG DE LA VIE**
+      - [Chapitre Ier : Principes généraux](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Dispositifs de formation professionnelle](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (36 articles)
+      - [Chapitre III : Organisation et financement de la politique de formation professionnelle](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : Apprentissage](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (1 article)
+    - **Titre III : TÉLÉTRAVAIL**
+      - [Titre III : TÉLÉTRAVAIL : articles rattachés directement](partie-legislative/livre-iv/titre-iii/articles-directs.md) (1 article)
+    - **Titre IV : RÉORGANISATION DE SERVICES, D'ÉTABLISSEMENTS OU DE COLLECTIVITÉS**
+      - [Chapitre Ier : Détachement d'office](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Mobilité des fonctionnaires de l'Etat en cas de réorganisation d'un service de l'Etat ou de l'un de ses établissements](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Situation des agents territoriaux en cas de réorganisation territoriale](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Situation des agents hospitaliers en cas de transfert ou de regroupement d'activités à caractère sanitaire ou social](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Situation des agents contractuels en cas de transfert d'activité entre personnes morales de droit public ou de droit privé](partie-legislative/livre-iv/titre-iv/chapitre-v.md) (6 articles)
+    - **Titre V : ORGANISMES ASSURANT DES MISSIONS DE GESTION**
+      - [Chapitre Ier : Centre national de la fonction publique territoriale](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (29 articles)
+      - [Chapitre II : Centres de gestion de la fonction publique territoriale](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (53 articles)
+      - [Chapitre III : Centre national de gestion](partie-legislative/livre-iv/titre-v/chapitre-iii.md) (6 articles)
+    - **Titre VI : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-legislative/livre-iv/titre-vi/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Dispositions particulières aux îles Wallis et Futuna, à la Polynésie française, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises](partie-legislative/livre-iv/titre-vi/chapitre-ii.md) (2 articles)
+  - **Livre V : CARRIÈRE ET PARCOURS PROFESSIONNEL**
+    - **Titre Ier : POSITIONS ET MOBILITÉ**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Position d'activité](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (31 articles)
+      - [Chapitre III : Détachement](partie-legislative/livre-v/titre-ier/chapitre-iii.md) (31 articles)
+      - [Chapitre IV : Disponibilité](partie-legislative/livre-v/titre-ier/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Congé parental](partie-legislative/livre-v/titre-ier/chapitre-v.md) (12 articles)
+      - [Chapitre VI : Situation des agents contractuels](partie-legislative/livre-v/titre-ier/chapitre-vi.md) (1 article)
+    - **Titre II : APPRÉCIATION DE LA VALEUR PROFESSIONNELLE, PROMOTION INTERNE ET AVANCEMENT**
+      - [Chapitre Ier : Appréciation de la valeur professionnelle](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Avancement](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (37 articles)
+      - [Chapitre III : Promotion interne](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (7 articles)
+    - **Titre III : DISCIPLINE**
+      - [Titre III : DISCIPLINE : articles rattachés directement](partie-legislative/livre-v/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Suspension](partie-legislative/livre-v/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Procédure disciplinaire](partie-legislative/livre-v/titre-iii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Sanctions disciplinaires](partie-legislative/livre-v/titre-iii/chapitre-iii.md) (6 articles)
+    - **Titre IV : PERTE ET SUPPRESSION D'EMPLOI**
+      - [Chapitre Ier : Réaffectation du fonctionnaire privé d'emploi](partie-legislative/livre-v/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Suppression d'un emploi dans la fonction publique territoriale](partie-legislative/livre-v/titre-iv/chapitre-ii.md) (35 articles)
+      - [Chapitre III : Suppression d'un emploi dans la fonction publique hospitalière](partie-legislative/livre-v/titre-iv/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Dispositions particulières applicables à certains agents territoriaux et hospitaliers privés d'emploi](partie-legislative/livre-v/titre-iv/chapitre-iv.md) (24 articles)
+    - **Titre V : CESSATION DEFINITIVE DE FONCTIONS OU D'EMPLOI**
+      - [Titre V : CESSATION DEFINITIVE DE FONCTIONS OU D'EMPLOI : articles rattachés directement](partie-legislative/livre-v/titre-v/articles-directs.md) (1 article)
+      - [Chapitre Ier : Démission](partie-legislative/livre-v/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Rupture conventionnelle](partie-legislative/livre-v/titre-v/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Licenciement](partie-legislative/livre-v/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Fin de contrat](partie-legislative/livre-v/titre-v/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Cessation anticipée d'activité en lien avec une exposition à l'amiante](partie-legislative/livre-v/titre-v/chapitre-v.md) (5 articles)
+      - [Chapitre VI : Admission à la retraite](partie-legislative/livre-v/titre-v/chapitre-vi.md) (17 articles)
+      - [Chapitre VII : Régime particulier d'assurance chômage applicable à certains agents publics et salariés du secteur public](partie-legislative/livre-v/titre-v/chapitre-vii.md) (3 articles)
+    - **Titre VI : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-legislative/livre-v/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions particulières aux îles Wallis et Futuna, à la Polynésie française, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises](partie-legislative/livre-v/titre-vi/chapitre-ii.md) (2 articles)
+  - **Livre VI : TEMPS DE TRAVAIL ET CONGÉS**
+    - **Titre Ier : TEMPS DE TRAVAIL**
+      - [Chapitre Ier : Durée du travail](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Travail à temps partiel](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Emplois permanents à temps non complet](partie-legislative/livre-vi/titre-ier/chapitre-iii.md) (11 articles)
+    - **Titre II : CONGÉS ANNUELS, JOURS FÉRIÉS ET AUTORISATIONS D'ABSENCE**
+      - [Chapitre Ier : Congés annuels et jours fériés](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Autorisations d'absence](partie-legislative/livre-vi/titre-ii/chapitre-ii.md) (7 articles)
+    - **Titre III : CONGÉS LIÉS AUX RESPONSABILITÉS PARENTALES OU FAMILIALES**
+      - [Titre III : CONGÉS LIÉS AUX RESPONSABILITÉS PARENTALES OU FAMILIALES : articles rattachés directement](partie-legislative/livre-vi/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Congés liés à l'arrivée d'un enfant au foyer](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Congé de présence parentale](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Congé de solidarité familiale](partie-legislative/livre-vi/titre-iii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Congé de proche aidant](partie-legislative/livre-vi/titre-iii/chapitre-iv.md) (4 articles)
+    - **Titre IV : CONGÉS LIÉS À DES ACTIVITÉS CIVIQUES**
+      - [Chapitre Ier : Congé de citoyenneté](partie-legislative/livre-vi/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Congé de représentation d'une association ou d'une mutuelle](partie-legislative/livre-vi/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Congé relatif à l'exercice de fonctions de préparation et d'encadrement des séjours de cohésion du service national universel](partie-legislative/livre-vi/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Congé pour accomplissement d'une période de service militaire, d'instruction militaire ou d'activité dans une réserve opérationnelle](partie-legislative/livre-vi/titre-iv/chapitre-iv.md) (7 articles)
+    - **Titre V : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-legislative/livre-vi/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions particulières aux îles Wallis et Futuna, à la Polynésie française, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises](partie-legislative/livre-vi/titre-v/chapitre-ii.md) (2 articles)
+  - **Livre VII : RÉMUNÉRATION ET ACTION SOCIALE**
+    - **Titre Ier : RÉMUNERATION**
+      - [Chapitre Ier : Détermination de la rémuneration des agents publics](partie-legislative/livre-vii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Rémunérations des fonctionnaires](partie-legislative/livre-vii/titre-ier/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Rémunération des agents contractuels](partie-legislative/livre-vii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Régimes indemnitaires](partie-legislative/livre-vii/titre-ier/chapitre-iv.md) (15 articles)
+      - [Chapitre V : Fonds de compensation](partie-legislative/livre-vii/titre-ier/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Publication d'informations](partie-legislative/livre-vii/titre-ier/chapitre-vi.md) (1 article)
+    - **Titre II : AVANTAGES DIVERS ET PRISE EN CHARGE DE FRAIS**
+      - [Chapitre Ier : Logements de fonction](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Autres avantages](partie-legislative/livre-vii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Frais de déplacement](partie-legislative/livre-vii/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : ACTION SOCIALE**
+      - [Chapitre Ier : Définition et objectifs](partie-legislative/livre-vii/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Prestations d'action sociale](partie-legislative/livre-vii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Gestion des prestations d'action sociale](partie-legislative/livre-vii/titre-iii/chapitre-iii.md) (2 articles)
+    - **Titre IV : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités règies par l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](partie-legislative/livre-vii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions particulières aux îles Wallis et Futuna, à la Polynésie française, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises](partie-legislative/livre-vii/titre-iv/chapitre-ii.md) (6 articles)
+  - **Livre VIII : PRÉVENTION ET PROTECTION EN MATIÈRE DE SANTÉ ET DE SÉCURITÉ AU TRAVAIL**
+    - **Titre Ier : PRÉVENTION EN MATIÈRE DE SANTÉ ET DE SÉCURITÉ AU TRAVAIL**
+      - [Chapitre Ier : Dispositions générales relatives à l'hygiène et la sécurité](partie-legislative/livre-viii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Missions et organisation des services](partie-legislative/livre-viii/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Actions en faveur des agents](partie-legislative/livre-viii/titre-ier/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Fonds national de prévention des accidents du travail et des maladies professionnelles](partie-legislative/livre-viii/titre-ier/chapitre-iv.md) (2 articles)
+    - **Titre II : PROTECTIONS LIÉES À LA MALADIE, À L'ACCIDENT, À L'INVALIDITÉ OU AU DÉCÈS**
+      - [Chapitre Ier : Conseil médical et médecins agréés](partie-legislative/livre-viii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Congés pour raison de santé, accidents de services et maladies professionnelles](partie-legislative/livre-viii/titre-ii/chapitre-ii.md) (30 articles)
+      - [Chapitre III : Temps partiel pour raison thérapeutique](partie-legislative/livre-viii/titre-ii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Allocation temporaire d'invalidité versée après un accident de service ou une maladie professionnelle](partie-legislative/livre-viii/titre-ii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Exercice de l'action directe et subrogatoire de la personne publique](partie-legislative/livre-viii/titre-ii/chapitre-v.md) (8 articles)
+      - [Chapitre VI : Prise en charge de l'inaptitude de l'agent public à exercer ses fonctions](partie-legislative/livre-viii/titre-ii/chapitre-vi.md) (30 articles)
+      - [Chapitre VII : Protection sociale complémentaire](partie-legislative/livre-viii/titre-ii/chapitre-vii.md) (12 articles)
+      - [Chapitre VIII : Dispositions liées au décès](partie-legislative/livre-viii/titre-ii/chapitre-viii.md) (5 articles)
+      - [Chapitre IX : Dispositions propres aux agents contractuels](partie-legislative/livre-viii/titre-ii/chapitre-ix.md) (2 articles)
+- **PARTIE RÉGLEMENTAIRE**
+  - **Livre Ier : DROITS, OBLIGATIONS ET PROTECTIONS**
+    - **Titre Ier : DROITS ET LIBERTÉS**
+      - [Chapitre III : DROIT SYNDICAL](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DROIT DE GRÈVE](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : DROIT À RÉMUNERATION, DROITS SOCIAUX, DROIT À LA FORMATION PROFESSIONNELLE ET DROIT À L'INFORMATION](partie-reglementaire/livre-ier/titre-ier/chapitre-v.md) (11 articles)
+    - **Titre II : OBLIGATIONS**
+      - [Titre II : OBLIGATIONS : articles rattachés directement](partie-reglementaire/livre-ier/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre II : PRÉVENTION DES CONFLITS D'INTÉRÊTS ET D'INFRACTIONS PÉNALES](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (34 articles)
+      - [Chapitre III : RÈGLES DE CUMUL](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : CONTRÔLE ET CONSEIL](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (39 articles)
+    - **Titre III : PROTECTIONS ET GARANTIES**
+      - [Titre III : PROTECTIONS ET GARANTIES : articles rattachés directement](partie-reglementaire/livre-ier/titre-iii/articles-directs.md) (2 articles)
+      - [Chapitre Ier : PROTECTION CONTRE LES DISCRIMINATIONS](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : ÉGALITÉ PROFESSIONNELLE ENTRE LES FEMMES ET LES HOMMES](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (65 articles)
+      - [Chapitre IV : PROTECTION DANS L'EXERCICE DES FONCTIONS](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (9 articles)
+      - [Chapitre V : DISPOSITIFS D'ALERTE ET DE SIGNALEMENT](partie-reglementaire/livre-ier/titre-iii/chapitre-v.md) (10 articles)
+      - [Chapitre VII : GARANTIES RELATIVES AU DOSSIER INDIVIDUEL](partie-reglementaire/livre-ier/titre-iii/chapitre-vii.md) (16 articles)
+    - **Titre IV : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION, À SAINT-BARTHELEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : DISPOSITIONS PARTICULIÈRES AUX ÎLES WALLIS ET FUTUNA, À LA POLYNÉSIE FRANÇAISE, À LA NOUVELLE-CALÉDONIE ET AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (5 articles)
+  - **Livre II : EXERCICE DU DROIT SYNDICAL ET DIALOGUE SOCIAL**
+    - **Titre Ier : REPRÉSENTATION DES AGENTS ET GARANTIES DE L'EXERCICE DU DROIT SYNDICAL**
+      - [Chapitre Ier : REPRÉSENTATION DES AGENTS](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (588 articles)
+      - [Chapitre II : GARANTIES DES AGENTS DÉCHARGÉS DE FONCTIONS OU MIS À DISPOSITION À TITRE SYNDICAL](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (21 articles)
+      - [Chapitre III : SUBVENTIONS ET FACILITÉS ACCORDÉES AUX ORGANISATIONS SYNDICALES](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (73 articles)
+      - [Chapitre IV : CONGÉS ET FACILITÉS ACCORDÉS AUX REPRÉSENTANTS SYNDICAUX](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (52 articles)
+      - [Chapitre V : CONGÉS ET FACILITÉS ACCORDÉES AUX AGENTS](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (18 articles)
+    - **Titre II : NÉGOCIATION ET ACCORDS COLLECTIFS**
+      - [Chapitre II : OBJET ET CONTENU DES ACCORDS](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre V : NÉGOCIATIONS SUR INITIATIVE SYNDICALE](partie-reglementaire/livre-ii/titre-ii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : ENTRÉE EN VIGUEUR ET PUBLICATION DES ACCORDS](partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md) (6 articles)
+      - [Chapitre VII : SUIVI, MODIFICATION, SUSPENSION ET DÉNONCIATION DES ACCORDS](partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md) (7 articles)
+    - **Titre III : RAPPORT SOCIAL UNIQUE ET BASE DE DONNÉES SOCIALES**
+      - [Chapitre Ier : RAPPORT SOCIAL UNIQUE](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : BASE DE DONNÉES SOCIALES](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (8 articles)
+    - **Titre IV : INSTANCES CONSULTATIVES SUPÉRIEURES**
+      - [Chapitre Ier : REPRÉSENTATION ÉQUILIBRÉE ENTRE LES FEMMES ET LES HOMMES](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (3 articles)
+      - [Chapitre II : CONSEIL COMMUN DE LA FONCTION PUBLIQUE](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (55 articles)
+      - [Chapitre III : CONSEIL SUPÉRIEUR DE LA FONCTION PUBLIQUE DE L'ÉTAT](partie-reglementaire/livre-ii/titre-iv/chapitre-iii.md) (52 articles)
+      - [Chapitre IV : CONSEIL SUPÉRIEUR DE LA FONCTION PUBLIQUE TERRITORIALE](partie-reglementaire/livre-ii/titre-iv/chapitre-iv.md) (53 articles)
+      - [Chapitre V : CONSEIL SUPÉRIEUR DE LA FONCTION PUBLIQUE HOSPITALIÈRE](partie-reglementaire/livre-ii/titre-iv/chapitre-v.md) (47 articles)
+      - [Chapitre VI : CONSEIL SUPÉRIEUR DES ADMINISTRATIONS PARISIENNES](partie-reglementaire/livre-ii/titre-iv/chapitre-vi.md) (1 article)
+    - **Titre V : COMITÉS SOCIAUX**
+      - [Chapitre Ier : MISE EN PLACE](partie-reglementaire/livre-ii/titre-v/chapitre-ier.md) (42 articles)
+      - [Chapitre II : COMPOSITION](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (83 articles)
+      - [Chapitre III : ATTRIBUTIONS](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (81 articles)
+      - [Chapitre IV : FONCTIONNEMENT](partie-reglementaire/livre-ii/titre-v/chapitre-iv.md) (93 articles)
+    - **Titre VI : COMMISSIONS ADMINISTRATIVES PARITAIRES**
+      - [Chapitre Ier : MISE EN PLACE](partie-reglementaire/livre-ii/titre-vi/chapitre-ier.md) (15 articles)
+      - [Chapitre II : COMPOSITION](partie-reglementaire/livre-ii/titre-vi/chapitre-ii.md) (50 articles)
+      - [Chapitre III : ATTRIBUTIONS](partie-reglementaire/livre-ii/titre-vi/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : FONCTIONNEMENT](partie-reglementaire/livre-ii/titre-vi/chapitre-iv.md) (83 articles)
+    - **Titre VII : COMMISSIONS CONSULTATIVES PARITAIRES**
+      - [Chapitre Ier : COMMISSIONS CONSULTATIVES PARITAIRES DANS LA FONCTION PUBLIQUE DE L'ÉTAT](partie-reglementaire/livre-ii/titre-vii/chapitre-ier.md) (23 articles)
+      - [Chapitre II : COMMISSIONS CONSULTATIVES PARITAIRES DANS LA FONCTION PUBLIQUE TERRITORIALE](partie-reglementaire/livre-ii/titre-vii/chapitre-ii.md) (49 articles)
+      - [Chapitre III : COMMISSIONS CONSULTATIVES PARITAIRES DANS LA FONCTION PUBLIQUE HOSPITALIÈRE](partie-reglementaire/livre-ii/titre-vii/chapitre-iii.md) (9 articles)
+    - **Titre VIII : DISPOSITIONS RELATIVES AUX INSTANCES DE DIALOGUE SOCIAL DE LA FONCTION PUBLIQUE TERRITORIALE ET DE LA FONCTION PUBLIQUE HOSPITALIÈRE**
+      - [Chapitre II : ORGANISMES CONSULTATIFS PARTICULIERS DE LA FONCTION PUBLIQUE HOSPITALIÈRE](partie-reglementaire/livre-ii/titre-viii/chapitre-ii.md) (97 articles)
+    - **Titre IX : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION, À SAINT-BARTHÉLEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-ii/titre-ix/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS PARTICULIÈRES AUX ÎLES WALLIS ET FUTUNA, À LA POLYNÉSIE FRANÇAISE, À LA NOUVELLE-CALÉDONIE ET AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-ii/titre-ix/chapitre-ii.md) (4 articles)
+  - **Livre III : RECRUTEMENT**
+    - **Titre Ier : CONDITIONS GÉNÉRALES D'ACCÈS AUX EMPLOIS**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (9 articles)
+      - [Chapitre II : DISPOSITIONS PROPRES À CERTAINS EMPLOIS DE LA FONCTION PUBLIQUE DE L'ÉTAT](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : DISPOSITIONS PROPRES À LA FONCTION PUBLIQUE TERRITORIALE](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (19 articles)
+    - **Titre II : RECRUTEMENT DES FONCTIONNAIRES**
+      - [Chapitre Ier : CONTRÔLE PRÉALABLE DES CONDITIONS D'ACCÈS AU STATUT DE FONCTIONNAIRE](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (15 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À CERTAINS RECRUTEMENTS](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre IV : RECUL OU SUPPRESSION DE L'ÂGE MAXIMAL POUR LE RECRUTEMENT](partie-reglementaire/livre-iii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : RECRUTEMENT PAR CONCOURS](partie-reglementaire/livre-iii/titre-ii/chapitre-v.md) (142 articles)
+      - [Chapitre VI : AUTRES MODALITÉS D'ACCÈS AUX FONCTIONS PUBLIQUES](partie-reglementaire/livre-iii/titre-ii/chapitre-vi.md) (57 articles)
+      - [Chapitre VII : STAGE ET TITULARISATION](partie-reglementaire/livre-iii/titre-ii/chapitre-vii.md) (75 articles)
+    - **Titre III : RECRUTEMENT PAR CONTRAT**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : POSSIBILITÉS DE RECRUTEMENT PAR CONTRAT](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (40 articles)
+      - [Chapitre III : AGENTS CONTRACTUELS TERRITORIAUX RECRUTÉS SUR DES EMPLOIS PARTICULIERS](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : RECOURS À DES SALARIÉS DE DROIT PRIVÉ](partie-reglementaire/livre-iii/titre-iii/chapitre-iv.md) (5 articles)
+    - **Titre IV : EMPLOIS À LA DÉCISION DU GOUVERNEMENT ET EMPLOIS DE DIRECTION**
+      - [Chapitre Ier : EMPLOIS À LA DÉCISION DU GOUVERNEMENT](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : EMPLOIS DE DIRECTION DE L'ÉTAT](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (17 articles)
+      - [Chapitre III : EMPLOIS SUPÉRIEURS DE LA FONCTION PUBLIQUE TERRITORIALE](partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : EMPLOIS SUPÉRIEURS HOSPITALIERS](partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md) (22 articles)
+    - **Titre V : EMPLOI DES PERSONNES EN SITUATION DE HANDICAP**
+      - [Chapitre Ier : OBLIGATION D'EMPLOI ET FONDS POUR L'INSERTION DES PERSONNES HANDICAPÉES DANS LA FONCTION PUBLIQUE](partie-reglementaire/livre-iii/titre-v/chapitre-ier.md) (62 articles)
+      - [Chapitre II : RECRUTEMENT ET CONDITIONS D'ACCÈS AUX EMPLOIS DES PERSONNES EN SITUATION DE HANDICAP](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (36 articles)
+      - [Chapitre III : DROITS DES ASSOCIATIONS DE DÉFENSE DES INTÉRÊTS DES PERSONNES EN SITUATION DE HANDICAP](partie-reglementaire/livre-iii/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VI : EXPERTS TECHNIQUES INTERNATIONAUX**
+      - **Section 1 : Conditions d'exercice des fonctions**
+        - [Sous-section 1 : Situation administrative](partie-reglementaire/livre-iii/titre-vi/section-1/sous-section-1.md) (6 articles)
+        - [Sous-section 2 : Conditions de santé](partie-reglementaire/livre-iii/titre-vi/section-1/sous-section-2.md) (2 articles)
+        - [Sous-section 3 : Formation](partie-reglementaire/livre-iii/titre-vi/section-1/sous-section-3.md) (3 articles)
+        - [Sous-section 4 : Congés administratifs](partie-reglementaire/livre-iii/titre-vi/section-1/sous-section-4.md) (4 articles)
+        - [Sous-section 5 : Protections liées à la maladie, l'accident et l'invalidité](partie-reglementaire/livre-iii/titre-vi/section-1/sous-section-5.md) (1 article)
+        - [Sous-section 6 : Appréciation de la valeur professionnelle](partie-reglementaire/livre-iii/titre-vi/section-1/sous-section-6.md) (4 articles)
+      - **Section 2 : Prise en compte de l'exercice de fonctions d'expert technique international dans le corps ou cadre d'emplois d'origine**
+        - [Sous-section 1 : Majoration d'ancienneté des fonctionnaires](partie-reglementaire/livre-iii/titre-vi/section-2/sous-section-1.md) (2 articles)
+        - [Sous-section 2 : Avancement dans le corps ou cadre d'emplois d'origine](partie-reglementaire/livre-iii/titre-vi/section-2/sous-section-2.md) (4 articles)
+        - [Sous-section 3 : Fin de détachement](partie-reglementaire/livre-iii/titre-vi/section-2/sous-section-3.md) (2 articles)
+    - **Titre VII : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION, À SAINT-BARTHÉLEMY, À SAINT MARTIN ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-iii/titre-vii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : DISPOSITIONS PARTICULIÈRES AUX ÎLES WALLIS ET FUTUNA, À LA POLYNÉSIE FRANÇAISE, À LA NOUVELLE-CALÉDONIE ET AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-iii/titre-vii/chapitre-ii.md) (7 articles)
+  - **Livre IV : PRINCIPES D'ORGANISATION ET DE GESTION DES RESSOURCES HUMAINES**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre II : EMPLOIS SUPÉRIEURS](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (26 articles)
+      - [Chapitre III : LIGNES DIRECTRICES DE GESTION](partie-reglementaire/livre-iv/titre-ier/chapitre-iii.md) (48 articles)
+      - [Chapitre IV : DISPOSITIONS PROPRES À LA FONCTION PUBLIQUE DE L'ÉTAT](partie-reglementaire/livre-iv/titre-ier/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : DISPOSITIONS PROPRES À LA FONCTION PUBLIQUE HOSPITALIÈRE](partie-reglementaire/livre-iv/titre-ier/chapitre-vi.md) (1 article)
+      - [Chapitre VII : DISPOSITIONS PROPRES À LA VILLE DE PARIS ET À SES ÉTABLISSEMENTS PUBLICS](partie-reglementaire/livre-iv/titre-ier/chapitre-vii.md) (1 article)
+    - **Titre II : FORMATION PROFESSIONNELLE TOUT AU LONG DE LA VIE**
+      - [Titre II : FORMATION PROFESSIONNELLE TOUT AU LONG DE LA VIE : articles rattachés directement](partie-reglementaire/livre-iv/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre Ier : PRINCIPES GÉNÉRAUX](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (45 articles)
+      - [Chapitre II : DISPOSITIFS DE FORMATION PROFESSIONNELLE](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (171 articles)
+      - [Chapitre III : ORGANISATION ET FINANCEMENT DE LA POLITIQUE DE FORMATION PROFESSIONNELLE](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (55 articles)
+      - [Chapitre IV : APPRENTISSAGE](partie-reglementaire/livre-iv/titre-ii/chapitre-iv.md) (1 article)
+    - **Titre III : TÉLÉTRAVAIL**
+      - [Chapitre Ier : DÉFINITION](partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : RÉGIME D'AUTORISATION](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : DÉROULEMENT](partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md) (11 articles)
+    - **Titre IV : RÉORGANISATION DE SERVICES, D'ÉTABLISSEMENTS OU DE COLLECTIVITÉS**
+      - [Chapitre Ier : DÉTACHEMENT D'OFFICE](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (16 articles)
+      - [Chapitre II : MOBILITÉ DES AGENTS DE L'ÉTAT EN CAS DE RÉORGANISATION D'UN SERVICE DE L'ÉTAT OU DE L'UN DE SES ÉTABLISSEMENTS](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (53 articles)
+      - [Chapitre IV : SITUATION DES AGENTS HOSPITALIERS EN CAS DE TRANSFERT OU DE REGROUPEMENT D'ACTIVITÉS À CARACTÈRE SANITAIRE OU SOCIAL](partie-reglementaire/livre-iv/titre-iv/chapitre-iv.md) (16 articles)
+      - [Chapitre V : SITUATION DES AGENTS CONTRACTUELS EN CAS DE TRANSFERT D'ACTIVITÉ ENTRE PERSONNES MORALES DE DROIT PUBLIC OU DE DROIT PRIVÉ](partie-reglementaire/livre-iv/titre-iv/chapitre-v.md) (1 article)
+    - **Titre V : ORGANISMES ASSURANT DES MISSIONS DE GESTION**
+      - [Chapitre Ier : CENTRE NATIONAL DE LA FONCTION PUBLIQUE TERRITORIALE](partie-reglementaire/livre-iv/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : CENTRES DE GESTION DE LA FONCTION PUBLIQUE TERRITORIALE](partie-reglementaire/livre-iv/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : CENTRE NATIONAL DE GESTION](partie-reglementaire/livre-iv/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VI : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION, À SAINT-BARTHÉLEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-iv/titre-vi/chapitre-ier.md) (10 articles)
+      - [Chapitre II : DISPOSITIONS PARTICULIÉRES AUX ÎLES WALLIS ET FUTUNA, À LA POLYNÉSIE FRANÇAISE, À LA NOUVELLE-CALÉDONIE ET AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-iv/titre-vi/chapitre-ii.md) (10 articles)

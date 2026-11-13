@@ -41,7 +41,7 @@ Pour les opérations mentionnées à l'article L. 236-11, le projet de fusion ne
 - État : en vigueur depuis le 04/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047631764
 - Renvoie à : [art. L236-6 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-6) ; [art. L236-11 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-11) ; [art. R123-237 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-237)
-- Cité par : [art. R236-8 du Code de commerce](chapitre-vi.md#article-r236-8) ; [art. R214-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928426) ; [art. R214-32-11 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928415)
+- Cité par : [art. R236-8 du Code de commerce](chapitre-vi.md#article-r236-8) ; [art. R214-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-4) ; [art. R214-32-11 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-32-11)
 
 Le projet de fusion fait l'objet d'un avis inséré, par chacune des sociétés participant à l'opération, au Bulletin officiel des annonces civiles et commerciales. Au cas où les actions de l'une au moins de ces sociétés sont admises aux négociations sur un marché réglementé ou si toutes les actions de l'une d'entre elles au moins ne revêtent pas la forme nominative, un avis est en outre inséré au Bulletin des annonces légales obligatoires.
 
@@ -69,7 +69,7 @@ Lorsque l'approbation de la fusion par l'assemblée générale extraordinaire de
 - Identifiant : LEGIARTI000047631861
 - État : en vigueur depuis le 04/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047631861
-- Renvoie à : [art. L236-9 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-9) ; [art. L236-10 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-10)
+- Renvoie à : [art. L236-9 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-9) ; [art. L236-10 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-10) ; [art. L451-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 - Cité par : [art. R225-63 du Code de commerce](../titre-ii/chapitre-v.md#article-r225-63)
 
 L'insertion prévue à l'article R. 236-2 n'est pas requise lorsque, pendant une période ininterrompue commençant au plus tard trente jours avant la date fixée pour l'assemblée générale appelée à se prononcer sur le projet de fusion ou, lorsque l'assemblée générale n'est pas appelée à se prononcer, avant la date à laquelle l'organe compétent a décidé la fusion, la société publie sur son site internet principal le projet de fusion, dans des conditions de nature à garantir la sécurité et l'authenticité des documents.
@@ -84,7 +84,7 @@ Cet avis contient les mêmes mentions que celui prévu à l'article R. 236-2 et 
 - Identifiant : LEGIARTI000047631781
 - État : en vigueur depuis le 04/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047631781
-- Renvoie à : [art. L236-6 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-6) ; art. L451-1-2 du Code monétaire et financier
+- Renvoie à : [art. L236-6 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-vi.md#article-l236-6) ; [art. L451-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 - Cité par : [art. R225-63 du Code de commerce](../titre-ii/chapitre-v.md#article-r225-63)
 
 Toute société par actions participant à une opération de fusion met à la disposition de ses actionnaires, au siège social, trente jours au moins avant la date à laquelle l'assemblée générale ou l'organe compétent est appelé à se prononcer sur le projet, les documents suivants :
@@ -441,7 +441,7 @@ Le droit de retrait prévu à l'article L. 236-40 porte sur l'ensemble des parts
 - Identifiant : LEGIARTI000047629408
 - État : en vigueur depuis le 04/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047629408
-- Renvoie à : art. L433-4 du Code monétaire et financier
+- Renvoie à : [art. L433-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-4)
 
 I.-La demande des associés d'exercer leur droit de retrait prévu à l'article L. 236-40 est formée dans un délai de dix jours à compter de la date de la décision mentionnée à l'article L. 236-2.  
 

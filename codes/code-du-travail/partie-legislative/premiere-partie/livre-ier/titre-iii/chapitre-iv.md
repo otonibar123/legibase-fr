@@ -59,7 +59,7 @@ Lorsque le salarié refuse de poursuivre l'exécution du contrat de travail, les
 - Identifiant : LEGIARTI000033461494
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461494
-- Cité par : [art. L1471-1 du Code du travail](../../livre-iv/titre-vii/chapitre-unique.md#article-l1471-1) ; [art. L412-35 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046452089)
+- Cité par : [art. L1471-1 du Code du travail](../../livre-iv/titre-vii/chapitre-unique.md#article-l1471-1) ; [art. L412-35 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-35)
 
 L'action en réparation du préjudice résultant d'une discrimination se prescrit par cinq ans à compter de la révélation de la discrimination.  
 

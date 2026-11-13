@@ -21,7 +21,7 @@ Les actions de formations définies aux articles L. 6313-1 à L. 6314-1 ouvrent 
 - Identifiant : LEGIARTI000038061778
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038061778
-- Cité par : [art. R6341-3 du Code du travail](chapitre-ier.md#article-r6341-3) ; [art. R6341-4 du Code du travail](chapitre-ier.md#article-r6341-4) ; [Arrêté du 6 mai 2013, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027505595) ; [art. D352-17 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036460136) ; [Décret n°86-83 du 17 janvier 1986, art. 47-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054089654)
+- Cité par : [art. R6341-3 du Code du travail](chapitre-ier.md#article-r6341-3) ; [art. R6341-4 du Code du travail](chapitre-ier.md#article-r6341-4) ; [art. D352-17 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-iii/titre-v/chapitre-ii.md#article-d352-17) ; [Arrêté du 6 mai 2013, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027505595) ; [Décret n°86-83 du 17 janvier 1986, art. 47-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054089654)
 
 Dans la limite de leurs compétences respectives, l'agrément des stages de formation professionnelle est accordé par :
 
@@ -246,7 +246,7 @@ Ils peuvent bénéficier, sans condition de délai, dans l'année qui précède 
 - État : en vigueur depuis le 01/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043461370
 - Renvoie à : [art. L5423-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l5423-1) ; [art. L6341-2 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-2)
-- Cité par : [art. D413-10 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045679314)
+- Cité par : [art. D413-10 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-iii.md#article-d413-10)
 
 La rémunération mensuelle de la personne en recherche d'emploi et du travailleur non salarié qui suivent à temps partiel un stage agréé dans les conditions fixées aux 1° et 2° de l'article L. 6341-2 est égale, pour chaque heure de stage, à la rémunération mensuelle qu'elles auraient perçue pour un stage à temps complet divisée par 151,67.  
 
@@ -290,7 +290,7 @@ Les rémunérations mensuelles prévues aux articles D. 6341-28-1 à D. 6341-28-
 - Identifiant : LEGIARTI000043461402
 - État : en vigueur depuis le 01/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043461402
-- Cité par : [art. D6523-14-6 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-d6523-14-6) ; [art. D413-10 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045679314)
+- Cité par : [art. D6523-14-6 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-d6523-14-6) ; [art. D413-10 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-iii.md#article-d413-10)
 
 Les personnes qui effectuent un stage de formation professionnelle relevant de l'administration pénitentiaire à l'extérieur de l'établissement en régime de semi-liberté ou de placement extérieur bénéficient des modalités de rémunérations définies dans la présente sous-section selon les mêmes conditions.
 
@@ -328,7 +328,7 @@ La rémunération due aux personnes en recherche d'emploi et aux travailleurs no
 - Identifiant : LEGIARTI000045476927
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045476927
-- Renvoie à : [art. L6341-2 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-2) ; [art. L6341-3 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-3) ; [art. R6341-32-2 du Code du travail](chapitre-ier.md#article-r6341-32-2) ; [art. R6341-40 du Code du travail](chapitre-ier.md#article-r6341-40) ; art. L161-25 du Code de la sécurité sociale
+- Renvoie à : [art. L161-25 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-25) ; [art. L6341-2 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-2) ; [art. L6341-3 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-l6341-3) ; [art. R6341-32-2 du Code du travail](chapitre-ier.md#article-r6341-32-2) ; [art. R6341-40 du Code du travail](chapitre-ier.md#article-r6341-40)
 
 Sont revalorisés le 1er avril de chaque année par application du coefficient mentionné à l'article L. 161-25 du code de la sécurité sociale :  
 
@@ -436,6 +436,7 @@ La rémunération perçue au titre d'un stage de formation professionnelle peut 
 - Identifiant : LEGIARTI000030520593
 - État : en vigueur depuis le 27/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030520593
+- Renvoie à : [art. L432-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iii/chapitre-2.md#article-l432-9) ; [art. L433-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iii/chapitre-3.md#article-l433-1)
 - Cité par : [art. D5316-14 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-d5316-14) ; [Décret n°2021-521 du 29 avril 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043560830)
 
 Les indemnités journalières, à l'exclusion de celle servie par application combinée des articles L. 432-9 et L. 433-1 du code de la sécurité sociale sont déduites de la rémunération perçue au titre des stages de formation professionnelle.
@@ -450,7 +451,7 @@ A cet effet, le montant des indemnités journalières est notifié par les organ
 - Identifiant : LEGIARTI000018522462
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018522462
-- Renvoie à : [art. L245-1 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797100) ; [art. L821-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745132)
+- Renvoie à : [art. L245-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-iv/chapitre-v.md#article-l245-1) ; [art. L821-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-viii/titre-ii.md#article-l821-1)
 - Cité par : [art. R6523-14-1 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-14-1) ; [Décret n°2021-521 du 29 avril 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043560830)
 
 Les bénéficiaires de l'allocation aux adultes handicapés, définie à l'article L. 821-1 du code de la sécurité sociale, et de la prestation de compensation, définie à l'article L. 245-1 du code de l'action sociale et des familles, peuvent cumuler avec celles-ci les rémunérations perçues au titre d'un stage de formation professionnelle dans la limite des plafonds prévus par ces codes.
@@ -684,7 +685,7 @@ Pour l'application de ces dispositions, le préfet compétent est celui mentionn
 - Identifiant : LEGIARTI000030520600
 - État : en vigueur depuis le 27/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030520600
-- Cité par : [art. R6341-52 du Code du travail](chapitre-ier.md#article-r6341-52) ; [art. R6523-10 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-10) ; [art. R718-24 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917650)
+- Cité par : [art. R6341-52 du Code du travail](chapitre-ier.md#article-r6341-52) ; [art. R6523-10 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-10) ; [art. R718-24 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md#article-r718-24)
 
 Les stagiaires dont la rémunération est prise en charge par l'Etat ou par la région ont droit à la prise en charge des frais de transport exposés à l'occasion des déplacements réalisés en fonction des nécessités des stages dans les conditions précisées à la présente section.
 

@@ -51,7 +51,7 @@ Les tiers mentionnés à l'article L. 1273-6 ou les organismes qui les représen
 - Identifiant : LEGIARTI000038251738
 - État : en vigueur depuis le 18/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038251738
-- Renvoie à : art. L133-5-6 du Code de la sécurité sociale
+- Renvoie à : [art. L133-5-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-6) ; [art. L133-5-10 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-10)
 
 Pour les salariés déclarés par un particulier mentionné au 3° de l'article L. 133-5-6 du code de la sécurité sociale auprès de l'organisme mentionné à l'article L. 133-5-10 du même code et dont le nombre d'heures de travail inscrites au contrat de travail n'excède pas, pour un contrat donné, trente-deux heures par mois, la rémunération portée sur le chèque emploi-service universel inclut une indemnité compensatrice de congés payés dont le montant est égal à un dixième de la rémunération brute.
 
@@ -85,7 +85,7 @@ Le titre spécial de paiement mentionné au B de l'article L. 1271-1 est émis s
 - État : en vigueur depuis le 22/06/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038681538
 - Renvoie à : [art. L1271-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1)
-- Cité par : [art. D133-13-15 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048864312)
+- Cité par : [art. D133-13-15 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-3-bis.md#article-d133-13-15)
 
 Pour émettre des titres spéciaux de paiement mentionnés au B de l'article L. 1271-1 du présent code, les organismes et établissements spécialisés ou les établissements mentionnés à l'article L. 1271-9 sont habilités par le ministre chargé des services à la personne.
 
@@ -93,7 +93,7 @@ Pour émettre des titres spéciaux de paiement mentionnés au B de l'article L. 
 - Identifiant : LEGIARTI000038681534
 - État : en vigueur depuis le 22/06/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038681534
-- Renvoie à : [art. D1271-28 du Code du travail](chapitre-ier.md#article-d1271-28) ; [art. D1271-29 du Code du travail](chapitre-ier.md#article-d1271-29) ; [art. L1271-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1) ; [art. L1271-15 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-15) ; [art. L7231-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l7231-1) ; [art. R1271-13 du Code du travail](chapitre-ier.md#article-r1271-13) ; art. L421-1 du Code de l'action sociale et des familles ; art. D133-26 du Code de la sécurité sociale
+- Renvoie à : [art. L421-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-1) ; [art. D133-26 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-3-bis.md#article-d133-26) ; [art. D1271-28 du Code du travail](chapitre-ier.md#article-d1271-28) ; [art. D1271-29 du Code du travail](chapitre-ier.md#article-d1271-29) ; [art. L1271-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1) ; [art. L1271-15 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-15) ; [art. L7231-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l7231-1) ; [art. R1271-13 du Code du travail](chapitre-ier.md#article-r1271-13)
 
 L'habilitation des organismes et établissements porte sur :
 
@@ -168,7 +168,7 @@ Pour être habilité, l'émetteur tient une comptabilité appropriée permettant
 - Identifiant : LEGIARTI000038681526
 - État : en vigueur depuis le 22/06/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038681526
-- Renvoie à : [art. L1271-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1) ; [art. L7232-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-1) ; art. L227-6 du Code de l'action sociale et des familles ; art. L421-3 du Code de l'action sociale et des familles ; art. L2324-1 du Code de la santé publique
+- Renvoie à : [art. L227-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-l227-6) ; [art. L421-3 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-3) ; [art. L2324-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l2324-1) ; [art. L1271-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1) ; [art. L7232-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-1)
 
 L'émetteur de titres spéciaux de paiement mentionnés au B de l'article L. 1271-1 du présent code s'engage à :
 
@@ -316,7 +316,7 @@ Les émetteurs peuvent recourir à une structure commune pour procéder au trait
 - Identifiant : LEGIARTI000038251726
 - État : en vigueur depuis le 18/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038251726
-- Renvoie à : [art. D1271-28 du Code du travail](chapitre-ier.md#article-d1271-28) ; [art. L1271-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1) ; [art. L1271-15-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-15-1)
+- Renvoie à : [art. L2324-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l2324-1) ; [art. D1271-28 du Code du travail](chapitre-ier.md#article-d1271-28) ; [art. L1271-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-1) ; [art. L1271-15-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-ier.md#article-l1271-15-1)
 - Cité par : [art. R1271-9 du Code du travail](chapitre-ier.md#article-r1271-9) ; [Décret n°2009-479 du 29 avril 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020565305) ; [Décret n°2013-47 du 14 janvier 2013](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000026943582)
 
 L'émetteur adresse à la personne morale ou à l'entrepreneur individuel qui finance en tout ou partie des titres spéciaux de paiement mentionnés au B de l'article L. 1271-1 une information à transmettre au bénéficiaire du titre relative à la déclaration de cotisations sociales et à l'obligation préalable de se déclarer comme employeur avant toute embauche d'un salarié à domicile, le modèle d'attestation fiscale que l'entreprise doit adresser chaque année aux bénéficiaires de celle-ci et le modèle du bordereau leur permettant la tenue d'une comptabilité chèque à chèque.

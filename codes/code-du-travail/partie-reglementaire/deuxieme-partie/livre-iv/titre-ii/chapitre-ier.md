@@ -192,7 +192,7 @@ L'inspecteur du travail et, en cas de recours hiérarchique, le ministre examine
 - Identifiant : LEGIARTI000049902478
 - État : en vigueur depuis le 31/10/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049902478
-- Renvoie à : [art. L2421-9 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l2421-9) ; [art. R2421-11 du Code du travail](chapitre-ier.md#article-r2421-11) ; [art. R2421-12 du Code du travail](chapitre-ier.md#article-r2421-12)
+- Renvoie à : [art. R112-9-1 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-1) ; [art. R112-9-2 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-2) ; [art. L2421-9 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l2421-9) ; [art. R2421-11 du Code du travail](chapitre-ier.md#article-r2421-11) ; [art. R2421-12 du Code du travail](chapitre-ier.md#article-r2421-12)
 - Cité par : [DÉCRET n°2014-1426 du 28 novembre 2014, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049902442)
 
 La demande d'autorisation de transfert prévue à l'article L. 2421-9 est adressée à l'inspecteur du travail quinze jours avant la date arrêtée pour le transfert. Elle est transmise par voie électronique selon les modalités prévues aux articles R. 112-9-1 à R. 112-9-2 du code des relations entre le public et l'administration ou par lettre recommandée avec avis de réception en deux exemplaires.  
@@ -211,7 +211,7 @@ Les dispositions du troisième alinéa de l'article R. 2421-11 et celles de l'ar
 - Identifiant : LEGIARTI000049902473
 - État : en vigueur depuis le 31/10/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049902473
-- Renvoie à : [art. L2421-3 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l2421-3)
+- Renvoie à : [art. R112-9-1 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-1) ; [art. R112-9-2 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-2) ; [art. L2421-3 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l2421-3)
 
 La demande d'autorisation de rupture conventionnelle individuelle ou collective du contrat de travail d'un délégué syndical, d'un salarié mandaté, d'un membre du comité social et économique interentreprises ou d'un conseiller du salarié est adressée à l'inspecteur du travail dans les conditions définies à l'article L. 2421-3.  
 
@@ -243,7 +243,7 @@ L'avis émis par le comité social et économique au titre de la consultation fa
 - Identifiant : LEGIARTI000049902467
 - État : en vigueur depuis le 31/10/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049902467
-- Renvoie à : [art. L2421-3 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l2421-3)
+- Renvoie à : [art. R112-9-1 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-1) ; [art. R112-9-2 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-2) ; [art. L2421-3 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l2421-3)
 
 La demande d'autorisation de rupture conventionnelle individuelle ou collective du contrat de travail d'un membre de la délégation du personnel au comité social et économique ou d'un représentant de proximité est adressée à l'inspecteur dans les conditions définies à l'article L. 2421-3.  
 

@@ -141,7 +141,7 @@ Les conseillers prud'hommes salariés bénéficiant des congés prévus à l'art
 - Identifiant : LEGIARTI000034545771
 - État : en vigueur depuis le 01/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034545771
-- Renvoie à : [art. D1442-7 du Code du travail](chapitre-ii.md#article-d1442-7) ; art. 87 du Code général des impôts
+- Renvoie à : [art. D1442-7 du Code du travail](chapitre-ii.md#article-d1442-7) ; [art. 87 du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-87)
 
 Les conseillers prud'hommes salariés rétribués uniquement à la commission, lorsqu'ils bénéficient des congés prévus à l'article D. 1442-7, sont rémunérés par chacun de leurs employeurs sur la base d'une indemnité horaire de stage égale au 1/1 900 des rémunérations versées l'année précédente et déclarées à l'administration fiscale en application de l'article 87 du code général des impôts.
 
@@ -206,7 +206,7 @@ Cette attestation est remise par le conseiller prud'homme au président du conse
 - Identifiant : LEGIARTI000034527451
 - État : en vigueur depuis le 01/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034527451
-- Renvoie à : [art. 87 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006307129)
+- Renvoie à : [art. 87 du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-87)
 
 Les conseillers prud'hommes salariés rétribués uniquement à la commission, lorsqu'ils suivent la formation initiale, sont rémunérés par chacun de leurs employeurs sur la base d'une indemnité horaire de stage égale au 1/1 607 des rémunérations versées l'année précédente et déclarées à l'administration fiscale en application de l'article 87 du code général des impôts.
 
@@ -507,7 +507,7 @@ Les délais mentionnés à la présente section sont comptés dans les condition
 - Identifiant : LEGIARTI000035525267
 - État : en vigueur depuis le 31/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035525267
-- Renvoie à : [art. 366-1 du Code de procédure civile](../../../../../code-de-procedure-civile/livre-ier/titre-x/chapitre-iv.md#article-366-1)
+- Renvoie à : [art. L111-10 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ier/chapitre-unique.md#article-l111-10) ; [art. L141-2 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-iv/chapitre-unique.md#article-l141-2) ; [art. L141-3 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-iv/chapitre-unique.md#article-l141-3) ; [art. 366-1 du Code de procédure civile](../../../../../code-de-procedure-civile/livre-ier/titre-x/chapitre-iv.md#article-366-1)
 
 Les articles L. 141-2 et L. 141-3 du code de l'organisation judiciaire et les articles L. 366-1 à L. 366-9 du code de procédure civile sont applicables aux conseils de prud'hommes et à leurs membres pris individuellement.
 
@@ -546,7 +546,7 @@ L'honorariat peut être retiré suivant la même procédure.
 - Identifiant : LEGIARTI000033232103
 - État : en vigueur depuis le 01/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033232103
-- Renvoie à : [art. D1442-25 du Code du travail](chapitre-ii.md#article-d1442-25) ; [art. R111-2 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018919070)
+- Renvoie à : [art. R111-2 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md#article-r111-2) ; [art. D1442-25 du Code du travail](chapitre-ii.md#article-d1442-25)
 
 Les membres honoraires d'un conseil de prud'hommes peuvent assister, aux côtés des membres de la juridiction, aux audiences d'installation et à l'audience solennelle prévue à l'article R. 111-2 du code de l'organisation judiciaire.
 

@@ -7,7 +7,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035910359
 - Renvoie à : [art. L1271-1 du Code du travail](../../livre-ii/titre-vii/chapitre-ier.md#article-l1271-1)
-- Cité par : [art. L6224-3-1 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054231776) ; [art. L6325-3-1 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054231771) ; [art. L6434-4 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053152734)
+- Cité par : [art. L6224-3-1 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iv.md#article-l6224-3-1) ; [art. L6325-3-1 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l6325-3-1) ; [art. L6434-4 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-legislative/sixieme-partie/livre-iv/titre-iii/chapitre-iv.md#article-l6434-4)
 
 Les dispositions des articles L. 1271-1 à L. 1271-16 et de la sous-section 2 de la section 1 du chapitre III bis du livre Ier du code de la sécurité sociale relatives au chèque emploi-service universel s'appliquent en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon.
 
@@ -22,7 +22,8 @@ Les dispositions de la sous-section 2 de la section 1 du chapitre III bis du liv
 - Identifiant : LEGIARTI000035910353
 - État : en vigueur depuis le 31/12/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035910353
-- Cité par : [art. L1522-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901566) ; [art. L1522-10 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901571) ; [Livre des procédures fiscales, art. L98 B](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042146781) ; [Livre des procédures fiscales, art. L98 D](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042843034)
+- Renvoie à : [art. L133-5-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-6)
+- Cité par : [Livre des procédures fiscales, art. L98 B](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-ii.md#article-l98-b) ; [Livre des procédures fiscales, art. L98 D](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-ii.md#article-l98-d) ; [art. L1522-5 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901566) ; [art. L1522-10 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901571)
 
 Les dispositions de la sous-section 2 de la section 1 du chapitre III bis du livre Ier du code de la sécurité sociale relatives aux particuliers qui emploient des salariés exerçant une activité de garde d'enfants mentionnés au 4° de l'article L. 133-5-6 du même code et du chapitre Ier du titre III du livre cinquième du même code s'appliquent en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin.
 

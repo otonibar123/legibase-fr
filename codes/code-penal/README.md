@@ -1,0 +1,153 @@
+# Code pénal
+
+Dernière modification du texte dans LEGI : 26/08/2026. 1213 articles en vigueur, répartis dans 103 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : Dispositions générales**
+    - **Titre Ier : De la loi pénale**
+      - [Chapitre Ier : Des principes généraux](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : De l'application de la loi pénale dans le temps](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : De l'application de la loi pénale dans l'espace](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (13 articles)
+    - **Titre II : De la responsabilité pénale**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Des causes d'irresponsabilité ou d'atténuation de la responsabilité](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (10 articles)
+    - **Titre III : Des peines**
+      - [Titre III : Des peines : articles rattachés directement](partie-legislative/livre-ier/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : De la nature des peines](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (64 articles)
+      - [Chapitre II : Du régime des peines](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (82 articles)
+      - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (10 articles)
+  - **Livre II : Des crimes et délits contre les personnes**
+    - **Titre Ier : Des crimes contre l'humanité et contre l'espèce humaine**
+      - **Sous-titre Ier : Des crimes contre l'humanité**
+        - [Chapitre Ier : Du génocide](partie-legislative/livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Des autres crimes contre l'humanité](partie-legislative/livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Dispositions communes](partie-legislative/livre-ii/titre-ier/sous-titre-ier/chapitre-iii.md) (4 articles)
+      - **Sous-titre II : Des crimes contre l'espèce humaine**
+        - [Chapitre Ier : Des crimes d'eugénisme et de clonage reproductif](partie-legislative/livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Dispositions communes](partie-legislative/livre-ii/titre-ier/sous-titre-ii/chapitre-ii.md) (2 articles)
+    - **Titre II : Des atteintes à la personne humaine**
+      - [Chapitre Ier : Des atteintes à la vie de la personne](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (19 articles)
+      - [Chapitre Ier bis : Des atteintes à la personne constituées par les disparitions forcées](partie-legislative/livre-ii/titre-ii/chapitre-ier-bis.md) (5 articles)
+      - [Chapitre Ier ter : Des homicides et blessures routiers](partie-legislative/livre-ii/titre-ii/chapitre-ier-ter.md) (4 articles)
+      - [Chapitre II : Des atteintes à l'intégrité physique ou psychique de la personne](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (103 articles)
+      - [Chapitre III : De la mise en danger de la personne](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (27 articles)
+      - [Chapitre IV : Des atteintes aux libertés de la personne](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (16 articles)
+      - [Chapitre V : Des atteintes à la dignité de la personne](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (55 articles)
+      - [Chapitre VI : Des atteintes à la personnalité](partie-legislative/livre-ii/titre-ii/chapitre-vi.md) (44 articles)
+      - [Chapitre VII : Des atteintes aux mineurs et à la famille](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (48 articles)
+      - [Chapitre VIII : Du retrait total ou partiel de l'autorité parentale et du retrait de l'exercice de l'autorité parentale](partie-legislative/livre-ii/titre-ii/chapitre-viii.md) (1 article)
+  - **Livre III : Des crimes et délits contre les biens**
+    - **Titre Ier : Des appropriations frauduleuses**
+      - [Chapitre Ier : Du vol](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (17 articles)
+      - [Chapitre II : De l'extorsion](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (15 articles)
+      - [Chapitre III : De l'escroquerie et des infractions voisines](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Des détournements](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (13 articles)
+      - [Chapitre V : De l'occupation frauduleuse d'un local à usage d'habitation ou à usage commercial, agricole ou professionnel](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (3 articles)
+    - **Titre II : Des autres atteintes aux biens**
+      - [Chapitre Ier : Du recel et des infractions assimilées ou voisines](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Des destructions, dégradations et détériorations](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (21 articles)
+      - [Chapitre III : Des atteintes aux systèmes de traitement automatisé de données](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Du blanchiment](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (10 articles)
+  - **Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique**
+    - **Titre Ier : Des atteintes aux intérêts fondamentaux de la nation**
+      - [Titre Ier : Des atteintes aux intérêts fondamentaux de la nation : articles rattachés directement](partie-legislative/livre-iv/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre Ier : De la trahison et de l'espionnage](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Des autres atteintes à la défense nationale](partie-legislative/livre-iv/titre-ier/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Dispositions particulières](partie-legislative/livre-iv/titre-ier/chapitre-iv.md) (8 articles)
+    - **Titre II : Du terrorisme**
+      - [Chapitre Ier : Des actes de terrorisme](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Dispositions particulières](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (7 articles)
+    - **Titre III : Des atteintes à l'autorité de l'Etat**
+      - [Chapitre Ier : Des atteintes à la paix publique](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (25 articles)
+      - [Chapitre II : Des atteintes à l'administration publique commises par des personnes exerçant une fonction publique](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (20 articles)
+      - [Chapitre III : Des atteintes à l'administration publique commises par les particuliers](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (32 articles)
+      - [Chapitre IV : Des atteintes à l'action de justice](partie-legislative/livre-iv/titre-iii/chapitre-iv.md) (57 articles)
+      - [Chapitre V : Des atteintes à l'administration publique et à l'action de la justice des Communautés européennes, des Etats membres de l'Union européenne, des autres Etats étrangers et des autres organisations internationales publiques](partie-legislative/livre-iv/titre-iii/chapitre-v.md) (16 articles)
+      - [Chapitre VI : De la participation à une activité mercenaire](partie-legislative/livre-iv/titre-iii/chapitre-vi.md) (4 articles)
+    - **Titre IV : Des atteintes à la confiance publique**
+      - [Chapitre Ier : Des faux](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (12 articles)
+      - [Chapitre II : De la fausse monnaie](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (15 articles)
+      - [Chapitre III : De la falsification des titres ou autres valeurs fiduciaires émises par l'autorité publique](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : De la falsification des marques de l'autorité](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (9 articles)
+      - [Chapitre V : De la corruption des personnes n'exerçant pas une fonction publique](partie-legislative/livre-iv/titre-iv/chapitre-v.md) (7 articles)
+      - [Chapitre VI : De la violation des dispositions réglementant les professions exercées dans les lieux publics](partie-legislative/livre-iv/titre-iv/chapitre-vi.md) (2 articles)
+    - [Titre V : De la participation à une association de malfaiteurs et du concours à une organisation criminelle](partie-legislative/livre-iv/titre-v.md) (6 articles)
+  - **Livre IV bis : Des crimes et des délits de guerre**
+    - [Chapitre Ier : Des différents crimes et délits de guerre](partie-legislative/livre-iv-bis/chapitre-ier.md) (31 articles)
+    - [Chapitre II : Dispositions particulières](partie-legislative/livre-iv-bis/chapitre-ii.md) (9 articles)
+  - **Livre V : Des autres crimes et délits**
+    - **Titre Ier : Des infractions en matière de santé publique**
+      - [Chapitre Ier : Des infractions en matière d'éthique biomédicale](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (37 articles)
+    - **Titre II : Autres dispositions**
+      - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Des atteintes volontaires à la vie d'un animal](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (2 articles)
+  - **Livre VI : Des contraventions**
+    - [Titre Ier : Du recours à la prostitution](partie-legislative/livre-vi/titre-ier.md) (1 article)
+  - **Livre VII : Dispositions relatives à l'outre-mer**
+    - **Titre Ier : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-vii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Adaptation du livre Ier](partie-legislative/livre-vii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Adaptation du livre II](partie-legislative/livre-vii/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Adaptation du livre III](partie-legislative/livre-vii/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Adaptation du livre IV](partie-legislative/livre-vii/titre-ier/chapitre-v.md) (5 articles)
+      - [Chapitre VI : Adaptation du livre V](partie-legislative/livre-vii/titre-ier/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions diverses](partie-legislative/livre-vii/titre-ier/chapitre-vii.md) (2 articles)
+    - **Titre II : Dispositions particulières au Département-Région de Mayotte**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Adaptation du livre Ier.](partie-legislative/livre-vii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Adaptation du livre II](partie-legislative/livre-vii/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Adaptation du livre III](partie-legislative/livre-vii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Adaptation du livre IV](partie-legislative/livre-vii/titre-ii/chapitre-v.md) (5 articles)
+      - [Chapitre VI : Adaptation du livre V](partie-legislative/livre-vii/titre-ii/chapitre-vi.md) (15 articles)
+      - [Chapitre VII : Dispositions diverses](partie-legislative/livre-vii/titre-ii/chapitre-vii.md) (2 articles)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Livre Ier : Dispositions générales**
+    - **Titre III : Des peines**
+      - [Chapitre Ier : De la nature des peines](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ier.md) (27 articles)
+      - [Chapitre II : Du régime des peines](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : De l'extinction des peines et de l'effacement des condamnations](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-iii.md) (2 articles)
+  - **Livre II : Des crimes et délits contre les personnes**
+    - **Titre II : Des atteintes à la personne humaine**
+      - [Chapitre VI : Des atteintes à la personnalité](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-vi.md) (12 articles)
+  - **Livre III : Des crimes et délits contre les biens**
+    - **Titre II : Des autres atteintes aux biens**
+      - [Chapitre Ier : Du recel et des infractions assimilées ou voisines](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ier.md) (13 articles)
+  - **Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique**
+    - **Titre Ier : Des atteintes aux intérêts fondamentaux de la nation**
+      - [Chapitre III : Des autres atteintes à la défense nationale](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier/chapitre-iii.md) (8 articles)
+  - **Livre V : Des autres crimes et délits**
+    - [Chapitre Ier : Des sévices graves ou actes de cruauté envers les animaux](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/chapitre-ier.md) (1 article)
+  - **Livre VI : Des contraventions**
+    - [Titre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ier.md) (5 articles)
+    - **Titre II : Des contraventions contre les personnes**
+      - [Chapitre Ier : Des contraventions de la 1re classe contre les personnes](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Des contraventions de la 2e classe contre les personnes](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Des contraventions de la 3e classe contre les personnes](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Des contraventions de la 4e classe contre les personnes](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Des contraventions de la 5e classe contre les personnes](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-v.md) (16 articles)
+    - **Titre III : Des contraventions contre les biens**
+      - [Chapitre Ier : Des contraventions de la 1re classe contre les biens](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Des contraventions de la 3e classe contre les biens](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Des contraventions de la 4e classe contre les biens](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Des contraventions de la 5e classe contre les biens](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iii/chapitre-v.md) (7 articles)
+    - **Titre IV : Des contraventions contre la nation, l'Etat ou la paix publique**
+      - [Chapitre Ier : Des contraventions de la 1re classe contre la nation, l'Etat ou la paix publique](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Des contraventions de la 2e classe contre la nation, l'Etat ou la paix publique](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Des contraventions de la 3e classe contre la nation, l'Etat ou la paix publique](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Des contraventions de la 4e classe contre la nation, l'Etat ou la paix publique](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iv/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Des contraventions de la 5e classe contre la nation, l'Etat ou la paix publique](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-iv/chapitre-v.md) (16 articles)
+    - **Titre V : Des autres contraventions**
+      - [Chapitre III : Des contraventions de la 3e classe](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Des contraventions de la 4e classe](partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-v/chapitre-iv.md) (1 article)
+  - **Livre VII : Dispositions relatives à l'outre-mer**
+    - **Titre Ier : Dispositions applicables dans les territoires d'outre-mer et en Nouvelle-Calédonie**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Adaptation du livre Ier](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Adaptation du livre II](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre VI : Adaptation du livre V](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ier/chapitre-vi.md) (1 article)
+    - **Titre II : Dispositions particulières au Département de Mayotte**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Adaptation du livre Ier](partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-ii/chapitre-ii.md) (2 articles)

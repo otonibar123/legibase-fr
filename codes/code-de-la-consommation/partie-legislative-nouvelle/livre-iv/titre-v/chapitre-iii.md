@@ -24,7 +24,7 @@ La violation des interdictions prévues à l'article L. 431-4 est punie d'une pe
 - Identifiant : LEGIARTI000032225257
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225257
-- Renvoie à : art. L643-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L643-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-iii.md#article-l643-1)
 - Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3)
 
 La violation des interdictions prévues au deuxième alinéa de l'article L. 643-1 du code rural et de la pêche maritime est puni d'une peine d'emprisonnement de deux ans et d'une amende de 300 000 euros.
@@ -75,7 +75,7 @@ La violation des interdictions prévues à l'article L. 433-9 est punie d'une pe
 - Identifiant : LEGIARTI000032225244
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225244
-- Renvoie à : [art. L453-1 du Code de la consommation](chapitre-iii.md#article-l453-1) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L453-1 du Code de la consommation](chapitre-iii.md#article-l453-1) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 - Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3) ; [art. L462-1 du Code de la consommation](../titre-vi/chapitre-ii.md#article-l462-1)
 
 Les personnes physiques coupables des délits punis aux articles L. 453-1 à L. 453-8 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
@@ -87,7 +87,7 @@ L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité 
 - Identifiant : LEGIARTI000032225242
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225242
-- Renvoie à : [art. L453-1 du Code de la consommation](chapitre-iii.md#article-l453-1) ; art. 131-35 du Code pénal
+- Renvoie à : [art. L453-1 du Code de la consommation](chapitre-iii.md#article-l453-1) ; [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 - Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3)
 
 En cas de condamnation pour les délits punis aux articles L. 453-1 à L. 453-8, le tribunal peut en outre ordonner l'affichage et la diffusion du jugement dans les conditions prévues à l'article 131-35 du code pénal.

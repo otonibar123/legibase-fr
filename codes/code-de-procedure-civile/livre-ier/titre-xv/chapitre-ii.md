@@ -196,7 +196,7 @@ Le recours contre la déclaration constatant la force exécutoire et contre la d
 - Identifiant : LEGIARTI000047048207
 - État : en vigueur depuis le 26/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047048207
-- Renvoie à : art. L211-12 du Code de l'organisation judiciaire
+- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
 
 Les demandes formées en application des articles 41, 50, du paragraphe 6 de l'article 56, de l'article 57 ou des paragraphes 2 et 3 de l'article 68 du règlement (UE) 2019/1111 du conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants (refonte) sont faites, dans le respect de l'article L. 211-12 du code de l'organisation judiciaire lorsque la décision a été rendue en matière de déplacement illicite international d'enfants, devant le président, ou son délégué, du tribunal judiciaire dans le ressort duquel :
 
@@ -216,7 +216,7 @@ La demande formée en application du paragraphe 6 de l'article 56 du règlement 
 - Identifiant : LEGIARTI000047048209
 - État : en vigueur depuis le 26/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047048209
-- Renvoie à : art. L211-12 du Code de l'organisation judiciaire
+- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
 
 Les demandes aux fins de constat de l'absence de motifs de refus de reconnaissance et aux fins de refus de reconnaissance respectivement formées en application des articles 30 et 40 du règlement (UE) 2019/1111 du conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants (refonte) sont portées devant le président, ou son délégué, du tribunal judiciaire dans le ressort duquel se trouve le domicile du demandeur ou du défendeur, dans le respect de l'article L. 211-12 du code de l'organisation judiciaire lorsque la décision a été rendue en matière de déplacement illicite international d'enfants.
 

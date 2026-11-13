@@ -8,8 +8,8 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000035652370
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652370
-- Renvoie à : [art. L662-4 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-vi/chapitre-ii.md#article-l662-4) ; [art. L23-111-1 du Code du travail](../../livre-iii/titre-xi/chapitre-ier.md#article-l23-111-1) ; [art. L1453-4 du Code du travail](../../../premiere-partie/livre-iv/titre-v/chapitre-iii.md#article-l1453-4) ; [art. L2232-23-1 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-23-1) ; [art. L2232-24 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-24) ; [art. L2232-26 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-26) ; [art. L515-36 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027716024) ; [art. L114-24 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792145) ; art. L231-11 du Code de la sécurité sociale ; [art. L211-2 du Code minier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023505387) ; art. L515-1 du Code rural et de la pêche maritime ; [art. L717-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585165) ; [Loi du 17 décembre 1926, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026565716)
-- Cité par : [art. L1235-3-1 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-v.md#article-l1235-3-1) ; [art. L1237-15 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-15) ; [art. L2141-5-1 du Code du travail](../../livre-ier/titre-iv/chapitre-ier.md#article-l2141-5-1) ; [art. L2364-5 du Code du travail](../../livre-iii/titre-vi/chapitre-iv.md#article-l2364-5) ; [art. L2374-4 du Code du travail](../../livre-iii/titre-vii/chapitre-iv.md#article-l2374-4) ; [art. R2421-4 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-r2421-4) ; [art. R2421-11 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-r2421-11) ; [art. L514-3-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051374259)
+- Renvoie à : [art. L662-4 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-vi/chapitre-ii.md#article-l662-4) ; [art. L515-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8) ; [art. L515-36 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-36) ; [art. L114-24 du Code de la mutualité](../../../../../code-de-la-mutualite/partie-legislative/livre-ier/chapitre-iv.md#article-l114-24) ; [art. L231-11 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iii/chapitre-1er.md#article-l231-11) ; [art. L23-111-1 du Code du travail](../../livre-iii/titre-xi/chapitre-ier.md#article-l23-111-1) ; [art. L1453-4 du Code du travail](../../../premiere-partie/livre-iv/titre-v/chapitre-iii.md#article-l1453-4) ; [art. L2232-23-1 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-23-1) ; [art. L2232-24 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-24) ; [art. L2232-26 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-26) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2) ; [art. L515-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-1) ; [art. L717-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-7) ; art. L211-2 du Code minier ; [Loi du 17 décembre 1926, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026565716)
+- Cité par : [art. L1235-3-1 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-v.md#article-l1235-3-1) ; [art. L1237-15 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-15) ; [art. L2141-5-1 du Code du travail](../../livre-ier/titre-iv/chapitre-ier.md#article-l2141-5-1) ; [art. L2364-5 du Code du travail](../../livre-iii/titre-vi/chapitre-iv.md#article-l2364-5) ; [art. L2374-4 du Code du travail](../../livre-iii/titre-vii/chapitre-iv.md#article-l2374-4) ; [art. R2421-4 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-r2421-4) ; [art. R2421-11 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-r2421-11) ; [art. L514-3-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-iv.md#article-l514-3-2)
 
 Bénéficie de la protection contre le licenciement prévue par le présent chapitre, y compris lors d'une procédure de sauvegarde, de redressement ou de liquidation judiciaire, le salarié investi de l'un des mandats suivants :  
 
@@ -61,7 +61,7 @@ Bénéficie de la protection contre le licenciement prévue par le présent chap
 - Identifiant : LEGIARTI000035652367
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652367
-- Cité par : [art. L1237-15 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-15) ; [art. L2141-5-1 du Code du travail](../../livre-ier/titre-iv/chapitre-ier.md#article-l2141-5-1) ; [art. L514-3-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051374259)
+- Cité par : [art. L1237-15 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-vii.md#article-l1237-15) ; [art. L2141-5-1 du Code du travail](../../livre-ier/titre-iv/chapitre-ier.md#article-l2141-5-1) ; [art. L514-3-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-iv.md#article-l514-3-2)
 
 Bénéficient également de la protection contre le licenciement prévue par le présent chapitre, le délégué syndical, le membre de la délégation du personnel du comité social et économique, le représentant de proximité, institués par convention ou accord collectif de travail.
 
@@ -73,7 +73,7 @@ Bénéficient également de la protection contre le licenciement prévue par le 
 - Identifiant : LEGIARTI000006902294
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902294
-- Cité par : [art. L2411-18 du Code du travail](chapitre-ier.md#article-l2411-18) ; [art. L2411-20 du Code du travail](chapitre-ier.md#article-l2411-20) ; [art. L114-24 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033022525) ; [art. L515-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243603) ; [art. L514-3-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051374259) ; [Décret n°2010-341 du 31 mars 2010, art. 54](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022044472)
+- Cité par : [art. L114-24 du Code de la mutualité](../../../../../code-de-la-mutualite/partie-legislative/livre-ier/chapitre-iv.md#article-l114-24) ; [art. L2411-18 du Code du travail](chapitre-ier.md#article-l2411-18) ; [art. L2411-20 du Code du travail](chapitre-ier.md#article-l2411-20) ; [art. L514-3-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-iv.md#article-l514-3-2) ; [art. L515-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-4) ; [Décret n°2010-341 du 31 mars 2010, art. 54](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022044472)
 
 Le licenciement d'un délégué syndical ne peut intervenir qu'après autorisation de l'inspecteur du travail.  
 
@@ -210,8 +210,8 @@ Le licenciement d'un membre du groupe spécial de négociation, d'un représenta
 - Identifiant : LEGIARTI000035652417
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652417
-- Renvoie à : art. L515-36 du Code de l'environnement ; [art. L211-2 du Code minier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023505387)
-- Cité par : [art. R2411-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-r2411-1) ; [art. L717-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037065031)
+- Renvoie à : [art. L515-36 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-36) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2) ; art. L211-2 du Code minier
+- Cité par : [art. R2411-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-r2411-1) ; [art. L717-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-7)
 
 Le licenciement d'un représentant du personnel d'une entreprise extérieure désigné à la commission santé, sécurité et conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier ne peut intervenir qu'après autorisation de l'inspecteur du travail.
 
@@ -221,6 +221,7 @@ Cette autorisation est également requise pour le salarié ayant siégé en qual
 - Identifiant : LEGIARTI000035652422
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652422
+- Renvoie à : [art. L515-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8) ; [art. L515-36 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-36) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2)
 
 L'autorisation de licenciement est requise pendant six mois pour le candidat aux fonctions de représentant du personnel d'une entreprise extérieure à la commission santé, sécurité et conditions de travail, à partir du dépôt de sa candidature.  
 
@@ -270,7 +271,7 @@ Cette autorisation est également requise pour :
 - Identifiant : LEGIARTI000006902312
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902312
-- Renvoie à : [art. L2411-3 du Code du travail](chapitre-ier.md#article-l2411-3) ; art. L231-11 du Code de la sécurité sociale
+- Renvoie à : [art. L231-11 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iii/chapitre-1er.md#article-l231-11) ; [art. L2411-3 du Code du travail](chapitre-ier.md#article-l2411-3)
 
 Conformément à l'article L. 231-11 du code de la sécurité sociale, la procédure d'autorisation de licenciement et les périodes et durées de protection du salarié membre du conseil ou administrateur d'une caisse de sécurité sociale sont celles applicables au délégué syndical, prévues par l'article L. 2411-3.
 
@@ -282,7 +283,7 @@ Conformément à l'article L. 231-11 du code de la sécurité sociale, la procé
 - Identifiant : LEGIARTI000006902313
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902313
-- Renvoie à : [art. L114-24 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006792145)
+- Renvoie à : [art. L114-24 du Code de la mutualité](../../../../../code-de-la-mutualite/partie-legislative/livre-ier/chapitre-iv.md#article-l114-24)
 
 La procédure d'autorisation de licenciement et les périodes et durées de protection du salarié membre du conseil d'administration d'une mutuelle, union ou fédération sont prévues à l'article L. 114-24 du code de la mutualité.
 
@@ -292,7 +293,7 @@ La procédure d'autorisation de licenciement et les périodes et durées de prot
 - Identifiant : LEGIARTI000022234507
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022234507
-- Renvoie à : [art. L2411-3 du Code du travail](chapitre-ier.md#article-l2411-3) ; [art. L515-4 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006584222)
+- Renvoie à : [art. L2411-3 du Code du travail](chapitre-ier.md#article-l2411-3) ; [art. L515-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-4)
 
 Conformément à l'article L. 515-4 du code rural et de la pêche maritime, la procédure d'autorisation de licenciement et les périodes et durées de protection du représentant des salariés dans une chambre d'agriculture sont celles applicables au délégué syndical, prévues par l'article L. 2411-3.
 

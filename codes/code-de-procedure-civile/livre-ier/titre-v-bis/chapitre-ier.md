@@ -24,7 +24,7 @@ Les autres observations des parties sur la question prioritaire de constitutionn
 - Identifiant : LEGIARTI000039390830
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039390830
-- Renvoie à : [art. L311-16 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033425764)
+- Renvoie à : [art. L311-16 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-16)
 
 Le juge qui statue sur la transmission de la question prioritaire de constitutionnalité est celui qui connaît de l'instance au cours de laquelle cette question est soulevée, sous réserve des alinéas qui suivent.
 

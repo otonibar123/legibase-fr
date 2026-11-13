@@ -6,7 +6,7 @@ Code de commerce › Partie réglementaire › LIVRE III : De certaines formes d
 - Identifiant : LEGIARTI000020096751
 - État : en vigueur depuis le 10/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020096751
-- Renvoie à : [art. L310-2 du Code de commerce](../../../partie-legislative/livre-iii/titre-ier.md#article-l310-2) ; [art. R310-4 du Code de commerce](section-1.md#article-r310-4) ; [art. R310-7 du Code de commerce](section-1.md#article-r310-7) ; [art. R310-8 du Code de commerce](section-2.md#article-r310-8) ; [art. R310-17 du Code de commerce](section-3.md#article-r310-17) ; art. 131-13 du Code pénal
+- Renvoie à : [art. L310-2 du Code de commerce](../../../partie-legislative/livre-iii/titre-ier.md#article-l310-2) ; [art. R310-4 du Code de commerce](section-1.md#article-r310-4) ; [art. R310-7 du Code de commerce](section-1.md#article-r310-7) ; [art. R310-8 du Code de commerce](section-2.md#article-r310-8) ; [art. R310-17 du Code de commerce](section-3.md#article-r310-17) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 - Cité par : [art. R310-8 du Code de commerce](section-2.md#article-r310-8) ; [Arrêté du 9 janvier 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020122734)
 
 Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe :

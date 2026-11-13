@@ -6,7 +6,7 @@ Code civil › Livre Ier : Des personnes › Titre Ier : Des droits civils
 - Identifiant : LEGIARTI000006419320
 - État : en vigueur depuis le 30/07/1994
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419320
-- Cité par : [art. L2141-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043896403) ; [art. L2141-11-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895409) ; [art. L2151-6 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895963) ; [art. R2141-1-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044969067) ; [art. R2141-15 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044968927) ; [art. R2151-13 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045284572) ; [art. R2151-18 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045284537) ; [Décret n°2012-360 du 14 mars 2012](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000025518059) ; [Loi n°2004-800 du 6 août 2004, art. 37](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025577319)
+- Cité par : [art. L2141-1 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l2141-1) ; [art. L2141-11-1 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l2141-11-1) ; [art. L2151-6 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-unique.md#article-l2151-6) ; [art. L2211-1 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l2211-1) ; [art. R2141-1-1 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r2141-1-1) ; [art. R2141-15 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r2141-15) ; [art. R2151-13 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-v/chapitre-unique.md#article-r2151-13) ; [art. R2151-18 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-v/chapitre-unique.md#article-r2151-18) ; [Décret n°2012-360 du 14 mars 2012](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000025518059) ; [Loi n°2004-800 du 6 août 2004, art. 37](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025577319)
 
 La loi assure la primauté de la personne, interdit toute atteinte à la dignité de celle-ci et garantit le respect de l'être humain dès le commencement de sa vie.
 
@@ -14,7 +14,7 @@ La loi assure la primauté de la personne, interdit toute atteinte à la dignit�
 - Identifiant : LEGIARTI000006419293
 - État : en vigueur depuis le 30/07/1994
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419293
-- Cité par : [art. L1133-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024325270)
+- Cité par : [art. L1133-4 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-iii.md#article-l1133-4)
 
 Chacun a droit au respect de son corps.  
 
@@ -42,7 +42,7 @@ Le juge peut prescrire toutes mesures propres à empêcher ou faire cesser une a
 - Identifiant : LEGIARTI000006419297
 - État : en vigueur depuis le 07/08/2004
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419297
-- Cité par : [Arrêté du 15 novembre 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046566726) ; [art. L2131-4-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043896113)
+- Cité par : [art. L2131-4-1 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l2131-4-1) ; [Arrêté du 15 novembre 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046566726)
 
 Il ne peut être porté atteinte à l'intégrité du corps humain qu'en cas de nécessité médicale pour la personne ou à titre exceptionnel dans l'intérêt thérapeutique d'autrui.  
 
@@ -52,6 +52,7 @@ Le consentement de l'intéressé doit être recueilli préalablement hors le cas
 - Identifiant : LEGIARTI000043896064
 - État : en vigueur depuis le 04/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043896064
+- Cité par : [art. L2151-1 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-ier/titre-v/chapitre-unique.md#article-l2151-1)
 
 Nul ne peut porter atteinte à l'intégrité de l'espèce humaine.
 
@@ -95,7 +96,7 @@ En cas de nécessité thérapeutique, seuls les médecins du donneur et du recev
 - Identifiant : LEGIARTI000043888625
 - État : en vigueur depuis le 04/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043888625
-- Cité par : [art. R2141-1-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044969067)
+- Cité par : [art. L1273-3 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ii/titre-vii/chapitre-iii.md#article-l1273-3) ; [art. R2141-1-1 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r2141-1-1) ; [art. 511-10 du Code pénal](../../../code-penal/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-511-10)
 
 Dans le cas d'un don de gamètes ou d'un accueil d'embryon, les receveurs sont les personnes qui ont donné leur consentement à l'assistance médicale à la procréation.  
 

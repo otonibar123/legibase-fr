@@ -71,7 +71,7 @@ La donation et le partage peuvent être faits par actes séparés pourvu que le 
 - Identifiant : LEGIARTI000006436071
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006436071
-- Cité par : [art. 778 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305416)
+- Cité par : [art. 778 bis du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-778-bis)
 
 En cas de donation-partage faite conjointement par deux époux, l'enfant non commun peut être alloti du chef de son auteur en biens propres de celui-ci ou en biens communs, sans que le conjoint puisse toutefois être codonateur des biens communs.
 
@@ -114,7 +114,7 @@ Nonobstant les règles applicables aux donations entre vifs, les biens donnés s
 - Identifiant : LEGIARTI000006435769
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435769
-- Cité par : [art. 1078-7 du Code civil](chapitre-vii.md#article-1078-7) ; [art. 1078-10 du Code civil](chapitre-vii.md#article-1078-10) ; [art. 776 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026292574)
+- Cité par : [art. 1078-7 du Code civil](chapitre-vii.md#article-1078-7) ; [art. 1078-10 du Code civil](chapitre-vii.md#article-1078-10) ; [art. 776 A du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-776-a)
 
 Le lot de certains gratifiés pourra être formé, en totalité ou en partie, des donations, soit rapportables, soit faites hors part, déjà reçues par eux du disposant, eu égard éventuellement aux emplois et remplois qu'ils auront pu faire dans l'intervalle.  
 
@@ -124,7 +124,7 @@ La date d'évaluation applicable au partage anticipé sera également applicable
 - Identifiant : LEGIARTI000006435334
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435334
-- Cité par : [art. 1078-10 du Code civil](chapitre-vii.md#article-1078-10) ; [art. 776 A du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305408)
+- Cité par : [art. 1078-10 du Code civil](chapitre-vii.md#article-1078-10) ; [art. 776 A du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-776-a)
 
 Les parties peuvent aussi convenir qu'une donation antérieure faite hors part sera incorporée au partage et imputée sur la part de réserve du donataire à titre d'avancement de part successorale.
 
@@ -132,7 +132,7 @@ Les parties peuvent aussi convenir qu'une donation antérieure faite hors part s
 - Identifiant : LEGIARTI000006435336
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435336
-- Cité par : [art. 776 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026292574)
+- Cité par : [art. 776 A du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-776-a)
 
 Les conventions dont il est parlé aux deux articles précédents peuvent avoir lieu même en l'absence de nouvelles donations du disposant. Elles ne sont pas regardées comme des libéralités entre les héritiers présomptifs, mais comme un partage fait par le disposant.
 
@@ -142,7 +142,7 @@ Les conventions dont il est parlé aux deux articles précédents peuvent avoir 
 - Identifiant : LEGIARTI000006436072
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006436072
-- Cité par : [art. 1078-10 du Code civil](chapitre-vii.md#article-1078-10) ; [art. 776 ter du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026292571)
+- Cité par : [art. 1078-10 du Code civil](chapitre-vii.md#article-1078-10) ; [art. 776 ter du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-776-ter)
 
 Lorsque l'ascendant procède à une donation-partage, ses enfants peuvent consentir à ce que leurs propres descendants y soient allotis en leur lieu et place, en tout ou partie.  
 
@@ -171,7 +171,7 @@ Des attributions peuvent être faites à des descendants de degrés différents 
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006436075
 - Renvoie à : [art. 1078-1 du Code civil](chapitre-vii.md#article-1078-1)
-- Cité par : [art. 776 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026292574)
+- Cité par : [art. 776 A du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-776-a)
 
 Les donations-partages faites à des descendants de degrés différents peuvent comporter les conventions prévues par les articles 1078-1 à 1078-3.
 

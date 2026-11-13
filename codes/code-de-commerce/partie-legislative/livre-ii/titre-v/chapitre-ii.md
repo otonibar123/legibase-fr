@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - Identifiant : LEGIARTI000006231133
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006231133
-- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. L920-1 du Code de commerce](../../livre-ix/titre-ii/articles-directs.md#article-l920-1) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L940-1 du Code de commerce](../../livre-ix/titre-iv/articles-directs.md#article-l940-1) ; [art. L522-1 du Code de la recherche](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029595535)
+- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. L920-1 du Code de commerce](../../livre-ix/titre-ii/articles-directs.md#article-l920-1) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L940-1 du Code de commerce](../../livre-ix/titre-iv/articles-directs.md#article-l940-1) ; [art. L522-1 du Code de la recherche](../../../../code-de-la-recherche/partie-legislative/livre-v/titre-ii/chapitre-ii.md#article-l522-1)
 
 Les groupements européens d'intérêt économique immatriculés en France au registre du commerce et des sociétés ont la personnalité juridique dès leur immatriculation.
 

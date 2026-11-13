@@ -111,7 +111,7 @@ La décision est prise dans les formes et selon les modalités prévues par les 
 - Identifiant : LEGIARTI000029715955
 - État : en vigueur depuis le 06/11/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029715955
-- Renvoie à : [art. L131-15 du Code de commerce](../../../partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-15) ; art. L518-1 du Code monétaire et financier
+- Renvoie à : [art. L131-15 du Code de commerce](../../../partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-15) ; [art. L518-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-1)
 
 Le cautionnement prévu au 3° de l'article L. 131-15 ne peut être consenti que par l'un des établissements de crédit ou l'une des sociétés de financement habilités à cet effet ou l'une des institutions ou l'un des établissements mentionnés à l'article L. 518-1 du code monétaire et financier, une société d'assurances ou une société de caution mutuelle, habilités à donner caution.  
 

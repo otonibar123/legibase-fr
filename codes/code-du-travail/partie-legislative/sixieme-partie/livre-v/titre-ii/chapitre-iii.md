@@ -80,7 +80,7 @@ A Saint-Pierre-et-Miquelon, la caisse de prévoyance sociale est chargée de rec
 - Identifiant : LEGIARTI000038987395
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038987395
-- Cité par : [art. L444-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046774725)
+- Cité par : [art. L444-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-iv/chapitre-iv.md#article-l444-2)
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, les opérateurs de compétences à compétence interprofessionnelle rendent compte aux opérateurs de compétences à compétence nationale et professionnelle de l'utilisation des fonds qu'ils gèrent auprès d'entreprises relevant du champ professionnel de ces organismes.
 
@@ -144,7 +144,7 @@ Pour l'application en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La R�
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037388513
 - Renvoie à : [art. L5123-2 du Code du travail](../../../cinquieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l5123-2)
-- Cité par : [art. D6523-9 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-v/titre-ii/chapitre-iii.md#article-d6523-9) ; [art. L6522-2 du Code du travail](chapitre-ii.md#article-l6522-2) ; [art. R6523-3 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r6523-3) ; [art. R161-19 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055052439)
+- Cité par : [art. R161-19 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-1er.md#article-r161-19) ; [art. D6523-9 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-v/titre-ii/chapitre-iii.md#article-d6523-9) ; [art. L6522-2 du Code du travail](chapitre-ii.md#article-l6522-2) ; [art. R6523-3 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r6523-3)
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, pour assurer dans l'entreprise la formation pratique d'un salarié en contrat de professionnalisation, l'employeur peut, pour une durée limitée, bénéficier du concours de personnes qui le parrainent.
 
@@ -154,8 +154,8 @@ Ces personnes sont choisies parmi les salariés concernés par une mesure de ret
 - Identifiant : LEGIARTI000006904502
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904502
-- Renvoie à : [art. L6223-5 du Code du travail](../../livre-ii/titre-ii/chapitre-iii.md#article-l6223-5) ; [art. L6325-1 du Code du travail](../../livre-iii/titre-ii/chapitre-v.md#article-l6325-1) ; art. L754-5 du Code de la sécurité sociale
-- Cité par : [art. R161-19 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055052439)
+- Renvoie à : [art. L754-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-vii/titre-v/chapitre-4.md#article-l754-5) ; [art. L6223-5 du Code du travail](../../livre-ii/titre-ii/chapitre-iii.md#article-l6223-5) ; [art. L6325-1 du Code du travail](../../livre-iii/titre-ii/chapitre-v.md#article-l6325-1)
+- Cité par : [art. R161-19 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-1er.md#article-r161-19)
 
 Les personnes habilitées à exercer les fonctions de parrain sont agréées par l'autorité administrative, compte tenu notamment de leur expérience en matière de tutorat au sens des articles L. 6223-5, relatif au maître d'apprentissage, et L. 6325-1 et suivants, relatifs au contrat de professionnalisation.  
 
@@ -175,7 +175,7 @@ Un décret en Conseil d'Etat détermine les mesures d'application de la présent
 - Identifiant : LEGIARTI000035902680
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035902680
-- Renvoie à : [art. L6315-1 du Code du travail](../../livre-iii/titre-ier/chapitre-v.md#article-l6315-1) ; art. L324-1 du Code de la sécurité sociale
+- Renvoie à : [art. L324-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-4.md#article-l324-1) ; [art. L6315-1 du Code du travail](../../livre-iii/titre-ier/chapitre-v.md#article-l6315-1)
 
 Pour l'application à Mayotte de l'article L. 6315-1, les mots : "prévu à l'article L. 324-1 du code de la sécurité sociale" sont supprimés.
 
@@ -185,7 +185,7 @@ Pour l'application à Mayotte de l'article L. 6315-1, les mots : "prévu à l'ar
 - Identifiant : LEGIARTI000006904504
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904504
-- Cité par : [art. L254-3 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043480090)
+- Cité par : [art. L254-3 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-l254-3)
 
 A Saint-Pierre-et-Miquelon, en vue d'améliorer la qualification et de faciliter l'insertion professionnelle des personnes sans emploi rencontrant des difficultés particulières d'accès à l'emploi ou l'adaptation des salariés à l'évolution de l'emploi dans les entreprises, l'Etat peut prendre en charge, en application de conventions conclues avec des organismes de formation pour l'organisation de stages de formation et d'insertion professionnelles, les frais de formation ainsi que les dépenses afférentes à la rémunération et à la protection sociale des stagiaires.
 

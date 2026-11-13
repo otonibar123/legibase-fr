@@ -18,7 +18,7 @@ En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Ba
 - Identifiant : LEGIARTI000047522218
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047522218
-- Renvoie à : [art. L562-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006834573) ; art. R125-11 du Code de l'environnement
+- Renvoie à : [art. L562-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-vi/chapitre-ii.md#article-l562-1) ; [art. R125-11 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-ier/titre-ii/chapitre-v.md#article-r125-11)
 - Cité par : [art. R4823-5 du Code du travail](chapitre-iii.md#article-r4823-5)
 
 I.-La formation en prévention des risques naturels porte sur :

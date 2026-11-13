@@ -142,7 +142,7 @@ La convention détermine le montant de la contribution financière due par l'ent
 - Identifiant : LEGIARTI000018527006
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018527006
-- Renvoie à : [art. L241-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741897)
+- Renvoie à : [art. L241-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3)
 
 Le salaire de référence servant de base à la détermination de l'allocation spéciale est fixé d'après les rémunérations sur lesquelles ont été assises les contributions au régime d'assurance chômage au titre des douze derniers mois civils précédant le dernier jour de travail payé à l'intéressé, dans la limite du double du plafond prévu à l'article L. 241-3 du code de la sécurité sociale. Il est calculé selon les règles définies dans le cadre du régime d'assurance chômage prévu au chapitre II du titre II du livre IV de la partie V du présent code.
 
@@ -150,7 +150,7 @@ Le salaire de référence servant de base à la détermination de l'allocation s
 - Identifiant : LEGIARTI000018527004
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018527004
-- Renvoie à : [art. L241-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741897)
+- Renvoie à : [art. L241-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3)
 
 Le montant total de l'allocation spéciale est égal à 65 % du salaire journalier de référence dans la limite du plafond prévu à l'article L. 241-3 du code de la sécurité sociale, auxquels s'ajoutent 50 % du salaire de référence pour la part de ce salaire comprise entre une et deux fois ce même plafond.
 
@@ -168,7 +168,7 @@ Le montant de l'allocation journalière garantie ne peut excéder 85 % du salair
 - Identifiant : LEGIARTI000024113186
 - État : en vigueur depuis le 03/06/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024113186
-- Renvoie à : art. L351-8 du Code de la sécurité sociale
+- Renvoie à : [art. L351-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-8)
 - Cité par : [art. R5522-88 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-88)
 
 L'allocation spéciale est attribuée au plus tard jusqu'à l'âge prévu au 1° de l'article L. 351-8 du code de la sécurité sociale. Les conditions dans lesquelles elle peut être éventuellement cumulée avec une pension de retraite et les modalités de ce cumul sont déterminées par décret.
@@ -210,7 +210,7 @@ Un arrêté conjoint des ministres chargés de l'emploi et du budget précise no
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526986
 - Renvoie à : [art. L5123-6 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l5123-6) ; [art. L5422-10 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l5422-10)
-- Cité par : [art. R5123-29 du Code du travail](chapitre-iii.md#article-r5123-29)
+- Cité par : [art. R351-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-12) ; [art. R5123-29 du Code du travail](chapitre-iii.md#article-r5123-29)
 
 L'Etat peut prendre partiellement en charge le revenu de remplacement versé aux salariés bénéficiant d'avantages de préretraite, en application d'un accord professionnel national ouvrant droit à une exonération des cotisations de sécurité sociale dans les conditions prévues aux articles L. 5123-6 et L. 5422-10 et d'un accord d'entreprise dans les conditions définies ci-après, lorsque les salariés connaissent des difficultés d'adaptation à l'évolution de leur emploi liées à des conditions spécifiques d'exercice de leur activité.
 
@@ -247,6 +247,7 @@ L'employeur consulte, avant la conclusion d'une convention de cessation d'activi
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526978
 - Renvoie à : [art. R5123-23 du Code du travail](chapitre-iii.md#article-r5123-23)
+- Cité par : [art. R351-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-12)
 
 Une convention conclue entre l'Etat, l'entreprise et, l'organisme gestionnaire désigné par l'accord professionnel pour effectuer, au nom de l'entreprise, le versement de l'allocation aux bénéficiaires de la cessation d'activité indique le nombre maximum de salariés susceptibles d'être placés en cessation d'activité pendant la période prévue au 6° de l'article R. 5123-23.
 
@@ -274,7 +275,7 @@ Aucune convention au titre de la cessation d'activité ne peut être conclue ave
 - Identifiant : LEGIARTI000020083034
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020083034
-- Renvoie à : [art. L5212-13 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-13) ; [art. L5421-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l5421-2) ; [art. R5123-12 du Code du travail](chapitre-iii.md#article-r5123-12) ; [art. R5123-22 du Code du travail](chapitre-iii.md#article-r5123-22) ; [art. R351-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006749341) ; art. R351-27 du Code de la sécurité sociale ; [Loi n° 96-126 du 21 février 1996](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000192682)
+- Renvoie à : [art. R351-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-3) ; [art. R351-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-4) ; [art. R351-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-12) ; [art. R351-15 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-15) ; [art. R351-27 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-27) ; [art. L5212-13 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-13) ; [art. L5421-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l5421-2) ; [art. R5123-12 du Code du travail](chapitre-iii.md#article-r5123-12) ; [art. R5123-22 du Code du travail](chapitre-iii.md#article-r5123-22) ; [Loi n° 96-126 du 21 février 1996](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000192682)
 - Cité par : [art. R5522-89 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-89) ; [Décret n°2008-1555 du 31 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020080970)
 
 Pour bénéficier de la prise en charge partielle de l'allocation pour cessation anticipée d'activité par l'Etat, le salarié remplit les conditions suivantes :
@@ -316,7 +317,7 @@ Pendant la durée de la suspension du contrat de travail du salarié, l'entrepri
 - Identifiant : LEGIARTI000024113189
 - État : en vigueur depuis le 03/06/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024113189
-- Renvoie à : art. L161-17-2 du Code de la sécurité sociale ; art. R351-27 du Code de la sécurité sociale
+- Renvoie à : [art. L161-17-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-17-2) ; [art. R351-27 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-27)
 - Cité par : [art. R5522-90 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-90)
 
 Le versement de l'allocation est interrompu en cas de reprise d'une activité professionnelle par le salarié.  
@@ -327,7 +328,7 @@ L'allocation cesse d'être versée lorsque, à partir de prévu à l'article L. 
 - Identifiant : LEGIARTI000018526962
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526962
-- Renvoie à : [art. L241-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741897)
+- Renvoie à : [art. L241-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3)
 
 L'Etat participe au financement de l'allocation versée aux bénéficiaires dans les conditions suivantes :
 
@@ -341,7 +342,7 @@ L'Etat participe au financement de l'allocation versée aux bénéficiaires dans
 - Identifiant : LEGIARTI000018526960
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526960
-- Renvoie à : [art. L161-23-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741256) ; [Code du travail, Chapitre II : Régime d'assurance](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018496214) ; [Décret n°98-1024 du 12 novembre 1998, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006660756) ; [Décret n°98-1024 du 12 novembre 1998, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006660759)
+- Renvoie à : [art. L161-23-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-23-1) ; [Code du travail, Chapitre II : Régime d'assurance](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018496214) ; [Décret n°98-1024 du 12 novembre 1998, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006660756) ; [Décret n°98-1024 du 12 novembre 1998, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006660759)
 
 Le salaire de référence est déterminé d'après les rémunérations sur lesquelles ont été assises les contributions au régime d'assurance chômage au titre des douze derniers mois civils précédant l'adhésion au dispositif de cessation d'activité.
 

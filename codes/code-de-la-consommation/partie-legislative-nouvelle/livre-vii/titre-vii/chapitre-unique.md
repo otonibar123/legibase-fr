@@ -75,7 +75,8 @@ Pour l'application de l'article L. 751-2 en Polynésie française et en Nouvelle
 - Identifiant : LEGIARTI000044078826
 - État : en vigueur depuis le 26/02/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044078826
-- Renvoie à : [art. L751-1 du Code de la consommation](../titre-v/chapitre-ier.md#article-l751-1) ; art. L721-25 du Code monétaire et financier
+- Renvoie à : [art. L751-1 du Code de la consommation](../titre-v/chapitre-ier.md#article-l751-1) ; [art. L721-25 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-vii/titre-ii/chapitre-ier.md#article-l721-25)
+- Cité par : [art. R752-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vii/titre-v/chapitre-ii.md#article-r752-1) ; [art. R753-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vii/titre-v/chapitre-iii.md#article-r753-1) ; [art. R754-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vii/titre-v/chapitre-iv.md#article-r754-1)
 
 Dès que la commission de surendettement des particuliers instituée par la Polynésie française ou par la Nouvelle-Calédonie est saisie par un débiteur, elle en informe l'Institut d'émission d'outre-mer mentionné à l'article L. 721-25 du code monétaire et financier. Ce dernier en informe la Banque de France aux fins d'inscription au fichier mentionné à l'article L. 751-1 du présent code.
 
@@ -142,7 +143,7 @@ L'article L. 733-4 ainsi que la dernière phrase du 2° de l'article L. 733-7 ne
 - État : en vigueur depuis le 01/07/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034130373
 - Renvoie à : [Constitution du 4 octobre 1958, art. 73](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527580)
-- Cité par : [art. D312-25 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046589712)
+- Cité par : [art. D312-25 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-d312-25)
 
 Dans les collectivités relevant de l'article 73 de la Constitution, à Saint-Barthélemy, à Saint-Martin, et à Saint-Pierre-et-Miquelon, l'Institut d'émission des départements d'outre-mer exerce, en liaison avec la Banque de France, les attributions dévolues à celle-ci par le présent livre.
 

@@ -13,7 +13,7 @@ Pour l'application à Mayotte de l'article R. 7122-30, les mots : "et occupant u
 - Identifiant : LEGIARTI000037563335
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037563335
-- Renvoie à : art. R243-13 du Code de la sécurité sociale
+- Renvoie à : [art. R243-13 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-13)
 
 Pour l'application à Mayotte de l'article R. 7122-31 :
 

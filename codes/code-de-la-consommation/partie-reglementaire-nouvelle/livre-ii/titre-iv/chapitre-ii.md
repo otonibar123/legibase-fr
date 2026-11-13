@@ -33,7 +33,7 @@ Le fait de ne pas rembourser le consommateur dans les conditions fixées à l'ar
 - Identifiant : LEGIARTI000032807342
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807342
-- Renvoie à : [art. R242-1 du Code de la consommation](chapitre-ii.md#article-r242-1) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R242-1 du Code de la consommation](chapitre-ii.md#article-r242-1) ; [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 La récidive des infractions punies aux articles R. 242-1 à R. 242-3 est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
 
@@ -135,7 +135,7 @@ Le fait de facturer à un consommateur, au titre de la résiliation de son contr
 - Identifiant : LEGIARTI000032807368
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807368
-- Renvoie à : [art. R242-6 du Code de la consommation](chapitre-ii.md#article-r242-6) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R242-6 du Code de la consommation](chapitre-ii.md#article-r242-6) ; [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 La récidive des infractions punies aux articles R. 242-6 à R. 242-14 est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
 
@@ -178,6 +178,6 @@ Le fait pour un professionnel de diffuser une annonce personnalisée non conform
 - Identifiant : LEGIARTI000032807380
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807380
-- Renvoie à : [art. R242-16 du Code de la consommation](chapitre-ii.md#article-r242-16) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R242-16 du Code de la consommation](chapitre-ii.md#article-r242-16) ; [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 La récidive des infractions punies aux articles R. 242-16 à R. 242-19 est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.

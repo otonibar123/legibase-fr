@@ -58,7 +58,7 @@ Il déclare, en outre, les nom, nom d'usage, prénoms, date et lieu de naissance
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045802125
 - Renvoie à : [art. L526-9 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-9) ; [art. L526-15 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-15) ; [art. R123-46 du Code de commerce](../titre-ii/chapitre-iii.md#article-r123-46)
-- Cité par : [art. A134-5 du Code de commerce](../../../partie-arretes/livre-ier/titre-iii/chapitre-iv.md#article-a134-5) ; [art. R123-228 du Code de commerce](../titre-ii/chapitre-iii.md#article-r123-228) ; [art. R134-13-1 du Code de commerce](chapitre-iv.md#article-r134-13-1) ; [art. R134-14 du Code de commerce](chapitre-iv.md#article-r134-14) ; [art. R134-15 du Code de commerce](chapitre-iv.md#article-r134-15) ; [art. R621-8 du Code de commerce](../../livre-vi/titre-ii/chapitre-ier.md#article-r621-8) ; [Décret n°2010-1310 du 2 novembre 2010](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022994100)
+- Cité par : [art. A134-5 du Code de commerce](../../../partie-arretes/livre-ier/titre-iii/chapitre-iv.md#article-a134-5) ; [art. R123-228 du Code de commerce](../titre-ii/chapitre-iii.md#article-r123-228) ; [art. R134-13-1 du Code de commerce](chapitre-iv.md#article-r134-13-1) ; [art. R134-14 du Code de commerce](chapitre-iv.md#article-r134-14) ; [art. R134-15 du Code de commerce](chapitre-iv.md#article-r134-15) ; [art. R621-8 du Code de commerce](../../livre-vi/titre-ii/chapitre-ier.md#article-r621-8) ; [art. R215-13 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-v.md#article-r215-13) ; [Décret n°2010-1310 du 2 novembre 2010](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022994100)
 
 Les agents commerciaux se font immatriculer, avant de commencer l'exercice de leurs activités, sur un registre spécial tenu au greffe du tribunal de commerce dans le ressort duquel ils sont domiciliés. Ils produisent à cet effet une déclaration dont récépissé leur est délivré.
 
@@ -114,7 +114,7 @@ L'ordonnance est exécutée dans le délai de quinze jours à compter du jour o�
 - Identifiant : LEGIARTI000043292519
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043292519
-- Renvoie à : art. L613-4 du Code de la sécurité sociale
+- Renvoie à : [art. L613-4 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-i/chapitre-3.md#article-l613-4)
 
 La radiation d'un agent commercial de son affiliation à l'organisme de sécurité sociale en application des deux premiers alinéas de l'article L. 613-4 du code de la sécurité sociale emporte sa radiation du registre spécial auquel il est immatriculé.  
 
@@ -188,7 +188,7 @@ Le greffier nouvellement compétent demande, dans le délai d'un jour franc ouvr
 - Identifiant : LEGIARTI000006259340
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006259340
-- Renvoie à : [art. R134-6 du Code de commerce](chapitre-iv.md#article-r134-6) ; [art. 131-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417256)
+- Renvoie à : [art. R134-6 du Code de commerce](chapitre-iv.md#article-r134-6) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe le fait d'émettre des déclarations inexactes ou incomplètes en vue de l'immatriculation au registre spécial prévu à l'article R. 134-6 ou en vue de la modification ou du renouvellement de l'immatriculation.
 
@@ -196,7 +196,7 @@ Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour 
 - Identifiant : LEGIARTI000022998696
 - État : en vigueur depuis le 05/11/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022998696
-- Renvoie à : [art. L134-1 du Code de commerce](../../../partie-legislative/livre-ier/titre-iii/chapitre-iv.md#article-l134-1) ; [art. R134-6 du Code de commerce](chapitre-iv.md#article-r134-6) ; [art. R134-7 du Code de commerce](chapitre-iv.md#article-r134-7) ; art. 131-13 du Code pénal
+- Renvoie à : [art. L134-1 du Code de commerce](../../../partie-legislative/livre-ier/titre-iii/chapitre-iv.md#article-l134-1) ; [art. R134-6 du Code de commerce](chapitre-iv.md#article-r134-6) ; [art. R134-7 du Code de commerce](chapitre-iv.md#article-r134-7) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe le fait, par toute personne exerçant les activités définies à l'article L. 134-1 :
 
@@ -212,7 +212,7 @@ Est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour 
 - Identifiant : LEGIARTI000006259357
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006259357
-- Renvoie à : [art. 131-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417256)
+- Renvoie à : [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Est puni de l'amende prévue par le 3° de l'article 131-13 du code pénal pour les contraventions de la troisième classe le fait de ne pas faire figurer sur tous les documents et correspondances à usage professionnel le lieu et le numéro d'immatriculation au registre spécial en dépit de l'inscription à ce registre.
 

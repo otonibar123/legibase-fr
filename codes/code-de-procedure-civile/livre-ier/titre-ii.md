@@ -30,6 +30,6 @@ Est irrecevable toute prétention émise par ou contre une personne dépourvue d
 - Identifiant : LEGIARTI000034747739
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747739
-- Cité par : [art. ANNEXE, art. 30-14 du Code de procédure civile](../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-14) ; [Décret n°2011-945 du 10 août 2011, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042597435) ; [Loi n° 65-557 du 10 juillet 1965, art. 42](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037671877)
+- Cité par : [art. ANNEXE, art. 30-14 du Code de procédure civile](../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-14) ; [Décret n°2011-945 du 10 août 2011, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042597435) ; [Loi n° 65-557 du 10 juillet 1965, art. 42](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037671877)
 
 Celui qui agit en justice de manière dilatoire ou abusive peut être condamné à une amende civile d'un maximum de 10 000 euros, sans préjudice des dommages-intérêts qui seraient réclamés.

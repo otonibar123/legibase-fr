@@ -47,7 +47,7 @@ Pour l'application des articles L. 141-15, L. 143-7 et L. 145-28, un magistrat d
 - Identifiant : LEGIARTI000006242937
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006242937
-- Renvoie à : [art. L141-13 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-13) ; [art. 638 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305168) ; [art. 653 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305192)
+- Renvoie à : [art. L141-13 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-13) ; [art. 638 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-638) ; [art. 653 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-653)
 
 A l'article L. 141-13, les mots : " par les articles 638 et 653 du code général des impôts " sont remplacés par les mots :  
 " par les dispositions de droit fiscal applicables localement ".
@@ -56,7 +56,7 @@ A l'article L. 141-13, les mots : " par les articles 638 et 653 du code généra
 - Identifiant : LEGIARTI000006242978
 - État : en vigueur depuis le 04/01/2003
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006242978
-- Renvoie à : [art. L145-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221531)
+- Renvoie à : [art. 71 du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-ii/chapitre-premier.md#article-71) ; [art. L145-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221531)
 
 L'article L. 145-2 est modifié ainsi qu'il suit :  
 
@@ -68,7 +68,7 @@ II.-Au 6°, les mots : " à la caisse de sécurité sociale de la maison des art
 - Identifiant : LEGIARTI000006242980
 - État : en vigueur depuis le 01/10/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006242980
-- Renvoie à : [art. L145-6 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-6) ; [art. L145-18 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-18) ; [art. L313-4 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815459) ; [art. L313-4-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815204)
+- Renvoie à : [art. L145-6 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-6) ; [art. L145-18 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-18) ; [art. L313-4 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4) ; [art. L313-4-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4-2)
 
 Pour l'application de l'article L. 145-6, les mots : " l'évacuation des lieux compris dans un secteur ou périmètre prévu aux articles L. 313-4 et L. 313-4-2 du code de l'urbanisme " sont remplacés par les mots : " l'évacuation des lieux prévue à l'article L. 145-18 ".
 

@@ -6,7 +6,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre VII : TRAIT
 - Identifiant : LEGIARTI000032808526
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808526
-- Renvoie à : [Livre des procédures fiscales, art. R*247 A-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006316456) ; [Livre des procédures fiscales, art. R*247-18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006316455)
+- Renvoie à : [Livre des procédures fiscales, art. R*247 A-1](../../../../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-iii.md#article-r247-a-1) ; [Livre des procédures fiscales, art. R*247-18](../../../../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-iii.md#article-r247-18)
 - Cité par : [art. R771-3 du Code de la consommation](../titre-vii/chapitre-unique.md#article-r771-3) ; [art. R771-5 du Code de la consommation](../titre-vii/chapitre-unique.md#article-r771-5)
 
 Les règles relatives aux effets de la saisine de la commission de surendettement sur les demandes de remise gracieuse ou de dispense de paiement que peuvent accorder les autorités chargées du recouvrement des impôts sont fixées par les articles R. * 247 A-1 et R. * 247-18 du livre des procédures fiscales.

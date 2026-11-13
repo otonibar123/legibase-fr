@@ -35,7 +35,7 @@ II.-Pour certaines catégories de biens fixées par décret, le document de fact
 - Identifiant : LEGIARTI000032227008
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227008
-- Cité par : [art. Annexe 3-0 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047851019)
+- Cité par : [art. Annexe 3-0 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-3-0)
 
 Lors de la conclusion de tout contrat écrit, le consommateur est informé par le professionnel de la possibilité de recourir, en cas de contestation, à la procédure de médiation de la consommation dans les conditions prévues au titre Ier du livre VI.
 

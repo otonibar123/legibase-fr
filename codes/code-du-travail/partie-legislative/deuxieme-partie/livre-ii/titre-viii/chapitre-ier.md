@@ -6,7 +6,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000035653316
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653316
-- Cité par : [art. R1262-3 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-3) ; [art. L344-2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048586843) ; [art. L423-16 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006798043)
+- Cité par : [art. L344-2-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iv.md#article-l344-2-6) ; [art. L423-16 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-ii/chapitre-iii.md#article-l423-16) ; [art. R1262-3 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-3)
 
 Les salariés bénéficient d'un droit à l'expression directe et collective sur le contenu, les conditions d'exercice et l'organisation de leur travail.
 

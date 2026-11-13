@@ -6,7 +6,7 @@ Code du travail › Partie législative › Cinquième partie : L'emploi › Liv
 - Identifiant : LEGIARTI000049699871
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049699871
-- Renvoie à : [art. L5311-10 du Code du travail](../../livre-iii/titre-ier/chapitre-ier-bis.md#article-l5311-10) ; [art. L5411-5-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-5-1) ; [art. L5411-5-2 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-5-2) ; [art. L5523-7 du Code du travail](chapitre-iii-bis.md#article-l5523-7) ; [art. L5523-8 du Code du travail](chapitre-iii-bis.md#article-l5523-8) ; [art. L262-9 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797188)
+- Renvoie à : [art. L262-9 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-9) ; [art. L5311-10 du Code du travail](../../livre-iii/titre-ier/chapitre-ier-bis.md#article-l5311-10) ; [art. L5411-5-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-5-1) ; [art. L5411-5-2 du Code du travail](../../livre-iv/titre-ier/chapitre-ier.md#article-l5411-5-2) ; [art. L5523-7 du Code du travail](chapitre-iii-bis.md#article-l5523-7) ; [art. L5523-8 du Code du travail](chapitre-iii-bis.md#article-l5523-8)
 
 En Guyane, à La Réunion et à Mayotte, les dispositions des articles L. 5411-5-1 et L. 5411-5-2 s'appliquent sous réserve des adaptations suivantes :
 
@@ -22,7 +22,7 @@ En Guyane, à La Réunion et à Mayotte, les dispositions des articles L. 5411-5
 - Identifiant : LEGIARTI000049699875
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049699875
-- Renvoie à : [art. L5426-1 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-l5426-1) ; art. L262-37 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-37 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-37) ; [art. L5426-1 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-l5426-1)
 
 En Guyane, à La Réunion et à Mayotte, le contrôle des engagements pris par les demandeurs d'emploi est effectué dans les conditions prévues par l'article L. 5426-1 sous réserve des adaptations suivantes :
 

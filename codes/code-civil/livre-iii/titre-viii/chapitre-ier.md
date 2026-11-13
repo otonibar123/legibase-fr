@@ -18,7 +18,7 @@ Et celui d'ouvrage.
 - Identifiant : LEGIARTI000006442673
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442673
-- Cité par : [art. L239-1 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-ix.md#article-l239-1) ; [art. L211-7-1 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054724271)
+- Cité par : [art. L239-1 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-ix.md#article-l239-1) ; [art. L211-7-1 du Code de la sécurité intérieure](../../../code-de-la-securite-interieure/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-7-1)
 
 Le louage des choses est un contrat par lequel l'une des parties s'oblige à faire jouir l'autre d'une chose pendant un certain temps, et moyennant un certain prix que celle-ci s'oblige de lui payer.
 

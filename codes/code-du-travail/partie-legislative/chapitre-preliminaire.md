@@ -21,7 +21,7 @@ Le présent article n'est pas applicable en cas d'urgence. Lorsque le Gouverneme
 - État : en vigueur depuis le 01/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042654546
 - Renvoie à : [art. L1 du Code du travail](chapitre-preliminaire.md#article-l1) ; [art. L2271-1 du Code du travail](deuxieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l2271-1) ; [art. L6123-1 du Code du travail](sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l6123-1)
-- Cité par : [art. L3 du Code du travail](chapitre-preliminaire.md#article-l3) ; [art. L6123-1 du Code du travail](sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l6123-1) ; [art. L326-10 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426784)
+- Cité par : [art. L3 du Code du travail](chapitre-preliminaire.md#article-l3) ; [art. L6123-1 du Code du travail](sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-l6123-1) ; [art. L326-10 du Code général de la fonction publique](../../code-general-de-la-fonction-publique/partie-legislative/livre-iii/titre-ii/chapitre-vi.md#article-l326-10)
 
 Le Gouvernement soumet les projets de textes législatifs et réglementaires élaborés dans le champ défini par l'article L. 1, au vu des résultats de la procédure de concertation et de négociation, à la Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle dans les conditions prévues à l'article L. 2271-1.
 

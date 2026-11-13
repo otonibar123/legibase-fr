@@ -1,0 +1,42 @@
+# Annexes
+
+Code des transports › PARTIE RÉGLEMENTAIRE - Arrêtés › TROISIÈME PARTIE : TRANSPORT ROUTIER › LIVRE II : LE TRANSPORT ROUTIER DE MARCHANDISES › TITRE Ier : LA PROFESSION
+
+### Article Annexe à l'article A. 3211-40 du code des transports
+- Identifiant : LEGIARTI000050114391
+- État : en vigueur depuis le 19/08/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050114391
+- Renvoie à : [art. A3211-40 du Code des transports](chapitre-ier.md#article-a3211-40)
+- Cité par : [art. A3211-40 du Code des transports](chapitre-ier.md#article-a3211-40)
+
+ANNEXE À L'ARTICLE A. 3211-40 DU CODE DES TRANSPORTS-MODÈLE D'ATTESTATION DE CAPACITÉ PROFESSIONNELLE EN TRANSPORT ROUTIER LÉGER MARCHANDISES  
+
+Ministère chargé des transports
+
+Attestation de capacité professionnelle en transport routier léger de marchandises
+
+N°..............................
+
+Nous (autorité ou instance préalablement désignée à cet effet pour délivrer la présente attestation)
+
+Certifions que (nom et prénom)
+
+Né (e) le à
+
+□ A suivi la formation préalable à l'examen et a satisfait aux épreuves de ce dernier conformément au 2e alinéa de l'article R. 3211-40 alinéa 2 du code des transports (1) (2) ;
+
+□ Dispose du diplôme requis pour l'obtention de l'attestation de capacité professionnelle en transport routier de marchandises conformément à l'article R. 3211-40 alinéa 3 du code des transports (1) (2) ;
+
+□ A justifié de l'expérience professionnelle requise pour l'obtention de l'attestation de capacité professionnelle en transport routier léger de marchandises conformément à l'article R. 3211-40 alinéa 4 du code des transports (1).
+
+La présente attestation constitue la preuve suffisante de la capacité professionnelle.
+
+Fait à le
+
+(cachet et signature de l'autorité ou de l'instance accréditée qui délivre l'attestation).
+
+(1) Cocher la case correspondant à la modalité d'obtention de l'attestation.
+
+(2) Possibilité ouverte à partir du 1er juillet 2012.
+
+> Nota : Par décision n° 502496 du 28 octobre 2025 du Conseil d'Etat statuant au contentieux, FR:CECHR:2025:502496.20251028, l’arrêté du 2 août 2024 relatif aux modalités de l’obtention des attestations de capacité professionnelle en transport routier léger est annulé en tant qu’il n’a pas différé de deux mois son entrée en vigueur.

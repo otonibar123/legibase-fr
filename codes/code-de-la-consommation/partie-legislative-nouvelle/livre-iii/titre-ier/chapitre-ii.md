@@ -8,7 +8,7 @@ Code de la consommation › Partie législative nouvelle › Livre III : CRÉDIT
 - Identifiant : LEGIARTI000032226208
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226208
-- Cité par : [art. L314-25 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990028) ; [art. L351-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190742) ; [art. L341-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260606)
+- Cité par : [art. L341-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-ier.md#article-l341-2) ; [art. R313-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-r313-1) ; [art. L314-25 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990028) ; [art. L351-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190742)
 
 Pour l'application des dispositions du présent chapitre, la location-vente et la location avec option d'achat sont assimilées à des opérations de crédit.
 
@@ -16,8 +16,8 @@ Pour l'application des dispositions du présent chapitre, la location-vente et l
 - Identifiant : LEGIARTI000032226205
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226205
-- Renvoie à : [art. L312-8 du Code de la consommation](chapitre-ii.md#article-l312-8) ; [art. L312-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032221983) ; art. L514-1 du Code monétaire et financier
-- Cité par : [art. D514-8-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036737932)
+- Renvoie à : [art. L312-8 du Code de la consommation](chapitre-ii.md#article-l312-8) ; [art. L514-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-iv.md#article-l514-1) ; [art. L312-5 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032221983)
+- Cité par : [art. D514-8-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-iv.md#article-d514-8-1)
 
 Les opérations de prêts sur gage corporel souscrits auprès des caisses de crédit municipal en application de l'article L. 514-1 du code monétaire et financier sont soumises aux dispositions des articles L. 312-5, L. 312-6 et L. 312-8 à L. 312-11.  
 Le contenu des informations que les caisses mentionnées au premier alinéa doivent mettre à la disposition de leur clientèle préalablement à l'octroi de ce prêt, les conditions dans lesquelles ces informations sont portées à la connaissance du public ainsi que les mentions obligatoires devant figurer dans les contrats de crédit sont fixés par décret.
@@ -185,7 +185,7 @@ Lorsque la souscription d'une assurance a été exigée par le prêteur et que l
 - Identifiant : LEGIARTI000035731409
 - État : en vigueur depuis le 01/04/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731409
-- Renvoie à : [art. L312-39 du Code de la consommation](chapitre-ii.md#article-l312-39) ; art. L141-3 du Code des assurances
+- Renvoie à : [art. L312-39 du Code de la consommation](chapitre-ii.md#article-l312-39) ; [art. L141-3 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l141-3)
 - Cité par : [art. L351-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190742)
 
 Dès le premier manquement de l'emprunteur à son obligation de rembourser, le prêteur informe celui-ci, sur support papier ou tout autre support durable des risques qu'il encourt au titre des articles L. 312-39 et L. 312-40 ainsi que, le cas échéant, au titre de l'article L. 141-3 du code des assurances.  

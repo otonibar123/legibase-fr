@@ -6,7 +6,7 @@ Code de procédure civile › Livre II : Dispositions particulières à chaque j
 - Identifiant : LEGIARTI000042597282
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597282
-- Renvoie à : art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
 
 Lorsqu'il est prévu par la loi ou le règlement qu'il est statué selon la procédure accélérée au fond, le président du tribunal judiciaire connaît de l'affaire dans les conditions de l'article 481-1.
 

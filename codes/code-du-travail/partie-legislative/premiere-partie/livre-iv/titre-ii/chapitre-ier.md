@@ -6,7 +6,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000032344941
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032344941
-- Cité par : [art. D311-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011)
+- Cité par : [art. D311-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1)
 
 Le conseil de prud'hommes est une juridiction paritaire.
 
@@ -27,7 +27,7 @@ Leur est interdite toute action concertée de nature à arrêter ou à entraver 
 - Identifiant : LEGIARTI000048434450
 - État : en vigueur depuis le 22/11/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048434450
-- Renvoie à : [art. 131-26 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417290) ; [art. 131-26-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028058695) ; [art. 131-27 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417291)
+- Renvoie à : [art. 131-26 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26) ; [art. 131-26-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-26-1) ; [art. 131-27 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27)
 - Cité par : [art. R1421-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-ier.md#article-r1421-1) ; [art. R1421-4 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-ier.md#article-r1421-4) ; [art. R1423-55 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iii.md#article-r1423-55) ; [Décret n°2025-1088 du 17 novembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052598616)
 
 I.-Dans un délai de six mois à compter de leur installation, les conseillers prud'hommes remettent une déclaration exhaustive, exacte et sincère de leurs intérêts :  

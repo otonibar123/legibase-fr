@@ -548,7 +548,7 @@ Pour l'application à Mayotte de l'article R. 5141-7, au 5°, les mots : "aux 4�
 - Identifiant : LEGIARTI000037561558
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037561558
-- Renvoie à : [art. R5142-3 du Code du travail](../../livre-ier/titre-iv/chapitre-ii.md#article-r5142-3) ; art. L242-1 du Code de la sécurité sociale
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. R5142-3 du Code du travail](../../livre-ier/titre-iv/chapitre-ii.md#article-r5142-3)
 
 Pour l'application à Mayotte de l'article R. 5142-3, les mots : "au sens de l'article L. 242-1 du code de la sécurité sociale" sont remplacés par les mots : "au sens de l'article 28-1 de l'ordonnance n° 96-1122 du 20 décembre 1996 relative à l'amélioration de la santé publique, à l'assurance maladie, maternité, invalidité et décès, au financement de la sécurité sociale à Mayotte et à la caisse de sécurité sociale de Mayotte".
 
@@ -586,7 +586,7 @@ Si le salarié perçoit une rémunération déterminée en pourcentage du salair
 - Identifiant : LEGIARTI000037561607
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037561607
-- Renvoie à : [art. R5123-17 du Code du travail](../../livre-ier/titre-ii/chapitre-iii.md#article-r5123-17) ; art. L351-8 du Code de la sécurité sociale
+- Renvoie à : [art. L351-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-8) ; [art. R5123-17 du Code du travail](../../livre-ier/titre-ii/chapitre-iii.md#article-r5123-17)
 
 Pour l'application à Mayotte de l'article R. 5123-17, les mots : "au 1° de l'article L. 351-8 du code de la sécurité sociale" sont remplacés par les mots : "au deuxième alinéa de l'article 6 de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte".
 
@@ -594,7 +594,7 @@ Pour l'application à Mayotte de l'article R. 5123-17, les mots : "au 1° de l'a
 - Identifiant : LEGIARTI000037561609
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037561609
-- Renvoie à : [art. R5123-29 du Code du travail](../../livre-ier/titre-ii/chapitre-iii.md#article-r5123-29) ; art. R351-27 du Code de la sécurité sociale
+- Renvoie à : [art. R351-27 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v/chapitre-1er.md#article-r351-27) ; [art. R5123-29 du Code du travail](../../livre-ier/titre-ii/chapitre-iii.md#article-r5123-29)
 
 Pour l'application à Mayotte de l'article R. 5123-29 :
 

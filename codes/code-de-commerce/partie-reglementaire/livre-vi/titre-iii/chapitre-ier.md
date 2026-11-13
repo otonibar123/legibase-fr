@@ -10,7 +10,7 @@ Code de commerce › Partie réglementaire › LIVRE VI : Des difficultés des e
 - Identifiant : LEGIARTI000045921292
 - État : en vigueur depuis le 17/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045921292
-- Renvoie à : [art. D123-200 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-d123-200) ; [art. R621-8 du Code de commerce](../titre-ii/chapitre-ier.md#article-r621-8) ; art. R130-1 du Code de la sécurité sociale
+- Renvoie à : [art. D123-200 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-d123-200) ; [art. R621-8 du Code de commerce](../titre-ii/chapitre-ier.md#article-r621-8) ; [art. R130-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-preliminaire.md#article-r130-1)
 - Cité par : [art. R640-1 du Code de commerce](../titre-iv/chapitre-preliminaire.md#article-r640-1) ; [art. R640-1-1 du Code de commerce](../titre-iv/chapitre-preliminaire.md#article-r640-1-1) ; [art. R645-9 du Code de commerce](../titre-iv/chapitre-v.md#article-r645-9) ; [art. R690-1 du Code de commerce](../titre-ix/articles-directs.md#article-r690-1) ; [art. R692-1 du Code de commerce](../titre-ix/chapitre-ii.md#article-r692-1)
 
 La demande d'ouverture de la procédure de redressement judiciaire est déposée par le représentant légal de la personne morale ou par le débiteur personne physique au greffe du tribunal compétent.
@@ -53,7 +53,7 @@ Dans le cas où l'un ou l'autre de ces documents ne peut être fourni ou ne peut
 - Identifiant : LEGIARTI000039345917
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345917
-- Renvoie à : art. L351-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L351-2 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-v/chapitre-ier.md#article-l351-2)
 
 L'assignation d'un créancier précise la nature et le montant de la créance et contient tout élément de preuve de nature à caractériser la cessation des paiements du débiteur. Lorsqu'il s'agit d'une exploitation agricole, le créancier joint à sa demande une attestation, délivrée par le greffier, de la saisine du président du tribunal judiciaire en application de l'article L. 351-2 du code rural et de la pêche maritime.
 
@@ -106,7 +106,7 @@ La cour d'appel qui annule ou infirme un jugement statuant sur l'ouverture de la
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006269615
 - Renvoie à : [art. R621-2 du Code de commerce](../titre-ii/chapitre-ier.md#article-r621-2) ; [art. R621-7 du Code de commerce](../titre-ii/chapitre-ier.md#article-r621-7) ; [art. R621-14 du Code de commerce](../titre-ii/chapitre-ier.md#article-r621-14)
-- Cité par : [art. 74-0 G du CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018621199)
+- Cité par : [art. 74-0 G du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-74-0-g)
 
 Les articles R. 621-2 à R. 621-4, R. 621-7 à R. 621-9 et R. 621-14 à R. 621-16 sont applicables à la procédure de redressement judiciaire sous réserve des dispositions de la présente section.
 

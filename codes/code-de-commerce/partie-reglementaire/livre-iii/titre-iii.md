@@ -6,7 +6,7 @@ Code de commerce › Partie réglementaire › LIVRE III : De certaines formes d
 - Identifiant : LEGIARTI000048909604
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048909604
-- Renvoie à : [art. L232-7 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-7) ; [art. L330-3 du Code de commerce](../../partie-legislative/livre-iii/titre-iii.md#article-l330-3) ; [art. R123-237 du Code de commerce](../livre-ier/titre-ii/chapitre-iii.md#article-r123-237) ; art. L451-1-2 du Code monétaire et financier
+- Renvoie à : [art. L232-7 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-7) ; [art. L330-3 du Code de commerce](../../partie-legislative/livre-iii/titre-iii.md#article-l330-3) ; [art. R123-237 du Code de commerce](../livre-ier/titre-ii/chapitre-iii.md#article-r123-237) ; [art. L451-1-2 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 - Cité par : [art. R913-1 du Code de commerce](../livre-ix/titre-ier/chapitre-iii.md#article-r913-1) ; [art. R923-1 du Code de commerce](../livre-ix/titre-ii/chapitre-iii.md#article-r923-1) ; [art. R933-1 du Code de commerce](../livre-ix/titre-iii/chapitre-iii.md#article-r933-1) ; [art. R953-1 du Code de commerce](../livre-ix/titre-v/chapitre-iii.md#article-r953-1)
 
 Le document prévu au premier alinéa de l'article L. 330-3 contient les informations suivantes :
@@ -43,7 +43,7 @@ Le document précise, en outre, la nature et le montant des dépenses et investi
 - Identifiant : LEGIARTI000006266481
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006266481
-- Renvoie à : [art. L330-3 du Code de commerce](../../partie-legislative/livre-iii/titre-iii.md#article-l330-3) ; [art. 131-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417256)
+- Renvoie à : [art. L330-3 du Code de commerce](../../partie-legislative/livre-iii/titre-iii.md#article-l330-3) ; [art. 131-13 du Code pénal](../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Est puni des peines d'amende prévues par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe le fait de mettre à la disposition d'une personne un nom commercial, une marque ou une enseigne en exigeant d'elle un engagement d'exclusivité ou de quasi-exclusivité pour l'exercice de son activité sans lui avoir communiqué, vingt jours au moins avant la signature du contrat, le document d'information et le projet de contrat mentionnés à l'article L. 330-3.  
 

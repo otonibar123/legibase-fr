@@ -9,7 +9,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 29/12/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026886629
 - Renvoie à : [Code du travail, Chapitre Ier : Dispositions générales](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490784)
-- Cité par : [art. D412-79 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795072)
+- Cité par : [art. D412-79 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-i/chapitre-2.md#article-d412-79)
 
 Les dispositions des chapitres Ier à V s'appliquent aux établissements de santé, sociaux et médico-sociaux mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions particulières relatives à la fonction publique hospitalière, sous réserve des dispositions du présent chapitre.
 
@@ -22,7 +22,7 @@ Les dispositions des chapitres Ier à V s'appliquent aux établissements de sant
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676882
 - Renvoie à : [art. D4622-22 du Code du travail](chapitre-ii.md#article-d4622-22)
-- Cité par : [art. D4626-3 du Code du travail](chapitre-vi.md#article-d4626-3) ; [art. D461-36 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038423426)
+- Cité par : [art. D461-36 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-vi.md#article-d461-36) ; [art. D4626-3 du Code du travail](chapitre-vi.md#article-d4626-3)
 
 Le service de prévention et de santé au travail est organisé sous la forme :
 
@@ -138,7 +138,7 @@ Le médecin du travail est lié par un contrat conclu avec l'établissement char
 - Identifiant : LEGIARTI000036483901
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483901
-- Renvoie à : art. L6152-1 du Code de la santé publique
+- Renvoie à : [art. L952-21 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/quatrieme-partie/livre-ix/titre-v/chapitre-ii.md#article-l952-21) ; [art. L6152-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-ier/titre-v/chapitre-ii.md#article-l6152-1)
 - Cité par : [art. R4626-13 du Code du travail](chapitre-vi.md#article-r4626-13) ; [art. R4626-13-1 du Code du travail](chapitre-vi.md#article-r4626-13-1) ; [Arrêté du 10 avril 1991, art. Annexe art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029412909)
 
 L'établissement informe le comité technique d'établissement, le comité social et économique et le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de la nomination ou du recrutement du médecin du travail.
@@ -149,7 +149,7 @@ Sans préjudice des dispositions réglementaires applicables en matière discipl
 - Identifiant : LEGIARTI000045676873
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676873
-- Renvoie à : [art. L4622-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-4) ; [art. R4626-9 du Code du travail](chapitre-vi.md#article-r4626-9) ; [art. R4626-11 du Code du travail](chapitre-vi.md#article-r4626-11) ; [art. R4626-12 du Code du travail](chapitre-vi.md#article-r4626-12) ; art. R4127-99 du Code de la santé publique
+- Renvoie à : [art. R4127-99 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-99) ; [art. L4622-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-4) ; [art. R4626-9 du Code du travail](chapitre-vi.md#article-r4626-9) ; [art. R4626-11 du Code du travail](chapitre-vi.md#article-r4626-11) ; [art. R4626-12 du Code du travail](chapitre-vi.md#article-r4626-12)
 - Cité par : [art. R4626-13-1 du Code du travail](chapitre-vi.md#article-r4626-13-1) ; [Décret n°2021-56 du 22 janvier 2021, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044127928)
 
 Le médecin du travail assure personnellement l'ensemble de ses fonctions. Dans les établissements dont il a la charge, ces fonctions sont exclusives de toute autre fonction susceptible de remettre en cause l'indépendance du médecin du travail prévue à l'article L. 4622-4 ou qui déroge à l'article R. 4127-99 du code de la santé publique.
@@ -261,7 +261,7 @@ Le médecin du travail assiste, à titre consultatif, aux réunions du comité t
 - Identifiant : LEGIARTI000018528004
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018528004
-- Cité par : [art. R6152-910 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043316403) ; [art. R6153-1-3 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037156271) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479) ; [Décret n°2022-418 du 24 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045408147)
+- Cité par : [art. R6152-910 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/sixieme-partie/livre-ier/titre-v/chapitre-ii.md#article-r6152-910) ; [art. R6153-1-3 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/sixieme-partie/livre-ier/titre-v/chapitre-iii.md#article-r6153-1-3) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479) ; [Décret n°2022-418 du 24 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045408147)
 
 L'agent fait l'objet, avant sa prise de fonction, d'un examen médical par le médecin du travail. Celui-ci est informé du poste auquel cet agent est affecté.
 
@@ -400,7 +400,7 @@ Ce rapport annuel est présenté en même temps que celui mentionné à l'articl
 - Identifiant : LEGIARTI000046563751
 - État : en vigueur depuis le 17/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046563751
-- Renvoie à : [art. L4624-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; [art. R4624-45-7 du Code du travail](chapitre-iv.md#article-r4624-45-7) ; [Code général de la fonction publique, Livre VIII : PRÉVENTION ET PROTECTION EN MATIÈR](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000044423931)
+- Renvoie à : [art. L1110-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-preliminaire.md#article-l1110-4) ; [art. L4624-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; [art. R4624-45-7 du Code du travail](chapitre-iv.md#article-r4624-45-7) ; [Code général de la fonction publique, Livre VIII : PRÉVENTION ET PROTECTION EN MATIÈR](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000044423931)
 
 Un dossier médical en santé au travail est constitué par le médecin du travail dans les conditions prévues à l'article L. 4624-8 du code du travail.
 

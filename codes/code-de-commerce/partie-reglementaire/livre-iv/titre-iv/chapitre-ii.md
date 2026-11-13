@@ -39,7 +39,7 @@ La cour d'appel compétente pour connaître des décisions rendues par ces jurid
 - Identifiant : LEGIARTI000043197513
 - État : en vigueur depuis le 27/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043197513
-- Renvoie à : [art. L442-10 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-10) ; [art. L442-11 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-11) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L442-10 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-10) ; [art. L442-11 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-11) ; [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Les infractions aux dispositions des articles L. 442-10 et L. 442-11 sont punies de l'amende prévue pour les contraventions de la cinquième classe.
 

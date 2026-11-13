@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE Ier : Du commerce en généra
 - Identifiant : LEGIARTI000006220288
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006220288
-- Cité par : [art. L133-9 du Code de commerce](chapitre-iii.md#article-l133-9) ; [art. L1432-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023085436) ; [art. L3441-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023083595)
+- Cité par : [art. L133-9 du Code de commerce](chapitre-iii.md#article-l133-9) ; [art. L1432-1 du Code des transports](../../../../code-des-transports/partie-legislative/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-l1432-1) ; [art. L3441-5 du Code des transports](../../../../code-des-transports/partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-unique.md#article-l3441-5)
 
 Le voiturier est garant de la perte des objets à transporter, hors les cas de la force majeure.  
 
@@ -26,7 +26,7 @@ Si, par l'effet de la force majeure, le transport n'est pas effectué dans le d�
 - État : en vigueur depuis le 10/12/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021486442
 - Renvoie à : [art. L133-4 du Code de commerce](chapitre-iii.md#article-l133-4)
-- Cité par : [art. L224-63 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-63) ; [art. L224-65 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-65) ; [art. Annexe VI du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043198121) ; [art. Annexe VII du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043198104)
+- Cité par : [art. L224-63 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-63) ; [art. L224-65 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-65) ; [art. Annexe IV du Code des transports](../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-ier/annexes-du-livre-ier.md#article-annexe-iv) ; [art. Annexe VI du Code des transports](../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-ier/annexes-du-livre-ier.md#article-annexe-vi) ; [art. Annexe VII du Code des transports](../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-ier/annexes-du-livre-ier.md#article-annexe-vii)
 
 La réception des objets transportés éteint toute action contre le voiturier pour avarie ou perte partielle si dans les trois jours, non compris les jours fériés, qui suivent celui de cette réception, le destinataire n'a pas notifié au voiturier, par acte extrajudiciaire ou par lettre recommandée, sa protestation motivée.  
 
@@ -62,7 +62,7 @@ Sans préjudice des dispositions prévues par le code des transports, les dispos
 - État : en vigueur depuis le 22/12/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017853204
 - Renvoie à : [art. 1269 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-ii/chapitre-ii.md#article-1269)
-- Cité par : [art. L931-4 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-4) ; [art. L941-4 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-4) ; [art. L951-3 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-3) ; [art. Annexe VII du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043198104)
+- Cité par : [art. L931-4 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-4) ; [art. L941-4 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-4) ; [art. L951-3 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-3) ; [art. Annexe IV du Code des transports](../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-ier/annexes-du-livre-ier.md#article-annexe-iv) ; [art. Annexe VII du Code des transports](../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-ier/annexes-du-livre-ier.md#article-annexe-vii)
 
 Les actions pour avaries, pertes ou retards, auxquelles peut donner lieu contre le voiturier le contrat de transport, sont prescrites dans le délai d'un an, sans préjudice des cas de fraude ou d'infidélité.  
 

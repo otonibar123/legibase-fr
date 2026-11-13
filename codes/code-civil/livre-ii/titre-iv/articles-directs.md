@@ -20,6 +20,6 @@ La servitude n'établit aucune prééminence d'un héritage sur l'autre.
 - Identifiant : LEGIARTI000006429830
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429830
-- Cité par : [art. L2111-21 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038582715) ; [art. L2122-4 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361203)
+- Cité par : [art. L2111-21 du Code des transports](../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l2111-21) ; [art. L2122-4 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l2122-4)
 
 Elle dérive ou de la situation naturelle des lieux, ou des obligations imposées par la loi, ou des conventions entre les propriétaires.

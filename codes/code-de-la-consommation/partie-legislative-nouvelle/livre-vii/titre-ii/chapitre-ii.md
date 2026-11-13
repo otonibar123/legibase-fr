@@ -8,7 +8,7 @@ Code de la consommation › Partie législative nouvelle › Livre VII : TRAITEM
 - Identifiant : LEGIARTI000032224538
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224538
-- Cité par : [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. R312-4-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042136154)
+- Cité par : [art. L353-15-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-v/chapitre-iii.md#article-l353-15-2) ; [art. L442-6-5 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-6-5) ; [art. R312-4-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-r312-4-3) ; [art. R752-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vii/titre-v/chapitre-ii.md#article-r752-1) ; [art. R753-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vii/titre-v/chapitre-iii.md#article-r753-1) ; [art. R754-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vii/titre-v/chapitre-iv.md#article-r754-1) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234)
 
 La commission examine la situation du débiteur et se prononce sur la recevabilité de sa demande.
 
@@ -40,7 +40,7 @@ Cette suspension et cette interdiction ne peuvent excéder deux ans.
 - Identifiant : LEGIARTI000032224528
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224528
-- Cité par : [art. L761-2 du Code de la consommation](../titre-vi/chapitre-ier.md#article-l761-2) ; [art. R721-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ier.md#article-r721-7) ; [art. R722-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ii.md#article-r722-7) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. R771-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-vii/chapitre-unique.md#article-r771-2) ; [art. R322-28 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747503)
+- Cité par : [art. L761-2 du Code de la consommation](../titre-vi/chapitre-ier.md#article-l761-2) ; [art. R721-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ier.md#article-r721-7) ; [art. R722-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ii.md#article-r722-7) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. R771-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-vii/chapitre-unique.md#article-r771-2) ; [art. R322-28 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-28)
 
 En cas de saisie immobilière, lorsque la vente forcée a été ordonnée, le report de la date d'adjudication ne peut résulter que d'une décision du juge chargé de la saisie immobilière, saisi à cette fin par la commission, pour causes graves et dûment justifiées.
 
@@ -90,8 +90,8 @@ Cette suspension est acquise, pour une période maximale de deux ans et, selon l
 - Identifiant : LEGIARTI000038833747
 - État : en vigueur depuis le 01/09/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038833747
-- Renvoie à : [art. L832-4 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038814576) ; [art. L842-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038814596)
-- Cité par : [art. R722-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ii.md#article-r722-1) ; [art. L824-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038814896)
+- Renvoie à : [art. L824-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-iv.md#article-l824-3) ; [art. L832-4 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-iii/chapitre-ii.md#article-l832-4) ; [art. L842-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-iv/chapitre-ii.md#article-l842-2)
+- Cité par : [art. R722-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ii.md#article-r722-1) ; [art. L824-3 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-iv.md#article-l824-3)
 
 La recevabilité de la demande emporte rétablissement des droits à l'aide personnalisée au logement et aux allocations de logement. Le déblocage des aides personnelles au logement s'effectue dans les conditions prévues aux articles L. 824-3, L. 832-4 et L. 842-2 du code de la construction et de l'habitation.
 
@@ -115,7 +115,7 @@ En cas de rejet d'un avis de prélèvement postérieur à la notification de la 
 - Identifiant : LEGIARTI000032224506
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224506
-- Renvoie à : [art. L722-2 du Code de la consommation](chapitre-ii.md#article-l722-2) ; art. L113-3 du Code des assurances
+- Renvoie à : [art. L722-2 du Code de la consommation](chapitre-ii.md#article-l722-2) ; [art. L113-3 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-3)
 - Cité par : [art. L761-2 du Code de la consommation](../titre-vi/chapitre-ier.md#article-l761-2)
 
 A compter de la décision de recevabilité de la demande, le délai de trente jours mentionné au deuxième alinéa de l'article L. 113-3 du code des assurances, lorsqu'il est applicable, est porté à cent vingt jours pour les assurances ayant pour objet la garantie de remboursement d'un emprunt relevant du chapitre II du titre Ier du livre III et figurant dans l'état du passif définitivement arrêté par la commission ou le juge. Le contrat d'assurance correspondant ne peut pas être résilié pendant la période de suspension et d'interdiction des procédures d'exécution et des cessions de rémunération définie à l'article L. 722-2.
@@ -138,7 +138,7 @@ Les créances figurant dans l'état d'endettement du débiteur dressé par la co
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224502
 - Renvoie à : [art. L722-2 du Code de la consommation](chapitre-ii.md#article-l722-2) ; [art. L722-3 du Code de la consommation](chapitre-ii.md#article-l722-3)
-- Cité par : [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. L353-15-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038833832) ; [art. L442-6-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038833796)
+- Cité par : [art. L353-15-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-v/chapitre-iii.md#article-l353-15-2) ; [art. L442-6-5 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-6-5) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234)
 
 Les créanciers informent les personnes qu'ils ont chargées d'actions de recouvrement de la recevabilité de la demande et de ses conséquences prévues aux articles L. 722-2 et L. 722-3.
 
@@ -146,7 +146,7 @@ Les créanciers informent les personnes qu'ils ont chargées d'actions de recouv
 - Identifiant : LEGIARTI000037670142
 - État : en vigueur depuis le 01/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037670142
-- Renvoie à : [art. L724-1 du Code de la consommation](chapitre-iv.md#article-l724-1) ; [art. L732-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l732-1) ; [art. L733-1 du Code de la consommation](../titre-iii/chapitre-iii.md#article-l733-1) ; [art. L733-4 du Code de la consommation](../titre-iii/chapitre-iii.md#article-l733-4) ; [art. L733-7 du Code de la consommation](../titre-iii/chapitre-iii.md#article-l733-7) ; [art. L442-6-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037670197)
+- Renvoie à : [art. L724-1 du Code de la consommation](chapitre-iv.md#article-l724-1) ; [art. L732-1 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l732-1) ; [art. L733-1 du Code de la consommation](../titre-iii/chapitre-iii.md#article-l733-1) ; [art. L733-4 du Code de la consommation](../titre-iii/chapitre-iii.md#article-l733-4) ; [art. L733-7 du Code de la consommation](../titre-iii/chapitre-iii.md#article-l733-7) ; [art. L353-15-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-v/chapitre-iii.md#article-l353-15-2) ; [art. L442-6-5 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-6-5)
 - Cité par : [art. L761-2 du Code de la consommation](../titre-vi/chapitre-ier.md#article-l761-2)
 
 Lorsqu'un protocole de cohésion sociale prévu aux articles L. 353-15-2 et L. 442-6-5 du code de la construction et de l'habitation a été conclu avec le bailleur antérieurement à la décision de recevabilité, le paiement des arriérés de loyer prévu par ledit protocole est suspendu jusqu'à la mise en œuvre des mesures prévues aux 1° et 2° de l'article L. 724-1 ou aux articles L. 732-1, L. 733-1, L. 733-4 et L. 733-7.

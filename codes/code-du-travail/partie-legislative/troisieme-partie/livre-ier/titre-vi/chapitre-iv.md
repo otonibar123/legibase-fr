@@ -9,7 +9,7 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902793
 - Renvoie à : [art. L3163-2 du Code du travail](chapitre-iii.md#article-l3163-2)
-- Cité par : [art. R3165-7 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-v.md#article-r3165-7) ; [art. L5544-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035627501) ; [art. L715-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025973511)
+- Cité par : [art. L5544-1 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-iv.md#article-l5544-1) ; [art. R3165-7 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-v.md#article-r3165-7) ; [art. L715-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-v.md#article-l715-1)
 
 La durée minimale du repos quotidien des jeunes travailleurs ne peut être inférieure à douze heures consécutives. Cette durée minimale est portée à quatorze heures consécutives s'ils ont moins de seize ans.  
 
@@ -57,7 +57,7 @@ Ce décret est pris dans les formes prévues à l'article L. 3121-67 pour les d�
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902797
 - Renvoie à : [art. L3132-3 du Code du travail](../titre-iii/chapitre-ii.md#article-l3132-3)
-- Cité par : [art. R3164-1 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-r3164-1) ; [art. R3165-3 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-v.md#article-r3165-3) ; [art. R4511-14-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030917933)
+- Cité par : [art. R4511-14-1 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-v/titre-ier/chapitre-ier.md#article-r4511-14-1) ; [art. R3164-1 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-r3164-1) ; [art. R3165-3 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-v.md#article-r3165-3)
 
 L'interdiction de travail le dimanche prévue à l'article L. 3132-3 n'est pas applicable aux apprentis âgés de moins de dix-huit ans employés dans les secteurs pour lesquels les caractéristiques particulières de l'activité le justifient et dont la liste est déterminée par décret en Conseil d'Etat.
 
@@ -85,7 +85,7 @@ Dans les établissement industriels fonctionnant en continu, les jeunes travaill
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902802
 - Renvoie à : [art. L3132-2 du Code du travail](../titre-iii/chapitre-ii.md#article-l3132-2) ; [art. L3164-2 du Code du travail](chapitre-iv.md#article-l3164-2) ; [art. L3164-6 du Code du travail](chapitre-iv.md#article-l3164-6)
-- Cité par : [art. R3164-2 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-r3164-2) ; [art. R3165-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-v.md#article-r3165-6) ; [art. R4511-14-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030917948)
+- Cité par : [art. R4511-14-2 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-v/titre-ier/chapitre-ier.md#article-r4511-14-2) ; [art. R3164-2 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-r3164-2) ; [art. R3165-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-ier/titre-vi/chapitre-v.md#article-r3165-6)
 
 Dans les secteurs pour lesquels les caractéristiques particulières de l'activité le justifient et dont la liste est fixée par décret en Conseil d'Etat, une convention ou un accord collectif de travail étendu ou une convention ou un accord d'entreprise ou d'établissement peut définir les conditions dans lesquelles il peut être dérogé aux dispositions de l'article L. 3164-6, sous réserve que les jeunes travailleurs intéressés par ces dérogations bénéficient des dispositions relatives au repos hebdomadaire fixées aux articles L. 3132-2 et L. 3164-2.
 

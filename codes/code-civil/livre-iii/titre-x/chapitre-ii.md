@@ -8,7 +8,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006444847
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006444847
-- Cité par : [art. L211-22 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020096204)
+- Cité par : [art. L211-22 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-22)
 
 Le prêt de consommation est un contrat par lequel l'une des parties livre à l'autre une certaine quantité de choses qui se consomment par l'usage, à la charge par cette dernière de lui en rendre autant de même espèce et qualité.
 

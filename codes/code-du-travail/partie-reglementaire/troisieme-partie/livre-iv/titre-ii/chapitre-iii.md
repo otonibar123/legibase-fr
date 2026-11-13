@@ -114,7 +114,7 @@ Pour l'application à Mayotte de l'article R. 3243-2, la première phrase du deu
 - Identifiant : LEGIARTI000020398200
 - État : en vigueur depuis le 16/03/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020398200
-- Renvoie à : [art. L3423-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l3423-1) ; [art. L3423-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l3423-5)
+- Renvoie à : [art. L3423-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l3423-1) ; [art. L3423-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l3423-5) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11)
 
 Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait de payer :
 
@@ -132,7 +132,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000044338426
 - État : en vigueur depuis le 19/11/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044338426
-- Renvoie à : [art. L3261-3-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l3261-3-1) ; [art. R3261-13-1 du Code du travail](../../livre-ii/titre-vi/chapitre-ier.md#article-r3261-13-1) ; art. L224-7 du Code de l'environnement
+- Renvoie à : [art. L224-7 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-7) ; [art. L3261-3-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l3261-3-1) ; [art. R3261-13-1 du Code du travail](../../livre-ii/titre-vi/chapitre-ier.md#article-r3261-13-1)
 
 Pour son application à Saint-Barthélemy et à Saint-Martin, l'article R. 3261-13-1 est ainsi rédigé :  
 

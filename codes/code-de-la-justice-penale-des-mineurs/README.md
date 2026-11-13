@@ -1,0 +1,153 @@
+# Code de la justice pénale des mineurs
+
+Dernière modification du texte dans LEGI : 03/10/2026. 471 articles en vigueur, répartis dans 89 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - [Partie législative : articles rattachés directement](partie-legislative/articles-directs.md) (1 article)
+  - **TITRE PRÉLIMINAIRE : DES PRINCIPES GÉNÉRAUX DE LA JUSTICE PÉNALE DES MINEURS**
+    - [Chapitre Ier : Des principes généraux du droit pénal applicable aux mineurs](partie-legislative/titre-preliminaire/chapitre-ier.md) (5 articles)
+    - [Chapitre II : Des principes généraux de la procédure pénale applicable aux mineurs](partie-legislative/titre-preliminaire/chapitre-ii.md) (5 articles)
+    - [Chapitre III : Dispositions communes](partie-legislative/titre-preliminaire/chapitre-iii.md) (2 articles)
+  - **LIVRE Ier : DES MESURES ÉDUCATIVES ET DES PEINES**
+    - **TITRE Ier : DES MESURES ÉDUCATIVES**
+      - [Chapitre Ier : Dispositions communes](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : De la mesure éducative judiciaire](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Du régime du placement](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (7 articles)
+    - **TITRE II : DES PEINES**
+      - [Chapitre Ier : Des peines encourues](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Du contenu et des modalités d'application de certaines peines](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Du prononcé des peines](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Du régime d'incarcération](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (2 articles)
+  - **LIVRE II : DE LA SPÉCIALISATION DES ACTEURS**
+    - **TITRE Ier : DU MINISTÈRE PUBLIC**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-ier/chapitre-unique.md) (2 articles)
+    - **TITRE II : DU JUGE D'INSTRUCTION**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-ii/chapitre-unique.md) (1 article)
+    - **TITRE III : DES JURIDICTIONS DE JUGEMENT**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-iii/chapitre-unique.md) (8 articles)
+    - **TITRE IV : DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (2 articles)
+  - **LIVRE III : DISPOSITIONS COMMUNES AUX DIFFÉRENTES PHASES DE LA PROCÉDURE PÉNALE**
+    - **TITRE Ier : DU DROIT DU MINEUR À L'ACCOMPAGNEMENT ET À L'INFORMATION**
+      - [Chapitre unique](partie-legislative/livre-iii/titre-ier/chapitre-unique.md) (3 articles)
+    - **TITRE II : DES INVESTIGATIONS ET DE LA MESURE ÉDUCATIVE JUDICIAIRE PROVISOIRE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Des informations relatives à la personnalité du mineur](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : De la mesure éducative judiciaire provisoire](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (3 articles)
+    - **TITRE III : DES MESURES DE SÛRETÉ**
+      - [Chapitre Ier : Du contrôle judiciaire](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre III : De l'assignation à résidence avec surveillance électronique](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : De la détention provisoire](partie-legislative/livre-iii/titre-iii/chapitre-iv.md) (2 articles)
+  - **LIVRE IV : DE LA PROCÉDURE PRÉALABLE AU JUGEMENT**
+    - **TITRE Ier : DE L'AUDITION DU MINEUR SUSPECT**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre III : De la retenue et de la garde à vue](partie-legislative/livre-iv/titre-ier/chapitre-iii.md) (8 articles)
+    - **TITRE II : DE L'ACTION PUBLIQUE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Des alternatives aux poursuites et de la composition pénale](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : De la mise en mouvement de l'action publique](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (6 articles)
+    - **TITRE III : DE L'INFORMATION JUDICIAIRE**
+      - [Chapitre Ier : De l'information et de la convocation des représentants légaux](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : De la mesure judiciaire d'investigation éducative et de la mesure éducative judiciaire provisoire](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Des mesures de sûreté](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Du règlement de l'information judiciaire](partie-legislative/livre-iv/titre-iii/chapitre-iv.md) (6 articles)
+  - **LIVRE V : DU JUGEMENT**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Des débats](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre III : De la publicité des audiences](partie-legislative/livre-v/titre-ier/chapitre-iii.md) (2 articles)
+    - **TITRE II : DE LA PROCÉDURE DE JUGEMENT**
+      - [Chapitre Ier : Du jugement devant le juge des enfants et le tribunal pour enfants](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Du jugement devant la cour d'assises des mineurs](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (1 article)
+    - **TITRE III : DES VOIES DE RECOURS**
+      - [Chapitre Ier : De l'appel](partie-legislative/livre-v/titre-iii/chapitre-ier.md) (3 articles)
+  - **LIVRE VI : L'APPLICATION ET L'EXÉCUTION DES MESURES ÉDUCATIVES ET DES PEINES**
+    - **TITRE Ier : DE L'APPLICATION DES MESURES ÉDUCATIVES ET DES PEINES**
+      - [Chapitre Ier : Des juridictions de l'application des mesures éducatives et des peines](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Des audiences d'application des peines](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (4 articles)
+    - **TITRE II : DE L'AMÉNAGEMENT DES PEINES**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-ii/chapitre-unique.md) (2 articles)
+    - **TITRE III : DU CASIER JUDICIAIRE ET DES AUTRES FICHIERS**
+      - [Chapitre Ier : Du casier judiciaire](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Du fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Du fichier judiciaire national automatisé des auteurs d'infractions terroristes](partie-legislative/livre-vi/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Des fichiers d'antécédents](partie-legislative/livre-vi/titre-iii/chapitre-iv.md) (1 article)
+  - **LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **TITRE Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À MAYOTTE, À LA RÉUNION, À SAINT-BARTHÉLEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre Ier : Dispositions particulières à Mayotte](partie-legislative/livre-vii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon](partie-legislative/livre-vii/titre-ier/chapitre-ii.md) (1 article)
+    - **TITRE II : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE ET À WALLIS-ET-FUTUNA**
+      - [Chapitre Ier : Dispositions applicables en Nouvelle-Calédonie](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions applicables en Polynésie française](partie-legislative/livre-vii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions applicables à Wallis-et-Futuna](partie-legislative/livre-vii/titre-ii/chapitre-iii.md) (1 article)
+- **Partie réglementaire**
+  - **Titre PRELIMINAIRE : DES PRINCIPES GÉNÉRAUX DE LA JUSTICE PÉNALE DES MINEURS**
+    - [Chapitre I : DES PRINCIPES GÉNÉRAUX DU DROIT PÉNAL APPLICABLE AUX MINEURS](partie-reglementaire/titre-preliminaire/chapitre-i.md) (1 article)
+    - [Chapitre II : DES PRINCIPES GÉNÉRAUX DE LA PROCÉDURE PÉNALE APPLICABLE AUX MINEURS](partie-reglementaire/titre-preliminaire/chapitre-ii.md) (2 articles)
+  - **Livre I : DES MESURES ÉDUCATIVES ET DES PEINES**
+    - **Titre I : DES MESURES ÉDUCATIVES**
+      - [Chapitre II : DE LA MESURE ÉDUCATIVE JUDICIAIRE](partie-reglementaire/livre-i/titre-i/chapitre-ii.md) (39 articles)
+      - [Chapitre III : DU RÉGIME DU PLACEMENT](partie-reglementaire/livre-i/titre-i/chapitre-iii.md) (9 articles)
+    - **Titre II : DES PEINES**
+      - [Chapitre II : DU CONTENU ET DES MODALITÉS D'APPLICATION DE CERTAINES PEINES](partie-reglementaire/livre-i/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : DU PRONONCÉ DES PEINES](partie-reglementaire/livre-i/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DU RÉGIME D'INCARCÉRATION](partie-reglementaire/livre-i/titre-ii/chapitre-iv.md) (53 articles)
+  - **Livre II : DE LA SPÉCIALISATION DES ACTEURS**
+    - **Titre I : DU MINISTÈRE PUBLIC**
+      - [Chapitre unique : De la désignation du magistrat du parquet spécialement chargé des mineurs](partie-reglementaire/livre-ii/titre-i/chapitre-unique.md) (1 article)
+    - **Titre II : DU JUGE D'INSTRUCTION**
+      - [Chapitre unique : De la désignation du juge d'instruction spécialement chargé des mineurs](partie-reglementaire/livre-ii/titre-ii/chapitre-unique.md) (1 article)
+    - **Titre III : DU JUGE DES LIBERTÉS ET DE LA DETENTION**
+      - [Chapitre unique : De la désignation du juge des libertés et de la détention spécialement chargé des mineurs](partie-reglementaire/livre-ii/titre-iii/chapitre-unique.md) (1 article)
+    - **Titre V : DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE**
+      - [Chapitre unique : Des services et établissements de la protection judiciaire de la jeunesse et du secteur associatif habilité](partie-reglementaire/livre-ii/titre-v/chapitre-unique.md) (38 articles)
+  - **Livre III : DISPOSITIONS COMMUNES AUX DIFFÉRENTES PHASES DE LA PROCÉDURE PÉNALE**
+    - **Titre I : DU DROIT DU MINEUR À L'ACCOMPAGNEMENT ET À L'INFORMATION**
+      - [Chapitre unique : Du droit du mineur à être informé et accompagné d'un adulte](partie-reglementaire/livre-iii/titre-i/chapitre-unique.md) (2 articles)
+    - **Titre II : DES INVESTIGATIONS ET DE LA MESURE ÉDUCATIVE JUDICIAIRE PROVISOIRE**
+      - [Chapitre II : DES INFORMATIONS RELATIVES À LA PERSONNALITÉ DU MINEUR](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : DE LA MESURE ÉDUCATIVE JUDICIAIRE PROVISOIRE](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : DES MESURES DE SÛRETÉ**
+      - [Chapitre I : DU CONTRÔLE JUDICIAIRE](partie-reglementaire/livre-iii/titre-iii/chapitre-i.md) (2 articles)
+      - [Chapitre II : DE L'EXÉCUTION DES MANDATS DES JURIDICTIONS POUR MINEURS](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DE L'ASSIGNATION À RÉSIDENCE AVEC SURVEILLANCE ÉLECTRONIQUE](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DE LA DÉTENTION PROVISOIRE](partie-reglementaire/livre-iii/titre-iii/chapitre-iv.md) (5 articles)
+  - **Livre IV : DE LA PROCÉDURE PRÉALABLE AU JUGEMENT**
+    - **Titre I : DE L'AUDITION DU MINEUR SUSPECT**
+      - [Chapitre I : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-iv/titre-i/chapitre-i.md) (1 article)
+      - [Chapitre II : DE L'AUDITION LIBRE](partie-reglementaire/livre-iv/titre-i/chapitre-ii.md) (1 article)
+      - [Chapitre III : DE LA RETENUE ET DE LA GARDE À VUE](partie-reglementaire/livre-iv/titre-i/chapitre-iii.md) (4 articles)
+    - **Titre II : DE L'ACTION PUBLIQUE**
+      - [Chapitre II : DES ALTERNATIVES AUX POURSUITES ET DE LA COMPOSITION PÉNALE](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (15 articles)
+      - [Chapitre III : DE LA MISE EN MOUVEMENT DE L'ACTION PUBLIQUE](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (9 articles)
+    - **Titre III : DE L'INFORMATION JUDICIAIRE**
+      - [Chapitre I : DE L'INFORMATION ET DE LA CONVOCATION DES REPRÉSENTANTS LÉGAUX](partie-reglementaire/livre-iv/titre-iii/chapitre-i.md) (1 article)
+      - [Chapitre II : DE LA MESURE JUDICIAIRE D'INVESTIGATION ÉDUCATIVE ET DE LA MESURE ÉDUCATIVE JUDICIAIRE PROVISOIRE](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (1 article)
+  - **Livre V : DU JUGEMENT**
+    - **Titre I : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre II : DE L'ACTION CIVILE](partie-reglementaire/livre-v/titre-i/chapitre-ii.md) (1 article)
+    - **Titre II : DE LA PROCÉDURE DE JUGEMENT**
+      - [Chapitre I : DU JUGEMENT DEVANT LE JUGE DES ENFANTS ET LE TRIBUNAL POUR ENFANTS](partie-reglementaire/livre-v/titre-ii/chapitre-i.md) (10 articles)
+    - **Titre III : DES VOIES DE RECOURS**
+      - [Chapitre I : DE L'APPEL](partie-reglementaire/livre-v/titre-iii/chapitre-i.md) (2 articles)
+  - **Livre VI : L'APPLICATION ET L'EXÉCUTION DES MESURES ÉDUCATIVES ET DES PEINES**
+    - **Titre I : DE L'APPLICATION DES MESURES EDUCATIVES ET DES PEINES**
+      - [Chapitre I : DES JURIDICTIONS DE L'APPLICATION DES MESURES ÉDUCATIVES ET DES PEINES](partie-reglementaire/livre-vi/titre-i/chapitre-i.md) (14 articles)
+      - [Chapitre II : DES AUDIENCES D'APPLICATION DES PEINES](partie-reglementaire/livre-vi/titre-i/chapitre-ii.md) (2 articles)
+    - **Titre II : DE L'AMÉNAGEMENT DES PEINES**
+      - [Chapitre unique : De la mise en œuvre et du suivi des condamnations](partie-reglementaire/livre-vi/titre-ii/chapitre-unique.md) (2 articles)
+    - **Titre III : DU CASIER JUDICIAIRE ET DES AUTRES FICHIERS**
+      - [Chapitre I : DU CASIER JUDICIAIRE](partie-reglementaire/livre-vi/titre-iii/chapitre-i.md) (1 article)
+      - [Chapitre II : DU FICHIER JUDICIAIRE NATIONAL AUTOMATISÉ DES AUTEURS D'INFRACTIONS SEXUELLES OU VIOLENTES](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DU FICHIER JUDICIAIRE NATIONAL AUTOMATISÉ DES AUTEURS D'INFRACTIONS TERRORISTES](partie-reglementaire/livre-vi/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : DES FICHIERS D'ANTÉCEDENTS](partie-reglementaire/livre-vi/titre-iii/chapitre-iv.md) (1 article)
+  - **Livre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **Titre I : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À MAYOTTE, À LA RÉUNION, À SAINT-BARTHÉLEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre I : Dispositions particulières à Mayotte](partie-reglementaire/livre-vii/titre-i/chapitre-i.md) (1 article)
+    - **Titre II : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE ET DANS LES ÎLES DE WALLIS-ET-FUTUNA**
+      - [Titre II : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE, EN POLYNÉSIE FRANÇAISE ET DANS LES ÎLES DE WALLIS-ET-FUTUNA : articles rattachés directement](partie-reglementaire/livre-vii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : Dispositions applicables en Nouvelle-Calédonie](partie-reglementaire/livre-vii/titre-ii/chapitre-i.md) (8 articles)
+      - [Chapitre II : Dispositions applicables en Polynésie française](partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Dispositions applicables à Wallis-et-Futuna](partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md) (5 articles)
+- [Annexes](annexes.md) (2 articles)

@@ -113,7 +113,7 @@ La décision par laquelle le tribunal modifie la date de cessation des paiements
 - Identifiant : LEGIARTI000041553434
 - État : en vigueur depuis le 09/02/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041553434
-- Renvoie à : [art. D123-200 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-d123-200) ; [art. L641-2 du Code de commerce](../../../partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-2) ; [art. L644-5 du Code de commerce](../../../partie-legislative/livre-vi/titre-iv/chapitre-iv.md#article-l644-5) ; art. R130-1 du Code de la sécurité sociale
+- Renvoie à : [art. D123-200 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-d123-200) ; [art. L641-2 du Code de commerce](../../../partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-2) ; [art. L644-5 du Code de commerce](../../../partie-legislative/livre-vi/titre-iv/chapitre-iv.md#article-l644-5) ; [art. R130-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-preliminaire.md#article-r130-1)
 
 Les seuils prévus par l'article L. 641-2, pour l'application obligatoire de la procédure de liquidation judiciaire simplifiée, sont fixés pour le chiffre d'affaires hors taxes à 750 000 € et pour le nombre de salariés à 5.
 
@@ -278,7 +278,7 @@ Les articles R. 622-21 à R. 622-25 sont applicables à la procédure de liquida
 - Identifiant : LEGIARTI000026459836
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459836
-- Renvoie à : [art. L622-28 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-28) ; [art. R511-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939391)
+- Renvoie à : [art. L622-28 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-28) ; [art. R511-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-1)
 
 Les instances et les procédures civiles d'exécution suspendues en application du deuxième alinéa de l'article L. 622-28 sont poursuivies à l'initiative des créanciers bénéficiaires de garanties mentionnés au dernier alinéa de cet article sur justification du jugement prononçant la liquidation judiciaire.
 

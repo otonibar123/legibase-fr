@@ -7,7 +7,7 @@ Code du travail › Partie réglementaire › Huitième partie : Contrôle de l'
 - État : en vigueur depuis le 01/05/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030421324
 - Renvoie à : [art. L8281-1 du Code du travail](../../../../partie-legislative/huitieme-partie/livre-ii/titre-viii/chapitre-unique.md#article-l8281-1)
-- Cité par : [art. R1262-19 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-19) ; [art. R8281-4 du Code du travail](chapitre-ier.md#article-r8281-4) ; [art. R8282-1 du Code du travail](chapitre-ii.md#article-r8282-1) ; [art. R1331-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046477168)
+- Cité par : [art. R1331-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-i.md#article-r1331-6) ; [art. R1262-19 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-19) ; [art. R8281-4 du Code du travail](chapitre-ier.md#article-r8281-4) ; [art. R8282-1 du Code du travail](chapitre-ii.md#article-r8282-1)
 
 Le maître d'ouvrage ou le donneur d'ordre concerné enjoint l'employeur, dans un délai de vingt-quatre heures à compter de son information, de faire cesser immédiatement le non-respect de l'une des dispositions énumérées par l'article L. 8281-1.
 

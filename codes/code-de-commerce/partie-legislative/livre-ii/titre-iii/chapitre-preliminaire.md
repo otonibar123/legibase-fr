@@ -26,7 +26,7 @@ Pour l'application du présent article, les seuils et modalités de calcul des d
 - Identifiant : LEGIARTI000048521048
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048521048
-- Cité par : [art. L114-46-4 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051559653) ; [art. L230-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715632) ; [Décret n°2023-1394 du 30 décembre 2023, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049073765)
+- Cité par : [art. L114-46-4 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ier/chapitre-iv.md#article-l114-46-4) ; [art. L931-7-3 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-1.md#article-l931-7-3) ; [art. L310-1-1-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l310-1-1-1) ; [art. R451-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iv/titre-v/chapitre-ier.md#article-r451-1) ; [art. L230-6 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-iii/chapitre-preliminaire.md#article-l230-6) ; [art. L524-6-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-iv.md#article-l524-6-7) ; [Décret n°2023-1394 du 30 décembre 2023, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049073765)
 
 Au sens du présent livre :
 

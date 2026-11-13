@@ -100,7 +100,7 @@ La région peut déclarer la procédure de sélection infructueuse en motivant s
 - Identifiant : LEGIARTI000046645505
 - État : en vigueur depuis le 28/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046645505
-- Renvoie à : [art. R6121-3 du Code du travail](chapitre-ier.md#article-r6121-3) ; [art. Annexe préliminaire du Code de la commande publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038325354)
+- Renvoie à : [art. Annexe préliminaire du Code de la commande publique](../../../../../code-de-la-commande-publique/annexe.md#article-annexe-préliminaire) ; [art. R6121-3 du Code du travail](chapitre-ier.md#article-r6121-3)
 
 I.-La convention d'habilitation contient les informations figurant aux 1° à 11° de l'article R. 6121-3 et mentionne les droits et les engagements de l'organisme retenu.
 
@@ -139,7 +139,7 @@ Elle peut également s'étendre à la prise en charge par la région des frais d
 - Identifiant : LEGIARTI000046645495
 - État : en vigueur depuis le 28/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046645495
-- Renvoie à : [art. R6121-9 du Code du travail](chapitre-ier.md#article-r6121-9)
+- Renvoie à : [art. L214-13 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iv.md#article-l214-13) ; [art. R6121-9 du Code du travail](chapitre-ier.md#article-r6121-9)
 
 La région fixe, dans le cadre du programme régional de formation professionnelle continue mentionné au VI de l'article L. 214-13 du code de l'éducation, les modalités de la gratuité des formations professionnelles qu'elle finance, conformément aux dispositions de l'article R. 6121-9 du présent code.
 

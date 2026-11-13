@@ -21,7 +21,7 @@ Sous réserve des dispositions particulières du présent code, nul ne peut :
 - État : en vigueur depuis le 29/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018881599
 - Renvoie à : [art. L1142-1 du Code du travail](chapitre-ii.md#article-l1142-1)
-- Cité par : [art. L1144-1 du Code du travail](chapitre-iv.md#article-l1144-1) ; [art. L1146-1 du Code du travail](chapitre-vi.md#article-l1146-1) ; [art. L1146-2 du Code du travail](chapitre-vi.md#article-l1146-2) ; [art. L8113-5 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-5) ; [art. L423-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047293307)
+- Cité par : [art. L423-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-ii/chapitre-iii.md#article-l423-2) ; [art. L1144-1 du Code du travail](chapitre-iv.md#article-l1144-1) ; [art. L1146-1 du Code du travail](chapitre-vi.md#article-l1146-1) ; [art. L1146-2 du Code du travail](chapitre-vi.md#article-l1146-2) ; [art. L8113-5 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-iii.md#article-l8113-5)
 
 Lorsque l'appartenance à l'un ou l'autre sexe répond à une exigence professionnelle essentielle et déterminante et pour autant que l'objectif soit légitime et l'exigence proportionnée, les interdictions prévues à l'article L. 1142-1 ne sont pas applicables.
 
@@ -93,6 +93,6 @@ Il incombe à l'employeur de prendre en compte les objectifs en matière d'égal
 - Identifiant : LEGIARTI000029144893
 - État : en vigueur depuis le 28/06/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144893
-- Renvoie à : [art. L1132-1 du Code du travail](../titre-iii/chapitre-ii.md#article-l1132-1) ; [art. 225-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417828) ; [art. 225-4 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417839)
+- Renvoie à : [art. L1132-1 du Code du travail](../titre-iii/chapitre-ii.md#article-l1132-1) ; [art. 225-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-225-1) ; [art. 225-4 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-225-4)
 
 Dans les lieux de travail ainsi que dans les locaux ou à la porte des locaux où se fait l'embauche, les personnes mentionnées à l'article L. 1132-1 sont informées par tout moyen du texte des articles 225-1 à 225-4 du code pénal.

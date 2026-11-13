@@ -226,7 +226,7 @@ e) Deux représentants des organisations professionnelles d'employeurs représen
 - Identifiant : LEGIARTI000050742412
 - État : en vigueur depuis le 06/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050742412
-- Renvoie à : [art. L5131-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-2) ; art. L263-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L263-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-iii.md#article-l263-1) ; [art. L5131-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-2)
 - Cité par : [art. R5523-15-43 du Code du travail](chapitre-iii-bis.md#article-r5523-15-43)
 
 Le comité territorial comprend une commission spécialisée compétente dans le domaine de l'inclusion et de l'insertion par l'activité économique.
@@ -434,7 +434,7 @@ Le bureau du comité régional de l'emploi, de la formation et de l'orientation 
 - Identifiant : LEGIARTI000050742414
 - État : en vigueur depuis le 06/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050742414
-- Renvoie à : [art. L5131-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-2) ; [art. L5523-8 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-v/titre-ii/chapitre-iii-bis.md#article-l5523-8) ; [art. R5132-44 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-r5132-44) ; art. L263-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L263-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-iii.md#article-l263-1) ; [art. L5131-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-2) ; [art. L5523-8 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-v/titre-ii/chapitre-iii-bis.md#article-l5523-8) ; [art. R5132-44 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-r5132-44)
 - Cité par : [art. R5523-15-43 du Code du travail](chapitre-iii-bis.md#article-r5523-15-43)
 
 Le comité territorial mentionné au premier alinéa de l'article L. 5523-8 comprend une commission spécialisée compétente dans le domaine de l'inclusion et de l'insertion par l'activité économique.
@@ -610,7 +610,7 @@ Le bureau du comité de l'emploi, de la formation et de l'orientation profession
 - Identifiant : LEGIARTI000050742416
 - État : en vigueur depuis le 06/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050742416
-- Renvoie à : [art. L5131-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-2) ; [art. R5132-44 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-r5132-44) ; art. L263-1 du Code de l'action sociale et des familles
+- Renvoie à : [art. L263-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-iii.md#article-l263-1) ; [art. L5131-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-2) ; [art. R5132-44 du Code du travail](../../livre-ier/titre-iii/chapitre-ii.md#article-r5132-44)
 - Cité par : [art. R5523-15-43 du Code du travail](chapitre-iii-bis.md#article-r5523-15-43)
 
 Le comité territorial unique comprend une commission spécialisée compétente dans le domaine de l'inclusion et de l'insertion par l'activité économique.

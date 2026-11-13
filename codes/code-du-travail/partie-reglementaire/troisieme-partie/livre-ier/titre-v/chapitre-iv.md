@@ -50,7 +50,7 @@ L'engagement de caution fait l'objet d'un contrat écrit précisant les conditio
 - Identifiant : LEGIARTI000033515952
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033515952
-- Renvoie à : art. L518-23 du Code monétaire et financier ; [art. L518-24 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006656960)
+- Renvoie à : [art. L518-23 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-23) ; [art. L518-24 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-24)
 
 Lorsqu'un salarié demande, en accord avec son employeur, la consignation de l'ensemble des droits acquis sur son compte épargne-temps, convertis en unités monétaires, les sommes sont transférées par ce dernier à la Caisse des dépôts et consignations. Le transfert est accompagné de la demande écrite du salarié et d'une déclaration de consignation renseignée par l'employeur. Le récépissé de la déclaration de consignation, qui fait foi du dépôt des fonds, est remis par la Caisse des dépôts et consignations à l'employeur, qui en informe son salarié.  
 

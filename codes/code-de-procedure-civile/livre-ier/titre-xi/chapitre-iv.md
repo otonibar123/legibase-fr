@@ -28,7 +28,7 @@ Dans ces cas, la constatation de l'extinction de l'instance et du dessaisissemen
 - Identifiant : LEGIARTI000006410611
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410611
-- Cité par : [art. R142-10-10 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000040341004)
+- Cité par : [art. R142-10-10 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-10)
 
 L'instance est périmée lorsque aucune des parties n'accomplit de diligences pendant deux ans.
 

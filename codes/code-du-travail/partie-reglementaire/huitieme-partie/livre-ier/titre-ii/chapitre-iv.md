@@ -68,7 +68,7 @@ Le directeur général du travail, autorité centrale du système d'inspection d
 - Identifiant : LEGIARTI000034423011
 - État : en vigueur depuis le 15/04/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034423011
-- Renvoie à : [art. R4127-5 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006912866)
+- Renvoie à : [art. R4127-5 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-5)
 
 Tout agent exerçant l'autorité hiérarchique est garant du respect des règles déontologiques applicables à l'ensemble des agents placés sous son autorité. A cet effet :  
 
@@ -106,7 +106,7 @@ Tout agent de contrôle est libre d'organiser et de conduire des contrôles à s
 - Identifiant : LEGIARTI000034423054
 - État : en vigueur depuis le 15/04/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034423054
-- Renvoie à : [Loi n° 83-634 du 13 juillet 1983](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000504704)
+- Renvoie à : [art. R4127-5 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-5) ; [art. R4127-95 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-95) ; [Loi n° 83-634 du 13 juillet 1983](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000504704)
 
 Tout agent se conforme aux instructions reçues de son supérieur hiérarchique.
 
@@ -116,6 +116,7 @@ Les dispositions du premier alinéa s'appliquent sans préjudice de l'article 28
 - Identifiant : LEGIARTI000034423088
 - État : en vigueur depuis le 15/04/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034423088
+- Renvoie à : [art. R4127-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-4) ; [art. R4127-104 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-104)
 
 Tout agent rend compte de ses actions à l'autorité investie du pouvoir hiérarchique suivant les modalités définies par l'administration, notamment celles concernant le partage, dans le système d'information prévu à cet effet, des informations relatives à ses actions et aux entreprises contrôlées.  
 
@@ -251,6 +252,7 @@ Soumis au devoir de discrétion professionnelle, les agents du système d'inspec
 - Identifiant : LEGIARTI000034423403
 - État : en vigueur depuis le 15/04/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034423403
+- Renvoie à : [art. L1413-15 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-iii.md#article-l1413-15) ; [art. R4127-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-4) ; [art. R4127-104 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vii.md#article-r4127-104)
 
 Les agents sont soumis au secret professionnel dans les conditions prévues par la loi.  
 

@@ -14,7 +14,7 @@ Le 5° de l'article R. 1221-1 n'est pas applicable à Mayotte.
 - Identifiant : LEGIARTI000037560592
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037560592
-- Renvoie à : [art. R1221-2 du Code du travail](../../livre-ii/titre-ii/chapitre-ier.md#article-r1221-2) ; art. R243-2 du Code de la sécurité sociale ; art. R722-34 du Code rural et de la pêche maritime
+- Renvoie à : [art. R243-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-2) ; [art. R1221-2 du Code du travail](../../livre-ii/titre-ii/chapitre-ier.md#article-r1221-2) ; [art. R722-34 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md#article-r722-34)
 
 Pour l'application à Mayotte de l'article R. 1221-2 :
 
@@ -36,7 +36,7 @@ Le 6° de l'article R. 1221-2 n'est pas applicable à Mayotte.
 - Identifiant : LEGIARTI000037560601
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037560601
-- Renvoie à : [art. R1221-13 du Code du travail](../../livre-ii/titre-ii/chapitre-ier.md#article-r1221-13) ; art. R243-19 du Code de la sécurité sociale
+- Renvoie à : [art. R243-19 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-19) ; [art. R1221-13 du Code du travail](../../livre-ii/titre-ii/chapitre-ier.md#article-r1221-13)
 
 Pour l'application à Mayotte de l'article R. 1221-13 :
 
@@ -48,7 +48,7 @@ Pour l'application à Mayotte de l'article R. 1221-13 :
 - Identifiant : LEGIARTI000037560604
 - État : en vigueur depuis le 07/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037560604
-- Renvoie à : [art. R1225-12 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-r1225-12) ; art. L541-1 du Code de la sécurité sociale
+- Renvoie à : [art. L541-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-iv/chapitre-1er.md#article-l541-1) ; [art. R1225-12 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-r1225-12)
 
 Pour l'application à Mayotte de l'article R. 1225-12, les mots : "à l'article L. 541-1 du code de la sécurité sociale" sont remplacés par les mots : "à l'article 10-1 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte".
 

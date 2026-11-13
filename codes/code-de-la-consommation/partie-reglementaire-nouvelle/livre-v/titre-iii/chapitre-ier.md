@@ -8,7 +8,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre V : POUVOIR
 - Identifiant : LEGIARTI000032808296
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808296
-- Renvoie à : [art. R512-15 du Code de la consommation](../titre-ier/chapitre-ii.md#article-r512-15) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R512-15 du Code de la consommation](../titre-ier/chapitre-ii.md#article-r512-15) ; [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait pour un détenteur de marchandises de ne pas avoir conservé un échantillon laissé à sa garde en application de l'article R. 512-15 ou d'en avoir modifié l'état est puni de la peine prévue pour les contraventions de la 5e classe.  
 La récidive est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
@@ -17,8 +17,8 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000032808298
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808298
-- Renvoie à : [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
-- Cité par : [art. R661-35 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036457123)
+- Renvoie à : [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
+- Cité par : [art. R661-35 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-vi/titre-vi/chapitre-ier.md#article-r661-35)
 
 Le fait de mettre en vente ou de vendre, sans attendre les résultats d'un contrôle officiel en cours, des marchandises reconnues non-conformes à la réglementation ou falsifiées à l'issue de l'enquête consécutive à ce contrôle est puni de la peine prévue pour les contraventions de la 5e classe.
 

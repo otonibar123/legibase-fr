@@ -246,7 +246,7 @@ En application du premier alinéa de l'article L. 622-20, l'action d'un créanci
 - Identifiant : LEGIARTI000039345928
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345928
-- Renvoie à : [art. L622-21 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-21) ; art. 2209 du Code civil ; art. R331-3 du Code des procédures civiles d'exécution
+- Renvoie à : [art. L622-21 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-21) ; [art. R331-3 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-r331-3) ; art. 2209 du Code civil
 - Cité par : [art. R641-23 du Code de commerce](../titre-iv/chapitre-ier.md#article-r641-23) ; [art. R641-24 du Code de commerce](../titre-iv/chapitre-ier.md#article-r641-24)
 
 Conformément au II de l'article L. 622-21, les procédures de distribution du prix de vente d'un immeuble et les procédures de distribution du prix de vente d'un meuble ne faisant pas suite à une procédure d'exécution ayant produit un effet attributif avant le jugement d'ouverture, en cours au jour de ce jugement, sont caduques. Les fonds sont remis au mandataire judiciaire, le cas échéant par le séquestre qui par cette remise est libéré à l'égard des parties.
@@ -351,7 +351,7 @@ Les frais de l'instance en relevé de forclusion sont supportés par le créanci
 - Identifiant : LEGIARTI000026459822
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459822
-- Renvoie à : [art. L622-28 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-28) ; [art. R511-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939391)
+- Renvoie à : [art. L622-28 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-28) ; [art. R511-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-1)
 
 Les instances et les procédures civiles d'exécution suspendues en application du deuxième alinéa de l'article L. 622-28 sont poursuivies à l'initiative des créanciers bénéficiaires de garanties mentionnés au dernier alinéa de cet article sur justification du jugement arrêtant le plan, selon les dispositions applicables à l'opposabilité de ce plan à l'égard des garants.
 

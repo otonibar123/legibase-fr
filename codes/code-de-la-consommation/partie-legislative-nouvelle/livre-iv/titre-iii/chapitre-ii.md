@@ -8,7 +8,7 @@ Code de la consommation › Partie législative nouvelle › Livre IV : CONFORMI
 - Identifiant : LEGIARTI000032225384
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225384
-- Renvoie à : [art. Sous-section 1 : Le label rouge du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006183114)
+- Renvoie à : [art. Sous-section 1 : Le label rouge du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006183114)
 
 Les dispositions applicables au label rouge sont prévues à la sous-section 1 de la section 1 du chapitre Ier du titre IV du livre VI du code rural et de la pêche maritime.
 
@@ -16,8 +16,8 @@ Les dispositions applicables au label rouge sont prévues à la sous-section 1 d
 - Identifiant : LEGIARTI000032225382
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225382
-- Renvoie à : art. L641-2 du Code rural et de la pêche maritime ; art. L641-4 du Code rural et de la pêche maritime ; art. L642-3 du Code rural et de la pêche maritime
-- Cité par : [art. L453-4 du Code de la consommation](../titre-v/chapitre-iii.md#article-l453-4) ; [art. L455-2 du Code de la consommation](../titre-v/chapitre-v.md#article-l455-2) ; [art. L671-5 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049070530)
+- Renvoie à : [art. L641-2 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-2) ; [art. L641-4 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-4) ; [art. L642-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ii.md#article-l642-3)
+- Cité par : [art. L453-4 du Code de la consommation](../titre-v/chapitre-iii.md#article-l453-4) ; [art. L455-2 du Code de la consommation](../titre-v/chapitre-v.md#article-l455-2) ; [art. L671-5 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-vii.md#article-l671-5)
 
 Il est interdit :  
 1° De délivrer un label rouge sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural et de la pêche maritime ;  
@@ -34,7 +34,7 @@ Il est interdit :
 - Identifiant : LEGIARTI000032225378
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225378
-- Renvoie à : [Code rural, Chapitre Ier : Les modes de valorisation de la ](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006152431)
+- Renvoie à : [Code rural (nouveau), Chapitre Ier : Les modes de valorisation de la ](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006152431)
 - Cité par : [Arrêté du 20 février 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053600964)
 
 Les dispositions applicables aux appellations d'origine protégées, aux indications géographiques protégées et aux spécialités traditionnelles garanties sont prévues au chapitre Ier du titre IV du livre VI du code rural et de la pêche maritime.
@@ -43,7 +43,7 @@ Les dispositions applicables aux appellations d'origine protégées, aux indicat
 - Identifiant : LEGIARTI000032225376
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225376
-- Renvoie à : art. L642-3 du Code rural et de la pêche maritime
+- Renvoie à : [art. L641-10 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-10) ; [art. L641-11 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-11) ; [art. L641-12 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-12) ; [art. L642-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ii.md#article-l642-3)
 - Cité par : [art. L453-5 du Code de la consommation](../titre-v/chapitre-iii.md#article-l453-5)
 
 Il est interdit :  
@@ -60,7 +60,7 @@ Il est interdit :
 - Identifiant : LEGIARTI000032225372
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225372
-- Renvoie à : [art. Sous-section 5 : L'agriculture biologique du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006183157)
+- Renvoie à : [art. Sous-section 5 : L'agriculture biologique du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006183157)
 
 Les dispositions applicables à la mention " agriculture biologique " sont prévues à la sous-section 5 de la section 1 du chapitre Ier du titre IV du livre VI du code rural et de la pêche maritime.
 
@@ -68,8 +68,8 @@ Les dispositions applicables à la mention " agriculture biologique " sont prév
 - Identifiant : LEGIARTI000032225370
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225370
-- Renvoie à : art. L641-13 du Code rural et de la pêche maritime ; art. L642-3 du Code rural et de la pêche maritime
-- Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3) ; [art. L453-6 du Code de la consommation](../titre-v/chapitre-iii.md#article-l453-6) ; [art. L455-2 du Code de la consommation](../titre-v/chapitre-v.md#article-l455-2) ; [art. L671-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049070762)
+- Renvoie à : [art. L641-13 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-13) ; [art. L642-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ii.md#article-l642-3)
+- Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3) ; [art. L453-6 du Code de la consommation](../titre-v/chapitre-iii.md#article-l453-6) ; [art. L455-2 du Code de la consommation](../titre-v/chapitre-v.md#article-l455-2) ; [art. L671-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-vii.md#article-l671-7)
 
 Il est interdit :  
 1° De délivrer une mention " agriculture biologique " sans satisfaire aux conditions prévues à l'article L. 642-3 du code rural et de la pêche maritime ;  
@@ -84,7 +84,8 @@ Il est interdit :
 - Identifiant : LEGIARTI000039382274
 - État : en vigueur depuis le 15/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039382274
-- Renvoie à : art. L640-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L640-2 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/articles-directs.md#article-l640-2)
+- Cité par : [art. L643-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-iii.md#article-l643-3)
 
 Les conditions d'utilisation simultanée, pour l'étiquetage d'une denrée alimentaire ou d'un produit agricole non alimentaire et non transformé, à l'exception des vins, des boissons spiritueuses et des produits intermédiaires, d'une marque de produits ou de services et d'une référence à l'un des modes de valorisation mentionnés à l'article L. 640-2 du code rural et de la pêche maritime, sont précisées par décret en Conseil d'Etat.
 

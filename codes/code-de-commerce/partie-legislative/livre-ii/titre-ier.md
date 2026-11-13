@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - Identifiant : LEGIARTI000006222344
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222344
-- Cité par : [art. L713-1 du Code de commerce](../livre-vii/titre-ier/chapitre-iii.md#article-l713-1) ; [art. L310-7 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034386677)
+- Cité par : [art. L713-1 du Code de commerce](../livre-vii/titre-ier/chapitre-iii.md#article-l713-1) ; [art. L310-7 du Code des assurances](../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l310-7) ; [art. L621-9 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ii/chapitre-unique.md#article-l621-9) ; [art. L621-15 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ii/chapitre-unique.md#article-l621-15)
 
 Le caractère commercial d'une société est déterminé par sa forme ou par son objet.  
 
@@ -34,7 +34,7 @@ Les tiers peuvent se prévaloir du siège statutaire, mais celui-ci ne leur est 
 - Identifiant : LEGIARTI000006222351
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222351
-- Cité par : [art. L771-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006586112)
+- Cité par : [art. L771-1 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-vii/titre-vii.md#article-l771-1)
 
 Les formalités de publicité exigées lors de la constitution de la société ou en cas d'actes et délibérations postérieurs sont déterminées par décret en Conseil d'Etat.
 
@@ -58,7 +58,7 @@ Si, dans la publicité des actes et indications concernant les sociétés à res
 - Identifiant : LEGIARTI000006222358
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222358
-- Cité par : [art. R210-7 du Code de commerce](../../partie-reglementaire/livre-ii/titre-ier/section-1/sous-section-1.md#article-r210-7) ; [art. L214-154 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050367092)
+- Cité par : [art. R210-7 du Code de commerce](../../partie-reglementaire/livre-ii/titre-ier/section-1/sous-section-1.md#article-r210-7) ; [art. L214-154 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-154)
 
 Les sociétés commerciales jouissent de la personnalité morale à dater de leur immatriculation au registre du commerce et des sociétés. La transformation régulière d'une société n'entraîne pas la création d'une personne morale nouvelle. Il en est de même de la prorogation.  
 
@@ -104,7 +104,7 @@ La société ne peut se prévaloir, à l'égard des tiers, des nominations et ce
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038528238
 - Renvoie à : [art. 1835 du Code civil](../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1835) ; [art. L232-1 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006228894)
-- Cité par : [art. L210-11 du Code de commerce](titre-ier.md#article-l210-11) ; [art. L210-12 du Code de commerce](titre-ier.md#article-l210-12) ; [art. R210-21 du Code de commerce](../../partie-reglementaire/livre-ii/titre-ier/section-3.md#article-r210-21) ; [Arrêté du 27 mai 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043560541) ; [art. L322-26-4-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038528257) ; [art. L412-3 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048598473) ; [Décret n°2019-1462 du 26 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755782) ; [Décret n°2019-1462 du 26 décembre 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755785) ; [Décret n°2020-1 du 2 janvier 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000041438646) ; [Décret n°2024-1226 du 30 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050918712) ; [Décret n°2024-1226 du 30 décembre 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050918729) ; [Loi n° 47-1775 du 10 septembre 1947, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038590007)
+- Cité par : [art. L210-11 du Code de commerce](titre-ier.md#article-l210-11) ; [art. L210-12 du Code de commerce](titre-ier.md#article-l210-12) ; [art. R210-21 du Code de commerce](../../partie-reglementaire/livre-ii/titre-ier/section-3.md#article-r210-21) ; [art. L322-26-4-1 du Code des assurances](../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-26-4-1) ; [art. L412-3 du Code pénitentiaire](../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-3) ; [Arrêté du 27 mai 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043560541) ; [Décret n°2019-1462 du 26 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755782) ; [Décret n°2019-1462 du 26 décembre 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755785) ; [Décret n°2020-1 du 2 janvier 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000041438646) ; [Décret n°2024-1226 du 30 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050918712) ; [Décret n°2024-1226 du 30 décembre 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050918729) ; [Loi n° 47-1775 du 10 septembre 1947, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038590007)
 
 Une société peut faire publiquement état de la qualité de société à mission lorsque les conditions suivantes sont respectées :  
 

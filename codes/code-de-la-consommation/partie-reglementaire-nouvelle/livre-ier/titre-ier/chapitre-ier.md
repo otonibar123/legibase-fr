@@ -260,7 +260,7 @@ Ils assurent également la disponibilité des pièces détachées mentionnées a
 - Identifiant : LEGIARTI000047479153
 - État : en vigueur depuis le 23/04/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047479153
-- Renvoie à : art. R311-1 du Code de la route
+- Renvoie à : [art. R311-1 du Code de la route](../../../../code-de-la-route/partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-r311-1)
 
 I.-Pour l'application de l'article L. 111-4-1, les articles de sport et de loisirs suivants sont soumis aux dispositions du présent article :  
 
@@ -616,7 +616,7 @@ Ils assurent également la disponibilité des pièces détachées mentionnées a
 - Identifiant : LEGIARTI000047479157
 - État : en vigueur depuis le 23/04/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047479157
-- Renvoie à : art. R311-1 du Code de la route
+- Renvoie à : [art. R311-1 du Code de la route](../../../../code-de-la-route/partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-r311-1)
 
 I.-Pour l'application de l'article L. 111-4-1, les engins de déplacement personnel motorisés, tels que définis au 6.15 de l'article R. 311-1 du code de la route, sont soumis aux dispositions du présent article.  
 

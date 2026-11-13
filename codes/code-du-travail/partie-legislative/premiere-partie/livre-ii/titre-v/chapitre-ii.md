@@ -8,7 +8,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000006901318
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901318
-- Cité par : [art. L712-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048684679)
+- Cité par : [art. L712-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-ii-bis.md#article-l712-2)
 
 Le recours au travail à temps partagé a pour objet la mise à disposition d'un salarié par une entreprise de travail à temps partagé au bénéfice d'un client utilisateur pour l'exécution d'une mission.
 

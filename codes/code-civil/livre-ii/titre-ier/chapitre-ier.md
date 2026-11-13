@@ -13,7 +13,7 @@ Les biens sont immeubles, ou par leur nature, ou par leur destination, ou par l'
 - Identifiant : LEGIARTI000006428617
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428617
-- Cité par : [art. L55 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029738226) ; [art. L58 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032441332) ; [Décret n°2008-1086 du 23 octobre 2008, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019682978)
+- Cité par : [art. L55 du Code des postes et des communications électroniques](../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ii/chapitre-iii.md#article-l55) ; [art. L58 du Code des postes et des communications électroniques](../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ii/chapitre-iii.md#article-l58) ; [Décret n°2008-1086 du 23 octobre 2008, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019682978)
 
 Les fonds de terre et les bâtiments sont immeubles par leur nature.
 
@@ -21,7 +21,7 @@ Les fonds de terre et les bâtiments sont immeubles par leur nature.
 - Identifiant : LEGIARTI000006428625
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428625
-- Cité par : [art. L58 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032441332)
+- Cité par : [art. L58 du Code des postes et des communications électroniques](../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ii/chapitre-iii.md#article-l58)
 
 Les moulins à vent ou à eau, fixés sur piliers et faisant partie du bâtiment, sont aussi immeubles par leur nature.
 
@@ -29,7 +29,7 @@ Les moulins à vent ou à eau, fixés sur piliers et faisant partie du bâtiment
 - Identifiant : LEGIARTI000006428633
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428633
-- Cité par : [art. L342-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583572) ; [art. L342-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072940) ; [art. L342-12 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280757)
+- Cité par : [art. L342-1 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-1) ; [art. L342-3 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-3) ; [art. L342-12 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-12)
 
 Les récoltes pendantes par les racines et les fruits des arbres non encore recueillis sont pareillement immeubles.  
 
@@ -64,7 +64,7 @@ Les tuyaux servant à la conduite des eaux dans une maison ou autre héritage so
 - Identifiant : LEGIARTI000030254009
 - État : en vigueur depuis le 18/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030254009
-- Cité par : [art. 2501 du Code civil](../../livre-v/titre-ii.md#article-2501) ; [art. R4534-2 du Code du travail](../../../code-du-travail/partie-reglementaire/quatrieme-partie/livre-v/titre-iii/chapitre-iv.md#article-r4534-2) ; [art. L313-1 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052866403) ; [art. R313-5 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355257) ; [art. R*421-17 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561259) ; [art. R*431-37 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355567) ; [art. L632-1 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032858258) ; [art. 1920 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054591705) ; [art. L342-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583572) ; [art. L342-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072940) ; [art. L342-12 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280757)
+- Cité par : [art. 2501 du Code civil](../../livre-v/titre-ii.md#article-2501) ; [art. L313-1 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-1) ; [art. R313-5 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-iii.md#article-r313-5) ; [art. R*421-17 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-ier.md#article-r421-17) ; [art. R*431-37 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ier.md#article-r431-37) ; [art. L621-9 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-vi/titre-ii/chapitre-1er.md#article-l621-9) ; [art. L621-27 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-vi/titre-ii/chapitre-1er.md#article-l621-27) ; [art. L632-1 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-vi/titre-iii/chapitre-ii.md#article-l632-1) ; [art. R4534-2 du Code du travail](../../../code-du-travail/partie-reglementaire/quatrieme-partie/livre-v/titre-iii/chapitre-iv.md#article-r4534-2) ; [art. L342-1 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-1) ; [art. L342-3 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-3) ; [art. L342-12 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-12) ; [art. 1920 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054591705)
 
 Les objets que le propriétaire d'un fonds y a placés pour le service et l'exploitation de ce fonds sont immeubles par destination.
 
@@ -90,7 +90,7 @@ Sont aussi immeubles par destination tous effets mobiliers que le propriétaire 
 - Identifiant : LEGIARTI000006428682
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428682
-- Cité par : [art. 14 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006302217)
+- Cité par : [art. 14 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-14)
 
 Le propriétaire est censé avoir attaché à son fonds des effets mobiliers à perpétuelle demeure, quand ils y sont scellés en plâtre ou à chaux ou à ciment, ou, lorsqu'ils ne peuvent être détachés sans être fracturés ou détériorés, ou sans briser ou détériorer la partie du fonds à laquelle ils sont attachés.  
 

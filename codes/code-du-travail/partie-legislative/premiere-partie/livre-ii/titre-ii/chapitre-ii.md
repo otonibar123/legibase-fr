@@ -37,7 +37,7 @@ Les méthodes et techniques d'évaluation des salariés doivent être pertinente
 - Identifiant : LEGIARTI000006900861
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900861
-- Cité par : [Arrêté du 8 juin 2026, art. 4-1-9I-T](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054298767) ; [art. L254-1 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047569400) ; [Décret n°2019-379 du 26 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038427845)
+- Cité par : [art. L254-1 du Code de la sécurité intérieure](../../../../../code-de-la-securite-interieure/partie-legislative/livre-ii/titre-v/chapitre-iv.md#article-l254-1) ; [Arrêté du 8 juin 2026, art. 4-1-9I-T](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054298767) ; [Décret n°2019-379 du 26 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038427845)
 
 Aucune information concernant personnellement un salarié ne peut être collectée par un dispositif qui n'a pas été porté préalablement à sa connaissance.
 
@@ -75,8 +75,8 @@ A défaut de réponse dans le délai d'un mois, ou de quinze jours si l'entrepri
 - Identifiant : LEGIARTI000047864720
 - État : en vigueur depuis le 21/07/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047864720
-- Renvoie à : [art. L5212-13 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-13) ; [art. L5213-6 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-6) ; art. L223-1 du Code de l'environnement ; art. L411-1 du Code de la sécurité sociale
-- Cité par : [DÉCRET n°2015-386 du 3 avril 2015, art. 51-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048420130)
+- Renvoie à : [art. L223-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-iii.md#article-l223-1) ; [art. L411-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-i/chapitre-1er-definitions.md#article-l411-1) ; [art. L5212-13 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-13) ; [art. L5213-6 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-6)
+- Cité par : [art. L430-1 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-legislative/livre-iv/titre-iii/articles-directs.md#article-l430-1) ; [art. L462-1 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-legislative/livre-iv/titre-vi/chapitre-ii.md#article-l462-1) ; [DÉCRET n°2015-386 du 3 avril 2015, art. 51-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048420130)
 
 I.-Sans préjudice de l'application, s'il y a lieu, des dispositions du présent code protégeant les travailleurs à domicile, le télétravail désigne toute forme d'organisation du travail dans laquelle un travail qui aurait également pu être exécuté dans les locaux de l'employeur est effectué par un salarié hors de ces locaux de façon volontaire en utilisant les technologies de l'information et de la communication.  
 

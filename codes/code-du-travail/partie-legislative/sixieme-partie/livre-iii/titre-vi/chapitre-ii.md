@@ -9,7 +9,7 @@ Code du travail › Partie législative › Sixième partie : La formation profe
 - État : en vigueur depuis le 02/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830492
 - Renvoie à : [art. L5312-1 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. L6313-1 du Code du travail](../titre-ier/chapitre-iii.md#article-l6313-1) ; [art. L6323-17-6 du Code du travail](../titre-ii/chapitre-iii.md#article-l6323-17-6) ; [art. L6331-48 du Code du travail](../titre-iii/chapitre-ier.md#article-l6331-48) ; [art. L6361-5 du Code du travail](chapitre-ier.md#article-l6361-5)
-- Cité par : [art. R6362-1-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-r6362-1-2) ; [Livre des procédures fiscales, art. L135 A](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018570209)
+- Cité par : [art. R6362-1-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-r6362-1-2) ; [Livre des procédures fiscales, art. L135 A](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-iii.md#article-l135-a)
 
 Les employeurs et les organismes chargés de réaliser tout ou partie des actions mentionnées à l'article L. 6313-1 communiquent aux agents de contrôle mentionnés à l'article L. 6361-5 les renseignements nécessaires à l'accomplissement de leur mission.
 
@@ -17,8 +17,8 @@ Les employeurs et les organismes chargés de réaliser tout ou partie des action
 - Identifiant : LEGIARTI000051829498
 - État : en vigueur depuis le 02/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051829498
-- Renvoie à : [art. L6111-3 du Code du travail](../../livre-ier/titre-ier/chapitre-ier.md#article-l6111-3) ; [art. L6113-2 du Code du travail](../../livre-ier/titre-ier/chapitre-iii.md#article-l6113-2) ; [art. L6316-1 du Code du travail](../titre-ier/chapitre-vi.md#article-l6316-1) ; [art. L6316-2 du Code du travail](../titre-ier/chapitre-vi.md#article-l6316-2)
-- Cité par : [art. L6353-10 du Code du travail](../titre-v/chapitre-iii.md#article-l6353-10) ; [Livre des procédures fiscales, art. L135 A](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054336395)
+- Renvoie à : [art. L612-3 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vi/titre-ier/chapitre-ii.md#article-l612-3) ; [art. L6111-3 du Code du travail](../../livre-ier/titre-ier/chapitre-ier.md#article-l6111-3) ; [art. L6113-2 du Code du travail](../../livre-ier/titre-ier/chapitre-iii.md#article-l6113-2) ; [art. L6316-1 du Code du travail](../titre-ier/chapitre-vi.md#article-l6316-1) ; [art. L6316-2 du Code du travail](../titre-ier/chapitre-vi.md#article-l6316-2)
+- Cité par : [art. L6353-10 du Code du travail](../titre-v/chapitre-iii.md#article-l6353-10) ; [Livre des procédures fiscales, art. L135 A](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-iii.md#article-l135-a)
 
 L'administration fiscale, les organismes de sécurité sociale, les services de l'Etat chargés de la concurrence, de la consommation et de la répression des fraudes, France compétences, l'Agence de services et de paiement, les services de l'Etat chargés de la procédure nationale de préinscription mentionnée au I de l'article L. 612-3 du code de l'éducation, les collectivités territoriales, les administrations qui financent des actions de formation, les ministères certificateurs mentionnés à l'article L. 6113-2 du présent code et les membres des missions, placées sous leur autorité, chargées du contrôle pédagogique des formations par apprentissage et les services chargés du contrôle de l'application de la législation du travail et du contrôle de la formation professionnelle peuvent échanger, spontanément ou sur demande, tous les documents et les informations détenus ou recueillis dans le cadre de leurs missions respectives et utiles à leur exercice.
 
@@ -44,7 +44,7 @@ A défaut, l'employeur n'est pas regardé comme ayant rempli les obligations qui
 - État : en vigueur depuis le 27/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054336961
 - Renvoie à : [art. L6313-1 du Code du travail](../titre-ier/chapitre-iii.md#article-l6313-1) ; [art. L6352-1 du Code du travail](../titre-v/chapitre-ii.md#article-l6352-1) ; [art. L6352-4 du Code du travail](../titre-v/chapitre-ii.md#article-l6352-4)
-- Cité par : [art. L1221-4 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054336930)
+- Cité par : [art. L1221-4 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-unique.md#article-l1221-4)
 
 En cas de contrôle d'un organisme chargé de réaliser tout ou partie des actions mentionnées à l'article L. 6313-1, ces actions sont réputées inexécutées et donnent lieu à remboursement des fonds à l'organisme ou à la personne qui les a financées dans les cas suivants :  
 
@@ -157,7 +157,7 @@ Un décret en Conseil d'Etat détermine les modalités d'application du présent
 - Identifiant : LEGIARTI000037387615
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037387615
-- Cité par : [art. R6332-77-1 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r6332-77-1) ; [art. R6362-7 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-r6362-7) ; [art. L6252-4 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028699389) ; [art. R6332-110 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021858365) ; [art. L1221-4 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054336930)
+- Cité par : [art. R6332-77-1 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r6332-77-1) ; [art. R6362-7 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-r6362-7) ; [art. L1221-4 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-unique.md#article-l1221-4) ; [art. L6252-4 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028699389) ; [art. R6332-110 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021858365)
 
 Les contrôles en matière de formation professionnelle peuvent être opérés soit sur place, soit sur pièces.
 
@@ -209,7 +209,7 @@ Les décisions de rejet et de versement mentionnées au présent livre prises pa
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600358
 - Renvoie à : [art. L5312-1 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1) ; [art. L6313-1 du Code du travail](../titre-ier/chapitre-iii.md#article-l6313-1) ; [art. L6323-17-6 du Code du travail](../titre-ii/chapitre-iii.md#article-l6323-17-6) ; [art. L6331-48 du Code du travail](../titre-iii/chapitre-ier.md#article-l6331-48)
-- Cité par : [art. L1221-4 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054336930)
+- Cité par : [art. L1221-4 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-unique.md#article-l1221-4)
 
 Lorsque les contrôles ont porté sur des actions mentionnées à l'article L. 6313-1 ou des activités de conseil en évolution professionnelle financées par l'Etat, les collectivités territoriales, la Caisse des dépôts et consignations, France compétences, l'opérateur France Travail, les commissions mentionnées à l'article L. 6323-17-6, les employeurs, les opérateurs de compétences ou les organismes habilités à percevoir la contribution de financement mentionnée à l'article L. 6331-48, l'autorité administrative les informe, chacun pour ce qui le concerne, des constats opérés.
 
@@ -224,7 +224,7 @@ Le cas échéant, les constats opérés sont adressés au service chargé du con
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904464
 - Renvoie à : [art. L6361-1 du Code du travail](chapitre-ier.md#article-l6361-1)
-- Cité par : [art. L6351-3 du Code du travail](../titre-v/chapitre-ier.md#article-l6351-3) ; [art. L6332-19 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904361) ; [art. 1679 bis B du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037387236) ; [LOI n°2018-771 du 5 septembre 2018, art. 42](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041472434)
+- Cité par : [art. L6351-3 du Code du travail](../titre-v/chapitre-ier.md#article-l6351-3) ; [art. 1679 bis B du Code général des impôts](../../../../../code-general-des-impots/livre-ii/chapitre-premier.md#article-1679-bis-b) ; [art. L6332-19 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904361) ; [LOI n°2018-771 du 5 septembre 2018, art. 42](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041472434)
 
 Le recouvrement des versements exigibles au titre des contrôles réalisés en application des articles L. 6361-1 à L. 6361-3 est établi et poursuivi selon les modalités ainsi que sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
 

@@ -143,7 +143,7 @@ L'organisme maître d'œuvre des mesurages des niveaux d'empoussièrements en fi
 - État : en vigueur depuis le 01/01/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021490951
 - Renvoie à : [art. R4724-8 du Code du travail](chapitre-iv.md#article-r4724-8)
-- Cité par : [art. R4412-51-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-51-1) ; [art. Tableau n° 18 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029779031)
+- Cité par : [art. Annexe II : Tableau n° 1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/annexes/annexe-ii-2.md#article-annexe-ii--tableau-n-1) ; [art. R4412-51-1 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-51-1) ; [art. Tableau n° 18 du Code rural (nouveau)](../../../../../code-rural-nouveau/annexes/livre-vii/annexe-ii.md#article-tableau-n-18)
 
 Les analyses destinées à vérifier le respect des valeurs limites biologiques fixées par décret sont réalisées par un organisme accrédité dans ce domaine.
 

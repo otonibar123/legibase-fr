@@ -6,8 +6,8 @@ Code du travail › Partie législative ancienne › Livre VIII : Dispositions s
 - Identifiant : LEGIARTI000006650986
 - État : en vigueur depuis le 27/07/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006650986
-- Renvoie à : art. L242-5 du Code de la sécurité sociale
-- Cité par : [art. L6434-4 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006394375) ; [Décret n°2004-298 du 26 mars 2004, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006229885)
+- Renvoie à : [art. L242-5 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-5)
+- Cité par : [art. L6434-4 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/sixieme-partie/livre-iv/titre-iii/chapitre-iv.md#article-l6434-4) ; [Décret n°2004-298 du 26 mars 2004, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006229885)
 
 Les dispositions des articles L. 129-5 à L. 129-12 s'appliquent dans les départements d'outre-mer et à Saint-Pierre-et-Miquelon lorsque le chèque emploi-service universel a la nature d'un titre spécial de paiement. Dans ces départements et dans cette collectivité, il est créé un titre de travail simplifié pour assurer la rémunération et pour la déclaration en vue du paiement des cotisations sociales :  
 

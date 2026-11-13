@@ -44,7 +44,7 @@ La décision enjoignant aux parties de rencontrer un médiateur familial en appl
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411862
 - Renvoie à : [art. 373-2-12 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-12)
-- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028130314) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039346197) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027907290)
+- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du Code de procédure pénale](../../../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039346197) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027907290)
 
 Sans préjudice de toute autre mesure d'instruction et sous réserve des dispositions prévues au troisième alinéa de l'article 373-2-12 du code civil, le juge peut, même d'office, ordonner une enquête sociale s'il s'estime insuffisamment informé par les éléments dont il dispose.  
 
@@ -123,7 +123,7 @@ Sauf dans les cas où l'intermédiation financière est écartée par les parent
 - État : en vigueur depuis le 01/09/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049887227
 - Renvoie à : [art. 373-2-2 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-2)
-- Cité par : [art. 1074-4 du Code de procédure civile](chapitre-v.md#article-1074-4)
+- Cité par : [art. R582-5 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-5) ; [art. 1074-4 du Code de procédure civile](chapitre-v.md#article-1074-4)
 
 La décision et la convention homologuée mentionnées aux 1° et 2° du I de l'article 373-2-2 du code civil qui fixent une pension alimentaire en tout ou partie en numéraire sans écarter l'intermédiation financière de son versement dans les conditions prévues par les 1° ou 2° du II du même article, ainsi que la décision qui, le cas échéant, met en place ultérieurement cette intermédiation en application du second alinéa du III du même article sont notifiées aux parties par le greffe par lettre recommandée avec demande d'avis de réception.  
 
@@ -137,8 +137,8 @@ Par dérogation aux précédents alinéas, le juge peut, d'office ou à la deman
 - Identifiant : LEGIARTI000050985231
 - État : en vigueur depuis le 17/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985231
-- Renvoie à : [art. 670 du Code de procédure civile](../../livre-ier/titre-xvii/chapitre-iii.md#article-670) ; [art. 1074-3 du Code de procédure civile](chapitre-v.md#article-1074-3) ; [art. 1136-9 du Code de procédure civile](chapitre-v.md#article-1136-9) ; art. R582-8 du Code de la sécurité sociale
-- Cité par : [Décret n°2020-1797 du 29 décembre 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042939047) ; [Décret n°2025-47 du 15 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050981221)
+- Renvoie à : [art. R582-8 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-8) ; [art. 670 du Code de procédure civile](../../livre-ier/titre-xvii/chapitre-iii.md#article-670) ; [art. 1074-3 du Code de procédure civile](chapitre-v.md#article-1074-3) ; [art. 1136-9 du Code de procédure civile](chapitre-v.md#article-1136-9)
+- Cité par : [art. R582-4-1 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-4-1) ; [art. R582-5 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-5) ; [art. R582-9 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-9) ; [Décret n°2020-1797 du 29 décembre 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042939047) ; [Décret n°2025-47 du 15 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050981221)
 
 I.-Dans un délai de six semaines courant à compter de la notification de la décision aux parties, ou dans le délai mentionné au II du présent article lorsqu'il est fait application du troisième alinéa de l'article 1074-3, le greffe transmet à l'organisme débiteur des prestations familiales, par voie dématérialisée ou par lettre simple, selon les cas :  
 
@@ -813,7 +813,7 @@ Les dépens afférents à l'instance d'appel sont traités comme ceux d'une inst
 - Identifiant : LEGIARTI000039624778
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624778
-- Renvoie à : [art. 373-2-9-1 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-9-1) ; [art. 435 du Code de procédure civile](../../livre-ier/titre-xiv/chapitre-ier.md#article-435)
+- Renvoie à : [art. 255 du Code civil](../../../code-civil/livre-ier/titre-vi/chapitre-ii.md#article-255) ; [art. 373-2-9-1 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-9-1) ; [art. 435 du Code de procédure civile](../../livre-ier/titre-xiv/chapitre-ier.md#article-435)
 - Cité par : [art. 1292 du Code de procédure civile](../titre-iii/chapitre-ier.md#article-1292)
 
 Les demandes relatives au fonctionnement des régimes matrimoniaux et des indivisions entre personnes liées par un pacte civil de solidarité ou entre concubins ainsi que celles relatives à la liquidation et au partage des intérêts patrimoniaux des époux, des personnes liées par un pacte civil de solidarité et des concubins relevant de la compétence du juge aux affaires familiales obéissent aux règles de la procédure écrite ordinaire applicable devant le tribunal judiciaire. Les débats sont publics, sous réserve de l'article 435 . La décision est rendue publiquement.
@@ -843,7 +843,7 @@ Pour les besoins du partage de la communauté, le juge aux affaires familiales c
 - État : en vigueur depuis le 17/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985298
 - Renvoie à : [art. 515-9 du Code civil](../../../code-civil/livre-ier/titre-xiv.md#article-515-9) ; [art. 515-11 du Code civil](../../../code-civil/livre-ier/titre-xiv.md#article-515-11) ; [art. 515-13 du Code civil](../../../code-civil/livre-ier/titre-xiv.md#article-515-13) ; [art. 57 du Code de procédure civile](../../livre-ier/titre-iv/chapitre-ier.md#article-57)
-- Cité par : [art. 1136-15-1 du Code de procédure civile](chapitre-v.md#article-1136-15-1)
+- Cité par : [art. 1136-15-1 du Code de procédure civile](chapitre-v.md#article-1136-15-1) ; [art. R93 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93)
 
 Dans les cas prévus à l'article 515-9 et au I de l'article 515-13 du code civil, le juge est saisi par une requête remise ou adressée au greffe.
 
@@ -913,7 +913,7 @@ Lors de l'audience, le juge procède à l'audition des parties. Il les entend s�
 - Identifiant : LEGIARTI000050985278
 - État : en vigueur depuis le 17/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985278
-- Renvoie à : [art. 515-13 du Code civil](../../../code-civil/livre-ier/titre-xiv.md#article-515-13) ; [art. 1136-13 du Code de procédure civile](chapitre-v.md#article-1136-13) ; [art. 1136-14 du Code de procédure civile](chapitre-v.md#article-1136-14) ; art. 227-4-3 du Code pénal
+- Renvoie à : [art. 515-13 du Code civil](../../../code-civil/livre-ier/titre-xiv.md#article-515-13) ; [art. 1136-13 du Code de procédure civile](chapitre-v.md#article-1136-13) ; [art. 1136-14 du Code de procédure civile](chapitre-v.md#article-1136-14) ; [art. 227-4-2 du Code pénal](../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-2) ; [art. 227-4-3 du Code pénal](../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-3)
 
 L'ordonnance qui statue sur la demande de mesures de protection des victimes de violences est exécutoire à titre provisoire à moins que le juge en dispose autrement.
 
@@ -1010,7 +1010,7 @@ Il recueille par tout moyen, l'accord de la personne en danger.
 - Identifiant : LEGIARTI000050981412
 - État : en vigueur depuis le 17/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050981412
-- Renvoie à : [art. 1136-15-4 du Code de procédure civile](chapitre-v.md#article-1136-15-4) ; art. 227-4-2 du Code pénal
+- Renvoie à : [art. 1136-15-4 du Code de procédure civile](chapitre-v.md#article-1136-15-4) ; [art. 227-4-2 du Code pénal](../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-2)
 
 I.-Le juge statue sans audience sur cette demande dans un délai de vingt-quatre heures à compter de sa saisine. Sauf application de l'article 1136-15-4, cette ordonnance est insusceptible de recours.
 
@@ -1100,7 +1100,7 @@ Le consentement des parties doit être réitéré lorsque le renouvellement du d
 - Identifiant : LEGIARTI000042358399
 - État : en vigueur depuis le 25/09/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042358399
-- Renvoie à : art. 227-4-2 du Code pénal
+- Renvoie à : [art. 227-4-2 du Code pénal](../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-2)
 
 Avant de consentir au port d'un dispositif mobile anti-rapprochement, les parties reçoivent du juge aux affaires familiales les informations suivantes :  
 
@@ -1152,8 +1152,8 @@ Le traitement automatisé de données à caractère personnel, mentionné au II 
 - Identifiant : LEGIARTI000045510069
 - État : en vigueur depuis le 01/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045510069
-- Renvoie à : [art. 515-11-1 du Code civil](../../../code-civil/livre-ier/titre-xiv.md#article-515-11-1) ; art. 138-3 du Code de procédure pénale ; art. 132-45-1 du Code pénal
-- Cité par : [art. R631-1 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045491618)
+- Renvoie à : [art. 515-11-1 du Code civil](../../../code-civil/livre-ier/titre-xiv.md#article-515-11-1) ; [art. R631-1 du Code pénitentiaire](../../../code-penitentiaire/partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md#article-r631-1) ; art. 138-3 du Code de procédure pénale ; art. 132-45-1 du Code pénal
+- Cité par : [art. R631-1 du Code pénitentiaire](../../../code-penitentiaire/partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md#article-r631-1)
 
 Lorsqu'une interdiction de rapprochement assortie de l'obligation de porter un bracelet électronique anti-rapprochement prononcée dans le cadre d'une procédure pénale en application de l'article 138-3 du code de procédure pénale ou de l'article 132-45-1 du code pénal est mise en œuvre conformément aux dispositions du dernier alinéa de l'article R. 631-1 du code pénitentiaire, la main levée de la mesure prononcée en application de l'article 515-11-1 du code civil est acquise de plein droit.
 
@@ -1208,7 +1208,7 @@ En matière de demande de révision de prestation compensatoire, les parties son
 - Identifiant : LEGIARTI000042597196
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597196
-- Renvoie à : [art. 828 du Code de procédure civile](../../livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828) ; [art. 829 du Code de procédure civile](../../livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-829) ; art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1) ; [art. 828 du Code de procédure civile](../../livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828) ; [art. 829 du Code de procédure civile](../../livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-829)
 
 La procédure est orale.
 
@@ -1222,7 +1222,7 @@ En matière de demande de révision de prestation compensatoire, l'instance est 
 - Identifiant : LEGIARTI000006412044
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412044
-- Renvoie à : art. L132-7 du Code de l'action sociale et des familles ; [art. L6145-11 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006691040)
+- Renvoie à : [art. L132-7 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-7) ; [art. L6145-11 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-ier/titre-iv/chapitre-v.md#article-l6145-11)
 
 Lorsque la demande est formée sur le fondement de l'article L. 6145-11 du code de la santé publique ou de l'article L. 132-7 du code de l'action sociale et des familles, toute partie peut aussi, en cours d'instance, exposer ses moyens par lettre adressée au juge, à condition de justifier que la partie adverse en a eu connaissance avant l'audience, par lettre recommandée avec demande d'avis de réception.  
 

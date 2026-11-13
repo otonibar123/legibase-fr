@@ -160,7 +160,7 @@ Le quatrième alinéa de l'article R. 712-34 n'est pas applicable.
 - Identifiant : LEGIARTI000051768882
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768882
-- Renvoie à : [art. L713-11 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-11) ; art. R511-8 du Code rural et de la pêche maritime
+- Renvoie à : [art. L713-11 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-11) ; [art. R322-2 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-2) ; [art. R511-8 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-8)
 
 A l'article R. 713-1-1 :  
 

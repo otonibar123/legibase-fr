@@ -7,7 +7,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043893868
 - Renvoie à : [art. L4622-11 du Code du travail](chapitre-ii.md#article-l4622-11)
-- Cité par : [art. D4625-23 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vi/titre-ii/chapitre-v.md#article-d4625-23) ; [art. R4745-5 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vii/titre-iv/chapitre-v.md#article-r4745-5) ; [Arrêté du 21 mars 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049324641) ; [art. L717-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043893902) ; [Décret n°2014-423 du 24 avril 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028879931)
+- Cité par : [art. D4625-23 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vi/titre-ii/chapitre-v.md#article-d4625-23) ; [art. R4745-5 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vii/titre-iv/chapitre-v.md#article-r4745-5) ; [art. L717-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-2) ; [Arrêté du 21 mars 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049324641) ; [Décret n°2014-423 du 24 avril 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028879931)
 
 Un décret détermine les règles relatives à l'organisation, au choix et au financement du service de prévention et de santé au travail ainsi qu'aux modalités de surveillance de l'état de santé des travailleurs applicables aux catégories de travailleurs suivantes :
 
@@ -53,7 +53,7 @@ Ce décret en Conseil d'Etat prévoit les modalités d'information de l'employeu
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043893865
 - Renvoie à : [art. L1133-3 du Code du travail](../../../premiere-partie/livre-ier/titre-iii/chapitre-iii.md#article-l1133-3)
-- Cité par : [art. L711-16 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-16) ; [art. R4745-5 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vii/titre-iv/chapitre-v.md#article-r4745-5) ; [art. L717-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048689169) ; [LOI n°2011-867 du 20 juillet 2011, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024390953)
+- Cité par : [art. L711-16 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-16) ; [art. R4745-5 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vii/titre-iv/chapitre-v.md#article-r4745-5) ; [art. L717-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-1) ; [LOI n°2011-867 du 20 juillet 2011, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024390953)
 
 Un accord collectif de branche étendu peut prévoir des dérogations aux règles relatives à l'organisation et au choix du service de prévention et de santé au travail ainsi qu'aux modalités de surveillance de l'état de santé des travailleurs dès lors que ces dérogations n'ont pas pour effet de modifier la périodicité des examens médicaux définie par le présent code.
 
@@ -77,7 +77,7 @@ En cas de difficulté ou de désaccord avec les avis délivrés par les médecin
 - Identifiant : LEGIARTI000043894149
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043894149
-- Renvoie à : [art. L133-7 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741094)
+- Renvoie à : [art. L133-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-7)
 
 Les particuliers employeurs adhèrent, moyennant une contribution dont le montant est fixé par accord collectif de branche étendu, à un service de prévention et de santé au travail.  
 

@@ -10,7 +10,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - Identifiant : LEGIARTI000018533158
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533158
-- Cité par : [art. R222-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020586460)
+- Cité par : [art. R222-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-1)
 
 Le règlement du plan d'épargne d'entreprise comporte, en annexe, les critères de choix et la liste des instruments de placement ainsi que les notices des sociétés d'investissement à capital variable (SICAV) et des fonds communs de placement offerts aux adhérents.
 
@@ -28,7 +28,7 @@ Toutefois, le règlement du plan peut prévoir des restrictions à la faculté d
 - Identifiant : LEGIARTI000027799503
 - État : en vigueur depuis le 31/07/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027799503
-- Renvoie à : [art. L214-164 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780393) ; [art. L214-165 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780469) ; [Code monétaire et financier, Paragraphe 1 : Fonds agréés](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784058) ; [Code monétaire et financier, Paragraphe 2 : Fonds déclarés](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784586) ; [art. Sous-section 4 : Fonds d'épargne salariale du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784784)
+- Renvoie à : [art. L214-39 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-39) ; [art. L214-40 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-40) ; [art. L214-164 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-164) ; [art. L214-165 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-165) ; [Code monétaire et financier, Paragraphe 1 : Fonds agréés](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784058) ; [Code monétaire et financier, Paragraphe 2 : Fonds déclarés](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784586) ; [art. Sous-section 4 : Fonds d'épargne salariale du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784784)
 
 Le règlement du plan précise les modifications du choix de placement initial pouvant intervenir à l'occasion du départ du salarié de l'entreprise.
 
@@ -53,7 +53,7 @@ Le document unilatéral mentionné aux articles L. 3332-6-1 et L. 3333-7-1 est d
 - Identifiant : LEGIARTI000036483318
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483318
-- Cité par : [art. R3332-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046215948)
+- Cité par : [art. R3332-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r3332-4)
 
 Si le plan d'épargne d'entreprise est mis en place à l'initiative de l'entreprise, le procès-verbal de consultation du comité social et économique est déposé avec le règlement du plan.
 
@@ -71,7 +71,7 @@ Le plan d'épargne d'entreprise, établi par accord avec le personnel, est concl
 - Identifiant : LEGIARTI000049905618
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049905618
-- Renvoie à : [art. L3332-11 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-11) ; art. L241-3 du Code de la sécurité sociale
+- Renvoie à : [art. L241-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3) ; [art. L3332-11 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-11)
 - Cité par : [art. D3332-8-1 du Code du travail](chapitre-ii.md#article-d3332-8-1) ; [art. R3333-1 du Code du travail](chapitre-iii.md#article-r3333-1)
 
 Le plafond prévu à l'article L. 3332-11 est fixé à 8 % du montant annuel du plafond prévu à l'article L. 241-3 du code de la sécurité sociale. Ce plafond est porté à 16 % du montant annuel du plafond prévu au même article en cas de versement unilatéral de l'employeur prévu au 1° de l'article L. 3332-11.
@@ -146,6 +146,7 @@ Toutefois, lorsque le versement de l'intéressement, ou de la participation, au 
 - Identifiant : LEGIARTI000031588636
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031588636
+- Renvoie à : [art. L214-7 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7) ; [art. L214-24-29 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-29) ; [art. L214-163 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-163)
 
 A défaut de stipulation conventionnelle, les sommes sont affectées à une société d'investissement à capital variable régie par les articles L. 214-7 à L. 214-7-4 et L. 214-24-29 à L. 214-24-33 du code monétaire et financier ou à un fonds d'épargne salariale régi par les articles L. 214-163 à L. 214-166 du même code présentant le profil d'investissement le moins risqué dans le plan d'épargne d'entreprise ou, à défaut, dans le plan d'épargne du groupe. En l'absence de l'un et de l'autre de ces plans, les sommes sont affectées dans le plan d'épargne interentreprises, lorsqu'il a été mis en place.
 
@@ -248,7 +249,7 @@ Dans le cas prévu à l'article R. 3332-20, lorsque le plan d'épargne salariale
 - Identifiant : LEGIARTI000030776877
 - État : en vigueur depuis le 01/07/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030776877
-- Renvoie à : [art. D6325-23 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-v.md#article-d6325-23) ; [art. L5131-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-1) ; [art. L5213-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2) ; [art. L3332-17-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019292111) ; [art. L213-5 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006647664) ; [art. L213-32 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006648439) ; [art. L312-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006652050) ; [art. L512-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006654791) ; [LOI n°2014-856 du 31 juillet 2014, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000029313541)
+- Renvoie à : [art. D6325-23 du Code du travail](../../../sixieme-partie/livre-iii/titre-ii/chapitre-v.md#article-d6325-23) ; [art. L5131-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-1) ; [art. L5213-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-2) ; [art. L213-5 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-5) ; [art. L213-32 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-32) ; [art. L312-2 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-2) ; [art. L313-13 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-13) ; [art. L512-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ii.md#article-l512-1) ; [art. L3332-17-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019292111) ; [LOI n°2014-856 du 31 juillet 2014, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000029313541)
 - Cité par : [art. R3332-21-3 du Code du travail](chapitre-ii.md#article-r3332-21-3) ; [art. R3332-21-5 du Code du travail](chapitre-ii.md#article-r3332-21-5) ; [ARRÊTÉ du 5 août 2015, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031089095)
 
 La condition prévue au 2° du I de l'article L. 3332-17-1 est remplie lorsque l'une ou l'autre des deux conditions suivantes est remplie :
@@ -303,7 +304,7 @@ Une liste nationale des entreprises bénéficiant de l'agrément ou déclarées 
 - Identifiant : LEGIARTI000053296498
 - État : en vigueur depuis le 31/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053296498
-- Renvoie à : [art. L112-11 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367358) ; [art. R112-11-4 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033286832)
+- Renvoie à : [art. L112-9 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-l112-9) ; [art. L112-11 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-l112-11) ; [art. R112-11-4 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-11-4)
 - Cité par : [art. D3332-21-3-2 du Code du travail](chapitre-ii.md#article-d3332-21-3-2)
 
 La demande d'agrément prévue à l'article L. 3332-17-1 du code du travail est réalisée par téléservice au sens de l'article L. 112-9 du code des relations entre le public et l'administration.
@@ -423,7 +424,7 @@ Lorsque les obligations mentionnées à l'article L. 3332-23 sont admises aux n�
 - Identifiant : LEGIARTI000027799495
 - État : en vigueur depuis le 31/07/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027799495
-- Renvoie à : [art. L3332-23 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-23) ; [art. L3344-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-iv.md#article-l3344-1) ; [art. L3344-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-iv.md#article-l3344-2) ; [art. L214-164 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780393) ; [art. L214-165 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780469) ; [art. L214-166 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027784646)
+- Renvoie à : [art. L3332-23 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-23) ; [art. L3344-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-iv.md#article-l3344-1) ; [art. L3344-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-iv.md#article-l3344-2) ; [art. L214-39 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-39) ; [art. L214-40 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-40) ; [art. L214-41 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-41) ; [art. L214-164 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-164) ; [art. L214-165 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-165) ; [art. L214-166 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-166)
 
 Lorsque les obligations mentionnées à l'article L. 3332-23 ne sont pas admis aux négociations sur un marché réglementé, ces titres sont évalués à leur valeur nominale augmentée du coupon couru.
 
@@ -444,7 +445,7 @@ Les cas dans lesquels les actions ou parts acquises pour le compte des adhérent
 - Identifiant : LEGIARTI000018533090
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533090
-- Renvoie à : [art. L3332-16 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-16) ; [art. 150-0 A du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006302714) ; [art. 641 du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305176) ; [art. L341-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742597)
+- Renvoie à : [art. L341-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-iv/chapitre-1er.md#article-l341-4) ; [art. L3332-16 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-16) ; [art. 150-0 A du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-150-0-a) ; [art. 641 du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-641)
 - Cité par : [art. R3424-2 du Code du travail](../../livre-iv/titre-ii/chapitre-iv.md#article-r3424-2)
 
 Les faits en raison desquels, en application du deuxième alinéa de l'article L. 3332-16, les droits constitués au profit des participants peuvent être exceptionnellement débloqués avant l'expiration du terme de l'opération de rachat mentionné au 2° de cet article sont les suivants :
@@ -472,7 +473,7 @@ Les dispositions des articles D. 3324-37 à D. 3324-39 s'appliquent aux investis
 - Identifiant : LEGIARTI000018533084
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533084
-- Renvoie à : [art. 77 du CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006293885) ; [art. 163 bis B du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006308461)
+- Renvoie à : [art. 163 bis B du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-163-bis-b) ; [art. 77 du Code général des impôts, annexe II](../../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-77)
 
 L'avoir fiscal et le crédit d'impôt attachés aux revenus du portefeuille collectif ou des titres détenus individuellement acquis dans le cadre d'un plan d'épargne d'entreprise donnent lieu à la délivrance d'un certificat distinct, conformément aux dispositions de l'article 77 de l'annexe II au code général des impôts.
 

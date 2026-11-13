@@ -8,7 +8,7 @@ Code de commerce › Partie réglementaire › LIVRE II : Des sociétés commerc
 - Identifiant : LEGIARTI000020404386
 - État : en vigueur depuis le 19/03/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020404386
-- Renvoie à : [art. L228-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-1) ; art. L211-3 du Code monétaire et financier
+- Renvoie à : [art. L228-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-1) ; [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
 
 L'intermédiaire mentionné aux septième et huitième alinéas de l'article L. 228-1 déclare sa qualité d'intermédiaire inscrit pour le compte de tiers, dès l'ouverture du compte, auprès de la société émettrice, auprès d'un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier ou auprès d'un dépositaire central lorsque l'intermédiaire inscrit a ouvert un compte de titres dans les livres de ce dépositaire central.
 
@@ -16,7 +16,7 @@ L'intermédiaire mentionné aux septième et huitième alinéas de l'article L. 
 - Identifiant : LEGIARTI000020404383
 - État : en vigueur depuis le 19/03/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020404383
-- Renvoie à : art. L211-3 du Code monétaire et financier
+- Renvoie à : [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
 
 Lorsque les titres revêtent la forme de titres nominatifs administrés, l'intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier transmet immédiatement cette déclaration à la société émettrice.
 
@@ -24,8 +24,8 @@ Lorsque les titres revêtent la forme de titres nominatifs administrés, l'inter
 - Identifiant : LEGIARTI000045919833
 - État : en vigueur depuis le 17/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045919833
-- Renvoie à : [art. L228-2 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-2) ; [art. L228-3-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-3-1) ; art. L533-16 du Code monétaire et financier
-- Cité par : [art. R211-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020404341)
+- Renvoie à : [art. L228-2 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-2) ; [art. L228-3-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-3-1) ; [art. L533-16 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-iii.md#article-l533-16)
+- Cité par : [art. R211-9 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-9)
 
 I.-Les informations mentionnées aux I et II de l'article L. 228-2 et à l'article L. 228-3 sont, pour chaque propriétaire de titre, les suivantes :  
 
@@ -56,7 +56,7 @@ f) Lorsque le titre est une part ou une action d'un organisme de placement colle
 - État : en vigueur depuis le 17/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045919844
 - Renvoie à : [art. L228-2 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-2)
-- Cité par : [art. R211-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680212)
+- Cité par : [art. R211-9 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-9)
 
 Les délais de transmission mentionnés aux articles L. 228-2 et L. 228-3 sont précisés au 6. de l'article 9 du règlement d'exécution (UE) 2018/1212 de la Commission du 3 septembre 2018.
 
@@ -85,7 +85,7 @@ L'intermédiaire inscrit bénéficiaire d'un mandat mentionné à l'article L. 2
 - Identifiant : LEGIARTI000037926574
 - État : en vigueur depuis le 27/12/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037926574
-- Cité par : [art. R6411-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048324460)
+- Cité par : [art. R6411-1 du Code des transports](../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iv/titre-i/chapitre-i.md#article-r6411-1)
 
 La société tient à jour la liste des personnes titulaires de titres financiers nominatifs, avec l'indication du domicile déclaré par chacune d'elles.
 
@@ -93,7 +93,7 @@ La société tient à jour la liste des personnes titulaires de titres financier
 - Identifiant : LEGIARTI000037926569
 - État : en vigueur depuis le 27/12/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037926569
-- Cité par : [art. R228-9 du Code de commerce](chapitre-viii.md#article-r228-9) ; [art. R6411-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048324460)
+- Cité par : [art. R228-9 du Code de commerce](chapitre-viii.md#article-r228-9) ; [art. R6411-1 du Code des transports](../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iv/titre-i/chapitre-i.md#article-r6411-1)
 
 Les registres de titres nominatifs émis par une société sont établis par cette société ou par une personne qu'elle habilite à cet effet.
 
@@ -106,7 +106,7 @@ En outre, il peut être tenu des fichiers contenant, par ordre alphabétique, le
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006262267
 - Renvoie à : [art. R228-8 du Code de commerce](chapitre-viii.md#article-r228-8)
-- Cité par : [art. R6411-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048324460)
+- Cité par : [art. R6411-1 du Code des transports](../../../../code-des-transports/partie-reglementaire/sixieme-partie/livre-iv/titre-i/chapitre-i.md#article-r6411-1)
 
 Les registres mentionnés à l'article R. 228-8 contiennent les indications relatives aux opérations de transfert et de conversion des titres, et notamment :  
 
@@ -136,7 +136,7 @@ Pour l'application de la dernière phrase du neuvième alinéa de l'article L. 2
 - Identifiant : LEGIARTI000030615103
 - État : en vigueur depuis le 01/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030615103
-- Renvoie à : [art. L228-6 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-6) ; [art. L211-21 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020087404)
+- Renvoie à : [art. L228-6 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-6) ; [art. L211-21 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-21)
 - Cité par : [art. R228-14 du Code de commerce](chapitre-viii.md#article-r228-14)
 
 La mise en vente par la société des titres qui n'ont pu être attribués individuellement, prévue à l'article L. 228-6, est précédée de la publication d'un avis dans deux journaux à diffusion nationale ; cet avis met en demeure les titulaires des droits de faire valoir leurs droits dans un délai d'un an et les informe que la société procèdera à la vente à l'expiration de ce délai.  
@@ -149,7 +149,7 @@ La vente peut être faite aux enchères publiques par un prestataire de services
 - Identifiant : LEGIARTI000035438088
 - État : en vigueur depuis le 03/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035438088
-- Renvoie à : [art. L228-6-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-6-1) ; art. L211-21 du Code monétaire et financier ; art. L542-1 du Code monétaire et financier
+- Renvoie à : [art. L228-6-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-6-1) ; [art. L211-21 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-21) ; [art. L542-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-ii.md#article-l542-1)
 - Cité par : [art. R225-130 du Code de commerce](chapitre-v.md#article-r225-130) ; [art. R228-14 du Code de commerce](chapitre-viii.md#article-r228-14)
 
 La vente prévue à l'article L. 228-6-1 des titres de capital qui n'ont pu être attribués individuellement et correspondant aux droits formant rompus ainsi que la répartition des sommes provenant de cette vente aux titulaires des droits interviennent dans un délai de trente jours à compter de la plus tardive des dates d'inscription, au compte des titulaires des droits, du nombre entier de titres de capital attribués.
@@ -183,7 +183,7 @@ Lorsque la vente porte sur des titres de capital admis aux négociations sur un 
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006262311
 - Renvoie à : [art. R225-152 du Code de commerce](chapitre-v.md#article-r225-152)
-- Cité par : [art. R212-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680244)
+- Cité par : [art. R212-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-1)
 
 En cas de conversion d'actions de préférence en actions aboutissant à une réduction de capital non motivée par des pertes, les dispositions de l'article R. 225-152 s'appliquent.  
 
@@ -306,7 +306,7 @@ La désignation de l'expert prévue à l'article 1843-4 du code civil est faite 
 - Identifiant : LEGIARTI000041564038
 - État : en vigueur depuis le 12/02/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041564038
-- Renvoie à : [art. L228-27 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-27) ; art. L211-21 du Code monétaire et financier
+- Renvoie à : [art. L228-27 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-27) ; [art. L211-21 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-21)
 
 Pour l'application de l'article L. 228-27, l'actionnaire défaillant est mis en demeure par lettre recommandée avec demande d'avis de réception.
 
@@ -316,7 +316,7 @@ La vente des actions non admises aux négociations sur un marché réglementé e
 - Identifiant : LEGIARTI000006262428
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006262428
-- Renvoie à : [art. R211-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680157) ; [art. R211-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680165)
+- Renvoie à : [art. R211-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-1) ; [art. R211-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-4)
 
 L'inscription de l'actionnaire défaillant est rayée de plein droit dans le registre des actions nominatives de la société. Si les titres délivrés revêtent la forme nominative, l'acquéreur est inscrit et de nouveaux certificats indiquant la libération des versements appelés et portant la mention " duplicatum " sont délivrés.  
 
@@ -467,7 +467,7 @@ Les frais mentionnés à L. 228-29-7-4 sont publiés sur le site internet de l'i
 - État : en vigueur depuis le 26/06/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022391131
 - Renvoie à : [art. R225-62 du Code de commerce](chapitre-v.md#article-r225-62) ; [art. R225-63 du Code de commerce](chapitre-v.md#article-r225-63) ; [art. R225-66 du Code de commerce](chapitre-v.md#article-r225-66) ; [art. R225-73 du Code de commerce](chapitre-v.md#article-r225-73) ; [art. R225-87 du Code de commerce](chapitre-v.md#article-r225-87)
-- Cité par : [art. R212-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680269)
+- Cité par : [art. R212-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-3)
 
 L'assemblée spéciale des titulaires de certificats d'investissement est convoquée en même temps et dans les mêmes formes que l'assemblée générale des actionnaires qui décide de l'augmentation de capital ou de l'émission de valeurs mobilières donnant accès au capital.  
 
@@ -531,7 +531,7 @@ La déclaration prévue au sixième alinéa de l'article L. 228-30 est faite par
 - Identifiant : LEGIARTI000006262697
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006262697
-- Cité par : [art. R225-96 du Code de commerce](chapitre-v.md#article-r225-96) ; [art. R212-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680261)
+- Cité par : [art. R225-96 du Code de commerce](chapitre-v.md#article-r225-96) ; [art. R212-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-2)
 
 L'assemblée spéciale des titulaires d'actions à dividende prioritaire sans droit de vote, lorsqu'elle est réunie pour donner son avis sur toute décision des assemblées générales ordinaire ou extraordinaire, est convoquée en même temps que chacune de ces assemblées.
 
@@ -612,7 +612,7 @@ Les assemblées des titulaires d'actions à dividende prioritaire sans droit de 
 - Identifiant : LEGIARTI000006262799
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006262799
-- Cité par : [art. D213-26 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006639629)
+- Cité par : [art. D213-26 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-d213-26)
 
 L'assiette de la partie variable de la rémunération des titres participatifs ne peut être supérieure à 40 % du montant nominal du titre.  
 
@@ -629,6 +629,7 @@ L'assemblée générale des porteurs de titres participatifs se réunit au moins
 - Identifiant : LEGIARTI000039338713
 - État : en vigueur depuis le 31/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039338713
+- Renvoie à : [art. L412-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-1)
 
 La société qui émet des titres participatifs rend publiques, avant l'ouverture de leur souscription par le public, les conditions de l'émission, selon les modalités prévues par le règlement (UE) n° 2017/1129 du 14 juin 2017.
 
@@ -710,7 +711,7 @@ Lorsque la masse des porteurs prévue par l'article L. 228-37 est constituée de
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345837
 - Renvoie à : [art. L228-50 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-50) ; [art. L228-51 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-51)
-- Cité par : [art. R223-10 du Code de commerce](chapitre-iii.md#article-r223-10) ; [art. R213-25 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680393)
+- Cité par : [art. R223-10 du Code de commerce](chapitre-iii.md#article-r223-10) ; [art. R213-25 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-r213-25)
 
 Dans les cas prévus par l'article L. 228-50 et par l'article L. 228-51, les représentants de la masse sont désignés par le président du tribunal judiciaire statuant en référé.
 
@@ -821,7 +822,7 @@ Les dispositions des articles R. 225-72 à R. 225-74 ne sont pas applicables aux
 - Identifiant : LEGIARTI000047621643
 - État : en vigueur depuis le 03/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047621643
-- Renvoie à : art. L211-3 du Code monétaire et financier
+- Renvoie à : [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
 - Cité par : [Décret n°2007-431 du 25 mars 2007, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006261694)
 
 Il est justifié du droit de participer aux assemblées d'obligataires par l'inscription des obligations, au jour de l'assemblée générale, soit dans les comptes de titres nominatifs tenus par la société, soit dans les comptes de titres au porteur tenus par un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier, soit, le cas échéant, dans un dispositif d'enregistrement électronique partagé en application du règlement (UE) 2022/858 du Parlement européen et du Conseil du 30 mai 2022 sur un régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués, et modifiant les règlements (UE) n° 600/2014 et (UE) n° 909/2014 et la directive 2014/65/ UE. Toutefois, il peut être prévu, par une disposition spéciale du contrat d'émission, qu'il sera justifié du droit de participer aux assemblées d'obligataires par l'inscription des obligations dans les mêmes comptes au deuxième jour ouvré précédant l'assemblée à zéro heure, heure de Paris.
@@ -958,7 +959,7 @@ En cas de liquidation judiciaire, les attestations d'inscription en compte des o
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006263036
 - Renvoie à : [art. L228-99 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-99)
-- Cité par : [art. R228-92 du Code de commerce](chapitre-viii.md#article-r228-92) ; [art. R212-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680271)
+- Cité par : [art. R228-92 du Code de commerce](chapitre-viii.md#article-r228-92) ; [art. R212-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-4)
 
 Pour l'application du 1° de l'article L. 228-99, lorsqu'il existe des valeurs mobilières donnant accès au capital, la société qui émet de nouveaux titres de capital avec droit préférentiel de souscription réservé à ses actionnaires, si les droits attachés aux valeurs mobilières donnant accès au capital ne peuvent s'exercer qu'à certaines dates, ouvre une période exceptionnelle pour permettre aux titulaires des droits attachés à des valeurs mobilières donnant accès au capital qui exerceraient ces droits de souscrire des titres nouveaux.  
 

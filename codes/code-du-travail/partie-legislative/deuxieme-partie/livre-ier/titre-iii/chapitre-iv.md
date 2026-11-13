@@ -6,7 +6,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000006901598
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901598
-- Renvoie à : [art. L712-1 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279687)
+- Renvoie à : [art. L712-1 du Code de la propriété intellectuelle](../../../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-ii.md#article-l712-1)
 - Cité par : [art. L433-8 du Code de la consommation](../../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iv/titre-iii/chapitre-iii.md#article-l433-8)
 
 Les syndicats professionnels peuvent déposer leurs marques ou labels en remplissant les formalités prévues par les articles L. 712-1 et suivants du code de la propriété intellectuelle. Ils peuvent, dès lors, en revendiquer la propriété exclusive dans les conditions prévues par ce code.  

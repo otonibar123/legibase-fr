@@ -30,6 +30,6 @@ Les informations demandées au bénéficiaire d'une action de validation des acq
 - Identifiant : LEGIARTI000006904473
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904473
-- Renvoie à : [art. 226-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417944)
+- Renvoie à : [art. 226-13 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-226-13)
 
 Les personnes dépositaires d'informations communiquées par le candidat dans le cadre de sa demande de validation sont soumises aux dispositions des articles 226-13 et 226-14 du code pénal.

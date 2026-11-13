@@ -45,7 +45,7 @@ La preuve contraire est recevable pour combattre ces présomptions.
 - Identifiant : LEGIARTI000006424652
 - État : en vigueur depuis le 01/07/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006424652
-- Cité par : [art. 317 du Code civil](chapitre-ii.md#article-317)
+- Cité par : [art. 317 du Code civil](chapitre-ii.md#article-317) ; [art. L561-5 du Code de l'entrée et du séjour des étrangers et du droit d'asile](../../../code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile/partie-legislative/livre-v/titre-vi/chapitre-i.md#article-l561-5)
 
 La possession d'état s'établit par une réunion suffisante de faits qui révèlent le lien de filiation et de parenté entre une personne et la famille à laquelle elle est dite appartenir.  
 

@@ -599,7 +599,7 @@ Les intérêts produits par les sommes déposées où placées à court terme on
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037934289
 - Renvoie à : [art. L6361-5 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ier.md#article-l6361-5)
-- Cité par : [art. R6332-110 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021858365) ; [art. R718-19 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050720801)
+- Cité par : [art. R718-19 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md#article-r718-19) ; [art. R6332-110 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021858365)
 
 Les opérateurs de compétences et les fonds d'assurance formation des non-salariés sont soumis au contrôle économique et financier de l'Etat dans les conditions prévues par le décret n° 55-733 du 26 mai 1955 susvisé.
 
@@ -645,7 +645,7 @@ Le conseil d'administration détermine les priorités, les critères et les cond
 - État : en vigueur depuis le 01/07/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045987445
 - Renvoie à : [art. D6332-20 du Code du travail](chapitre-ii.md#article-d6332-20) ; [art. R6332-5 du Code du travail](chapitre-ii.md#article-r6332-5) ; [art. R6332-12 du Code du travail](chapitre-ii.md#article-r6332-12) ; [art. R6332-22 du Code du travail](chapitre-ii.md#article-r6332-22) ; [art. R6332-23 du Code du travail](chapitre-ii.md#article-r6332-23) ; [art. R6332-25 du Code du travail](chapitre-ii.md#article-r6332-25) ; [art. R6332-28 du Code du travail](chapitre-ii.md#article-r6332-28) ; [art. R6332-29 du Code du travail](chapitre-ii.md#article-r6332-29) ; [art. R6332-30 du Code du travail](chapitre-ii.md#article-r6332-30) ; [art. R6332-34 du Code du travail](chapitre-ii.md#article-r6332-34)
-- Cité par : [art. R6331-66 du Code du travail](chapitre-ier.md#article-r6331-66) ; [art. R6332-77-1 du Code du travail](chapitre-ii.md#article-r6332-77-1) ; [art. R252-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047725052)
+- Cité par : [art. R252-1 du Code de l'artisanat](../../../../../code-de-l-artisanat/partie-reglementaire/livre-ii/titre-v/chapitre-ii.md#article-r252-1) ; [art. R6331-66 du Code du travail](chapitre-ier.md#article-r6331-66) ; [art. R6332-77-1 du Code du travail](chapitre-ii.md#article-r6332-77-1)
 
 Sont applicables aux fonds d'assurance formation de non-salariés habilités au titre de la présente-section, y compris aux fonds d'assurance-formation de non salariés des employeurs et travailleurs indépendants de la pêche maritime et des cultures marines, les articles suivants :
 
@@ -767,7 +767,7 @@ Au vu des éléments de réponse du fonds d'assurance formation ou, à défaut d
 - Identifiant : LEGIARTI000045987396
 - État : en vigueur depuis le 01/07/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045987396
-- Renvoie à : [art. L6331-48 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-48) ; [art. L6331-52 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-52) ; art. L225-1-1 du Code de la sécurité sociale
+- Renvoie à : [art. L225-1-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-ii/chapitre-5.md#article-l225-1-1) ; [art. L6331-48 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-48) ; [art. L6331-52 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md#article-l6331-52)
 - Cité par : [art. R6523-2-6 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-2-6) ; [art. R6523-2-16-1 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-2-16-1) ; [art. R6523-2-20 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r6523-2-20)
 
 L'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale reverse sous forme d'un acompte le montant de la contribution mentionnée à l'article L. 6331-48 à France compétences au plus tard le 31 décembre de l'année au titre de laquelle elle est due, après déduction des frais de gestion mentionnés à l'article L. 6331-52 du présent code et selon des modalités fixées par convention entre ces organismes. La régularisation de l'acompte est effectuée au plus tard le 1er mars de l'année qui suit le recouvrement de la contribution. L'organisme mentionné à l'article L. 225-1-1 du code de la sécurité sociale accompagne ses versements des informations, recensées dans la même convention, permettant la répartition des fonds par France compétences.
@@ -919,7 +919,7 @@ A l'issue de chaque procédure de détermination des niveaux de prise en charge 
 - Identifiant : LEGIARTI000042571214
 - État : en vigueur depuis le 28/11/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042571214
-- Renvoie à : [art. L6332-14 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-14) ; art. L241-5 du Code de l'action sociale et des familles
+- Renvoie à : [art. L241-5 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-iv/chapitre-ier-bis.md#article-l241-5) ; [art. L6332-14 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-14)
 - Cité par : [Arrêté du 7 décembre 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042663408) ; [Arrêté du 7 décembre 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042663417) ; [Décret n°2022-280 du 28 février 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048547751)
 
 L'opérateur de compétences majore le niveau de prise en charge, en application du 1° du I de l'article L. 6332-14, pour l'accueil d'un apprenti reconnu travailleur handicapé par la commission mentionnée à l'article L. 241-5 du code de l'action sociale et des familles, en appliquant une majoration dans la limite d'un montant de 4 000 euros, selon les niveaux d'intervention fixés par arrêté conjoint du ministre chargé de la formation professionnelle et du ministre chargé du handicap.
@@ -1050,7 +1050,7 @@ II.-Le montant moyen de prise en charge des périodes de reconversion par opéra
 - État : en vigueur depuis le 01/02/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053428309
 - Renvoie à : [art. L6324-9 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l6324-9) ; [art. L6325-1-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l6325-1-1) ; [art. L6332-1-2 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-1-2)
-- Cité par : [art. A212-28 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019263137)
+- Cité par : [art. A212-28 du Code du sport](../../../../../code-du-sport/partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md#article-a212-28)
 
 I.-Lorsque l'accord mentionné à l'article L. 6324-9 ou, le cas échéant, la décision unilatérale de l'employeur mentionnée au même article prévoit la prise en charge de l'écart de rémunération par l'opérateur de compétences sans en préciser le niveau, celui-ci est fixé selon des modalités précisées par le conseil d'administration de l'opérateur de compétences.
 

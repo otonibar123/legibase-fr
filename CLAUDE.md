@@ -63,7 +63,7 @@ legibase-fr/
 ├── jurisprudence/
 │   └── <theme>/                  # une fiche .md par décision
 ├── liens/
-│   ├── graphe.json               # tous les renvois (article source -> article cible)
+│   ├── graphe/<code>.json        # renvois (article source -> article cible), un fichier par code
 │   └── carte-des-liens.md        # synthèse lisible : quels codes renvoient à quels codes
 └── scripts/
     └── update.py                 # régénère tout et met à jour VERSION.md
@@ -108,7 +108,7 @@ Le dossier `scripts/` sert au mainteneur ; l'utilisateur n'en a pas besoin.
 2. Compléter en détectant dans le texte les mentions du type
    « article L. 1234-5 du code du travail » ou « article 10 de la loi du 31 décembre 1971 ».
 3. Écrire chaque lien dans les deux sens (« Renvoie à » et « Cité par »), dans les fichiers
-   `renvois.md` de chaque code et dans `liens/graphe.json`.
+   `renvois.md` de chaque code et dans `liens/graphe/<code>.json`.
 4. Relier chaque décision de jurisprudence aux articles qu'elle vise.
 5. Quand un nouveau code est ajouté, mettre à jour les liens « Cité par » des codes déjà traités.
 6. Lister à part les renvois vers des codes pas encore traités, pour les compléter plus tard.
@@ -123,10 +123,17 @@ Le dossier `scripts/` sert au mainteneur ; l'utilisateur n'en a pas besoin.
   Bibliothèque : ~50 Mo (zip 8,5 Mo). **Commit local, pas encore poussé** : attendre la validation de l'utilisateur.
   Étape 3 (loi 71-1130, décret 91-1197, RIN) non faite : ce sont des textes non codifiés (`TNC_en_vigueur/JORF/...`),
   il faut adapter l'extraction et le générateur (dossier `textes-non-codifies/`), et le RIN vient du site du CNB.
+- **Nuit du 13/11/2026, suite : les 76 codes en vigueur de LEGI générés**, à la demande de l'utilisateur (« continue à faire
+  tous les codes en France sans arrêt ») : 159 998 articles, 13 858 fichiers, 317 172 renvois ; `codes/` 303 Mo,
+  `liens/` 62 Mo, zip 63 Mo. Vérifiés : texte identique aux XML, 0 lien cassé, 0 ancre absente (695 033 liens internes).
+  20 articles « VIGUEUR » non écrits car rangés par LEGI dans une section abrogée ou modifiée (consommation R822-x,
+  éducation R337-31/45, santé publique R1333-172 à 175, transports L3124-8/L4316-3, CGI 302 B/591, communes de
+  Nouvelle-Calédonie R234-11). Le code du domaine public fluvial a 0 article « VIGUEUR » (1 seul « ABROGE_DIFF »).
+  **Taille** : trop grand pour une seule skill ? Proposer à l'utilisateur de séparer par domaine. Commit local, pas poussé.
 - **Décisions à demander à l'utilisateur** :
-  - 393 articles en vigueur aujourd'hui mais marqués « ABROGE_DIFF » (abrogation programmée) sont exclus par la règle
-    « état VIGUEUR uniquement » : civil 3, procédure civile 58, travail 116, consommation 178 (dont 139 abrogés fin
-    novembre 2026), commerce 38. Proposition : les inclure avec « jusqu'au JJ/MM/AAAA » ;
+  - des articles en vigueur aujourd'hui mais marqués « ABROGE_DIFF » (abrogation programmée) sont exclus par la règle
+    « état VIGUEUR uniquement » (393 rien que pour civil, procédure civile, travail, consommation, commerce ; non compté
+    pour les 76 codes). Proposition : les inclure avec « jusqu'au JJ/MM/AAAA » ;
   - 9 articles R822-x du code de la consommation (Commission des clauses abusives) sont « VIGUEUR » mais dans une
     section abrogée le 31/03/2026 : incohérence de LEGI, laissés de côté ;
   - 30 numéros d'articles portés par deux articles différents (surtout des annexes du code de commerce, ex. « Annexe 1-3 ») :
@@ -157,8 +164,8 @@ python3 -I scripts/update.py --sans-telechargement # réutilise l'archive déjà
 python3 -I scripts/update.py --sans-extraction     # réutilise aussi les XML déjà extraits (quelques secondes)
 ```
 
-- Pour ajouter un code : l'ajouter au dictionnaire `CODES` de `scripts/update.py` (`dossier: identifiant LEGITEXT`),
-  un seul à la fois et avec l'accord de l'utilisateur. Tout est régénéré à chaque lancement, donc les liens
+- `CODES` de `scripts/update.py` contient les 76 codes en vigueur de LEGI (`dossier: identifiant LEGITEXT`, dossier = titre
+  officiel TITREFULL en minuscules sans accents). Génération complète : ~11 minutes, ~1,3 Go de mémoire. Tout est régénéré à chaque lancement, donc les liens
   « Cité par » des codes déjà traités se mettent à jour d'eux-mêmes.
 - **`.cache/`** (2 Go, exclu de GitHub par `.gitignore`) contient l'archive `Freemium_legi_global_*.tar.gz` (1,26 Go)
   et un dossier `extrait-<code>/` par code. L'extraction relit toute l'archive : compter plus de 10 minutes
@@ -179,6 +186,12 @@ python3 -I scripts/update.py --sans-extraction     # réutilise aussi les XML d�
   le générateur les parcourt (le tri se fait article par article). Un même article peut être rattaché à deux versions
   d'une section : il n'est écrit qu'une fois, sous la section « VIGUEUR » de préférence. Les fichiers de chapitre
   sans article en vigueur ne sont pas écrits, et le dossier d'un code est vidé avant d'être régénéré.
+- **Noms des codes** : un même code est nommé de façons diverses dans les libellés de liens (« Code général des impôts, CGI. »,
+  majuscules, coupé à 50 caractères avec ou sans « ... », ancien nom : « Code rural (nouveau) » = « Code rural et de la
+  pêche maritime »). Les liens sont rattachés par l'identifiant `cidtexte` ; les autres noms relevés sont listés dans
+  `INDEX.md` et servent à repérer les mentions dans le texte.
+- **Articles sans numéro** (6) : titrés « Article (sans numéro dans LEGI) » et pas inscrits dans la table des liens
+  (sinon tout lien vers un texte entier pointerait vers eux). Noms de fichiers coupés à 80 caractères (limite macOS).
 - **Sens des liens** (`typelien="CITATION"`) : `sens="source"` = l'article cite la cible (« Renvoie à ») ;
   `sens="cible"` = l'article est cité par l'autre texte (« Cité par »).
 - **Libellés de lien** : « Code civil - art. 1366 (V) ». L'état entre parenthèses (V, VD = gardés ; M, Ab... = anciennes

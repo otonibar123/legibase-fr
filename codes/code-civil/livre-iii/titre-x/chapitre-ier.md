@@ -8,7 +8,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000020616173
 - État : en vigueur depuis le 14/05/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020616173
-- Cité par : [Arrêté du 22 mai 2023, art. 15-B](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051899883) ; [art. R314-86 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006906903)
+- Cité par : [art. R314-86 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-86) ; [Arrêté du 22 mai 2023, art. 15-B](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051899883)
 
 Le prêt à usage est un contrat par lequel l'une des parties livre une chose à l'autre pour s'en servir, à la charge par le preneur de la rendre après s'en être servi.
 

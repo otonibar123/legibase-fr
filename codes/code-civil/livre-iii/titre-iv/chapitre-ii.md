@@ -183,6 +183,7 @@ La délégation est une opération par laquelle une personne, le délégant, obt
 - Identifiant : LEGIARTI000032042065
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042065
+- Cité par : [art. D431-63 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md#article-d431-63)
 
 Lorsque le délégant est débiteur du délégataire et que la volonté du délégataire de décharger le délégant résulte expressément de l'acte, la délégation opère novation. Toutefois, le délégant demeure tenu s'il s'est expressément engagé à garantir la solvabilité future du délégué ou si ce dernier se trouve soumis à une procédure d'apurement de ses dettes lors de la délégation.
 

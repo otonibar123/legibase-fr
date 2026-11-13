@@ -87,6 +87,7 @@ Néanmoins, les billets souscrits par un commerçant sont censés faits pour son
 - Identifiant : LEGIARTI000031013311
 - État : en vigueur depuis le 01/03/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031013311
+- Renvoie à : [art. L5114-20 du Code des transports](../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-ier/titre-ier/chapitre-iv.md#article-l5114-20) ; [art. L5114-29 du Code des transports](../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-ier/titre-ier/chapitre-iv.md#article-l5114-29)
 
 Le président du tribunal de commerce peut connaître concurremment avec le juge de l'exécution, lorsqu'elles tendent à la conservation d'une créance relevant de la compétence de la juridiction commerciale et qu'elles sont demandées avant tout procès, des mesures conservatoires portant sur :
 

@@ -57,6 +57,7 @@ A l'article L. 141-13, les mots : " par les articles 638 et 653 du code généra
 - Identifiant : LEGIARTI000020905631
 - État : en vigueur depuis le 26/07/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020905631
+- Renvoie à : [art. 71 du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-ii/chapitre-premier.md#article-71)
 
 L'article L. 145-2 est modifié ainsi qu'il suit :
 

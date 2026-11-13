@@ -112,7 +112,7 @@ Les résultats sont communiqués au médecin du travail de l'entreprise extérie
 - Identifiant : LEGIARTI000035492387
 - État : en vigueur depuis le 01/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035492387
-- Renvoie à : [art. R4624-1 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-1) ; [art. R717-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006596619) ; art. R717-14 du Code rural et de la pêche maritime
+- Renvoie à : [art. R4624-1 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-1) ; [art. R717-14 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-14)
 - Cité par : [Arrêté du 26 juin 2019, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038718863) ; [Décret n°2021-24 du 13 janvier 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042985954)
 
 Par accord entre les chefs de l'entreprise utilisatrice et de l'entreprise extérieure et les médecins du travail intéressés, le suivi individuel de l'état de santé et pour les salariés agricoles, à l'article R. 717-14 du code rural et de la pêche maritime, peut être réalisé par le médecin du travail de l'entreprise utilisatrice pour le compte de l'entreprise extérieure. Cet accord peut également prévoir que le médecin du travail de l'entreprise utilisatrice et, le cas échéant, les autres membres de l'équipe pluridisciplinaire de santé au travail, mènent les actions sur le milieu de travail prévues aux articles R. 4624-1 et suivants pour le compte des salariés de l'entreprise extérieure.

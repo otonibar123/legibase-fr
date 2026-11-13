@@ -1,0 +1,371 @@
+# Chapitre VIII : Dispositions applicables dans les Terres australes et antarctiques françaises
+
+Code de la sécurité intérieure › Partie réglementaire › LIVRE VI : ACTIVITÉS PRIVÉES DE SÉCURITÉ › TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
+
+### Article R648-1
+- Identifiant : LEGIARTI000053221585
+- État : en vigueur depuis le 31/12/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053221585
+- Renvoie à : [art. R611-1 du Code de la sécurité intérieure](../titre-ier/chapitre-ier.md#article-r611-1)
+
+Sont applicables dans les Terres australes et antarctiques françaises en tant qu'elles concernent les entreprises participant aux activités mentionnées au 4° de l'article L. 611-1 ainsi que leurs dirigeants, gérants, associés et agents les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+
+|
+
+DISPOSITIONS applicables
+|
+
+DANS LEUR RÉDACTION
+
+|
+
+R. 611-1 (à l'exception du 1°) et R. 611-2
+|
+
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+| R. 611-2-1
+| Résultant du décret n° 2025-1344 du 26 décembre 2025
+
+| R. 612-2
+|
+
+Résultant du décret n° 2025-1344 du 26 décembre 2025
+
+|
+
+R. 612-3
+|
+
+Résultant du décret n° 2024-1116 du 4 décembre 2024
+
+| R. 612-3-1
+|
+Résultant du décret n° 2016-515 du 26 avril 2016
+
+| R. 612-3-2
+|
+Résultant du décret n° 2024-1116 du 4 décembre 2024
+
+| R. 612-3-4
+|
+Résultant du décret n° 2016-515 du 26 avril 2016
+
+|
+R. 612-5
+
+| Résultant du décret n° 2024-311 du 4 avril 2024
+
+|
+R. 612-5-1
+
+| Résultant du décret n° 2024-311 du 4 avril 2024
+
+| R. 612-6
+|
+Résultant du décret n° 2016-515 du 26 avril 2016
+
+| R. 612-7 à R. 612-9
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+| R. 612-10 et R. 612-10-1
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 612-11
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (décrets en Conseil d'Etat et décrets simples)
+
+| R. 612-12
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 612-12 et R. 612-14
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+|
+R. 612-15
+
+| Résultant du décret n° 2025-1344 du 26 décembre 2025
+
+|
+R. 612-16
+
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+| R. 612-17
+|
+Résultant du décret n° 2024-1116 du 4 décembre 2024
+
+| R. 612-18
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d’exercice des activités privées de sécurité
+
+|
+
+R. 612-18-1
+|
+Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des navires
+
+| R. 612-19
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+|
+R. 612-20
+
+| Résultant du décret n° 2023-50 du 1er février 2023
+
+|
+R. 612-21
+
+| Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+|
+R. 612-22
+
+| Résultant du décret n° 2025-1344 du 26 décembre 2025
+
+|
+R. 612-23
+
+| Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+|
+
+R. 612-24
+|
+
+Résultant du décret n° 2024-1116 du 4 décembre 2024
+
+|
+
+R. 612-24-1 à R. 612-25
+|
+
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 612-26 à R. 612-28
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+| R. 612-28-1
+|
+Résultant du décret n° 2023-50 du 1er février 2023
+
+| R. 612-29
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+| R. 612-31 et R. 612-32
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+|
+R. 612-33
+
+| Résultant du décret n° 2024-1116 du 4 décembre 2024
+
+|
+R. 612-36
+
+| Résultant du décret n° 2025-1344 du 26 décembre 2025
+
+|
+R. 612-37
+
+| Résultant du
+
+|
+|
+décret n° 2023-50 du 1er février 2023R. 612-39Résultant du décret n° 2023-50 du 1er février 2023
+
+|
+R. 612-41
+
+| Résultant du décret n° 2025-70 du 27 janvier 2025
+
+|
+R. 612-42
+
+| Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+| R. 613-16-4 à R. 613-16-14
+|
+Résultant du décret n° 2023-50 du 1er février 2023
+
+| R. 613-16-15
+|
+Résultant du décret n° 2024-311 du 4 avril 2024
+
+| R. 613-16-16
+|
+Résultant du décret n° 2023-50 du 1er février 2023
+
+| R. 616-1 à R. 616-11
+|
+Résultant du décret n° 2014-1415 du 28 novembre 2014 relatif aux conditions d'exercice de l'activité privée de protection des navires
+
+| R. 616-12
+|
+Résultant du décret n° 2023-252 du 4 avril 2023
+
+| R. 616-13
+|
+Résultant du décret n° 2018-1270 du 26 décembre 2018
+
+| R. 616-14
+|
+Résultant du décret n° 2014-1415 du 28 novembre 2014
+
+| R. 617-2-3
+|
+Résultant du décret n° 2023-50 du 1er février 2023
+
+|
+
+R. 631-1 à R. 631-3
+|
+Résultant du décret n° 2024-311 du 4 avril 2024
+
+| R. 631-4 à R. 631-14
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+| R. 631-15
+|
+Résultant du décret n° 2025-1344 du 26 décembre 2025
+
+| R. 631-16
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+| R. 631-17 à R. 631-22
+|
+Résultant du décret n° 2024-311 du 4 avril 2024
+
+| R. 631-23
+|
+Résultat du décret n° 2022-209 du 18 février 2022
+
+| R. 631-24
+|
+Résultant du décret n° 2024-311 du 4 avril 2024
+
+|
+R. 631-25 à R. 631-32
+
+| Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d’Etat et décrets simples)
+
+|
+R. 631-33
+
+| Résultant du décret n° 2024-311 du 4 avril 2024
+
+| R. 632-1
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'etat et décrets simples)
+
+| R. 632-2
+|
+Résultant du décret n° [NOR : IOMD2325654D] du 4 avril 2024
+
+| R. 632-3
+|
+Résultant du décret n° 2024-311 du 4 avril 2024
+
+| R. 632-4
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 632-5
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+| R. 632-6
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 632-7 à R. 632-8
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+|
+
+R. 632-9
+| Résultant du décret n° 2018-1270 du 26 décembre 2018
+
+| R. 632-10
+|
+Résultant du décret n° 2025-1344 du 26 décembre 2025
+
+| R. 632-11 à R. 632-12
+| Résultant du décret n° 2014-1253 du 27 octobre 2014
+
+| R. 632-13
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 632-14
+|
+Résultant du décret n° 2024-311 du 4 avril 2024
+
+| R. 632-15
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+| R. 632-16, R. 632-16-1
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 632-17 à R. 632-23
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)
+
+| R. 633-1, R. 633-3 à R. 633-5, sauf son dernier alinéa, R. 633-6 à R. 633-10
+|
+Résultant du décret n° 2016-515 du 26 avril 2016 relatif aux conditions d'exercice des activités privées de sécurité et au Conseil national des activités privées de sécurité
+
+| R. 634-1 à R. 634-4
+|
+Résultant du décret n° 2022-449 du 30 mars 2022
+
+| R. 634-5
+|
+Résultant du décret n° 2024-311 du 4 avril 2024
+
+|
+
+R. 634-6
+|
+
+Résultant du décret n° 2024-1116 du 4 décembre 2024
+
+| R 634-7
+|
+Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d’Etat et décrets simples)
+
+> Nota : Conformément au 3° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l’article 7 du décret précité, entrent en vigueur à une date fixée par un arrêté conjoint du ministre de l'intérieur et de la ministre des outre-mer et au plus tard le 31 décembre 2026.
+
+### Article R648-2
+- Identifiant : LEGIARTI000049384341
+- État : en vigueur depuis le 07/04/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049384341
+- Renvoie à : [art. L123-33 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-33)
+
+Pour l'application du titre Ier du présent livre dans les Terres australes et antarctiques françaises :  
+
+1° Au premier alinéa de l'article R. 612-5, les mots : “numéro unique d'identification obtenu auprès de l'organisme unique défini à l'article L. 123-33 du code de commerce” sont remplacés par les mots : “numéro d'immatriculation au registre du commerce et des sociétés” ;
+
+2° A l'article R. 612-28-1, la référence au code rural et de la pêche maritime est remplacée par la référence aux dispositions applicables localement ayant le même objet ;  
+
+3° L'article R. 613-16-5 est supprimé ;  
+
+4° Aux articles R. 612-39 et R. 613-16-10, les mots : “, le cas échéant de manière inopinée, par les services mentionnés à l'article R. 733-1 du code de la sécurité intérieure ” sont supprimés ;  
+
+5° A l'article R. 613-16-14, les mots : “ et les services mentionnés à l'article R. 733-1 ” sont supprimés ;  
+
+5° bis A l'article R. 613-16-16, les mots : “ et des services mentionnés à l'article R. 733-1 ” sont supprimés.

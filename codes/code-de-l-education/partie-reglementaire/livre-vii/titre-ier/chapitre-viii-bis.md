@@ -1,0 +1,179 @@
+# Chapitre VIII bis : Coopération et regroupements des établissements
+
+Code de l'éducation › Partie réglementaire › Livre VII : Les établissements d'enseignement supérieur › Titre Ier : Les établissements publics à caractère scientifique, culturel et professionnel
+
+## Section 1 : Dispositions communes
+
+## Section 2 : Fusion d'établissements
+
+## Section 3 : La communauté d'universités et établissements
+
+## Section 4 : Conventions et association
+
+### Article D718-5
+- Identifiant : LEGIARTI000053155005
+- État : en vigueur depuis le 01/01/2026
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053155005
+- Cité par : [art. D741-5 du Code de l'éducation](../titre-iv/chapitre-unique.md#article-d741-5) ; [art. D741-9 du Code de l'éducation](../titre-iv/chapitre-unique.md#article-d741-9) ; [Décret n°2024-1157 du 4 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050738483) ; [Décret n°2025-63 du 23 janvier 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051034330)
+
+Les établissements ou organismes concourant aux missions du service public de l'enseignement supérieur et de la recherche, dont la liste figure au présent article, sont associés à un ou plusieurs établissements publics à caractère scientifique, culturel et professionnel en application de l'article L. 718-16 :
+
+1° (Abrogé) ;
+
+2° L'institut d'administration des entreprises de Paris à l'université Paris-I par le décret n° 2014-1549 du 19 décembre 2014 portant association de l'institut d'administration des entreprises de Paris à l'université Paris-I ;
+
+3° (Supprimé) ;
+
+4° (Abrogé) ;
+
+5° (Abrogé) ;
+
+6° (Abrogé) ;
+
+7° L'université de Mulhouse à l'université de Strasbourg par le décret n° 2015-528 du 12 mai 2015 portant association d'établissements du site alsacien ;
+
+8° L'Institut national des sciences appliquées de Strasbourg à l'université de Strasbourg par le décret n° 2015-528 du 12 mai 2015 portant association d'établissements du site alsacien ;
+
+9° La Bibliothèque nationale et universitaire de Strasbourg à l'université de Strasbourg par le décret n° 2015-528 du 12 mai 2015 portant association d'établissements du site alsacien ;
+
+10° L'Ecole nationale supérieure d'architecture de Strasbourg à l'université de Strasbourg par le décret n° 2015-528 du 12 mai 2015 portant association d'établissements du site alsacien ;
+
+11° L'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg à l'université de Strasbourg par le décret n° 2015-637 du 8 juin 2015 portant association de l'Ecole nationale du génie de l'eau et de l'environnement de Strasbourg à l'université de Strasbourg ;
+
+12° L'Institut d'études politiques de Bordeaux à l'université de Bordeaux par le décret n° 2015-785 du 29 juin 2015 portant association d'établissements à l'université de Bordeaux ;
+
+13° L'Institut polytechnique de Bordeaux à l'université de Bordeaux par le décret n° 2015-785 du 29 juin 2015 portant association d'établissements à l'université de Bordeaux ;
+
+14° L'Ecole nationale supérieure d'ingénieurs de Caen à l'université de Caen par le décret n° 2015-1008 du 18 août 2015 portant association de l'Ecole nationale supérieure d'ingénieurs de Caen à l'université de Caen ;
+
+15° (Abrogé) ;
+
+16° (Abrogé) ;
+
+17° (Abrogé) ;
+
+18° (Abrogé) ;
+
+19° (Abrogé) ;
+
+20° (Supprimé) ;
+
+21° (Supprimé) ;
+
+22° (Supprimé) ;
+
+23° (Supprimé) ;
+
+24° L'Ecole nationale supérieure des sciences de l'information et des bibliothèques à la ComUE Lyon Saint-Étienne par le décret n° 2016-180 du 23 février 2016 portant association d'établissements publics du site lyonnais ;
+
+25° L'Ecole nationale supérieure des arts et techniques du théâtre à la ComUE Lyon Saint-Étienne par le décret n° 2016-180 du 23 février 2016 portant association d'établissements publics du site lyonnais ;
+
+26° (Abrogé)
+
+27° L'Institut d'études politiques de Lyon à l'université Lyon-II par le décret n° 2016-180 du 23 février 2016 portant association d'établissements publics du site lyonnais ;
+
+28° L'université d'Avignon à l'université d'Aix-Marseille par le décret n° 2016-181 du 23 février 2016 portant association d'établissements du site Aix-Marseille-Provence-Méditerranée ;
+
+29° L'université de Toulon à l'université d'Aix-Marseille par le décret n° 2016-181 du 23 février 2016 portant association d'établissements du site Aix-Marseille-Provence-Méditerranée ;
+
+30° L'Ecole centrale de Marseille à l'université d'Aix-Marseille par le décret n° 2016-181 du 23 février 2016 portant association d'établissements du site Aix-Marseille-Provence-Méditerranée ;
+
+31° L'Institut d'études politiques d'Aix-en-Provence à l'université d'Aix-Marseille par le décret n° 2016-181 du 23 février 2016 portant association d'établissements du site Aix-Marseille-Provence-Méditerranée ;
+
+32° à 45° (Supprimés) ;
+
+46° L'Ecole des Ingénieurs de la Ville de Paris à l'Ecole nationale des ponts et chaussées par le décret n° 2017-1157 du 10 juillet 2017 portant association de l'Ecole des ingénieurs de la Ville de Paris (EIVP)-Ecole supérieure du génie urbain à l'Ecole nationale des ponts et chaussées (ENPC) ;
+
+47° (Abrogé) ;
+
+48° (Abrogé) ;
+
+49° (Abrogé) ;
+
+50° (Abrogé) ;
+
+51° (Abrogé) ;
+
+52° (Abrogé) ;
+
+53° La Haute Ecole des arts du Rhin à l'université de Strasbourg par le décret n° 2015-528 du 12 mai 2015 portant association d'établissements du site alsacien ;
+
+54° Ecole supérieure des technologies industrielles avancées à l'Université de Bordeaux par le décret n° 2015-785 du 29 juin 2015 portant association d'établissements à l'université de Bordeaux ;
+
+55° (Supprimé) ;
+
+56° (Supprimé) ;
+
+57° (Supprimé) ;
+
+58° (Supprimé) ;
+
+59° L'Ecole nationale supérieure d'architecture de Paris-Val de Seine à l'université Paris Cité par le décret n° 2017-387 du 23 mars 2017 portant association de l'Ecole nationale supérieure d'architecture de Paris-Val de Seine à l'université Paris Cité ;
+
+60° (Abrogé) ;
+
+61° L'Ecole nationale supérieure d'architecture de Lyon à l'Institut national des sciences appliquées de Lyon par le décret n° 2016-180 du 23 février 2016 portant association d'établissements publics du site lyonnais ;
+
+62° L'Ecole nationale supérieure d'informatique pour l'industrie et l'entreprise à l'Université Paris-Saclay et à l'Institut Mines-Télécom par le décret n° 2017-598 du 21 avril 2017 portant association d'établissements du site Paris-Saclay ;
+
+63° (Abrogé)
+
+64° L'Ecole nationale supérieure des arts et industries textiles à Centrale Lille Institut par le décret n° 2017-1751 du 22 décembre 2017 portant association d'établissements à Centrale Lille Institut ;
+
+65° CentraleSupélec à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
+
+66° Le Centre hospitalier universitaire de Reims à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
+
+67° Le Conservatoire national des arts et métiers à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
+
+68° Le centre régional des œuvres universitaires et scolaires de Reims à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
+
+69° L'école supérieure d'arts et de design de Reims à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
+
+70° L'université de technologie de Troyes à l'université de Reims par le décret n° 2017-1832 du 29 décembre 2017 portant association d'établissements du site champenois ;
+
+71° L'Ecole nationale supérieure des mines de Paris à l'Institut Mines Télécom par le décret n° 2018-258 du 9 avril 2018 portant association de l'Ecole nationale supérieure des mines de Paris à l'Institut Mines Télécom ;
+
+72° L'université de technologie de Compiègne à l'université Sorbonne Université par le décret n° 2018-265 du 11 avril 2018 portant association d'établissements à l'université Sorbonne Université ;
+
+73° Le Muséum national d'histoire naturelle à l'université Sorbonne Université par le décret n° 2018-265 du 11 avril 2018 portant association d'établissements à l'université Sorbonne Université ;
+
+74° Le Pôle supérieur d'enseignement artistique de Paris-Boulogne-Billancourt à l'université Sorbonne Université par le décret n° 2018-265 du 11 avril 2018 portant association d'établissements à l'université Sorbonne université ;
+
+75° France Education international à l'université Sorbonne Université par le décret n° 2018-265 du 11 avril 2018 portant association d'établissements à l'université Sorbonne Université ;
+
+76° L'Ecole supérieure d'arts et design Le Havre-Rouen à Normandie Université par le décret n° 2018-757 du 28 août 2018 ;
+
+77° L'Ecole supérieure d'arts et médias de Caen-Cherbourg à Normandie Université par le décret n° 2018-757 du 28 août 2018 ;
+
+78° Le centre hospitalier universitaire de Caen Normandie à Normandie Université par le décret n° 2018-757 du 28 août 2018 ;
+
+79° Le Centre de lutte contre le cancer François Baclesse à Normandie Université par le décret n° 2018-757 du 28 août 2018 ;
+
+80° (Abrogé) ;
+
+81° (Supprimé) ;
+
+82° (Supprimé) ;
+
+83° Le Centre hospitalier universitaire de Nantes à Nantes Université par le décret n° 2019-931 du 4 septembre 2019 portant association d'établissements à Nantes Université ;
+
+84° (Abrogé) ;
+
+85° L'Ecole nationale supérieure d'arts de Cergy Versailles à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
+
+86° L'Ecole nationale supérieure d'architecture de Versailles à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
+
+87° l'Ecole nationale supérieure de paysage de Versailles à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
+
+88° L'Ecole nationale supérieure de l'électronique et de ses applications à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
+
+89° L'Institut supérieur de mécanique de Paris à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
+
+90° L'Institut supérieur international du parfum, de la cosmétique et de l'aromatique alimentaire, établissement de la chambre de commerce et d'industrie de région Paris Ile-de-France, à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
+
+91° L'Ecole ITESCIA, établissement de la chambre de commerce et d'industrie de région Paris Ile-de-France, à CY Cergy Paris Université par le décret n° 2020-1478 du 30 novembre 2020 portant association d'établissements à CY Cergy Paris Université, dénommée “ CY Alliance ” ;
+
+92° L'Institut Pasteur, fondation reconnue d'utilité publique, à l'université Paris Cité par le décret n° 2021-1673 du 15 décembre 2021 portant association de l'Institut Pasteur à l'université Paris Cité et modifiant le décret n° 2019-209 du 20 mars 2019 portant création de l'université Paris Cité et approbation de ses statuts.
+
+> Nota : Conformément à l'article 7 du décret n° 2025-1266 du 19 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 6 du décret précité, entrent en vigueur le premier jour du mois suivant sa publication, soit le 1er janvier 2026.

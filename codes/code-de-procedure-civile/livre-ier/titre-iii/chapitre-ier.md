@@ -13,7 +13,7 @@ La compétence des juridictions en raison de la matière est déterminée par le
 - Identifiant : LEGIARTI000006410131
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410131
-- Cité par : [art. ANNEXE, art. 34 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-34)
+- Cité par : [art. ANNEXE, art. 34 du Code de procédure civile](../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-34)
 
 La compétence en raison du montant de la demande ainsi que le taux du ressort au-dessous duquel l'appel n'est pas ouvert sont déterminés par les règles propres à chaque juridiction et par les dispositions ci-après.
 

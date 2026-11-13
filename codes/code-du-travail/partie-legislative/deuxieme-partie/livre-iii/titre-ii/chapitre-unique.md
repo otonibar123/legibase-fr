@@ -7,7 +7,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262571
 - Renvoie à : [art. L2314-6 du Code du travail](../titre-ier/chapitre-iv.md#article-l2314-6) ; [art. L2314-27 du Code du travail](../titre-ier/chapitre-iv.md#article-l2314-27)
-- Cité par : [art. L161-6 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023986173) ; [art. L1432-11 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042012916) ; [art. L121-7 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020574708) ; [art. L621-5-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033912158)
+- Cité par : [art. L161-6 du Code de l'énergie](../../../../../code-de-l-energie/partie-legislative/livre-ier/titre-vi/chapitre-unique.md#article-l161-6) ; [art. L1432-11 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-l1432-11) ; [art. L121-7 du Code du sport](../../../../../code-du-sport/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-l121-7) ; [art. L621-5-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ii/chapitre-unique.md#article-l621-5-1)
 
 Le conseil d'entreprise exerce l'ensemble des attributions définies au chapitre II du titre Ier du présent livre et est seul compétent pour négocier, conclure et réviser les conventions et accords d'entreprise ou d'établissement.
 

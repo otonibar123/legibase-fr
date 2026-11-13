@@ -6,7 +6,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000006901453
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901453
-- Cité par : [art. L5542-49 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039786014)
+- Cité par : [art. L5542-49 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-49)
 
 En cas de litige, le conseil de prud'hommes apprécie la régularité de la procédure suivie et si les faits reprochés au salarié sont de nature à justifier une sanction.
 

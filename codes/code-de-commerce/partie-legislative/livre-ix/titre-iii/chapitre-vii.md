@@ -94,7 +94,7 @@ IV.-Les sociétés en nom collectif et les sociétés en commandite désignent p
 - Identifiant : LEGIARTI000019293732
 - État : en vigueur depuis le 06/08/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019293732
-- Renvoie à : [art. L723-2 du Code de commerce](../../livre-vii/titre-ii/chapitre-iii.md#article-l723-2) ; art. 131-27 du Code pénal
+- Renvoie à : [art. L723-2 du Code de commerce](../../livre-vii/titre-ii/chapitre-iii.md#article-l723-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. L2 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l2) ; [art. L6 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l6)
 
 L'article L. 723-2 est ainsi rédigé :
 

@@ -44,7 +44,7 @@ Le mariage d'un Français, même contracté à l'étranger, requiert sa présenc
 - Identifiant : LEGIARTI000006421995
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421995
-- Cité par : [art. 171-4 du Code civil](chapitre-ii-bis.md#article-171-4) ; [art. 171-7 du Code civil](chapitre-ii-bis.md#article-171-7) ; [art. 171-8 du Code civil](chapitre-ii-bis.md#article-171-8) ; [art. 184 du Code civil](chapitre-iv.md#article-184) ; [art. R161-19-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045414718) ; [Décret n°2022-432 du 25 mars 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000045414413)
+- Cité par : [art. 171-4 du Code civil](chapitre-ii-bis.md#article-171-4) ; [art. 171-7 du Code civil](chapitre-ii-bis.md#article-171-7) ; [art. 171-8 du Code civil](chapitre-ii-bis.md#article-171-8) ; [art. 184 du Code civil](chapitre-iv.md#article-184) ; [art. L161-23-1 A du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-23-1-a) ; [art. R161-19-3 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-1er.md#article-r161-19-3) ; [art. R161-19-12 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-1er.md#article-r161-19-12) ; [Décret n°2022-432 du 25 mars 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000045414413)
 
 On ne peut contracter un second mariage avant la dissolution du premier.
 
@@ -59,7 +59,7 @@ Les mineurs ne peuvent contracter mariage sans le consentement de leurs père et
 - Identifiant : LEGIARTI000006422008
 - État : en vigueur depuis le 01/03/1994
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422008
-- Renvoie à : [art. 434-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418636)
+- Renvoie à : [art. 434-13 du Code pénal](../../../code-penal/partie-legislative/livre-iv/titre-iii/chapitre-iv.md#article-434-13)
 - Cité par : [art. 151 du Code civil](chapitre-ier.md#article-151)
 
 Si l'un des deux est mort ou s'il est dans l'impossibilité de manifester sa volonté, le consentement de l'autre suffit.  
@@ -95,7 +95,7 @@ La production de l'expédition, réduite au dispositif, du jugement qui aurait d
 - Identifiant : LEGIARTI000006422053
 - État : en vigueur depuis le 02/02/1933
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422053
-- Cité par : [art. 157 du Code civil](chapitre-ier.md#article-157) ; [art. 1129 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305928)
+- Cité par : [art. 157 du Code civil](chapitre-ier.md#article-157) ; [art. 1129 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-iv.md#article-1129)
 
 Le dissentiment entre le père et la mère, entre l'aïeul et l'aïeule de la même ligne, ou entre aïeuls des deux lignes peut être constaté par un notaire, requis par le futur époux et instrumentant sans le concours d'un deuxième notaire ni de témoins, qui notifiera l'union projetée à celui ou à ceux des père, mère ou aïeuls dont le consentement n'est pas encore obtenu.  
 

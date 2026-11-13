@@ -10,7 +10,7 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - Identifiant : LEGIARTI000047590816
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590816
-- Cité par : [art. L236-2 du Code de commerce](chapitre-vi.md#article-l236-2) ; [art. L236-6 du Code de commerce](chapitre-vi.md#article-l236-6) ; [art. L236-8 du Code de commerce](chapitre-vi.md#article-l236-8) ; [art. L236-26 du Code de commerce](chapitre-vi.md#article-l236-26) ; [art. L324-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591418) ; [Décret n°2019-797 du 26 juillet 2019, art. 50-11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043314454) ; [Décret n°2024-876 du 14 août 2024, art. 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050110058)
+- Cité par : [art. L236-2 du Code de commerce](chapitre-vi.md#article-l236-2) ; [art. L236-6 du Code de commerce](chapitre-vi.md#article-l236-6) ; [art. L236-8 du Code de commerce](chapitre-vi.md#article-l236-8) ; [art. L236-26 du Code de commerce](chapitre-vi.md#article-l236-26) ; [art. L411-2-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-ier/chapitre-unique.md#article-l411-2-1) ; [art. L324-2 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-iv.md#article-l324-2) ; [art. L384-4 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-viii/chapitre-iv.md#article-l384-4) ; [Décret n°2019-797 du 26 juillet 2019, art. 50-11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043314454) ; [Décret n°2024-876 du 14 août 2024, art. 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050110058)
 
 Une ou plusieurs sociétés peuvent, par voie de fusion, transmettre leur patrimoine à une société existante ou à une nouvelle société qu'elles constituent.
 
@@ -40,7 +40,7 @@ Si la fusion comporte la création d'une société nouvelle, chacune de celles-c
 - État : en vigueur depuis le 01/10/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051318523
 - Renvoie à : [art. L236-17 du Code de commerce](chapitre-vi.md#article-l236-17)
-- Cité par : [art. L236-19-1 du Code de commerce](chapitre-vi.md#article-l236-19-1) ; [art. L611-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053783257)
+- Cité par : [art. L236-19-1 du Code de commerce](chapitre-vi.md#article-l236-19-1) ; [art. L611-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-2)
 
 La nullité d'une opération de fusion ne peut résulter que de la nullité de la délibération de l'une des assemblées qui ont décidé l'opération ou du défaut de dépôt de la déclaration de conformité mentionnée à l'article L. 236-17. Lorsqu'il est possible de porter remède à l'irrégularité susceptible d'entraîner la nullité, le tribunal saisi de l'action en nullité accorde aux sociétés intéressées un délai pour régulariser la situation.
 
@@ -58,7 +58,7 @@ Les sociétés ayant participé à l'opération de fusion sont solidairement res
 - Identifiant : LEGIARTI000047590799
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590799
-- Cité par : [art. R814-100 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ier/chapitre-iv.md#article-r814-100) ; [art. L422-11-1 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039652833) ; [Décret n°2020-623 du 22 mai 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000041912505)
+- Cité par : [art. R814-100 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ier/chapitre-iv.md#article-r814-100) ; [art. L422-11-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-ii/chapitre-ii.md#article-l422-11-1) ; [art. 38 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-38) ; [art. 39 duodecies du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-39-duodecies) ; [art. 112 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-112) ; [art. 145 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-145) ; [art. 301 F du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-301-f) ; [Décret n°2020-623 du 22 mai 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000041912505)
 
 I. - La fusion entraîne la dissolution sans liquidation des sociétés qui disparaissent et la transmission universelle de leur patrimoine aux sociétés bénéficiaires, dans l'état où il se trouve à la date de réalisation définitive de l'opération. Elle entraîne simultanément l'acquisition, par les associés des sociétés qui disparaissent, de la qualité d'associés des sociétés bénéficiaires, dans les conditions déterminées par le contrat de fusion.
 
@@ -78,7 +78,7 @@ II. - Toutefois, il n'est pas procédé à l'échange de parts ou d'actions de l
 - Identifiant : LEGIARTI000047590793
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590793
-- Cité par : [art. L225-95 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-95) ; [art. L236-31 du Code de commerce](chapitre-vi.md#article-l236-31) ; [art. L526-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020632454)
+- Cité par : [art. L225-95 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-95) ; [art. L236-31 du Code de commerce](chapitre-vi.md#article-l236-31) ; [art. L526-6 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-6)
 
 La fusion prend effet :
 
@@ -115,7 +115,7 @@ Ce projet est déposé au greffe du tribunal de commerce du siège desdites soci
 - Identifiant : LEGIARTI000047590765
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590765
-- Cité par : [art. L141-21 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-21) ; [art. L526-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591753)
+- Cité par : [art. L141-21 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-21) ; [art. L526-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7)
 
 Les dispositions du présent chapitre relatives aux obligataires sont applicables aux titulaires de titres participatifs.
 
@@ -138,7 +138,7 @@ Les fusions comportant la participation de sociétés par actions et de sociét�
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590839
 - Renvoie à : [art. L225-99 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-99) ; [art. L225-129 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-129) ; [art. L225-129-5 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-129-5) ; [art. L228-15 du Code de commerce](../titre-ii/chapitre-viii.md#article-l228-15) ; [art. L228-30 du Code de commerce](../titre-ii/chapitre-viii.md#article-l228-30) ; [art. L236-10 du Code de commerce](chapitre-vi.md#article-l236-10)
-- Cité par : [art. D229-13-1 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ix.md#article-d229-13-1) ; [art. L229-5 du Code de commerce](../titre-ii/chapitre-ix.md#article-l229-5) ; [art. L236-11 du Code de commerce](chapitre-vi.md#article-l236-11) ; [art. L236-16 du Code de commerce](chapitre-vi.md#article-l236-16) ; [art. L236-22 du Code de commerce](chapitre-vi.md#article-l236-22) ; [art. R236-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-3) ; [art. R236-5 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-5) ; [art. R236-19 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-19) ; [art. R229-13 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006263504) ; [art. L214-7-2-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051318284) ; [art. L214-24-31-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051318296) ; [Décret n°2019-1486 du 27 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039788027)
+- Cité par : [art. D229-13-1 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ix.md#article-d229-13-1) ; [art. L229-5 du Code de commerce](../titre-ii/chapitre-ix.md#article-l229-5) ; [art. L236-11 du Code de commerce](chapitre-vi.md#article-l236-11) ; [art. L236-16 du Code de commerce](chapitre-vi.md#article-l236-16) ; [art. L236-22 du Code de commerce](chapitre-vi.md#article-l236-22) ; [art. R236-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-3) ; [art. R236-5 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-5) ; [art. R236-19 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-19) ; [art. L214-7-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7-2-1) ; [art. L214-24-31-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-31-1) ; [art. R229-13 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006263504) ; [Décret n°2019-1486 du 27 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039788027)
 
 I.-La fusion est décidée par l'assemblée générale extraordinaire de chacune des sociétés qui participent à l'opération.
 
@@ -169,7 +169,7 @@ Lorsque l'assemblée générale extraordinaire fait usage d'une des facultés pr
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048539439
 - Renvoie à : [art. L225-8 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-8) ; [art. L225-147 du Code de commerce](../titre-ii/chapitre-v.md#article-l225-147)
-- Cité par : [art. L236-2 du Code de commerce](chapitre-vi.md#article-l236-2) ; [art. L236-9 du Code de commerce](chapitre-vi.md#article-l236-9) ; [art. L236-16 du Code de commerce](chapitre-vi.md#article-l236-16) ; [art. L236-22 du Code de commerce](chapitre-vi.md#article-l236-22) ; [art. L236-23 du Code de commerce](chapitre-vi.md#article-l236-23) ; [art. R236-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-3) ; [art. L214-81 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006650841) ; [art. L214-111 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027810859) ; [art. L512-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020148363) ; [Loi n° 47-1775 du 10 septembre 1947, art. 26-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048539821)
+- Cité par : [art. L236-2 du Code de commerce](chapitre-vi.md#article-l236-2) ; [art. L236-9 du Code de commerce](chapitre-vi.md#article-l236-9) ; [art. L236-16 du Code de commerce](chapitre-vi.md#article-l236-16) ; [art. L236-22 du Code de commerce](chapitre-vi.md#article-l236-22) ; [art. L236-23 du Code de commerce](chapitre-vi.md#article-l236-23) ; [art. R236-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-3) ; [art. L214-81 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-81) ; [art. L214-111 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-111) ; [art. L512-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ii.md#article-l512-1) ; [Loi n° 47-1775 du 10 septembre 1947, art. 26-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048539821)
 
 I.-Sauf si les actionnaires des sociétés participant à la fusion en décident autrement dans les conditions prévues au II du présent article, un ou plusieurs commissaires à la fusion, désignés par décision de justice et soumis à l'égard des sociétés participantes aux incompatibilités prévues à l'article L. 821-31, établissent sous leur responsabilité un rapport écrit sur les modalités de la fusion.
 
@@ -208,7 +208,7 @@ Toutefois, un ou plusieurs actionnaires de la société absorbante réunissant a
 - Identifiant : LEGIARTI000047590892
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590892
-- Renvoie à : [art. 1843-4 du Code civil](../../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1843-4) ; art. L433-3 du Code monétaire et financier
+- Renvoie à : [art. 1843-4 du Code civil](../../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1843-4) ; [art. L433-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-3)
 
 Lorsque, depuis le dépôt au greffe du tribunal de commerce du projet de fusion et jusqu'à la réalisation de l'opération, la société absorbante détient en permanence au moins 90 % des parts ou des autres titres conférant un droit de vote des sociétés absorbées ou qu'une même société détient en permanence au moins 90 % des parts ou des autres titres conférant un droit de vote de la société absorbante et des sociétés absorbées, sans en détenir la totalité, et que les dispositions de l'article L. 236-11 ne sont pas applicables :
 
@@ -228,7 +228,7 @@ c) Dans le cadre d'une offre répondant aux conditions des a ou b, si les action
 - Identifiant : LEGIARTI000047590887
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590887
-- Cité par : [art. D229-13-1 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ix.md#article-d229-13-1) ; [art. L229-5 du Code de commerce](../titre-ii/chapitre-ix.md#article-l229-5) ; [art. R236-11 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-11) ; [art. R236-12 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-12) ; [art. R229-13 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006263504) ; [art. L324-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591418) ; [art. L526-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591753)
+- Cité par : [art. D229-13-1 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ix.md#article-d229-13-1) ; [art. L229-5 du Code de commerce](../titre-ii/chapitre-ix.md#article-l229-5) ; [art. R236-11 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-11) ; [art. R236-12 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-12) ; [art. L324-2 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-iv.md#article-l324-2) ; [art. L526-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7) ; [art. R229-13 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006263504)
 
 Lorsque la fusion est réalisée par voie de création d'une société nouvelle, celle-ci peut être constituée sans autres apports que ceux des sociétés qui fusionnent.
 
@@ -257,7 +257,7 @@ Tout obligataire qui n'a pas demandé le remboursement dans le délai fixé par 
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590897
 - Renvoie à : [art. L236-14 du Code de commerce](chapitre-vi.md#article-l236-14)
-- Cité par : [art. R236-8 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-8) ; [art. L214-7-2-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051318284) ; [art. L214-24-31-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051318296) ; [art. L526-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591753)
+- Cité par : [art. R236-8 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-8) ; [art. L214-7-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7-2-1) ; [art. L214-24-31-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-31-1) ; [art. L526-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7)
 
 La société absorbante est débitrice des créanciers non obligataires de la société absorbée en lieu et place de celle-ci, sans que cette substitution emporte novation à leur égard.
 
@@ -276,7 +276,7 @@ Les dispositions du présent article ne mettent pas obstacle à l'application de
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590958
 - Renvoie à : [art. L236-9 du Code de commerce](chapitre-vi.md#article-l236-9) ; [art. L236-10 du Code de commerce](chapitre-vi.md#article-l236-10)
-- Cité par : [art. L236-22 du Code de commerce](chapitre-vi.md#article-l236-22) ; [art. L214-7-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051323709) ; [art. L214-19 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019680935) ; [art. L214-24-33 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051323696) ; [art. L214-190-2-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051323683)
+- Cité par : [art. L236-22 du Code de commerce](chapitre-vi.md#article-l236-22) ; [art. L214-7-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7-4) ; [art. L214-19 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-19) ; [art. L214-24-33 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-33) ; [art. L214-190-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-190-2-1)
 
 Le projet de fusion n'est pas soumis aux assemblées d'obligataires de la société absorbante. Toutefois, l'assemblée générale des obligataires peut donner mandat aux représentants de la masse de former opposition à la fusion dans les conditions et sous les effets prévus aux alinéas deuxième et suivants de l'article L. 236-15.
 
@@ -302,7 +302,7 @@ La fusion peut être annulée en cas de défaut d'enregistrement au greffe de ce
 - Identifiant : LEGIARTI000047590934
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590934
-- Cité par : [art. R236-11 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-11) ; [art. L526-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591753) ; [Décret n°2024-876 du 14 août 2024, art. 90](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050110060)
+- Cité par : [art. R236-11 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-11) ; [art. L526-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7) ; [Décret n°2024-876 du 14 août 2024, art. 90](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050110060)
 
 Une société peut, par voie de scission, transmettre son patrimoine à plusieurs sociétés existantes ou à plusieurs sociétés nouvelles.  
 
@@ -317,7 +317,7 @@ Les associés des sociétés qui transmettent leur patrimoine dans ce cadre reç
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047590924
 - Renvoie à : [art. L236-14 du Code de commerce](chapitre-vi.md#article-l236-14)
-- Cité par : [art. L611-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053783257) ; [art. L526-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591753)
+- Cité par : [art. L611-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-2) ; [art. L526-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7)
 
 Les articles L. 236-2 à L. 236-7 sont applicables aux scissions.
 
@@ -339,7 +339,7 @@ La société scindée est solidairement responsable de l'exécution des obligati
 - Identifiant : LEGIARTI000049464237
 - État : en vigueur depuis le 24/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464237
-- Cité par : [art. L141-22 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-22) ; [art. L236-21 du Code de commerce](chapitre-vi.md#article-l236-21) ; [art. L526-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591753) ; [LOI n°2014-856 du 31 juillet 2014, art. 72](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029314950) ; [Loi du 1er juillet 1901, art. 9 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047591741) ; [Loi n°87-571 du 23 juillet 1987, art. 20-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029319294)
+- Cité par : [art. L141-22 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-22) ; [art. L236-21 du Code de commerce](chapitre-vi.md#article-l236-21) ; [art. L526-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7) ; [LOI n°2014-856 du 31 juillet 2014, art. 72](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029314950) ; [Loi du 1er juillet 1901, art. 9 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047591741) ; [Loi n°87-571 du 23 juillet 1987, art. 20-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029319294)
 
 Les scissions réalisées uniquement entre sociétés par actions sont soumises aux dispositions de la présente sous-section ainsi qu'à celles de la sous-section 1 de la présente section qui ne leur sont pas contraires.  
 
@@ -350,7 +350,7 @@ Les scissions comportant la participation de sociétés par actions et de socié
 - État : en vigueur depuis le 24/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464225
 - Renvoie à : [art. L236-14 du Code de commerce](chapitre-vi.md#article-l236-14) ; [art. L236-20 du Code de commerce](chapitre-vi.md#article-l236-20)
-- Cité par : [art. L141-22 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-22) ; [art. R236-8 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-8) ; [art. L324-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591418) ; [LOI n°2014-856 du 31 juillet 2014, art. 72](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029314950) ; [Loi du 1er juillet 1901, art. 9 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047591741)
+- Cité par : [art. L141-22 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-22) ; [art. R236-8 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md#article-r236-8) ; [art. L324-2 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-iv.md#article-l324-2) ; [art. L214-7-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7-4) ; [art. L214-24-33 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-33) ; [art. L214-190-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-190-2-1) ; [LOI n°2014-856 du 31 juillet 2014, art. 72](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029314950) ; [Loi du 1er juillet 1901, art. 9 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047591741)
 
 L'article L. 236-9 est applicable aux scissions réalisées uniquement entre sociétés par actions.  
 
@@ -400,7 +400,7 @@ Le projet de scission n'est pas soumis aux assemblées d'obligataires des socié
 - Identifiant : LEGIARTI000047591008
 - État : en vigueur depuis le 26/05/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047591008
-- Cité par : [art. L236-26 du Code de commerce](chapitre-vi.md#article-l236-26) ; [art. L236-32 du Code de commerce](chapitre-vi.md#article-l236-32) ; [art. L214-18 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042273) ; [art. L214-67 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725669) ; [art. L214-125 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559735)
+- Cité par : [art. L236-26 du Code de commerce](chapitre-vi.md#article-l236-26) ; [art. L236-32 du Code de commerce](chapitre-vi.md#article-l236-32) ; [art. L214-18 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-18) ; [art. L214-67 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-67) ; [art. L214-125 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-125)
 
 Les sociétés bénéficiaires des apports résultant de la scission sont débitrices solidaires des obligataires et des créanciers non obligataires de la société scindée, en lieu et place de celle-ci sans que cette substitution emporte novation à leur égard.  
 
@@ -475,7 +475,7 @@ En ce cas, les créanciers non obligataires des sociétés participantes peuvent
 - État : en vigueur depuis le 24/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464195
 - Renvoie à : [art. L236-4 du Code de commerce](chapitre-vi.md#article-l236-4)
-- Cité par : [Arrêté du 4 décembre 2017, art. 20-10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054605573) ; [Arrêté du 4 décembre 2017, art. 24-10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054604939) ; [art. L214-7-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320415) ; [art. L214-24-32 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320387)
+- Cité par : [art. L214-7-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-7-3) ; [art. L214-24-32 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-32) ; [Arrêté du 4 décembre 2017, art. 20-10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054605573) ; [Arrêté du 4 décembre 2017, art. 24-10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054604939)
 
 La fusion transfrontalière est l'opération par laquelle une ou plusieurs sociétés par actions ou sociétés à responsabilité limitée ayant leur siège social en France fusionnent avec une ou plusieurs sociétés relevant du champ d'application du paragraphe 1 de l'article 119 de la directive UE 2017/1132 du Parlement européen et du Conseil, du 14 juin 2017 relative à certains aspects du droit des sociétés et relevant du droit de l'un ou plusieurs autres Etats membres de la l'Union européenne dans les conditions prévues par les dispositions de la présente sous-section ainsi que par celles de la section 1 du présent chapitre qui ne leur sont pas contraires.
 
@@ -579,6 +579,7 @@ Les associés qui décident la fusion peuvent subordonner la réalisation de cel
 - Identifiant : LEGIARTI000049464183
 - État : en vigueur depuis le 24/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464183
+- Cité par : [art. 115 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-115)
 
 Dans la ou les sociétés absorbées, les associés ayant voté contre l'approbation du projet de fusion transfrontalière, les porteurs d'actions sans droit de vote et les associés dont les droits de vote sont temporairement suspendus bénéficient du droit de céder leurs actions ou leurs parts sociales, sous réserve que le projet de fusion prévoit qu'ils détiennent, à l'issue de l'opération, des actions ou des parts sociales dans une société régie par le droit d'un autre Etat membre.  
 

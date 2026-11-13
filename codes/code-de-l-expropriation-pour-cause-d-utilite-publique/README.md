@@ -1,0 +1,135 @@
+# Code de l'expropriation pour cause d'utilité publique
+
+Dernière modification du texte dans LEGI : 01/10/2026. 372 articles en vigueur, répartis dans 74 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative nouvelle**
+  - [Partie législative nouvelle : articles rattachés directement](partie-legislative-nouvelle/articles-directs.md) (1 article)
+  - **LIVRE Ier : UTILITÉ PUBLIQUE**
+    - **TITRE Ier : ENQUÊTE PUBLIQUE**
+      - [TITRE Ier : ENQUÊTE PUBLIQUE : articles rattachés directement](partie-legislative-nouvelle/livre-ier/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre II : Déroulement de l'enquête](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+    - **TITRE II : DÉCLARATION DE L'UTILITÉ PUBLIQUE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ii.md) (11 articles)
+    - **TITRE III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES**
+      - [Chapitre Ier : Enquête parcellaire](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Cessibilité](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-ii.md) (4 articles)
+    - **TITRE IV : DISPOSITIONS COMMUNES**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-unique.md) (2 articles)
+  - **LIVRE II : JURIDICTION DE L'EXPROPRIATION, TRANSFERT JUDICIAIRE DE PROPRIÉTÉ ET PRISE DE POSSESSION**
+    - **TITRE Ier : JURIDICTION DE L'EXPROPRIATION ET COMMISSAIRE DU GOUVERNEMENT**
+      - [Chapitre Ier : Juridiction de l'expropriation](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ier.md) (3 articles)
+    - **TITRE II : TRANSFERT DE PROPRIÉTÉ**
+      - [TITRE II : TRANSFERT DE PROPRIÉTÉ : articles rattachés directement](partie-legislative-nouvelle/livre-ii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Ordonnance d'expropriation](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Modalités et effets du transfert de propriété](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Recours contre l'ordonnance d'expropriation](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iii.md) (2 articles)
+    - **TITRE III : PRISE DE POSSESSION**
+      - [Chapitre Ier : Dispositions générales](partie-legislative-nouvelle/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Procédure d'urgence](partie-legislative-nouvelle/livre-ii/titre-iii/chapitre-ii.md) (2 articles)
+    - **TITRE IV : DROIT DE DÉLAISSEMENT ET DEMANDE D'EMPRISE TOTALE D'UN BIEN PARTIELLEMENT EXPROPRIÉ**
+      - [Chapitre Ier : Droit de délaissement](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Demande d'emprise totale d'un bien partiellement exproprié](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ii.md) (7 articles)
+    - **TITRE V : DISPOSITIONS DIVERSES**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-ii/titre-v/chapitre-unique.md) (2 articles)
+  - **LIVRE III : INDEMNISATION**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Procédure](partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Frais et dépens](partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+    - **TITRE II : FIXATION ET PAIEMENT DES INDEMNITÉS**
+      - [Chapitre Ier : Principe de réparation](partie-legislative-nouvelle/livre-iii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Modalités d'évaluation de l'indemnité d'expropriation](partie-legislative-nouvelle/livre-iii/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Paiement et consignation](partie-legislative-nouvelle/livre-iii/titre-ii/chapitre-iii.md) (5 articles)
+    - **TITRE III : DISPOSITIONS DIVERSES**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-iii/titre-iii/chapitre-unique.md) (6 articles)
+  - **LIVRE IV : SUITES DE L'EXPROPRIATION**
+    - **TITRE Ier : CESSION DES IMMEUBLES EXPROPRIÉS**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-unique.md) (6 articles)
+    - **TITRE II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION**
+      - [Chapitre Ier : Droit de rétrocession](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Droits de priorité](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Droits de relogement](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Dispositions particulières aux terrains agricoles](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-iv.md) (3 articles)
+    - **TITRE III : DISPOSITIONS RELATIVES À LA RÉORGANISATION DES TERRITOIRES À LA SUITE D'UNE EXPROPRIATION**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-iv/titre-iii/chapitre-unique.md) (5 articles)
+    - **TITRE IV : DISPOSITIONS DIVERSES**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-iv/titre-iv/chapitre-unique.md) (1 article)
+  - **LIVRE V : PROCÉDURES SPÉCIALES**
+    - **TITRE Ier : EXPROPRIATION DES IMMEUBLES INDIGNES**
+      - [Chapitre Ier : Expropriation des immeubles indignes à titre irrémédiable](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Expropriation des immeubles indignes à titre remédiable](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ii.md) (6 articles)
+    - **TITRE II : PROCÉDURE DE PRISE DE POSSESSION ANTICIPÉE**
+      - [Chapitre Ier : Travaux d'extrême urgence intéressant la défense nationale](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Autres travaux](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Opérations de requalification des copropriétés dégradées](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-iii.md) (7 articles)
+    - **TITRE III : DISPOSITIONS COMMUNES**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-v/titre-iii/chapitre-unique.md) (1 article)
+  - **LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **TITRE Ier : DISPOSITIONS PARTICULIÈRES À MAYOTTE**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-unique.md) (1 article)
+    - **TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-vi/titre-ii/chapitre-unique.md) (1 article)
+    - **TITRE III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-vi/titre-iii/chapitre-unique.md) (1 article)
+    - **TITRE IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre unique](partie-legislative-nouvelle/livre-vi/titre-iv/chapitre-unique.md) (6 articles)
+- **Partie réglementaire nouvelle**
+  - **LIVRE Ier : UTILITÉ PUBLIQUE**
+    - **TITRE Ier : ENQUÊTE PUBLIQUE**
+      - [Chapitre Ier : Désignation et indemnisation du commissaire enquêteur](partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Déroulement de l'enquête](partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ii.md) (24 articles)
+    - **TITRE II : DÉCLARATION DE L'UTILITÉ PUBLIQUE**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions particulières à l'utilité publique de certaines opérations](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ii.md) (14 articles)
+    - **TITRE III : IDENTIFICATION DES PROPRIÉTAIRES ET DÉTERMINATION DES PARCELLES**
+      - [Chapitre Ier : Enquête parcellaire](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Cessibilité](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ii.md) (4 articles)
+  - **LIVRE II : JURIDICTION DE L'EXPROPRIATION, TRANSFERT JUDICIAIRE DE PROPRIÉTÉ ET PRISE DE POSSESSION**
+    - **TITRE Ier : JURIDICTION DE L'EXPROPRIATION ET COMMISSAIRE DU GOUVERNEMENT**
+      - [Chapitre Ier : Juridiction de l'expropriation](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Commissaire du Gouvernement](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+    - **TITRE II : TRANSFERT DE PROPRIÉTÉ**
+      - [Chapitre Ier : Ordonnance d'expropriation](partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre III : Recours contre l'ordonnance d'expropriation](partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iii.md) (8 articles)
+    - **TITRE III : PRISE DE POSSESSION**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-nouvelle/livre-ii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Procédure d'urgence](partie-reglementaire-nouvelle/livre-ii/titre-iii/chapitre-ii.md) (8 articles)
+    - **TITRE IV : DROIT DE DÉLAISSEMENT ET DEMANDE D'EMPRISE TOTALE D'UN BIEN PARTIELLEMENT EXPROPRIÉ**
+      - [Chapitre Ier : Droit de délaissement](partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Demande d'emprise totale d'un bien partiellement exproprié](partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+  - **LIVRE III : INDEMNISATION**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Procédure](partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ier.md) (32 articles)
+      - [Chapitre II : Frais et dépens](partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ii.md) (9 articles)
+    - **TITRE II : FIXATION ET PAIEMENT DES INDEMNITÉS**
+      - [Chapitre II : Modalités d'évaluation de l'indemnité d'expropriation](partie-reglementaire-nouvelle/livre-iii/titre-ii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Paiement et consignation](partie-reglementaire-nouvelle/livre-iii/titre-ii/chapitre-iii.md) (14 articles)
+  - **LIVRE IV : SUITES DE L'EXPROPRIATION**
+    - **TITRE Ier : CESSION DES IMMEUBLES EXPROPRIÉS**
+      - [Chapitre unique](partie-reglementaire-nouvelle/livre-iv/titre-ier/chapitre-unique.md) (2 articles)
+    - **TITRE II : DROITS DES EXPROPRIÉS APRÈS L'EXPROPRIATION**
+      - [Chapitre Ier : Droit de rétrocession](partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre III : Droits de relogement](partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Dispositions particulières aux terrains agricoles](partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-iv.md) (1 article)
+    - **TITRE III : DISPOSITIONS RELATIVES À LA RÉORGANISATION DES TERRITOIRES À LA SUITE D'UNE EXPROPRIATION**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-iv/titre-iii/chapitre-unique.md) (1 article)
+  - **LIVRE V : PROCÉDURES SPÉCIALES**
+    - **TITRE Ier : EXPROPRIATION DES IMMEUBLES INDIGNES**
+      - [Chapitre Ier : Expropriation des immeubles indignes à titre irrémédiable](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : EXPROPRIATION DES IMMEUBLES INDIGNES À TITRE REMÉDIABLE](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md) (3 articles)
+    - **TITRE II : PROCÉDURE DE PRISE DE POSSESSION ANTICIPÉE**
+      - [Chapitre Ier : Travaux d'extrême urgence intéressant la défense nationale](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Autres travaux](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Opérations de requalification des copropriétés dégradées](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-iii.md) (3 articles)
+  - **LIVRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **TITRE Ier : DISPOSITIONS PARTICULIÈRES À MAYOTTE**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-unique.md) (2 articles)
+    - **TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-vi/titre-ii/chapitre-unique.md) (3 articles)
+    - **TITRE III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-vi/titre-iii/chapitre-unique.md) (3 articles)
+    - **TITRE IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-vi/titre-iv/chapitre-unique.md) (3 articles)
+  - [ANNEXES](partie-reglementaire-nouvelle/annexes.md) (5 articles)

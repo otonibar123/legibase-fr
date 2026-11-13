@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018530486
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530486
-- Cité par : [art. R717-85-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602500)
+- Cité par : [art. R717-85-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-8)
 
 Lorsque la nature de l'activité le permet, l'employeur évite l'utilisation d'un agent biologique dangereux pour la santé des travailleurs, en le remplaçant par un agent biologique qui, compte tenu des conditions d'emploi et de l'état des connaissances, n'est pas ou est moins dangereux.
 
@@ -63,7 +63,7 @@ Pour les activités qui impliquent des agents biologiques pathogènes, l'employe
 - Identifiant : LEGIARTI000018530476
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530476
-- Cité par : [art. R717-85-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602500)
+- Cité par : [art. R717-85-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-8)
 
 Les moyens de protection individuelle contre les agents biologiques pathogènes, non réutilisables, sont considérés comme des déchets contaminés.
 

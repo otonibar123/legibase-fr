@@ -49,7 +49,7 @@ Lorsque la filiation n'est établie qu'à l'égard d'un seul parent, l'appositio
 - Identifiant : LEGIARTI000052092129
 - État : en vigueur depuis le 13/08/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052092129
-- Renvoie à : [art. 55 du Code civil](../livre-ier/titre-ii/chapitre-ii.md#article-55) ; [art. 316 du Code civil](../livre-ier/titre-vii/chapitre-ii.md#article-316) ; [art. 371-1 du Code civil](../livre-ier/titre-ix/chapitre-ier.md#article-371-1) ; [art. 371-2 du Code civil](../livre-ier/titre-ix/chapitre-ier.md#article-371-2) ; [art. L823-11 du Code de l'entrée et du séjour des étrangers et ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052092142) ; art. 227-17 du Code pénal
+- Renvoie à : [art. 55 du Code civil](../livre-ier/titre-ii/chapitre-ii.md#article-55) ; [art. 316 du Code civil](../livre-ier/titre-vii/chapitre-ii.md#article-316) ; [art. 371-1 du Code civil](../livre-ier/titre-ix/chapitre-ier.md#article-371-1) ; [art. 371-2 du Code civil](../livre-ier/titre-ix/chapitre-ier.md#article-371-2) ; [art. L823-11 du Code de l'entrée et du séjour des étrangers et du droit d'asile](../../code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile/partie-legislative/livre-viii/titre-ii/chapitre-iii.md#article-l823-11) ; [art. 227-17 du Code pénal](../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-17)
 
 Lorsqu'elle est faite à Mayotte par acte reçu par l'officier de l'état civil, la reconnaissance de paternité ou de maternité régie par les articles 316 à 316-5 est reçue par l'officier de l'état civil de la commune de Mamoudzou, sauf si elle est simultanée à la déclaration de naissance prévue à l'article 55.  
 

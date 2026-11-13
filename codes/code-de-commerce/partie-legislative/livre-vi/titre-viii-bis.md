@@ -23,7 +23,7 @@ Sous réserve des règles propres au rétablissement professionnel, le tribunal,
 - Identifiant : LEGIARTI000045170929
 - État : en vigueur depuis le 15/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045170929
-- Cité par : [art. R752-2 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-v.md#article-r752-2)
+- Cité par : [art. L213-4-7 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-4-7) ; [art. R752-2 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-v.md#article-r752-2)
 
 I. - Le tribunal ouvre une procédure prévue aux titres II à IV du présent livre si les conditions en sont réunies. Les dispositions propres à la procédure ouverte s'appliquent, sous réserve du présent titre.
 

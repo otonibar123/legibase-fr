@@ -173,8 +173,8 @@ A défaut de notification dans ce délai, le recours est réputé rejeté.
 - Identifiant : LEGIARTI000022265984
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022265984
-- Renvoie à : art. L722-1 du Code rural et de la pêche maritime
-- Cité par : [art. R1253-15 du Code du travail](chapitre-iii.md#article-r1253-15) ; [art. R1253-17 du Code du travail](chapitre-iii.md#article-r1253-17) ; [art. R1253-18 du Code du travail](chapitre-iii.md#article-r1253-18) ; [art. R1253-34 du Code du travail](chapitre-iii.md#article-r1253-34) ; [art. D732-27 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054167969) ; [art. D732-29-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054161344)
+- Renvoie à : [art. L722-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-ii.md#article-l722-1)
+- Cité par : [art. R1253-15 du Code du travail](chapitre-iii.md#article-r1253-15) ; [art. R1253-17 du Code du travail](chapitre-iii.md#article-r1253-17) ; [art. R1253-18 du Code du travail](chapitre-iii.md#article-r1253-18) ; [art. R1253-34 du Code du travail](chapitre-iii.md#article-r1253-34) ; [art. D732-27 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md#article-d732-27) ; [art. D732-29-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md#article-d732-29-6)
 
 Un groupement d'employeurs peut être constitué pour mettre des remplaçants à la disposition :  
 
@@ -383,7 +383,7 @@ Les contrats de travail prévoient des déplacements limités.
 - Identifiant : LEGIARTI000043645922
 - État : en vigueur depuis le 12/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043645922
-- Renvoie à : [art. L1253-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-iii.md#article-l1253-1) ; [art. L4041-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024460240)
+- Renvoie à : [art. L4041-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-preliminaire/titre-iv/chapitre-ier.md#article-l4041-1) ; [art. L1253-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-iii.md#article-l1253-1)
 
 La société coopérative ou la société interprofessionnelle de soins ambulatoires mentionnée à l'article L. 4041-1 du code de la santé publique qui entend développer l'activité de groupement d'employeurs prévue à l'article L. 1253-1 mentionne dans ses statuts, préalablement à son exercice effectif, cette activité ainsi que la responsabilité solidaire des associés pour les dettes qui en résulte à l'égard des salariés et des organismes créanciers de cotisations obligatoires.
 

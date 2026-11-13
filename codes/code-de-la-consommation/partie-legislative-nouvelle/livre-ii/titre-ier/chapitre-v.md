@@ -6,7 +6,8 @@ Code de la consommation › Partie législative nouvelle › Livre II : FORMATIO
 - Identifiant : LEGIARTI000046194176
 - État : en vigueur depuis le 18/08/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046194176
-- Cité par : [art. L215-4 du Code de la consommation](chapitre-v.md#article-l215-4) ; [art. L241-3 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-3) ; [Arrêté du 10 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053130713) ; [Arrêté du 12 mai 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054162084)
+- Renvoie à : [art. L1421-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-ier.md#article-l1421-1)
+- Cité par : [art. L215-4 du Code de la consommation](chapitre-v.md#article-l215-4) ; [art. L241-3 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-3) ; [art. L1343-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iii/titre-iv/chapitre-iii.md#article-l1343-1) ; [art. R661-50 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-vi/titre-vi/chapitre-ier.md#article-r661-50) ; [Arrêté du 10 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053130713) ; [Arrêté du 12 mai 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054162084)
 
 Pour les contrats de prestations de services conclus pour une durée déterminée avec une clause de reconduction tacite, le professionnel prestataire de services informe le consommateur par écrit, par lettre nominative ou courrier électronique dédiés, au plus tôt trois mois et au plus tard un mois avant le terme de la période autorisant le rejet de la reconduction, de la possibilité de ne pas reconduire le contrat qu'il a conclu avec une clause de reconduction tacite. Cette information, délivrée dans des termes clairs et compréhensibles, mentionne, dans un encadré apparent, la date limite de non-reconduction.
 
@@ -37,6 +38,7 @@ Un décret fixe notamment les modalités techniques de nature à garantir une id
 - État : en vigueur depuis le 01/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046194156
 - Renvoie à : [art. L215-1-1 du Code de la consommation](chapitre-v.md#article-l215-1-1)
+- Cité par : [art. L205-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ii/titre-preliminaire/chapitre-v.md#article-l205-1)
 
 Les dispositions du présent chapitre, à l'exception de l'article L. 215-1-1, ne sont pas applicables aux exploitants des services d'eau potable et d'assainissement.
 

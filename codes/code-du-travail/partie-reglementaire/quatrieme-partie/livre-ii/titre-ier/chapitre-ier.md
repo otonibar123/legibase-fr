@@ -9,7 +9,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532577
 - Renvoie à : [art. L4211-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903194)
-- Cité par : [art. R1333-145 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050932759)
+- Cité par : [art. R1333-145 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-r1333-145)
 
 Les dispositions du présent titre déterminent, en application de l'article L. 4211-1, les règles auxquelles se conforme le maître d'ouvrage entreprenant la construction ou l'aménagement de bâtiments destinés à recevoir des travailleurs, que ces opérations nécessitent ou non l'obtention d'un permis de construire.
 
@@ -18,7 +18,7 @@ Les dispositions du présent titre déterminent, en application de l'article L. 
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532575
 - Renvoie à : [Code du travail, Titre Ier : Obligations du maître d'ouvrage pou](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018488608)
-- Cité par : [Arrêté du 10 septembre 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044062856) ; [art. R221-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022964539) ; [art. R1322-90 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049967581)
+- Cité par : [art. R221-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-1) ; [art. R1322-90 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-ii/chapitre-ii-bis.md#article-r1322-90) ; [Arrêté du 10 septembre 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044062856)
 
 Pour l'application du présent titre, on entend par lieux de travail les lieux destinés à recevoir des postes de travail, situés ou non dans les bâtiments de l'établissement, ainsi que tout autre endroit compris dans l'aire de l'établissement auquel le travailleur a accès dans le cadre de son travail.  
 Les champs, bois et autres terrains faisant partie d'un établissement agricole ou forestier mais situés en dehors de la zone bâtie d'un tel établissement ne sont pas considérés comme des lieux de travail.

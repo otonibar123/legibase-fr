@@ -103,7 +103,7 @@ Lorsqu'en application de l'article L. 232-4, le commissaire aux comptes demande 
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006263991
 - Renvoie à : [art. L232-5 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-5)
-- Cité par : [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312) ; [art. R524-22 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048878395)
+- Cité par : [art. R524-22 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-22) ; [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312)
 
 Une société consolidante au sens du premier alinéa de l'article L. 232-5 effectue, lorsqu'elle exerce l'option prévue à cet article, les retraitements conformes aux règles de la consolidation sur les éléments des comptes des sociétés qu'elle contrôle directement ou indirectement.  
 
@@ -184,7 +184,7 @@ Les sociétés soumises à l'obligation prévue au I de l'article L. 232-6-2 met
 - Identifiant : LEGIARTI000048872187
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048872187
-- Cité par : [art. R511-16-5 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053959843)
+- Cité par : [art. R511-16-5 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-16-5)
 
 I. - Les informations en matière de durabilité prévues au I de l'article L. 232-6-3 décrivent :
 
@@ -302,7 +302,7 @@ II. - Par dérogation au III de l'article R. 232-8-4, le rapport mentionné au I
 - Identifiant : LEGIARTI000018359612
 - État : en vigueur depuis le 01/09/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018359612
-- Renvoie à : [art. R233-14 du Code de commerce](chapitre-iii.md#article-r233-14) ; art. L451-1-2 du Code monétaire et financier
+- Renvoie à : [art. R233-14 du Code de commerce](chapitre-iii.md#article-r233-14) ; [art. L451-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 - Cité par : [art. R247-1 du Code de commerce](../titre-iv/chapitre-vii.md#article-r247-1)
 
 Les sociétés dont les actions sont admises, en tout ou partie, aux négociations sur un marché réglementé publient au Bulletin des annonces légales obligatoires dans les quarante-cinq jours qui suivent l'approbation des comptes par l'assemblée générale ordinaire des actionnaires les documents suivants :
@@ -321,7 +321,7 @@ Les sociétés intéressées sont dispensées de la publication des documents me
 - Identifiant : LEGIARTI000048909609
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048909609
-- Renvoie à : [art. L232-7 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-7) ; art. L451-1-2 du Code monétaire et financier
+- Renvoie à : [art. L232-7 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-7) ; [art. L451-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 - Cité par : [art. R247-1 du Code de commerce](../titre-iv/chapitre-vii.md#article-r247-1)
 
 Dans les quatre mois qui suivent la fin du premier semestre de leur exercice, les sociétés dont les actions sont admises, en tout ou partie, aux négociations sur un marché réglementé, annexent et déposent auprès de l'Autorité des marchés financiers le rapport semestriel prévu au troisième alinéa de l'article L. 232-7. Ce rapport contient les mêmes informations que celles prévues au VI de l'article L. 451-1-2 du code monétaire et financier.

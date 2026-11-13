@@ -11,7 +11,7 @@ Code du travail › Partie réglementaire › Première partie : Les relations i
 - État : en vigueur depuis le 20/10/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019668669
 - Renvoie à : [art. L1251-6 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-6)
-- Cité par : [art. D431-14 du Code de la recherche](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048771796)
+- Cité par : [art. D431-14 du Code de la recherche](../../../../../code-de-la-recherche/partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md#article-d431-14)
 
 En application du 3° de l'article L. 1251-6, les secteurs d'activité dans lesquels des contrats de mission peuvent être conclus pour les emplois pour lesquels il est d'usage constant de ne pas recourir au contrat de travail à durée indéterminée, en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois, sont les suivants :
 
@@ -374,7 +374,7 @@ La substitution de l'entreprise utilisatrice à l'entreprise de travail temporai
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018537328
 - Renvoie à : [art. L1251-52 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-52)
-- Cité par : [art. R243-26 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039222660)
+- Cité par : [art. R243-26 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-26)
 
 Dans le cas prévu à l'article L. 1251-52, le salarié ou l'organisme de sécurité sociale ou l'institution sociale, ou, en cas de procédures de sauvegarde, de redressement ou de liquidation judiciaire, le mandataire judiciaire ou le liquidateur informe l'entreprise utilisatrice de l'insuffisance de la caution en lui adressant une demande de paiement des sommes restant dues par lettre recommandée avec avis de réception ou remise contre récépissé.  
 L'entreprise utilisatrice paie les sommes dues dans un délai de dix jours à compter de la réception de la demande.

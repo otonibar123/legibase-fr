@@ -63,7 +63,7 @@ Dans le respect des missions prévues à l'article L. 5214-3, la convention d'ob
 - Identifiant : LEGIARTI000018525808
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018525808
-- Cité par : [art. R351-28 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051962920)
+- Cité par : [art. R351-28 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-iii/titre-v/chapitre-ier.md#article-r351-28)
 
 Une convention de coopération est conclue entre l'association chargée de la gestion du fonds de développement pour l'insertion professionnelle des handicapés et le fonds pour l'insertion professionnelle des handicapés dans la fonction publique.  
 Elle détermine notamment les obligations respectives des parties à l'égard des organismes de placement spécialisés.

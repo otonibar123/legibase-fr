@@ -8,7 +8,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006434876
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006434876
-- Cité par : [art. 752 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027517860) ; [art. 784 C du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305431) ; [Décret n°2009-1193 du 7 octobre 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929384) ; [Loi du 1er juin 1924, art. 38](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020616083)
+- Cité par : [art. 752 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-752) ; [art. 784 C du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-784-c) ; [Décret n°2009-1193 du 7 octobre 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929384) ; [Loi du 1er juin 1924, art. 38](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020616083)
 
 Une libéralité peut être grevée d'une charge comportant l'obligation pour le donataire ou le légataire de conserver les biens ou droits qui en sont l'objet et de les transmettre, à son décès, à un second gratifié, désigné dans l'acte.
 

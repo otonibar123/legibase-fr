@@ -59,7 +59,7 @@ A défaut de précision de la convention, les frais du divorce sont partagés pa
 - Identifiant : LEGIARTI000045250546
 - État : en vigueur depuis le 28/02/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045250546
-- Renvoie à : [art. 373-2-2 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-2) ; art. R582-4-1 du Code de la sécurité sociale
+- Renvoie à : [art. 373-2-2 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-2) ; [art. R582-4-1 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-4-1)
 - Cité par : [art. 1575 du Code de procédure civile](../../livre-vi/titre-ii.md#article-1575)
 
 La convention de divorce est signée ensemble, par les époux et leurs avocats réunis à cet effet ensemble, en trois exemplaires ou, dans les mêmes conditions, par signature électronique.

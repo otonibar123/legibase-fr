@@ -72,7 +72,7 @@ En matière contentieuse, le pourvoi est recevable même lorsqu'une condamnation
 - Identifiant : LEGIARTI000006410964
 - État : en vigueur depuis le 01/01/1980
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410964
-- Cité par : [art. 618 du Code de procédure civile](chapitre-iii.md#article-618) ; [art. R221-8 du Code de l'expropriation pour cause d'utilité pu...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971230) ; [Décret n°2012-373 du 16 mars 2012, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025526466)
+- Cité par : [art. R221-8 du Code de l'expropriation pour cause d'utilité publique](../../../../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ier.md#article-r221-8) ; [art. 618 du Code de procédure civile](chapitre-iii.md#article-618) ; [Décret n°2012-373 du 16 mars 2012, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025526466)
 
 Le délai de pourvoi en cassation est de deux mois, sauf disposition contraire.
 
@@ -199,7 +199,7 @@ Si elle en est requise, la Cour peut dans le dispositif de l'arrêt de cassation
 - Identifiant : LEGIARTI000025191474
 - État : en vigueur depuis le 23/01/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025191474
-- Renvoie à : art. L431-4 du Code de l'organisation judiciaire
+- Renvoie à : [art. L431-4 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-4)
 
 En cas de cassation suivie d'un renvoi de l'affaire à une juridiction, celle-ci est désignée et statue, le cas échéant, conformément à l'article L. 431-4 du code de l'organisation judiciaire.
 
@@ -207,7 +207,7 @@ En cas de cassation suivie d'un renvoi de l'affaire à une juridiction, celle-ci
 - Identifiant : LEGIARTI000025191470
 - État : en vigueur depuis le 23/01/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025191470
-- Renvoie à : art. L411-3 du Code de l'organisation judiciaire
+- Renvoie à : [art. L411-3 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-ier/chapitre-unique.md#article-l411-3)
 
 La Cour de cassation peut casser sans renvoyer l'affaire dans les cas et conditions prévues par l'article L. 411-3 du code de l'organisation judiciaire.
 

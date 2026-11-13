@@ -16,7 +16,7 @@ Elles ont la faculté de se faire assister ou représenter.
 - Identifiant : LEGIARTI000036223098
 - État : en vigueur depuis le 18/12/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036223098
-- Cité par : [art. R1452-2 du Code du travail](chapitre-ii.md#article-r1452-2) ; [art. R1452-4 du Code du travail](chapitre-ii.md#article-r1452-4) ; [art. R1461-1 du Code du travail](../titre-vi/chapitre-ier.md#article-r1461-1) ; [art. R1523-4 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r1523-4) ; [art. R123-28 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053702586)
+- Cité par : [art. R123-28 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-28) ; [art. R1452-2 du Code du travail](chapitre-ii.md#article-r1452-2) ; [art. R1452-4 du Code du travail](chapitre-ii.md#article-r1452-4) ; [art. R1461-1 du Code du travail](../titre-vi/chapitre-ier.md#article-r1461-1) ; [art. R1523-4 du Code du travail](../../livre-v/titre-ii/chapitre-iii.md#article-r1523-4)
 
 Les personnes habilitées à assister ou à représenter les parties sont :
 

@@ -6,7 +6,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000032042341
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042341
-- Cité par : [art. R112-19-1 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033464316)
+- Cité par : [art. R112-19-1 du Code du patrimoine](../../../code-du-patrimoine/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r112-19-1)
 
 Celui qui réclame l'exécution d'une obligation doit la prouver. Réciproquement, celui qui se prétend libéré doit justifier le paiement ou le fait qui a produit l'extinction de son obligation.
 

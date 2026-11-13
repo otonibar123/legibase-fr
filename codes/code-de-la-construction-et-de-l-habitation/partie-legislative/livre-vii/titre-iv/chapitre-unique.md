@@ -1,0 +1,103 @@
+# Chapitre unique : Opérations de requalification des copropriétés dégradées
+
+Code de la construction et de l'habitation › Partie législative › Livre VII : Immeubles relevant du statut de la copropriété › Titre IV : Traitement des difficultés des copropriétés dégradées
+
+### Article L741-1
+- Identifiant : LEGIARTI000049399282
+- État : en vigueur depuis le 11/04/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049399282
+- Renvoie à : [art. L211-4 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-4) ; [art. L213-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-2) ; [art. L300-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/articles-directs.md#article-l300-1) ; [art. L303-1 du Code de la construction et de l'habitation](../../livre-iii/titre-preliminaire/chapitre-iii.md#article-l303-1) ; [art. L615-1 du Code de la construction et de l'habitation](../../livre-vi/titre-ier/chapitre-v.md#article-l615-1)
+- Cité par : [art. L523-1 du Code de l'expropriation pour cause d'utilité publique](../../../../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-legislative-nouvelle/livre-v/titre-ii/chapitre-iii.md#article-l523-1) ; [art. L211-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-2) ; [art. L211-2-4 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-2-4) ; [art. L300-6-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/articles-directs.md#article-l300-6-1) ; [art. L300-10 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/articles-directs.md#article-l300-10) ; [art. L321-1-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1-1) ; [art. L321-29 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-29) ; [art. L327-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-vii.md#article-l327-1) ; [art. L421-5-3 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-5-3) ; [art. L411-2 du Code de la construction et de l'habitation](../../livre-iv/titre-ier/chapitre-unique.md#article-l411-2) ; [art. L421-1 du Code de la construction et de l'habitation](../../livre-iv/titre-ii/chapitre-ier.md#article-l421-1) ; [art. L421-3 du Code de la construction et de l'habitation](../../livre-iv/titre-ii/chapitre-ier.md#article-l421-3) ; [art. L422-2 du Code de la construction et de l'habitation](../../livre-iv/titre-ii/chapitre-ii.md#article-l422-2) ; [art. L422-3 du Code de la construction et de l'habitation](../../livre-iv/titre-ii/chapitre-ii.md#article-l422-3) ; [art. L741-2 du Code de la construction et de l'habitation](chapitre-unique.md#article-l741-2) ; [art. L741-4 du Code de la construction et de l'habitation](chapitre-unique.md#article-l741-4) ; [art. R321-12 du Code de la construction et de l'habitation](../../../partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-12) ; [Arrêté du 24 mai 2013, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048478661) ; [DÉCRET n°2015-99 du 28 janvier 2015, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030172612) ; [DÉCRET n°2015-99 du 28 janvier 2015, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030172614) ; [Décret n°2016-1439 du 26 octobre 2016, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033311629) ; [Décret n°2016-1439 du 26 octobre 2016, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033311621) ; [Décret n°2020-8 du 6 janvier 2020, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039794733) ; [Décret n°2021-638 du 20 mai 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044032743) ; [Décret n°2021-638 du 20 mai 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044032745) ; [Décret n°2022-319 du 4 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045300881) ; [Décret n°2022-319 du 4 mars 2022, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045300885) ; … et 16 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+
+Des opérations de requalification des copropriétés dégradées peuvent être mises en place par l'Etat, les collectivités territoriales ou leurs groupements pour lutter contre l'indignité et la dégradation des immeubles en copropriété.
+
+Ces opérations sont menées sur un périmètre défini par l'Etat, les collectivités territoriales ou leurs groupements dans le cadre d'un projet urbain et social pour le territoire concerné ou d'une politique locale de l'habitat. Elles peuvent inclure des monopropriétés.
+
+Chaque opération fait l'objet d'une convention entre personnes publiques, dont, le cas échéant, l'opérateur chargé de la mise en œuvre est signataire, qui prévoit tout ou partie des actions suivantes :
+
+1° Un dispositif d'intervention immobilière et foncière, incluant des actions d'acquisition, de travaux et de portage de lots de copropriété ;
+
+2° Un plan de relogement et d'accompagnement social des occupants ;
+
+3° La mobilisation des dispositifs coercitifs de lutte contre l'habitat indigne ;
+
+4° La mise en œuvre des actions prévues à l'article L. 303-1 ;
+
+5° Le cas échéant, la mise en œuvre d'un plan de sauvegarde prévu à l'article L. 615-1 du présent code ainsi que de la procédure d'administration provisoire renforcée prévue à l'article 29-11 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis ;
+
+6° La mise en œuvre d'actions ou d'opérations d'aménagement, au sens de l'article L. 300-1 du code de l'urbanisme, intégrant les objectifs de l'opération ;
+
+L'opération de requalification de copropriétés peut donner lieu à l'instauration du droit de préemption urbain renforcé prévu à l'article L. 211-4 du même code, qui peut être délégué à l'opérateur chargé de la mise en œuvre de l'opération. L'instauration du droit de préemption urbain renforcé peut être assortie de l'obligation de joindre un rapport relatif à la salubrité et à la sécurité du bien établi par les autorités compétentes et transmis selon les modalités prévues à l'article L. 213-2 dudit code. Pour obtenir la réalisation de ce rapport, le vendeur peut se prévaloir des dispositions de l'article 25-1 A de la loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations.
+
+Pour assurer le relogement, à titre temporaire ou définitif, des occupants des logements dans les copropriétés situées dans le périmètre des opérations mentionnées au premier alinéa du présent article, le maire et le président de l'établissement public de coopération intercommunale, signataires de la convention prévue au troisième alinéa du présent article, peuvent user des prérogatives qu'ils tiennent des troisième et avant-dernier alinéas de l'article L. 521-3-3 du présent code.
+
+### Article L741-2
+- Identifiant : LEGIARTI000049399333
+- État : en vigueur depuis le 11/04/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049399333
+- Renvoie à : [art. L102-12 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ier/titre-preliminaire/chapitre-ii.md#article-l102-12) ; [art. L321-1-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1-1) ; [art. L441-2-3 du Code de la construction et de l'habitation](../../livre-iv/titre-iv/chapitre-ier.md#article-l441-2-3) ; [art. L521-3-3 du Code de la construction et de l'habitation](../../livre-v/titre-ii/chapitre-ier.md#article-l521-3-3) ; [art. L615-1 du Code de la construction et de l'habitation](../../livre-vi/titre-ier/chapitre-v.md#article-l615-1) ; [art. L741-1 du Code de la construction et de l'habitation](chapitre-unique.md#article-l741-1)
+- Cité par : [art. L523-1 du Code de l'expropriation pour cause d'utilité publique](../../../../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-legislative-nouvelle/livre-v/titre-ii/chapitre-iii.md#article-l523-1) ; [art. L300-6-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/articles-directs.md#article-l300-6-1) ; [art. L321-1-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1-1) ; [art. L2334-2 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-iv.md#article-l2334-2) ; [art. L2334-17 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-iv.md#article-l2334-17) ; [art. R2334-1 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-iv.md#article-r2334-1) ; [Décret n°2016-1439 du 26 octobre 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033311627) ; [Décret n°2020-8 du 6 janvier 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039794723) ; [Décret n°2021-638 du 20 mai 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044032741) ; [Décret n°2022-319 du 4 mars 2022, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045300879) ; [Décret n°2025-1311 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053171087) ; [Décret n°2025-1312 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053170392) ; [Décret n°2025-1313 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053171128) ; [Décret n°2025-1314 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053171169) ; [Décret n°2025-508 du 10 mai 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051710547) ; [Décret n°67-223 du 17 mars 1967, art. 61-1-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039345696) ; … et 3 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+
+L'Etat peut déclarer d'intérêt national, au sens de l'article L. 102-12 du code de l'urbanisme, une opération de requalification de copropriétés dégradées, dont il définit le périmètre par décret en Conseil d'Etat, si l'opération de requalification présente des enjeux majeurs en matière d'habitat dégradé, une complexité de traitement particulière et nécessite de lourds investissements, et si le droit de préemption urbain renforcé assorti de l'obligation mentionnée à l'avant-dernier alinéa de l'article L. 741-1 du présent code a été instauré et que la commune s'est engagée formellement à le déléguer à l'opérateur chargé de la mise en œuvre de l'opération d'intérêt national. Le décret en Conseil d'Etat est pris après avis du représentant de l'Etat dans la région et après consultation de l'établissement public de coopération intercommunale à fiscalité propre compétent en matière d'opérations d'aménagement ou de la métropole de Lyon, des communes, des départements et des régions dont le territoire est inclus en tout ou partie dans le périmètre de l'opération ainsi que, le cas échéant, des établissements publics de coopération intercommunale compétents en matière d'habitat concernés. L'avis intervient dans un délai de trois mois à compter de la saisine et est réputé favorable s'il n'est pas intervenu à l'expiration de ce délai.
+
+Pour assurer le relogement, à titre temporaire ou définitif, des occupants des logements dans les copropriétés situées dans le périmètre des opérations d'intérêt national mentionnées au premier alinéa du présent article, sur proposition de l'opérateur chargé de conduire l'opération, le représentant de l'Etat dans le département peut user des prérogatives qu'il tient de l'article L. 441-2-3, de même que le maire et le président de l'établissement public de coopération intercommunale, signataires de la convention prévue à l'article L. 741-1, de celles qu'ils tiennent des troisième et quatrième alinéas de l'article L. 521-3-3.
+
+Afin de faciliter la mise en œuvre des dispositifs coercitifs de lutte contre l'habitat indigne prévus au 3° de l'article L. 741-1, lorsque l'établissement public foncier chargé de conduire l'opération mentionnée au premier alinéa du présent article ou, le cas échéant, un autre opérateur désigné par l'Etat pouvant être délégataire du droit de préemption effectue un signalement auprès des personnes publiques disposant des prérogatives de police spéciale dans le cadre des actions d'acquisition, qui lui sont confiées en vertu du 1° de l'article L. 741-1, concernant un immeuble ou un logement situés dans le périmètre de l'opération, le déplacement d'un agent pour établir un rapport doit intervenir dans un délai d'un mois à compter du signalement.
+
+La conduite de l'opération mentionnée au premier alinéa du présent article est définie aux 1° et 2° de l'article L. 321-1-1 du code de l'urbanisme.
+
+### Article L741-3
+- Identifiant : LEGIARTI000049396240
+- État : en vigueur depuis le 11/04/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049396240
+- Cité par : [art. L303-1-1 du Code de la construction et de l'habitation](../../livre-iii/titre-preliminaire/chapitre-iii.md#article-l303-1-1)
+
+I. - Lorsqu'un immeuble ou un ensemble immobilier soumis au statut de la copropriété des immeubles bâtis est inclus dans le périmètre d'une opération de requalification des copropriétés dégradées régie par les articles L. 741-1 ou L. 741-2 et que sa gestion et son fonctionnement normal sont compromis en raison de graves difficultés d'entretien ou d'administration résultant notamment de défaillances récurrentes des copropriétaires ou de complexités juridiques ou techniques, l'opérateur peut saisir le juge afin qu'il constate que ces difficultés menacent la poursuite de l'opération et qu'il désigne un expert chargé, aux frais de l'opérateur, de déterminer les conditions matérielles, juridiques et financières de la division du syndicat de copropriétaires ou de la constitution d'un ou de plusieurs syndicats de copropriétaires secondaires.
+
+II. - Le syndic et l'opérateur fournissent sans délai à l'expert, et en tout état de cause au plus tard à la date fixée par la décision ordonnant l'expertise, les documents nécessaires à l'accomplissement de sa mission.
+
+III. - L'expert établit notamment la répartition des parties communes du syndicat des copropriétaires initial, les projets de règlement de copropriété et les états descriptifs de division des nouveaux syndicats des copropriétaires, dresse un état des créances et des dettes du syndicat initial et en établit la répartition selon les principes définis aux 1° et 2° du II de l'article 28 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis.
+
+Dans un délai de trois mois, renouvelable une fois, à compter de sa désignation, l'expert adresse au juge et à l'opérateur un rapport présentant les préconisations faites pour opérer la scission du syndicat ou la création d'un ou de plusieurs syndicats secondaires et, le cas échéant, pour assurer la sécurité et la division de l'immeuble ainsi que le résultat des actions de médiation ou de négociation qu'il a éventuellement menées avec les parties en cause.
+
+L'opérateur notifie ce rapport au syndic, au conseil syndical lorsqu'il en est constitué un ainsi qu'au représentant de l'Etat dans le département.
+
+IV. - Si l'expertise révèle que des travaux préalables sont nécessaires pour réaliser la constitution d'un syndicat des copropriétaires secondaire ou les divisions prévues au présent article, le juge peut autoriser l'opérateur à les réaliser.
+
+Si la division en volumes s'avère nécessaire, le rapport de l'expert établit que l'immeuble ou l'ensemble immobilier peut être scindé en volumes sans parties communes indivises et fonctionnant de façon autonome.
+
+V. - Lorsqu'il résulte du rapport de l'expert que la division nécessaire à la réussite des objectifs poursuivis par l'opération en cours générerait un partage inégal des parties communes du syndicat des copropriétaires initial entre les syndicats créés, l'opérateur notifie aux copropriétaires lésés une offre d'indemnité dans les conditions et selon les règles prévues au code de l'expropriation pour cause d'utilité publique.
+
+VI. - Au vu des conclusions du rapport de l'expert, et ayant fait le constat que les conditions requises pour l'engagement de la procédure prévue au présent article sont remplies, le juge peut prononcer aux conditions qu'il fixe :
+
+1° Soit la constitution d'un ou de plusieurs syndicats secondaires ;
+
+2° Soit la division du syndicat.
+
+Il désigne, pour chaque syndicat des copropriétaires issu des divisions prévues au présent article ou pour chaque syndicat secondaire constitué en application du présent article, la personne chargée de convoquer l'assemblée générale en vue de la désignation d'un syndic.
+
+Il homologue les nouveaux règlements de copropriété et les états descriptifs de division des syndicats issus de la division ou les modifications du règlement de copropriété résultant de la constitution d'un syndicat secondaire.
+
+S'il y a lieu, il ordonne la création d'une union ou d'une association syndicale libre des syndicats issus de la division, en vue de la création, de la gestion et de l'entretien des éléments d'équipements communs qui ne peuvent être divisés.
+
+En cas de désaccord des parties sur le montant de l'indemnité prévue au V, il fixe l'indemnité comme en matière d'expropriation pour cause d'utilité publique.
+
+La division emporte la dissolution du syndicat initial au jour de son prononcé par le juge.
+
+### Article L741-4
+- Identifiant : LEGIARTI000049396242
+- État : en vigueur depuis le 11/04/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049396242
+- Renvoie à : [art. L741-1 du Code de la construction et de l'habitation](chapitre-unique.md#article-l741-1)
+
+I.-Lorsqu'un immeuble soumis au statut de la copropriété des immeubles bâtis est inclus dans le périmètre d'une opération de requalification des copropriétés dégradées régie par les articles L. 741-1 ou L. 741-2 et que l'inclusion de l'immeuble dans le périmètre d'une association syndicale libre régie par l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires ainsi que, le cas échéant, par le chapitre II du titre II du livre III du code de l'urbanisme engendre des difficultés de gestion, de fonctionnement normal ou financières ou des complexités juridiques qui font obstacle à la poursuite de l'opération, l'opérateur peut saisir le juge afin qu'il en fasse le constat et qu'il désigne un expert chargé de déterminer les conditions matérielles, juridiques et financières de la distraction de l'immeuble ou, lorsque l'opération porte sur un ou plusieurs immeubles représentant une part majoritaire du périmètre de l'association, de la dissolution de l'association. L'opérateur notifie ce rapport aux membres de l'association syndicale.
+
+II.-Au vu des conclusions du rapport de l'expert, s'il fait le constat que les conditions requises pour l'engagement de la procédure prévue au présent article sont remplies, le juge peut prononcer, aux conditions qu'il fixe :
+
+1° Soit la distraction de l'immeuble ;
+
+2° Soit la dissolution de l'association syndicale.
+
+III.-En cas de dissolution, les conditions de la dévolution du passif et de l'actif sont déterminées soit par les statuts du syndicat, soit, à défaut, par un liquidateur nommé par le juge. Elles doivent tenir compte des droits des tiers. Dans le cas de la dissolution comme dans celui de la distraction, les propriétaires membres de l'association sont redevables de leur quote-part des dettes de l'association contractées durant leur période d'adhésion jusqu'à leur extinction totale.
+
+IV.-En cas de distraction, les éventuels frais relatifs à la modification des statuts ou de tout acte nécessaire pour constater les conséquences de cette distraction sont à la charge de l'opérateur.

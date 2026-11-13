@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE IX : Dispositions relatives �
 - Identifiant : LEGIARTI000025759975
 - État : en vigueur depuis le 28/04/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025759975
-- Renvoie à : [art. L711-2 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-2) ; [art. L711-4 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-4) ; [art. L711-8 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. L712-7 du Code de commerce](../../livre-vii/titre-ier/chapitre-ii.md#article-l712-7) ; [art. L443-1 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006525034) ; [art. L753-1 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006525478)
+- Renvoie à : [art. L711-2 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-2) ; [art. L711-4 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-4) ; [art. L711-8 du Code de commerce](../../livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. L712-7 du Code de commerce](../../livre-vii/titre-ier/chapitre-ii.md#article-l712-7) ; [art. L443-1 du Code de l'éducation](../../../../code-de-l-education/partie-legislative/deuxieme-partie/livre-iv/titre-iv/chapitre-iii.md#article-l443-1) ; [art. L753-1 du Code de l'éducation](../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-iii.md#article-l753-1)
 
 Pour l'application à Mayotte :
 

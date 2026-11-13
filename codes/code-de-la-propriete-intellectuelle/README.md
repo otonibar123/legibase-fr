@@ -1,0 +1,210 @@
+# Code de la propriété intellectuelle
+
+Dernière modification du texte dans LEGI : 05/08/2026. 1891 articles en vigueur, répartis dans 147 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Première partie : La propriété littéraire et artistique**
+    - **Livre Ier : Le droit d'auteur**
+      - **Titre Ier : Objet du droit d'auteur**
+        - [Chapitre Ier : Nature du droit d'auteur](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Oeuvres protégées](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ii.md) (4 articles)
+        - [Chapitre III : Titulaires du droit d'auteur](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-iii.md) (11 articles)
+      - **Titre II : Droits des auteurs**
+        - [Chapitre Ier : Droits moraux](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Droits patrimoniaux](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ii.md) (25 articles)
+        - [Chapitre III : Durée de la protection](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iii.md) (11 articles)
+      - **Titre III : Exploitation des droits**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ier.md) (15 articles)
+        - [Chapitre II : Dispositions particulières à certains contrats](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ii.md) (63 articles)
+        - [Chapitre III : Rémunération au titre du prêt en bibliothèque](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-iii.md) (4 articles)
+        - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-iv.md) (8 articles)
+        - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-v.md) (7 articles)
+        - [Chapitre VI : Dispositions applicables à la recherche et au référencement des œuvres d'art plastiques, graphiques ou photographiques](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-vi.md) (4 articles)
+        - [Chapitre VII : Dispositions applicables à certains fournisseurs de services de partage de contenus en ligne](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-vii.md) (5 articles)
+        - [Chapitre VIII : Dispositions particulières relatives à l'exploitation de certaines œuvres indisponibles](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-viii.md) (5 articles)
+        - [Chapitre IX : Dispositions applicables à certaines utilisations d'œuvres relevant des arts visuels dans le cadre d'activités de recherche et d'enseignement supérieur](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ix.md) (1 article)
+    - **Livre II : Les droits voisins du droit d'auteur**
+      - **Titre unique**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-ier.md) (9 articles)
+        - [Chapitre II : Droits des artistes-interprètes](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-ii.md) (24 articles)
+        - [Chapitre III : Droits des producteurs de phonogrammes](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-iv.md) (6 articles)
+        - [Chapitre V : Droits des producteurs de vidéogrammes](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-v.md) (1 article)
+        - [Chapitre VI : Droits des entreprises de communication audiovisuelle](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-vi.md) (2 articles)
+        - [Chapitre VII : Dispositions applicables à la télédiffusion par satellite, la communication sur un service en ligne accessoire et la retransmission simultanée, intégrale et sans changement](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-vii.md) (6 articles)
+        - [Chapitre VIII : Droits des éditeurs de presse et des agences de presse](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-viii.md) (5 articles)
+        - [Chapitre IX: Dispositions applicables à certains fournisseurs de services de partage de contenus en ligne](partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-ix.md) (4 articles)
+    - **Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données**
+      - **Titre Ier : Rémunération pour copie privée**
+        - [Chapitre unique](partie-legislative/premiere-partie/livre-iii/titre-ier/chapitre-unique.md) (8 articles)
+      - **Titre II : Gestion des droits d'auteur et des droits voisins par un organisme**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Autorisation de gestion des droits](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-ii.md) (8 articles)
+        - [Chapitre III : Organisation des organismes de gestion collective](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-iii.md) (15 articles)
+        - [Chapitre IV : Gestion des droits](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-iv.md) (24 articles)
+        - [Chapitre V : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-v.md) (7 articles)
+        - [Chapitre VI : Transparence et procédures de contrôle](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-vi.md) (13 articles)
+        - [Chapitre VII : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-vii.md) (15 articles)
+        - [Chapitre VIII : Dispositions diverses](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-viii.md) (2 articles)
+      - **Titre III : Prévention, procédures et sanctions**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-ier.md) (36 articles)
+        - [Chapitre II : Saisie-contrefaçon](partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-ii.md) (5 articles)
+        - [Chapitre III : Saisies des produits d'exploitation](partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-iii.md) (4 articles)
+        - [Chapitre IV : Droit de suite](partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-iv.md) (1 article)
+        - [Chapitre V : Dispositions pénales](partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-v.md) (15 articles)
+        - [Chapitre V bis : La retenue](partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-v-bis.md) (9 articles)
+        - [Chapitre VI : Prévention du téléchargement et de la mise à disposition illicites d'œuvres et d'objets protégés par un droit d'auteur ou un droit voisin](partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-vi.md) (4 articles)
+      - **Titre IV : Droits des producteurs de bases de données**
+        - [Chapitre Ier : Champ d'application](partie-legislative/premiere-partie/livre-iii/titre-iv/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Etendue de la protection](partie-legislative/premiere-partie/livre-iii/titre-iv/chapitre-ii.md) (8 articles)
+        - [Chapitre III : Procédures et sanctions](partie-legislative/premiere-partie/livre-iii/titre-iv/chapitre-iii.md) (8 articles)
+  - **Deuxième partie : La propriété industrielle**
+    - **Livre IV : Organisation administrative et professionnelle**
+      - **Titre Ier : Institutions**
+        - [Chapitre Ier : L'Institut national de la propriété industrielle](partie-legislative/deuxieme-partie/livre-iv/titre-ier/chapitre-ier.md) (5 articles)
+        - [Chapitre II : L'instance nationale des obtentions végétales](partie-legislative/deuxieme-partie/livre-iv/titre-ier/chapitre-ii.md) (1 article)
+      - **Titre II : Qualification en propriété industrielle**
+        - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ii.md) (15 articles)
+        - [Chapitre III : Dispositions diverses](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-iii.md) (2 articles)
+    - **Livre V : Les dessins et modèles**
+      - **Titre Ier : Conditions et modalités de la protection**
+        - [Chapitre Ier : Champ d'application](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-ier.md) (11 articles)
+        - [Chapitre II : Enregistrement d'un dessin ou modèle](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-ii.md) (6 articles)
+        - [Chapitre III : Droits conférés par l'enregistrement](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-iii.md) (8 articles)
+        - [Chapitre IV : Dispositions diverses](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-iv.md) (2 articles)
+        - [Chapitre V : Dessins ou modèles communautaires](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-v.md) (2 articles)
+      - **Titre II : Contentieux**
+        - [Chapitre Ier : Contentieux des dessins ou modèles nationaux](partie-legislative/deuxieme-partie/livre-v/titre-ii/chapitre-ier.md) (16 articles)
+        - [Chapitre Ier bis : La retenue](partie-legislative/deuxieme-partie/livre-v/titre-ii/chapitre-ier-bis.md) (9 articles)
+        - [Chapitre II : Contentieux des dessins ou modèles communautaires](partie-legislative/deuxieme-partie/livre-v/titre-ii/chapitre-ii.md) (2 articles)
+    - **Livre VI : Protection des inventions et des connaissances techniques**
+      - **Titre Ier : Brevets d'invention**
+        - [Chapitre Ier : Champ d'application](partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-ier.md) (19 articles)
+        - [Chapitre II : Dépôt et instruction des demandes](partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-ii.md) (25 articles)
+        - [Chapitre III : Droits attachés aux brevets](partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-iii.md) (48 articles)
+        - [Chapitre IV : Application de conventions internationales et du droit de l'Union européenne](partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-iv.md) (29 articles)
+        - [Chapitre IV bis : La retenue](partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-iv-bis.md) (8 articles)
+        - [Chapitre V : Actions en justice](partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-v.md) (28 articles)
+      - **Titre II : Protection des connaissances techniques**
+        - [Chapitre Ier : Secret de fabrique](partie-legislative/deuxieme-partie/livre-vi/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Produits semi-conducteurs](partie-legislative/deuxieme-partie/livre-vi/titre-ii/chapitre-ii.md) (8 articles)
+        - [Chapitre III : Obtention végétale](partie-legislative/deuxieme-partie/livre-vi/titre-ii/chapitre-iii.md) (60 articles)
+    - **Livre VII : Marques de produits ou de services et autres signes distinctifs**
+      - **Titre Ier : Marques de produits ou de services**
+        - [Chapitre Ier : Eléments constitutifs de la marque](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Acquisition du droit sur la marque](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-ii.md) (18 articles)
+        - [Chapitre III : Droits conférés par la marque](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-iii.md) (10 articles)
+        - [Chapitre IV : Transmission et perte du droit sur la marque](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-iv.md) (8 articles)
+        - [Chapitre V : Marques de garantie et marques collectives](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-v.md) (10 articles)
+        - [Chapitre VI : Contentieux](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-vi.md) (27 articles)
+        - [Chapitre VI bis : Retenue en douane et actions pénales](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-vi-bis.md) (17 articles)
+        - [Chapitre VII : Marque de l'Union européenne](partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-vii.md) (6 articles)
+      - **Titre II : Indications géographiques**
+        - [Chapitre Ier : Généralités](partie-legislative/deuxieme-partie/livre-vii/titre-ii/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Contentieux](partie-legislative/deuxieme-partie/livre-vii/titre-ii/chapitre-ii.md) (18 articles)
+      - **Titre III : Indications relatives aux services publics**
+        - [Chapitre unique](partie-legislative/deuxieme-partie/livre-vii/titre-iii/chapitre-unique.md) (4 articles)
+  - **Troisième partie : Dispositions relatives à l'outre-mer**
+    - **Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon**
+      - **Titre unique**
+        - [Chapitre unique](partie-legislative/troisieme-partie/livre-viii/titre-unique/chapitre-unique.md) (12 articles)
+- **Partie réglementaire**
+  - **Livre Ier : Le droit d'auteur**
+    - **Titre Ier : Objet du droit d'auteur**
+      - [Chapitre Ier : Nature du droit d'auteur](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (2 articles)
+    - **Titre II : Droits des auteurs**
+      - [Chapitre II : Droits patrimoniaux](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (33 articles)
+    - **Titre III : Exploitation des droits**
+      - [Chapitre II : Dispositions particulières à certains contrats](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Rémunération au titre du prêt en bibliothèque](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Dispositions particulières relatives à l'exploitation numérique des livres indisponibles du xxe siècle](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (11 articles)
+      - [Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines](partie-reglementaire/livre-ier/titre-iii/chapitre-v.md) (4 articles)
+      - [Chapitre VII : Dispositions applicables à certains fournisseurs de services de partage de contenus en ligne](partie-reglementaire/livre-ier/titre-iii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Dispositions particulières relatives à l'exploitation de certaines œuvres indisponibles](partie-reglementaire/livre-ier/titre-iii/chapitre-viii.md) (1 article)
+  - **Livre II : Les droits voisins du droit d'auteur**
+    - **Titre unique**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ii/titre-unique/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Droits des artistes-interprètes](partie-reglementaire/livre-ii/titre-unique/chapitre-ii.md) (8 articles)
+      - [Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes](partie-reglementaire/livre-ii/titre-unique/chapitre-iv.md) (18 articles)
+  - **Livre III : Dispositions générales**
+    - **Titre Ier : Rémunération pour copie privée**
+      - [Chapitre unique](partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md) (12 articles)
+    - **Titre Ier bis : Rémunération des journalistes et autres auteurs au titre du droit d'auteur et du droit voisin des agences de presse et des éditeurs de presse**
+      - [Chapitre unique](partie-reglementaire/livre-iii/titre-ier-bis/chapitre-unique.md) (11 articles)
+    - **Titre II : Gestion des droits d'auteur et des droits voisins par un organisme**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre Ier ter : Organisations des organismes de gestion collective](partie-reglementaire/livre-iii/titre-ii/chapitre-ier-ter.md) (2 articles)
+      - [Chapitre Ier quater : Gestion des droits](partie-reglementaire/livre-iii/titre-ii/chapitre-ier-quater.md) (4 articles)
+      - [Chapitre Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales](partie-reglementaire/livre-iii/titre-ii/chapitre-ier-quinquies.md) (6 articles)
+      - [Chapitre Ier sexies : Transparence et procédures de contrôle](partie-reglementaire/livre-iii/titre-ii/chapitre-ier-sexies.md) (10 articles)
+      - [Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins](partie-reglementaire/livre-iii/titre-ii/chapitre-ier-septies.md) (24 articles)
+      - [Chapitre Ier octies : Dispositions diverses](partie-reglementaire/livre-iii/titre-ii/chapitre-ier-octies.md) (1 article)
+      - [Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission simultanée, intégrale et sans changement et la représentation par un distributeur de signaux](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission simultanée, intégrale et sans changement](partie-reglementaire/livre-iii/titre-ii/chapitre-iv.md) (12 articles)
+      - [Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque](partie-reglementaire/livre-iii/titre-ii/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle](partie-reglementaire/livre-iii/titre-ii/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes](partie-reglementaire/livre-iii/titre-ii/chapitre-vii.md) (6 articles)
+      - [Chapitre VIII : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation de certaines œuvres indisponibles](partie-reglementaire/livre-iii/titre-ii/chapitre-viii.md) (8 articles)
+      - [Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence](partie-reglementaire/livre-iii/titre-ii/chapitre-ix.md) (6 articles)
+      - [Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée](partie-reglementaire/livre-iii/titre-ii/chapitre-x.md) (6 articles)
+      - [Chapitre XI : Organismes agréés pour conclure des contrats susceptibles d'être étendus à des titulaires de droits qui n'en sont pas membres](partie-reglementaire/livre-iii/titre-ii/chapitre-xi.md) (8 articles)
+    - **Titre III : Procédures et sanctions**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (54 articles)
+      - [Chapitre II : Saisie-contrefaçon](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre V : Dispositions pénales](partie-reglementaire/livre-iii/titre-iii/chapitre-v.md) (4 articles)
+      - [Chapitre V bis : La retenue](partie-reglementaire/livre-iii/titre-iii/chapitre-v-bis.md) (13 articles)
+    - [Titre IV : Droits des producteurs de bases de données](partie-reglementaire/livre-iii/titre-iv.md) (3 articles)
+    - [Chapitre III : Procédures et sanctions](partie-reglementaire/livre-iii/chapitre-iii.md) (2 articles)
+  - **Livre IV : Organisation administrative et professionnelle**
+    - **Titre Ier : Institutions**
+      - [Chapitre Ier : L'Institut national de la propriété industrielle](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (47 articles)
+      - [Chapitre II : L'instance nationale des obtentions végétales](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (13 articles)
+    - **Titre II : Qualification en propriété industrielle**
+      - [Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (98 articles)
+      - [Chapitre III : Dispositions diverses](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (2 articles)
+  - **Livre V : Les dessins et modèles**
+    - **Titre Ier : Acquisition des droits**
+      - [Chapitre Ier : Droits et oeuvres protégés](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Formalités de dépôt](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (27 articles)
+      - [Chapitre III : Durée de la protection](partie-reglementaire/livre-v/titre-ier/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions communes](partie-reglementaire/livre-v/titre-ier/chapitre-iv.md) (7 articles)
+    - **Titre II : Contentieux**
+      - [Chapitre Ier : Contentieux des dessins ou modèles nationaux](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Contentieux des dessins et modèles communautaires](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Retenue en douane](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (1 article)
+  - **Livre VI : Protection des inventions et des connaissances techniques**
+    - **Titre Ier : Brevets d'invention**
+      - [Chapitre Ier : Champ d'application](partie-reglementaire/livre-vi/titre-ier/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Dépôt et instruction des demandes](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (84 articles)
+      - [Chapitre III : Droits attachés aux brevets](partie-reglementaire/livre-vi/titre-ier/chapitre-iii.md) (85 articles)
+      - [Chapitre IV : Application de conventions internationales et du droit de l’Union Européenne](partie-reglementaire/livre-vi/titre-ier/chapitre-iv.md) (26 articles)
+      - [Chapitre IV bis : La retenue](partie-reglementaire/livre-vi/titre-ier/chapitre-iv-bis.md) (2 articles)
+      - [Chapitre V : Actions en justice](partie-reglementaire/livre-vi/titre-ier/chapitre-v.md) (34 articles)
+      - [Chapitre VI : Le certificat d'utilité](partie-reglementaire/livre-vi/titre-ier/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Le certificat complémentaire de protection](partie-reglementaire/livre-vi/titre-ier/chapitre-vii.md) (4 articles)
+      - [Chapitre VIII : Dispositions communes](partie-reglementaire/livre-vi/titre-ier/chapitre-viii.md) (6 articles)
+    - **Titre II : Protection des connaissances techniques**
+      - [Chapitre II : Produits semi-conducteurs](partie-reglementaire/livre-vi/titre-ii/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Obtentions végétales](partie-reglementaire/livre-vi/titre-ii/chapitre-iii.md) (63 articles)
+    - **Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques**
+      - [Chapitre unique](partie-reglementaire/livre-vi/titre-iii/chapitre-unique.md) (2 articles)
+  - **Livre VII : Marques de produits ou de services et autres signes distinctifs**
+    - **Titre Ier : Marques de produits ou de services**
+      - [Chapitre Ier : Eléments constitutifs de la marque](partie-reglementaire/livre-vii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Acquisition du droit sur la marque](partie-reglementaire/livre-vii/titre-ier/chapitre-ii.md) (39 articles)
+      - [Chapitre IV : Transmission et perte du droit sur la marque](partie-reglementaire/livre-vii/titre-ier/chapitre-iv.md) (14 articles)
+      - [Chapitre V : Marques de garantie et marques collectives](partie-reglementaire/livre-vii/titre-ier/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Contentieux](partie-reglementaire/livre-vii/titre-ier/chapitre-vi.md) (22 articles)
+      - [Chapitre VII : Marque internationale et marque de l'Union européenne](partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md) (13 articles)
+      - [Chapitre VIII : Dispositions communes](partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md) (7 articles)
+    - **Titre II : Indications géographiques**
+      - [Chapitre Ier : Généralités](partie-reglementaire/livre-vii/titre-ii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Contentieux](partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md) (7 articles)
+  - **Livre VIII : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Pierre-et-Miquelon, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises**
+    - **Titre unique**
+      - [Chapitre unique](partie-reglementaire/livre-viii/titre-unique/chapitre-unique.md) (6 articles)

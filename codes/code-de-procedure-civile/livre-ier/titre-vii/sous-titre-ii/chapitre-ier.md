@@ -124,7 +124,7 @@ Le contrôle de l'exécution de cette mesure peut également être assuré par l
 - État : en vigueur depuis le 01/03/1999
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410281
 - Renvoie à : [art. 232 du Code de procédure civile](chapitre-v.md#article-232)
-- Cité par : [art. 155 du Code de procédure civile](chapitre-ier.md#article-155) ; [art. 851 du Code de procédure civile](../../../livre-ii/titre-ier/sous-titre-v/chapitre-ii.md#article-851) ; [art. R212-37 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053469702)
+- Cité par : [art. R212-37 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-37) ; [art. 155 du Code de procédure civile](chapitre-ier.md#article-155) ; [art. 851 du Code de procédure civile](../../../livre-ii/titre-ier/sous-titre-v/chapitre-ii.md#article-851)
 
 Le président de la juridiction peut dans l'intérêt d'une bonne administration de la justice désigner un juge spécialement chargé de contrôler l'exécution des mesures d'instruction confiées à un technicien en application de l'article 232.
 
@@ -166,7 +166,7 @@ La mesure d'instruction ordonnée peut être exécutée sur-le-champ.
 - Identifiant : LEGIARTI000034748107
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034748107
-- Cité par : [art. R3211-13 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024378498) ; [art. R3211-14 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374408)
+- Cité par : [art. R3211-13 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-13) ; [art. R3211-14 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-14)
 
 Les parties et les tiers qui doivent apporter leur concours aux mesures d'instruction sont convoqués, selon le cas, par le greffier du juge qui y procède ou par le technicien commis. La convocation est faite par lettre recommandée avec demande d'avis de réception. Les parties peuvent également être convoquées par remise à leur défenseur d'un simple bulletin.
 
@@ -327,7 +327,7 @@ L'omission ou l'inexactitude d'une mention destinée à établir la régularité
 - Identifiant : LEGIARTI000047053282
 - État : en vigueur depuis le 26/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047053282
-- Renvoie à : [art. 270 du Code de procédure civile](chapitre-v.md#article-270) ; [art. 271 du Code de procédure civile](chapitre-v.md#article-271) ; art. R122 du Code de procédure pénale
+- Renvoie à : [art. 270 du Code de procédure civile](chapitre-v.md#article-270) ; [art. 271 du Code de procédure civile](chapitre-v.md#article-271) ; [art. R122 du Code de procédure pénale](../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r122)
 
 Lorsqu'une mesure d'instruction ordonnée à l'étranger en application du règlement (UE) 2020/1783 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile et commerciale (obtention des preuves) (refonte), occasionne des frais pour la traduction des formulaires qui doivent être adressés à la juridiction requise, le juge ordonne le versement d'une provision à valoir sur ces frais, dont le montant est fixé en application du tarif prévu à l'article R. 122 du code de procédure pénale. Le juge désigne la ou les parties qui devront verser la provision au greffe de la juridiction dans le délai qu'il détermine suivant les modalités prévues par les articles 270 et 271 du présent code.
 

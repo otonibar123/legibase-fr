@@ -38,7 +38,7 @@ La résiliation amiable du bail ne devient définitive qu'un mois après la noti
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072462
 - Renvoie à : [art. L143-6 du Code de commerce](chapitre-iii.md#article-l143-6)
-- Cité par : [art. L143-10 du Code de commerce](chapitre-iii.md#article-l143-10) ; [art. L143-11 du Code de commerce](chapitre-iii.md#article-l143-11) ; [art. R143-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md#article-r143-1) ; [Livre des procédures fiscales, art. L268](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039278593) ; [Loi du 17 mars 1909, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031010619)
+- Cité par : [art. L143-10 du Code de commerce](chapitre-iii.md#article-l143-10) ; [art. L143-11 du Code de commerce](chapitre-iii.md#article-l143-11) ; [art. R143-1 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md#article-r143-1) ; [Livre des procédures fiscales, art. L268](../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iv/chapitre-premier.md#article-l268) ; [Loi du 17 mars 1909, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031010619)
 
 I.-Le créancier qui engage une procédure de saisie-vente ou le débiteur contre lequel elle est engagée peut demander, devant le tribunal de commerce dans le ressort duquel s'exploite le fonds, la vente du fonds de commerce du saisi avec le matériel et les marchandises qui en dépendent.  
 
@@ -52,7 +52,7 @@ III.-Lorsque l'instance est introduite par le débiteur, le jugement qui ordonne
 - Identifiant : LEGIARTI000006221050
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221050
-- Cité par : [art. L143-1 du Code de commerce](chapitre-iii.md#article-l143-1) ; [art. L143-5 du Code de commerce](chapitre-iii.md#article-l143-5) ; [art. L143-7 du Code de commerce](chapitre-iii.md#article-l143-7) ; [art. L143-8 du Code de commerce](chapitre-iii.md#article-l143-8) ; [art. L143-14 du Code de commerce](chapitre-iii.md#article-l143-14) ; [art. R143-5 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md#article-r143-5) ; [Livre des procédures fiscales, art. L268](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006316028) ; [Loi du 17 mars 1909, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031010619)
+- Cité par : [art. L143-1 du Code de commerce](chapitre-iii.md#article-l143-1) ; [art. L143-5 du Code de commerce](chapitre-iii.md#article-l143-5) ; [art. L143-7 du Code de commerce](chapitre-iii.md#article-l143-7) ; [art. L143-8 du Code de commerce](chapitre-iii.md#article-l143-8) ; [art. L143-14 du Code de commerce](chapitre-iii.md#article-l143-14) ; [art. R143-5 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md#article-r143-5) ; [Livre des procédures fiscales, art. L268](../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iv/chapitre-premier.md#article-l268) ; [Loi du 17 mars 1909, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031010619)
 
 Le tribunal nomme, s'il y a lieu, un administrateur provisoire du fonds, fixe les mises à prix, détermine les conditions principales de la vente, commet pour y procéder l'officier public qui dresse le cahier des charges.  
 
@@ -217,7 +217,7 @@ Les créanciers inscrits le même jour viennent en concurrence.
 - Identifiant : LEGIARTI000044072424
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072424
-- Cité par : [art. L143-17 du Code de commerce](chapitre-iii.md#article-l143-17) ; [art. R533-2 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047550601)
+- Cité par : [art. L143-17 du Code de commerce](chapitre-iii.md#article-l143-17) ; [art. R533-2 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-iii/chapitre-iii.md#article-r533-2)
 
 L'inscription et la radiation des droits de préférence des créanciers inscrits sont soumises à des formalités dont les modalités sont fixées par décret en Conseil d'Etat.
 
@@ -227,7 +227,7 @@ L'inscription et la radiation des droits de préférence des créanciers inscrit
 - Identifiant : LEGIARTI000044072418
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044072418
-- Renvoie à : [art. L143-16 du Code de commerce](chapitre-iii.md#article-l143-16)
+- Renvoie à : [art. L143-16 du Code de commerce](chapitre-iii.md#article-l143-16) ; [art. L613-8 du Code de la propriété intellectuelle](../../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-iii.md#article-l613-8)
 
 Outre les formalités d'inscription mentionnées à l'article L. 143-16, les ventes ou cessions de fonds de commerce comprenant des marques de produits ou de services, des dessins ou modèles industriels, ainsi que les nantissements de fonds qui comprennent des brevets d'invention ou licences, des marques ou des dessins et modèles, doivent être inscrits à l'Institut national de la propriété industrielle, à peine d'inopposabilité à l'égard des tiers, des ventes, cessions ou nantissements en ce qu'ils s'appliquent aux brevets d'invention et aux licences, aux marques de produits ou de services, aux dessins et modèles industriels.
 
@@ -260,7 +260,7 @@ L'inscription garantit au même rang que le principal deux années d'intérêt.
 - Identifiant : LEGIARTI000031817320
 - État : en vigueur depuis le 31/12/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031817320
-- Renvoie à : [art. 201 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006308434)
+- Renvoie à : [art. 201 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-201)
 - Cité par : [art. R143-23 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md#article-r143-23)
 
 Tout tiers détenteur du prix d'acquisition d'un fonds de commerce chez lequel domicile a été élu doit en faire la répartition dans un délai de cent cinq jours à compter de la date de l'acte de vente.
@@ -275,6 +275,7 @@ A l'expiration de ces délais, la partie la plus diligente peut se pourvoir en r
 - Identifiant : LEGIARTI000039280365
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280365
+- Renvoie à : [art. 225-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-225-15) ; [art. 225-19 du Code pénal](../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-225-19)
 
 Lorsque la confiscation d'un fonds de commerce est prononcée par une juridiction répressive en application des articles 225-16, 225-19 et 225-22 du code pénal et 706-39 du code de procédure pénale, l'Etat doit procéder à la mise en vente du fonds confisqué selon les formes prévues par le présent titre dans un délai d'un an, sauf prorogation exceptionnelle de ce délai par ordonnance du président du tribunal judiciaire. Il n'est tenu à l'égard des créanciers qu'à concurrence du prix de vente de ce fonds.
 

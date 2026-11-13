@@ -7,7 +7,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530271
 - Renvoie à : [art. R4441-2 du Code du travail](chapitre-ier.md#article-r4441-2) ; [Code du travail, Chapitre III : Valeurs limites d'exposition](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018491012)
-- Cité par : [art. R717-85-9 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602490)
+- Cité par : [art. R717-85-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-9)
 
 L'employeur évalue et, si nécessaire, mesure les niveaux de vibrations mécaniques auxquels les travailleurs sont exposés.  
 Cette évaluation et ce mesurage ont pour but de déterminer les paramètres physiques définis à l'article R. 4441-2 et d'apprécier si, dans une situation donnée, les valeurs d'exposition fixées au chapitre III sont dépassées.

@@ -54,7 +54,7 @@ Les sommes dues à l'enfant sont reversées à son représentant légal dès que
 - État : en vigueur depuis le 03/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045282103
 - Renvoie à : [art. 342-10 du Code civil](../../../code-civil/livre-ier/titre-vii/chapitre-v.md#article-342-10)
-- Cité par : [art. 1157-3 du Code de procédure civile](chapitre-vi.md#article-1157-3) ; [art. R2141-10 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044968956) ; [art. R2142-25 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044969179) ; [art. R2442-2 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037437856)
+- Cité par : [art. R2141-10 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r2141-10) ; [art. R2142-25 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r2142-25) ; [art. R2442-2 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-iv/titre-iv/chapitre-ii.md#article-r2442-2) ; [art. 1157-3 du Code de procédure civile](chapitre-vi.md#article-1157-3)
 
 Le couple ou la femme non mariée qui recourt à une assistance médicale à la procréation nécessitant l'intervention d'un tiers donneur, prévue à l' article 342-10 du code civil , y consent par déclaration devant notaire. Pour les couples, cette déclaration est conjointe.
 
@@ -67,7 +67,7 @@ Expédition ou copie de l'acte ne peut être délivrée qu'à ceux dont le conse
 - État : en vigueur depuis le 03/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045282096
 - Renvoie à : [art. 342-11 du Code civil](../../../code-civil/livre-ier/titre-vii/chapitre-v.md#article-342-11) ; [art. 1157-2 du Code de procédure civile](chapitre-vi.md#article-1157-2)
-- Cité par : [art. R2141-10 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044968956) ; [art. R2442-2 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037437856)
+- Cité par : [art. R2141-10 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r2141-10) ; [art. R2442-2 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-iv/titre-iv/chapitre-ii.md#article-r2442-2)
 
 Avant de recueillir le consentement, le notaire informe les membres du couple ou la femme non mariée qui s'apprêtent à l'exprimer :
 

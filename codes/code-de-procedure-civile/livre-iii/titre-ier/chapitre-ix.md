@@ -292,8 +292,8 @@ L'amende civile prévue à l'article 387-6 du code civil ne peut excéder 10 000
 - Identifiant : LEGIARTI000034748154
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034748154
-- Renvoie à : art. L228-4 du Code de l'action sociale et des familles
-- Cité par : [Arrêté du 25 août 1992, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018846836) ; [Arrêté du 25 août 1992, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018846830) ; [art. R314-105 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047510441) ; [Décret n°2008-1486 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020049593)
+- Renvoie à : [art. L228-4 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-4)
+- Cité par : [art. R314-105 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-105) ; [Arrêté du 25 août 1992, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018846836) ; [Arrêté du 25 août 1992, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018846830) ; [Décret n°2008-1486 du 30 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020049593)
 
 Les mesures d'assistance éducative sont prises par le juge des enfants du lieu où demeure, selon le cas, l'un des parents, le tuteur du mineur ou la personne, ou le service à qui l'enfant a été confié ; à défaut, par le juge du lieu où demeure le mineur. Si la personne mentionnée à l'alinéa précédent change de lieu de résidence, le juge se dessaisit au profit du juge du lieu de la nouvelle résidence, sauf ordonnance motivée. Ainsi qu'il est dit à l'article L. 228-4 du code de l'action sociale et des familles, en cas de changement de département, le président du conseil départemental de l'ancienne résidence et celui de la nouvelle résidence sont informés du dessaisissement.
 
@@ -302,7 +302,7 @@ Les mesures d'assistance éducative sont prises par le juge des enfants du lieu 
 - État : en vigueur depuis le 29/05/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027469340
 - Renvoie à : [art. 1186 du Code de procédure civile](chapitre-ix.md#article-1186) ; [art. 1187 du Code de procédure civile](chapitre-ix.md#article-1187)
-- Cité par : [art. 1184 du Code de procédure civile](chapitre-ix.md#article-1184) ; [art. D226-3-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020020162) ; [Ordonnance n°2020-304 du 25 mars 2020, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041756526)
+- Cité par : [art. D226-3-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md#article-d226-3-2) ; [art. 1184 du Code de procédure civile](chapitre-ix.md#article-1184) ; [Ordonnance n°2020-304 du 25 mars 2020, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041756526)
 
 Le juge donne avis de l'ouverture de la procédure au procureur de la République ; quand ils ne sont pas requérants, il en donne également avis à chacun des parents, au tuteur, à la personne ou au représentant du service à qui l'enfant a été confié.  
 
@@ -316,7 +316,7 @@ L'avis d'ouverture de la procédure et les convocations adressées aux parents, 
 - Identifiant : LEGIARTI000048149884
 - État : en vigueur depuis le 05/10/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048149884
-- Cité par : [art. 375-7 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-375-7) ; [art. 1184 du Code de procédure civile](chapitre-ix.md#article-1184) ; [art. 1187 du Code de procédure civile](chapitre-ix.md#article-1187) ; [art. 1205 du Code de procédure civile](chapitre-ix.md#article-1205) ; [Arrêté du 1 décembre 2005, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018846761) ; [art. D226-3-7 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043791939) ; [Ordonnance n°2020-304 du 25 mars 2020, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041756526)
+- Cité par : [art. 375-7 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-375-7) ; [art. D226-3-7 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md#article-d226-3-7) ; [art. L226-3-3 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-l226-3-3) ; [art. 1184 du Code de procédure civile](chapitre-ix.md#article-1184) ; [art. 1187 du Code de procédure civile](chapitre-ix.md#article-1187) ; [art. 1205 du Code de procédure civile](chapitre-ix.md#article-1205) ; [Arrêté du 1 décembre 2005, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018846761) ; [Ordonnance n°2020-304 du 25 mars 2020, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041756526)
 
 Le juge peut, soit d'office, soit à la requête des parties ou du ministère public, ordonner toute mesure d'information concernant la personnalité et les conditions de vie du mineur et de ses parents, en particulier par le moyen d'une mesure judiciaire d'investigation éducative, d'examens médicaux ou d'expertises psychiatriques et psychologiques.
 
@@ -417,7 +417,7 @@ L'affaire est instruite et jugée en chambre du conseil, après avis du ministè
 - Identifiant : LEGIARTI000048149043
 - État : en vigueur depuis le 05/10/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048149043
-- Renvoie à : [art. 373-2-7 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-7) ; [art. 375-4-1 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-375-4-1) ; art. R451-66 du Code de l'action sociale et des familles
+- Renvoie à : [art. 373-2-7 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-7) ; [art. 375-4-1 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-375-4-1) ; [art. R451-66 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iv/titre-v/chapitre-unique.md#article-r451-66)
 
 La médiation familiale ordonnée par le juge des enfants en application de l'article 375-4-1 du code civil a pour objet d'aider les parents à mettre fin à leur conflit concourant à la situation de danger pour l'enfant.
 
@@ -928,7 +928,7 @@ Les demandes en restitution d'enfants déclarés délaissés sont soumises aux d
 - Identifiant : LEGIARTI000048149901
 - État : en vigueur depuis le 05/10/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048149901
-- Renvoie à : [art. 383 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ii.md#article-383) ; [art. 388-2 du Code civil](../../../code-civil/livre-ier/titre-x/chapitre-ier.md#article-388-2) ; art. R53 du Code de procédure pénale
+- Renvoie à : [art. 383 du Code civil](../../../code-civil/livre-ier/titre-ix/chapitre-ii.md#article-383) ; [art. 388-2 du Code civil](../../../code-civil/livre-ier/titre-x/chapitre-ier.md#article-388-2) ; [art. R53 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ier.md#article-r53)
 - Cité par : [art. 1575-1 du Code de procédure civile](../../livre-vi/titre-ii.md#article-1575-1)
 
 Lorsqu'en application des dispositions des articles 375-1,383 et 388-2 du code civil, la juridiction procède à la désignation d'un administrateur ad hoc et que dans l'intérêt de l'enfant, il est impossible de choisir celui-ci au sein de la famille ou parmi les proches du mineur, la juridiction peut désigner l'administrateur ad hoc parmi les personnes figurant sur la liste prévue à l'article R. 53 du code de procédure pénale.
@@ -948,8 +948,8 @@ L'appel est formé, instruit et jugé comme en matière gracieuse.
 - Identifiant : LEGIARTI000019282312
 - État : en vigueur depuis le 11/09/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019282312
-- Renvoie à : art. 53 du Code de procédure pénale ; art. R53-8 du Code de procédure pénale
-- Cité par : [art. A43-10 du CODE DE PROCEDURE PENALE](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019462402)
+- Renvoie à : [art. R53 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ier.md#article-r53) ; [art. R53-8 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ier.md#article-r53-8) ; art. 53 du Code de procédure pénale
+- Cité par : [art. A43-10 du Code de procédure pénale](../../../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-10)
 
 En sus du remboursement de ses frais de déplacement, calculés dans les conditions fixées pour les déplacements des personnels civils de l'Etat pour le ministère de la justice, il est alloué une indemnité à chaque personne désignée en qualité d'administrateur ad hoc, lorsqu'elle figure sur la liste prévue à l'article 53 du code de procédure pénale.  
 
@@ -980,7 +980,7 @@ Lorsqu'un administrateur ad hoc est désigné en application de l'article 375-1 
 - Identifiant : LEGIARTI000039390382
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039390382
-- Renvoie à : [art. L211-2 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572086) ; art. L211-12 du Code de l'organisation judiciaire
+- Renvoie à : [art. L211-2 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-2) ; [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
 - Cité par : [art. 1210-5 du Code de procédure civile](chapitre-ix.md#article-1210-5) ; [art. 1210-10 du Code de procédure civile](chapitre-ix.md#article-1210-10)
 
 L'autorité centrale désignée dans le cadre des instruments internationaux et européens relatifs au déplacement illicite international d'enfants transmet au procureur de la République près le tribunal judiciaire territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire la demande de retour dont elle a été saisie.
@@ -1007,7 +1007,7 @@ Le procureur de la République peut également prendre les mesures qu'il estime 
 - Identifiant : LEGIARTI000039390138
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039390138
-- Renvoie à : [art. 1210-4 du Code de procédure civile](chapitre-ix.md#article-1210-4) ; [art. L211-12 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572101)
+- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12) ; [art. 1210-4 du Code de procédure civile](chapitre-ix.md#article-1210-4)
 
 Les actions engagées sur le fondement des dispositions des instruments internationaux et européens relatives au déplacement illicite international d'enfants sont portées devant le juge aux affaires familiales du tribunal judiciaire territorialement compétent en application de l'article L. 211-12 du code de l'organisation judiciaire.
 
@@ -1019,6 +1019,7 @@ Est également portée devant le juge mentionné au premier alinéa la demande t
 - Identifiant : LEGIARTI000039725988
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725988
+- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
 
 La demande aux fins d'obtenir le retour de l'enfant, en application de la convention du 25 octobre 1980 sur les aspects civils de l'enlèvement international d'enfants, est formée, instruite et jugée selon la procédure accélérée au fond.
 
@@ -1028,7 +1029,7 @@ La demande aux fins d'obtenir le retour de l'enfant, en application de la conven
 - Identifiant : LEGIARTI000039390186
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039390186
-- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572101)
+- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
 - Cité par : [art. 1210-10 du Code de procédure civile](chapitre-ix.md#article-1210-10)
 
 Dès qu'il est informé de la décision de retour, le procureur de la République chargé de son exécution, qui est celui près le tribunal judiciaire spécialement désigné en application de l'article L. 211-12 du code de l'organisation judiciaire, dans le ressort duquel se trouve l'enfant, peut procéder ou faire procéder à l'audition de la personne chez qui se trouve l'enfant qui fait l'objet de cette décision.
@@ -1053,7 +1054,7 @@ Afin de déterminer les modalités d'exécution de la décision de retour les pl
 - Identifiant : LEGIARTI000039390229
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039390229
-- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572101) ; [Loi n°95-125 du 8 février 1995, art. 34-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025029749)
+- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12) ; [Loi n°95-125 du 8 février 1995, art. 34-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025029749)
 - Cité par : [art. 1210-10 du Code de procédure civile](chapitre-ix.md#article-1210-10)
 
 En l'absence d'exécution volontaire de la décision de retour, le procureur de la République compétent en application de l'article 34-1 de la loi n° 95-125 du 8 janvier 1995 pour requérir directement la force publique afin de faire exécuter la décision est celui près le tribunal judiciaire spécialement désigné en application de l'article L. 211-12 du code de l'organisation judiciaire, dans le ressort duquel se trouve l'enfant. Il informe, s'il y a lieu, le procureur de la République près le tribunal judiciaire dans le ressort duquel se trouve l'enfant de son intention de requérir la force publique pour faire exécuter la décision de retour et peut recueillir de ce dernier toutes informations utiles, notamment au regard des risques que l'exécution de la décision pourrait entraîner.
@@ -1074,7 +1075,7 @@ Sauf refus exprès du procureur de la République, une copie des pièces visées
 - Identifiant : LEGIARTI000047053161
 - État : en vigueur depuis le 26/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047053161
-- Renvoie à : [art. 1137 du Code de procédure civile](chapitre-v.md#article-1137)
+- Renvoie à : [art. L211-12 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12) ; [art. 1137 du Code de procédure civile](chapitre-v.md#article-1137)
 
 La décision de refus de retour rendue par une juridiction étrangère et les documents qui l'accompagnent transmis à la juridiction déjà saisie par les parties d'une demande relative à l'exercice de l'autorité parentale, en application du paragraphe 3 de l'article 29 du règlement (UE) 2019/1111 du Conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants (refonte), sont notifiés aux parties par le greffe de cette juridiction.
 

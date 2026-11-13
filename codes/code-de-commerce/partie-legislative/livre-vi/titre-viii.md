@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE VI : Des difficultés des ent
 - Identifiant : LEGIARTI000023233387
 - État : en vigueur depuis le 11/12/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023233387
-- Cité par : [art. L351-7-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028723279)
+- Cité par : [art. L351-7-1 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-v/chapitre-ier.md#article-l351-7-1)
 
 Lorsque les dispositions des titres Ier à VI du présent livre sont appliquées à raison des activités professionnelles exercées par un entrepreneur individuel à responsabilité limitée, elles le sont patrimoine par patrimoine.
 

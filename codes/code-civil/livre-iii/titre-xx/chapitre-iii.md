@@ -37,7 +37,7 @@ L'interruption efface le délai de prescription acquis. Elle fait courir un nouv
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033033506
 - Renvoie à : [art. 2226 du Code civil](chapitre-ii.md#article-2226) ; [art. 2227 du Code civil](chapitre-ii.md#article-2227) ; [art. 2233 du Code civil](chapitre-iii.md#article-2233) ; [art. 2236 du Code civil](chapitre-iii.md#article-2236) ; [art. 2241 du Code civil](chapitre-iii.md#article-2241) ; [art. 2244 du Code civil](chapitre-iii.md#article-2244)
-- Cité par : [art. L217-15 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md#article-l217-15) ; [art. R111-1 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-r111-1) ; [art. L111-4 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025648) ; [LOI n°2014-344 du 17 mars 2014, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028739878)
+- Cité par : [art. L217-15 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md#article-l217-15) ; [art. R111-1 du Code de la consommation](../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-r111-1) ; [art. L111-4 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-4) ; [LOI n°2014-344 du 17 mars 2014, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028739878)
 
 Le report du point de départ, la suspension ou l'interruption de la prescription ne peut avoir pour effet de porter le délai de la prescription extinctive au-delà de vingt ans à compter du jour de la naissance du droit.
 
@@ -94,8 +94,8 @@ Elle ne court pas ou est suspendue contre l'héritier acceptant à concurrence d
 - Identifiant : LEGIARTI000032042671
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042671
-- Renvoie à : [art. 2236 du Code civil](chapitre-iii.md#article-2236) ; [art. L125-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032009727)
-- Cité par : [art. L7345-11 du Code du travail](../../../code-du-travail/partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-v.md#article-l7345-11) ; [Arrêté du 24 décembre 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755238) ; [Arrêté du 24 décembre 2019, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755247) ; [art. L327-6 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033677840) ; [art. R125-2 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039375490) ; [art. L315-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020866955) ; [art. L316-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027643190) ; [art. L621-19 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038588268) ; [Décret n°2020-1133 du 15 septembre 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042331911) ; [LOI n° 2010-1609 du 22 décembre 2010, art. 42-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024979738)
+- Renvoie à : [art. 2236 du Code civil](chapitre-iii.md#article-2236) ; [art. L125-1 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-1)
+- Cité par : [art. L327-6 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-vii.md#article-l327-6) ; [art. R125-2 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ii/chapitre-v.md#article-r125-2) ; [art. L7345-11 du Code du travail](../../../code-du-travail/partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-v.md#article-l7345-11) ; [art. L315-1 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-v.md#article-l315-1) ; [art. L316-1 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-vi.md#article-l316-1) ; [art. L621-19 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ii/chapitre-unique.md#article-l621-19) ; [Arrêté du 24 décembre 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755238) ; [Arrêté du 24 décembre 2019, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039755247) ; [Décret n°2020-1133 du 15 septembre 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042331911) ; [LOI n° 2010-1609 du 22 décembre 2010, art. 42-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024979738)
 
 La prescription est suspendue à compter du jour où, après la survenance d'un litige, les parties conviennent de recourir à la médiation ou à la conciliation ou, à défaut d'accord écrit, à compter du jour de la première réunion de médiation ou de conciliation. La prescription est également suspendue à compter de la conclusion d'une convention de procédure participative ou à compter de l'accord du débiteur constaté par l'huissier de justice pour participer à la procédure prévue à l'article L. 125-1 du code des procédures civiles d'exécution.
 
@@ -123,7 +123,7 @@ La reconnaissance par le débiteur du droit de celui contre lequel il prescrivai
 - Identifiant : LEGIARTI000019017098
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017098
-- Cité par : [art. 2232 du Code civil](chapitre-iii.md#article-2232) ; [art. L518-24 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029099058)
+- Cité par : [art. 2232 du Code civil](chapitre-iii.md#article-2232) ; [art. L518-24 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-24)
 
 La demande en justice, même en référé, interrompt le délai de prescription ainsi que le délai de forclusion.
 
@@ -147,7 +147,7 @@ L'interruption est non avenue si le demandeur se désiste de sa demande ou laiss
 - Identifiant : LEGIARTI000025033281
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025033281
-- Cité par : [art. 2232 du Code civil](chapitre-iii.md#article-2232) ; [art. L518-24 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029099058) ; [Décret n°55-22 du 4 janvier 1955, art. 28](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073484) ; [Ordonnance no 92-1146 du 12 octobre 1992 portant e, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006842699) ; [Ordonnance n° 92-1146 du 12 octobre 1992, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043106)
+- Cité par : [art. 2232 du Code civil](chapitre-iii.md#article-2232) ; [art. L518-24 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-24) ; [Décret n°55-22 du 4 janvier 1955, art. 28](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044073484) ; [Ordonnance no 92-1146 du 12 octobre 1992 portant e, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006842699) ; [Ordonnance n° 92-1146 du 12 octobre 1992, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043106)
 
 Le délai de prescription ou le délai de forclusion est également interrompu par une mesure conservatoire prise en application du code des procédures civiles d'exécution ou un acte d'exécution forcée.
 
@@ -166,5 +166,6 @@ Pour interrompre le délai de prescription pour le tout, à l'égard des autres 
 - Identifiant : LEGIARTI000019017088
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017088
+- Cité par : [art. R612-5 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-r612-5)
 
 L'interpellation faite au débiteur principal ou sa reconnaissance interrompt le délai de prescription contre la caution.

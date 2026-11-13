@@ -6,7 +6,7 @@ Code de la consommation › Partie législative nouvelle › Livre VI : RÈGLEME
 - Identifiant : LEGIARTI000032224805
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224805
-- Cité par : [Arrêté du 30 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054601955) ; [Arrêté du 30 juillet 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054601969) ; [art. L121-19 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054135455) ; [art. R513-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044397605) ; [art. R519-34 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044399140)
+- Cité par : [art. Annexe 3-0 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-3-0) ; [art. L121-19 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-l121-19) ; [art. R513-3 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-v/titre-ier/chapitre-iii.md#article-r513-3) ; [art. R519-34 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-ix.md#article-r519-34) ; [Arrêté du 30 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054601955) ; [Arrêté du 30 juillet 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054601969)
 
 Tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résolution amiable du litige qui l'oppose à un professionnel. A cet effet, le professionnel garantit au consommateur le recours effectif à un dispositif de médiation de la consommation.  
 Le professionnel peut mettre en place son propre dispositif de médiation de la consommation ou proposer au consommateur le recours à tout autre médiateur de la consommation répondant aux exigences du présent titre.  
@@ -17,7 +17,7 @@ Les modalités selon lesquelles le processus de médiation est mis en œuvre son
 - Identifiant : LEGIARTI000032224802
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224802
-- Cité par : [art. R614-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-iv.md#article-r614-1) ; [art. L122-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051560264) ; [Décret n°2025-772 du 5 août 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052054487)
+- Cité par : [art. L122-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ier/titre-ii/chapitre-ii.md#article-l122-1) ; [art. R122-1 du Code de l'énergie](../../../../code-de-l-energie/partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md#article-r122-1) ; [art. R614-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-iv.md#article-r614-1) ; [Décret n°2025-772 du 5 août 2025, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052054487)
 
 Un litige ne peut être examiné par le médiateur de la consommation lorsque :  
 1° Le consommateur ne justifie pas avoir tenté, au préalable, de résoudre son litige directement auprès du professionnel par une réclamation écrite selon les modalités prévues, le cas échéant, dans le contrat ;  
@@ -47,6 +47,6 @@ Est interdite toute clause ou convention obligeant le consommateur, en cas de li
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224796
 - Renvoie à : [art. L615-1 du Code de la consommation](chapitre-v.md#article-l615-1)
-- Cité par : [art. L322-11-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051829663)
+- Cité par : [art. L322-11-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-11-1)
 
 Lorsqu'un médiateur public est compétent pour procéder à la médiation d'un litige de consommation, ce litige ne peut donner lieu à d'autres procédures de médiation conventionnelle, au sens du présent titre, sous réserve de l'existence d'une convention, notifiée à la commission d'évaluation et de contrôle de la médiation mentionnée à l'article L. 615-1, qui répartit les litiges entre les médiateurs concernés.

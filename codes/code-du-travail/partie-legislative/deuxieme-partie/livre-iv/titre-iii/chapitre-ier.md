@@ -6,7 +6,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000006902364
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902364
-- Cité par : [art. L514-3-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051374259)
+- Cité par : [art. L514-3-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-iv.md#article-l514-3-2)
 
 Le fait de rompre le contrat de travail d'un délégué syndical ou d'un ancien délégué syndical en méconnaissance des dispositions relatives à la procédure d'autorisation administrative prévues par le présent livre est puni d'un emprisonnement d'un an et d'une amende de 3 750 euros.  
 

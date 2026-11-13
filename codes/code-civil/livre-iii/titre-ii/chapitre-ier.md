@@ -66,7 +66,7 @@ Les dispositions du présent article ne préjudicient pas aux libéralités cons
 - Identifiant : LEGIARTI000006433570
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433570
-- Cité par : [art. L2222-13 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361346) ; [art. L1311-17 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021873443) ; [Ordonnance n° 2002-1476 du 19 décembre 2002, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043144)
+- Cité par : [art. L2222-13 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l2222-13) ; [art. L1311-17 du Code général des collectivités territoriales](../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-iii/titre-ier/chapitre-unique.md#article-l1311-17) ; [Ordonnance n° 2002-1476 du 19 décembre 2002, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043144)
 
 Tout gratifié peut demander que soient révisées en justice les conditions et charges grevant les donations ou legs qu'il a reçus, lorsque, par suite d'un changement de circonstances, l'exécution en est devenue pour lui soit extrêmement difficile, soit sérieusement dommageable.
 
@@ -85,7 +85,7 @@ Celui-ci doit, dans tous les cas, avoir communication de l'affaire.
 - Identifiant : LEGIARTI000006433591
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433591
-- Cité par : [art. L2222-13 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361346) ; [LOI n° 2019-486 du 22 mai 2019, art. 177](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038497798)
+- Cité par : [art. L2222-13 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l2222-13) ; [LOI n° 2019-486 du 22 mai 2019, art. 177](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038497798)
 
 Le juge saisi de la demande en révision peut, selon les cas et même d'office, soit réduire en quantité ou périodicité les prestations grevant la libéralité, soit en modifier l'objet en s'inspirant de l'intention du disposant, soit même les regrouper, avec des prestations analogues résultant d'autres libéralités.  
 

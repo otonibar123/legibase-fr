@@ -1,0 +1,1022 @@
+# Code général des collectivités territoriales
+
+Dernière modification du texte dans LEGI : 01/10/2026. 6547 articles en vigueur, répartis dans 673 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **PREMIÈRE PARTIE : DISPOSITIONS GÉNÉRALES**
+    - **LIVRE Ier : PRINCIPES GÉNÉRAUX DE LA DÉCENTRALISATION**
+      - **TITRE UNIQUE : LIBRE ADMINISTRATION DES COLLECTIVITÉS TERRITORIALES**
+        - [CHAPITRE Ier : Principe de libre administration](partie-legislative/premiere-partie/livre-ier/titre-unique/chapitre-ier.md) (20 articles)
+        - [CHAPITRE II : Participation des électeurs aux décisions locales](partie-legislative/premiere-partie/livre-ier/titre-unique/chapitre-ii.md) (25 articles)
+        - [Chapitre II bis : Médiation](partie-legislative/premiere-partie/livre-ier/titre-unique/chapitre-ii-bis.md) (1 article)
+        - [CHAPITRE III : Expérimentation](partie-legislative/premiere-partie/livre-ier/titre-unique/chapitre-iii.md) (7 articles)
+        - [CHAPITRE IV : Autonomie financière](partie-legislative/premiere-partie/livre-ier/titre-unique/chapitre-iv.md) (4 articles)
+        - [CHAPITRE V : Action extérieure des collectivités territoriales](partie-legislative/premiere-partie/livre-ier/titre-unique/chapitre-v.md) (10 articles)
+        - [CHAPITRE VI : Demande de prise de position formelle](partie-legislative/premiere-partie/livre-ier/titre-unique/chapitre-vi.md) (1 article)
+    - **LIVRE II : ORGANISMES NATIONAUX COMPÉTENTS À L'ÉGARD DES COLLECTIVITÉS TERRITORIALES ET DE LEURS GROUPEMENTS**
+      - **TITRE Ier : LE COMITÉ DES FINANCES LOCALES ET LE CONSEIL NATIONAL D'EVALUATION DES NORMES**
+        - [CHAPITRE Ier : LE COMITE DES FINANCES LOCALES](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-ier.md) (6 articles)
+        - [CHAPITRE II : LE CONSEIL NATIONAL D'EVALUATION DES NORMES](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-ii.md) (4 articles)
+      - **TITRE II : LE CONSEIL NATIONAL DE LA FORMATION DES ÉLUS LOCAUX**
+        - [CHAPITRE UNIQUE](partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-unique.md) (5 articles)
+      - **TITRE III : AGENCE NATIONALE DE LA COHÉSION DES TERRITOIRES**
+        - [CHAPITRE Ier : Statut et missions](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Organisation et fonctionnement](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Ressources et moyens](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-iii.md) (6 articles)
+      - **TITRE IV : LE CONSEIL NATIONAL DES OPÉRATIONS FUNÉRAIRES**
+        - [CHAPITRE UNIQUE](partie-legislative/premiere-partie/livre-ii/titre-iv/chapitre-unique.md) (1 article)
+    - **LIVRE III : BIENS DES COLLECTIVITÉS TERRITORIALES, DE LEURS ÉTABLISSEMENTS ET DE LEURS GROUPEMENTS**
+      - **TITRE Ier : RÉGIME GÉNÉRAL**
+        - [CHAPITRE UNIQUE](partie-legislative/premiere-partie/livre-iii/titre-ier/chapitre-unique.md) (20 articles)
+      - **TITRE II : RÈGLES PARTICULIÈRES EN CAS DE TRANSFERT DE COMPÉTENCE**
+        - [CHAPITRE UNIQUE](partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-unique.md) (9 articles)
+    - **LIVRE IV : SERVICES PUBLICS LOCAUX**
+      - **TITRE Ier : PRINCIPES GENERAUX**
+        - [CHAPITRE PRELIMINAIRE : REGLES GENERALES APPLICABLES AUX CONTRATS DE CONCESSION](partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-preliminaire.md) (2 articles)
+        - [CHAPITRE Ier : LES DELEGATIONS DE SERVICE PUBLIC](partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-ier.md) (16 articles)
+        - [CHAPITRE II : Gestion directe des services publics](partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : Participation des habitants et des usagers à la vie des services publics](partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Les marchés publics](partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-iv.md) (4 articles)
+      - **TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX**
+        - [CHAPITRE Ier : Services culturels des collectivités territoriales](partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-ier.md) (8 articles)
+        - [CHAPITRE IV : Services d'incendie et de secours](partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-iv.md) (118 articles)
+        - [CHAPITRE V : Réseaux et services locaux de communications électroniques](partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-v.md) (2 articles)
+        - [CHAPITRE VI : Communication audiovisuelle](partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-vi.md) (1 article)
+        - [CHAPITRE VII : Aménagement des gares](partie-legislative/premiere-partie/livre-iv/titre-ii/chapitre-vii.md) (1 article)
+      - **TITRE III : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION CULTURELLE OU ENVIRONNEMENTALE**
+        - [CHAPITRE UNIQUE](partie-legislative/premiere-partie/livre-iv/titre-iii/chapitre-unique.md) (9 articles)
+      - [TITRE IV : ÉTABLISSEMENTS PUBLICS LOCAUX DE COOPERATION EDUCATIVE](partie-legislative/premiere-partie/livre-iv/titre-iv.md) (2 articles)
+    - **LIVRE V : DISPOSITIONS ÉCONOMIQUES**
+      - **TITRE Ier : DEVELOPPEMENT ECONOMIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/premiere-partie/livre-v/titre-ier/chapitre-unique.md) (9 articles)
+      - **TITRE II : SOCIÉTÉS D'ÉCONOMIE MIXTE LOCALES**
+        - [CHAPITRE Ier : Objet](partie-legislative/premiere-partie/livre-v/titre-ii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Composition du capital et concours financiers des collectivités territoriales et de leurs groupements](partie-legislative/premiere-partie/livre-v/titre-ii/chapitre-ii.md) (5 articles)
+        - [CHAPITRE III : Modalités d'intervention](partie-legislative/premiere-partie/livre-v/titre-ii/chapitre-iii.md) (7 articles)
+        - [CHAPITRE IV : Administration et contrôle](partie-legislative/premiere-partie/livre-v/titre-ii/chapitre-iv.md) (11 articles)
+        - [CHAPITRE V : Dispositions particulières](partie-legislative/premiere-partie/livre-v/titre-ii/chapitre-v.md) (3 articles)
+      - [TITRE III : SOCIÉTÉS PUBLIQUES LOCALES](partie-legislative/premiere-partie/livre-v/titre-iii.md) (1 article)
+      - [TITRE IV : SOCIÉTÉS D'ÉCONOMIE MIXTE À OPÉRATION UNIQUE](partie-legislative/premiere-partie/livre-v/titre-iv.md) (3 articles)
+    - **LIVRE VI : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+      - **TITRE Ier**
+        - [CHAPITRE Ier : Principes généraux](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-ier.md) (15 articles)
+        - [CHAPITRE II : Adoption et exécution des budgets](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-ii.md) (42 articles)
+        - [CHAPITRE III : Dotation globale de fonctionnement et autres dotations](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-iii.md) (6 articles)
+        - [CHAPITRE IV : Compensation des transferts de compétences](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-iv.md) (15 articles)
+        - [CHAPITRE V : Fonds de compensation pour la taxe sur la valeur ajoutée](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-v.md) (11 articles)
+        - [CHAPITRE VI : Dispositions particulières aux oeuvres d'art](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-vi.md) (1 article)
+        - [CHAPITRE VII : Dispositions relatives aux comptables des collectivités territoriales](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-vii.md) (6 articles)
+        - [CHAPITRE VIII : Régime général des dérogations à l'obligation de dépôt auprès de l'Etat des fonds des collectivités territoriales et de leurs établissements publics](partie-legislative/premiere-partie/livre-vi/titre-ier/chapitre-viii.md) (2 articles)
+      - **TITRE II : GARANTIES ACCORDEES AUX ELUS LOCAUX**
+        - [CHAPITRE UNIQUE](partie-legislative/premiere-partie/livre-vi/titre-ii/chapitre-unique.md) (6 articles)
+    - **LIVRE VIII : COMMUNES DE LA POLYNÉSIE FRANCAISE**
+      - [TITRE Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/premiere-partie/livre-viii/titre-ier.md) (3 articles)
+      - **TITRE II : LIBRE ADMINISTRATION**
+        - [CHAPITRE Ier : Participation des électeurs aux décisions locales](partie-legislative/premiere-partie/livre-viii/titre-ii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Action extérieure des collectivités territoriales](partie-legislative/premiere-partie/livre-viii/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Médiation](partie-legislative/premiere-partie/livre-viii/titre-ii/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Demande de prise de position formelle](partie-legislative/premiere-partie/livre-viii/titre-ii/chapitre-iv.md) (1 article)
+      - [TITRE III : ORGANISMES NATIONAUX COMPÉTENTS À L'ÉGARD DES COMMUNES ET DE LEURS GROUPEMENTS](partie-legislative/premiere-partie/livre-viii/titre-iii.md) (2 articles)
+      - [TITRE IV : BIENS DES COLLECTIVITÉS TERRITORIALES, DE LEURS GROUPEMENTS ET DE LEURS ÉTABLISSEMENTS PUBLICS](partie-legislative/premiere-partie/livre-viii/titre-iv.md) (2 articles)
+      - **TITRE V : SERVICES PUBLICS LOCAUX**
+        - [CHAPITRE Ier : Principes généraux](partie-legislative/premiere-partie/livre-viii/titre-v/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Dispositions propres à certains services publics locaux](partie-legislative/premiere-partie/livre-viii/titre-v/chapitre-ii.md) (10 articles)
+      - **TITRE VI : DISPOSITIONS ÉCONOMIQUES**
+        - [CHAPITRE Ier : Aides aux entreprises](partie-legislative/premiere-partie/livre-viii/titre-vi/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Sociétés d'économie mixte locales](partie-legislative/premiere-partie/livre-viii/titre-vi/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : Sociétés d'économie mixte à opération unique](partie-legislative/premiere-partie/livre-viii/titre-vi/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Sociétés publiques locales](partie-legislative/premiere-partie/livre-viii/titre-vi/chapitre-iv.md) (1 article)
+      - **TITRE VII : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+        - [CHAPITRE Ier : Principes généraux](partie-legislative/premiere-partie/livre-viii/titre-vii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Adoption et exécution des budgets](partie-legislative/premiere-partie/livre-viii/titre-vii/chapitre-ii.md) (1 article)
+        - [CHAPITRE II BIS : Dotations](partie-legislative/premiere-partie/livre-viii/titre-vii/chapitre-ii-bis.md) (1 article)
+        - [CHAPITRE III : Compensation des transferts de compétences](partie-legislative/premiere-partie/livre-viii/titre-vii/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Dispositions relatives aux comptables](partie-legislative/premiere-partie/livre-viii/titre-vii/chapitre-iv.md) (3 articles)
+        - [CHAPITRE V : Régime général des dérogations à l'obligation de dépôt auprès de l'Etat des fonds des collectivités territoriales et de leurs établissements publics](partie-legislative/premiere-partie/livre-viii/titre-vii/chapitre-v.md) (1 article)
+      - [TITRE VIII : GARANTIES ACCORDÉES AUX ÉLUS LOCAUX](partie-legislative/premiere-partie/livre-viii/titre-viii.md) (1 article)
+  - **DEUXIÈME PARTIE : LA COMMUNE**
+    - **LIVRE Ier : ORGANISATION DE LA COMMUNE**
+      - **TITRE Ier : NOM ET TERRITOIRE DE LA COMMUNE**
+        - [CHAPITRE Ier : Nom.](partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Limites territoriales et chef-lieu](partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ii.md) (12 articles)
+        - [CHAPITRE III : Création d'une commune nouvelle](partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-iii.md) (36 articles)
+        - [CHAPITRE IV : Suppression de communes](partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-iv.md) (3 articles)
+      - **TITRE II : ORGANES DE LA COMMUNE**
+        - [CHAPITRE Ier : Le conseil municipal](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ier.md) (46 articles)
+        - [CHAPITRE II : Le maire et les adjoints](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md) (44 articles)
+        - [CHAPITRE III : Conditions d'exercice des mandats municipaux](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-iii.md) (52 articles)
+        - [CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md) (7 articles)
+      - **TITRE III : ACTES DES AUTORITÉS COMMUNALES ET ACTIONS CONTENTIEUSES**
+        - [CHAPITRE Ier : Régime juridique des actes pris par les autorités communales](partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-ier.md) (13 articles)
+        - [CHAPITRE II : Actions contentieuses de la commune](partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-ii.md) (7 articles)
+      - **TITRE IV : INFORMATION ET PARTICIPATION DES HABITANTS**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md) (1 article)
+        - [CHAPITRE III : Participation des habitants à la vie locale](partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md) (4 articles)
+        - [CHAPITRE IV : Services de proximité](partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-iv.md) (3 articles)
+    - **LIVRE II : ADMINISTRATION ET SERVICES COMMUNAUX**
+      - **TITRE Ier : POLICE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Police municipale](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-ii.md) (8 articles)
+        - [CHAPITRE III : Pouvoirs de police portant sur des objets particuliers](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-iii.md) (34 articles)
+        - [CHAPITRE IV : Dispositions applicables dans les communes où la police est étatisée](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-iv.md) (4 articles)
+        - [CHAPITRE V : Pouvoirs du représentant de l'Etat dans le département](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-v.md) (7 articles)
+        - [CHAPITRE VI : Responsabilité](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-vi.md) (2 articles)
+      - **TITRE II : SERVICES COMMUNAUX**
+        - [CHAPITRE Ier : Régies municipales](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-ier.md) (21 articles)
+        - [CHAPITRE II : Concessions et affermages](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Cimetières et opérations funéraires](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-iii.md) (62 articles)
+        - [CHAPITRE IV : Services publics industriels et commerciaux](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-iv.md) (63 articles)
+        - [CHAPITRE V : Défense extérieure contre l'incendie](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-v.md) (4 articles)
+        - [CHAPITRE VI : Gestion des eaux pluviales urbaines](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-vi.md) (2 articles)
+      - **TITRE III : ARTIFICIALISATION DES SOLS**
+        - [CHAPITRE unique](partie-legislative/deuxieme-partie/livre-ii/titre-iii/chapitre-unique.md) (1 article)
+      - **TITRE IV : BIENS DE LA COMMUNE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/deuxieme-partie/livre-ii/titre-iv/chapitre-ier.md) (6 articles)
+        - [CHAPITRE II : Dons et legs](partie-legislative/deuxieme-partie/livre-ii/titre-iv/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Déclaration de parcelle en état d'abandon](partie-legislative/deuxieme-partie/livre-ii/titre-iv/chapitre-iii.md) (5 articles)
+      - **TITRE V : INTERVENTIONS EN MATIÈRE ÉCONOMIQUE ET SOCIALE**
+        - [CHAPITRE Ier : Aides économiques](partie-legislative/deuxieme-partie/livre-ii/titre-v/chapitre-ier.md) (5 articles)
+        - [CHAPITRE II : Garanties d'emprunts](partie-legislative/deuxieme-partie/livre-ii/titre-v/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Participation au capital de sociétés](partie-legislative/deuxieme-partie/livre-ii/titre-v/chapitre-iii.md) (7 articles)
+        - [CHAPITRE IV : Interventions en faveur du logement social](partie-legislative/deuxieme-partie/livre-ii/titre-v/chapitre-iv.md) (1 article)
+        - [CHAPITRE V : Maintien des services publics](partie-legislative/deuxieme-partie/livre-ii/titre-v/chapitre-v.md) (1 article)
+    - **LIVRE III : FINANCES COMMUNALES**
+      - **TITRE Ier : BUDGET ET COMPTES**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ier.md) (7 articles)
+        - [CHAPITRE II : Adoption du budget](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Publicité des budgets et des comptes](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-iii.md) (2 articles)
+      - **TITRE II : DÉPENSES**
+        - [CHAPITRE Ier : Dépenses obligatoires](partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-ier.md) (5 articles)
+      - **TITRE III : RECETTES**
+        - [CHAPITRE Ier : Catégories de recettes](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-ier.md) (10 articles)
+        - [CHAPITRE II : Contributions et taxes prévues par le code général des impôts](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-iii.md) (73 articles)
+        - [CHAPITRE IV : Dotations et autres recettes réparties par le comité des finances locales](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-iv.md) (51 articles)
+        - [CHAPITRE V : Dotations, subventions et fonds divers](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-v.md) (10 articles)
+        - [CHAPITRE VI : Péréquation des ressources](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-vi.md) (7 articles)
+        - [CHAPITRE VII : Avances et emprunts](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-vii.md) (3 articles)
+      - **TITRE IV : COMPTABILITÉ**
+        - [CHAPITRE III : Comptabilité du comptable](partie-legislative/deuxieme-partie/livre-iii/titre-iv/chapitre-iii.md) (1 article)
+    - **LIVRE IV : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS**
+      - **TITRE Ier : SECTION DE COMMUNE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/deuxieme-partie/livre-iv/titre-ier/chapitre-ier.md) (23 articles)
+        - [CHAPITRE II : Dispositions financières](partie-legislative/deuxieme-partie/livre-iv/titre-ier/chapitre-ii.md) (2 articles)
+      - **TITRE II : BIENS IMMOBILIERS SOUMIS À UN DROIT DE JOUISSANCE EXCLUSIF**
+        - [CHAPITRE UNIQUE](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-unique.md) (20 articles)
+    - **LIVRE V : DISPOSITIONS PARTICULIÈRES**
+      - **TITRE Ier : PARIS, MARSEILLE ET LYON**
+        - [CHAPITRE Ier : Dispositions communes](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-ier.md) (55 articles)
+        - [CHAPITRE II : Dispositions spécifiques à la Ville de Paris](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-ii.md) (27 articles)
+        - [CHAPITRE III : Dispositions spécifiques aux communes de Marseille et de Lyon](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-iii.md) (7 articles)
+      - **TITRE II : COMMUNES DES DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE**
+        - [CHAPITRE Ier : Attributions](partie-legislative/deuxieme-partie/livre-v/titre-ii/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : Dispositions financières](partie-legislative/deuxieme-partie/livre-v/titre-ii/chapitre-ii.md) (2 articles)
+      - **TITRE III : COMMUNES DE LA RÉGION D'ILE-DE-FRANCE**
+        - [CHAPITRE UNIQUE : Dispositions financières](partie-legislative/deuxieme-partie/livre-v/titre-iii/chapitre-unique.md) (18 articles)
+      - **TITRE IV : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN**
+        - [CHAPITRE Ier : Organisation](partie-legislative/deuxieme-partie/livre-v/titre-iv/chapitre-ier.md) (25 articles)
+        - [CHAPITRE II : Administration et services communaux](partie-legislative/deuxieme-partie/livre-v/titre-iv/chapitre-ii.md) (18 articles)
+        - [CHAPITRE III : Dispositions financières](partie-legislative/deuxieme-partie/livre-v/titre-iv/chapitre-iii.md) (8 articles)
+        - [CHAPITRE IV : Intérêts propres à certaines catégories d'habitants](partie-legislative/deuxieme-partie/livre-v/titre-iv/chapitre-iv.md) (17 articles)
+      - **TITRE VI : COMMUNES DES DÉPARTEMENTS D'OUTRE-MER**
+        - [CHAPITRE Ier : Organisation](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-ier.md) (1 article)
+        - [CHAPITRE III : Dispositions financières](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-iii.md) (8 articles)
+        - [CHAPITRE IV : Dispositions applicables aux communes de Mayotte](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-iv.md) (26 articles)
+        - [CHAPITRE V : Dispositions particulières applicables aux communes de Saint-Martin et de Saint-Barthélémy](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-v.md) (1 article)
+      - **TITRE VII : COMMUNES DES COLLECTIVITES D'OUTRE-MER**
+        - [CHAPITRE Ier : Communes de Saint-Pierre-et-Miquelon](partie-legislative/deuxieme-partie/livre-v/titre-vii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE III : Communes de la Polynésie française](partie-legislative/deuxieme-partie/livre-v/titre-vii/chapitre-iii.md) (56 articles)
+      - **TITRE VIII : COMMUNES DE LA MÉTROPOLE DE LYON**
+        - [Chapitre unique](partie-legislative/deuxieme-partie/livre-v/titre-viii/chapitre-unique.md) (1 article)
+  - **TROISIEME PARTIE : LE DÉPARTEMENT**
+    - **LIVRE Ier : ORGANISATION DU DÉPARTEMENT**
+      - **TITRE Ier : NOM ET TERRITOIRE DU DÉPARTEMENT**
+        - [CHAPITRE Ier : Nom](partie-legislative/troisieme-partie/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Limites territoriales et chef-lieu](partie-legislative/troisieme-partie/livre-ier/titre-ier/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Subdivisions du département](partie-legislative/troisieme-partie/livre-ier/titre-ier/chapitre-iii.md) (2 articles)
+        - [CHAPITRE IV : Regroupement de départements](partie-legislative/troisieme-partie/livre-ier/titre-ier/chapitre-iv.md) (1 article)
+      - **TITRE II : ORGANES DU DÉPARTEMENT**
+        - [CHAPITRE Ier : Le conseil départemental](partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md) (33 articles)
+        - [CHAPITRE II : Le président, la commission permanente et le bureau du conseil départemental](partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ii.md) (10 articles)
+        - [CHAPITRE III : Conditions d'exercice des mandats départementaux](partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-iii.md) (42 articles)
+      - **TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ier.md) (5 articles)
+        - [CHAPITRE II : Contrôle de légalité](partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ii.md) (6 articles)
+        - [CHAPITRE III : Exercice par un contribuable des actions appartenant au département](partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-iii.md) (1 article)
+      - **TITRE IV : RELATIONS ENTRE LE DÉPARTEMENT ET LES SERVICES DE L'ÉTAT**
+        - [CHAPITRE Ier : Services de l'Etat mis à disposition](partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Coordination entre les services de l'Etat et les services du département](partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Responsabilité](partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-iii.md) (1 article)
+    - **LIVRE II : ADMINISTRATION ET SERVICES DÉPARTEMENTAUX**
+      - **TITRE Ier : COMPÉTENCES DU CONSEIL DEPARTEMENTAL**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md) (4 articles)
+        - [CHAPITRE II : Budget, contributions et emprunts](partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Gestion du patrimoine](partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-iii.md) (7 articles)
+        - [CHAPITRE IV : Action sociale](partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-iv.md) (2 articles)
+        - [CHAPITRE V : Travaux](partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-v.md) (2 articles)
+      - **TITRE II : COMPÉTENCES DU PRÉSIDENT DU CONSEIL DEPARTEMENTAL**
+        - [CHAPITRE UNIQUE](partie-legislative/troisieme-partie/livre-ii/titre-ii/chapitre-unique.md) (15 articles)
+      - **TITRE III : INTERVENTIONS ET AIDES DU DÉPARTEMENT**
+        - [CHAPITRE Ier : Interventions en matière économique et sociale](partie-legislative/troisieme-partie/livre-ii/titre-iii/chapitre-ier.md) (8 articles)
+        - [CHAPITRE II : Aides à objet spécifique](partie-legislative/troisieme-partie/livre-ii/titre-iii/chapitre-ii.md) (5 articles)
+      - **TITRE IV : GESTION DES SERVICES PUBLICS**
+        - [CHAPITRE UNIQUE](partie-legislative/troisieme-partie/livre-ii/titre-iv/chapitre-unique.md) (6 articles)
+    - **LIVRE III : FINANCES DU DÉPARTEMENT**
+      - **TITRE Ier : BUDGETS ET COMPTES**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Adoption du budget et règlement des comptes](partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Publicité des budgets et des comptes](partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-iii.md) (1 article)
+      - **TITRE II : DÉPENSES**
+        - [CHAPITRE Ier : Dépenses obligatoires](partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - **TITRE III : RECETTES**
+        - [CHAPITRE II : Catégories de recettes](partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Contributions et taxes autres que celles prévues par le code général des impôts](partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-iii.md) (30 articles)
+        - [CHAPITRE IV : Concours financiers de l'Etat](partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-iv.md) (13 articles)
+        - [CHAPITRE V : Péréquation des recettes fiscales](partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-v.md) (3 articles)
+        - [CHAPITRE VI : Avances et emprunts](partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-vi.md) (1 article)
+      - **TITRE IV : COMPTABILITE**
+        - [CHAPITRE II : Comptable du département](partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-ii.md) (1 article)
+    - **LIVRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINS DÉPARTEMENTS**
+      - **TITRE Ier : DÉPARTEMENT DE PARIS**
+        - [CHAPITRE III : Dispositions financières](partie-legislative/troisieme-partie/livre-iv/titre-ier/chapitre-iii.md) (1 article)
+      - **TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE**
+        - [CHAPITRE UNIQUE](partie-legislative/troisieme-partie/livre-iv/titre-ii/chapitre-unique.md) (3 articles)
+      - **TITRE III : COLLECTIVITÉ EUROPÉENNE D'ALSACE**
+        - [CHAPITRE UNIQUE](partie-legislative/troisieme-partie/livre-iv/titre-iii/chapitre-unique.md) (8 articles)
+      - **TITRE IV : DÉPARTEMENTS D'OUTRE-MER**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-ier.md) (10 articles)
+        - [CHAPITRE II : Organisation](partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Dispositions financières](partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-iii.md) (5 articles)
+        - [CHAPITRE IV : Attributions](partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-iv.md) (5 articles)
+        - [CHAPITRE V : Conditions d'application aux départements d'outre-mer des deuxième et troisième alinéas de l'article 73 de la Constitution](partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-v.md) (13 articles)
+      - **TITRE V : DISPOSITIONS COMMUNES AUX DÉPARTEMENTS DE PARIS, DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE**
+        - [CHAPITRE UNIQUE](partie-legislative/troisieme-partie/livre-iv/titre-v/chapitre-unique.md) (3 articles)
+    - **LIVRE VI : MÉTROPOLE DE LYON**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE UNIQUE](partie-legislative/troisieme-partie/livre-vi/titre-ier/chapitre-unique.md) (7 articles)
+      - [TITRE II : LIMITES TERRITORIALES ET CHEF-LIEU](partie-legislative/troisieme-partie/livre-vi/titre-ii.md) (3 articles)
+      - **TITRE III : ORGANISATION**
+        - [CHAPITRE Ier : Le conseil de la métropole](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-ier.md) (8 articles)
+        - [CHAPITRE II : Conditions d'exercice des mandats métropolitains](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Modalités particulières d'intervention](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-iii.md) (5 articles)
+      - **TITRE IV : COMPÉTENCES**
+        - [CHAPITRE Ier : Compétences de la métropole de Lyon](partie-legislative/troisieme-partie/livre-vi/titre-iv/chapitre-ier.md) (9 articles)
+        - [CHAPITRE II : Attributions du conseil de la métropole et de son président](partie-legislative/troisieme-partie/livre-vi/titre-iv/chapitre-ii.md) (5 articles)
+      - [TITRE V : BIENS ET PERSONNELS](partie-legislative/troisieme-partie/livre-vi/titre-v.md) (4 articles)
+      - **TITRE VI : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+        - [CHAPITRE Ier : Budgets et comptes](partie-legislative/troisieme-partie/livre-vi/titre-vi/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Recettes](partie-legislative/troisieme-partie/livre-vi/titre-vi/chapitre-ii.md) (10 articles)
+        - [CHAPITRE III : Transferts de charges et produits entre le département du Rhône et la métropole de Lyon](partie-legislative/troisieme-partie/livre-vi/titre-vi/chapitre-iii.md) (9 articles)
+        - [CHAPITRE IV : Dépenses](partie-legislative/troisieme-partie/livre-vi/titre-vi/chapitre-iv.md) (2 articles)
+        - [CHAPITRE V : Comptabilité](partie-legislative/troisieme-partie/livre-vi/titre-vi/chapitre-v.md) (2 articles)
+  - **QUATRIÈME PARTIE : LA RÉGION**
+    - **LIVRE Ier : ORGANISATION DE LA RÉGION**
+      - **TITRE Ier : CRÉATION**
+        - [CHAPITRE UNIQUE](partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md) (3 articles)
+      - **TITRE II : NOM ET TERRITOIRE DE LA RÉGION**
+        - [CHAPITRE Ier : Nom](partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Limites territoriales et chef-lieu](partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ii.md) (2 articles)
+        - [CHAPITRE IV : Fusion d'une région et des départements qui la composent](partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-iv.md) (1 article)
+      - **TITRE III : ORGANES DE LA RÉGION**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/quatrieme-partie/livre-ier/titre-iii/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : Le conseil régional](partie-legislative/quatrieme-partie/livre-ier/titre-iii/chapitre-ii.md) (34 articles)
+        - [CHAPITRE III : LE PRÉSIDENT, LA COMMISSION PERMANENTE ET LE BUREAU DU CONSEIL RÉGIONAL](partie-legislative/quatrieme-partie/livre-ier/titre-iii/chapitre-iii.md) (11 articles)
+        - [CHAPITRE IV : Le conseil économique, social et environnemental régional](partie-legislative/quatrieme-partie/livre-ier/titre-iii/chapitre-iv.md) (8 articles)
+        - [CHAPITRE V : Conditions d'exercice des mandats régionaux](partie-legislative/quatrieme-partie/livre-ier/titre-iii/chapitre-v.md) (42 articles)
+      - **TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS RÉGIONALES**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md) (5 articles)
+        - [CHAPITRE II : Contrôle de légalité](partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ii.md) (5 articles)
+        - [CHAPITRE III : Exercice par un contribuable des actions appartenant à la région](partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-iii.md) (1 article)
+      - **TITRE V : RELATIONS ENTRE LA RÉGION ET LES SERVICES DE L'ÉTAT**
+        - [CHAPITRE Ier : Services de l'Etat mis à disposition](partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Coordination](partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-ii.md) (1 article)
+    - **LIVRE II : ATTRIBUTIONS DE LA RÉGION**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE UNIQUE](partie-legislative/quatrieme-partie/livre-ii/titre-ier/chapitre-unique.md) (1 article)
+      - **TITRE II : COMPÉTENCES DU CONSEIL RÉGIONAL**
+        - [CHAPITRE UNIQUE : Dispositions générales](partie-legislative/quatrieme-partie/livre-ii/titre-ii/chapitre-unique.md) (8 articles)
+      - **TITRE III : COMPÉTENCES DU PRÉSIDENT DU CONSEIL RÉGIONAL**
+        - [CHAPITRE UNIQUE](partie-legislative/quatrieme-partie/livre-ii/titre-iii/chapitre-unique.md) (11 articles)
+      - **TITRE IV : COMPÉTENCES DU CONSEIL ÉCONOMIQUE ET SOCIAL RÉGIONAL**
+        - [CHAPITRE UNIQUE](partie-legislative/quatrieme-partie/livre-ii/titre-iv/chapitre-unique.md) (2 articles)
+      - **TITRE V : ATTRIBUTIONS DE LA RÉGION EN MATIÈRE D'AMÉNAGEMENT ET DE DÉVELOPPEMENT ÉCONOMIQUE**
+        - [CHAPITRE Ier : Le schéma régional d'aménagement, de développement durable et d'égalité des territoires](partie-legislative/quatrieme-partie/livre-ii/titre-v/chapitre-ier.md) (11 articles)
+        - [CHAPITRE Ier bis : Le schéma régional de développement économique, d'innovation et d'internationalisation](partie-legislative/quatrieme-partie/livre-ii/titre-v/chapitre-ier-bis.md) (9 articles)
+        - [CHAPITRE II : Recherche et développement technologique](partie-legislative/quatrieme-partie/livre-ii/titre-v/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : Interventions en matière économique et sociale](partie-legislative/quatrieme-partie/livre-ii/titre-v/chapitre-iii.md) (5 articles)
+      - **TITRE VI : GESTION DES SERVICES PUBLICS DE LA RÉGION**
+        - [CHAPITRE UNIQUE](partie-legislative/quatrieme-partie/livre-ii/titre-vi/chapitre-unique.md) (1 article)
+    - **LIVRE III : FINANCES DE LA RÉGION**
+      - **TITRE Ier : BUDGETS ET COMPTES**
+        - [TITRE Ier : BUDGETS ET COMPTES : articles rattachés directement](partie-legislative/quatrieme-partie/livre-iii/titre-ier/articles-directs.md) (1 article)
+        - [CHAPITRE III : Publicité des budgets et des comptes](partie-legislative/quatrieme-partie/livre-iii/titre-ier/chapitre-iii.md) (2 articles)
+      - **TITRE II : DÉPENSES**
+        - [CHAPITRE Ier : Dépenses obligatoires](partie-legislative/quatrieme-partie/livre-iii/titre-ii/chapitre-ier.md) (1 article)
+      - **TITRE III : RECETTES**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/quatrieme-partie/livre-iii/titre-iii/chapitre-ier.md) (4 articles)
+        - [CHAPITRE II : Modalités particulières de financement](partie-legislative/quatrieme-partie/livre-iii/titre-iii/chapitre-ii.md) (10 articles)
+        - [CHAPITRE III : Avances et emprunts](partie-legislative/quatrieme-partie/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+      - **TITRE IV : COMPTABILITÉ**
+        - [CHAPITRE II : Comptable de la région](partie-legislative/quatrieme-partie/livre-iii/titre-iv/chapitre-ii.md) (1 article)
+    - **LIVRE IV : RÉGIONS À STATUT PARTICULIER ET COLLECTIVITÉ TERRITORIALE DE CORSE**
+      - **TITRE Ier : LA RÉGION D'ILE-DE-FRANCE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/quatrieme-partie/livre-iv/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Organes](partie-legislative/quatrieme-partie/livre-iv/titre-ier/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Attributions](partie-legislative/quatrieme-partie/livre-iv/titre-ier/chapitre-iii.md) (3 articles)
+        - [CHAPITRE IV : Dispositions financières](partie-legislative/quatrieme-partie/livre-iv/titre-ier/chapitre-iv.md) (7 articles)
+      - **TITRE II : LA COLLECTIVITÉ TERRITORIALE DE CORSE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/quatrieme-partie/livre-iv/titre-ii/chapitre-ier.md) (4 articles)
+        - [CHAPITRE II : Organisation](partie-legislative/quatrieme-partie/livre-iv/titre-ii/chapitre-ii.md) (47 articles)
+        - [CHAPITRE III : Régime juridique des actes](partie-legislative/quatrieme-partie/livre-iv/titre-ii/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Compétences](partie-legislative/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md) (56 articles)
+        - [CHAPITRE V : Dispositions financières](partie-legislative/quatrieme-partie/livre-iv/titre-ii/chapitre-v.md) (18 articles)
+        - [CHAPITRE VI : Dispositions d'application](partie-legislative/quatrieme-partie/livre-iv/titre-ii/chapitre-vi.md) (1 article)
+      - **TITRE III : LES RÉGIONS D'OUTRE-MER**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/quatrieme-partie/livre-iv/titre-iii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Organes](partie-legislative/quatrieme-partie/livre-iv/titre-iii/chapitre-ii.md) (7 articles)
+        - [CHAPITRE III : Attributions](partie-legislative/quatrieme-partie/livre-iv/titre-iii/chapitre-iii.md) (73 articles)
+        - [CHAPITRE IV : Dispositions financières et fiscales](partie-legislative/quatrieme-partie/livre-iv/titre-iii/chapitre-iv.md) (9 articles)
+        - [CHAPITRE V : Conditions d'application aux régions d'outre-mer des deuxième et troisième alinéas de l'article 73 de la Constitution](partie-legislative/quatrieme-partie/livre-iv/titre-iii/chapitre-v.md) (13 articles)
+        - [CHAPITRE VIII : Dispositions d'application](partie-legislative/quatrieme-partie/livre-iv/titre-iii/chapitre-viii.md) (1 article)
+  - **CINQUIÈME PARTIE : LA COOPÉRATION LOCALE**
+    - **LIVRE Ier : DISPOSITIONS GÉNÉRALES**
+      - **TITRE UNIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/cinquieme-partie/livre-ier/titre-unique/chapitre-unique.md) (9 articles)
+    - **LIVRE II : LA COOPÉRATION INTERCOMMUNALE**
+      - **TITRE Ier : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE**
+        - [TITRE Ier : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE : articles rattachés directement](partie-legislative/cinquieme-partie/livre-ii/titre-ier/articles-directs.md) (7 articles)
+        - [CHAPITRE Ier : Dispositions communes](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md) (100 articles)
+        - [CHAPITRE II : Syndicat de communes](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md) (28 articles)
+        - [CHAPITRE IV : Communauté de communes](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iv.md) (15 articles)
+        - [CHAPITRE V : Communauté urbaine](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-v.md) (28 articles)
+        - [CHAPITRE VI : Communauté d'agglomération](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-vi.md) (14 articles)
+        - [CHAPITRE VII : Métropole](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-vii.md) (21 articles)
+        - [CHAPITRE VIII : Métropole d'Aix-Marseille-Provence](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-viii.md) (6 articles)
+        - [CHAPITRE IX : La métropole du Grand Paris](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ix.md) (12 articles)
+      - **TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE**
+        - [CHAPITRE Ier : Entente, convention et conférence intercommunales](partie-legislative/cinquieme-partie/livre-ii/titre-ii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Biens et droits indivis entre plusieurs communes](partie-legislative/cinquieme-partie/livre-ii/titre-ii/chapitre-ii.md) (6 articles)
+        - [CHAPITRE III : Charte intercommunale de développement et d'aménagement](partie-legislative/cinquieme-partie/livre-ii/titre-ii/chapitre-iii.md) (3 articles)
+        - [CHAPITRE IV : HARMONISATION DU TISSU COMMERCIAL](partie-legislative/cinquieme-partie/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+    - **LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE**
+      - **TITRE Ier : ENTENTE, CONVENTION ET CONFÉRENCE INTERDÉPARTEMENTALES**
+        - [CHAPITRE UNIQUE](partie-legislative/cinquieme-partie/livre-iv/titre-ier/chapitre-unique.md) (2 articles)
+      - **TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX**
+        - [CHAPITRE UNIQUE](partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-unique.md) (5 articles)
+    - **LIVRE V : AGENCE DÉPARTEMENTALE**
+      - **TITRE UNIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/cinquieme-partie/livre-v/titre-unique/chapitre-unique.md) (1 article)
+    - **LIVRE VI : COOPÉRATION INTERRÉGIONALE**
+      - **TITRE Ier : CONVENTION OU INSTITUTION D'UTILITÉ COMMUNE INTERRÉGIONALES**
+        - [CHAPITRE UNIQUE](partie-legislative/cinquieme-partie/livre-vi/titre-ier/chapitre-unique.md) (1 article)
+      - **TITRE II : ENTENTE INTERRÉGIONALE**
+        - [CHAPITRE Ier : Organisation et fonctionnement](partie-legislative/cinquieme-partie/livre-vi/titre-ii/chapitre-ier.md) (7 articles)
+        - [CHAPITRE II : Dispositions financières](partie-legislative/cinquieme-partie/livre-vi/titre-ii/chapitre-ii.md) (4 articles)
+    - **LIVRE VII : SYNDICAT MIXTE**
+      - **TITRE Ier : SYNDICATS MIXTES COMPOSES DE COMMUNES ET D'ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE OU EXCLUSIVEMENT D'ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE**
+        - [CHAPITRE UNIQUE](partie-legislative/cinquieme-partie/livre-vii/titre-ier/chapitre-unique.md) (6 articles)
+      - **TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC**
+        - [CHAPITRE Ier : Organisation et fonctionnement](partie-legislative/cinquieme-partie/livre-vii/titre-ii/chapitre-ier.md) (14 articles)
+        - [CHAPITRE II : Dispositions financières](partie-legislative/cinquieme-partie/livre-vii/titre-ii/chapitre-ii.md) (13 articles)
+      - **TITRE III : PÔLE MÉTROPOLITAIN**
+        - [CHAPITRE UNIQUE](partie-legislative/cinquieme-partie/livre-vii/titre-iii/chapitre-unique.md) (3 articles)
+      - **TITRE IV : PÔLE D'ÉQUILIBRE TERRITORIAL ET RURAL**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-vii/titre-iv/chapitre-unique.md) (5 articles)
+    - **LIVRE VIII : DISPOSITIONS PARTICULIÈRES**
+      - **TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN**
+        - [CHAPITRE Ier : Syndicat de communes.](partie-legislative/cinquieme-partie/livre-viii/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Communauté de communes.](partie-legislative/cinquieme-partie/livre-viii/titre-ier/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Communauté urbaine et métropole](partie-legislative/cinquieme-partie/livre-viii/titre-ier/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Communauté de villes.](partie-legislative/cinquieme-partie/livre-viii/titre-ier/chapitre-iv.md) (1 article)
+        - [CHAPITRE V : Entente, convention et conférence intercommunales.](partie-legislative/cinquieme-partie/livre-viii/titre-ier/chapitre-v.md) (1 article)
+        - [CHAPITRE VI : Administration du patrimoine possédé indivisément par plusieurs communes.](partie-legislative/cinquieme-partie/livre-viii/titre-ier/chapitre-vi.md) (9 articles)
+      - **TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE GUADELOUPE, GUYANE, MARTINIQUE ET LA RÉUNION**
+        - [CHAPITRE Ier : Communauté urbaine et métropole.](partie-legislative/cinquieme-partie/livre-viii/titre-ii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Charte intercommunale de développement et d'aménagement.](partie-legislative/cinquieme-partie/livre-viii/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Dispositions financières](partie-legislative/cinquieme-partie/livre-viii/titre-ii/chapitre-iii.md) (1 article)
+      - **TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/cinquieme-partie/livre-viii/titre-iii/chapitre-ier.md) (2 articles)
+        - [Chapitre II : La coopération intercommunale](partie-legislative/cinquieme-partie/livre-viii/titre-iii/chapitre-ii.md) (3 articles)
+      - **TITRE IV : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANCAISE**
+        - [CHAPITRE Ier : Dispositions communes](partie-legislative/cinquieme-partie/livre-viii/titre-iv/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : La coopération intercommunale](partie-legislative/cinquieme-partie/livre-viii/titre-iv/chapitre-ii.md) (33 articles)
+        - [CHAPITRE III : Syndicats mixtes](partie-legislative/cinquieme-partie/livre-viii/titre-iv/chapitre-iii.md) (4 articles)
+    - **LIVRE IX : MESURES D'ADAPTATIONS PARTICULIÈRES AUX DÉPARTEMENTS ET AUX RÉGIONS D'OUTRE-MER**
+      - **TITRE UNIQUE : LE CONGRÈS DES ÉLUS DÉPARTEMENTAUX ET RÉGIONAUX ET DES MAIRES**
+        - [CHAPITRE Ier : Composition](partie-legislative/cinquieme-partie/livre-ix/titre-unique/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Fonctionnement](partie-legislative/cinquieme-partie/livre-ix/titre-unique/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Le président](partie-legislative/cinquieme-partie/livre-ix/titre-unique/chapitre-iii.md) (2 articles)
+        - [CHAPITRE IV : Garanties conférées aux maires, aux conseillers généraux et aux conseillers régionaux participant au congrès des élus départementaux et régionaux et des maires](partie-legislative/cinquieme-partie/livre-ix/titre-unique/chapitre-iv.md) (1 article)
+        - [CHAPITRE V : Rôle du congrès des élus départementaux et régionaux et des maires](partie-legislative/cinquieme-partie/livre-ix/titre-unique/chapitre-v.md) (3 articles)
+  - **SIXIÈME PARTIE : COLLECTIVITÉS D'OUTRE-MER RÉGIES PAR L'ARTICLE 74 DE LA CONSTITUTION**
+    - **LIVRE II : SAINT-BARTHÉLEMY**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/sixieme-partie/livre-ii/titre-ier/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Le représentant de l'Etat](partie-legislative/sixieme-partie/livre-ii/titre-ier/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : L'application des lois et règlements à Saint-Barthélemy](partie-legislative/sixieme-partie/livre-ii/titre-ier/chapitre-iii.md) (7 articles)
+        - [CHAPITRE IV : Compétences](partie-legislative/sixieme-partie/livre-ii/titre-ier/chapitre-iv.md) (8 articles)
+      - **TITRE II : LES INSTITUTIONS DE LA COLLECTIVITÉ**
+        - [TITRE II : LES INSTITUTIONS DE LA COLLECTIVITÉ : articles rattachés directement](partie-legislative/sixieme-partie/livre-ii/titre-ii/articles-directs.md) (1 article)
+        - [CHAPITRE Ier : Le conseil territorial](partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ier.md) (33 articles)
+        - [CHAPITRE II : Le président du conseil territorial et le conseil exécutif](partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md) (18 articles)
+        - [CHAPITRE III : Le conseil économique, social, culturel et environnemental](partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md) (6 articles)
+        - [CHAPITRE IV : Conditions d'exercice des mandats](partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iv.md) (12 articles)
+      - **TITRE III : PARTICIPATION DES ÉLECTEURS À LA VIE DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Pétition des électeurs](partie-legislative/sixieme-partie/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Référendum local](partie-legislative/sixieme-partie/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Consultation des électeurs](partie-legislative/sixieme-partie/livre-ii/titre-iii/chapitre-iii.md) (1 article)
+      - **TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ ET RELATIONS ENTRE L'ÉTAT ET LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-legislative/sixieme-partie/livre-ii/titre-iv/chapitre-ier.md) (5 articles)
+        - [CHAPITRE II : Contrôle de légalité](partie-legislative/sixieme-partie/livre-ii/titre-iv/chapitre-ii.md) (6 articles)
+        - [CHAPITRE III : Contrôle juridictionnel spécifique des actes du conseil territorial intervenant dans le domaine de la loi](partie-legislative/sixieme-partie/livre-ii/titre-iv/chapitre-iii.md) (5 articles)
+        - [CHAPITRE IV : Exercice par un contribuable ou un électeur des actions appartenant à la collectivité](partie-legislative/sixieme-partie/livre-ii/titre-iv/chapitre-iv.md) (1 article)
+        - [CHAPITRE V : Relations entre l'Etat et la collectivité](partie-legislative/sixieme-partie/livre-ii/titre-iv/chapitre-v.md) (3 articles)
+      - **TITRE V : ADMINISTRATION ET SERVICES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Compétences du conseil territorial](partie-legislative/sixieme-partie/livre-ii/titre-v/chapitre-ier.md) (23 articles)
+        - [CHAPITRE II : Compétences du président du conseil territorial](partie-legislative/sixieme-partie/livre-ii/titre-v/chapitre-ii.md) (19 articles)
+        - [CHAPITRE III : Compétences du conseil exécutif](partie-legislative/sixieme-partie/livre-ii/titre-v/chapitre-iii.md) (9 articles)
+      - **TITRE VI : FINANCES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Le budget et les comptes de la collectivité](partie-legislative/sixieme-partie/livre-ii/titre-vi/chapitre-ier.md) (11 articles)
+        - [CHAPITRE II : Adoption et exécution du budget](partie-legislative/sixieme-partie/livre-ii/titre-vi/chapitre-ii.md) (19 articles)
+        - [CHAPITRE III : Dépenses](partie-legislative/sixieme-partie/livre-ii/titre-vi/chapitre-iii.md) (3 articles)
+        - [CHAPITRE IV : Recettes](partie-legislative/sixieme-partie/livre-ii/titre-vi/chapitre-iv.md) (8 articles)
+        - [CHAPITRE V : Dispositions relatives à la comptabilité](partie-legislative/sixieme-partie/livre-ii/titre-vi/chapitre-v.md) (2 articles)
+        - [CHAPITRE VI : Dispositions diverses](partie-legislative/sixieme-partie/livre-ii/titre-vi/chapitre-vi.md) (1 article)
+      - **TITRE VII : DISPOSITIONS DIVERSES**
+        - [CHAPITRE UNIQUE : Modalités des transferts de compétences](partie-legislative/sixieme-partie/livre-ii/titre-vii/chapitre-unique.md) (8 articles)
+    - **LIVRE III : SAINT-MARTIN**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Le représentant de l'Etat](partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : L'application des lois et règlements à Saint-Martin](partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-iii.md) (7 articles)
+        - [CHAPITRE IV : Compétences](partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-iv.md) (10 articles)
+      - **TITRE II : LES INSTITUTIONS DE LA COLLECTIVITÉ**
+        - [TITRE II : LES INSTITUTIONS DE LA COLLECTIVITÉ : articles rattachés directement](partie-legislative/sixieme-partie/livre-iii/titre-ii/articles-directs.md) (1 article)
+        - [CHAPITRE Ier : Le conseil territorial](partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-ier.md) (35 articles)
+        - [CHAPITRE II : Le président du conseil territorial et le conseil exécutif](partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-ii.md) (18 articles)
+        - [CHAPITRE III : Le conseil économique, social et culturel](partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-iii.md) (6 articles)
+        - [CHAPITRE IV : Conseils de quartier](partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-iv.md) (1 article)
+        - [CHAPITRE V : Conditions d'exercice des mandats](partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-v.md) (12 articles)
+      - **TITRE III : PARTICIPATION DES ÉLECTEURS À LA VIE DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Pétition des électeurs](partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Référendum local](partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Consultation des électeurs](partie-legislative/sixieme-partie/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+      - **TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ ET RELATIONS ENTRE L'ÉTAT ET LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md) (5 articles)
+        - [CHAPITRE II : Contrôle de légalité](partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-ii.md) (6 articles)
+        - [CHAPITRE III : Contrôle juridictionnel spécifique des actes du conseil territorial intervenant dans le domaine de la loi](partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-iii.md) (5 articles)
+        - [CHAPITRE IV : Exercice par un contribuable ou un électeur des actions appartenant à la collectivité](partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-iv.md) (1 article)
+        - [CHAPITRE V : Relations entre l'Etat et la collectivité](partie-legislative/sixieme-partie/livre-iii/titre-iv/chapitre-v.md) (4 articles)
+      - **TITRE V : ADMINISTRATION ET SERVICES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Compétences du conseil territorial](partie-legislative/sixieme-partie/livre-iii/titre-v/chapitre-ier.md) (23 articles)
+        - [CHAPITRE II : Compétences du président du conseil territorial](partie-legislative/sixieme-partie/livre-iii/titre-v/chapitre-ii.md) (19 articles)
+        - [CHAPITRE III : Compétences du conseil exécutif](partie-legislative/sixieme-partie/livre-iii/titre-v/chapitre-iii.md) (10 articles)
+      - **TITRE VI : FINANCES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Le budget et les comptes de la collectivité](partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ier.md) (11 articles)
+        - [CHAPITRE II : Adoption et exécution du budget](partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md) (19 articles)
+        - [CHAPITRE III : Dépenses](partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-iii.md) (3 articles)
+        - [CHAPITRE IV : Recettes](partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-iv.md) (9 articles)
+        - [CHAPITRE V : Dispositions relatives à la comptabilité](partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-v.md) (2 articles)
+        - [CHAPITRE VI : Dispositions diverses](partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-vi.md) (1 article)
+      - **TITRE VII : DISPOSITIONS DIVERSES**
+        - [CHAPITRE UNIQUE : Modalités des transferts de compétences](partie-legislative/sixieme-partie/livre-iii/titre-vii/chapitre-unique.md) (8 articles)
+      - [TITRE VIII : DISPOSITIONS TRANSITOIRES](partie-legislative/sixieme-partie/livre-iii/titre-viii.md) (1 article)
+    - **LIVRE IV : SAINT-PIERRE-ET-MIQUELON**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/sixieme-partie/livre-iv/titre-ier/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Le représentant de l'Etat](partie-legislative/sixieme-partie/livre-iv/titre-ier/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : L'application des lois et règlements à Saint-Pierre-et-Miquelon](partie-legislative/sixieme-partie/livre-iv/titre-ier/chapitre-iii.md) (6 articles)
+        - [CHAPITRE IV : Compétences](partie-legislative/sixieme-partie/livre-iv/titre-ier/chapitre-iv.md) (6 articles)
+      - **TITRE II : TERRITOIRE DE LA COLLECTIVITÉ**
+        - [CHAPITRE UNIQUE : Chef-lieu et subdivisions de la collectivité](partie-legislative/sixieme-partie/livre-iv/titre-ii/chapitre-unique.md) (1 article)
+      - **TITRE III : LES INSTITUTIONS DE LA COLLECTIVITÉ**
+        - [TITRE III : LES INSTITUTIONS DE LA COLLECTIVITÉ : articles rattachés directement](partie-legislative/sixieme-partie/livre-iv/titre-iii/articles-directs.md) (1 article)
+        - [CHAPITRE Ier : Le conseil territorial](partie-legislative/sixieme-partie/livre-iv/titre-iii/chapitre-ier.md) (33 articles)
+        - [CHAPITRE II : Le président du conseil territorial et le conseil exécutif](partie-legislative/sixieme-partie/livre-iv/titre-iii/chapitre-ii.md) (18 articles)
+        - [CHAPITRE III : Le conseil économique, social et culturel](partie-legislative/sixieme-partie/livre-iv/titre-iii/chapitre-iii.md) (7 articles)
+        - [CHAPITRE IV : Conditions d'exercice des mandats](partie-legislative/sixieme-partie/livre-iv/titre-iii/chapitre-iv.md) (12 articles)
+      - **TITRE IV : PARTICIPATION DES ÉLECTEURS À VIE DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Pétition des électeurs](partie-legislative/sixieme-partie/livre-iv/titre-iv/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Référendum local](partie-legislative/sixieme-partie/livre-iv/titre-iv/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Consultation des électeurs](partie-legislative/sixieme-partie/livre-iv/titre-iv/chapitre-iii.md) (1 article)
+      - **TITRE V : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ ET RELATIONS ENTRE L'ÉTAT ET LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-legislative/sixieme-partie/livre-iv/titre-v/chapitre-ier.md) (6 articles)
+        - [CHAPITRE II : Contrôle de légalité](partie-legislative/sixieme-partie/livre-iv/titre-v/chapitre-ii.md) (6 articles)
+        - [CHAPITRE III : Exercice par un contribuable ou un électeur des actions appartenant à la collectivité](partie-legislative/sixieme-partie/livre-iv/titre-v/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Relations entre l'Etat et la collectivité](partie-legislative/sixieme-partie/livre-iv/titre-v/chapitre-iv.md) (4 articles)
+      - **TITRE VI : ADMINISTRATION ET SERVICES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Compétences du conseil territorial](partie-legislative/sixieme-partie/livre-iv/titre-vi/chapitre-ier.md) (21 articles)
+        - [CHAPITRE II : Compétences du président du conseil territorial](partie-legislative/sixieme-partie/livre-iv/titre-vi/chapitre-ii.md) (15 articles)
+        - [CHAPITRE III : Compétences du conseil exécutif](partie-legislative/sixieme-partie/livre-iv/titre-vi/chapitre-iii.md) (9 articles)
+      - **TITRE VII : FINANCES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Budgets et comptes](partie-legislative/sixieme-partie/livre-iv/titre-vii/chapitre-ier.md) (22 articles)
+        - [CHAPITRE II : Dépenses](partie-legislative/sixieme-partie/livre-iv/titre-vii/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : Recettes](partie-legislative/sixieme-partie/livre-iv/titre-vii/chapitre-iii.md) (8 articles)
+        - [CHAPITRE IV : Comptabilité](partie-legislative/sixieme-partie/livre-iv/titre-vii/chapitre-iv.md) (2 articles)
+        - [CHAPITRE V : Dispositions diverses](partie-legislative/sixieme-partie/livre-iv/titre-vii/chapitre-v.md) (2 articles)
+    - [LIVRE V : POLYNÉSIE FRANÇAISE](partie-legislative/sixieme-partie/livre-v.md) (2 articles)
+  - **SEPTIEME PARTIE : AUTRES COLLECTIVITES REGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+    - **LIVRE Ier : COLLECTIVITÉ TERRITORIALE DE GUYANE**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE II : ORGANES DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/septieme-partie/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : L'assemblée de Guyane](partie-legislative/septieme-partie/livre-ier/titre-ii/chapitre-ii.md) (32 articles)
+        - [CHAPITRE III : Le président de l'assemblée de Guyane et la commission permanente](partie-legislative/septieme-partie/livre-ier/titre-ii/chapitre-iii.md) (13 articles)
+        - [CHAPITRE IV : Le conseil économique, social, environnemental, de la culture et de l'éducation de Guyane](partie-legislative/septieme-partie/livre-ier/titre-ii/chapitre-iv.md) (10 articles)
+        - [CHAPITRE IV bis : Le grand conseil coutumier des populations amérindiennes et bushinenges](partie-legislative/septieme-partie/livre-ier/titre-ii/chapitre-iv-bis.md) (13 articles)
+        - [CHAPITRE V : Conditions d'exercice des mandats](partie-legislative/septieme-partie/livre-ier/titre-ii/chapitre-v.md) (40 articles)
+      - **TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-iii/chapitre-unique.md) (2 articles)
+      - **TITRE IV : RELATIONS ENTRE LA COLLECTIVITÉ TERRITORIALE DE GUYANE ET LES SERVICES DE L'ÉTAT**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-iv/chapitre-unique.md) (1 article)
+      - **TITRE V : ATTRIBUTIONS DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/septieme-partie/livre-ier/titre-v/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Consultation de l'assemblée de Guyane par le Gouvernement](partie-legislative/septieme-partie/livre-ier/titre-v/chapitre-ii.md) (5 articles)
+        - [CHAPITRE III : Coopération régionale](partie-legislative/septieme-partie/livre-ier/titre-v/chapitre-iii.md) (12 articles)
+        - [CHAPITRE IV : Relations avec l'Union européenne](partie-legislative/septieme-partie/livre-ier/titre-v/chapitre-iv.md) (2 articles)
+      - **TITRE VI : COMPÉTENCES DE L'ASSEMBLÉE DE GUYANE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-vi/chapitre-unique.md) (2 articles)
+      - **TITRE VII : COMPÉTENCES DU PRÉSIDENT DE L'ASSEMBLÉE DE GUYANE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-vii/chapitre-unique.md) (1 article)
+      - **TITRE VIII : COMPÉTENCES DU CONSEIL ÉCONOMIQUE, SOCIAL, ENVIRONNEMENTAL, DE LA CULTURE ET DE L'ÉDUCATION DE GUYANE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-viii/chapitre-unique.md) (1 article)
+      - **TITRE IX : INTERVENTIONS ET AIDES DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-ix/chapitre-unique.md) (1 article)
+      - **TITRE X : GESTION DES SERVICES PUBLICS DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ier/titre-x/chapitre-unique.md) (1 article)
+      - **TITRE XI : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE**
+        - [TITRE XI : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE : articles rattachés directement](partie-legislative/septieme-partie/livre-ier/titre-xi/articles-directs.md) (1 article)
+        - [CHAPITRE Ier : Budgets et comptes](partie-legislative/septieme-partie/livre-ier/titre-xi/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : Recettes](partie-legislative/septieme-partie/livre-ier/titre-xi/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Dépenses](partie-legislative/septieme-partie/livre-ier/titre-xi/chapitre-iii.md) (5 articles)
+        - [CHAPITRE IV : Comptabilité](partie-legislative/septieme-partie/livre-ier/titre-xi/chapitre-iv.md) (2 articles)
+      - **TITRE XII : AUTRES ORGANISMES**
+        - [CHAPITRE II : Le centre territorial de promotion de la santé](partie-legislative/septieme-partie/livre-ier/titre-xii/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Le conseil territorial de l'habitat](partie-legislative/septieme-partie/livre-ier/titre-xii/chapitre-iii.md) (1 article)
+    - **LIVRE II : COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ii/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE II : ORGANES DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/septieme-partie/livre-ii/titre-ii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : L'assemblée de Martinique](partie-legislative/septieme-partie/livre-ii/titre-ii/chapitre-ii.md) (32 articles)
+        - [CHAPITRE III : Le président et les vice-présidents de l'assemblée de Martinique](partie-legislative/septieme-partie/livre-ii/titre-ii/chapitre-iii.md) (5 articles)
+        - [CHAPITRE IV : Le conseil exécutif et le président du conseil exécutif](partie-legislative/septieme-partie/livre-ii/titre-ii/chapitre-iv.md) (21 articles)
+        - [CHAPITRE V : Rapports entre l'assemblée et le conseil exécutif de Martinique](partie-legislative/septieme-partie/livre-ii/titre-ii/chapitre-v.md) (4 articles)
+        - [CHAPITRE VI : Le conseil économique, social, environnemental, de la culture et de l'éducation de Martinique](partie-legislative/septieme-partie/livre-ii/titre-ii/chapitre-vi.md) (10 articles)
+        - [CHAPITRE VII : Conditions d'exercice des mandats](partie-legislative/septieme-partie/livre-ii/titre-ii/chapitre-vii.md) (41 articles)
+      - **TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-unique.md) (2 articles)
+      - **TITRE IV : RELATIONS ENTRE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE ET LES SERVICES DE L'ÉTAT**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ii/titre-iv/chapitre-unique.md) (1 article)
+      - **TITRE V : ATTRIBUTIONS DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+        - [CHAPITRE Ier : Dispositions générales](partie-legislative/septieme-partie/livre-ii/titre-v/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Consultation de l'assemblée de Martinique par le Gouvernement](partie-legislative/septieme-partie/livre-ii/titre-v/chapitre-ii.md) (5 articles)
+        - [CHAPITRE III : Coopération régionale](partie-legislative/septieme-partie/livre-ii/titre-v/chapitre-iii.md) (12 articles)
+        - [CHAPITRE IV : Relations avec l'Union européenne](partie-legislative/septieme-partie/livre-ii/titre-v/chapitre-iv.md) (2 articles)
+      - **TITRE VI : COMPÉTENCES DE L'ASSEMBLÉE DE MARTINIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ii/titre-vi/chapitre-unique.md) (1 article)
+      - **TITRE VII : COMPÉTENCES DU CONSEIL ÉCONOMIQUE, SOCIAL, ENVIRONNEMENTAL, DE LA CULTURE ET DE L'ÉDUCATION DE MARTINIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ii/titre-vii/chapitre-unique.md) (1 article)
+      - **TITRE VIII : INTERVENTIONS ET AIDES DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ii/titre-viii/chapitre-unique.md) (1 article)
+      - **TITRE IX : GESTION DES SERVICES PUBLICS DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-ii/titre-ix/chapitre-unique.md) (1 article)
+      - **TITRE X : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+        - [TITRE X : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE : articles rattachés directement](partie-legislative/septieme-partie/livre-ii/titre-x/articles-directs.md) (1 article)
+        - [CHAPITRE Ier : Budgets et comptes](partie-legislative/septieme-partie/livre-ii/titre-x/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : Recettes](partie-legislative/septieme-partie/livre-ii/titre-x/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Dépenses](partie-legislative/septieme-partie/livre-ii/titre-x/chapitre-iii.md) (3 articles)
+        - [CHAPITRE IV : Comptabilité](partie-legislative/septieme-partie/livre-ii/titre-x/chapitre-iv.md) (2 articles)
+      - **TITRE XI : AUTRES ORGANISMES**
+        - [CHAPITRE Ier : Le centre territorial de promotion de la santé](partie-legislative/septieme-partie/livre-ii/titre-xi/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Le conseil territorial de l'habitat](partie-legislative/septieme-partie/livre-ii/titre-xi/chapitre-ii.md) (1 article)
+    - **Livre III : DÉPARTEMENT-RÉGION DE MAYOTTE**
+      - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-legislative/septieme-partie/livre-iii/titre-ier/chapitre-unique.md) (5 articles)
+      - **Titre II : ORGANISATION DU DÉPARTEMENT-RÉGION DE MAYOTTE**
+        - [Chapitre Ier : Organes du Département-Région de Mayotte](partie-legislative/septieme-partie/livre-iii/titre-ii/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Régime juridique des actes pris par les autorités de la collectivité](partie-legislative/septieme-partie/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+      - **Titre III : ADMINISTRATION ET SERVICES DU DÉPARTEMENT-RÉGION DE MAYOTTE**
+        - [Chapitre Ier : Compétences du président de l'assemblée de Mayotte](partie-legislative/septieme-partie/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Compétences de l'assemblée de Mayotte](partie-legislative/septieme-partie/livre-iii/titre-iii/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Compétences du conseil économique, social, environnemental, de la culture et de l'éducation de Mayotte](partie-legislative/septieme-partie/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Attributions du Département-Région de Mayotte en matière de coopération régionale](partie-legislative/septieme-partie/livre-iii/titre-iii/chapitre-iv.md) (14 articles)
+      - **Titre IV : SERVICES PUBLICS LOCAUX**
+        - [Chapitre unique : Services d'incendie et de secours](partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-unique.md) (1 article)
+      - **Titre V : FINANCES DE LA COLLECTIVITÉ**
+        - [Titre V : FINANCES DE LA COLLECTIVITÉ : articles rattachés directement](partie-legislative/septieme-partie/livre-iii/titre-v/articles-directs.md) (1 article)
+        - [Chapitre Ier : Budgets et comptes](partie-legislative/septieme-partie/livre-iii/titre-v/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Dépenses](partie-legislative/septieme-partie/livre-iii/titre-v/chapitre-ii.md) (1 article)
+        - [Chapitre III : Ressources](partie-legislative/septieme-partie/livre-iii/titre-v/chapitre-iii.md) (3 articles)
+      - **Titre VI : COMPENSATION DES TRANSFERTS DE COMPÉTENCES**
+        - [Chapitre unique](partie-legislative/septieme-partie/livre-iii/titre-vi/chapitre-unique.md) (1 article)
+    - **LIVRE IV : DISPOSITIONS COMMUNES**
+      - **TITRE Ier : CONDITIONS D'APPLICATION AUX COLLECTIVITÉS TERRITORIALES DE GUYANE, DE MARTINIQUE ET DE MAYOTTE DES DEUXIÈME ET TROISIÈME ALINÉAS DE L'ARTICLE 73 DE LA CONSTITUTION**
+        - [CHAPITRE Ier : Adaptation des lois et règlements](partie-legislative/septieme-partie/livre-iv/titre-ier/chapitre-ier.md) (9 articles)
+        - [CHAPITRE II : Fixation des règles applicables sur leur territoire dans un nombre limité de matières relevant du domaine de la loi ou du règlement](partie-legislative/septieme-partie/livre-iv/titre-ier/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : Dispositions communes](partie-legislative/septieme-partie/livre-iv/titre-ier/chapitre-iii.md) (1 article)
+      - **TITRE II : LE CONGRÈS DES ÉLUS**
+        - [CHAPITRE Ier : Composition](partie-legislative/septieme-partie/livre-iv/titre-ii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Présidence](partie-legislative/septieme-partie/livre-iv/titre-ii/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Fonctionnement](partie-legislative/septieme-partie/livre-iv/titre-ii/chapitre-iii.md) (6 articles)
+        - [CHAPITRE IV : Rôle du congrès des élus](partie-legislative/septieme-partie/livre-iv/titre-ii/chapitre-iv.md) (3 articles)
+      - **TITRE III : MODALITES DE TRANSFERT DES BIENS ET OBLIGATIONS DES DEPARTEMENTS ET REGIONS AUX COLLECTIVITES TERRITORIALES DE GUYANE ET DE MARTINIQUE**
+        - [CHAPITRE UNIQUE](partie-legislative/septieme-partie/livre-iv/titre-iii/chapitre-unique.md) (3 articles)
+- **Partie réglementaire**
+  - **PREMIERE PARTIE : DISPOSITIONS GÉNÉRALES**
+    - **LIVRE Ier : PRINCIPES GÉNÉRAUX DE LA DÉCENTRALISATION**
+      - **TITRE Ier : LIBRE ADMINISTRATION DES COLLECTIVITÉS TERRITORIALES**
+        - [CHAPITRE Ier : Principe de libre administration](partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-ier.md) (13 articles)
+        - [CHAPITRE II : Participation des électeurs aux décisions locales](partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-ii.md) (18 articles)
+        - [CHAPITRE V : Action extérieure des collectivités territoriales](partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-v.md) (16 articles)
+        - [CHAPITRE VI : Demande de prise de position formelle](partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-vi.md) (5 articles)
+    - **LIVRE II : ORGANISMES NATIONAUX COMPÉTENTS À L'ÉGARD DES COLLECTIVITÉS TERRITORIALES ET DE LEURS GROUPEMENTS**
+      - **TITRE Ier : LE COMITÉ DES FINANCES LOCALES ET LE CONSEIL NATIONAL D'EVALUATION DES NORMES**
+        - [CHAPITRE Ier : Composition et fonctionnement du comité des finances locales](partie-reglementaire/premiere-partie/livre-ii/titre-ier/chapitre-ier.md) (19 articles)
+        - [CHAPITRE II : Composition et fonctionnement de la commission consultative sur l'évaluation des charges](partie-reglementaire/premiere-partie/livre-ii/titre-ier/chapitre-ii.md) (8 articles)
+        - [CHAPITRE III : Composition et fonctionnement du Conseil national d'évaluation des normes](partie-reglementaire/premiere-partie/livre-ii/titre-ier/chapitre-iii.md) (31 articles)
+      - **TITRE II : LE CONSEIL NATIONAL DE LA FORMATION DES ÉLUS LOCAUX**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-unique.md) (31 articles)
+      - **TITRE III : AGENCE NATIONALE DE LA COHÉSION DES TERRITOIRES**
+        - [Chapitre Ier : Statut et missions](partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Organisation et fonctionnement](partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-ii.md) (12 articles)
+        - [Chapitre III : Ressources et moyens](partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-iii.md) (40 articles)
+      - **TITRE IV : LE CONSEIL NATIONAL DES OPÉRATIONS FUNÉRAIRES**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-unique.md) (8 articles)
+    - **LIVRE III : BIENS DES COLLECTIVITES TERRITORIALES, DE LEURS ÉTABLISSEMENTS ET DE LEURS GROUPEMENTS**
+      - **TITRE Ier : RÉGIME GENERAL**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-iii/titre-ier/chapitre-unique.md) (8 articles)
+    - **LIVRE IV : SERVICES PUBLICS LOCAUX**
+      - **TITRE Ier : PRINCIPES GÉNÉRAUX**
+        - [Chapitre préliminaire : Règles générales applicables aux contrats de concession](partie-reglementaire/premiere-partie/livre-iv/titre-ier/chapitre-preliminaire.md) (2 articles)
+        - [CHAPITRE Ier : Les délégations de service public](partie-reglementaire/premiere-partie/livre-iv/titre-ier/chapitre-ier.md) (6 articles)
+        - [CHAPITRE II : Gestion directe des services publics](partie-reglementaire/premiere-partie/livre-iv/titre-ier/chapitre-ii.md) (4 articles)
+      - **TITRE II : DISPOSITIONS PROPRES À CERTAINS SERVICES PUBLICS LOCAUX**
+        - [CHAPITRE Ier : Services culturels des collectivités territoriales](partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-ier.md) (9 articles)
+        - [CHAPITRE IV : Services d'incendie et de secours](partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-iv.md) (123 articles)
+        - [CHAPITRE V : Transferts de personnels et de biens pour l'installation des services départementaux d'incendie et de secours (R)](partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-v.md) (25 articles)
+        - [CHAPITRE VI : Mise à disposition des infrastructures de réseaux de radiocommunications mobiles](partie-reglementaire/premiere-partie/livre-iv/titre-ii/chapitre-vi.md) (4 articles)
+      - **TITRE III : ETABLISSEMENTS PUBLICS DE COOPERATION CULTURELLE OU ENVIRONNEMENTALE**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-iv/titre-iii/chapitre-unique.md) (20 articles)
+    - **LIVRE V : DISPOSITIONS ÉCONOMIQUES**
+      - **TITRE Ier : AIDES AUX ENTREPRISES**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-v/titre-ier/chapitre-unique.md) (49 articles)
+      - **TITRE II : SOCIÉTÉS D'ÉCONOMIE MIXTE LOCALES**
+        - [CHAPITRE IV : Administration et contrôle](partie-reglementaire/premiere-partie/livre-v/titre-ii/chapitre-iv.md) (7 articles)
+    - **LIVRE VI : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+      - **TITRE Ier**
+        - [CHAPITRE Ier : Principes généraux](partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-ier.md) (54 articles)
+        - [CHAPITRE II : Adoption et exécution des budgets](partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-ii.md) (75 articles)
+        - [CHAPITRE III : Dotation globale de fonctionnement et autres dotations](partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-iii.md) (11 articles)
+        - [CHAPITRE IV : Compensation des transferts de compétences](partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-iv.md) (70 articles)
+        - [CHAPITRE V : Fonds de compensation pour la taxe sur la valeur ajoutée](partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-v.md) (6 articles)
+        - [CHAPITRE VII : Dispositions relatives aux comptables des collectivités territoriales](partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-vii.md) (25 articles)
+        - [CHAPITRE VIII : Régime général des dérogations à l'obligation de dépôt auprès de l'Etat des fonds des collectivités territoriales et de leurs établissements publics](partie-reglementaire/premiere-partie/livre-vi/titre-ier/chapitre-viii.md) (1 article)
+      - **TITRE II : Garanties accordées aux élus locaux**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-vi/titre-ii/chapitre-unique.md) (16 articles)
+    - **LIVRE VIII : COMMUNES DE LA POLYNÉSIE FRANÇAISE.**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES.**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-viii/titre-ier/chapitre-unique.md) (2 articles)
+      - **TITRE II : LIBRE ADMINISTRATION.**
+        - [CHAPITRE Ier : Participation des électeurs aux décisions locales.](partie-reglementaire/premiere-partie/livre-viii/titre-ii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Coopération décentralisée.](partie-reglementaire/premiere-partie/livre-viii/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Demande de prise de position formelle](partie-reglementaire/premiere-partie/livre-viii/titre-ii/chapitre-iii.md) (1 article)
+      - **TITRE V : SERVICES PUBLICS LOCAUX.**
+        - [CHAPITRE Ier : Principes généraux.](partie-reglementaire/premiere-partie/livre-viii/titre-v/chapitre-ier.md) (1 article)
+      - **TITRE VI : DISPOSITIONS ÉCONOMIQUES.**
+        - [CHAPITRE II : Sociétés d'économie mixte locales.](partie-reglementaire/premiere-partie/livre-viii/titre-vi/chapitre-ii.md) (1 article)
+      - **TITRE VII : DISPOSITIONS FINANCIÈRES ET COMPTABLES.**
+        - [CHAPITRE Ier : Principes généraux.](partie-reglementaire/premiere-partie/livre-viii/titre-vii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE Ier bis : Dispositions régissant la société publique mentionnée à l'article L. 1611-3-2 dénommée Agence France Locale](partie-reglementaire/premiere-partie/livre-viii/titre-vii/chapitre-ier-bis.md) (1 article)
+        - [CHAPITRE II : Adoption et exécution des budgets.](partie-reglementaire/premiere-partie/livre-viii/titre-vii/chapitre-ii.md) (1 article)
+        - [CHAPITRE II BIS : Dotations](partie-reglementaire/premiere-partie/livre-viii/titre-vii/chapitre-ii-bis.md) (1 article)
+        - [CHAPITRE III : Compensation des transferts de compétences.](partie-reglementaire/premiere-partie/livre-viii/titre-vii/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Dispositions relatives aux comptables.](partie-reglementaire/premiere-partie/livre-viii/titre-vii/chapitre-iv.md) (1 article)
+        - [CHAPITRE V : Régime général des dérogations à l'obligation de dépôt auprès de l'Etat des fonds des collectivités territoriales et de leurs établissements publics.](partie-reglementaire/premiere-partie/livre-viii/titre-vii/chapitre-v.md) (1 article)
+      - **TITRE VIII : GARANTIES ACCORDÉES AUX ÉLUS LOCAUX.**
+        - [CHAPITRE UNIQUE](partie-reglementaire/premiere-partie/livre-viii/titre-viii/chapitre-unique.md) (1 article)
+  - **DEUXIEME PARTIE : LA COMMUNE**
+    - **LIVRE Ier : ORGANISATION DE LA COMMUNE**
+      - **TITRE Ier : NOM ET TERRITOIRE DE LA COMMUNE**
+        - [CHAPITRE Ier : Nom](partie-reglementaire/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Limites territoriales et chef-lieu](partie-reglementaire/deuxieme-partie/livre-ier/titre-ier/chapitre-ii.md) (5 articles)
+        - [CHAPITRE III : Création d'une commune nouvelle et communes fusionnées](partie-reglementaire/deuxieme-partie/livre-ier/titre-ier/chapitre-iii.md) (25 articles)
+        - [CHAPITRE IV : Suppression de communes.](partie-reglementaire/deuxieme-partie/livre-ier/titre-ier/chapitre-iv.md) (2 articles)
+      - **TITRE II : ORGANES DE LA COMMUNE**
+        - [CHAPITRE Ier : Le conseil municipal](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-ier.md) (9 articles)
+        - [CHAPITRE II : Le maire et les adjoints](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md) (15 articles)
+        - [CHAPITRE III : Conditions d'exercice des mandats municipaux](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iii.md) (48 articles)
+        - [CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre.](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md) (5 articles)
+      - **TITRE III : ACTES DES AUTORITÉS COMMUNALES ET ACTIONS CONTENTIEUSES**
+        - [CHAPITRE Ier : Régime juridique des actes pris par les autorités communales](partie-reglementaire/deuxieme-partie/livre-ier/titre-iii/chapitre-ier.md) (9 articles)
+        - [CHAPITRE II : Actions contentieuses de la commune](partie-reglementaire/deuxieme-partie/livre-ier/titre-iii/chapitre-ii.md) (4 articles)
+      - **TITRE V : POPULATION DE LA COMMUNE (R)**
+        - [CHAPITRE UNIQUE (R).](partie-reglementaire/deuxieme-partie/livre-ier/titre-v/chapitre-unique-r.md) (4 articles)
+    - **LIVRE II : ADMINISTRATION ET SERVICES COMMUNAUX**
+      - **TITRE Ier : POLICE**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/deuxieme-partie/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE III : Pouvoirs de police portant sur des objets particuliers](partie-reglementaire/deuxieme-partie/livre-ii/titre-ier/chapitre-iii.md) (72 articles)
+        - [CHAPITRE IV : Dispositions applicables dans les communes où la police est étatisée](partie-reglementaire/deuxieme-partie/livre-ii/titre-ier/chapitre-iv.md) (3 articles)
+        - [CHAPITRE V : Pouvoirs du représentant de l'Etat dans le département](partie-reglementaire/deuxieme-partie/livre-ii/titre-ier/chapitre-v.md) (1 article)
+      - **TITRE II : SERVICES COMMUNAUX**
+        - [CHAPITRE Ier : Régies municipales](partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-ier.md) (97 articles)
+        - [CHAPITRE II : Services gérés en application de conventions](partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md) (6 articles)
+        - [CHAPITRE III : Cimetières, sites cinéraires et opérations funéraires](partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-iii.md) (157 articles)
+        - [CHAPITRE IV : Services publics industriels et commerciaux](partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-iv.md) (78 articles)
+        - [CHAPITRE V : Défense extérieure contre l'incendie](partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-v.md) (10 articles)
+        - [CHAPITRE VI : Gestion des eaux pluviales urbaines](partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-vi.md) (1 article)
+      - **TITRE III : ARTIFICIALISATION DES SOLS**
+        - [Chapitre unique](partie-reglementaire/deuxieme-partie/livre-ii/titre-iii/chapitre-unique.md) (1 article)
+      - **TITRE IV : BIENS DE LA COMMUNE**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/deuxieme-partie/livre-ii/titre-iv/chapitre-ier.md) (7 articles)
+        - [CHAPITRE II : Dons et legs](partie-reglementaire/deuxieme-partie/livre-ii/titre-iv/chapitre-ii.md) (6 articles)
+      - **TITRE V : INTERVENTIONS EN MATIÈRE ÉCONOMIQUE ET SOCIALE**
+        - [CHAPITRE Ier : Aides économiques](partie-reglementaire/deuxieme-partie/livre-ii/titre-v/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Garanties d'emprunts](partie-reglementaire/deuxieme-partie/livre-ii/titre-v/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : Participation au capital de sociétés](partie-reglementaire/deuxieme-partie/livre-ii/titre-v/chapitre-iii.md) (1 article)
+    - **LIVRE III : FINANCES COMMUNALES**
+      - **TITRE Ier : BUDGET ET COMPTES**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : Adoption du budget](partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md) (2 articles)
+      - **TITRE II : DÉPENSES**
+        - [CHAPITRE Ier : Dépenses obligatoires](partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-ier.md) (16 articles)
+      - **TITRE III : RECETTES**
+        - [CHAPITRE Ier : Catégories de recettes](partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-ier.md) (5 articles)
+        - [CHAPITRE III : Taxes, redevances ou versements non prévus par le code général des impôts](partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-iii.md) (156 articles)
+        - [CHAPITRE IV : Dotations et autres recettes réparties par le comité des finances locales](partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-iv.md) (44 articles)
+        - [CHAPITRE V : Dotations, subventions et fonds divers](partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-v.md) (27 articles)
+        - [CHAPITRE VI : Péréquation des ressources](partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-vi.md) (11 articles)
+        - [CHAPITRE VII : Avances et emprunts](partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-vii.md) (7 articles)
+      - **TITRE IV : COMPTABILITÉ**
+        - [CHAPITRE II : Engagement des dépenses et comptabilité de l'ordonnateur (R)](partie-reglementaire/deuxieme-partie/livre-iii/titre-iv/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Comptabilité du comptable](partie-reglementaire/deuxieme-partie/livre-iii/titre-iv/chapitre-iii.md) (1 article)
+    - **LIVRE IV : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS**
+      - **TITRE Ier : SECTION DE COMMUNE**
+        - [CHAPITRE Ier : Dispositions générales.](partie-reglementaire/deuxieme-partie/livre-iv/titre-ier/chapitre-ier.md) (11 articles)
+      - **TITRE II : BIENS IMMOBILIERS SOUMIS À UN DROIT DE JOUISSANCE EXCLUSIF**
+        - [CHAPITRE UNIQUE.](partie-reglementaire/deuxieme-partie/livre-iv/titre-ii/chapitre-unique.md) (2 articles)
+    - **LIVRE V : DISPOSITIONS PARTICULIÈRES**
+      - **TITRE Ier : PARIS, MARSEILLE ET LYON**
+        - [CHAPITRE Ier : Dispositions communes.](partie-reglementaire/deuxieme-partie/livre-v/titre-ier/chapitre-ier.md) (22 articles)
+        - [CHAPITRE II : Dispositions spécifiques à la commune de Paris](partie-reglementaire/deuxieme-partie/livre-v/titre-ier/chapitre-ii.md) (38 articles)
+        - [CHAPITRE III : Dispositions spécifiques aux communes de Marseille et de Lyon](partie-reglementaire/deuxieme-partie/livre-v/titre-ier/chapitre-iii.md) (16 articles)
+      - **TITRE II : COMMUNES DES DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE**
+        - [CHAPITRE Ier : Attributions.](partie-reglementaire/deuxieme-partie/livre-v/titre-ii/chapitre-ier.md) (3 articles)
+        - [CHAPITRE II : Dispositions financières](partie-reglementaire/deuxieme-partie/livre-v/titre-ii/chapitre-ii.md) (1 article)
+      - **TITRE III : COMMUNES DE LA RÉGION D'ÎLE-DE-FRANCE**
+        - [CHAPITRE Ier : Dispositions financières.](partie-reglementaire/deuxieme-partie/livre-v/titre-iii/chapitre-ier.md) (25 articles)
+      - **TITRE IV : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN**
+        - [CHAPITRE Ier : Organisation](partie-reglementaire/deuxieme-partie/livre-v/titre-iv/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Administration et services communaux](partie-reglementaire/deuxieme-partie/livre-v/titre-iv/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Dispositions financières](partie-reglementaire/deuxieme-partie/livre-v/titre-iv/chapitre-iii.md) (2 articles)
+        - [CHAPITRE IV : Intérêts propres à certaines catégories d'habitants](partie-reglementaire/deuxieme-partie/livre-v/titre-iv/chapitre-iv.md) (1 article)
+      - **TITRE VI : COMMUNES DES DÉPARTEMENTS D'OUTRE-MER**
+        - [CHAPITRE Ier : Organisation.](partie-reglementaire/deuxieme-partie/livre-v/titre-vi/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Attributions.](partie-reglementaire/deuxieme-partie/livre-v/titre-vi/chapitre-ii.md) (1 article)
+        - [Chapitre II bis : Dispositions générales](partie-reglementaire/deuxieme-partie/livre-v/titre-vi/chapitre-ii-bis.md) (1 article)
+        - [CHAPITRE III : Dispositions financières](partie-reglementaire/deuxieme-partie/livre-v/titre-vi/chapitre-iii.md) (9 articles)
+        - [CHAPITRE IV : Dispositions applicables aux communes de Mayotte](partie-reglementaire/deuxieme-partie/livre-v/titre-vi/chapitre-iv.md) (24 articles)
+      - **TITRE VII : COMMUNES DES COLLECTIVITÉS D'OUTRE-MER.**
+        - [CHAPITRE Ier : Communes de Saint-Pierre-et-Miquelon.](partie-reglementaire/deuxieme-partie/livre-v/titre-vii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE III : Communes de Polynésie française.](partie-reglementaire/deuxieme-partie/livre-v/titre-vii/chapitre-iii.md) (74 articles)
+  - **TROISIEME PARTIE : LE DÉPARTEMENT**
+    - **LIVRE Ier : ORGANISATION DU DÉPARTEMENT**
+      - **TITRE Ier : NOM ET TERRITOIRE DU DÉPARTEMENT**
+        - [CHAPITRE Ier : Dispositions générales (R)](partie-reglementaire/troisieme-partie/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - **TITRE II : ORGANES DU DÉPARTEMENT**
+        - [CHAPITRE Ier : Le conseil départemental](partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE III : Conditions d'exercice des mandats départementaux](partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-iii.md) (38 articles)
+      - **TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-reglementaire/troisieme-partie/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Contrôle de légalité](partie-reglementaire/troisieme-partie/livre-ier/titre-iii/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Exercice par un contribuable des actions appartenant au département](partie-reglementaire/troisieme-partie/livre-ier/titre-iii/chapitre-iii.md) (4 articles)
+      - **TITRE IV : RELATIONS ENTRE LE DÉPARTEMENT ET LES SERVICES DE L'ÉTAT**
+        - [CHAPITRE II : Coordination entre les services de l'Etat et les services du département](partie-reglementaire/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md) (5 articles)
+    - **LIVRE II : ADMINISTRATION ET SERVICES DÉPARTEMENTAUX**
+      - **TITRE Ier : COMPÉTENCES DU CONSEIL DEPARTEMENTAL**
+        - [CHAPITRE III : Gestion du patrimoine](partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-iii.md) (15 articles)
+      - **TITRE II : COMPÉTENCES DU PRÉSIDENT DU CONSEIL DEPARTEMENTAL**
+        - [CHAPITRE UNIQUE](partie-reglementaire/troisieme-partie/livre-ii/titre-ii/chapitre-unique.md) (2 articles)
+      - **TITRE III : INTERVENTIONS ET AIDES DU DÉPARTEMENT**
+        - [CHAPITRE Ier : Interventions en matière économique et sociale](partie-reglementaire/troisieme-partie/livre-ii/titre-iii/chapitre-ier.md) (4 articles)
+        - [CHAPITRE II : Aides à objet spécifique](partie-reglementaire/troisieme-partie/livre-ii/titre-iii/chapitre-ii.md) (7 articles)
+      - **TITRE IV : GESTION DES SERVICES PUBLICS**
+        - [CHAPITRE Ier : Rapports entre les départements et les entreprises (R)](partie-reglementaire/troisieme-partie/livre-ii/titre-iv/chapitre-ier.md) (6 articles)
+    - **LIVRE III : FINANCES DU DÉPARTEMENT**
+      - **TITRE II : DÉPENSES**
+        - [CHAPITRE Ier : Dépenses obligatoires](partie-reglementaire/troisieme-partie/livre-iii/titre-ii/chapitre-ier.md) (4 articles)
+      - **TITRE III : RECETTES**
+        - [CHAPITRE II : Catégories de recettes](partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md) (3 articles)
+        - [CHAPITRE III : Contributions et taxes autres que celles prévues par le code général des impôts](partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-iii.md) (18 articles)
+        - [CHAPITRE IV : Concours financiers de l'Etat](partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-iv.md) (15 articles)
+        - [CHAPITRE V : Péréquation des ressources fiscales](partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-v.md) (3 articles)
+        - [CHAPITRE VI : Avances et emprunts](partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-vi.md) (1 article)
+    - **LIVRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINS DÉPARTEMENTS**
+      - **TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE**
+        - [CHAPITRE UNIQUE](partie-reglementaire/troisieme-partie/livre-iv/titre-ii/chapitre-unique.md) (2 articles)
+      - **TITRE IV : DÉPARTEMENTS D'OUTRE-MER**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/troisieme-partie/livre-iv/titre-iv/chapitre-ier.md) (2 articles)
+        - [CHAPITRE III : Dispositions financières](partie-reglementaire/troisieme-partie/livre-iv/titre-iv/chapitre-iii.md) (5 articles)
+    - **LIVRE VI : MÉTROPOLE DE LYON**
+      - **TITRE VI : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+        - [CHAPITRE II : Recettes](partie-reglementaire/troisieme-partie/livre-vi/titre-vi/chapitre-ii.md) (2 articles)
+        - [CHAPITRE IV : Dépenses](partie-reglementaire/troisieme-partie/livre-vi/titre-vi/chapitre-iv.md) (3 articles)
+  - **QUATRIEME PARTIE : LA RÉGION**
+    - **LIVRE Ier : ORGANISATION DE LA RÉGION**
+      - **TITRE II : NOM ET TERRITOIRE DE LA RÉGION**
+        - [CHAPITRE II : Limites territoriales et chef-lieu](partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Regroupement de régions](partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - **TITRE III : ORGANES DE LA RÉGION**
+        - [CHAPITRE II : Le conseil régional](partie-reglementaire/quatrieme-partie/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+        - [CHAPITRE IV : Le conseil économique et social régional](partie-reglementaire/quatrieme-partie/livre-ier/titre-iii/chapitre-iv.md) (32 articles)
+        - [CHAPITRE V : Conditions d'exercice des mandats régionaux](partie-reglementaire/quatrieme-partie/livre-ier/titre-iii/chapitre-v.md) (38 articles)
+      - **TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS RÉGIONALES**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-reglementaire/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Contrôle de légalité](partie-reglementaire/quatrieme-partie/livre-ier/titre-iv/chapitre-ii.md) (2 articles)
+        - [CHAPITRE III : Exercice par un contribuable des actions appartenant à la région](partie-reglementaire/quatrieme-partie/livre-ier/titre-iv/chapitre-iii.md) (4 articles)
+    - **LIVRE II : ATTRIBUTIONS DE LA RÉGION**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE UNIQUE](partie-reglementaire/quatrieme-partie/livre-ii/titre-ier/chapitre-unique.md) (8 articles)
+      - **TITRE II : COMPÉTENCES DU CONSEIL RÉGIONAL**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/quatrieme-partie/livre-ii/titre-ii/chapitre-ier.md) (9 articles)
+      - **TITRE III : COMPÉTENCES DU PRESIDENT DU CONSEIL RÉGIONAL**
+        - [CHAPITRE UNIQUE](partie-reglementaire/quatrieme-partie/livre-ii/titre-iii/chapitre-unique.md) (1 article)
+      - **TITRE IV : COMPÉTENCES DU CONSEIL ÉCONOMIQUE ET SOCIAL RÉGIONAL**
+        - [CHAPITRE UNIQUE](partie-reglementaire/quatrieme-partie/livre-ii/titre-iv/chapitre-unique.md) (1 article)
+      - **TITRE V : ATTRIBUTIONS DE LA RÉGION EN MATIÈRE D'AMENAGEMENT ET DE DEVELOPPEMENT ÉCONOMIQUE**
+        - [CHAPITRE Ier : Le schéma régional d'aménagement, de développement durable et d'égalité des territoires](partie-reglementaire/quatrieme-partie/livre-ii/titre-v/chapitre-ier.md) (18 articles)
+        - [CHAPITRE II : Recherche et développement technologique](partie-reglementaire/quatrieme-partie/livre-ii/titre-v/chapitre-ii.md) (4 articles)
+        - [CHAPITRE III : Interventions en matière économique et sociale](partie-reglementaire/quatrieme-partie/livre-ii/titre-v/chapitre-iii.md) (4 articles)
+    - **LIVRE III : FINANCES DE LA RÉGION**
+      - **TITRE Ier : BUDGETS ET COMPTES**
+        - [CHAPITRE II : Adoption du budget et règlement des comptes](partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+      - **TITRE II : DÉPENSES**
+        - [CHAPITRE Ier : Dépenses obligatoires](partie-reglementaire/quatrieme-partie/livre-iii/titre-ii/chapitre-ier.md) (3 articles)
+      - **TITRE III : RECETTES**
+        - [CHAPITRE Ier : DISPOSITIONS GENERALES](partie-reglementaire/quatrieme-partie/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Modalités particulières de financement](partie-reglementaire/quatrieme-partie/livre-iii/titre-iii/chapitre-ii.md) (19 articles)
+        - [CHAPITRE III : Avances et emprunts](partie-reglementaire/quatrieme-partie/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+        - [CHAPITRE IV : Redevances](partie-reglementaire/quatrieme-partie/livre-iii/titre-iii/chapitre-iv.md) (1 article)
+    - **LIVRE IV : RÉGIONS À STATUT PARTICULIER ET COLLECTIVITÉ DE CORSE**
+      - **TITRE Ier : LA RÉGION D'ÎLE-DE-FRANCE**
+        - [CHAPITRE III : Attributions](partie-reglementaire/quatrieme-partie/livre-iv/titre-ier/chapitre-iii.md) (16 articles)
+        - [CHAPITRE IV : Dispositions financières](partie-reglementaire/quatrieme-partie/livre-iv/titre-ier/chapitre-iv.md) (1 article)
+      - **TITRE II : LA COLLECTIVITÉ DE CORSE**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-ier.md) (18 articles)
+        - [CHAPITRE II : Organisation](partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-ii.md) (49 articles)
+        - [CHAPITRE III : Régime juridique des actes](partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iii.md) (3 articles)
+        - [CHAPITRE IV : Compétences](partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md) (46 articles)
+        - [CHAPITRE V : Dispositions financières](partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-v.md) (30 articles)
+      - **TITRE III : LES RÉGIONS D'OUTRE-MER**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/quatrieme-partie/livre-iv/titre-iii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Organes](partie-reglementaire/quatrieme-partie/livre-iv/titre-iii/chapitre-ii.md) (13 articles)
+        - [CHAPITRE III : Attributions](partie-reglementaire/quatrieme-partie/livre-iv/titre-iii/chapitre-iii.md) (32 articles)
+        - [CHAPITRE IV : Dispositions financières et fiscales](partie-reglementaire/quatrieme-partie/livre-iv/titre-iii/chapitre-iv.md) (3 articles)
+  - **CINQUIEME PARTIE : LA COOPERATION LOCALE**
+    - **LIVRE Ier : DISPOSITIONS GENERALES**
+      - **TITRE UNIQUE**
+        - [CHAPITRE UNIQUE](partie-reglementaire/cinquieme-partie/livre-ier/titre-unique/chapitre-unique.md) (1 article)
+    - **LIVRE II : LA COOPÉRATION INTERCOMMUNALE**
+      - **TITRE Ier : ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE**
+        - [CHAPITRE Ier : Dispositions communes](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-ier.md) (63 articles)
+        - [CHAPITRE II : Syndicat de communes](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md) (13 articles)
+        - [CHAPITRE IV : Communauté de communes](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-iv.md) (3 articles)
+        - [CHAPITRE V : Communauté urbaine](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-v.md) (20 articles)
+        - [CHAPITRE VI : Communauté d'agglomération](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Métropole](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-vii.md) (4 articles)
+        - [CHAPITRE IX : Métropole du Grand Paris](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-ix.md) (1 article)
+    - **LIVRE III : AGGLOMÉRATION NOUVELLE**
+      - **TITRE II : ÉVOLUTION DES AGGLOMÉRATIONS NOUVELLES**
+        - [CHAPITRE UNIQUE](partie-reglementaire/cinquieme-partie/livre-iii/titre-ii/chapitre-unique.md) (1 article)
+      - **TITRE III : ÉTABLISSEMENTS PUBLICS D'AGGLOMERATION NOUVELLE**
+        - [CHAPITRE II : Syndicat d'agglomération nouvelle](partie-reglementaire/cinquieme-partie/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+    - **LIVRE IV : COOPÉRATION INTERDÉPARTEMENTALE**
+      - **TITRE II : INSTITUTIONS ET ORGANISMES INTERDÉPARTEMENTAUX**
+        - [CHAPITRE UNIQUE](partie-reglementaire/cinquieme-partie/livre-iv/titre-ii/chapitre-unique.md) (13 articles)
+    - **LIVRE VI : COOPÉRATION INTERRÉGIONALE**
+      - **TITRE Ier : CONVENTION INTERRÉGIONALE (R)**
+        - [CHAPITRE UNIQUE](partie-reglementaire/cinquieme-partie/livre-vi/titre-ier/chapitre-unique.md) (3 articles)
+    - **LIVRE VII : SYNDICAT MIXTE**
+      - **TITRE Ier : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE**
+        - [CHAPITRE UNIQUE](partie-reglementaire/cinquieme-partie/livre-vii/titre-ier/chapitre-unique.md) (2 articles)
+      - **TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC**
+        - [CHAPITRE Ier : Organisation et fonctionnement](partie-reglementaire/cinquieme-partie/livre-vii/titre-ii/chapitre-ier.md) (2 articles)
+        - [CHAPITRE II : Dispositions financières](partie-reglementaire/cinquieme-partie/livre-vii/titre-ii/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Régime indemnitaire des membres des assemblées délibérantes de syndicats mixtes associant exclusivement des collectivités territoriales et des groupements de collectivités](partie-reglementaire/cinquieme-partie/livre-vii/titre-ii/chapitre-iii.md) (1 article)
+    - **LIVRE VIII : DISPOSITIONS PARTICULIÈRES**
+      - **TITRE Ier : COMMUNES DES DÉPARTEMENTS DE LA MOSELLE, DU BAS-RHIN ET DU HAUT-RHIN**
+        - [CHAPITRE V : Entente, convention et conférence intercommunales](partie-reglementaire/cinquieme-partie/livre-viii/titre-ier/chapitre-v.md) (1 article)
+      - **TITRE II : DISPOSITIONS APPLICABLES DANS LES COMMUNES DES DÉPARTEMENTS DE LA GUADELOUPE, DE LA GUYANE, DE LA MARTINIQUE ET DE LA RÉUNION**
+        - [CHAPITRE Ier : Communauté urbaine](partie-reglementaire/cinquieme-partie/livre-viii/titre-ii/chapitre-ier.md) (1 article)
+        - [CHAPITRE III : Dispositions diverses (R)](partie-reglementaire/cinquieme-partie/livre-viii/titre-ii/chapitre-iii.md) (1 article)
+      - **TITRE III : DISPOSITIONS APPLICABLES A MAYOTTE**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/cinquieme-partie/livre-viii/titre-iii/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : La coopération intercommunale](partie-reglementaire/cinquieme-partie/livre-viii/titre-iii/chapitre-ii.md) (1 article)
+      - **TITRE IV : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE.**
+        - [CHAPITRE Ier : Dispositions communes](partie-reglementaire/cinquieme-partie/livre-viii/titre-iv/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : La coopération intercommunale](partie-reglementaire/cinquieme-partie/livre-viii/titre-iv/chapitre-ii.md) (9 articles)
+        - [CHAPITRE III : Syndicat mixte](partie-reglementaire/cinquieme-partie/livre-viii/titre-iv/chapitre-iii.md) (3 articles)
+    - **LIVRE IX : MESURES D'ADAPTATIONS PARTICULIÈRES AUX DÉPARTEMENTS ET AUX RÉGIONS D'OUTRE-MER**
+      - **TITRE UNIQUE : LE CONGRÈS DES ÉLUS DÉPARTEMENTAUX ET RÉGIONAUX**
+        - [CHAPITRE IV : Garanties conférées aux conseillers généraux et aux conseillers régionaux participant au congrès des élus départementaux et régionaux](partie-reglementaire/cinquieme-partie/livre-ix/titre-unique/chapitre-iv.md) (1 article)
+  - **SIXIEME PARTIE : COLLECTIVITES D'OUTRE-MER REGIES PAR L'ARTICLE 74 DE LA CONSTITUTION**
+    - **LIVRE II : SAINT-BARTHÉLEMY**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/sixieme-partie/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Le représentant de l'Etat](partie-reglementaire/sixieme-partie/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : L'application des lois et règlements à Saint-Barthélemy](partie-reglementaire/sixieme-partie/livre-ii/titre-ier/chapitre-iii.md) (6 articles)
+      - **TITRE II : LES INSTITUTIONS DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Le conseil territorial](partie-reglementaire/sixieme-partie/livre-ii/titre-ii/chapitre-ier.md) (4 articles)
+        - [CHAPITRE II : Le président du conseil territorial et le conseil exécutif](partie-reglementaire/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+      - **TITRE III : PARTICIPATION DES ÉLECTEURS À LA VIE DE LA COLLECTIVITÉ**
+        - [CHAPITRE II : Référendum local](partie-reglementaire/sixieme-partie/livre-ii/titre-iii/chapitre-ii.md) (12 articles)
+        - [CHAPITRE III : Consultation des électeurs](partie-reglementaire/sixieme-partie/livre-ii/titre-iii/chapitre-iii.md) (1 article)
+      - **TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ ET RELATIONS ENTRE L'ÉTAT ET LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-reglementaire/sixieme-partie/livre-ii/titre-iv/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Contrôle de légalité](partie-reglementaire/sixieme-partie/livre-ii/titre-iv/chapitre-ii.md) (7 articles)
+        - [CHAPITRE III : Exercice par un contribuable ou un électeur des actions appartenant à la collectivité](partie-reglementaire/sixieme-partie/livre-ii/titre-iv/chapitre-iii.md) (4 articles)
+      - **TITRE V : ADMINISTRATION ET SERVICES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Compétences du conseil territorial](partie-reglementaire/sixieme-partie/livre-ii/titre-v/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Compétences du président du conseil territorial](partie-reglementaire/sixieme-partie/livre-ii/titre-v/chapitre-ii.md) (2 articles)
+      - **TITRE VI : FINANCES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Le budget et les comptes de la collectivité](partie-reglementaire/sixieme-partie/livre-ii/titre-vi/chapitre-ier.md) (18 articles)
+        - [CHAPITRE II : Adoption et exécution du budget](partie-reglementaire/sixieme-partie/livre-ii/titre-vi/chapitre-ii.md) (30 articles)
+        - [CHAPITRE III : Dépenses](partie-reglementaire/sixieme-partie/livre-ii/titre-vi/chapitre-iii.md) (4 articles)
+        - [CHAPITRE IV : Recettes](partie-reglementaire/sixieme-partie/livre-ii/titre-vi/chapitre-iv.md) (9 articles)
+        - [CHAPITRE V : Dispositions relatives à la comptabilité](partie-reglementaire/sixieme-partie/livre-ii/titre-vi/chapitre-v.md) (4 articles)
+      - **TITRE VII : DISPOSITIONS DIVERSES**
+        - [CHAPITRE UNIQUE : Modalités des transferts de compétence](partie-reglementaire/sixieme-partie/livre-ii/titre-vii/chapitre-unique.md) (8 articles)
+    - **LIVRE III : SAINT-MARTIN**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [CHAPITRE Ier : Dispositions générales](partie-reglementaire/sixieme-partie/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Le représentant de l'Etat](partie-reglementaire/sixieme-partie/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : L'application des lois et règlements à Saint-Martin](partie-reglementaire/sixieme-partie/livre-iii/titre-ier/chapitre-iii.md) (6 articles)
+      - **TITRE II : LES INSTITUTIONS DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Le conseil territorial](partie-reglementaire/sixieme-partie/livre-iii/titre-ii/chapitre-ier.md) (4 articles)
+        - [CHAPITRE II : Le président du conseil territorial et le conseil exécutif](partie-reglementaire/sixieme-partie/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+      - **TITRE III : PARTICIPATION DES ÉLECTEURS À LA VIE DE LA COLLECTIVITÉ**
+        - [CHAPITRE II : Référendum local](partie-reglementaire/sixieme-partie/livre-iii/titre-iii/chapitre-ii.md) (12 articles)
+        - [CHAPITRE III : Consultation des électeurs](partie-reglementaire/sixieme-partie/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+      - **TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DE LA COLLECTIVITÉ ET RELATIONS ENTRE L'ÉTAT ET LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Publicité et entrée en vigueur](partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Contrôle de légalité](partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-ii.md) (7 articles)
+        - [CHAPITRE III : Exercice par un contribuable ou un électeur des actions appartenant à la collectivité](partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-iii.md) (4 articles)
+        - [CHAPITRE IV : Relations entre l'Etat et la collectivité](partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-iv.md) (1 article)
+      - **TITRE V : ADMINISTRATION ET SERVICES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Compétences du conseil territorial](partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ier.md) (1 article)
+        - [CHAPITRE II : Compétences du président du conseil territorial](partie-reglementaire/sixieme-partie/livre-iii/titre-v/chapitre-ii.md) (2 articles)
+      - **TITRE VI : FINANCES DE LA COLLECTIVITÉ**
+        - [CHAPITRE Ier : Le budget et les comptes de la collectivité](partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-ier.md) (18 articles)
+        - [CHAPITRE II : Adoption et exécution du budget](partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md) (30 articles)
+        - [CHAPITRE III : Dépenses](partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-iii.md) (4 articles)
+        - [CHAPITRE IV : Recettes](partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-iv.md) (9 articles)
+        - [CHAPITRE V : Dispositions relatives à la comptabilité](partie-reglementaire/sixieme-partie/livre-iii/titre-vi/chapitre-v.md) (4 articles)
+      - **TITRE VII : DISPOSITIONS DIVERSES**
+        - [CHAPITRE UNIQUE : Modalités des transferts de compétence](partie-reglementaire/sixieme-partie/livre-iii/titre-vii/chapitre-unique.md) (8 articles)
+    - **LIVRE IV : SAINT-PIERRE-ET-MIQUELON**
+      - **Titre III : Les institutions de la collectivité**
+        - [Chapitre unique : Relations avec le représentant de l'Etat](partie-reglementaire/sixieme-partie/livre-iv/titre-iii/chapitre-unique.md) (1 article)
+      - [Titre V : Régime juridique des actes pris par les autorités de la collectivité et relations entre l'Etat et la collectivité](partie-reglementaire/sixieme-partie/livre-iv/titre-v.md) (5 articles)
+  - **SEPTIEME PARTIE : AUTRES COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+    - **LIVRE Ier : COLLECTIVITÉ TERRITORIALE DE GUYANE**
+      - **Titre Ier : Dispositions générales**
+        - [Chapitre unique](partie-reglementaire/septieme-partie/livre-ier/titre-ier/chapitre-unique.md) (1 article)
+      - **Titre II : Organes de la collectivité territoriale de Guyane**
+        - [Chapitre IV : Le conseil économique, social, environnemental, de la culture et de l'éducation de Guyane](partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-iv.md) (33 articles)
+        - [Chapitre IV bis : Le grand conseil coutumier des populations amérindiennes et bushinenges](partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-iv-bis.md) (9 articles)
+        - [Chapitre V : Conditions d'exercice des mandats](partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-v.md) (38 articles)
+      - **Titre V : Attributions de la collectivité territoriale de Guyane**
+        - [Chapitre III : Coopération régionale](partie-reglementaire/septieme-partie/livre-ier/titre-v/chapitre-iii.md) (6 articles)
+      - **TITRE XI : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE**
+        - [TITRE XI : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE GUYANE : articles rattachés directement](partie-reglementaire/septieme-partie/livre-ier/titre-xi/articles-directs.md) (1 article)
+        - [CHAPITRE II : Recettes](partie-reglementaire/septieme-partie/livre-ier/titre-xi/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Dépenses](partie-reglementaire/septieme-partie/livre-ier/titre-xi/chapitre-iii.md) (4 articles)
+    - **LIVRE II : COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+      - **Titre Ier : Dispositions générales**
+        - [Chapitre unique](partie-reglementaire/septieme-partie/livre-ii/titre-ier/chapitre-unique.md) (1 article)
+      - **Titre II : Organes de la collectivité territoriale de Martinique**
+        - [Chapitre VI : Le conseil économique, social, environnemental, de la culture et de l'éducation de Martinique](partie-reglementaire/septieme-partie/livre-ii/titre-ii/chapitre-vi.md) (33 articles)
+        - [Chapitre VII : Conditions d'exercice des mandats](partie-reglementaire/septieme-partie/livre-ii/titre-ii/chapitre-vii.md) (38 articles)
+      - **Titre V : Attributions de la collectivité territoriale de Martinique**
+        - [Chapitre III : Coopération régionale](partie-reglementaire/septieme-partie/livre-ii/titre-v/chapitre-iii.md) (6 articles)
+      - **TITRE XI : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE**
+        - [TITRE XI : FINANCES DE LA COLLECTIVITÉ TERRITORIALE DE MARTINIQUE : articles rattachés directement](partie-reglementaire/septieme-partie/livre-ii/titre-xi/articles-directs.md) (1 article)
+        - [CHAPITRE II : Recettes](partie-reglementaire/septieme-partie/livre-ii/titre-xi/chapitre-ii.md) (1 article)
+        - [CHAPITRE III : Dépenses](partie-reglementaire/septieme-partie/livre-ii/titre-xi/chapitre-iii.md) (4 articles)
+    - **Livre III : DÉPARTEMENT-RÉGION DE MAYOTTE**
+      - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-reglementaire/septieme-partie/livre-iii/titre-ier/chapitre-unique.md) (3 articles)
+      - **Titre III : ADMINISTRATION ET SERVICES DU DÉPARTEMENT-RÉGION DE MAYOTTE**
+        - [Chapitre IV : Attributions du département-région de Mayotte en matière de coopération régionale](partie-reglementaire/septieme-partie/livre-iii/titre-iii/chapitre-iv.md) (6 articles)
+      - **Titre V : FINANCES DE LA COLLECTIVITÉ**
+        - [Chapitre I : Budgets et comptes](partie-reglementaire/septieme-partie/livre-iii/titre-v/chapitre-i.md) (1 article)
+        - [Chapitre II : Dépenses](partie-reglementaire/septieme-partie/livre-iii/titre-v/chapitre-ii.md) (1 article)
+        - [Chapitre III : Recettes](partie-reglementaire/septieme-partie/livre-iii/titre-v/chapitre-iii.md) (3 articles)
+      - [Titre VI : COMPENSATION DES TRANSFERTS DE COMPÉTENCES](partie-reglementaire/septieme-partie/livre-iii/titre-vi.md) (5 articles)
+- **Annexes**
+  - [Annexes : articles rattachés directement](annexes/articles-directs.md) (1 article)
+  - [Annexe I](annexes/annexe-i.md) (9 articles)
+  - [Autres annexes](annexes/autres-annexes.md) (20 articles)

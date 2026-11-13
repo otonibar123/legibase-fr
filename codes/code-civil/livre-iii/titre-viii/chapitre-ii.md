@@ -38,7 +38,7 @@ Lorsqu'il y aura contestation sur le prix du bail verbal dont l'exécution a com
 - Identifiant : LEGIARTI000006442766
 - État : en vigueur depuis le 17/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442766
-- Cité par : [art. L411-35 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029593403) ; [art. L461-10 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032360747) ; [Loi n°48-1360 du 1 septembre 1948, art. 78](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006463766)
+- Cité par : [art. L411-35 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-35) ; [art. L461-10 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-vi/chapitre-ier.md#article-l461-10) ; [Loi n°48-1360 du 1 septembre 1948, art. 78](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006463766)
 
 Le preneur a le droit de sous-louer, et même de céder son bail à un autre, si cette faculté ne lui a pas été interdite.  
 
@@ -58,7 +58,7 @@ Les dispositions des deuxième et troisième alinéas de l'article 595 relatif a
 - Identifiant : LEGIARTI000020459127
 - État : en vigueur depuis le 28/03/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020459127
-- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561389) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634) ; [art. R353-158 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006897822) ; [art. L415-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583916)
+- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme-2.md#article-annexe-2-au-iii-art-r353-159) ; [art. R353-158 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-v/chapitre-iii.md#article-r353-158) ; [art. L415-8 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-v.md#article-l415-8) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634)
 
 Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'aucune stipulation particulière :
 
@@ -74,7 +74,7 @@ Le bailleur est obligé, par la nature du contrat, et sans qu'il soit besoin d'a
 - Identifiant : LEGIARTI000006442784
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442784
-- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561389) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634) ; [art. R353-158 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006897822) ; [Décret n°62-367 du 26 mars 1962, art. 55](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006341468)
+- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme-2.md#article-annexe-2-au-iii-art-r353-159) ; [art. R353-158 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-v/chapitre-iii.md#article-r353-158) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634) ; [Décret n°62-367 du 26 mars 1962, art. 55](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006341468)
 
 Le bailleur est tenu de délivrer la chose en bon état de réparations de toute espèce.  
 
@@ -84,7 +84,7 @@ Il doit y faire, pendant la durée du bail, toutes les réparations qui peuvent 
 - Identifiant : LEGIARTI000006442792
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442792
-- Cité par : [Arrêté du 8 juin 2021, art. ANNEXE V](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043682681) ; [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561389) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634) ; [art. R353-158 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006897822) ; [Loi n° 89-462 du 6 juillet 1989, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977105)
+- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme-2.md#article-annexe-2-au-iii-art-r353-159) ; [art. R353-158 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-v/chapitre-iii.md#article-r353-158) ; [Arrêté du 8 juin 2021, art. ANNEXE V](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043682681) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634) ; [Loi n° 89-462 du 6 juillet 1989, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977105)
 
 Il est dû garantie au preneur pour tous les vices ou défauts de la chose louée qui en empêchent l'usage, quand même le bailleur ne les aurait pas connus lors du bail.  
 
@@ -110,7 +110,7 @@ Le bailleur ne peut, pendant la durée du bail, changer la forme de la chose lou
 - Identifiant : LEGIARTI000028806598
 - État : en vigueur depuis le 27/03/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806598
-- Cité par : [art. L314-4 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815481) ; [art. Annexe II à l'article D353-90 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053356309) ; [art. Annexe III à l'article D353-32 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039049222) ; [art. Annexe III à l'article D353-190 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039048922) ; [art. L521-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050623398) ; [art. L521-3-1 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049397643) ; [Loi n° 67-561 du 12 juillet 1967, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039119827) ; [Loi n° 89-462 du 6 juillet 1989, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051748585)
+- Cité par : [art. L314-4 du Code de l'urbanisme](../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-l314-4) ; [art. Annexe II à l'article D353-90 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/conventions-conclues-entre-l-etat-et-les-personnes-physiques-ou-morales-autres-2.md#article-annexe-ii-à-larticle-d353-90) ; [art. Annexe III à l'article D353-32 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-type-conclue-entre-l-etat-et-m-ou-la-societe-en-application-des.md#article-annexe-iii-à-larticle-d353-32) ; [art. Annexe III à l'article D353-190 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-en-application-des-articles-l-353-1-et-l-831-1-3-entre-l/articles-directs.md#article-annexe-iii-à-larticle-d353-190) ; [art. Annexe V à l'article D353-127 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/engagements-de-portee-generale-applicables-a-tout-programme-conventionne.md#article-annexe-v-à-larticle-d353-127) ; [art. L521-2 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-v/titre-ii/chapitre-ier.md#article-l521-2) ; [art. L521-3-1 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-v/titre-ii/chapitre-ier.md#article-l521-3-1) ; [Loi n° 67-561 du 12 juillet 1967, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039119827) ; [Loi n° 89-462 du 6 juillet 1989, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051748585)
 
 Si, durant le bail, la chose louée a besoin de réparations urgentes et qui ne puissent être différées jusqu'à sa fin, le preneur doit les souffrir, quelque incommodité qu'elles lui causent, et quoiqu'il soit privé, pendant qu'elles se font, d'une partie de la chose louée.
 
@@ -143,7 +143,7 @@ Si ceux qui ont commis les voies de fait, prétendent avoir quelque droit sur la
 - Identifiant : LEGIARTI000029336832
 - État : en vigueur depuis le 06/08/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029336832
-- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561389) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634) ; [art. Annexe III à l'article D353-32 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039049222) ; [art. Annexe III à l'article D353-190 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039048922) ; [art. L353-6 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038833916)
+- Cité par : [art. Annexe 1 au III art R353-159 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme.md#article-annexe-1-au-iii-art-r353-159) ; [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme-2.md#article-annexe-2-au-iii-art-r353-159) ; [art. Annexe I à l'article R. 373-3 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-type-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme.md#article-annexe-i-à-larticle-r-373-3) ; [art. Annexe III à l'article D353-32 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-type-conclue-entre-l-etat-et-m-ou-la-societe-en-application-des.md#article-annexe-iii-à-larticle-d353-32) ; [art. Annexe III à l'article D353-190 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-en-application-des-articles-l-353-1-et-l-831-1-3-entre-l/articles-directs.md#article-annexe-iii-à-larticle-d353-190) ; [art. Annexe V à l'article D353-127 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/engagements-de-portee-generale-applicables-a-tout-programme-conventionne.md#article-annexe-v-à-larticle-d353-127) ; [art. D353-39 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-v/chapitre-iii.md#article-d353-39) ; [art. D353-133 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-v/chapitre-iii.md#article-d353-133) ; [art. L353-6 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-v/chapitre-iii.md#article-l353-6) ; [art. Annexe II à l'article R. 373-3 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053470634)
 
 Le preneur est tenu de deux obligations principales :  
 
@@ -185,7 +185,7 @@ Il répond des dégradations ou des pertes qui arrivent pendant sa jouissance, �
 - Identifiant : LEGIARTI000006442901
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006442901
-- Cité par : [art. 1242 du Code civil](../titre-iii/sous-titre-ii/chapitre-ier.md#article-1242) ; [art. 1384 du Code civil](../titre-iv-bis/chapitre-iii.md#article-1384) ; [Arrêté du 18 janvier 1977, art. ANNEXE III](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006382715) ; [art. L2234-17 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006539894) ; [art. L121-13 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042688) ; [art. L451-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006584031) ; [Loi n°1924-06-01 du 1 juin 1924, art. 72](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284127)
+- Cité par : [art. 1242 du Code civil](../titre-iii/sous-titre-ii/chapitre-ier.md#article-1242) ; [art. 1384 du Code civil](../titre-iv-bis/chapitre-iii.md#article-1384) ; [art. L121-13 du Code des assurances](../../../code-des-assurances/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-l121-13) ; [art. L451-8 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-v.md#article-l451-8) ; [Arrêté du 18 janvier 1977, art. ANNEXE III](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006382715) ; [art. L2234-17 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006539894) ; [Loi n°1924-06-01 du 1 juin 1924, art. 72](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284127)
 
 Il répond de l'incendie, à moins qu'il ne prouve :  
 
@@ -269,7 +269,7 @@ Le contrat de louage n'est point résolu par la mort du bailleur ni par celle du
 - Identifiant : LEGIARTI000020616195
 - État : en vigueur depuis le 14/05/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020616195
-- Cité par : [art. L411-7 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583734)
+- Cité par : [art. L411-7 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-7)
 
 Si le bailleur vend la chose louée, l'acquéreur ne peut expulser le fermier, le métayer ou le locataire qui a un bail authentique ou dont la date est certaine.
 
@@ -328,7 +328,7 @@ Si le bail n'est pas fait par acte authentique, ou n'a point de date certaine, l
 - Identifiant : LEGIARTI000028806626
 - État : en vigueur depuis le 27/03/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806626
-- Cité par : [Arrêté du 8 juin 2021, art. ANNEXE V](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043682681) ; [art. L254-7 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028627315) ; [Loi n° 75-1351 du 31 décembre 1975, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834666) ; [Loi n° 75-1351 du 31 décembre 1975, art. 10-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587293) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°75-1351 du 31 décembre 1975, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006465233) ; [Loi n°89-462 du 6 juillet 1989, art. 9-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475082) ; [Loi n°89-462 du 6 juillet 1989, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475111) ; [Ordonnance n°98-774 du 2 septembre 1998, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043133)
+- Cité par : [art. L254-7 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-v/chapitre-iv.md#article-l254-7) ; [Arrêté du 8 juin 2021, art. ANNEXE V](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043682681) ; [Loi n° 75-1351 du 31 décembre 1975, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038834666) ; [Loi n° 75-1351 du 31 décembre 1975, art. 10-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041587293) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°75-1351 du 31 décembre 1975, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006465233) ; [Loi n°89-462 du 6 juillet 1989, art. 9-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475082) ; [Loi n°89-462 du 6 juillet 1989, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006475111) ; [Ordonnance n°98-774 du 2 septembre 1998, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043133)
 
 Le droit au bail du local, sans caractère professionnel ou commercial, qui sert effectivement à l'habitation de deux époux, quel que soit leur régime matrimonial et nonobstant toute convention contraire et même si le bail a été conclu avant le mariage, ou de deux partenaires liés par un pacte civil de solidarité, dès lors que les partenaires en font la demande conjointement, est réputé appartenir à l'un et à l'autre des époux ou partenaires liés par un pacte civil de solidarité.
 
@@ -365,7 +365,7 @@ Les paiements faits par le sous-locataire, soit en vertu d'une stipulation port�
 - Identifiant : LEGIARTI000006443116
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443116
-- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561389) ; [art. Annexe III à l'article D353-32 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039049222) ; [art. Annexe III à l'article D353-190 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039048922) ; [art. R353-158 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023816377) ; [Décret n°91-1158 du 8 novembre 1991, art. ANNEXE](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006424368) ; [Décret n°98-222 du 20 mars 1998, art. ANNEXE](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042983059)
+- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme-2.md#article-annexe-2-au-iii-art-r353-159) ; [art. Annexe III à l'article D353-32 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-type-conclue-entre-l-etat-et-m-ou-la-societe-en-application-des.md#article-annexe-iii-à-larticle-d353-32) ; [art. Annexe III à l'article D353-190 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-en-application-des-articles-l-353-1-et-l-831-1-3-entre-l/articles-directs.md#article-annexe-iii-à-larticle-d353-190) ; [art. R353-158 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-v/chapitre-iii.md#article-r353-158) ; [Décret n°91-1158 du 8 novembre 1991, art. ANNEXE](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006424368) ; [Décret n°98-222 du 20 mars 1998, art. ANNEXE](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042983059)
 
 Les réparations locatives ou de menu entretien dont le locataire est tenu, s'il n'y a clause contraire, sont celles désignées comme telles par l'usage des lieux, et, entre autres, les réparations à faire :  
 
@@ -383,7 +383,7 @@ Aux portes, croisées, planches de cloison ou de fermeture de boutiques, gonds, 
 - Identifiant : LEGIARTI000006443127
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443127
-- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561389) ; [art. R353-158 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023816377)
+- Cité par : [art. Annexe 2 au III art R353-159 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/annexes/convention-conclue-entre-l-etat-l-organisme-proprietaire-et-l-organisme-2.md#article-annexe-2-au-iii-art-r353-159) ; [art. R353-158 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-v/chapitre-iii.md#article-r353-158)
 
 Aucune des réparations réputées locatives n'est à la charge des locataires quand elles ne sont occasionnées que par vétusté ou force majeure.
 
@@ -457,7 +457,7 @@ En cas de contravention, le propriétaire a droit de rentrer en jouissance, et l
 - Identifiant : LEGIARTI000006443236
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443236
-- Cité par : [art. L411-18 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583756)
+- Cité par : [art. L411-18 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-18)
 
 Si, dans un bail à ferme, on donne aux fonds une contenance moindre ou plus grande que celle qu'ils ont réellement, il n'y a lieu à augmentation ou diminution de prix pour le fermier, que dans les cas et suivant les règles exprimées au titre " De la vente ".
 
@@ -466,7 +466,7 @@ Si, dans un bail à ferme, on donne aux fonds une contenance moindre ou plus gra
 - État : en vigueur depuis le 06/08/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029336825
 - Renvoie à : [art. 1764 du Code civil](chapitre-ii.md#article-1764)
-- Cité par : [art. L411-29 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583775) ; [art. L411-27 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029593452)
+- Cité par : [art. L411-27 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-27) ; [art. L411-29 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-29)
 
 Si le preneur d'un héritage rural ne le garnit pas des bestiaux et des ustensiles nécessaires à son exploitation, s'il abandonne la culture, s'il ne cultive pas raisonnablement, s'il emploie la chose louée à un autre usage que celui auquel elle a été destinée, ou, en général, s'il n'exécute pas les clauses du bail, et qu'il en résulte un dommage pour le bailleur, celui-ci peut, suivant les circonstances, faire résilier le bail.  
 
@@ -476,7 +476,7 @@ En cas de résiliation provenant du fait du preneur, celui-ci est tenu des domma
 - Identifiant : LEGIARTI000006443255
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443255
-- Cité par : [art. L411-27 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022494602)
+- Cité par : [art. L411-27 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-27)
 
 Tout preneur de bien rural est tenu d'engranger dans les lieux à ce destinés d'après le bail.
 
@@ -484,7 +484,7 @@ Tout preneur de bien rural est tenu d'engranger dans les lieux à ce destinés d
 - Identifiant : LEGIARTI000006443264
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443264
-- Cité par : [art. L411-26 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583767)
+- Cité par : [art. L411-26 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-26)
 
 Le preneur d'un bien rural est tenu, sous peine de tous dépens, dommages et intérêts, d'avertir le propriétaire des usurpations qui peuvent être commises sur les fonds.  
 
@@ -494,7 +494,7 @@ Cet avertissement doit être donné dans le même délai que celui qui est régl
 - Identifiant : LEGIARTI000006443280
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443280
-- Cité par : [art. L411-24 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045296900)
+- Cité par : [art. L411-24 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-24)
 
 Si le bail est fait pour plusieurs années, et que, pendant la durée du bail, la totalité ou la moitié d'une récolte au moins soit enlevée par des cas fortuits, le fermier peut demander une remise du prix de sa location, à moins qu'il ne soit indemnisé par les récoltes précédentes.  
 
@@ -540,7 +540,7 @@ Elle ne s'entend pas des cas fortuits extraordinaires, tels que les ravages de l
 - Identifiant : LEGIARTI000006443321
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443321
-- Cité par : [art. 1775 du Code civil](chapitre-ii.md#article-1775) ; [art. L411-3 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022658239)
+- Cité par : [art. 1775 du Code civil](chapitre-ii.md#article-1775) ; [art. L411-3 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-3)
 
 Le bail, sans écrit, d'un fonds rural, est censé fait pour le temps qui est nécessaire afin que le preneur recueille tous les fruits de l'héritage affermé.  
 
@@ -553,7 +553,7 @@ Le bail des terres labourables, lorsqu'elles se divisent par soles ou saisons, e
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443330
 - Renvoie à : [art. 1774 du Code civil](chapitre-ii.md#article-1774)
-- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. L411-52 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583824)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. L411-52 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-52)
 
 Le bail des héritages ruraux quoique fait sans écrit, ne cesse à l'expiration du terme fixé par l'article précédent, que par l'effet d'un congé donné par écrit par l'une des parties à l'autre, six mois au moins avant ce terme.  
 
@@ -565,7 +565,7 @@ Il en est de même si, à l'expiration des baux écrits, le preneur reste et est
 - Identifiant : LEGIARTI000006443341
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443341
-- Cité par : [art. L415-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583907)
+- Cité par : [art. L415-1 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-v.md#article-l415-1)
 
 Le fermier sortant doit laisser à celui qui lui succède dans la culture, les logements convenables et autres facilités pour les travaux de l'année suivante ; et réciproquement, le fermier entrant doit procurer à celui qui sort les logements convenables et autres facilités pour la consommation des fourrages, et pour les récoltes restant à faire.  
 
@@ -575,6 +575,6 @@ Dans l'un et l'autre cas, on doit se conformer à l'usage des lieux.
 - Identifiant : LEGIARTI000006443351
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443351
-- Cité par : [art. L415-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583909)
+- Cité par : [art. L415-2 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-v.md#article-l415-2)
 
 Le fermier sortant doit aussi laisser les pailles et engrais de l'année, s'il les a reçus lors de son entrée en jouissance ; et quand même il ne les aurait pas reçus, le propriétaire pourra les retenir suivant l'estimation.

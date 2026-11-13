@@ -48,7 +48,7 @@ Relèvent de la section de l'encadrement les affaires dont le salarié partie au
 - Identifiant : LEGIARTI000032344951
 - État : en vigueur depuis le 01/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032344951
-- Cité par : [art. L1441-4 du Code du travail](../titre-iv/chapitre-ier.md#article-l1441-4) ; [art. D311-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011)
+- Cité par : [art. D311-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) ; [art. L1441-4 du Code du travail](../titre-iv/chapitre-ier.md#article-l1441-4)
 
 Un décret fixe, pour chaque conseil de prud'hommes, le nombre de conseillers à nommer par collège dans les différentes sections.
 

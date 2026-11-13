@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Deuxième partie : Les relations c
 - Identifiant : LEGIARTI000043672759
 - État : en vigueur depuis le 18/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043672759
-- Renvoie à : art. L911-1 du Code de la sécurité sociale
+- Renvoie à : [art. L911-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-1)
 - Cité par : [art. R2272-4 du Code du travail](chapitre-ii.md#article-r2272-4) ; [art. R2272-4-1 du Code du travail](chapitre-ii.md#article-r2272-4-1) ; [art. R2272-8 du Code du travail](chapitre-ii.md#article-r2272-8) ; [art. R2272-15-2 du Code du travail](chapitre-ii.md#article-r2272-15-2)
 
 I. - La Commission nationale de la négociation collective, de l'emploi et de la formation professionnelle comprend :  
@@ -168,7 +168,7 @@ IV. - Un représentant suppléant est nommé, dans les mêmes conditions que les
 - Identifiant : LEGIARTI000047171312
 - État : en vigueur depuis le 17/02/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047171312
-- Renvoie à : [art. L2261-32 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l2261-32) ; [art. L2271-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l2271-1) ; [art. R*3231-1 du Code du travail](../../../troisieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-r3231-1) ; [art. L911-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745462)
+- Renvoie à : [art. L911-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-1) ; [art. L2261-32 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-vi/chapitre-ier.md#article-l2261-32) ; [art. L2271-1 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l2271-1) ; [art. R*3231-1 du Code du travail](../../../troisieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-r3231-1)
 - Cité par : [art. D2261-15 du Code du travail](../titre-vi/chapitre-ier.md#article-d2261-15) ; [art. R2272-12 du Code du travail](chapitre-ii.md#article-r2272-12) ; [art. R2272-14 du Code du travail](chapitre-ii.md#article-r2272-14) ; [art. R2272-15-1 du Code du travail](chapitre-ii.md#article-r2272-15-1) ; [art. R2272-15-2 du Code du travail](chapitre-ii.md#article-r2272-15-2) ; [art. R2272-16 du Code du travail](chapitre-ii.md#article-r2272-16) ; [art. R2272-17 du Code du travail](chapitre-ii.md#article-r2272-17) ; [Décret n°2021-768 du 16 juin 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043670043)
 
 Les missions dévolues à la Commission nationale peuvent être exercées par six sous-commissions :
@@ -231,7 +231,7 @@ La sous-commission des salaires constitue un comité chargé de faire un examen 
 - Identifiant : LEGIARTI000043672716
 - État : en vigueur depuis le 18/06/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043672716
-- Renvoie à : [art. R2272-10 du Code du travail](chapitre-ii.md#article-r2272-10) ; [art. L911-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006745462)
+- Renvoie à : [art. L911-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-1) ; [art. R2272-10 du Code du travail](chapitre-ii.md#article-r2272-10)
 - Cité par : [art. R2272-12 du Code du travail](chapitre-ii.md#article-r2272-12) ; [art. R2272-13 du Code du travail](chapitre-ii.md#article-r2272-13)
 
 La sous-commission des conventions et accords, réunie en formation spécifique en application du 1° de l'article R. 2272-10, est composée comme suit :

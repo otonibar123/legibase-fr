@@ -14,7 +14,7 @@ Le fait de méconnaître les dispositions des articles L. 3162-1 et L. 3162-2, r
 - Identifiant : LEGIARTI000018534006
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534006
-- Renvoie à : [art. L3162-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l3162-3) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368)
+- Renvoie à : [art. L3162-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l3162-3) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11)
 
 Le fait d'employer un jeune travailleur pendant une période de travail effectif ininterrompue de plus de quatre heures et demie, en méconnaissance des dispositions de l'article L. 3162-3, est puni de l'amende prévue pour les contraventions de la cinquième classe, prononcée autant de fois qu'il y a de salariés concernés par l'infraction.
 
@@ -34,7 +34,7 @@ Le fait de méconnaître les dispositions de l'article L. 3164-5, relatives au t
 - Identifiant : LEGIARTI000018534002
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534002
-- Renvoie à : [art. L3164-6 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-6) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368)
+- Renvoie à : [art. L3164-6 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-6) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11)
 
 Le fait de faire travailler un jeune travailleur un jour de fête reconnu par la loi, en méconnaissance des dispositions de l'article L. 3164-6, et des décrets pris pour son application est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
@@ -44,7 +44,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000018534000
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534000
-- Renvoie à : [art. L3164-7 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-7) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368)
+- Renvoie à : [art. L3164-7 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-7) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11)
 
 Le fait d'employer un jeune travailleur tous les jours de la semaine et de ne pas lui accorder le repos minimal, en méconnaissance des dispositions de l'article L. 3164-7, et des décrets pris pour leur application, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
@@ -62,7 +62,7 @@ Le fait de méconnaître les dispositions de l'article L. 3164-8, relatives aux 
 - Identifiant : LEGIARTI000018533996
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533996
-- Renvoie à : [art. L3164-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-1) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L3164-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-1) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de méconnaître les dispositions de l'article L. 3164-1, relatives à la durée minimale du repos quotidien des jeunes travailleurs, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 

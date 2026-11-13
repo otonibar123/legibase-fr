@@ -54,7 +54,7 @@ Les membres associés prennent part aux délibérations avec voix consultative e
 - Identifiant : LEGIARTI000039471685
 - État : en vigueur depuis le 11/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039471685
-- Cité par : [art. R910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-r910-1) ; [art. R4424-43 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126853)
+- Cité par : [art. R910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-r910-1) ; [art. R4424-43 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-43)
 
 Les établissements publics du réseau des chambres de commerce et d'industrie peuvent délivrer des certificats pour attester de l'origine prévue par le code des douanes de l'Union européenne, par la convention de Genève pour la simplification des formalités douanières du 3 novembre 1923 et par la convention internationale de Kyoto pour la simplification et l'harmonisation des régimes douaniers du 18 juin 1974.
 
@@ -64,7 +64,7 @@ Chaque année les établissements publics du réseau des chambres de commerce et
 - Identifiant : LEGIARTI000023160664
 - État : en vigueur depuis le 03/12/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023160664
-- Cité par : [art. R4424-43 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126853)
+- Cité par : [art. R4424-43 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-43)
 
 Les établissements du réseau des chambres de commerce et d'industrie peuvent correspondre directement entre eux et avec les pouvoirs publics de leur circonscription pour toutes les questions relatives aux intérêts de l'industrie, du commerce et des services.
 
@@ -72,7 +72,7 @@ Les établissements du réseau des chambres de commerce et d'industrie peuvent c
 - Identifiant : LEGIARTI000043308029
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043308029
-- Cité par : [art. D917-3 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-d917-3) ; [art. D4424-44 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126844) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
+- Cité par : [art. D917-3 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-d917-3) ; [art. D4424-44 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-d4424-44) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 Les chambres de commerce et d'industrie ont notamment une mission de service aux créateurs et repreneurs d'entreprises et aux entreprises industrielles, commerciales et de services de leur circonscription.
 
@@ -86,7 +86,7 @@ Elles peuvent également créer et assurer directement d'autres dispositifs de c
 - Identifiant : LEGIARTI000042425891
 - État : en vigueur depuis le 16/10/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042425891
-- Cité par : [art. R711-55 du Code de commerce](chapitre-ier.md#article-r711-55) ; [art. D4424-44 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126844)
+- Cité par : [art. R711-55 du Code de commerce](chapitre-ier.md#article-r711-55) ; [art. D4424-44 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-d4424-44)
 
 Dans le cadre de leurs attributions, les chambres de commerce et d'industrie territoriales et les chambres de commerce et d'industrie de région sont autorités compétentes en application de l'article 32 de la loi n° 2010-853 du 23 juillet 2010 relative aux réseaux consulaires, au commerce, à l'artisanat et aux services. Elles coopèrent à ce titre avec les autorités compétentes des autres Etats membres de l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen.
 
@@ -435,7 +435,7 @@ La persistance de la situation mentionnée à l'alinéa précédent peut être c
 - Identifiant : LEGIARTI000033739553
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033739553
-- Renvoie à : [art. L711-8 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. R711-18 du Code de commerce](chapitre-ier.md#article-r711-18) ; [art. R711-20 du Code de commerce](chapitre-ier.md#article-r711-20) ; art. L4251-1 du Code général des collectivités territoriales
+- Renvoie à : [art. L711-8 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. R711-18 du Code de commerce](chapitre-ier.md#article-r711-18) ; [art. R711-20 du Code de commerce](chapitre-ier.md#article-r711-20) ; [art. L4251-1 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/quatrieme-partie/livre-ii/titre-v/chapitre-ier.md#article-l4251-1)
 - Cité par : [art. R711-38 du Code de commerce](chapitre-ier.md#article-r711-38) ; [Décret n°2025-864 du 30 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052171659) ; [Décret n°2025-865 du 30 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052171686) ; [Décret n°2025-866 du 30 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052171700) ; [Décret n°2025-867 du 30 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052171713) ; [Décret n°2025-868 du 30 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052171727)
 
 Le schéma directeur de la chambre de commerce et d'industrie de région, défini au 2° de l'article L. 711-8, détermine les limites administratives des chambres de commerce et d'industrie qui lui sont rattachées et, le cas échéant, celles des délégations des chambres de commerce et d'industrie territoriales.
@@ -479,7 +479,7 @@ La révision du schéma directeur s'opère dans les mêmes conditions.
 - Identifiant : LEGIARTI000033739520
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033739520
-- Renvoie à : [art. L710-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/articles-directs.md#article-l710-1) ; [art. L711-8 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. L711-12 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-12) ; [art. L711-16 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-16) ; art. L4251-13 du Code général des collectivités territoriales
+- Renvoie à : [art. L710-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/articles-directs.md#article-l710-1) ; [art. L711-8 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-8) ; [art. L711-12 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-12) ; [art. L711-16 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-16) ; [art. L4251-13 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/quatrieme-partie/livre-ii/titre-v/chapitre-ier-bis.md#article-l4251-13)
 
 Les schémas sectoriels mentionnés au 3° de l'article L. 711-8 s'inscrivent dans le cadre de la stratégie régionale. Ils indiquent l'implantation de tous les établissements, infrastructures, équipements et services gérés par les chambres de commerce et d'industrie de la région concernée.
 
@@ -524,7 +524,7 @@ La chambre de commerce et d'industrie de région transmet pour information au pr
 - Identifiant : LEGIARTI000039471776
 - État : en vigueur depuis le 11/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039471776
-- Renvoie à : [art. D711-42 du Code de commerce](chapitre-ier.md#article-d711-42) ; [art. L711-12 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-12) ; [art. L711-16 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-16) ; art. L4251-18 du Code général des collectivités territoriales
+- Renvoie à : [art. D711-42 du Code de commerce](chapitre-ier.md#article-d711-42) ; [art. L711-12 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-12) ; [art. L711-16 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-ier.md#article-l711-16) ; [art. L4251-18 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/quatrieme-partie/livre-ii/titre-v/chapitre-ier-bis.md#article-l4251-18)
 
 Les schémas sectoriels sont révisés dans les mêmes conditions que celles prévues à l'article R. 711-42 :
 
@@ -825,7 +825,7 @@ En cours de mandature, le président de CCI France peut proposer à l'assemblée
 - État : en vigueur depuis le 17/05/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030610362
 - Renvoie à : [Constitution du 4 octobre 1958, art. 74](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527584)
-- Cité par : [art. R711-58 du Code de commerce](chapitre-ier.md#article-r711-58) ; [art. R4424-43 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126853)
+- Cité par : [art. R711-58 du Code de commerce](chapitre-ier.md#article-r711-58) ; [art. R4424-43 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-43)
 
 Le comité directeur se compose :
 
@@ -862,7 +862,7 @@ CCI France se réunit en outre en assemblée générale extraordinaire soit à l
 - État : en vigueur depuis le 11/12/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039471884
 - Renvoie à : [art. R711-57 du Code de commerce](chapitre-ier.md#article-r711-57) ; [art. R713-66 du Code de commerce](chapitre-iii.md#article-r713-66)
-- Cité par : [art. R4424-43 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126853)
+- Cité par : [art. R4424-43 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-43)
 
 I.-Les droits de vote à l'assemblée générale se définissent comme suit :
 
@@ -1260,7 +1260,7 @@ Il est réputé approuvé si une décision contraire motivée de l'autorité de 
 - Identifiant : LEGIARTI000033739436
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033739436
-- Cité par : [art. D4424-54 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126807)
+- Cité par : [art. D4424-54 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-d4424-54)
 
 Les établissements publics du réseau des chambres de commerce et d'industrie peuvent par clause compromissoire ou par compromis soumettre à arbitrage tout litige né d'un contrat qu'ils ont conclu et les opposant à l'un de leurs cocontractants.
 
@@ -1275,7 +1275,7 @@ La clause compromissoire et le compromis sont conclus par écrit par l'autorité
 - Identifiant : LEGIARTI000017961058
 - État : en vigueur depuis le 06/01/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017961058
-- Cité par : [art. D4424-54 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126807)
+- Cité par : [art. D4424-54 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-d4424-54)
 
 La clause compromissoire ou le compromis désigne le ou les arbitres ou définit les modalités de choix du ou des arbitres, qui doivent garantir l'impartialité de ceux-ci, les modalités de leur rémunération, les délais dans lesquels le tribunal arbitral doit statuer et les conditions de publication de la sentence arbitrale.
 
@@ -1295,7 +1295,7 @@ Les contrats comprenant des clauses compromissoires et les compromis conclus par
 - Identifiant : LEGIARTI000030776600
 - État : en vigueur depuis le 26/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030776600
-- Cité par : [art. R711-77 du Code de commerce](chapitre-ier.md#article-r711-77) ; [art. R4424-43 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126853)
+- Cité par : [art. R711-77 du Code de commerce](chapitre-ier.md#article-r711-77) ; [art. R4424-43 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-43)
 
 Sont électeurs au conseil d'administration ou de surveillance d'un établissement d'enseignement supérieur consulaire :
 

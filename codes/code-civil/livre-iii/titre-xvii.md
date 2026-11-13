@@ -47,7 +47,7 @@ En cas d'urgence, la convention ne fait pas obstacle à ce que des mesures provi
 - Identifiant : LEGIARTI000044570055
 - État : en vigueur depuis le 24/12/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570055
-- Renvoie à : art. L111-3 du Code des procédures civiles d'exécution
+- Renvoie à : [art. L111-3 du Code des procédures civiles d'exécution](../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-3)
 - Cité par : [art. 2067 du Code civil](titre-xvii.md#article-2067) ; [art. 1529 du Code de procédure civile](../../code-de-procedure-civile/livre-v/titre-ier.md#article-1529) ; [art. 1540 du Code de procédure civile](../../code-de-procedure-civile/livre-v/titre-iii/chapitre-iii.md#article-1540)
 
 Sans préjudice du 7° de l'article L. 111-3 du code des procédures civiles d'exécution, les parties qui, au terme de la convention de procédure participative, parviennent à un accord réglant en tout ou partie leur différend peuvent soumettre cet accord à l'homologation du juge.

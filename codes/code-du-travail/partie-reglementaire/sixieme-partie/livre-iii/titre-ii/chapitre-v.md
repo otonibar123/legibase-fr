@@ -76,7 +76,7 @@ Toutefois, l'employeur peut, notamment en l'absence d'un salarié qualifié rép
 - Identifiant : LEGIARTI000018523017
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018523017
-- Cité par : [art. D6325-10 du Code du travail](chapitre-v.md#article-d6325-10) ; [art. D6325-22 du Code du travail](chapitre-v.md#article-d6325-22) ; [art. A212-28 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019263137)
+- Cité par : [art. A212-28 du Code du sport](../../../../../code-du-sport/partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md#article-a212-28) ; [art. D6325-10 du Code du travail](chapitre-v.md#article-d6325-10) ; [art. D6325-22 du Code du travail](chapitre-v.md#article-d6325-22)
 
 Les missions du tuteur sont les suivantes :  
 1° Accueillir, aider, informer et guider les bénéficiaires du contrat de professionnalisation ;  
@@ -372,7 +372,7 @@ Dès sa conclusion, la convention est adressée par l'employeur à l'établissem
 - État : en vigueur depuis le 06/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050744400
 - Renvoie à : [art. L6325-25 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l6325-25)
-- Cité par : [art. R6325-33-1 du Code du travail](chapitre-v.md#article-r6325-33-1) ; [art. R6325-35 du Code du travail](chapitre-v.md#article-r6325-35) ; [art. A212-45-2 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049530048)
+- Cité par : [art. A212-45-2 du Code du sport](../../../../../code-du-sport/partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md#article-a212-45-2) ; [art. R6325-33-1 du Code du travail](chapitre-v.md#article-r6325-33-1) ; [art. R6325-35 du Code du travail](chapitre-v.md#article-r6325-35)
 
 La convention conclue en application du 1° du II de l'article L. 6325-25, entre le bénéficiaire du contrat de professionnalisation et ses représentants légaux pour les mineurs, l'employeur en France, l'organisme de formation en France et la ou les structures d'accueil à l'étranger, employeur ou organisme de formation, précise, notamment :  
 
@@ -427,7 +427,7 @@ Cette convention comporte, en outre, l'ensemble des informations énumérées à
 - État : en vigueur depuis le 06/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050744395
 - Renvoie à : [art. L6325-25 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-v.md#article-l6325-25)
-- Cité par : [art. R6325-35 du Code du travail](chapitre-v.md#article-r6325-35) ; [art. A212-45-2 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049530048)
+- Cité par : [art. A212-45-2 du Code du sport](../../../../../code-du-sport/partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md#article-a212-45-2) ; [art. R6325-35 du Code du travail](chapitre-v.md#article-r6325-35)
 
 La convention conclue en application du 2° du II de l'article L. 6325-25, entre le bénéficiaire du contrat de professionnalisation et ses représentants légaux pour les mineurs, l'employeur en France, l'organisme de formation en France et la ou les structures d'accueil à l'étranger, employeur ou organisme de formation, précise, notamment :  
 

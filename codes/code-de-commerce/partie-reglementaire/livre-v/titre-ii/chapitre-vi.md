@@ -39,7 +39,7 @@ Conformément aux dispositions de l'article R. 123-45 et du 2° de l'article R. 
 - État : en vigueur depuis le 01/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039144869
 - Renvoie à : [art. 388-1-2 du Code civil](../../../../code-civil/livre-ier/titre-x/chapitre-ier.md#article-388-1-2) ; [art. D123-235 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-d123-235) ; [art. L526-7 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7) ; [art. L526-9 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-9)
-- Cité par : [art. R123-37 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-37) ; [art. R123-121-2 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-121-2) ; [art. R134-5 du Code de commerce](../../livre-ier/titre-iii/chapitre-iv.md#article-r134-5) ; [art. R526-11 du Code de commerce](chapitre-vi.md#article-r526-11) ; [art. R526-16 du Code de commerce](chapitre-vi.md#article-r526-16) ; [art. R526-18 du Code de commerce](chapitre-vi.md#article-r526-18) ; [art. R955-2 du Code de commerce](../../livre-ix/titre-v/chapitre-v.md#article-r955-2) ; [Arrêté du 5 mai 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023959176) ; [art. R311-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045703503) ; [Décret n° 98-247 du 2 avril 1998, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034772035) ; [Décret n°98-247 du 2 avril 1998, art. 10 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032204937)
+- Cité par : [art. R123-37 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-37) ; [art. R123-121-2 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-121-2) ; [art. R134-5 du Code de commerce](../../livre-ier/titre-iii/chapitre-iv.md#article-r134-5) ; [art. R526-11 du Code de commerce](chapitre-vi.md#article-r526-11) ; [art. R526-16 du Code de commerce](chapitre-vi.md#article-r526-16) ; [art. R526-18 du Code de commerce](chapitre-vi.md#article-r526-18) ; [art. R955-2 du Code de commerce](../../livre-ix/titre-v/chapitre-v.md#article-r955-2) ; [Arrêté du 5 mai 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023959176) ; [art. R311-2 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045703503) ; [Décret n° 98-247 du 2 avril 1998, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034772035) ; [Décret n°98-247 du 2 avril 1998, art. 10 bis](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032204937)
 
 La déclaration d'affectation mentionnée à l'article L. 526-7 contient les informations suivantes :
 
@@ -102,7 +102,7 @@ L'organisme unique mentionné à l'article R. 123-1 met, gratuitement et par voi
 - Identifiant : LEGIARTI000039144887
 - État : en vigueur depuis le 01/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039144887
-- Renvoie à : [art. L123-28 du Code de commerce](../../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-28) ; [art. L526-7 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7) ; [art. L526-14 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-14)
+- Renvoie à : [art. L123-28 du Code de commerce](../../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-28) ; [art. L526-7 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-7) ; [art. L526-14 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-14) ; [art. 50-0 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-50-0) ; [art. 102 ter du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-102-ter)
 - Cité par : [art. A526-3 du Code de commerce](../../../partie-arretes/livre-v/titre-ii/chapitre-vi.md#article-a526-3) ; [art. Annexe I du Code de commerce](../../../partie-arretes/livre-viii/annexes-partie-a-livre-viii/annexe-8-2-annexe-a-l-article-a-814-1.md#article-annexe-i) ; [Arrêté du 25 septembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039141115) ; [Arrêté du 28 septembre 2011](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000024660349)
 
 Les personnes ayant effectué une déclaration d'affectation en application de l'article L. 526-7 et bénéficiant des régimes prévus aux articles 50-0, 64 bis et 102 ter du code général des impôts tiennent :
@@ -306,7 +306,7 @@ Pour l'application des dispositions de cet article, les attributions du juge com
 - Identifiant : LEGIARTI000043292527
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043292527
-- Renvoie à : art. L613-4 du Code de la sécurité sociale
+- Renvoie à : [art. L613-4 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-i/chapitre-3.md#article-l613-4)
 
 La désaffiliation de l'entrepreneur individuel à responsabilité limitée de l'organisme de sécurité sociale dont il relève prononcée en application des deux premiers alinéas de l'article L. 613-4 du code de la sécurité sociale emporte sa radiation du registre spécial auquel il est immatriculé.  
 
@@ -320,7 +320,7 @@ Le greffier procède d'office à la radiation du registre spécial mentionné au
 - Identifiant : LEGIARTI000045697812
 - État : en vigueur depuis le 15/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045697812
-- Renvoie à : art. L613-10 du Code de la sécurité sociale
+- Renvoie à : [art. L613-10 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-i/chapitre-3.md#article-l613-10)
 - Cité par : [Arrêté du 12 mai 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000045793529)
 
 I.-Pour l'application du deuxième alinéa de l'article L. 526-22, les biens, droits, obligations et sûretés dont l'entrepreneur individuel est titulaire, utiles à l'activité professionnelle, s'entendent de ceux qui, par nature, par destination ou en fonction de leur objet, servent à cette activité, tels que :  
@@ -358,7 +358,7 @@ Au sens et pour l'application de l'article L. 526-23, à défaut d'immatriculati
 - Identifiant : LEGIARTI000045793493
 - État : en vigueur depuis le 15/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045793493
-- Renvoie à : [art. L526-25 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-25) ; art. L511-1 du Code monétaire et financier
+- Renvoie à : [art. L526-25 du Code de commerce](../../../partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-25) ; [art. L511-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1)
 
 I.-A peine de nullité, l'acte de renonciation prévu par l'article L. 526-25 du code de commerce contient les informations suivantes concernant l'entrepreneur individuel renonçant à la protection de son patrimoine personnel et le bénéficiaire de la renonciation :  
 
@@ -414,7 +414,7 @@ V.-A peine de nullité, l'entrepreneur individuel et le bénéficiaire de la ren
 - Identifiant : LEGIARTI000045793495
 - État : en vigueur depuis le 15/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045793495
-- Renvoie à : art. L511-1 du Code monétaire et financier
+- Renvoie à : [art. L511-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1)
 
 Un modèle type d'acte de renonciation est approuvé par arrêté du ministre chargé de l'économie.  
 

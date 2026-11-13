@@ -21,8 +21,8 @@ La propriété s'acquiert aussi par accession ou incorporation, et par prescript
 - Identifiant : LEGIARTI000045211894
 - État : en vigueur depuis le 23/02/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045211894
-- Renvoie à : art. L322-1 du Code de l'environnement
-- Cité par : [art. L1123-2 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361151) ; [art. L2222-20 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045211937) ; [Décret n°2004-490 du 3 juin 2004, art. 63](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034023465) ; [Livre des procédures fiscales, art. L106](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039280712)
+- Renvoie à : [art. L322-1 du Code de l'environnement](../../code-de-l-environnement/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-1) ; [art. L414-11 du Code de l'environnement](../../code-de-l-environnement/partie-legislative/livre-iv/titre-ier/chapitre-iv.md#article-l414-11)
+- Cité par : [art. L1123-2 du Code général de la propriété des personnes publiques](../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iii.md#article-l1123-2) ; [art. L2222-20 du Code général de la propriété des personnes publiques](../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l2222-20) ; [Livre des procédures fiscales, art. L106](../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-ii/chapitre-iii.md#article-l106) ; [Décret n°2004-490 du 3 juin 2004, art. 63](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034023465)
 
 Les biens qui n'ont pas de maître appartiennent à la commune sur le territoire de laquelle ils sont situés. Par délibération du conseil municipal, la commune peut renoncer à exercer ses droits, sur tout ou partie de son territoire, au profit de l'établissement public de coopération intercommunale à fiscalité propre dont elle est membre. Les biens sans maître sont alors réputés appartenir à l'établissement public de coopération intercommunale à fiscalité propre.
 
@@ -52,7 +52,7 @@ La faculté de chasser ou de pêcher est également réglée par des lois partic
 - Identifiant : LEGIARTI000006430628
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430628
-- Cité par : [art. L541-4 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032857657)
+- Cité par : [art. L541-4 du Code du patrimoine](../../code-du-patrimoine/partie-legislative/livre-v/titre-iv/chapitre-1er.md#article-l541-4)
 
 La propriété d'un trésor appartient à celui qui le trouve dans son propre fonds ; si le trésor est trouvé dans le fonds d'autrui, il appartient pour moitié à celui qui l'a découvert, et pour l'autre moitié au propriétaire du fonds.  
 

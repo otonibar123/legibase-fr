@@ -238,7 +238,7 @@ Si l'un des éléments retenus pour le calcul de la clause d'échelle mobile vie
 - Identifiant : LEGIARTI000039346078
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039346078
-- Cité par : [art. R145-1 du Code de commerce](chapitre-v.md#article-r145-1) ; [art. R213-2 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039066777)
+- Cité par : [art. R145-1 du Code de commerce](chapitre-v.md#article-r145-1) ; [art. R213-2 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-r213-2)
 
 Les contestations relatives à la fixation du prix du bail révisé ou renouvelé sont portées, quel que soit le montant du loyer, devant le président du tribunal judiciaire ou le juge qui le remplace. Il est statué sur mémoire.  
 
@@ -377,7 +377,7 @@ En cas d'appel, les dispositions des articles R. 145-31 et R. 145-32 sont applic
 - Identifiant : LEGIARTI000025731124
 - État : en vigueur depuis le 22/04/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025731124
-- Renvoie à : art. L125-9 du Code de l'environnement
+- Renvoie à : [art. L125-9 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-9)
 
 Le contenu de l'annexe environnementale mentionnée à l'article L. 125-9 du code de l'environnement est défini aux articles R. 137-1 à R. 137-3 du code de la construction et de l'habitation.
 

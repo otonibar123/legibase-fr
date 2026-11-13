@@ -20,7 +20,7 @@ Le délai de recours par une voie ordinaire suspend l'exécution du jugement. Le
 - Identifiant : LEGIARTI000039725883
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039725883
-- Cité par : [art. R222-4 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039344175) ; [Décret n°2011-945 du 10 août 2011, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024465142)
+- Cité par : [art. R222-4 du Code du patrimoine](../../../../code-du-patrimoine/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-4) ; [Décret n°2011-945 du 10 août 2011, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024465142)
 
 Si le jugement a été rendu par défaut ou s'il est réputé contradictoire, le juge a la faculté de relever le défendeur de la forclusion résultant de l'expiration du délai si le défendeur, sans qu'il y ait eu faute de sa part, n'a pas eu connaissance du jugement en temps utile pour exercer son recours, ou s'il s'est trouvé dans l'impossibilité d'agir.
 

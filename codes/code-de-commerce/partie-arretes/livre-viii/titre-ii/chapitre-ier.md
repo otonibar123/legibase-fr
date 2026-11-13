@@ -14,7 +14,7 @@ Code de commerce › Partie Arrêtés › LIVRE VIII : De quelques professions r
 - Identifiant : LEGIARTI000048932992
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048932992
-- Renvoie à : art. L114 du Code de l'action sociale et des familles ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 - Cité par : [Arrêté du 27 janvier 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053418561)
 
 I.-Le certificat préparatoire aux fonctions de commissaire aux comptes prévu à l'article R. 821-45 est organisé chaque année. Sont admises à se présenter au certificat préparatoire aux fonctions de commissaire aux comptes :  
@@ -67,7 +67,7 @@ VI.-Les résultats sont affichés par les soins du jury et notifiés aux candida
 - Identifiant : LEGIARTI000054216110
 - État : en vigueur depuis le 08/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054216110
-- Renvoie à : art. L114 du Code de l'action sociale et des familles ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 
 Le certificat d'aptitude prévu à l'article R. 821-45 est organisé chaque année.  
 
@@ -415,7 +415,7 @@ L'organisation matérielle de cette épreuve est confiée à la Compagnie nation
 - Identifiant : LEGIARTI000048872066
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048872066
-- Renvoie à : art. L114 du Code de l'action sociale et des familles ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 
 Les personnes de nationalité française et les ressortissants d'un autre Etat membre de l'Union européenne adressent au garde des sceaux, ministre de la justice, au plus tard le 30 avril, un dossier en double exemplaire comprenant :  
 
@@ -546,7 +546,7 @@ Une copie de cette attestation est remise au stagiaire.
 - Identifiant : LEGIARTI000053638591
 - État : en vigueur depuis le 09/03/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053638591
-- Renvoie à : [art. A821-33 du Code de commerce](chapitre-ier.md#article-a821-33) ; [art. L821-13 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-13) ; [art. L821-18 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-18) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. R821-51 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md#article-r821-51) ; art. L114 du Code de l'action sociale et des familles ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. A821-33 du Code de commerce](chapitre-ier.md#article-a821-33) ; [art. L821-13 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-13) ; [art. L821-18 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-18) ; [art. L822-4 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-4) ; [art. R821-51 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md#article-r821-51) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 - Cité par : [art. A822-8 du Code de commerce](chapitre-ii.md#article-a822-8) ; [art. Annexe 8-10 du Code de commerce](../annexes-partie-a-livre-viii/annexe-8-10.md#article-annexe-8-10) ; [Arrêté du 3 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054400658) ; [Arrêté du 5 août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054654010)
 
 I. - L'épreuve portant sur la mission de certification d'informations en matière de durabilité prévue au 3° du I de l'article L. 821-18 est organisée chaque année. Les candidats adressent à la Haute autorité de l'audit, entre le 1er avril et le 30 juin, un dossier comprenant :
@@ -605,7 +605,7 @@ L'organisation matérielle de cette épreuve est confiée à la Haute autorité 
 - Identifiant : LEGIARTI000048872265
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048872265
-- Renvoie à : [art. L821-18 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-18) ; art. L114 du Code de l'action sociale et des familles ; art. L146-9 du Code de l'action sociale et des familles
+- Renvoie à : [art. L821-18 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-18) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 
 Les personnes souhaitant bénéficier des dispositions du II de l'article L. 821-18 adressent au garde des sceaux, ministre de la justice, au plus tard le 30 avril, un dossier en double exemplaire comprenant :  
 
@@ -5794,7 +5794,7 @@ Documentation des travaux
 - Identifiant : LEGIARTI000054151234
 - État : en vigueur depuis le 20/11/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054151234
-- Renvoie à : art. L114-6 du Code de la sécurité sociale ; art. L114-8 du Code de la sécurité sociale ; art. L612-5-1 du Code de la sécurité sociale
+- Renvoie à : [art. D114-4-2 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-i/chapitre-4-bis.md#article-d114-4-2) ; [art. L114-6 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-i/chapitre-4-bis.md#article-l114-6) ; [art. L114-8 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-i/chapitre-4-bis.md#article-l114-8) ; [art. L114-10 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-i/chapitre-4-ter.md#article-l114-10) ; [art. L612-5-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-i/chapitre-2.md#article-l612-5-1) ; [art. R114-18 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-i/chapitre-4-ter.md#article-r114-18) ; [art. LO132-2-1 du Code des juridictions financières](../../../../code-des-juridictions-financieres/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-lo132-2-1) ; [art. R143-23 du Code des juridictions financières](../../../../code-des-juridictions-financieres/partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md#article-r143-23)
 
 La norme d'exercice professionnel relative à la certification des comptes des organismes nationaux de sécurité sociale, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :  
 
@@ -6272,7 +6272,7 @@ Forme et contenu de la partie du rapport sur les comptes relative à la vérific
 - Identifiant : LEGIARTI000050693580
 - État : en vigueur depuis le 01/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050693580
-- Renvoie à : [art. R821-180 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md#article-r821-180) ; art. L451-1-2 du Code monétaire et financier
+- Renvoie à : [art. R821-180 du Code de commerce](../../../partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md#article-r821-180) ; [art. L451-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 
 La norme d'exercice professionnel relative aux diligences du commissaire aux comptes relatives aux comptes annuels et consolidés présentés selon le format d'information électronique unique européen, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :
 
@@ -6408,7 +6408,7 @@ Co-commissariat aux comptes
 - Identifiant : LEGIARTI000048874825
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048874825
-- Renvoie à : [art. 2017 du Code civil](../../../../code-civil/livre-iii/titre-xiv.md#article-2017) ; art. D561-32-1 du Code monétaire et financier ; art. L561-2 du Code monétaire et financier ; art. L561-4-1 du Code monétaire et financier ; art. L561-15 du Code monétaire et financier ; art. L561-46 du Code monétaire et financier ; art. L574-1 du Code monétaire et financier ; art. R561-5-1 du Code monétaire et financier ; art. R561-5-2 du Code monétaire et financier ; art. R561-18 du Code monétaire et financier ; art. R561-20-4 du Code monétaire et financier ; … et 1 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+- Renvoie à : [art. 2017 du Code civil](../../../../code-civil/livre-iii/titre-xiv.md#article-2017) ; [art. D561-32-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-d561-32-1) ; [art. L561-4-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-vi/chapitre-ier.md#article-l561-4-1) ; [art. L561-15 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-vi/chapitre-ier.md#article-l561-15) ; [art. L574-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-vii/chapitre-iv.md#article-l574-1) ; [art. R561-5-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-5-1) ; [art. R561-5-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-5-2) ; [art. R561-18 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-18) ; [art. R561-20-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-20-4) ; [art. R561-31 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-31) ; art. L561-2 du Code monétaire et financier ; art. L561-46 du Code monétaire et financier
 
 La norme d'exercice professionnel relative aux obligations du commissaire aux comptes en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme, homologuée par le garde des sceaux, ministre de la justice, figure ci-dessous :  
 

@@ -1,0 +1,111 @@
+# Code de l'artisanat
+
+Dernière modification du texte dans LEGI : 11/12/2025. 392 articles en vigueur, répartis dans 67 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : ACTIVITÉS RELEVANT DU SECTEUR DES MÉTIERS ET DE L'ARTISANAT ET CONDITIONS DE LEUR EXERCICE**
+    - **Titre Ier : IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES**
+      - [Chapitre Ier : Principes généraux](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Droit de suite et reprise du fonds d'une entreprise du secteur des métiers et de l'artisanat](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+    - **Titre II : QUALIFICATION PROFESSIONNELLE EXIGÉE POUR L'EXERCICE DE CERTAINES ACTIVITÉS ET DISPOSITIONS PARTICULIÈRES À CERTAINES PROFESSIONS ARTISANALES**
+      - [Chapitre Ier : Activités soumises à l'exigence de qualification professionnelle](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Continuité de l'exploitation d'une activité soumise à l'exigence de qualification professionnelle](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions particulières relatives aux ressortissants des États membres de l'Union européenne ou d'un autre État partie à l'accord sur l'espace économique européen](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions particulières relatives aux ressortissants d'un État tiers](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions particulières à certaines professions artisanales](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (6 articles)
+    - **Titre III : CONDITIONS D'EXERCICE LIÉES AUX ACTIVITÉS ARTISANALES**
+      - [Chapitre Ier : Cumul d'une activité salariée et de micro-entrepreneur](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Mentions obligatoires sur les papiers d'affaires](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Fonds artisanal](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Coopératives artisanales et unions](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (32 articles)
+    - **Titre IV : ACTIONS COLLECTIVES DE COMMUNICATION**
+      - [Chapitre unique : Actions collectives de communication](partie-legislative/livre-ier/titre-iv/chapitre-unique.md) (6 articles)
+    - **Titre V : CONTRÔLES ET SANCTIONS**
+      - [Chapitre unique : Contrôles et sanctions](partie-legislative/livre-ier/titre-v/chapitre-unique.md) (5 articles)
+  - **Livre II : PERSONNES RELEVANT DU SECTEUR DES MÉTIERS ET DE L'ARTISANAT**
+    - **Titre Ier : QUALITÉ D'ARTISAN**
+      - [Chapitre Ier : Artisan](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Artisan d'art](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Artisan cuisinier](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Compagnon](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : TITRES**
+      - [Chapitre Ier : Maître artisan et maître artisan en métier d'art](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Maître restaurateur](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (1 article)
+    - [Titre III : CONJOINTS ET ASSOCIÉS DE L'ARTISAN](partie-legislative/livre-ii/titre-iii.md) (3 articles)
+    - **Titre IV : USAGE DU MOT ARTISAN, DE SES DÉRIVÉS ET AUTRES APPELLATIONS, MENTIONS ET LABELS**
+      - [Chapitre Ier : Usage du mot artisan et de ses dérivés](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Usage des autres appellations, mentions et labels](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (3 articles)
+    - **Titre V : CONCOURS FINANCIERS ET FORMATION PROFESSIONNELLE**
+      - [Chapitre Ier : Concours financiers](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Droit à la formation professionnelle](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (1 article)
+  - **Livre III : INSTITUTIONS DU SECTEUR DES MÉTIERS ET DE L'ARTISANAT**
+    - **Titre Ier : RÉSEAU DES CHAMBRES DE MÉTIERS ET DE L'ARTISANAT**
+      - [Chapitre Ier : Organisation et missions du réseau](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Règles générales à caractère administratif et financier applicables aux établissements du réseau](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (5 articles)
+    - **Titre II : CHAMBRES DE MÉTIERS ET DE L'ARTISANAT DE RÉGION**
+      - [Chapitre Ier : Organisation et attributions](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Élection des membres des chambres de métiers et de l'artisanat de région et de leurs chambres de niveau départemental](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Administration](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : CMA FRANCE**
+      - [Chapitre Ier : Organisation](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Attributions](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+  - **Livre V : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+    - **Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE**
+      - [Chapitre Ier : Dispositions communes](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions particulières à certaines collectivités](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (4 articles)
+    - **Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre Ier : Saint-Barthélemy](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Saint-Martin](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Saint-Pierre-et-Miquelon](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (6 articles)
+- **Partie réglementaire**
+  - **Livre Ier : ACTIVITÉS RELEVANT DU SECTEUR DES MÉTIERS ET DE L'ARTISANAT ET CONDITIONS DE LEUR EXERCICE**
+    - **Titre Ier : IMMATRICULATION AU REGISTRE NATIONAL DES ENTREPRISES**
+      - [Chapitre Ier : Principes généraux](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (2 articles)
+    - **Titre II : QUALIFICATION PROFESSIONNELLE EXIGÉE POUR L'EXERCICE DE CERTAINES ACTIVITÉS ET DISPOSITIONS PARTICULIÈRES À CERTAINES PROFESSIONS ARTISANALES**
+      - [Chapitre Ier : Activités soumises à l'exigence de qualification professionnelle](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre III : Dispositions particulières relatives aux ressortissants des Etats membres de l'Union européenne ou d'un autre état partie à l'accord sur l'espace économique européen](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (19 articles)
+      - [Chapitre IV : Dispositions particulières relatives aux ressortissants d'un Etat tiers](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Dispositions particulières à certaines professions artisanales](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (8 articles)
+    - **Titre III : CONDITIONS D'EXERCICE LIÉES AUX ACTIVITÉS ARTISANALES**
+      - [Chapitre II : Mentions obligatoires sur les papiers d'affaires](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre IV : Coopératives artisanales et unions](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (5 articles)
+    - **Titre IV : ACTIONS COLLECTIVES DE COMMUNICATION**
+      - [Chapitre unique : Actions collectives de communication](partie-reglementaire/livre-ier/titre-iv/chapitre-unique.md) (5 articles)
+    - **Titre V : CONTRÔLES ET SANCTIONS**
+      - [Chapitre unique : Contrôles et sanctions](partie-reglementaire/livre-ier/titre-v/chapitre-unique.md) (3 articles)
+  - **Livre II : PERSONNES RELEVANT DU SECTEUR DES MÉTIERS ET DE L'ARTISANAT**
+    - **Titre Ier : QUALITÉ D'ARTISAN**
+      - [Chapitre Ier : Artisan](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Artisan d'art](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Artisan cuisinier](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Compagnon](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Qualification artisanale des ressortissants d'un état membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (6 articles)
+    - **Titre II : TITRES**
+      - [Chapitre Ier : Maître artisan et maître artisan en métier d'art](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Maître restaurateur](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (1 article)
+    - **Titre IV : USAGE DU MOT ARTISAN, DE SES DÉRIVÉS ET AUTRES APPELLATIONS, MENTIONS ET LABELS**
+      - [Chapitre Ier : Usage du mot artisan et de ses dérivés](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (2 articles)
+    - **Titre V : CONCOURS FINANCIERS ET FORMATION PROFESSIONNELLE**
+      - [Chapitre Ier : Concours financiers](partie-reglementaire/livre-ii/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Droit à la formation professionnelle](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (1 article)
+  - **Livre III : INSTITUTIONS DU SECTEUR DES MÉTIERS ET DE L'ARTISANAT**
+    - **Titre IER : RÉSEAU DES CHAMBRES DE MÉTIERS ET DE L'ARTISANAT**
+      - [Chapitre II : Règles générales à caractère administratif et financier applicables aux établissements du réseau](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (5 articles)
+    - **Titre II : CHAMBRES DE MÉTIERS ET DE L'ARTISANAT DE RÉGION**
+      - [Chapitre Ier : Organisation et attributions](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (29 articles)
+      - [Chapitre II : Election des membres des chambres de métiers et de l'artisanat de région et de leurs chambres de niveau départemental](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (47 articles)
+      - [Chapitre III : Administration](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (34 articles)
+    - **Titre III : CMA FRANCE**
+      - [Chapitre Ier : Organisation](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Attributions](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Administration](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (18 articles)
+  - **Livre V : DISPOSITIONS PARTICULIÈRES RELATIVES À L'OUTRE-MER**
+    - **Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA REUNION ET À MAYOTTE**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Dispositions particulières à certaines collectivités](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (5 articles)
+    - **Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY, À SAINT-MARTIN, ET À SAINT-PIERRE ET MIQUELON**
+      - [Chapitre Ier : Saint-Barthélemy](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Saint-Martin](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (5 articles)

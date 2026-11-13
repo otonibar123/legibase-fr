@@ -14,7 +14,7 @@ Tout travail non prévu au contrat de travail conclu entre une entreprise de jou
 - Identifiant : LEGIARTI000020740432
 - État : en vigueur depuis le 14/06/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020740432
-- Renvoie à : art. L132-35 du Code de la propriété intellectuelle
+- Renvoie à : [art. L132-35 du Code de la propriété intellectuelle](../../../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ii.md#article-l132-35)
 
 Tout travail commandé ou accepté par l'éditeur d'un titre de presse au sens de l'article L. 132-35 du code de la propriété intellectuelle, quel qu'en soit le support, est rémunéré, même s'il n'est pas publié.
 
@@ -22,7 +22,7 @@ Tout travail commandé ou accepté par l'éditeur d'un titre de presse au sens d
 - Identifiant : LEGIARTI000020740429
 - État : en vigueur depuis le 14/06/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020740429
-- Renvoie à : art. L132-37 du Code de la propriété intellectuelle
+- Renvoie à : [art. L132-37 du Code de la propriété intellectuelle](../../../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ii.md#article-l132-37)
 
 Lorsque le travail du journaliste professionnel donne lieu à publication dans les conditions définies à l'article L. 132-37 du code de la propriété intellectuelle, la rémunération qu'il perçoit est un salaire.
 

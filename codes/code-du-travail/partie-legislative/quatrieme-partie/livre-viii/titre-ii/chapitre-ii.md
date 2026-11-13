@@ -7,7 +7,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043908761
 - Renvoie à : [art. L4622-2-1 du Code du travail](../../livre-vi/titre-ii/chapitre-ii.md#article-l4622-2-1) ; [art. L4623-1 du Code du travail](../../livre-vi/titre-ii/chapitre-iii.md#article-l4623-1)
-- Cité par : [art. R4822-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-viii/titre-ii/chapitre-ii.md#article-r4822-1) ; [art. R5755-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051481101)
+- Cité par : [art. R5755-2 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-vii/titre-v/chapitre-v.md#article-r5755-2) ; [art. R4822-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-viii/titre-ii/chapitre-ii.md#article-r4822-1)
 
 A Saint-Pierre-et-Miquelon, en l'absence de médecin du travail, l'autorité administrative peut autoriser un médecin disposant d'une formation en médecine du travail à y exercer l'activité de médecin du travail sans être titulaire du diplôme spécial prévu à l'article L. 4623-1.
 

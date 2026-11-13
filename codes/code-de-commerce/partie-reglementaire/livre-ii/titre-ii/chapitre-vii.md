@@ -29,7 +29,7 @@ Dans le cas prévu au troisième alinéa de l'article L. 227-9-1, le commissaire
 - Identifiant : LEGIARTI000039338718
 - État : en vigueur depuis le 31/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039338718
-- Renvoie à : [art. R225-66 du Code de commerce](chapitre-v.md#article-r225-66) ; [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83) ; art. L411-2 du Code monétaire et financier
+- Renvoie à : [art. R225-66 du Code de commerce](chapitre-v.md#article-r225-66) ; [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83) ; [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2)
 
 Les articles R. 225-66 à R. 225-70 et l'article R. 225-83 sont applicables aux sociétés par actions simplifiées qui procèdent à une offre mentionnée au 2° de l'article L. 411-2 du code monétaire et financier.
 

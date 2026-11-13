@@ -10,7 +10,7 @@ Code de commerce › Partie réglementaire › LIVRE II : Des sociétés commerc
 - Identifiant : LEGIARTI000042959963
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959963
-- Renvoie à : art. L411-2 du Code monétaire et financier
+- Renvoie à : [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1)
 
 Lorsque la société est constituée sans offre au public, ou par la voie d'une offre au public mentionnée au 1° ou 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, sont seules applicables à la constitution de la société les dispositions des articles R. 22-10-6 à R. 22-10-8 et R. 22-10-12.
 
@@ -171,7 +171,7 @@ L'extrait du procès-verbal contenant la décision du conseil d'administration r
 - Identifiant : LEGIARTI000030680189
 - État : en vigueur depuis le 06/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030680189
-- Cité par : [art. R931-1-21 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030575569) ; [art. R931-3-11 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043565039)
+- Cité par : [art. R931-1-21 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ix/titre-iii/chapitre-i.md#article-r931-1-21) ; [art. R931-3-11 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ix/titre-iii/chapitre-i.md#article-r931-3-11)
 
 Le conseil d'administration peut, dans la limite d'un montant total qu'il fixe, autoriser le directeur général à donner des cautions, avals ou garanties au nom de la société. Cette autorisation peut également fixer, par engagement, un montant au-delà duquel la caution, l'aval ou la garantie de la société ne peut être donné. Lorsqu'un engagement dépasse l'un ou l'autre des montants ainsi fixés, l'autorisation du conseil d'administration est requise dans chaque cas.  
 
@@ -572,7 +572,7 @@ Les dispositions des articles R. 225-34-2 à R. 225-34-6 sont applicables aux me
 - Identifiant : LEGIARTI000006261098
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261098
-- Cité par : [art. R225-73 du Code de commerce](chapitre-v.md#article-r225-73) ; [art. R225-75 du Code de commerce](chapitre-v.md#article-r225-75) ; [art. R225-81 du Code de commerce](chapitre-v.md#article-r225-81) ; [art. R225-82 du Code de commerce](chapitre-v.md#article-r225-82) ; [art. R225-98 du Code de commerce](chapitre-v.md#article-r225-98) ; [art. R225-85 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261123) ; [art. R524-15 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036459308) ; [Décret n°2020-418 du 10 avril 2020, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042704539)
+- Cité par : [art. R225-73 du Code de commerce](chapitre-v.md#article-r225-73) ; [art. R225-75 du Code de commerce](chapitre-v.md#article-r225-75) ; [art. R225-81 du Code de commerce](chapitre-v.md#article-r225-81) ; [art. R225-82 du Code de commerce](chapitre-v.md#article-r225-82) ; [art. R225-98 du Code de commerce](chapitre-v.md#article-r225-98) ; [art. R524-15 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-15) ; [art. R225-85 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261123) ; [Décret n°2020-418 du 10 avril 2020, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042704539)
 
 Les sociétés dont les statuts permettent aux actionnaires de voter aux assemblées par des moyens électroniques de télécommunication aménagent un site exclusivement consacré à ces fins.
 
@@ -618,7 +618,7 @@ En cas d'exercice de ce droit, la société avise les actionnaires par lettre si
 - Identifiant : LEGIARTI000006261099
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261099
-- Cité par : [art. R228-33 du Code de commerce](chapitre-viii.md#article-r228-33) ; [art. R228-45 du Code de commerce](chapitre-viii.md#article-r228-45) ; [art. R234-3 du Code de commerce](../titre-iii/chapitre-iv.md#article-r234-3) ; [art. R524-13 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006592922)
+- Cité par : [art. R228-33 du Code de commerce](chapitre-viii.md#article-r228-33) ; [art. R228-45 du Code de commerce](chapitre-viii.md#article-r228-45) ; [art. R234-3 du Code de commerce](../titre-iii/chapitre-iv.md#article-r234-3) ; [art. R524-13 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-13)
 
 Sous réserve des dispositions des articles R. 225-66 à R. 225-70, les statuts de la société fixent les règles de convocation des assemblées d'actionnaires.
 
@@ -627,7 +627,7 @@ Sous réserve des dispositions des articles R. 225-66 à R. 225-70, les statuts 
 - État : en vigueur depuis le 01/07/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053489823
 - Renvoie à : [art. R225-61-1 du Code de commerce](chapitre-v.md#article-r225-61-1) ; [art. R225-61-2 du Code de commerce](chapitre-v.md#article-r225-61-2) ; [art. R225-61-3 du Code de commerce](chapitre-v.md#article-r225-61-3) ; [art. R225-67 du Code de commerce](chapitre-v.md#article-r225-67) ; [art. R225-68 du Code de commerce](chapitre-v.md#article-r225-68) ; [art. R225-72 du Code de commerce](chapitre-v.md#article-r225-72) ; [art. R225-74 du Code de commerce](chapitre-v.md#article-r225-74) ; [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83) ; [art. R225-88 du Code de commerce](chapitre-v.md#article-r225-88) ; [art. R236-3 du Code de commerce](../titre-iii/chapitre-vi.md#article-r236-3) ; [art. R236-4 du Code de commerce](../titre-iii/chapitre-vi.md#article-r236-4)
-- Cité par : [art. R225-67 du Code de commerce](chapitre-v.md#article-r225-67) ; [art. R225-68 du Code de commerce](chapitre-v.md#article-r225-68) ; [art. R225-72 du Code de commerce](chapitre-v.md#article-r225-72) ; [art. R225-74 du Code de commerce](chapitre-v.md#article-r225-74) ; [art. R228-33 du Code de commerce](chapitre-viii.md#article-r228-33) ; [art. R228-67 du Code de commerce](chapitre-viii.md#article-r228-67) ; [art. R2312-33 du Code du travail](../../../../code-du-travail/partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-33) ; [art. R524-1-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039342230) ; [art. R524-13 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039342239) ; [art. R524-32-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039337728)
+- Cité par : [art. R225-67 du Code de commerce](chapitre-v.md#article-r225-67) ; [art. R225-68 du Code de commerce](chapitre-v.md#article-r225-68) ; [art. R225-72 du Code de commerce](chapitre-v.md#article-r225-72) ; [art. R225-74 du Code de commerce](chapitre-v.md#article-r225-74) ; [art. R228-33 du Code de commerce](chapitre-viii.md#article-r228-33) ; [art. R228-67 du Code de commerce](chapitre-viii.md#article-r228-67) ; [art. R2312-33 du Code du travail](../../../../code-du-travail/partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-33) ; [art. R524-1-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-1-3) ; [art. R524-13 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-13) ; [art. R524-32-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-32-1)
 
 Les sociétés peuvent, à l'égard de leurs actionnaires inscrits au nominatif, satisfaire par voie électronique aux obligations de convocation et de communication prévues aux articles R. 225-61-2, R. 225-61-3, au second alinéa de l'article R. 225-67 ainsi qu'aux articles R. 225-68, R. 225-72, R. 225-74, R. 225-83, R. 225-88 et R. 236-4.
 
@@ -670,7 +670,7 @@ Dans l'hypothèse où l'assemblée générale serait tenue selon les modalités 
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959929
 - Renvoie à : [art. R225-63 du Code de commerce](chapitre-v.md#article-r225-63)
-- Cité par : [art. R225-61-3 du Code de commerce](chapitre-v.md#article-r225-61-3) ; [art. R225-63 du Code de commerce](chapitre-v.md#article-r225-63) ; [art. R225-68 du Code de commerce](chapitre-v.md#article-r225-68) ; [art. R225-70 du Code de commerce](chapitre-v.md#article-r225-70) ; [art. R214-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928426) ; [art. R214-32-11 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928415)
+- Cité par : [art. R225-61-3 du Code de commerce](chapitre-v.md#article-r225-61-3) ; [art. R225-63 du Code de commerce](chapitre-v.md#article-r225-63) ; [art. R225-68 du Code de commerce](chapitre-v.md#article-r225-68) ; [art. R225-70 du Code de commerce](chapitre-v.md#article-r225-70) ; [art. R214-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-4) ; [art. R214-32-11 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-32-11)
 
 L'avis de convocation est inséré dans un support habilité à recevoir les annonces légales dans le département du siège social et, en outre, si toutes les actions de la société ne revêtent pas la forme nominative, au Bulletin des annonces légales obligatoires.
 
@@ -717,7 +717,7 @@ Lorsqu'une assemblée n'a pu délibérer régulièrement, faute du quorum requis
 - Identifiant : LEGIARTI000053489835
 - État : en vigueur depuis le 16/02/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053489835
-- Renvoie à : [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83) ; art. L211-3 du Code monétaire et financier
+- Renvoie à : [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83) ; [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
 - Cité par : [art. R225-81 du Code de commerce](chapitre-v.md#article-r225-81) ; [art. R225-98 du Code de commerce](chapitre-v.md#article-r225-98)
 
 La demande d'inscription de points ou de projets de résolution à l'ordre du jour de l'assemblée, par des actionnaires représentant au moins 5 % du capital social, est adressée au siège social par lettre recommandée avec demande d'avis de réception ou par télécommunication électronique.
@@ -760,7 +760,7 @@ Les demandes d'inscription de points ou de projets de résolution à l'ordre du 
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959897
 - Renvoie à : [art. L225-105 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-105) ; [art. L225-108 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-108) ; [art. L225-115 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-115) ; [art. L228-103 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-103) ; [art. L233-32 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-32) ; [art. R225-61 du Code de commerce](chapitre-v.md#article-r225-61) ; [art. R225-66 du Code de commerce](chapitre-v.md#article-r225-66) ; [art. R225-76 du Code de commerce](chapitre-v.md#article-r225-76) ; [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83)
-- Cité par : [art. R228-33 du Code de commerce](chapitre-viii.md#article-r228-33) ; [art. R626-2 du Code de commerce](../../livre-vi/titre-ii/chapitre-vi.md#article-r626-2) ; [art. R628-10 du Code de commerce](../../livre-vi/titre-ii/chapitre-viii.md#article-r628-10) ; [art. R2312-32 du Code du travail](../../../../code-du-travail/partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-32) ; [art. R214-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928426) ; [art. R214-32-11 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928415)
+- Cité par : [art. R228-33 du Code de commerce](chapitre-viii.md#article-r228-33) ; [art. R626-2 du Code de commerce](../../livre-vi/titre-ii/chapitre-vi.md#article-r626-2) ; [art. R628-10 du Code de commerce](../../livre-vi/titre-ii/chapitre-viii.md#article-r628-10) ; [art. R2312-32 du Code du travail](../../../../code-du-travail/partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-32) ; [art. R214-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-4) ; [art. R214-32-11 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-32-11)
 
 I.-Lorsque les actions de la société ne revêtent pas toutes la forme nominative, la convocation mentionnée à l'article R. 225-66 est précédée d'un avis publié au Bulletin des annonces légales obligatoires, trente-cinq jours au moins avant la tenue de l'assemblée générale. Ce délai est ramené à quinze jours lorsque l'assemblée générale est convoquée en application des dispositions de l'article L. 233-32.
 
@@ -814,7 +814,7 @@ Les projets de résolution sont soumis au vote de l'assemblée.
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261113
 - Renvoie à : [art. R225-61 du Code de commerce](chapitre-v.md#article-r225-61)
-- Cité par : [art. R322-58 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044277308)
+- Cité par : [art. R322-58 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-58)
 
 A compter de la convocation de l'assemblée, tout actionnaire peut demander par écrit à la société de lui adresser, le cas échéant par voie électronique, dans les conditions définies à l'article R. 225-61, un formulaire de vote à distance. Cette demande doit être déposée ou parvenue au siège social au plus tard six jours avant la date de la réunion.
 
@@ -845,8 +845,8 @@ Les documents suivants sont annexés au formulaire sauf si celui-ci indique qu'i
 - Identifiant : LEGIARTI000042959889
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959889
-- Renvoie à : art. L211-3 du Code monétaire et financier
-- Cité par : [art. R225-76 du Code de commerce](chapitre-v.md#article-r225-76) ; [art. R225-78 du Code de commerce](chapitre-v.md#article-r225-78) ; [art. R322-58 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044277308)
+- Renvoie à : [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
+- Cité par : [art. R225-76 du Code de commerce](chapitre-v.md#article-r225-76) ; [art. R225-78 du Code de commerce](chapitre-v.md#article-r225-78) ; [art. R322-58 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-58)
 
 La date après laquelle il ne sera plus tenu compte des formulaires de vote reçus par la société ne peut être antérieure de plus de trois jours à la date de la réunion de l'assemblée, sauf délai plus court prévu par les statuts. Toutefois, les formulaires électroniques de vote à distance peuvent être reçus par la société jusqu'à la veille de la réunion de l'assemblée générale, au plus tard à 15 heures, heure de Paris.
 
@@ -881,7 +881,7 @@ Si la société utilise le document unique prévu au troisième alinéa de l'art
 - Identifiant : LEGIARTI000042959886
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959886
-- Cité par : [art. R228-36 du Code de commerce](chapitre-viii.md#article-r228-36) ; [art. R228-46 du Code de commerce](chapitre-viii.md#article-r228-46) ; [art. R228-75 du Code de commerce](chapitre-viii.md#article-r228-75) ; [art. R322-58 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044277308) ; [Décret n°2007-431 du 25 mars 2007, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006261694)
+- Cité par : [art. R228-36 du Code de commerce](chapitre-viii.md#article-r228-36) ; [art. R228-46 du Code de commerce](chapitre-viii.md#article-r228-46) ; [art. R228-75 du Code de commerce](chapitre-viii.md#article-r228-75) ; [art. R322-58 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-58) ; [Décret n°2007-431 du 25 mars 2007, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006261694)
 
 La procuration donnée par un actionnaire pour se faire représenter à une assemblée est signée par celui-ci, le cas échéant par un procédé de signature électronique, et indique ses nom, prénom usuel et domicile. Elle peut désigner nommément un mandataire, qui n'a pas la faculté de se substituer une autre personne.
 
@@ -910,7 +910,7 @@ Les instructions données par la voie électronique dans les conditions définie
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959859
 - Renvoie à : [art. Annexe 2-2 du Code de commerce](../../../annexes-de-la-partie-reglementaire.md#article-annexe-2-2) ; [art. L22-10-39 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-x.md#article-l22-10-39) ; [art. L225-106 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-106) ; [art. L225-107 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-107) ; [art. R225-61 du Code de commerce](chapitre-v.md#article-r225-61) ; [art. R225-71 du Code de commerce](chapitre-v.md#article-r225-71) ; [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83) ; [art. R225-88 du Code de commerce](chapitre-v.md#article-r225-88)
-- Cité par : [art. R225-76 du Code de commerce](chapitre-v.md#article-r225-76) ; [art. R225-78 du Code de commerce](chapitre-v.md#article-r225-78) ; [art. R225-88 du Code de commerce](chapitre-v.md#article-r225-88) ; [art. R322-58 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044277308)
+- Cité par : [art. R225-76 du Code de commerce](chapitre-v.md#article-r225-76) ; [art. R225-78 du Code de commerce](chapitre-v.md#article-r225-78) ; [art. R225-88 du Code de commerce](chapitre-v.md#article-r225-88) ; [art. R322-58 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-58)
 
 Sont joints à toute formule de procuration adressée aux actionnaires par la société ou par le mandataire qu'elle a désigné à cet effet, le cas échéant par voie électronique dans les conditions définies à l'article R. 225-61 :
 
@@ -992,7 +992,7 @@ c) Les observations du conseil de surveillance, s'il y a lieu ;
 - Identifiant : LEGIARTI000047621653
 - État : en vigueur depuis le 03/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047621653
-- Renvoie à : [art. L225-108 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-108) ; art. L211-3 du Code monétaire et financier
+- Renvoie à : [art. L225-108 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-108) ; [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
 - Cité par : [Décret n°2020-418 du 10 avril 2020, art. 8-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042704222)
 
 Les questions écrites mentionnées au troisième alinéa de l'article L. 225-108 sont envoyées, au siège social par lettre recommandée avec demande d'avis de réception adressée au président du conseil d'administration ou du directoire ou par voie de télécommunication électronique à l'adresse indiquée dans la convocation, au plus tard le quatrième jour ouvré précédant la date de l'assemblée générale.
@@ -1003,7 +1003,7 @@ Elles sont accompagnées d'une attestation d'inscription soit dans les comptes d
 - Identifiant : LEGIARTI000053489860
 - État : en vigueur depuis le 16/02/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053489860
-- Cité par : [art. D211-9-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042960727)
+- Cité par : [art. D211-9-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-d211-9-4)
 
 Il est justifié du droit de participer aux assemblées générales par l'inscription des titres au nom de l'actionnaire, au jour de l'assemblée générale, dans les comptes de titres nominatifs tenus par la société ou dans un dispositif d'enregistrement électronique partagé. La société peut cependant, par une disposition spéciale de ses statuts, décider qu'il sera justifié du droit de participer aux assemblées par l'inscription des titres dans les mêmes comptes ou dans un dispositif d'enregistrement électronique partagé au cinquième jour ouvré précédant l'assemblée à zéro heure, heure de Paris.
 
@@ -1022,7 +1022,7 @@ Le mandataire chargé de représenter les copropriétaires d'actions indivises d
 - Identifiant : LEGIARTI000053489865
 - État : en vigueur depuis le 16/02/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053489865
-- Renvoie à : [art. R225-81 du Code de commerce](chapitre-v.md#article-r225-81) ; art. L211-3 du Code monétaire et financier
+- Renvoie à : [art. R225-81 du Code de commerce](chapitre-v.md#article-r225-81) ; [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
 - Cité par : [art. R225-63 du Code de commerce](chapitre-v.md#article-r225-63) ; [art. R225-76 du Code de commerce](chapitre-v.md#article-r225-76) ; [art. R225-81 du Code de commerce](chapitre-v.md#article-r225-81) ; [art. R225-83 du Code de commerce](chapitre-v.md#article-r225-83) ; [art. R225-150 du Code de commerce](chapitre-v.md#article-r225-150) ; [art. R228-21 du Code de commerce](chapitre-viii.md#article-r228-21) ; [art. R228-37 du Code de commerce](chapitre-viii.md#article-r228-37) ; [art. R233-15 du Code de commerce](../titre-iii/chapitre-iii.md#article-r233-15)
 
 A compter de la convocation de l'assemblée et jusqu'au cinquième jour inclusivement avant la réunion, tout actionnaire titulaire de titres nominatifs peut demander à la société de lui envoyer, à l'adresse indiquée, les documents et renseignements mentionnés aux articles R. 225-81 et R. 225-83. La société est tenue de procéder à cet envoi avant la réunion et à ses frais à moins que ces documents ne soient publiés sur son site internet. Cet envoi peut être effectué par un moyen électronique de télécommunication mis en oeuvre dans les conditions mentionnées à l'article R. 225-63, à l'adresse indiquée par l'actionnaire.
@@ -1161,7 +1161,7 @@ En cas de convocation par les commissaires aux comptes, par un mandataire de jus
 - Identifiant : LEGIARTI000006261146
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261146
-- Cité par : [art. R228-73 du Code de commerce](chapitre-viii.md#article-r228-73) ; [art. R214-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928426) ; [art. R214-32-11 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928415)
+- Cité par : [art. R228-73 du Code de commerce](chapitre-viii.md#article-r228-73) ; [art. R214-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-4) ; [art. R214-32-11 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-32-11)
 
 Sont scrutateurs de l'assemblée, les deux membres de l'assemblée disposant du plus grand nombre de voix et acceptant cette fonction.  
 
@@ -1257,7 +1257,7 @@ Les personnes mentionnées à l'article L. 225-109 sont tenues, lorsqu'elles acq
 - Identifiant : LEGIARTI000020404402
 - État : en vigueur depuis le 19/03/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020404402
-- Renvoie à : [art. L225-109 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-109) ; art. L211-3 du Code monétaire et financier
+- Renvoie à : [art. L225-109 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-109) ; [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3) ; [art. L542-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-ii.md#article-l542-1)
 - Cité par : [art. R225-110 du Code de commerce](chapitre-v.md#article-r225-110) ; [art. R225-111 du Code de commerce](chapitre-v.md#article-r225-111)
 
 Le dépôt prévu à l'article L. 225-109 est fait auprès d'un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier.
@@ -1271,7 +1271,7 @@ Le dépôt prévu à l'article L. 225-109 est fait auprès d'un intermédiaire m
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261260
 - Renvoie à : [art. L225-129 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-129)
-- Cité par : [art. R225-117 du Code de commerce](chapitre-v.md#article-r225-117) ; [art. R228-17 du Code de commerce](chapitre-viii.md#article-r228-17) ; [art. R212-7 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680302)
+- Cité par : [art. R225-117 du Code de commerce](chapitre-v.md#article-r225-117) ; [art. R228-17 du Code de commerce](chapitre-viii.md#article-r228-17) ; [art. R212-7 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-7)
 
 Le conseil d'administration ou le directoire donne, dans le rapport prévu à l'article L. 225-129, toutes indications utiles sur les motifs de l'augmentation du capital proposée ainsi que sur la marche des affaires sociales depuis le début de l'exercice en cours et, si l'assemblée générale ordinaire appelée à statuer sur les comptes n'a pas encore été tenue, pendant l'exercice précédent. Le cas échéant, le conseil d'administration ou le directoire indique le montant maximal de l'augmentation de capital.
 
@@ -1356,7 +1356,7 @@ Pour l'application de l'article L. 225-135-1, l'assemblée peut prévoir que le 
 - Identifiant : LEGIARTI000042959755
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959755
-- Renvoie à : [art. L225-135-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-135-1) ; [art. R123-237 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-237) ; art. L411-2 du Code monétaire et financier
+- Renvoie à : [art. L225-135-1 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-135-1) ; [art. R123-237 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-237) ; [art. L411-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-1) ; [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1) ; [art. L412-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-1)
 - Cité par : [art. R225-121 du Code de commerce](chapitre-v.md#article-r225-121) ; [art. R225-124 du Code de commerce](chapitre-v.md#article-r225-124) ; [art. R225-127 du Code de commerce](chapitre-v.md#article-r225-127) ; [art. R225-145 du Code de commerce](chapitre-v.md#article-r225-145) ; [art. R228-93 du Code de commerce](chapitre-viii.md#article-r228-93) ; [art. R247-2 du Code de commerce](../titre-iv/chapitre-vii.md#article-r247-2)
 
 Lorsqu'une émission d'actions nouvelles ou de valeurs mobilières donnant accès au capital est susceptible d'entraîner une augmentation de capital, les actionnaires sont informés de cette émission et de ses modalités par un avis contenant notamment les indications suivantes :
@@ -1409,7 +1409,7 @@ Lorsque l'assemblée générale a supprimé le droit préférentiel de souscript
 - Identifiant : LEGIARTI000042959748
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042959748
-- Renvoie à : [art. L225-133 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-133) ; [art. L225-134 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-134) ; art. R211-4 du Code monétaire et financier
+- Renvoie à : [art. L225-133 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-133) ; [art. L225-134 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-134) ; [art. R211-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-4)
 
 L'actionnaire qui renonce à titre individuel à son droit préférentiel de souscription en avise la société par lettre recommandée.
 
@@ -1626,7 +1626,7 @@ Pour l'application du I de l'article L. 225-147-1, la décision du conseil d'adm
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006261514
 - Renvoie à : [art. L225-181 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-181) ; [art. L228-99 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-99) ; [art. R228-91 du Code de commerce](chapitre-viii.md#article-r228-91)
-- Cité par : [art. R212-8 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006680318)
+- Cité par : [art. R212-8 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-8)
 
 Pour l'application, conformément à l'article L. 225-181, des dispositions du 3° de l'article L. 228-99 en vue de la protection des intérêts des bénéficiaires d'options de souscription ou d'achat d'actions, l'article R. 228-91 est applicable, sous réserve des dispositions de la présente sous-section.
 
@@ -1822,7 +1822,7 @@ Les commissaires aux comptes donnent, dans leur rapport sur l'opération projet�
 - Identifiant : LEGIARTI000020404391
 - État : en vigueur depuis le 19/03/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020404391
-- Renvoie à : [art. L225-207 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-207) ; [art. R225-154 du Code de commerce](chapitre-v.md#article-r225-154) ; [art. R225-156 du Code de commerce](chapitre-v.md#article-r225-156)
+- Renvoie à : [art. L225-207 du Code de commerce](../../../partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-207) ; [art. R225-154 du Code de commerce](chapitre-v.md#article-r225-154) ; [art. R225-156 du Code de commerce](chapitre-v.md#article-r225-156) ; [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3) ; [art. R211-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-1)
 
 Les actions achetées, en vue d'une réduction du capital social, par la société qui les a émises sont annulées, s'il s'agit de titres au nominatif, par apposition d'une mention sur le registre des actions nominatives de la société.
 

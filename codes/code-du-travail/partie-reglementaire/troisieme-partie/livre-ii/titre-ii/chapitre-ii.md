@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - Identifiant : LEGIARTI000018533898
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533898
-- Renvoie à : [art. L3221-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l3221-2) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L3221-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l3221-2) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de méconnaître les dispositions relatives à l'égalité de rémunération entre les femmes et les hommes prévues aux articles L. 3221-2 à L. 3221-6, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 

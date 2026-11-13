@@ -10,7 +10,7 @@ Code de la consommation › Partie législative nouvelle › Livre Ier : INFORMA
 - Identifiant : LEGIARTI000051560139
 - État : en vigueur depuis le 03/05/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051560139
-- Renvoie à : [art. L121-1 du Code de la consommation](../titre-ii/chapitre-ier.md#article-l121-1) ; [art. L524-2 du Code de la consommation](../../livre-v/titre-ii/chapitre-iv.md#article-l524-2) ; [art. L621-7 du Code de la consommation](../../livre-vi/titre-ii/chapitre-ier.md#article-l621-7) ; [art. L621-9 du Code de la consommation](../../livre-vi/titre-ii/chapitre-ier.md#article-l621-9) ; art. L113-1 du Code de justice administrative ; art. L441-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L113-1 du Code de justice administrative](../../../../code-de-justice-administrative/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-1) ; [art. L441-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-iv/chapitre-unique.md#article-l441-1) ; [art. L121-1 du Code de la consommation](../titre-ii/chapitre-ier.md#article-l121-1) ; [art. L524-2 du Code de la consommation](../../livre-v/titre-ii/chapitre-iv.md#article-l524-2) ; [art. L621-7 du Code de la consommation](../../livre-vi/titre-ii/chapitre-ier.md#article-l621-7) ; [art. L621-9 du Code de la consommation](../../livre-vi/titre-ii/chapitre-ier.md#article-l621-9)
 
 Sans préjudice de l'allocation de dommages et intérêts, une amende civile peut être prononcée, à la suite d'une demande d'assistance mutuelle prévue par l'article L. 511-10 portant sur une infraction de grande ampleur ou de grande ampleur à l'échelle de l'Union européenne, en application de l'article 21 du règlement (UE) 2017/2394 du Parlement européen et du Conseil du 12 décembre 2017 sur la coopération entre les autorités nationales chargées de veiller à l'application de la législation en matière de protection des consommateurs, à l'encontre d'un professionnel qui a recours, de manière continue, à une pratique commerciale reconnue déloyale, au sens de l'article L. 121-1, autre que l'une de celles mentionnées au quatrième alinéa de cet article, par une décision de justice devenue définitive à son égard.  
 
@@ -37,7 +37,7 @@ Le délit de pratique commerciale trompeuse défini aux articles L. 121-2 à L. 
 - État : en vigueur depuis le 12/05/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049532070
 - Renvoie à : [art. L121-2 du Code de la consommation](../titre-ii/chapitre-ier.md#article-l121-2)
-- Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3) ; [art. L321-2 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-2) ; [art. D111-8 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-d111-8) ; [art. L122-22 du Code de la consommation](../titre-ii/chapitre-ii.md#article-l122-22) ; [art. L132-2-1 du Code de la consommation](chapitre-ii.md#article-l132-2-1) ; [art. L132-2-2 du Code de la consommation](chapitre-ii.md#article-l132-2-2) ; [art. L132-3 du Code de la consommation](chapitre-ii.md#article-l132-3) ; [art. L132-6 du Code de la consommation](chapitre-ii.md#article-l132-6) ; [art. L132-25 du Code de la consommation](chapitre-ii.md#article-l132-25) ; [art. L455-2 du Code de la consommation](../../livre-iv/titre-v/chapitre-v.md#article-l455-2) ; [art. L500-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035042751) ; [LOI n°2023-451 du 9 juin 2023, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054402940)
+- Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3) ; [art. L321-2 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-2) ; [art. D111-8 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md#article-d111-8) ; [art. L122-22 du Code de la consommation](../titre-ii/chapitre-ii.md#article-l122-22) ; [art. L132-2-1 du Code de la consommation](chapitre-ii.md#article-l132-2-1) ; [art. L132-2-2 du Code de la consommation](chapitre-ii.md#article-l132-2-2) ; [art. L132-3 du Code de la consommation](chapitre-ii.md#article-l132-3) ; [art. L132-6 du Code de la consommation](chapitre-ii.md#article-l132-6) ; [art. L132-25 du Code de la consommation](chapitre-ii.md#article-l132-25) ; [art. L455-2 du Code de la consommation](../../livre-iv/titre-v/chapitre-v.md#article-l455-2) ; [art. L327-1 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-iii/titre-ii/chapitre-7.md#article-l327-1) ; [art. L500-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035042751) ; [LOI n°2023-451 du 9 juin 2023, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054402940)
 
 Les pratiques commerciales trompeuses mentionnées aux articles L. 121-2 à L. 121-4 sont punies d'un emprisonnement de deux ans et d'une amende de 300 000 euros.
 
@@ -65,7 +65,7 @@ Lorsque les pratiques commerciales trompeuses mentionnées aux articles L. 121-2
 - Identifiant : LEGIARTI000032227118
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227118
-- Renvoie à : [art. L132-2 du Code de la consommation](chapitre-ii.md#article-l132-2) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal
+- Renvoie à : [art. L132-2 du Code de la consommation](chapitre-ii.md#article-l132-2) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38)
 - Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3) ; [art. L132-6 du Code de la consommation](chapitre-ii.md#article-l132-6)
 
 Les personnes physiques coupables du délit puni à l'article L. 132-2 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
@@ -77,7 +77,7 @@ L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité 
 - Identifiant : LEGIARTI000037556691
 - État : en vigueur depuis le 02/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037556691
-- Cité par : [art. L132-5 du Code de la consommation](chapitre-ii.md#article-l132-5) ; [art. L541-34 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032235584)
+- Cité par : [art. L541-34 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-34) ; [art. L132-5 du Code de la consommation](chapitre-ii.md#article-l132-5)
 
 En cas de condamnation, le tribunal ordonne, par tous moyens appropriés, l'affichage ou la diffusion de l'intégralité ou d'une partie de la décision ou d'un communiqué informant le public des motifs et du dispositif de celle-ci. Il peut, de plus, ordonner la diffusion, aux frais de la personne condamnée, d'une ou de plusieurs annonces rectificatives.  
 
@@ -166,7 +166,7 @@ Lorsque les pratiques commerciales agressives mentionnées aux articles L. 121-6
 - Identifiant : LEGIARTI000032227091
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227091
-- Renvoie à : [art. L132-11 du Code de la consommation](chapitre-ii.md#article-l132-11) ; art. 121-2 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L132-11 du Code de la consommation](chapitre-ii.md#article-l132-11) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables du délit puni à l'article L. 132-11 encourent une interdiction, pour une durée de cinq ans au plus, d'exercer directement ou indirectement une activité commerciale.  
 Les personnes morales déclarées pénalement responsables dans les conditions prévues à l'article 121-2 du code pénal, du délit puni à l'article L. 132-11 encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du code pénal, les peines prévues aux 2° à 9° de l'article 131-39 du même code.  
@@ -209,7 +209,7 @@ Le montant de l'amende peut être porté, de manière proportionnée aux avantag
 - Identifiant : LEGIARTI000032227081
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227081
-- Renvoie à : [art. L132-14 du Code de la consommation](chapitre-ii.md#article-l132-14) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L132-14 du Code de la consommation](chapitre-ii.md#article-l132-14) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 - Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3)
 
 Les personnes physiques coupables du délit puni à l'article L. 132-14 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
@@ -246,7 +246,7 @@ Le montant de l'amende peut être porté, de manière proportionnée aux avantag
 - Identifiant : LEGIARTI000032227069
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227069
-- Renvoie à : [art. L132-17 du Code de la consommation](chapitre-ii.md#article-l132-17) ; art. 121-2 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L132-17 du Code de la consommation](chapitre-ii.md#article-l132-17) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables du délit puni à l'article L. 132-17 encourent une interdiction, pour une durée de cinq ans au plus, d'exercer directement ou indirectement une activité commerciale.  
 Les personnes morales déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, du délit puni à l'article L. 132-17 encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du code pénal, les peines prévues aux 2° à 9° de l'article 131-39 du même code.  
@@ -268,7 +268,7 @@ Le montant de l'amende peut être porté, de manière proportionnée aux avantag
 - Identifiant : LEGIARTI000032227061
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227061
-- Renvoie à : [art. L132-19 du Code de la consommation](chapitre-ii.md#article-l132-19) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L132-19 du Code de la consommation](chapitre-ii.md#article-l132-19) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables du délit puni à l'article L. 132-19 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.  
@@ -355,7 +355,7 @@ Cette amende est prononcée dans les conditions prévues au chapitre II du titre
 - Identifiant : LEGIARTI000032227039
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227039
-- Renvoie à : [art. L122-1 du Code de la consommation](../titre-ii/chapitre-ii.md#article-l122-1) ; [art. L132-2 du Code de la consommation](chapitre-ii.md#article-l132-2) ; [art. L716-9 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279754)
+- Renvoie à : [art. L122-1 du Code de la consommation](../titre-ii/chapitre-ii.md#article-l122-1) ; [art. L132-2 du Code de la consommation](chapitre-ii.md#article-l132-2) ; [art. L716-9 du Code de la propriété intellectuelle](../../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-vi-bis.md#article-l716-9) ; [art. L716-12 du Code de la propriété intellectuelle](../../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-vi-bis.md#article-l716-12)
 - Cité par : [art. L455-2 du Code de la consommation](../../livre-iv/titre-v/chapitre-v.md#article-l455-2)
 
 Les infractions aux dispositions des articles L. 122-1 à L. 122-5 sont, le cas échéant, punies des peines prévues, d'une part, aux articles L. 132-2 à L. 132-9, d'autre part, aux articles L. 716-9 et L. 716-12 du code de la propriété intellectuelle.
@@ -388,7 +388,7 @@ Le montant de l'amende peut être porté, de manière proportionnée aux avantag
 - Identifiant : LEGIARTI000032227029
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227029
-- Renvoie à : [art. L132-27 du Code de la consommation](chapitre-ii.md#article-l132-27) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; [art. 131-38 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417333) ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L132-27 du Code de la consommation](chapitre-ii.md#article-l132-27) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables du délit puni à l'article L. 132-27 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.  
@@ -401,6 +401,7 @@ L'interdiction mentionnée au 2° du même article 131-39 porte sur l'activité 
 - Identifiant : LEGIARTI000049454922
 - État : en vigueur depuis le 24/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049454922
+- Cité par : [art. L353-4 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-v/chapitre-iii.md#article-l353-4) ; [art. L641-4-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-4-2)
 
 Tout manquement aux 1,2 à 6 et 9 de l'article 5, à l'article 7 et au c du 1 de l'article 19 du règlement (UE) 2023/1804 du Parlement européen et du Conseil du 13 septembre 2023 sur le déploiement d'une infrastructure pour carburants alternatifs et abrogeant la directive 2014/94/ UE est passible d'une amende administrative dont le montant ne peut excéder 15 000 € pour une personne physique et 75 000 € pour une personne morale.  
 

@@ -16,7 +16,7 @@ Les membres des chambres de commerce et d'industrie sont élus pour cinq ans.
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132412
 - Renvoie à : [art. L713-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-1) ; [art. L713-14 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-14)
-- Cité par : [art. A713-1 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-1) ; [art. R713-1-1 du Code de commerce](chapitre-iii.md#article-r713-1-1) ; [art. R713-2 du Code de commerce](chapitre-iii.md#article-r713-2) ; [art. R713-3 du Code de commerce](chapitre-iii.md#article-r713-3) ; [art. R713-4 du Code de commerce](chapitre-iii.md#article-r713-4) ; [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [Arrêté du 21 août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827514) ; [art. R4424-49 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126828) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
+- Cité par : [art. A713-1 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-1) ; [art. R713-1-1 du Code de commerce](chapitre-iii.md#article-r713-1-1) ; [art. R713-2 du Code de commerce](chapitre-iii.md#article-r713-2) ; [art. R713-3 du Code de commerce](chapitre-iii.md#article-r713-3) ; [art. R713-4 du Code de commerce](chapitre-iii.md#article-r713-4) ; [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [art. R4424-49 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-49) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Arrêté du 21 août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827514) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 I.-Les membres des chambres de commerce et d'industrie locales et des chambres de commerce et d'industrie départementales d'Ile-de-France sont élus dans les mêmes conditions que les membres des chambres de commerce et d'industrie territoriales, sous réserve des dispositions spécifiques prévues au présent chapitre.  
 
@@ -34,8 +34,8 @@ V.-Lorsqu'une élection doit avoir lieu avant le prochain renouvellement génér
 - Identifiant : LEGIARTI000051768801
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768801
-- Renvoie à : [art. D711-67-4 du Code de commerce](chapitre-ier.md#article-d711-67-4) ; [art. L713-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-1) ; [art. L713-2 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-2) ; [art. L713-3 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-3) ; [art. L713-11 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-11) ; [art. R713-1 du Code de commerce](chapitre-iii.md#article-r713-1) ; art. R613-7 du Code de la sécurité sociale ; art. 50-0 du Code général des impôts
-- Cité par : [art. A713-1 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-1) ; [art. R713-3 du Code de commerce](chapitre-iii.md#article-r713-3) ; [art. R713-4 du Code de commerce](chapitre-iii.md#article-r713-4) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2010-924 du 3 août 2010, art. 66](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023163511)
+- Renvoie à : [art. D711-67-4 du Code de commerce](chapitre-ier.md#article-d711-67-4) ; [art. L713-1 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-1) ; [art. L713-2 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-2) ; [art. L713-3 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-3) ; [art. L713-11 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-11) ; [art. R713-1 du Code de commerce](chapitre-iii.md#article-r713-1) ; [art. R613-7 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-i/chapitre-3.md#article-r613-7) ; [art. 50-0 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-50-0)
+- Cité par : [art. A713-1 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-1) ; [art. R713-3 du Code de commerce](chapitre-iii.md#article-r713-3) ; [art. R713-4 du Code de commerce](chapitre-iii.md#article-r713-4) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Décret n°2010-924 du 3 août 2010, art. 66](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023163511)
 
 I.-Une commission d'établissement des listes électorales est constituée, au plus tard le 1er octobre de l'année qui précède l'année de renouvellement général des membres, dans chaque circonscription de chambre de commerce et d'industrie territoriale.  
 
@@ -95,6 +95,7 @@ Dans les cas prévus au V de l'article R. 713-1, la liste électorale établie l
 - Identifiant : LEGIARTI000046249536
 - État : en vigueur depuis le 03/09/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046249536
+- Renvoie à : [art. R18 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r18)
 
 En vue des élections organisées en application de l'article L. 723-11, la commission d'établissement des listes électorales mentionnée à l'article L. 713-14 se réunit sur convocation de son président afin d'examiner les demandes d'inscription sur les listes électorales pour la désignation des membres des chambres de commerce et d'industrie présentées par les personnes justifiant qu'elles remplissent les conditions fixées à l'article L. 713-1 ;  
 
@@ -109,7 +110,7 @@ Les décisions de la commission peuvent faire l'objet d'un recours dans un déla
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768821
 - Renvoie à : [art. R713-1 du Code de commerce](chapitre-iii.md#article-r713-1)
-- Cité par : [art. A713-1 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-1) ; [art. R713-4 du Code de commerce](chapitre-iii.md#article-r713-4) ; [art. R713-10 du Code de commerce](chapitre-iii.md#article-r713-10) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2010-924 du 3 août 2010, art. 66](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023163511)
+- Cité par : [art. A713-1 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-1) ; [art. R713-4 du Code de commerce](chapitre-iii.md#article-r713-4) ; [art. R713-10 du Code de commerce](chapitre-iii.md#article-r713-10) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Décret n°2010-924 du 3 août 2010, art. 66](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023163511)
 
 L'autorité administrative mentionnée au II de l'article R. 713-1 met à la disposition du public, du 16 mai au 25 juin inclus, dans chaque greffe de juridiction de première instance compétente en matière commerciale dans la circonscription de la chambre de commerce et d'industrie concernée, au siège de cette chambre de commerce et d'industrie et dans chacune des préfectures territorialement compétentes, un exemplaire des listes électorales sur support papier, sur support physique électronique ou par accès à un fichier numérique.
 
@@ -123,7 +124,7 @@ Tout électeur est autorisé à prendre communication des listes électorales et
 - Identifiant : LEGIARTI000043132446
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132446
-- Renvoie à : [art. L444-3 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-3) ; [art. R713-1 du Code de commerce](chapitre-iii.md#article-r713-1) ; [art. R713-1-1 du Code de commerce](chapitre-iii.md#article-r713-1-1) ; art. 131-13 du Code pénal
+- Renvoie à : [art. L444-3 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-3) ; [art. R713-1 du Code de commerce](chapitre-iii.md#article-r713-1) ; [art. R713-1-1 du Code de commerce](chapitre-iii.md#article-r713-1-1) ; [art. 131-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-13)
 
 Le fait de se livrer à un usage commercial des listes électorales établies pour les élections des membres des chambres de commerce et d'industrie est puni de l'amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la cinquième classe.
 
@@ -132,7 +133,7 @@ Le fait de se livrer à un usage commercial des listes électorales établies po
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768828
 - Renvoie à : [art. R713-1 du Code de commerce](chapitre-iii.md#article-r713-1) ; [art. R713-1-1 du Code de commerce](chapitre-iii.md#article-r713-1-1) ; [art. R713-2 du Code de commerce](chapitre-iii.md#article-r713-2)
-- Cité par : [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785)
+- Cité par : [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57)
 
 Tout électeur peut présenter, pendant la période de publicité des listes électorales prévue à l'article R. 713-2, une réclamation à la commission d'établissement des listes électorales.
 
@@ -148,6 +149,7 @@ Les listes électorales définitivement arrêtées sont publiées sur les sites 
 - Identifiant : LEGIARTI000051768837
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768837
+- Renvoie à : [art. L18 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l18) ; [art. L20 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l20) ; [art. R17 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r17)
 
 Les décisions de la commission peuvent faire l'objet d'une contestation formée dans les conditions prévues au IV de l'article L. 18, à l'article L. 20, aux I et II de l'article R. 17 et aux articles R. 18 à R. 19-6 du code électoral.
 
@@ -161,7 +163,7 @@ Le tribunal judiciaire territorialement compétent est celui dans le ressort duq
 - Identifiant : LEGIARTI000043132623
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132623
-- Renvoie à : [art. L713-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-4) ; art. L931-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L713-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-4) ; [art. L931-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-ix/titre-iii/chapitre-ier.md#article-l931-1)
 - Cité par : [art. R920-1 du Code de commerce](../../livre-ix/titre-ii/articles-directs.md#article-r920-1)
 
 Pour les personnes physiques exerçant l'activité commerciale de pêche prévue à l'article L. 931-1 du code rural et de la pêche maritime, la durée d'ancienneté de deux ans prévue à l'article L. 713-4 commence à courir à compter de la date à laquelle l'intéressé a exploité son premier navire.
@@ -171,7 +173,7 @@ Pour les personnes physiques exerçant l'activité commerciale de pêche prévue
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132651
 - Renvoie à : [art. L713-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-4) ; [art. R711-18 du Code de commerce](chapitre-ier.md#article-r711-18)
-- Cité par : [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [art. R917-17 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-17) ; [Arrêté du 21 août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827514) ; [Arrêté du 21 août 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054827524) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785)
+- Cité par : [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [art. R917-17 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-17) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Arrêté du 21 août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827514) ; [Arrêté du 21 août 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054827524)
 
 I.-Tout électeur qui remplit les conditions fixées à l'article L. 713-4 peut se porter candidat dans sa sous-catégorie ou, à défaut, dans sa catégorie professionnelle. Nul ne peut être candidat dans plus d'une sous-catégorie ou catégorie.
 
@@ -198,7 +200,7 @@ Les conditions de durée prévues aux 1° et 2° du I de l'article L. 713-4 s'ap
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768849
 - Renvoie à : [art. L713-3 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-3) ; [art. L713-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-4) ; [art. R713-1 du Code de commerce](chapitre-iii.md#article-r713-1) ; [art. R713-8 du Code de commerce](chapitre-iii.md#article-r713-8) ; [art. R713-10 du Code de commerce](chapitre-iii.md#article-r713-10) ; [art. R713-12 du Code de commerce](chapitre-iii.md#article-r713-12)
-- Cité par : [art. R917-18 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-18) ; [Arrêté du 21 août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827514) ; [Arrêté du 21 août 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054827524) ; [art. R713-44 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022682629) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
+- Cité par : [art. R917-18 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-18) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Arrêté du 21 août 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054827514) ; [Arrêté du 21 août 2026, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054827524) ; [art. R713-44 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022682629) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 I. - Les candidatures sont déclarées par écrit à la préfecture du département où est situé le siège de la chambre de commerce et d'industrie territoriale, et à la préfecture de région pour les autres chambres de commerce et d'industrie.
 
@@ -225,7 +227,7 @@ Chaque candidat d'un groupement peut donner mandat à un autre membre du groupem
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768863
 - Renvoie à : [art. L713-4 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-4) ; [art. R713-2 du Code de commerce](chapitre-iii.md#article-r713-2)
-- Cité par : [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [art. R917-19 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-19) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
+- Cité par : [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [art. R917-19 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-19) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 Les déclarations de candidature qui remplissent les conditions prévues par l'article L. 713-4 et par la présente sous-section sont enregistrées et donnent lieu, dans un délai de trois jours ouvrables, à la délivrance d'un récépissé.
 
@@ -237,6 +239,7 @@ La campagne électorale débute le cinquième jour ouvré suivant la date limite
 - Identifiant : LEGIARTI000043132644
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132644
+- Renvoie à : [art. L265 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l265)
 
 Aucun retrait ou remplacement d'une candidature n'est accepté après son enregistrement.  
 
@@ -248,7 +251,8 @@ La candidature est enregistrée si le tribunal administratif n'a pas statué dan
 - Identifiant : LEGIARTI000043132601
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132601
-- Cité par : [art. A713-6 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-6) ; [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [art. R917-20 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-20) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
+- Renvoie à : [art. L52-11-1 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-v-bis.md#article-l52-11-1)
+- Cité par : [art. A713-6 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-6) ; [art. R713-9 du Code de commerce](chapitre-iii.md#article-r713-9) ; [art. R917-20 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-20) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 Les candidats à une chambre de commerce et d'industrie territoriale qui ont recueilli au moins 5 % des suffrages exprimés à cette élection peuvent obtenir le remboursement de leurs frais de campagne par la chambre de commerce et d'industrie territoriale.
 
@@ -262,7 +266,7 @@ Un arrêté du ministre chargé de la tutelle des chambres de commerce et d'indu
 - Identifiant : LEGIARTI000043132668
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132668
-- Cité par : [art. R917-21 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-21) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531) ; [Décret n°2010-924 du 3 août 2010, art. 66](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023163511)
+- Cité par : [art. R917-21 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-21) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531) ; [Décret n°2010-924 du 3 août 2010, art. 66](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023163511)
 
 La commission prévue à l'article L. 713-17, dénommée " commission d'organisation des élections ", compétente pour organiser, dans la circonscription de la chambre de commerce et d'industrie territoriale, les élections des membres de la chambre de commerce et d'industrie de région, de la chambre de commerce et d'industrie territoriale et, s'il y a lieu, des délégations de cette dernière chambre, est présidée par l'autorité administrative mentionnée au II de l'article R. 713-1 ou son représentant et comprend :
 
@@ -286,7 +290,7 @@ L'autorité administrative mentionnée au II de l'article R. 713-1 installe la c
 - Identifiant : LEGIARTI000043132662
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132662
-- Cité par : [art. A713-10 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-10) ; [art. R713-21 du Code de commerce](chapitre-iii.md#article-r713-21) ; [Arrêté du 23 septembre 2021, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044132566) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
+- Cité par : [art. A713-10 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-10) ; [art. R713-21 du Code de commerce](chapitre-iii.md#article-r713-21) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Arrêté du 23 septembre 2021, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044132566) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 I.-La commission d'organisation des élections est chargée :  
 
@@ -349,7 +353,7 @@ II. - Sous peine de nullité du vote, les enveloppes de scrutin comportent exclu
 - Identifiant : LEGIARTI000043132681
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132681
-- Renvoie à : [art. R713-17 du Code de commerce](chapitre-iii.md#article-r713-17)
+- Renvoie à : [art. R713-17 du Code de commerce](chapitre-iii.md#article-r713-17) ; [art. L65 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l65) ; [art. L66 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l66)
 - Cité par : [art. R713-20 du Code de commerce](chapitre-iii.md#article-r713-20) ; [art. R917-25 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-25) ; [Arrêté du 19 novembre 2010, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023124572) ; [Arrêté du 7 octobre 2016, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033230392) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 A la date fixée au 2° de l'article R. 713-14, la commission d'organisation des élections, composée le cas échéant en sections, procède aux opérations de dépouillement des votes par correspondance en séance publique et en présence de scrutateurs désignés par le président de la commission et par les candidats ou leurs mandataires.
@@ -376,7 +380,7 @@ Ces plis sont conservés, paraphés par les membres de la commission et annexés
 - Identifiant : LEGIARTI000043132701
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132701
-- Renvoie à : [art. L713-16 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-16)
+- Renvoie à : [art. L713-16 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-16) ; [art. L66 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l66) ; [art. R68 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-vi.md#article-r68)
 - Cité par : [art. R917-26 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-26)
 
 La commission totalise le nombre de suffrages obtenus par chaque candidat de chaque catégorie ou sous-catégorie et attribue les sièges conformément à l'article L. 713-16.  
@@ -476,7 +480,8 @@ En cas de dysfonctionnement du système de vote électronique compromettant le b
 - Identifiant : LEGIARTI000043124372
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043124372
-- Cité par : [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
+- Renvoie à : [art. L68 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l68)
+- Cité par : [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 Les candidats ayant obtenu le plus grand nombre de voix à l'élection de la chambre de commerce et d'industrie de région sont élus à la chambre de commerce et d'industrie de région ainsi qu'à la chambre de commerce et d'industrie territoriale et, le cas échéant, dans une délégation. Leur suppléant est élu à la chambre de commerce et d'industrie territoriale et, le cas échéant, dans la même délégation.
 
@@ -486,7 +491,8 @@ Après attribution des sièges pourvus en application de l'alinéa précédent, 
 - Identifiant : LEGIARTI000043132762
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132762
-- Cité par : [art. R917-27 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-27) ; [Arrêté du 2 octobre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044171062) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785)
+- Renvoie à : [art. L68 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-vi.md#article-l68)
+- Cité par : [art. R917-27 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-27) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Arrêté du 2 octobre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044171062)
 
 A l'issue du dépouillement, la commission d'organisation des élections dresse, pour chaque élection, un procès-verbal, établi selon un modèle fixé par arrêté du ministre de tutelle signé par son président et ses membres et proclame les résultats des élections en public.
 
@@ -500,7 +506,7 @@ Les listes d'émargement peuvent être consultées à la préfecture dans les co
 - Identifiant : LEGIARTI000043124369
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043124369
-- Cité par : [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785)
+- Cité par : [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57)
 
 A l'issue du dépouillement des élections des membres des chambres de commerce et d'industrie de région, se réunit au niveau régional une commission composée du préfet de région ou de son représentant, du président de la chambre de commerce et d'industrie de région ou de son représentant et d'un représentant élu de chaque chambre de commerce et d'industrie territoriale.
 
@@ -514,6 +520,7 @@ Le secrétariat de la commission est assuré par le directeur général de la ch
 - Identifiant : LEGIARTI000051768877
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768877
+- Renvoie à : [art. R811-1 du Code de justice administrative](../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-ier.md#article-r811-1) ; [art. L248 du Code électoral](../../../../code-electoral/partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l248) ; [art. R119 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md#article-r119) ; [art. R122 du Code électoral](../../../../code-electoral/partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md#article-r122)
 - Cité par : [Décret n°2009-1774 du 30 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021628531)
 
 Les recours en annulation des élections aux chambres de commerce et d'industrie peuvent être formés par tout électeur et par le préfet dans les conditions prévues aux articles L. 248, et R. 119 à R. 122 du code électoral.
@@ -555,7 +562,7 @@ Un arrêté du ministre chargé de la tutelle des chambres de commerce et d'indu
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043132770
 - Renvoie à : [art. L713-12 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-12) ; [art. L713-13 du Code de commerce](../../../partie-legislative/livre-vii/titre-ier/chapitre-iii.md#article-l713-13)
-- Cité par : [art. A713-28 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-28) ; [art. A713-29 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-29) ; [art. D712-25 du Code de commerce](chapitre-ii.md#article-d712-25) ; [art. R711-19 du Code de commerce](chapitre-ier.md#article-r711-19) ; [art. R711-63 du Code de commerce](chapitre-ier.md#article-r711-63) ; [art. R713-67 du Code de commerce](chapitre-iii.md#article-r713-67) ; [art. R917-31 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-31) ; [art. R927-3 du Code de commerce](../../livre-ix/titre-ii/chapitre-vii.md#article-r927-3) ; [Arrêté du 18 janvier 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049087509) ; [Arrêté du 19 décembre 2025, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053128569) ; [art. R713-71 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030610439) ; [art. R4424-46 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126837) ; [art. R4424-57 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053126785) ; [Décret n°2007-1308 du 5 septembre 2007, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006267969) ; [Décret n°2010-924 du 3 août 2010, art. 68](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022674660)
+- Cité par : [art. A713-28 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-28) ; [art. A713-29 du Code de commerce](../../../partie-arretes/livre-vii/titre-ier/chapitre-iii.md#article-a713-29) ; [art. D712-25 du Code de commerce](chapitre-ii.md#article-d712-25) ; [art. R711-19 du Code de commerce](chapitre-ier.md#article-r711-19) ; [art. R711-63 du Code de commerce](chapitre-ier.md#article-r711-63) ; [art. R713-67 du Code de commerce](chapitre-iii.md#article-r713-67) ; [art. R917-31 du Code de commerce](../../livre-ix/titre-ier/chapitre-vii.md#article-r917-31) ; [art. R927-3 du Code de commerce](../../livre-ix/titre-ii/chapitre-vii.md#article-r927-3) ; [art. R4424-46 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-46) ; [art. R4424-57 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-reglementaire/quatrieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-r4424-57) ; [Arrêté du 18 janvier 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049087509) ; [Arrêté du 19 décembre 2025, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053128569) ; [art. R713-71 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030610439) ; [Décret n°2007-1308 du 5 septembre 2007, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006267969) ; [Décret n°2010-924 du 3 août 2010, art. 68](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022674660)
 
 I.-Lors de chaque renouvellement général, la chambre de commerce et d'industrie de région et la chambre de commerce et d'industrie territoriale réalisent, chacune pour ce qui la concerne et suivant les critères fixés par les articles L. 713-11, L. 713-12 et L. 713-13, une étude économique de pondération.
 

@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - Identifiant : LEGIARTI000033292511
 - État : en vigueur depuis le 23/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033292511
-- Cité par : [art. R3172-2 du Code du travail](chapitre-ii.md#article-r3172-2) ; [art. R4511-7 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027234099)
+- Cité par : [art. R4511-7 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-v/titre-ier/chapitre-ier.md#article-r4511-7) ; [art. R3172-2 du Code du travail](chapitre-ii.md#article-r3172-2)
 
 Dans les entreprises et établissements dont tous les salariés sans exception ne bénéficient pas du repos hebdomadaire toute la journée du dimanche, l'employeur communique, par tout moyen, aux salariés les jours et heures de repos collectif attribués à tout ou partie d'entre eux :
 

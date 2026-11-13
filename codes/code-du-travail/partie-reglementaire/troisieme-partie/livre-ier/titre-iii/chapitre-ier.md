@@ -45,7 +45,7 @@ Si des salariés sont occupés durant la ou les périodes fixées par l'employeu
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033510031
 - Renvoie à : [art. L3131-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l3131-2)
-- Cité par : [art. D3131-2 du Code du travail](chapitre-ier.md#article-d3131-2) ; [art. D714-16 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036014564)
+- Cité par : [art. D3131-2 du Code du travail](chapitre-ier.md#article-d3131-2) ; [art. D714-16 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-iv.md#article-d714-16)
 
 Il peut être dérogé, dans des conditions et selon des modalités fixées par accord prévu à l'article L. 3131-2, à la période minimale de onze heures de repos quotidien par salarié pour ceux exerçant les activités suivantes :
 

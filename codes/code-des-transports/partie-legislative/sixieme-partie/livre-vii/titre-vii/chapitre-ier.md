@@ -1,0 +1,30 @@
+# Chapitre Ier : L'aéronef
+
+Code des transports › PARTIE LÉGISLATIVE › SIXIÈME PARTIE : AVIATION CIVILE › LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER › TITRE VII : POLYNÉSIE FRANÇAISE
+
+### Article L6771-1
+- Identifiant : LEGIARTI000045456122
+- État : en vigueur depuis le 01/04/2022
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045456122
+- Renvoie à : [art. L5771-1 du Code des transports](../../../cinquieme-partie/livre-vii/titre-vii/chapitre-ier.md#article-l5771-1) ; [art. L6111-1 du Code des transports](../../livre-ier/titre-ier/chapitre-unique.md#article-l6111-1) ; [art. L6123-1 du Code des transports](../../livre-ier/titre-ii/chapitre-iii.md#article-l6123-1) ; [art. L6123-2 du Code des transports](../../livre-ier/titre-ii/chapitre-iii.md#article-l6123-2) ; [art. L6142-1 du Code des transports](../../livre-ier/titre-iv/chapitre-ii.md#article-l6142-1)
+
+Les dispositions du titre Ier et du titre IV du livre Ier de la présente partie sont applicables en Polynésie française.
+
+Le chapitre II du titre III du même livre Ier est également applicable en Polynésie française sous réserve, pour les sections 1 et 2, des conditions fixées à l'article L. 5771-1.  
+
+L'article L. 6111-1 est applicable en Polynésie française dans sa rédaction résultant de l'ordonnance n° 2022-456 du 30 mars 2022 relative à la création d'un régime de déclaration dans le domaine de la sécurité aérienne et à l'adaptation du droit national à l'entrée en vigueur du règlement (UE) 2018/1139 du 4 juillet 2018.
+
+Pour l'application en Polynésie française de l'article L. 6111-1, les mots : “ au sens du règlement ” sont remplacés par les mots : “ au sens des règles applicables en métropole en vertu du règlement ”.
+
+L'article L. 6142-1 est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2021-1308 du 8 octobre 2021 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine des transports, de l'environnement, de l'économie et des finances.
+
+Les dispositions des articles L. 6123-1 et L. 6123-2 sont applicables en Polynésie française dans leur rédaction résultant de l'ordonnance n° 2021-1843 du 22 décembre 2021.
+
+Les dispositions du chapitre III du titre IV du livre Ier sont applicables en Polynésie française dans leur rédaction résultant de l'ordonnance n° 2022-455 du 30 mars 2022.
+
+### Article L6771-2
+- Identifiant : LEGIARTI000045445066
+- État : en vigueur depuis le 01/04/2022
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045445066
+
+Pour l'application en Polynésie française du chapitre III du titre IV du livre Ier, les références au règlement délégué (UE) 2019/945 de la Commission du 12 mars 2019 modifié relatif aux systèmes d'aéronefs sans équipage à bord et aux exploitants, issus de pays tiers, de systèmes d'aéronefs sans équipage à bord et au règlement (UE) 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 sur la surveillance du marché et la conformité des produits, et modifiant la directive 2004/42/ CE et les règlements (CE) n° 765/2008 et (UE) n° 305/2011 sont remplacées par les références aux règles applicables en métropole en vertu de ces règlements.

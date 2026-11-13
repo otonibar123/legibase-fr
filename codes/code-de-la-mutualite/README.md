@@ -1,0 +1,99 @@
+# Code de la mutualité
+
+Dernière modification du texte dans LEGI : 20/08/2026. 532 articles en vigueur, répartis dans 60 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.**
+    - [Chapitre préliminaire : Principes communs aux mutuelles, unions et fédérations](partie-legislative/livre-ier/chapitre-preliminaire.md) (9 articles)
+    - [Chapitre Ier : Objet des mutuelles, unions et fédérations.](partie-legislative/livre-ier/chapitre-ier.md) (10 articles)
+    - [Chapitre III : Création, fusion, scission et dissolution des mutuelles, unions et fédérations.](partie-legislative/livre-ier/chapitre-iii.md) (4 articles)
+    - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.](partie-legislative/livre-ier/chapitre-iv.md) (62 articles)
+    - [Chapitre V : Règles particulières à certaines mutuelles, unions et fédérations à caractère professionnel.](partie-legislative/livre-ier/chapitre-v.md) (7 articles)
+    - [Chapitre VI : Distribution d'assurances](partie-legislative/livre-ier/chapitre-vi.md) (6 articles)
+  - **Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.**
+    - **Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation et aux mutuelles et unions de retraite professionnelle supplémentaire.**
+      - [Chapitre Ier : Champ d'application et conditions d'activité.](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (23 articles)
+      - [Chapitre II : Fonctionnement.](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (21 articles)
+      - [Chapitre III : Peines.](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Mutuelles et unions de retraite professionnelle supplémentaire](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (13 articles)
+    - **Titre II : Opérations des mutuelles et des unions.**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (35 articles)
+      - [Chapitre II : Dispositions relatives à certaines opérations de retraite.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (6 articles)
+      - [Chapitre II bis : Retraite professionnelle supplémentaire.](partie-legislative/livre-ii/titre-ii/chapitre-ii-bis.md) (7 articles)
+      - [Chapitre II ter : Plans d'épargne retraite donnant lieu à l'adhésion à un contrat d'assurance de groupe](partie-legislative/livre-ii/titre-ii/chapitre-ii-ter.md) (1 article)
+      - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (45 articles)
+      - [Chapitre IV : Dispositions particulières à l'assurance de protection juridique et aux remboursements de frais de soins de santé.](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (14 articles)
+      - [Chapitre V : Loi applicable aux contrats pour les risques situés dans un ou plusieurs Etats parties à l'accord sur l'Espace économique européen et pour les engagements qui y sont pris.](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (10 articles)
+      - [Chapitre VI : Dispositions relatives au cautionnement.](partie-legislative/livre-ii/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à la coassurance](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (1 article)
+  - **Livre III : Mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.**
+    - [Titre Ier : Constitution et règles de fonctionnement des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.](partie-legislative/livre-iii/titre-ier.md) (4 articles)
+    - [Titre II : Champ d'intervention des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.](partie-legislative/livre-iii/titre-ii.md) (6 articles)
+  - **Livre IV : Relations avec l'Etat et les autres collectivités publiques.**
+    - **Titre II : Incitation à l'action mutualiste.**
+      - [Chapitre unique : Fonds national de solidarité et d'action mutualistes.](partie-legislative/livre-iv/titre-ii/chapitre-unique.md) (3 articles)
+    - **Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance.**
+      - [Chapitre unique : Le fonds de garantie.](partie-legislative/livre-iv/titre-iii/chapitre-unique.md) (8 articles)
+  - [Livre V : Contrôle des mutuelles, unions et fédérations.](partie-legislative/livre-v.md) (2 articles)
+  - [Livre VI : Dispositions d'application.](partie-legislative/livre-vi.md) (3 articles)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.**
+    - [Chapitre préliminaire : Principes communs aux mutuelles, unions et fédérations](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-preliminaire.md) (1 article)
+    - [Chapitre Ier : Objet des mutuelles, unions et fédérations](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier.md) (11 articles)
+    - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-iv.md) (13 articles)
+    - [Chapitre V : Unions mutualistes de groupe et unions mentionnées à l'article L. 111-4-3](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-v.md) (11 articles)
+    - [Chapitre VI : Distribution d'assurances](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-vi.md) (1 article)
+  - **Livre II : Mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.**
+    - **Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.**
+      - [Chapitre Ier : Champ d'application et conditions d'activité.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Fonctionnement.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md) (16 articles)
+      - [Chapitre IV : Mutuelles et unions de retraite professionnelle supplémentaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iv.md) (7 articles)
+    - **Titre II : Opération des mutuelles et des unions.**
+      - [Chapitre Ier : Dispositions générales.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Dispositions relatives à certaines opérations de retraite à caractère collectif](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii.md) (29 articles)
+      - [Chapitre II bis : Retraite professionnelle supplémentaire.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii-bis.md) (9 articles)
+      - [Chapitre III : Opérations qui dépendent de la durée de la vie humaine et opérations de capitalisation.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iii.md) (12 articles)
+  - **Livre III : Ouverture des services des mutuelles et unions pratiquant la prévention, l'action sociale et la gestion de réalisations sanitaires et sociales.**
+    - [Titre II : Champ d'intervention.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii.md) (1 article)
+  - **Livre IV : Relations avec l'Etat et les autres collectivités publiques.**
+    - **Titre II : Incitation à l'action mutualiste.**
+      - [Chapitre unique : Fonds national de solidarité et d'action mutualistes.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-unique.md) (6 articles)
+    - **Titre III : Fonds de garantie contre la défaillance des mutuelles et des unions pratiquant des opérations d'assurance**
+      - [Chapitre unique : Le fonds de garantie](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-unique.md) (17 articles)
+  - **Livre V : Contrôle des mutuelles, unions et fédérations.**
+    - [Chapitre III : Dispositions pénales.](partie-reglementaire-decrets-en-conseil-d-etat/livre-v/chapitre-iii.md) (2 articles)
+- **Partie réglementaire - Décrets simples**
+  - **Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.**
+    - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.](partie-reglementaire-decrets-simples/livre-ier/chapitre-iv.md) (9 articles)
+  - **Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.**
+    - **Titre II : Opérations des mutuelles et des unions.**
+      - [Chapitre I : Dispositions générales](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-i.md) (1 article)
+      - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-iii.md) (7 articles)
+  - **Livre IV : Relations avec l'Etat et les autres collectivités publiques.**
+    - **Titre Ier : Organes administratifs de la mutualité.**
+      - [Chapitre II : Comités régionaux de coordination de la mutualité.](partie-reglementaire-decrets-simples/livre-iv/titre-ier/chapitre-ii.md) (3 articles)
+- **Partie réglementaire - Arrêtés**
+  - **Livre Ier : Règles générales applicables à l'ensemble des mutuelles, unions et fédérations.**
+    - [Chapitre préliminaire : Principes communs aux mutuelles, unions et fédérations](partie-reglementaire-arretes/livre-ier/chapitre-preliminaire.md) (2 articles)
+    - [Chapitre IV : Fonctionnement des mutuelles, unions et fédérations : dispositions générales.](partie-reglementaire-arretes/livre-ier/chapitre-iv.md) (2 articles)
+  - **Livre II : Mutuelles et unions pratiquant des opérations d'assurance, de réassurance et de capitalisation.**
+    - **Titre Ier : Règles de fonctionnement applicables aux mutuelles et unions pratiquant des opérations d'assurance et de capitalisation.**
+      - [Chapitre Ier : Champ d'application et conditions d'activité.](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Fonctionnement.](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+    - **Titre II : Opérations des mutuelles et des unions.**
+      - [Chapitre II : Dispositions relatives à certaines opérations de retraite.](partie-reglementaire-arretes/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre II bis : Retraite professionnelle supplémentaire.](partie-reglementaire-arretes/livre-ii/titre-ii/chapitre-ii-bis.md) (4 articles)
+      - [Chapitre II ter : Plans d'épargne retraite donnant lieu à l'adhésion à un contrat d'assurance de groupe](partie-reglementaire-arretes/livre-ii/titre-ii/chapitre-ii-ter.md) (1 article)
+      - [Chapitre III : Opérations qui dépendent de la durée de vie humaine et opérations de capitalisation.](partie-reglementaire-arretes/livre-ii/titre-ii/chapitre-iii.md) (16 articles)
+  - **Livre IV : Relations avec l'Etat et les autres collectivités publiques**
+    - **Titre II : Incitation à l'action mutualiste**
+      - [Chapitre unique : Fonds national de solidarité et d'action mutualistes](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-unique.md) (9 articles)
+- **Annexes**
+  - [Annexes à l'article A211-3](annexes/annexes-a-l-article-a211-3.md) (3 articles)
+  - [Annexe à l'article A212-14](annexes/annexe-a-l-article-a212-14.md) (1 article)
+  - [Annexe à l'article A223-6-1](annexes/annexe-a-l-article-a223-6-1.md) (1 article)
+  - [Annexe à l'article A223-10-1](annexes/annexe-a-l-article-a223-10-1.md) (1 article)
+  - [Annexe à l'article A223-10-2](annexes/annexe-a-l-article-a223-10-2.md) (1 article)
+  - [Annexe à l'article A223-10-3](annexes/annexe-a-l-article-a223-10-3.md) (1 article)

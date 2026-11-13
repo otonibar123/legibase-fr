@@ -51,7 +51,7 @@ Nonobstant toute disposition contraire des statuts, sont réputés présents, po
 - Identifiant : LEGIARTI000042338824
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042338824
-- Renvoie à : [art. L22-10-8 du Code de commerce](chapitre-x.md#article-l22-10-8) ; [art. L233-16 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-16) ; [art. L137-11 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741129) ; art. L137-11-2 du Code de la sécurité sociale
+- Renvoie à : [art. L22-10-8 du Code de commerce](chapitre-x.md#article-l22-10-8) ; [art. L233-16 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-16) ; [art. L137-11 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11) ; [art. L137-11-2 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11-2)
 
 Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, en cas de nomination aux fonctions de président, de directeur général ou de directeur général délégué d'une personne liée par un contrat de travail à la société ou à toute société contrôlée ou qui la contrôle au sens des II et III de l'article L. 233-16, les dispositions dudit contrat correspondant, le cas échéant, à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la cessation ou du changement de ces fonctions, ou postérieurement à celles-ci, ou des engagements de retraite à prestations définies répondant aux caractéristiques des régimes mentionnés à l'article L. 137-11 et à l'article L. 137-11-2 du code de la sécurité sociale pour la période d'exercice du mandat social, sont soumises au régime prévu au IV de l'article L. 22-10-8 du présent code.
 
@@ -119,7 +119,7 @@ IV.-Les éléments ou les engagements mentionnés au premier alinéa du III sont
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535206
 - Renvoie à : [art. L22-10-8 du Code de commerce](chapitre-x.md#article-l22-10-8) ; [art. L22-10-34 du Code de commerce](chapitre-x.md#article-l22-10-34) ; [art. L225-37 du Code de commerce](chapitre-v.md#article-l225-37) ; [art. L225-45 du Code de commerce](chapitre-v.md#article-l225-45) ; [art. L225-102 du Code de commerce](chapitre-v.md#article-l225-102) ; [art. L228-13 du Code de commerce](chapitre-viii.md#article-l228-13) ; [art. L228-93 du Code de commerce](chapitre-viii.md#article-l228-93) ; [art. L233-16 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-16)
-- Cité par : [art. A821-97 du Code de commerce](../../../partie-arretes/livre-viii/titre-ii/chapitre-ier.md#article-a821-97) ; [art. L22-10-34 du Code de commerce](chapitre-x.md#article-l22-10-34) ; [art. L22-10-71 du Code de commerce](chapitre-x.md#article-l22-10-71) ; [art. L22-10-77 du Code de commerce](chapitre-x.md#article-l22-10-77) ; [Arrêté du 12 novembre 2004, art. 222-9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051679244) ; [art. L22-10-20 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050352698) ; [art. L22-10-78 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051557707)
+- Cité par : [art. A821-97 du Code de commerce](../../../partie-arretes/livre-viii/titre-ii/chapitre-ier.md#article-a821-97) ; [art. L22-10-34 du Code de commerce](chapitre-x.md#article-l22-10-34) ; [art. L22-10-71 du Code de commerce](chapitre-x.md#article-l22-10-71) ; [art. L22-10-77 du Code de commerce](chapitre-x.md#article-l22-10-77) ; [art. R451-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iv/titre-v/chapitre-ier.md#article-r451-1) ; [Arrêté du 12 novembre 2004, art. 222-9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051679244) ; [art. L22-10-20 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050352698) ; [art. L22-10-78 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051557707)
 
 I.-Les sociétés dont les actions sont admises aux négociations sur un marché réglementé présentent, de manière claire et compréhensible, au sein du rapport sur le gouvernement d'entreprise mentionné au dernier alinéa de l'article L. 225-37, s'il y a lieu, pour chaque mandataire social, y compris les mandataires sociaux dont le mandat a pris fin et ceux nouvellement nommés au cours de l'exercice écoulé, les informations suivantes :
 
@@ -274,7 +274,7 @@ Les dispositions de l'article L. 225-71 concernant les salariés actionnaires me
 - Identifiant : LEGIARTI000042338871
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042338871
-- Renvoie à : [art. L22-10-26 du Code de commerce](chapitre-x.md#article-l22-10-26) ; [art. L233-16 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-16) ; [art. L137-11 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741129) ; art. L137-11-2 du Code de la sécurité sociale
+- Renvoie à : [art. L22-10-26 du Code de commerce](chapitre-x.md#article-l22-10-26) ; [art. L233-16 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-16) ; [art. L137-11 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11) ; [art. L137-11-2 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11-2)
 
 Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, en cas de nomination aux fonctions de membre du directoire d'une personne liée par un contrat de travail à la société ou à toute société contrôlée ou qui la contrôle au sens des II et III de l'article L. 233-16, les dispositions dudit contrat correspondant, le cas échéant, à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la cessation ou du changement de ces fonctions, ou postérieurement à celles-ci, ou des engagements de retraite à prestations définies répondant aux caractéristiques des régimes mentionnés à l'article L. 137-11 et à l'article L. 137-11-2 du code de la sécurité sociale pour la période d'exercice du mandat social, sont soumises au régime prévu au IV de l'article L. 22-10-26 du présent code.
 
@@ -410,7 +410,7 @@ Les éléments de rémunération variables ou exceptionnels attribués au titre 
 - Identifiant : LEGIARTI000053152500
 - État : en vigueur depuis le 24/12/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053152500
-- Renvoie à : [art. L225-100 du Code de commerce](chapitre-v.md#article-l225-100) ; art. L1621-6 du Code général des collectivités territoriales
+- Renvoie à : [art. L225-100 du Code de commerce](chapitre-v.md#article-l225-100) ; [art. L1621-6 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-vi/titre-ii/chapitre-unique.md#article-l1621-6)
 - Cité par : [art. L221-7 du Code de commerce](chapitre-ier.md#article-l221-7)
 
 Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, le rapport de gestion présenté par le conseil d'administration ou le directoire à l'assemblée générale ordinaire mentionné au deuxième alinéa de l'article L. 225-100 comprend, outre les informations mentionnées au II de l'article L. 232-1, les informations suivantes :
@@ -432,7 +432,7 @@ Les informations mentionnées au 7° du II de l'article L. 232-1 sont applicable
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535191
 - Renvoie à : [art. L225-102-1 du Code de commerce](chapitre-v.md#article-l225-102-1)
-- Cité par : [art. L221-7 du Code de commerce](chapitre-ier.md#article-l221-7) ; [art. R229-47 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048878409) ; [art. L524-2-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054716770)
+- Cité par : [art. L221-7 du Code de commerce](chapitre-ier.md#article-l221-7) ; [art. R229-47 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-ii/titre-ii/chapitre-ix.md#article-r229-47) ; [art. L524-2-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-iv.md#article-l524-2-1)
 
 I. - L'article L. 232-6-3 est applicable aux sociétés dont les titres sont admis aux négociations sur un marché réglementé qui sont des petites ou des moyennes entreprises, au sens de l'article L. 230-1.
 
@@ -450,7 +450,7 @@ III. - Toute société qui est une grande entreprise, au sens de l'article L. 23
 - Identifiant : LEGIARTI000048535186
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048535186
-- Renvoie à : art. L451-1-2 du Code monétaire et financier
+- Renvoie à : [art. L451-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 - Cité par : [Arrêté du 12 novembre 2004, art. 221-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051679272)
 
 Par dérogation aux deuxième et troisième phrases du III de l'article L. 232-6-2, les émetteurs mentionnés aux I et II de l'article L. 451-1-2 du code monétaire et financier et soumis aux obligations définies au I de l'article L. 232-6-2 ou au I de l'article L. 233-28-3 dont des titres de capital ou des titres de créance sont admis aux négociations sur un marché réglementé publient leur rapport sur les paiements effectués au profit des autorités de chacun des Etats ou territoires dans lesquels elles exercent au I de l'article L. 232-6-2 et le déposent au greffe du tribunal de commerce, ainsi qu'auprès de l'Autorité des marchés financiers, dans les six mois qui suivent la clôture de leur exercice.
@@ -485,7 +485,7 @@ Un décret en Conseil d'Etat précise les modalités de retransmission, d'enregi
 - Identifiant : LEGIARTI000042338943
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042338943
-- Renvoie à : [art. L225-106 du Code de commerce](chapitre-v.md#article-l225-106) ; art. L433-3 du Code monétaire et financier
+- Renvoie à : [art. L225-106 du Code de commerce](chapitre-v.md#article-l225-106) ; [art. L433-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-3)
 - Cité par : [art. L22-10-40 du Code de commerce](chapitre-x.md#article-l22-10-40) ; [art. L22-10-41 du Code de commerce](chapitre-x.md#article-l22-10-41) ; [art. R225-81 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-v.md#article-r225-81)
 
 Outre les personnes mentionnées au I de l'article L. 225-106, un actionnaire peut se faire représenter par toute autre personne physique ou morale de son choix lorsque les actions de la société sont admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation soumis aux dispositions du II de l'article L. 433-3 du code monétaire et financier dans les conditions prévues par le règlement général de l'Autorité des marchés financiers, figurant sur une liste arrêtée par l'autorité dans des conditions fixées par son règlement général, à condition dans cette seconde hypothèse, que les statuts le prévoient.
@@ -569,7 +569,7 @@ Un décret en Conseil d'Etat précise le contenu des confirmations mentionnées 
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048539551
 - Renvoie à : [art. L22-10-68 du Code de commerce](chapitre-x.md#article-l22-10-68) ; [art. L22-10-69 du Code de commerce](chapitre-x.md#article-l22-10-69) ; [art. L22-10-73 du Code de commerce](chapitre-x.md#article-l22-10-73) ; [art. L225-103 du Code de commerce](chapitre-v.md#article-l225-103) ; [art. L225-105 du Code de commerce](chapitre-v.md#article-l225-105) ; [art. L225-231 du Code de commerce](chapitre-v.md#article-l225-231) ; [art. L225-232 du Code de commerce](chapitre-v.md#article-l225-232) ; [art. L225-252 du Code de commerce](chapitre-v.md#article-l225-252)
-- Cité par : [art. L22-10-67 du Code de commerce](chapitre-x.md#article-l22-10-67) ; [art. L22-10-68 du Code de commerce](chapitre-x.md#article-l22-10-68) ; [art. L22-10-70 du Code de commerce](chapitre-x.md#article-l22-10-70) ; [art. L22-10-73 du Code de commerce](chapitre-x.md#article-l22-10-73) ; [art. L225-147-1 du Code de commerce](chapitre-v.md#article-l225-147-1) ; [art. L225-231 du Code de commerce](chapitre-v.md#article-l225-231) ; [art. L452-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042340672)
+- Cité par : [art. L22-10-67 du Code de commerce](chapitre-x.md#article-l22-10-67) ; [art. L22-10-68 du Code de commerce](chapitre-x.md#article-l22-10-68) ; [art. L22-10-70 du Code de commerce](chapitre-x.md#article-l22-10-70) ; [art. L22-10-73 du Code de commerce](chapitre-x.md#article-l22-10-73) ; [art. L225-147-1 du Code de commerce](chapitre-v.md#article-l225-147-1) ; [art. L225-231 du Code de commerce](chapitre-v.md#article-l225-231) ; [art. L452-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ii.md#article-l452-1)
 
 I.-Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, les actionnaires justifiant d'une inscription nominative depuis au moins deux ans et détenant ensemble au moins 5 % des droits de vote peuvent se regrouper en associations destinées à représenter leurs intérêts au sein de la société. Pour exercer les droits qui leur sont reconnus aux articles L. 22-10-68, L. 22-10-69, L. 22-10-73, L. 225-103, L. 225-105, L. 225-231, L. 225-232, L. 225-252, L. 821-49 et L. 821-50, ces associations doivent avoir communiqué leur statut à la société et à l'Autorité des marchés financiers.
 
@@ -668,7 +668,7 @@ Les effets de la limitation du nombre de voix dont chaque actionnaire dispose da
 - État : en vigueur depuis le 14/03/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320273
 - Renvoie à : [art. L233-7 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-7)
-- Cité par : [art. L225-122 du Code de commerce](chapitre-v.md#article-l225-122) ; [art. L233-7 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-7) ; [art. L214-8-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320260) ; [art. L214-24-43 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320245)
+- Cité par : [art. L225-122 du Code de commerce](chapitre-v.md#article-l225-122) ; [art. L233-7 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-7) ; [art. L214-8-9 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-8-9) ; [art. L214-24-43 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-43)
 
 I. - Lorsque les actions d'une société dont le siège social est établi en France sont admises aux négociations sur un marché réglementé d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, toute personne, à l'exception des personnes mentionnées au 3° du IV de l'article L. 233-7, qui détient, seule ou de concert, au titre d'une ou plusieurs opérations de cession temporaire portant sur ces actions ou de toute opération lui donnant le droit ou lui faisant obligation de revendre ou de restituer ces actions au cédant, un nombre d'actions représentant plus du deux-centième des droits de vote, informe la société et l'Autorité des marchés financiers, au plus tard à la date d'inscription en compte des actionnaires précédant l'assemblée générale, fixée par décret en Conseil d'Etat, et lorsque le contrat organisant cette opération demeure en vigueur à cette date, du nombre total d'actions qu'elle possède à titre temporaire. Cette déclaration doit comporter, outre le nombre d'actions acquises au titre de l'une des opérations susmentionnées, l'identité du cédant, la date et l'échéance du contrat relatif à l'opération et, s'il y a lieu, la convention de vote.
 
@@ -686,7 +686,7 @@ III. - Le tribunal de commerce dans le ressort duquel la société a son siège 
 - Identifiant : LEGIARTI000042339016
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339016
-- Renvoie à : art. L433-3 du Code monétaire et financier
+- Renvoie à : [art. L433-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-3)
 - Cité par : [art. L22-10-54 du Code de commerce](chapitre-x.md#article-l22-10-54)
 
 Dans les sociétés anonymes dont les titres de capital sont admis aux négociations sur un marché réglementé ou sur un système multilatéral de négociation soumis aux dispositions du II de l'article L. 433-3 du code monétaire et financier :
@@ -719,7 +719,7 @@ Dans le cas de l'émission immédiate ou différée de titres de capital sans dr
 - Identifiant : LEGIARTI000049720349
 - État : en vigueur depuis le 14/09/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049720349
-- Renvoie à : [art. L225-136 du Code de commerce](chapitre-v.md#article-l225-136)
+- Renvoie à : [art. L225-136 du Code de commerce](chapitre-v.md#article-l225-136) ; [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2)
 - Cité par : [art. L22-10-55 du Code de commerce](chapitre-x.md#article-l22-10-55) ; [art. L225-135 du Code de commerce](chapitre-v.md#article-l225-135)
 
 Par dérogation au deuxième alinéa de l'article L. 225-136, pour les sociétés dont les titres de capital sont admis aux négociations sur un marché réglementé et dans la mesure où les titres de capital à émettre de manière immédiate ou différée leur sont assimilables, le prix d'émission de titres de capital sans droit préférentiel de souscription par une offre au public peut, sur délégation de l'assemblée générale extraordinaire, être librement fixé par le conseil d'administration ou le directoire.
@@ -734,7 +734,7 @@ Un décret en Conseil d'Etat détermine les mentions qui doivent figurer dans le
 - Identifiant : LEGIARTI000049712174
 - État : en vigueur depuis le 14/09/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049712174
-- Renvoie à : [art. L22-10-53 du Code de commerce](chapitre-x.md#article-l22-10-53) ; [art. L225-147 du Code de commerce](chapitre-v.md#article-l225-147) ; art. L433-3 du Code monétaire et financier
+- Renvoie à : [art. L22-10-53 du Code de commerce](chapitre-x.md#article-l22-10-53) ; [art. L225-147 du Code de commerce](chapitre-v.md#article-l225-147) ; [art. L433-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-3)
 
 Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation soumis au II de l'article L. 433-3 du code monétaire et financier, lorsque l'augmentation de capital est réservée à une ou à plusieurs personnes nommément désignées, l'assemblée générale extraordinaire peut déléguer au conseil d'administration ou au directoire le pouvoir de les désigner, dans la limite de 30 % du capital social par an.
 
@@ -795,7 +795,7 @@ Sauf lorsqu'elle porte sur une augmentation de capital visée au I de l'article 
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339064
 - Renvoie à : [art. L225-177 du Code de commerce](chapitre-v.md#article-l225-177)
-- Cité par : [art. L22-10-58 du Code de commerce](chapitre-x.md#article-l22-10-58) ; [art. L225-179 du Code de commerce](chapitre-v.md#article-l225-179) ; [art. L225-186 du Code de commerce](chapitre-v.md#article-l225-186) ; [art. L3332-25 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-25) ; [art. 235 ter XB du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053154630) ; [art. L212-16 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042340687)
+- Cité par : [art. L22-10-58 du Code de commerce](chapitre-x.md#article-l22-10-58) ; [art. L225-179 du Code de commerce](chapitre-v.md#article-l225-179) ; [art. L225-186 du Code de commerce](chapitre-v.md#article-l225-186) ; [art. L137-13 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-13) ; [art. L3332-25 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-25) ; [art. L212-16 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-16) ; [art. 235 ter XB du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053154630)
 
 Dans une société dont les actions sont admises aux négociations sur un marché réglementé, les options mentionnées à l'article L. 225-177 ne peuvent être consenties :
 
@@ -808,7 +808,7 @@ Dans une société dont les actions sont admises aux négociations sur un march�
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339066
 - Renvoie à : [art. L22-10-8 du Code de commerce](chapitre-x.md#article-l22-10-8) ; [art. L22-10-26 du Code de commerce](chapitre-x.md#article-l22-10-26) ; [art. L22-10-76 du Code de commerce](chapitre-x.md#article-l22-10-76) ; [art. L225-185 du Code de commerce](chapitre-v.md#article-l225-185)
-- Cité par : [art. L22-10-58 du Code de commerce](chapitre-x.md#article-l22-10-58) ; [art. L22-10-60 du Code de commerce](chapitre-x.md#article-l22-10-60) ; [art. L225-186 du Code de commerce](chapitre-v.md#article-l225-186) ; [art. L212-16 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042340687)
+- Cité par : [art. L22-10-58 du Code de commerce](chapitre-x.md#article-l22-10-58) ; [art. L22-10-60 du Code de commerce](chapitre-x.md#article-l22-10-60) ; [art. L225-186 du Code de commerce](chapitre-v.md#article-l225-186) ; [art. L137-13 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-13) ; [art. L212-16 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-16)
 
 Dans les sociétés dont les actions sont admises aux négociations sur un marché règlementé, l'attribution d'options donnant droit à la souscription ou à l'achat d'actions à un mandataire social en application de l'article L. 225-185 s'effectue dans les conditions prévues aux articles L. 22-10-8, L. 22-10-26 ou L. 22-10-76.
 
@@ -834,7 +834,7 @@ Dans une société dont les titres sont admis aux négociations sur un marché r
 - État : en vigueur depuis le 15/06/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049720593
 - Renvoie à : [art. L22-10-8 du Code de commerce](chapitre-x.md#article-l22-10-8) ; [art. L22-10-26 du Code de commerce](chapitre-x.md#article-l22-10-26) ; [art. L22-10-76 du Code de commerce](chapitre-x.md#article-l22-10-76) ; [art. L225-197-1 du Code de commerce](chapitre-v.md#article-l225-197-1)
-- Cité par : [art. L22-10-58 du Code de commerce](chapitre-x.md#article-l22-10-58) ; [art. L22-10-60 du Code de commerce](chapitre-x.md#article-l22-10-60) ; [art. L22-10-62 du Code de commerce](chapitre-x.md#article-l22-10-62) ; [art. L3332-14 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-14) ; [art. L3346-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-vi.md#article-l3346-1) ; [art. 235 ter XB du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053154630)
+- Cité par : [art. L22-10-58 du Code de commerce](chapitre-x.md#article-l22-10-58) ; [art. L22-10-60 du Code de commerce](chapitre-x.md#article-l22-10-60) ; [art. L22-10-62 du Code de commerce](chapitre-x.md#article-l22-10-62) ; [art. L137-13 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-13) ; [art. L3332-14 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-14) ; [art. L3346-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-vi.md#article-l3346-1) ; [art. 235 ter XB du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053154630)
 
 I.-L'aménagement statutaire concernant le cas d'attributions gratuites d'actions à certaines catégories des membres du personnel salarié d'une société prévu à la troisième phrase du deuxième alinéa de l'article L. 225-197-1 n'est pas applicable aux sociétés dont les actions sont admises aux négociations sur un marché réglementé.
 
@@ -851,7 +851,7 @@ III.-Dans les sociétés dont les actions sont admises aux négociations sur un 
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339075
 - Renvoie à : [art. L22-10-57 du Code de commerce](chapitre-x.md#article-l22-10-57) ; [art. L22-10-59 du Code de commerce](chapitre-x.md#article-l22-10-59) ; [art. L210-3 du Code de commerce](../titre-ier.md#article-l210-3) ; [art. L225-177 du Code de commerce](chapitre-v.md#article-l225-177) ; [art. L225-197-1 du Code de commerce](chapitre-v.md#article-l225-197-1) ; [art. L233-1 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-1) ; [art. L3312-2 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l3312-2) ; [art. L3314-10 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l3314-10) ; [art. L3323-6 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-6) ; [art. L3324-9 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-9) ; [art. L3332-11 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-11)
-- Cité par : [art. L225-197-1 du Code de commerce](chapitre-v.md#article-l225-197-1) ; [art. L3346-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-vi.md#article-l3346-1)
+- Cité par : [art. L225-197-1 du Code de commerce](chapitre-v.md#article-l225-197-1) ; [art. L137-13 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-13) ; [art. L3346-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-vi.md#article-l3346-1)
 
 Dans une société dont les titres sont admis aux négociations sur un marché réglementé, des actions ne peuvent être attribuées dans le cadre des premier et deuxième alinéas du II de l'article L. 225-197-1 que si la société remplit au moins une des conditions suivantes au titre de l'exercice au cours duquel sont attribuées ces actions :
 
@@ -869,7 +869,7 @@ Dans une société dont les titres sont admis aux négociations sur un marché r
 - Identifiant : LEGIARTI000042339088
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339088
-- Renvoie à : [art. L225-208 du Code de commerce](chapitre-v.md#article-l225-208) ; art. L433-3 du Code monétaire et financier
+- Renvoie à : [art. L225-208 du Code de commerce](chapitre-v.md#article-l225-208) ; [art. L433-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-3)
 - Cité par : [art. L22-10-65 du Code de commerce](chapitre-x.md#article-l22-10-65)
 
 L'article L. 225-208 n'est pas applicable aux sociétés dont les actions sont admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation soumis aux dispositions du II de l'article L. 433-3 du code monétaire et financier.
@@ -878,7 +878,7 @@ L'article L. 225-208 n'est pas applicable aux sociétés dont les actions sont a
 - Identifiant : LEGIARTI000042339092
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339092
-- Renvoie à : [art. L22-10-59 du Code de commerce](chapitre-x.md#article-l22-10-59) ; [art. L225-197-1 du Code de commerce](chapitre-v.md#article-l225-197-1) ; [art. L3332-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-1) ; art. L433-3 du Code monétaire et financier
+- Renvoie à : [art. L22-10-59 du Code de commerce](chapitre-x.md#article-l22-10-59) ; [art. L225-197-1 du Code de commerce](chapitre-v.md#article-l225-197-1) ; [art. L3332-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-1) ; [art. L433-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-3)
 - Cité par : [art. L22-10-64 du Code de commerce](chapitre-x.md#article-l22-10-64) ; [art. L22-10-65 du Code de commerce](chapitre-x.md#article-l22-10-65) ; [art. L225-179 du Code de commerce](chapitre-v.md#article-l225-179) ; [art. L225-206 du Code de commerce](chapitre-v.md#article-l225-206) ; [art. L225-213 du Code de commerce](chapitre-v.md#article-l225-213) ; [art. L225-217 du Code de commerce](chapitre-v.md#article-l225-217) ; [art. L228-35-9 du Code de commerce](chapitre-viii.md#article-l228-35-9) ; [art. L2312-52 du Code du travail](../../../../code-du-travail/partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-52)
 
 L'assemblée générale d'une société dont les actions sont admises aux négociations sur un marché réglementé ou sur un système multilatéral de négociation soumis aux dispositions du II de l'article L. 433-3 du code monétaire et financier dans les conditions prévues par le règlement général de l'Autorité des marchés financiers, figurant sur une liste arrêtée par cette autorité dans les conditions fixées par son règlement général, peut autoriser le conseil d'administration ou le directoire, selon le cas, à acheter un nombre d'actions représentant jusqu'à 10 % du capital de la société. L'assemblée générale définit les finalités et les modalités de l'opération, ainsi que son plafond. Cette autorisation ne peut être donnée pour une durée supérieure à dix-huit mois. Le comité d'entreprise est informé de la résolution adoptée par l'assemblée générale.
@@ -899,7 +899,7 @@ En cas d'annulation des actions achetées, la réduction de capital est autoris�
 - Identifiant : LEGIARTI000042339110
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339110
-- Renvoie à : art. L433-3 du Code monétaire et financier
+- Renvoie à : [art. L433-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-3)
 
 L'article L. 225-209-2 n'est pas applicable aux sociétés dont les actions sont admises aux négociations sur un marché réglementé soumis aux dispositions du II de l'article L. 433-3 du code monétaire et financier.
 

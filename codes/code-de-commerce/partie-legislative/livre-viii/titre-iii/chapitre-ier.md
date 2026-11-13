@@ -17,7 +17,7 @@ Les ouvrages en ces métaux doublés ou plaqués d'un de ces métaux précieux s
 - Identifiant : LEGIARTI000048651577
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651577
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7)
 
 Pour l'application du présent titre, le territoire national s'entend de la métropole, du territoire des collectivités régies par l'article 73 de la Constitution et, conformément aux stipulations de l'article 18 de la convention fiscale entre la France et la Principauté de Monaco signée à Paris le 18 mai 1963, du territoire de la Principauté de Monaco.
 

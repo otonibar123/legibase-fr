@@ -106,7 +106,7 @@ A l'article L.621-72, la référence à l'article 28 du décret n° 55-22 du 4 j
 - Identifiant : LEGIARTI000022233680
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233680
-- Renvoie à : art. L331-7 du Code rural et de la pêche maritime
+- Renvoie à : [art. L331-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iii/chapitre-ier.md#article-l331-7)
 
 A l'article L. 621-84, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de l'article L. 331-7 du code rural et de la pêche maritime s'entend des prescriptions suivantes :
 

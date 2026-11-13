@@ -8,7 +8,7 @@ Code de la consommation › Partie législative nouvelle › Livre Ier : INFORMA
 - Identifiant : LEGIARTI000032227222
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227222
-- Cité par : [art. L122-4 du Code de la consommation](chapitre-ii.md#article-l122-4) ; [art. L122-6 du Code de la consommation](chapitre-ii.md#article-l122-6) ; [art. L122-7 du Code de la consommation](chapitre-ii.md#article-l122-7) ; [art. L132-25 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-25) ; [art. L455-2 du Code de la consommation](../../livre-iv/titre-v/chapitre-v.md#article-l455-2) ; [art. L512-15 du Code de la consommation](../../livre-v/titre-ier/chapitre-ii.md#article-l512-15) ; [art. L713-3-1 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039377334) ; [LOI n°2026-796 du 18 août 2026, art. 61](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054710581)
+- Cité par : [art. L122-4 du Code de la consommation](chapitre-ii.md#article-l122-4) ; [art. L122-6 du Code de la consommation](chapitre-ii.md#article-l122-6) ; [art. L122-7 du Code de la consommation](chapitre-ii.md#article-l122-7) ; [art. L132-25 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-25) ; [art. L455-2 du Code de la consommation](../../livre-iv/titre-v/chapitre-v.md#article-l455-2) ; [art. L512-15 du Code de la consommation](../../livre-v/titre-ier/chapitre-ii.md#article-l512-15) ; [art. L713-3-1 du Code de la propriété intellectuelle](../../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vii/titre-ier/chapitre-iii.md#article-l713-3-1) ; [LOI n°2026-796 du 18 août 2026, art. 61](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054710581)
 
 Toute publicité qui met en comparaison des biens ou services en identifiant, implicitement ou explicitement, un concurrent ou des biens ou services offerts par un concurrent n'est licite que si :  
 1° Elle n'est pas trompeuse ou de nature à induire en erreur ;  
@@ -152,7 +152,7 @@ Les modalités d'applications de la présente sous-section sont fixées par déc
 - Identifiant : LEGIARTI000032227163
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227163
-- Cité par : [art. L122-18 du Code de la consommation](chapitre-ii.md#article-l122-18) ; [art. L132-27 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-27) ; [art. L242-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047362466)
+- Cité par : [art. L242-1 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-legislative/livre-ii/titre-iv/chapitre-ii.md#article-l242-1) ; [art. L122-18 du Code de la consommation](chapitre-ii.md#article-l122-18) ; [art. L132-27 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-27)
 
 Les professionnels qui n'assurent pas eux-mêmes, à partir de matières premières choisies, le pétrissage de la pâte, sa fermentation et sa mise en forme ainsi que la cuisson du pain sur le lieu de vente au consommateur final ne peuvent utiliser l'appellation de " boulanger " et l'enseigne commerciale de " boulangerie " ou une dénomination susceptible de porter à confusion, sur le lieu de vente du pain au consommateur final ou dans des publicités à l'exclusion des documents commerciaux à usage strictement professionnel.  
 La pâte et les pains ne peuvent à aucun stade de la production ou de la vente être surgelés ou congelés.
@@ -162,7 +162,7 @@ La pâte et les pains ne peuvent à aucun stade de la production ou de la vente 
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227159
 - Renvoie à : [art. L122-17 du Code de la consommation](chapitre-ii.md#article-l122-17)
-- Cité par : [art. L132-27 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-27) ; [art. L242-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047362466)
+- Cité par : [art. L242-1 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-legislative/livre-ii/titre-iv/chapitre-ii.md#article-l242-1) ; [art. L132-27 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-27)
 
 L'appellation de boulanger et l'enseigne commerciale de boulangerie mentionnées à l'article L. 122-17 peuvent être utilisées lorsque le pain est vendu de façon itinérante par le professionnel, ou sous sa responsabilité, lorsque ce professionnel remplit les conditions énoncées au même article.
 
@@ -172,7 +172,7 @@ L'appellation de boulanger et l'enseigne commerciale de boulangerie mentionnées
 - Identifiant : LEGIARTI000037556708
 - État : en vigueur depuis le 02/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037556708
-- Cité par : [art. L242-2 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047362468)
+- Cité par : [art. L242-2 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-legislative/livre-ii/titre-iv/chapitre-ii.md#article-l242-2)
 
 Les personnes ou entreprises qui transforment ou distribuent des produits alimentaires dans le cadre d'une activité de restauration commerciale, de restauration collective ou de vente à emporter de plats préparés, permanente ou occasionnelle, principale ou accessoire, précisent sur leurs cartes ou sur tout autre support qu'un plat proposé est " fait maison ".
 
@@ -180,7 +180,7 @@ Les personnes ou entreprises qui transforment ou distribuent des produits alimen
 - Identifiant : LEGIARTI000032227152
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227152
-- Cité par : [art. D122-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ii.md#article-d122-1) ; [art. L242-2 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047362468) ; [Décret n°2019-325 du 15 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038382497) ; [Décret n°2019-325 du 15 avril 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038382508)
+- Cité par : [art. L242-2 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-legislative/livre-ii/titre-iv/chapitre-ii.md#article-l242-2) ; [art. D122-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ii.md#article-d122-1) ; [Décret n°2019-325 du 15 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038382497) ; [Décret n°2019-325 du 15 avril 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038382508)
 
 Un plat " fait maison " est élaboré sur place à partir de produits bruts.  
 Des produits, déterminés par voie réglementaire, peuvent entrer dans la composition des plats " faits maison " après avoir subi une transformation de leur état brut nécessaire à leur utilisation.  
@@ -190,7 +190,7 @@ Les modalités de mise en œuvre de la mention " fait maison ", les conditions d
 - Identifiant : LEGIARTI000032227150
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032227150
-- Cité par : [art. L222-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047362446) ; [art. 199 undecies B du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046892900) ; [Décret n°2007-1359 du 14 septembre 2007, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054421514) ; [Décret n°2026-624 du 10 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054418659)
+- Cité par : [art. L222-1 du Code de l'artisanat](../../../../code-de-l-artisanat/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l222-1) ; [art. 199 undecies B du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-199-undecies-b) ; [art. 244 quater Y du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-244-quater-y) ; [Décret n°2007-1359 du 14 septembre 2007, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054421514) ; [Décret n°2026-624 du 10 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054418659)
 
 Le titre de maître-restaurateur distingue les personnes physiques qui dirigent une entreprise exploitant un fonds de commerce de restauration ou y exercent leur activité pour la qualité de leur établissement et de leur cuisine.  
 Il est délivré par le représentant de l'Etat dans le département de l'établissement pour lequel le titre est demandé.  
@@ -212,7 +212,7 @@ Les conditions dans lesquelles un professionnel peut utiliser les termes “ rec
 - Identifiant : LEGIARTI000035723787
 - État : en vigueur depuis le 06/10/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035723787
-- Renvoie à : [art. L132-2 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2)
+- Renvoie à : [art. L132-2 du Code de la consommation](../titre-iii/chapitre-ii.md#article-l132-2) ; [art. L103 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-iii/titre-ier.md#article-l103)
 
 Le fournisseur qui se prévaut d'une offre de service de coffre-fort numérique défini aux 1° à 5° de l'article L. 103 du code des postes et des communications électroniques et qui ne respecte pas les obligations qui y sont énoncées est passible des sanctions prévues aux articles L. 132-2 et L. 132-3 du présent code.
 
@@ -222,7 +222,7 @@ Le fournisseur qui se prévaut d'une offre de service de coffre-fort numérique 
 - Identifiant : LEGIARTI000033576988
 - État : en vigueur depuis le 11/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033576988
-- Renvoie à : [art. 199 novovicies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026876399) ; [art. 199 sexvicies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020023035) ; [art. 199 tervicies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020019830)
+- Renvoie à : [art. 199 sexvicies du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-199-sexvicies) ; [art. 199 tervicies du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-199-tervicies) ; [art. 199 novovicies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026876399)
 
 Toute publicité relative à une opération d'acquisition de logement destiné à la location et susceptible de bénéficier des dispositions prévues aux articles 199 tervicies, 199 sexvicies et 199 novovicies du code général des impôts :  
 

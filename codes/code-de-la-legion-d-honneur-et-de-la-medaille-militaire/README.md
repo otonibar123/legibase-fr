@@ -1,0 +1,77 @@
+# Code de la légion d'honneur et de la médaille militaire
+
+Dernière modification du texte dans LEGI : 24/01/2025. 230 articles en vigueur, répartis dans 54 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **LIVRE I : Légion d'honneur**
+    - **TITRE I : Objet et composition de l'ordre**
+      - [CHAPITRE I : Organisation générale.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-i/chapitre-i.md) (7 articles)
+      - [CHAPITRE II : Le grand maître.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-i/chapitre-ii.md) (2 articles)
+      - [CHAPITRE III : Le grand chancelier.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-i/chapitre-iii.md) (1 article)
+      - [CHAPITRE IV : Le conseil de l'ordre de la Légion d'honneur.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-i/chapitre-iv.md) (3 articles)
+      - [CHAPITRE V : Admission et avancement dans l'ordre.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-i/chapitre-v.md) (2 articles)
+    - **TITRE II : Nomination et promotion dans l'ordre**
+      - [CHAPITRE I : Conditions de nomination et de promotion.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-ii/chapitre-i.md) (12 articles)
+      - [CHAPITRE II : Modalités de nomination et de promotion](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-ii/chapitre-ii.md) (10 articles)
+      - [CHAPITRE III : Dispositions dérogatoires](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-ii/chapitre-iii.md) (13 articles)
+    - **TITRE III : Réception dans l'ordre**
+      - [CHAPITRE I : Effets de la réception.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-i.md) (3 articles)
+      - [CHAPITRE II : Délégation de pouvoirs du grand maître.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-ii.md) (3 articles)
+      - [CHAPITRE III : Cérémonial](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-iii.md) (4 articles)
+    - **TITRE IV : Droits, honneurs et prérogatives des membres de l'ordre**
+      - [CHAPITRE I : Insignes.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-i.md) (15 articles)
+      - [CHAPITRE II : Brevets.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-ii.md) (3 articles)
+      - [CHAPITRE III : Traitements](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-iii.md) (8 articles)
+      - [CHAPITRE V : Honneurs et préséances.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-v.md) (2 articles)
+    - **TITRE V : Discipline**
+      - [CHAPITRE I : Peines disciplinaires.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-v/chapitre-i.md) (9 articles)
+      - [CHAPITRE II : Procédure disciplinaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-v/chapitre-ii.md) (9 articles)
+      - [CHAPITRE III : Décision et exécution.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-v/chapitre-iii.md) (5 articles)
+    - **TITRE VI : Administration de l'ordre**
+      - [CHAPITRE I : Attributions du grand chancelier.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-i.md) (7 articles)
+      - [CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-ii.md) (2 articles)
+      - [CHAPITRE III : Régime financier.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-iii.md) (1 article)
+    - **TITRE VII : Maisons d'éducation**
+      - [CHAPITRE I : But de l'institution.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vii/chapitre-i.md) (3 articles)
+      - [CHAPITRE II : Fonctionnement des établissements.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vii/chapitre-ii.md) (1 article)
+      - [CHAPITRE III : Administration des maisons d'éducation et personnel.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vii/chapitre-iii.md) (3 articles)
+    - [TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vii-bis.md) (4 articles)
+    - **TITRE VIII : Attribution de la Légion d'honneur aux étrangers**
+      - [CHAPITRE I : Conditions d'attribution.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-viii/chapitre-i.md) (3 articles)
+      - [CHAPITRE II : Modalités d'attribution.](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-viii/chapitre-ii.md) (5 articles)
+      - [CHAPITRE III : Retrait](partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-viii/chapitre-iii.md) (6 articles)
+  - **LIVRE II : Médaille militaire**
+    - **TITRE I : Conditions et modalités de concession de la médaille militaire**
+      - [CHAPITRE I : Conditions de concession](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-i/chapitre-i.md) (6 articles)
+      - [CHAPITRE II : Modalités de concession](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-i/chapitre-ii.md) (3 articles)
+      - [CHAPITRE III : Dispositions dérogatoires.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-i/chapitre-iii.md) (1 article)
+    - **TITRE II : Droits, honneurs et prérogatives**
+      - [CHAPITRE I : Insigne](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-i.md) (4 articles)
+      - [CHAPITRE II : Traitement](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+      - [CHAPITRE IV : Honneurs et prérogatives.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+    - [TITRE III : Discipline.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii.md) (1 article)
+    - [TITRE IV : Concession de la médaille militaire aux étrangers.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv.md) (2 articles)
+  - **LIVRE III : Ordre national du Mérite**
+    - [TITRE I : Objet et composition de l'ordre](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-i.md) (11 articles)
+    - **TITRE II : Conditions de nomination et de promotion**
+      - [TITRE II : Conditions de nomination et de promotion : articles rattachés directement](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/articles-directs.md) (4 articles)
+      - [CHAPITRE I : Nominations et promotions à titre normal](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-i.md) (4 articles)
+      - [CHAPITRE II : Nominations et promotions à titre exceptionnel](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ii.md) (2 articles)
+      - [CHAPITRE III : Attributions à titre étranger](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-iii.md) (10 articles)
+    - [TITRE III : Modalités de nomination et promotion](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iii.md) (3 articles)
+    - **TITRE IV : Insignes et brevets**
+      - [CHAPITRE I : Insignes](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-i.md) (3 articles)
+      - [CHAPITRE II : Brevets](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-ii.md) (2 articles)
+      - [CHAPITRE III : Remise de l'insigne](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-iii.md) (5 articles)
+    - [Titre IV BIS : HONNEURS ET PRÉSÉANCES](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv-bis.md) (2 articles)
+    - [TITRE V : Discipline](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-v.md) (1 article)
+    - [TITRE VI : Administration de l'Ordre](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-vi.md) (1 article)
+  - **LIVRE IV : Autorisation d'accepter et de porter des décorations étrangères**
+    - [TITRE I : Conditions d'acceptation et de port des décorations étrangères.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-i.md) (2 articles)
+    - [TITRE II : Présentation et instruction des demandes d'autorisation.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii.md) (3 articles)
+    - [TITRE III : Exécution des arrêtés.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii.md) (3 articles)
+    - [TITRE IV : Discipline.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv.md) (1 article)
+    - [TITRE V : Dispositions particulières.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-v.md) (2 articles)
+  - [LIVRE V : Dispositions pénales](partie-reglementaire-decrets-en-conseil-d-etat/livre-v.md) (3 articles)

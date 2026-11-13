@@ -7,7 +7,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530289
 - Renvoie à : [Code du travail, Titre IV : Prévention des risques d'exposition ](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490997)
-- Cité par : [art. D4161-1 du Code du travail](../../livre-ier/titre-vi/chapitre-ier.md#article-d4161-1) ; [art. R717-85-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602500) ; [art. R717-85-9 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602490)
+- Cité par : [art. D4161-1 du Code du travail](../../livre-ier/titre-vi/chapitre-ier.md#article-d4161-1) ; [art. R717-85-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-8) ; [art. R717-85-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-9)
 
 Au sens du présent titre, on entend par :  
 1° Vibration transmise aux mains et aux bras, une vibration mécanique qui, lorsqu'elle est transmise aux mains et aux bras chez l'homme, entraîne des risques pour la santé et la sécurité des travailleurs, notamment des troubles vasculaires, des lésions ostéo-articulaires ou des troubles neurologiques ou musculaires ;  

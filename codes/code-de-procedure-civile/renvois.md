@@ -4,7 +4,7 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 
 ## Renvoie à
 
-### Code civil — origine LEGI (281)
+### Code civil — origine LEGI (294)
 
 - [art. 287](livre-ier/titre-vii/sous-titre-iii/chapitre-ier.md#article-287) → [art. 1366](../code-civil/livre-iii/titre-iv-bis/chapitre-iii.md#article-1366)
 - [art. 338-1](livre-ier/titre-ix-bis.md#article-338-1) → [art. 388-1](../code-civil/livre-ier/titre-x/chapitre-ier.md#article-388-1)
@@ -59,6 +59,7 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1123](livre-iii/titre-ier/chapitre-v.md#article-1123) → [art. 247-1](../code-civil/livre-ier/titre-vi/chapitre-ier.md#article-247-1)
 - [art. 1126](livre-iii/titre-ier/chapitre-v.md#article-1126) → [art. 238](../code-civil/livre-ier/titre-vi/chapitre-ier.md#article-238)
 - [art. 1126-1](livre-iii/titre-ier/chapitre-v.md#article-1126-1) → [art. 238](../code-civil/livre-ier/titre-vi/chapitre-ier.md#article-238)
+- [art. 1136-1](livre-iii/titre-ier/chapitre-v.md#article-1136-1) → [art. 255](../code-civil/livre-ier/titre-vi/chapitre-ii.md#article-255)
 - [art. 1136-1](livre-iii/titre-ier/chapitre-v.md#article-1136-1) → [art. 373-2-9-1](../code-civil/livre-ier/titre-ix/chapitre-ier.md#article-373-2-9-1)
 - [art. 1136-2](livre-iii/titre-ier/chapitre-v.md#article-1136-2) → [art. 245](../code-civil/livre-ier/titre-vi/chapitre-ier.md#article-245)
 - [art. 1136-2](livre-iii/titre-ier/chapitre-v.md#article-1136-2) → [art. 255](../code-civil/livre-ier/titre-vi/chapitre-ii.md#article-255)
@@ -155,6 +156,7 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1220-4](livre-iii/titre-ier/chapitre-x.md#article-1220-4) → [art. 494-4](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-4)
 - [art. 1220-4](livre-iii/titre-ier/chapitre-x.md#article-1220-4) → [art. 494-10](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-10)
 - [art. 1221-3](livre-iii/titre-ier/chapitre-x.md#article-1221-3) → [art. 477-1](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-477-1)
+- [art. 1222](livre-iii/titre-ier/chapitre-x.md#article-1222) → [art. 413](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-413)
 - [art. 1222](livre-iii/titre-ier/chapitre-x.md#article-1222) → [art. 430](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-430)
 - [art. 1222](livre-iii/titre-ier/chapitre-x.md#article-1222) → [art. 494-1](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-1)
 - [art. 1223-1](livre-iii/titre-ier/chapitre-x.md#article-1223-1) → [art. 510](../code-civil/livre-ier/titre-xii/chapitre-ii.md#article-510)
@@ -165,7 +167,11 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1226](livre-iii/titre-ier/chapitre-x.md#article-1226) → [art. 432](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-432)
 - [art. 1226](livre-iii/titre-ier/chapitre-x.md#article-1226) → [art. 494-4](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-4)
 - [art. 1228](livre-iii/titre-ier/chapitre-x.md#article-1228) → [art. 494-6](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-6)
+- [art. 1230](livre-iii/titre-ier/chapitre-x.md#article-1230) → [art. 395](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-395)
+- [art. 1230](livre-iii/titre-ier/chapitre-x.md#article-1230) → [art. 412](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-412)
+- [art. 1230](livre-iii/titre-ier/chapitre-x.md#article-1230) → [art. 413](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-413)
 - [art. 1230](livre-iii/titre-ier/chapitre-x.md#article-1230) → [art. 502](../code-civil/livre-ier/titre-xii/chapitre-ier.md#article-502)
+- [art. 1231](livre-iii/titre-ier/chapitre-x.md#article-1231) → [art. 466](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-466)
 - [art. 1233](livre-iii/titre-ier/chapitre-x.md#article-1233) → [art. 494-11](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-11)
 - [art. 1234-2](livre-iii/titre-ier/chapitre-x.md#article-1234-2) → [art. 396](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-396)
 - [art. 1234-4](livre-iii/titre-ier/chapitre-x.md#article-1234-4) → [art. 396](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-396)
@@ -185,6 +191,7 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1256](livre-iii/titre-ier/chapitre-x.md#article-1256) → [art. 426](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-426)
 - [art. 1256](livre-iii/titre-ier/chapitre-x.md#article-1256) → [art. 431](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-431)
 - [art. 1256](livre-iii/titre-ier/chapitre-x.md#article-1256) → [art. 432](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-432)
+- [art. 1256](livre-iii/titre-ier/chapitre-x.md#article-1256) → [art. 493](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-493)
 - [art. 1257-1](livre-iii/titre-ier/chapitre-x.md#article-1257-1) → [art. 512](../code-civil/livre-ier/titre-xii/chapitre-ii.md#article-512)
 - [art. 1257-5](livre-iii/titre-ier/chapitre-x.md#article-1257-5) → [art. 512](../code-civil/livre-ier/titre-xii/chapitre-ii.md#article-512)
 - [art. 1258](livre-iii/titre-ier/chapitre-x.md#article-1258) → [art. 425](../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-425)
@@ -216,7 +223,9 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1286](livre-iii/titre-iii/chapitre-ier.md#article-1286) → [art. 219](../code-civil/livre-ier/titre-v/chapitre-vi.md#article-219)
 - [art. 1286](livre-iii/titre-iii/chapitre-ier.md#article-1286) → [art. 2395](../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md#article-2395)
 - [art. 1286](livre-iii/titre-iii/chapitre-ier.md#article-1286) → [art. 2405](../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md#article-2405)
+- [art. 1286](livre-iii/titre-iii/chapitre-ier.md#article-1286) → [art. 2406](../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md#article-2406)
 - [art. 1286](livre-iii/titre-iii/chapitre-ier.md#article-1286) → [art. 2440](../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md#article-2440)
+- [art. 1286](livre-iii/titre-iii/chapitre-ier.md#article-1286) → [art. 2446](../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-iii.md#article-2446)
 - [art. 1289-2](livre-iii/titre-iii/chapitre-ier.md#article-1289-2) → [art. 219](../code-civil/livre-ier/titre-v/chapitre-vi.md#article-219)
 - [art. 1290](livre-iii/titre-iii/chapitre-ier.md#article-1290) → [art. 220-1](../code-civil/livre-ier/titre-v/chapitre-vi.md#article-220-1)
 - [art. 1291](livre-iii/titre-iii/chapitre-ier.md#article-1291) → [art. 1426](../code-civil/livre-iii/titre-v/chapitre-ii.md#article-1426)
@@ -273,8 +282,12 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1380](livre-iii/titre-iii/chapitre-ii.md#article-1380) → [art. 815-11](../code-civil/livre-iii/titre-ier/chapitre-vii.md#article-815-11)
 - [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 811](../code-civil/livre-iii/titre-ier/chapitre-v.md#article-811)
 - [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 820](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-820)
+- [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 821](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-821)
+- [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 821-1](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-821-1)
 - [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 824](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-824)
 - [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 832-1](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-832-1)
+- [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 832-2](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-832-2)
+- [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 832-3](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-832-3)
 - [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 887](../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-887)
 - [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. 1026](../code-civil/livre-iii/titre-ii/chapitre-v.md#article-1026)
 - [art. 1528-2](livre-v/titre-ier.md#article-1528-2) → [art. 2067](../code-civil/livre-iii/titre-xvii.md#article-2067)
@@ -284,13 +297,13 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1578](livre-vi/titre-ii.md#article-1578) → [art. 229-1](../code-civil/livre-ier/titre-vi/chapitre-ier.md#article-229-1)
 - [art. 1578](livre-vi/titre-ii.md#article-1578) → [art. 317](../code-civil/livre-ier/titre-vii/chapitre-ii.md#article-317)
 - [art. 1578](livre-vi/titre-ii.md#article-1578) → [art. 342-10](../code-civil/livre-ier/titre-vii/chapitre-v.md#article-342-10)
-- [art. ANNEXE, art. 11](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-11) → [art. 393](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-393)
-- [art. ANNEXE, art. 11](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-11) → [art. 394](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-394)
-- [art. ANNEXE, art. 30-11](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-11) → [art. 73](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-73)
+- [art. ANNEXE, art. 11](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-11) → [art. 393](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-393)
+- [art. ANNEXE, art. 11](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-11) → [art. 394](../code-civil/livre-ier/titre-x/chapitre-ii.md#article-394)
+- [art. ANNEXE, art. 30-11](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-11) → [art. 73](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-73)
 
 ### Code civil — origine texte (34)
 
-- [art. 30-18](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-18) → [art. 50](../code-civil/livre-ier/titre-ii/chapitre-ier.md#article-50)
+- [art. 30-18](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-30-18) → [art. 50](../code-civil/livre-ier/titre-ii/chapitre-ier.md#article-50)
 - [art. 1038](livre-iii/titre-ier/chapitre-ier.md#article-1038) → [art. 31-3](../code-civil/livre-ier/titre-ier-bis/chapitre-vi.md#article-31-3)
 - [art. 1055-4](livre-iii/titre-ier/chapitre-ii.md#article-1055-4) → [art. 60](../code-civil/livre-ier/titre-ii/chapitre-ii.md#article-60)
 - [art. 1107](livre-iii/titre-ier/chapitre-v.md#article-1107) → [art. 242](../code-civil/livre-ier/titre-vi/chapitre-ier.md#article-242)
@@ -315,100 +328,141 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1539-2](livre-v/titre-iii/chapitre-ii.md#article-1539-2) → [art. 1374](../code-civil/livre-iii/titre-iv-bis/chapitre-iii.md#article-1374)
 - [art. 1541-1](livre-v/titre-iv/chapitre-ier.md#article-1541-1) → [art. 2044](../code-civil/livre-iii/titre-xv.md#article-2044)
 - [art. 1575-1](livre-vi/titre-ii.md#article-1575-1) → art. 375-1
-- [art. ANNEXE, art. 30](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30) → [art. 37](../code-civil/livre-ier/titre-ii/chapitre-ier.md#article-37)
-- [art. ANNEXE, art. 30-1](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-1) → [art. 66](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-66)
-- [art. ANNEXE, art. 30-1](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-1) → [art. 57](../code-civil/livre-ier/titre-ii/chapitre-ii.md#article-57)
-- [art. ANNEXE, art. 30-2](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-2) → [art. 60](../code-civil/livre-ier/titre-ii/chapitre-ii.md#article-60)
-- [art. ANNEXE, art. 30-7](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-7) → [art. 69](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-69)
-- [art. ANNEXE, art. 30-8](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-8) → [art. 76](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-76)
-- [art. ANNEXE, art. 30-13](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-13) → [art. 76](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-76)
-- [art. ANNEXE, art. 30-13](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-13) → [art. 78](../code-civil/livre-ier/titre-ii/chapitre-iv.md#article-78)
-- [art. ANNEXE, art. 30-14](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-14) → [art. 78](../code-civil/livre-ier/titre-ii/chapitre-iv.md#article-78)
+- [art. ANNEXE, art. 30](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30) → [art. 37](../code-civil/livre-ier/titre-ii/chapitre-ier.md#article-37)
+- [art. ANNEXE, art. 30-1](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-1) → [art. 66](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-66)
+- [art. ANNEXE, art. 30-1](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-1) → [art. 57](../code-civil/livre-ier/titre-ii/chapitre-ii.md#article-57)
+- [art. ANNEXE, art. 30-2](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-2) → [art. 60](../code-civil/livre-ier/titre-ii/chapitre-ii.md#article-60)
+- [art. ANNEXE, art. 30-7](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-7) → [art. 69](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-69)
+- [art. ANNEXE, art. 30-8](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-8) → [art. 76](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-76)
+- [art. ANNEXE, art. 30-13](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-13) → [art. 76](../code-civil/livre-ier/titre-ii/chapitre-iii.md#article-76)
+- [art. ANNEXE, art. 30-13](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-13) → [art. 78](../code-civil/livre-ier/titre-ii/chapitre-iv.md#article-78)
+- [art. ANNEXE, art. 30-14](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-14) → [art. 78](../code-civil/livre-ier/titre-ii/chapitre-iv.md#article-78)
 
-### Code de l'organisation judiciaire — origine texte (24) — pas encore traité
+### Code de l'organisation judiciaire — origine LEGI (32)
 
-- [art. 129-2](livre-ier/titre-vi/chapitre-ier.md#article-129-2) → art. L212-5-1
-- [art. 130-2](livre-ier/titre-vi/chapitre-ier.md#article-130-2) → art. L212-5-1
-- [art. 341](livre-ier/titre-x/chapitre-ii.md#article-341) → art. L111-6
-- [art. 346](livre-ier/titre-x/chapitre-ii.md#article-346) → art. L213-8
-- [art. 509-10](livre-ier/titre-xv/chapitre-ii.md#article-509-10) → art. L211-12
-- [art. 509-11](livre-ier/titre-xv/chapitre-ii.md#article-509-11) → art. L211-12
-- [art. 626](livre-ier/titre-xvi/sous-titre-iii/chapitre-iii.md#article-626) → art. L431-4
-- [art. 627](livre-ier/titre-xvi/sous-titre-iii/chapitre-iii.md#article-627) → art. L411-3
-- [art. 752](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-752) → art. L212-5-1
-- [art. 753](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-753) → art. L212-5-1
-- [art. 757](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-757) → art. L212-5-1
-- [art. 764](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-764) → art. L212-5-1
-- [art. 778](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-778) → art. L212-5-1
-- [art. 799](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-799) → art. L212-5-1
-- [art. 828](livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828) → art. L212-5-1
-- [art. 836-1](livre-ii/titre-ier/sous-titre-iii/chapitre-ii.md#article-836-1) → art. L212-5-1
-- [art. 839](livre-ii/titre-ier/sous-titre-iii/chapitre-iii.md#article-839) → art. L212-5-1
-- [art. 843](livre-ii/titre-ier/sous-titre-iv/chapitre-ier.md#article-843) → art. L212-5-1
-- [art. 1015-2](livre-ii/titre-vii/chapitre-iv.md#article-1015-2) → art. L431-3-1
-- [art. 1031-1](livre-ii/titre-vii/chapitre-vi.md#article-1031-1) → art. L441-1
-- [art. 1140](livre-iii/titre-ier/chapitre-v.md#article-1140) → art. L212-5-1
-- [art. 1210-4](livre-iii/titre-ier/chapitre-ix.md#article-1210-4) → art. L211-12
-- [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → art. L213-3
+- [art. 126-3](livre-ier/titre-v-bis/chapitre-ier.md#article-126-3) → [art. L311-16](../code-de-l-organisation-judiciaire/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-16)
+- [art. 341](livre-ier/titre-x/chapitre-ii.md#article-341) → [art. L111-6](../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ier/chapitre-unique.md#article-l111-6)
+- [art. 346](livre-ier/titre-x/chapitre-ii.md#article-346) → [art. L213-8](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-8)
+- [art. 509-10](livre-ier/titre-xv/chapitre-ii.md#article-509-10) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
+- [art. 509-11](livre-ier/titre-xv/chapitre-ii.md#article-509-11) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
+- [art. 626](livre-ier/titre-xvi/sous-titre-iii/chapitre-iii.md#article-626) → [art. L431-4](../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-4)
+- [art. 627](livre-ier/titre-xvi/sous-titre-iii/chapitre-iii.md#article-627) → [art. L411-3](../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-ier/chapitre-unique.md#article-l411-3)
+- [art. 750-1](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-750-1) → [art. R211-3-4](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-4)
+- [art. 750-1](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-750-1) → [art. R211-3-8](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-8)
+- [art. 761](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-761) → [art. R211-3-23](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-23)
+- [art. 761](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-761) → [art. R211-3-13](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-13)
+- [art. 761](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-761) → [art. R211-3-18](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-18)
+- [art. 761](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-761) → [art. R211-3-21](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-3-21)
+- [art. 799](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-799) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 828](livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 836-1](livre-ii/titre-ier/sous-titre-iii/chapitre-ii.md#article-836-1) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 843](livre-ii/titre-ier/sous-titre-iv/chapitre-ier.md#article-843) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 1013](livre-ii/titre-vii/chapitre-iv.md#article-1013) → [art. R431-1](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md#article-r431-1)
+- [art. 1015-2](livre-ii/titre-vii/chapitre-iv.md#article-1015-2) → [art. L431-3-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-3-1)
+- [art. 1031-1](livre-ii/titre-vii/chapitre-vi.md#article-1031-1) → [art. L441-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-iv/chapitre-unique.md#article-l441-1)
+- [art. 1031-14](livre-ii/titre-vii/chapitre-vii.md#article-1031-14) → [art. L452-2](../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-v/chapitre-ii.md#article-l452-2)
+- [art. 1140](livre-iii/titre-ier/chapitre-v.md#article-1140) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 1210-4](livre-iii/titre-ier/chapitre-ix.md#article-1210-4) → [art. L211-2](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-2)
+- [art. 1210-5](livre-iii/titre-ier/chapitre-ix.md#article-1210-5) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
+- [art. 1210-6](livre-iii/titre-ier/chapitre-ix.md#article-1210-6) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
+- [art. 1210-7](livre-iii/titre-ier/chapitre-ix.md#article-1210-7) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
+- [art. 1210-9](livre-iii/titre-ier/chapitre-ix.md#article-1210-9) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
+- [art. 1210-11](livre-iii/titre-ier/chapitre-ix.md#article-1210-11) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
+- [art. 1260-7](livre-iii/titre-ier/chapitre-x.md#article-1260-7) → [art. R123-14](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-14)
+- [art. 1362](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001973) → [art. L213-3](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-3)
+- [art. 1381](livre-iii/titre-iii/chapitre-ii.md#article-1381) → [art. L213-3](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-3)
+- [art. 1441-4](livre-iii/titre-v.md#article-1441-4) → [art. L211-16](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-16)
+
+### Code des procédures civiles d'exécution — origine LEGI (17)
+
+- [art. 750-1](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-750-1) → [art. L125-1](../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-1)
+- [art. 849-18](livre-ii/titre-ier/sous-titre-iv/chapitre-iv.md#article-849-18) → [art. L111-1](../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-1)
+- [art. 849-18](livre-ii/titre-ier/sous-titre-iv/chapitre-iv.md#article-849-18) → [art. L111-2](../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-2)
+- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-39](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-39)
+- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-59](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-59)
+- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-61](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-61)
+- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-66](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-66)
+- [art. 1279](livre-iii/titre-ii/chapitre-iv.md#article-1279) → [art. R322-50](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-50)
+- [art. 1281-17](livre-iii/titre-ii/chapitre-vi.md#article-1281-17) → [art. R322-30](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-30)
+- [art. 1281-18](livre-iii/titre-ii/chapitre-vi.md#article-1281-18) → [art. R322-39](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-39)
+- [art. 1281-18](livre-iii/titre-ii/chapitre-vi.md#article-1281-18) → [art. R322-66](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-66)
+- [art. 1281-19](livre-iii/titre-ii/chapitre-vi.md#article-1281-19) → [art. R311-9](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-9)
+- [art. 1281-20](livre-iii/titre-ii/chapitre-vi.md#article-1281-20) → [Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000025024948)
+- [art. 1348](livre-iii/titre-iii/chapitre-ii.md#article-1348) → [art. R221-33](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-33)
+- [art. 1348](livre-iii/titre-iii/chapitre-ii.md#article-1348) → [art. R221-39](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-39)
+- [art. 1377](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459769) → [art. R221-33](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-33)
+- [art. 1377](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459769) → [art. R221-39](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-39)
+
+### Code de l'organisation judiciaire — origine texte (10)
+
+- [art. 129-2](livre-ier/titre-vi/chapitre-ier.md#article-129-2) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 130-2](livre-ier/titre-vi/chapitre-ier.md#article-130-2) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 752](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-752) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 753](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-753) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 757](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-757) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 764](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-764) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 778](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-778) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 839](livre-ii/titre-ier/sous-titre-iii/chapitre-iii.md#article-839) → [art. L212-5-1](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
+- [art. 1210-4](livre-iii/titre-ier/chapitre-ix.md#article-1210-4) → [art. L211-12](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-12)
 - [art. 1533](livre-v/titre-ii/chapitre-ier.md#article-1533) → art. L123-4
 
-### Code des procédures civiles d'exécution — origine LEGI (10) — pas encore traité
+### Code de procédure pénale — origine LEGI (8)
 
-- [art. 750-1](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-750-1) → [art. L125-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032009727)
-- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-39](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939151)
-- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-59](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939202)
-- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-61](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939208)
-- [art. 1278](livre-iii/titre-ii/chapitre-iv.md#article-1278) → [art. R322-66](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939228)
-- [art. 1279](livre-iii/titre-ii/chapitre-iv.md#article-1279) → [art. R322-50](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939179)
-- [art. 1281-19](livre-iii/titre-ii/chapitre-vi.md#article-1281-19) → [art. R311-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929852)
-- [art. 1281-20](livre-iii/titre-ii/chapitre-vi.md#article-1281-20) → [Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000025024948)
-- [art. 1348](livre-iii/titre-iii/chapitre-ii.md#article-1348) → [art. R221-33](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938654)
-- [art. 1348](livre-iii/titre-iii/chapitre-ii.md#article-1348) → [art. R221-39](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938667)
+- [art. 178-1](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-178-1) → [art. R122](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r122)
+- [art. 670-3](livre-ier/titre-xvii/chapitre-iii.md#article-670-3) → [art. R122](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r122)
+- [art. 670-3](livre-ier/titre-xvii/chapitre-iii.md#article-670-3) → [art. R93](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93)
+- [art. 1210-1](livre-iii/titre-ier/chapitre-ix.md#article-1210-1) → [art. R53](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ier.md#article-r53)
+- [art. 1210-3](livre-iii/titre-ier/chapitre-ix.md#article-1210-3) → [art. R53](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ier.md#article-r53)
+- [art. 1210-3](livre-iii/titre-ier/chapitre-ix.md#article-1210-3) → [art. R53-8](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xix/chapitre-ier.md#article-r53-8)
+- [art. 1252](livre-iii/titre-ier/chapitre-x.md#article-1252) → [art. R93](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93)
+- [art. 1256](livre-iii/titre-ier/chapitre-x.md#article-1256) → [art. R93](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93)
 
-### Code de procédure pénale — origine texte (9) — pas encore traité
+### Code de l'action sociale et des familles — origine LEGI (7)
 
-- [art. 178-1](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-178-1) → art. R122
-- [art. 670-3](livre-ier/titre-xvii/chapitre-iii.md#article-670-3) → art. R122
-- [art. 670-3](livre-ier/titre-xvii/chapitre-iii.md#article-670-3) → art. R93
-- [art. 1136-23](livre-iii/titre-ier/chapitre-v.md#article-1136-23) → art. 138-3
-- [art. 1210-1](livre-iii/titre-ier/chapitre-ix.md#article-1210-1) → art. R53
-- [art. 1210-3](livre-iii/titre-ier/chapitre-ix.md#article-1210-3) → art. 53
-- [art. 1210-3](livre-iii/titre-ier/chapitre-ix.md#article-1210-3) → art. R53-8
-- [art. 1252](livre-iii/titre-ier/chapitre-x.md#article-1252) → art. R93
-- [art. 1256](livre-iii/titre-ier/chapitre-x.md#article-1256) → art. R93
+- [art. 1171](livre-iii/titre-ier/chapitre-viii.md#article-1171) → [art. L221-7](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-7)
+- [art. 1181](livre-iii/titre-ier/chapitre-ix.md#article-1181) → [art. L228-4](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-viii.md#article-l228-4)
+- [art. 1189-1](livre-iii/titre-ier/chapitre-ix.md#article-1189-1) → [art. R451-66](../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iv/titre-v/chapitre-unique.md#article-r451-66)
+- [art. 1216-3](livre-iii/titre-ier/chapitre-x.md#article-1216-3) → [art. L113-3](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-3)
+- [art. 1258-2](livre-iii/titre-ier/chapitre-x.md#article-1258-2) → [art. L471-2](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-vii/chapitre-ier.md#article-l471-2)
+- [art. 1261-1](livre-iii/titre-ier/chapitre-x.md#article-1261-1) → [art. L224-4](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-4)
+- [art. 1262](livre-iii/titre-ier/chapitre-xi.md#article-1262) → [art. L271-6](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vii/chapitre-unique.md#article-l271-6)
 
-### Code de l'organisation judiciaire — origine LEGI (8) — pas encore traité
+### Code électoral — origine LEGI (6)
 
-- [art. 126-3](livre-ier/titre-v-bis/chapitre-ier.md#article-126-3) → [art. L311-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033425764)
-- [art. 750-1](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-750-1) → [art. R211-3-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039011906)
-- [art. 750-1](livre-ii/titre-ier/sous-titre-ier/chapitre-ier.md#article-750-1) → [art. R211-3-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039011914)
-- [art. 1013](livre-ii/titre-vii/chapitre-iv.md#article-1013) → [art. R431-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018920311)
-- [art. 1210-4](livre-iii/titre-ier/chapitre-ix.md#article-1210-4) → [art. L211-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572086)
-- [art. 1210-5](livre-iii/titre-ier/chapitre-ix.md#article-1210-5) → [art. L211-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572101)
-- [art. 1210-7](livre-iii/titre-ier/chapitre-ix.md#article-1210-7) → [art. L211-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572101)
-- [art. 1210-9](livre-iii/titre-ier/chapitre-ix.md#article-1210-9) → [art. L211-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572101)
+- [art. 996](livre-ii/titre-vii/chapitre-iii.md#article-996) → [art. R19-1](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-1)
+- [art. 996](livre-ii/titre-vii/chapitre-iii.md#article-996) → [art. R19-2](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-2)
+- [art. 996](livre-ii/titre-vii/chapitre-iii.md#article-996) → [art. R19-3](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-3)
+- [art. 996](livre-ii/titre-vii/chapitre-iii.md#article-996) → [art. R19-4](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-4)
+- [art. 996](livre-ii/titre-vii/chapitre-iii.md#article-996) → [art. R19-5](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-5)
+- [art. 996](livre-ii/titre-vii/chapitre-iii.md#article-996) → [art. R19-6](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-6)
 
-### Code de l'action sociale et des familles — origine texte (5) — pas encore traité
+### Code général des impôts — origine LEGI (5)
 
-- [art. 1141](livre-iii/titre-ier/chapitre-v.md#article-1141) → art. L132-7
-- [art. 1181](livre-iii/titre-ier/chapitre-ix.md#article-1181) → art. L228-4
-- [art. 1189-1](livre-iii/titre-ier/chapitre-ix.md#article-1189-1) → art. R451-66
-- [art. 1258-2](livre-iii/titre-ier/chapitre-x.md#article-1258-2) → art. L471-2
-- [art. 1262](livre-iii/titre-ier/chapitre-xi.md#article-1262) → art. L271-6
+- [art. 62](livre-ier/titre-iv/chapitre-ier.md#article-62) → [art. 1635 bis Q](../code-general-des-impots/livre-premier/deuxieme-partie/titre-iii/chapitre-iii.md#article-1635-bis-q)
+- [art. 62-1](livre-ier/titre-iv/chapitre-ier.md#article-62-1) → [art. 1635 bis Q](../code-general-des-impots/livre-premier/deuxieme-partie/titre-iii/chapitre-iii.md#article-1635-bis-q)
+- [art. 964](livre-ii/titre-vi/sous-titre-iii/chapitre-ier-bis.md#article-964) → [art. 1635 bis P](../code-general-des-impots/livre-premier/deuxieme-partie/titre-iii/chapitre-iii.md#article-1635-bis-p)
+- [art. 1425-9](livre-iii/titre-iv/chapitre-ii.md#article-1425-9) → [art. 1635 bis Q](../code-general-des-impots/livre-premier/deuxieme-partie/titre-iii/chapitre-iii.md#article-1635-bis-q)
+- [art. 1567](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025181563) → [art. 1635 bis Q](../code-general-des-impots/livre-premier/deuxieme-partie/titre-iii/chapitre-iii.md#article-1635-bis-q)
 
 ### Code de commerce — origine LEGI (4)
 
-- [art. 30-21](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-21) → [art. L822-1](../code-de-commerce/partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-1)
+- [art. 30-21](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-30-21) → [art. L822-1](../code-de-commerce/partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-1)
 - [art. 425](livre-ier/titre-xiii/chapitre-ii.md#article-425) → [art. L653-8](../code-de-commerce/partie-legislative/livre-vi/titre-v/chapitre-iii.md#article-l653-8)
 - [art. 878-1](livre-ii/titre-iii/chapitre-iii.md#article-878-1) → [art. L722-4](../code-de-commerce/partie-legislative/livre-vii/titre-ii/chapitre-ii.md#article-l722-4)
-- [art. ANNEXE, art. 38](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-iii.md#article-annexe-art-38) → [art. R670-1](../code-de-commerce/partie-reglementaire/livre-vi/titre-vii.md#article-r670-1)
+- [art. ANNEXE, art. 38](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-iii.md#article-annexe-art-38) → [art. R670-1](../code-de-commerce/partie-reglementaire/livre-vi/titre-vii.md#article-r670-1)
 
-### Code pénal — origine texte (4) — pas encore traité
+### Code pénal — origine LEGI (4)
 
-- [art. 1136-7](livre-iii/titre-ier/chapitre-v.md#article-1136-7) → art. 227-4-3
-- [art. 1136-15-2](livre-iii/titre-ier/chapitre-v.md#article-1136-15-2) → art. 227-4-2
-- [art. 1136-19](livre-iii/titre-ier/chapitre-v.md#article-1136-19) → art. 227-4-2
-- [art. 1136-23](livre-iii/titre-ier/chapitre-v.md#article-1136-23) → art. 132-45-1
+- [art. 1136-7](livre-iii/titre-ier/chapitre-v.md#article-1136-7) → [art. 227-4-2](../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-2)
+- [art. 1136-7](livre-iii/titre-ier/chapitre-v.md#article-1136-7) → [art. 227-4-3](../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-3)
+- [art. 1136-15-2](livre-iii/titre-ier/chapitre-v.md#article-1136-15-2) → [art. 227-4-2](../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-2)
+- [art. 1136-19](livre-iii/titre-ier/chapitre-v.md#article-1136-19) → [art. 227-4-2](../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-4-2)
+
+### Code de la santé publique — origine LEGI (3)
+
+- [art. 1141](livre-iii/titre-ier/chapitre-v.md#article-1141) → [art. L6145-11](../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-ier/titre-iv/chapitre-v.md#article-l6145-11)
+- [art. 1248](livre-iii/titre-ier/chapitre-x.md#article-1248) → [art. L3211-6](../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l3211-6)
+- [art. 1251](livre-iii/titre-ier/chapitre-x.md#article-1251) → [art. L3211-6](../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l3211-6)
 
 ### Décret n° 65-422 du 1 juin 1965 — origine LEGI (3) — pas encore traité
 
@@ -416,25 +470,15 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1147](livre-iii/titre-ier/chapitre-v-bis.md#article-1147) → [art. 4-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286012)
 - [art. 1293](livre-iii/titre-iii/chapitre-ier.md#article-1293) → [art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286010)
 
-### Code de l'action sociale et des familles — origine LEGI (2) — pas encore traité
+### Code de procédure pénale — origine texte (2)
 
-- [art. 1171](livre-iii/titre-ier/chapitre-viii.md#article-1171) → [art. L221-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796790)
-- [art. 1216-3](livre-iii/titre-ier/chapitre-x.md#article-1216-3) → [art. L113-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796445)
-
-### Code de la santé publique — origine texte (2) — pas encore traité
-
-- [art. 1248](livre-iii/titre-ier/chapitre-x.md#article-1248) → art. L3211-6
-- [art. 1251](livre-iii/titre-ier/chapitre-x.md#article-1251) → art. L3211-6
-
-### Code de la sécurité sociale — origine texte (2) — pas encore traité
-
-- [art. 1074-4](livre-iii/titre-ier/chapitre-v.md#article-1074-4) → art. R582-8
-- [art. 1145](livre-iii/titre-ier/chapitre-v-bis.md#article-1145) → art. R582-4-1
+- [art. 1136-23](livre-iii/titre-ier/chapitre-v.md#article-1136-23) → art. 138-3
+- [art. 1210-3](livre-iii/titre-ier/chapitre-ix.md#article-1210-3) → art. 53
 
 ### Code du travail — origine LEGI (2)
 
-- [art. 30-19](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-19) → [art. L1224-1](../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-iv.md#article-l1224-1)
-- [art. 30-19](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-19) → [art. L1224-2](../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-iv.md#article-l1224-2)
+- [art. 30-19](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-30-19) → [art. L1224-1](../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-iv.md#article-l1224-1)
+- [art. 30-19](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-30-19) → [art. L1224-2](../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-iv.md#article-l1224-2)
 
 ### Décret n°2020-1717 du 28 décembre 2020 — origine LEGI (2) — pas encore traité
 
@@ -445,17 +489,41 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 
 - [art. 1281-13](livre-iii/titre-ii/chapitre-vi.md#article-1281-13) → [art. R521-1](../code-de-commerce/partie-reglementaire/livre-v/titre-ii/chapitre-ier.md#article-r521-1)
 
-### Code de la santé publique — origine LEGI (1) — pas encore traité
+### Code de l'action sociale et des familles — origine texte (1)
 
-- [art. 1141](livre-iii/titre-ier/chapitre-v.md#article-1141) → [art. L6145-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006691040)
+- [art. 1141](livre-iii/titre-ier/chapitre-v.md#article-1141) → [art. L132-7](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-7)
+
+### Code de la sécurité sociale — origine LEGI (1)
+
+- [art. 1074-4](livre-iii/titre-ier/chapitre-v.md#article-1074-4) → [art. R582-8](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-8)
+
+### Code de la sécurité sociale — origine texte (1)
+
+- [art. 1145](livre-iii/titre-ier/chapitre-v-bis.md#article-1145) → [art. R582-4-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-4-1)
+
+### Code du domaine de l'Etat — origine texte (1)
+
+- [art. 1353](livre-iii/titre-iii/chapitre-ii.md#article-1353) → art. L77
+
+### Code du patrimoine — origine LEGI (1)
+
+- [art. 1440-1-1](livre-iii/titre-iv/chapitre-v.md#article-1440-1-1) → [art. L213-1](../code-du-patrimoine/partie-legislative/livre-ii/titre-ier/chapitre-3.md#article-l213-1)
 
 ### Code du travail — origine texte (1)
 
-- [art. 30-19](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-19) → art. L2323-19
+- [art. 30-19](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-30-19) → art. L2323-19
 
-### Code monétaire et financier — origine texte (1) — pas encore traité
+### Code monétaire et financier — origine LEGI (1)
 
-- [art. 30-18](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-18) → art. L213-8
+- [art. 30-18](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-30-18) → [art. L213-8](../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-8)
+
+### Code pénal — origine texte (1)
+
+- [art. 1136-23](livre-iii/titre-ier/chapitre-v.md#article-1136-23) → art. 132-45-1
+
+### Code pénitentiaire — origine texte (1)
+
+- [art. 1136-23](livre-iii/titre-ier/chapitre-v.md#article-1136-23) → [art. R631-1](../code-penitentiaire/partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md#article-r631-1)
 
 ### Décret n°2007-1205 du 10 août 2007 — origine LEGI (1) — pas encore traité
 
@@ -607,48 +675,48 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. A444-28](../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-28) → [art. 1304](livre-iii/titre-iii/chapitre-ii.md#article-1304)
 - [art. R444-71](../code-de-commerce/partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-4.md#article-r444-71) → [art. 1358](livre-iii/titre-iii/chapitre-ii.md#article-1358)
 - [art. R643-20](../code-de-commerce/partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md#article-r643-20) → [art. 1405](livre-iii/titre-iv/chapitre-ii.md#article-1405)
-- [art. R670-1](../code-de-commerce/partie-reglementaire/livre-vi/titre-vii.md#article-r670-1) → [art. ANNEXE, art. 31](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-31)
-- [art. R670-1](../code-de-commerce/partie-reglementaire/livre-vi/titre-vii.md#article-r670-1) → [art. ANNEXE, art. 37](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-iii.md#article-annexe-art-37)
+- [art. R670-1](../code-de-commerce/partie-reglementaire/livre-vi/titre-vii.md#article-r670-1) → [art. ANNEXE, art. 31](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-31)
+- [art. R670-1](../code-de-commerce/partie-reglementaire/livre-vi/titre-vii.md#article-r670-1) → [art. ANNEXE, art. 37](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-iii.md#article-annexe-art-37)
 
-### Code de la santé publique — origine LEGI (37) — pas encore traité
+### Code de la santé publique — origine LEGI (37)
 
-- [art. R3211-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024378498) → [art. 160](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-160)
-- [art. R3211-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374408) → [art. 160](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-160)
-- [art. R3211-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024378498) → [art. 276](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-276)
-- [art. R3211-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374408) → [art. 276](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-276)
-- [art. L4234-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034059285) → [art. 341](livre-ier/titre-x/chapitre-ii.md#article-341)
-- [art. R4441-26](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047249289) → [art. 341](livre-ier/titre-x/chapitre-ii.md#article-341)
-- [art. R3211-15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374404) → [art. 431](livre-ier/titre-xiv/chapitre-ier.md#article-431)
-- [art. R3211-21](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374384) → [art. 431](livre-ier/titre-xiv/chapitre-ier.md#article-431)
-- [art. R3211-38](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049774321) → [art. 431](livre-ier/titre-xiv/chapitre-ier.md#article-431)
+- [art. R3211-13](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-13) → [art. 160](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-160)
+- [art. R3211-14](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-14) → [art. 160](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-160)
+- [art. R3211-13](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-13) → [art. 276](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-276)
+- [art. R3211-14](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-14) → [art. 276](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-276)
+- [art. L4234-2](../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-ii/titre-iii/chapitre-iv.md#article-l4234-2) → [art. 341](livre-ier/titre-x/chapitre-ii.md#article-341)
+- [art. R4441-26](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-i.md#article-r4441-26) → [art. 341](livre-ier/titre-x/chapitre-ii.md#article-341)
+- [art. R3211-15](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-15) → [art. 431](livre-ier/titre-xiv/chapitre-ier.md#article-431)
+- [art. R3211-21](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-21) → [art. 431](livre-ier/titre-xiv/chapitre-ier.md#article-431)
+- [art. R3211-38](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-38) → [art. 431](livre-ier/titre-xiv/chapitre-ier.md#article-431)
 - [art. L1516-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017853129) → [art. 493](livre-ier/titre-xiv/chapitre-ii.md#article-493)
-- [art. R4126-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846420) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R4234-26](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846410) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R4441-22](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047249274) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R4441-27](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047249296) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R4443-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030488306) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R3211-25](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374366) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
-- [art. R3211-25](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374366) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
-- [art. R3211-32](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043468924) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
-- [art. L4441-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000017853123) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R3211-17](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022257759) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R3211-25](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024376619) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R3211-32](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043468924) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R3211-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374430) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R4126-25](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846416) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R4126-32](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039452254) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R4234-26](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846410) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R4441-27](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047249296) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R4443-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030488296) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R3211-32](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043468924) → [art. 644](livre-ier/titre-xvii/chapitre-ier.md#article-644)
-- [art. R4126-32](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039452254) → [art. 644](livre-ier/titre-xvii/chapitre-ier.md#article-644)
-- [art. R4441-27](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047249296) → [art. 644](livre-ier/titre-xvii/chapitre-ier.md#article-644)
-- [art. R4031-36](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034696860) → [art. 983](livre-ii/titre-vii/chapitre-ii.md#article-983)
-- [art. R2141-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044968956) → [art. 1157-2](livre-iii/titre-ier/chapitre-vi.md#article-1157-2)
-- [art. R2142-25](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044969179) → [art. 1157-2](livre-iii/titre-ier/chapitre-vi.md#article-1157-2)
-- [art. R2442-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037437856) → [art. 1157-2](livre-iii/titre-ier/chapitre-vi.md#article-1157-2)
-- [art. R2141-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044968956) → [art. 1157-3](livre-iii/titre-ier/chapitre-vi.md#article-1157-3)
-- [art. R2442-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037437856) → [art. 1157-3](livre-iii/titre-ier/chapitre-vi.md#article-1157-3)
+- [art. R4126-10](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vi.md#article-r4126-10) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R4234-26](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ii/titre-iii/chapitre-iv.md#article-r4234-26) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R4441-22](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-i.md#article-r4441-22) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R4441-27](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-i.md#article-r4441-27) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R4443-10](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-iii.md#article-r4443-10) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R3211-25](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-25) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
+- [art. R3211-25](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-25) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
+- [art. R3211-32](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-32) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
+- [art. L4441-8](../code-de-la-sante-publique/partie-legislative/quatrieme-partie/livre-iv/titre-iv/chapitre-ier.md#article-l4441-8) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R3211-17](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-17) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R3211-25](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-25) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R3211-32](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-32) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R3211-9](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-9) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R4126-25](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vi.md#article-r4126-25) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R4126-32](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vi.md#article-r4126-32) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R4234-26](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ii/titre-iii/chapitre-iv.md#article-r4234-26) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R4441-27](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-i.md#article-r4441-27) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R4443-6](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-iii.md#article-r4443-6) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R3211-32](../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-32) → [art. 644](livre-ier/titre-xvii/chapitre-ier.md#article-644)
+- [art. R4126-32](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-vi.md#article-r4126-32) → [art. 644](livre-ier/titre-xvii/chapitre-ier.md#article-644)
+- [art. R4441-27](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-i.md#article-r4441-27) → [art. 644](livre-ier/titre-xvii/chapitre-ier.md#article-644)
+- [art. R4031-36](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-iii/chapitre-unique.md#article-r4031-36) → [art. 983](livre-ii/titre-vii/chapitre-ii.md#article-983)
+- [art. R2141-10](../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r2141-10) → [art. 1157-2](livre-iii/titre-ier/chapitre-vi.md#article-1157-2)
+- [art. R2142-25](../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r2142-25) → [art. 1157-2](livre-iii/titre-ier/chapitre-vi.md#article-1157-2)
+- [art. R2442-2](../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-iv/titre-iv/chapitre-ii.md#article-r2442-2) → [art. 1157-2](livre-iii/titre-ier/chapitre-vi.md#article-1157-2)
+- [art. R2141-10](../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r2141-10) → [art. 1157-3](livre-iii/titre-ier/chapitre-vi.md#article-1157-3)
+- [art. R2442-2](../code-de-la-sante-publique/partie-reglementaire/deuxieme-partie/livre-iv/titre-iv/chapitre-ii.md#article-r2442-2) → [art. 1157-3](livre-iii/titre-ier/chapitre-vi.md#article-1157-3)
 
 ### Code de commerce — origine texte (25)
 
@@ -678,58 +746,37 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. Annexe 4-7](../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) → art. 1428
 - [art. A444-45](../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-45) → art. L431-3
 
-### Code de la sécurité sociale — origine LEGI (24) — pas encore traité
+### Code de la sécurité sociale — origine LEGI (24)
 
-- [art. R142-10-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041404220) → [art. 57](livre-ier/titre-iv/chapitre-ier.md#article-57)
-- [art. R766-35](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624905) → [art. 57](livre-ier/titre-iv/chapitre-ier.md#article-57)
-- [art. R142-10-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037544161) → [art. 58](livre-ier/titre-iv/chapitre-ier.md#article-58)
-- [art. L442-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280808) → [art. 232](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-232)
-- [art. D311-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011) → [art. 264](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-264)
-- [art. R142-10-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000040341004) → [art. 386](livre-ier/titre-xi/chapitre-iv.md#article-386)
-- [art. R142-10-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041404213) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
-- [art. R142-13-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597382) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
-- [art. R145-19](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027644174) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R766-39](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846300) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R243-45-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038787043) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
-- [art. R766-39](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846300) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
-- [art. R243-45-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038787043) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
-- [art. R766-39](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846300) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
-- [art. R145-37](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027628312) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. D311-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011) → [art. 695](livre-ier/titre-xviii/chapitre-ier.md#article-695)
-- [art. R581-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846315) → [art. 704](livre-ier/titre-xviii/chapitre-iii.md#article-704)
-- [art. R142-10-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041404206) → [art. 780](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-780)
-- [art. R142-10-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041404206) → [art. 793](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-793)
-- [art. D231-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347644) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
-- [art. D231-21](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347647) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
-- [art. R766-38](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347655) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
-- [art. D231-21](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347647) → [art. 1008](livre-ii/titre-vii/chapitre-iii.md#article-1008)
-- [art. R142-10-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037544177) → [art. 1407](livre-iii/titre-iv/chapitre-ii.md#article-1407)
+- [art. R142-10-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-1) → [art. 57](livre-ier/titre-iv/chapitre-ier.md#article-57)
+- [art. R766-35](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vi/chapitre-6.md#article-r766-35) → [art. 57](livre-ier/titre-iv/chapitre-ier.md#article-57)
+- [art. R142-10-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-1) → [art. 58](livre-ier/titre-iv/chapitre-ier.md#article-58)
+- [art. L442-4](../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iv/chapitre-2.md#article-l442-4) → [art. 232](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-232)
+- [art. D311-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) → [art. 264](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-264)
+- [art. R142-10-10](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-10) → [art. 386](livre-ier/titre-xi/chapitre-iv.md#article-386)
+- [art. R142-10-4](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-4) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
+- [art. R142-13-3](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-13-3) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
+- [art. R145-19](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-5.md#article-r145-19) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R766-39](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vi/chapitre-6.md#article-r766-39) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R243-45-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-45-1) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
+- [art. R766-39](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vi/chapitre-6.md#article-r766-39) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
+- [art. R243-45-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-45-1) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
+- [art. R766-39](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vi/chapitre-6.md#article-r766-39) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
+- [art. R145-37](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-5.md#article-r145-37) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. D311-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) → [art. 695](livre-ier/titre-xviii/chapitre-ier.md#article-695)
+- [art. R581-7](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-1er.md#article-r581-7) → [art. 704](livre-ier/titre-xviii/chapitre-iii.md#article-704)
+- [art. R142-10-5](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-5) → [art. 780](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-780)
+- [art. R142-10-5](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-5) → [art. 793](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-793)
+- [art. D231-10](../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-ii/titre-iii/chapitre-1er.md#article-d231-10) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+- [art. D231-21](../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-ii/titre-iii/chapitre-1er.md#article-d231-21) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+- [art. R766-38](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-vi/chapitre-6.md#article-r766-38) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+- [art. D231-21](../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-ii/titre-iii/chapitre-1er.md#article-d231-21) → [art. 1008](livre-ii/titre-vii/chapitre-iii.md#article-1008)
+- [art. R142-10-8](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-8) → [art. 1407](livre-iii/titre-iv/chapitre-ii.md#article-1407)
 
-### Code des procédures civiles d'exécution — origine LEGI (18) — pas encore traité
+### Code de procédure pénale — origine LEGI (19)
 
-- [art. R322-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042941194) → [art. 56](livre-ier/titre-iv/chapitre-ier.md#article-56)
-- [art. R322-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939062) → [art. 56](livre-ier/titre-iv/chapitre-ier.md#article-56)
-- [art. R442-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624844) → [art. 57](livre-ier/titre-iv/chapitre-ier.md#article-57)
-- [art. R442-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939369) → [art. 58](livre-ier/titre-iv/chapitre-ier.md#article-58)
-- [art. R121-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938316) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
-- [art. R121-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042597368) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
-- [art. R121-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930997) → [art. 481-1](livre-ier/titre-xiv/chapitre-ii.md#article-481-1)
-- [art. R121-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930997) → [art. 484](livre-ier/titre-xiv/chapitre-ii.md#article-484)
-- [art. R332-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939270) → [art. 652](livre-ier/titre-xvii/chapitre-iii.md#article-652)
-- [art. R211-18-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053497799) → [art. 662-1](livre-ier/titre-xvii/chapitre-iii.md#article-662-1)
-- [art. R442-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030360331) → [art. 670-1](livre-ier/titre-xvii/chapitre-iii.md#article-670-1)
-- [art. R162-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025947309) → [art. 748-7](livre-ier/titre-xxi.md#article-748-7)
-- [art. R211-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039413299) → [art. 748-7](livre-ier/titre-xxi.md#article-748-7)
-- [art. R523-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039375576) → [art. 748-7](livre-ier/titre-xxi.md#article-748-7)
-- [art. R311-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624849) → [art. 766](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-766)
-- [art. R311-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938953) → [art. 815](livre-ii/titre-ier/sous-titre-ii/chapitre-iii.md#article-815)
-- [art. R121-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048869099) → [art. 905](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-905)
-- [art. R311-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048869091) → [art. 905](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-905)
-
-### Code de procédure pénale — origine LEGI (16) — pas encore traité
-
-- [art. R310](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042083023) → [art. 23-1](livre-ier/titre-ier/chapitre-ier.md#article-23-1)
-- [art. R93](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403781) → [art. 23-1](livre-ier/titre-ier/chapitre-ier.md#article-23-1)
+- [art. R310](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vii.md#article-r310) → [art. 23-1](livre-ier/titre-ier/chapitre-ier.md#article-23-1)
+- [art. R93](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93) → [art. 23-1](livre-ier/titre-ier/chapitre-ier.md#article-23-1)
 - [art. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479172) → [art. 381](livre-ier/titre-xi/chapitre-iii.md#article-381)
 - [art. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479172) → [art. 382](livre-ier/titre-xi/chapitre-iii.md#article-382)
 - [art. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479172) → [art. 442](livre-ier/titre-xiv/chapitre-ier.md#article-442)
@@ -737,13 +784,51 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479172) → [art. 445](livre-ier/titre-xiv/chapitre-ier.md#article-445)
 - [art. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479172) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
 - [art. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479172) → [art. 455](livre-ier/titre-xiv/chapitre-ier.md#article-455)
-- [art. R93](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403781) → [art. 696](livre-ier/titre-xviii/chapitre-ier.md#article-696)
-- [art. D593-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044632102) → [art. 748-6](livre-ier/titre-xxi.md#article-748-6)
+- [art. R50-28](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xiv.md#article-r50-28) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R93](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93) → [art. 696](livre-ier/titre-xviii/chapitre-ier.md#article-696)
+- [art. D593-1](../code-de-procedure-penale/partie-reglementaire-decrets-simples/livre-v/titre-xii/chapitre-ii.md#article-d593-1) → [art. 748-6](livre-ier/titre-xxi.md#article-748-6)
 - [art. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054479172) → [art. 828](livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828)
-- [art. A43-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028130314) → [art. 1072](livre-iii/titre-ier/chapitre-v.md#article-1072)
-- [art. A43-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028130314) → [art. 1171](livre-iii/titre-ier/chapitre-viii.md#article-1171)
-- [art. A43-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028130314) → [art. 1221](livre-iii/titre-ier/chapitre-x.md#article-1221)
-- [art. R218](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403763) → [art. 1306](livre-iii/titre-iii/chapitre-ii.md#article-1306)
+- [art. A43-12](../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) → [art. 1072](livre-iii/titre-ier/chapitre-v.md#article-1072)
+- [art. A43-12](../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) → [art. 1171](livre-iii/titre-ier/chapitre-viii.md#article-1171)
+- [art. A43-10](../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-10) → [art. 1210-3](livre-iii/titre-ier/chapitre-ix.md#article-1210-3)
+- [art. A43-12](../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) → [art. 1221](livre-iii/titre-ier/chapitre-x.md#article-1221)
+- [art. A43-12](../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) → [art. 1248](livre-iii/titre-ier/chapitre-x.md#article-1248)
+- [art. R218](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-iii.md#article-r218) → [art. 1306](livre-iii/titre-iii/chapitre-ii.md#article-1306)
+
+### Code des procédures civiles d'exécution — origine LEGI (19)
+
+- [art. R322-5](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-5) → [art. 56](livre-ier/titre-iv/chapitre-ier.md#article-56)
+- [art. R322-7](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-7) → [art. 56](livre-ier/titre-iv/chapitre-ier.md#article-56)
+- [art. R442-3](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md#article-r442-3) → [art. 57](livre-ier/titre-iv/chapitre-ier.md#article-57)
+- [art. R442-3](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md#article-r442-3) → [art. 58](livre-ier/titre-iv/chapitre-ier.md#article-58)
+- [art. R121-10](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md#article-r121-10) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
+- [art. R121-9](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md#article-r121-9) → [art. 446-1](livre-ier/titre-xiv/chapitre-ier.md#article-446-1)
+- [art. R121-5](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md#article-r121-5) → [art. 481-1](livre-ier/titre-xiv/chapitre-ii.md#article-481-1)
+- [art. R121-5](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md#article-r121-5) → [art. 484](livre-ier/titre-xiv/chapitre-ii.md#article-484)
+- [art. R332-9](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md#article-r332-9) → [art. 652](livre-ier/titre-xvii/chapitre-iii.md#article-652)
+- [art. R211-18-1](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-18-1) → [art. 662-1](livre-ier/titre-xvii/chapitre-iii.md#article-662-1)
+- [art. R442-4](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md#article-r442-4) → [art. 670-1](livre-ier/titre-xvii/chapitre-iii.md#article-670-1)
+- [art. R162-1](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md#article-r162-1) → [art. 748-7](livre-ier/titre-xxi.md#article-748-7)
+- [art. R211-4](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-4) → [art. 748-7](livre-ier/titre-xxi.md#article-748-7)
+- [art. R523-4](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-ii/chapitre-iii.md#article-r523-4) → [art. 748-7](livre-ier/titre-xxi.md#article-748-7)
+- [art. R311-6](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-6) → [art. 766](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-766)
+- [art. R311-6](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-6) → [art. 815](livre-ii/titre-ier/sous-titre-ii/chapitre-iii.md#article-815)
+- [art. R121-20](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md#article-r121-20) → [art. 905](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-905)
+- [art. R311-7](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-7) → [art. 905](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-905)
+- [art. R311-10](../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-10) → [art. Section IV : Les exceptions de nullité](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006149649)
+
+### Code rural (nouveau) — origine LEGI (10)
+
+- [art. L253-3](../code-rural-nouveau/partie-legislative/livre-ii/titre-v/chapitre-iii.md#article-l253-3) → [Code de procédure civile](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070716)
+- [art. R723-85](../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-85) → [Code de procédure civile](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070716)
+- [art. R213-7](../code-rural-nouveau/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-r213-7) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R723-38](../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-38) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R213-7](../code-rural-nouveau/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-r213-7) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
+- [art. R213-7](../code-rural-nouveau/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-r213-7) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
+- [art. R631-4-35](../code-rural-nouveau/partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md#article-r631-4-35) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
+- [art. R511-24](../code-rural-nouveau/partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-24) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+- [art. R723-84](../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-r723-84) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+- [art. D632-8](../code-rural-nouveau/partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md#article-d632-8) → [art. 1405](livre-iii/titre-iv/chapitre-ii.md#article-1405)
 
 ### Décret n°91-1197 du 27 novembre 1991 — origine LEGI (10) — pas encore traité
 
@@ -799,45 +884,35 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. R713-7](../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-ier/chapitre-iii.md#article-r713-7) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
 - [art. R631-2](../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vi/titre-iii/chapitre-ier.md#article-r631-2) → [art. 1425-1](livre-iii/titre-iv/chapitre-ii.md#article-1425-1)
 
-### Code des assurances — origine LEGI (7) — pas encore traité
+### Code des assurances — origine LEGI (7)
 
-- [art. R421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624137) → [art. 514](livre-ier/titre-xv/chapitre-iv.md#article-514)
-- [art. R421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624137) → [art. 515](livre-ier/titre-xv/chapitre-iv.md#article-515)
-- [art. R211-36](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846257) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
-- [art. R211-36](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846257) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
-- [art. R421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846252) → [art. 771](livre-ii/titre-ier/sous-titre-ier/chapitre-iii.md#article-771)
-- [art. R421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624137) → [art. 789](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-789)
-- [art. R421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846252) → [art. 808](livre-ii/titre-ier/sous-titre-ii/chapitre-ii.md#article-808)
+- [art. R421-9](../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9) → [art. 514](livre-ier/titre-xv/chapitre-iv.md#article-514)
+- [art. R421-9](../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9) → [art. 515](livre-ier/titre-xv/chapitre-iv.md#article-515)
+- [art. R211-36](../code-des-assurances/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-36) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
+- [art. R211-36](../code-des-assurances/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-36) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
+- [art. R421-9](../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9) → [art. 771](livre-ii/titre-ier/sous-titre-ier/chapitre-iii.md#article-771)
+- [art. R421-9](../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9) → [art. 789](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-789)
+- [art. R421-9](../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9) → [art. 808](livre-ii/titre-ier/sous-titre-ii/chapitre-ii.md#article-808)
 
-### Code des pensions militaires d'invalidité et de... — origine LEGI (7) — pas encore traité
+### Code des pensions militaires d'invalidité et des victimes de la guerre — origine LEGI (7)
 
-- [art. R391-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021635503) → [art. 268](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-268)
-- [art. R391-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021635503) → [art. 283](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-283)
-- [art. R511-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624653) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
-- [art. R512-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624644) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
-- [art. R513-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624635) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
-- [art. R514-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624626) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
-- [art. R531-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039343279) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
+- [art. R391-6](../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iii/chapitre-ii.md#article-r391-6) → [art. 268](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-268)
+- [art. R391-6](../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iii/chapitre-ii.md#article-r391-6) → [art. 283](livre-ier/titre-vii/sous-titre-ii/chapitre-v.md#article-283)
+- [art. R511-2](../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ier.md#article-r511-2) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
+- [art. R512-3](../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-r512-3) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
+- [art. R513-5](../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-iii.md#article-r513-5) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
+- [art. R514-1](../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-iv.md#article-r514-1) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
+- [art. R531-1](../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-nouvelle/livre-v/titre-iii/chapitre-unique.md#article-r531-1) → [art. 1047](livre-iii/titre-ier/chapitre-ii.md#article-1047)
 
-### Code monétaire et financier — origine LEGI (7) — pas encore traité
+### Code monétaire et financier — origine LEGI (7)
 
-- [art. R561-61](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053964057) → [art. 496](livre-ier/titre-xiv/chapitre-ii.md#article-496)
-- [art. R621-46](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054359671) → [art. 648](livre-ier/titre-xvii/chapitre-ii.md#article-648)
-- [art. R561-36](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036824807) → [art. 813](livre-ii/titre-ier/sous-titre-ii/chapitre-iii.md#article-813)
-- [art. R561-36](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044619935) → [art. 846](livre-ii/titre-ier/sous-titre-iv/chapitre-ii.md#article-846)
+- [art. R561-61](../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-61) → [art. 496](livre-ier/titre-xiv/chapitre-ii.md#article-496)
+- [art. R621-46](../code-monetaire-et-financier/partie-reglementaire/livre-vi/titre-ii/chapitre-unique.md#article-r621-46) → [art. 648](livre-ier/titre-xvii/chapitre-ii.md#article-648)
+- [art. R561-36](../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-36) → [art. 813](livre-ii/titre-ier/sous-titre-ii/chapitre-iii.md#article-813)
+- [art. R561-36](../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-36) → [art. 846](livre-ii/titre-ier/sous-titre-iv/chapitre-ii.md#article-846)
 - [art. R561-59](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034921695) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
-- [art. R621-46](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054359671) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
+- [art. R621-46](../code-monetaire-et-financier/partie-reglementaire/livre-vi/titre-ii/chapitre-unique.md#article-r621-46) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
 - [art. R561-59](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034921695) → [art. 950](livre-ii/titre-vi/sous-titre-ier/chapitre-ii.md#article-950)
-
-### Code rural et de la pêche maritime — origine LEGI (7) — pas encore traité
-
-- [art. R213-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035415544) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R723-38](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038376018) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R213-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035415544) → [art. 641](livre-ier/titre-xvii/chapitre-ier.md#article-641)
-- [art. R213-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035415544) → [art. 642](livre-ier/titre-xvii/chapitre-ier.md#article-642)
-- [art. R631-4-35](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054363063) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
-- [art. R511-24](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347466) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
-- [art. R723-84](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347469) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
 
 ### Décret n°2020-1717 du 28 décembre 2020 — origine LEGI (7) — pas encore traité
 
@@ -849,14 +924,23 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 170](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042873150) → [art. 1186](livre-iii/titre-ier/chapitre-ix.md#article-1186)
 - [art. 75](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043712772) → [art. 1186](livre-iii/titre-ier/chapitre-ix.md#article-1186)
 
-### Code de l'expropriation pour cause d'utilité pu... — origine LEGI (6) — pas encore traité
+### Code de l'expropriation pour cause d'utilité publique — origine LEGI (6)
 
-- [art. R221-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971230) → [art. 612](livre-ier/titre-xvi/sous-titre-iii/chapitre-iii.md#article-612)
-- [art. R311-30](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971370) → [art. 670](livre-ier/titre-xvii/chapitre-iii.md#article-670)
-- [art. R421-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971474) → [art. 670](livre-ier/titre-xvii/chapitre-iii.md#article-670)
-- [art. R311-30](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971370) → [art. 675](livre-ier/titre-xvii/chapitre-iii.md#article-675)
-- [art. R311-24](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035399785) → [art. 936](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-936)
-- [art. R221-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029971230) → [art. 973](livre-ii/titre-vii/articles-directs.md#article-973)
+- [art. R221-8](../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ier.md#article-r221-8) → [art. 612](livre-ier/titre-xvi/sous-titre-iii/chapitre-iii.md#article-612)
+- [art. R311-30](../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ier.md#article-r311-30) → [art. 670](livre-ier/titre-xvii/chapitre-iii.md#article-670)
+- [art. R421-2](../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-ier.md#article-r421-2) → [art. 670](livre-ier/titre-xvii/chapitre-iii.md#article-670)
+- [art. R311-30](../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ier.md#article-r311-30) → [art. 675](livre-ier/titre-xvii/chapitre-iii.md#article-675)
+- [art. R311-24](../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-ier.md#article-r311-24) → [art. 936](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-936)
+- [art. R221-8](../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-ier.md#article-r221-8) → [art. 973](livre-ii/titre-vii/articles-directs.md#article-973)
+
+### Code de la commande publique — origine LEGI (6)
+
+- [art. L2197-2](../code-de-la-commande-publique/partie-legislative/deuxieme-partie/livre-ier/titre-ix/chapitre-vii.md#article-l2197-2) → [art. Chapitre II : La conciliation menée par un conc](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000025181356)
+- [art. L3137-2](../code-de-la-commande-publique/partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-vii.md#article-l3137-2) → [art. Chapitre II : La conciliation menée par un conc](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000025181356)
+- [art. L2197-2](../code-de-la-commande-publique/partie-legislative/deuxieme-partie/livre-ier/titre-ix/chapitre-vii.md#article-l2197-2) → [art. Chapitre Ier : La conciliation](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000030350222)
+- [art. L3137-2](../code-de-la-commande-publique/partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-vii.md#article-l3137-2) → [art. Chapitre Ier : La conciliation](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000030350222)
+- [art. L2197-7](../code-de-la-commande-publique/partie-legislative/deuxieme-partie/livre-ier/titre-ix/chapitre-vii.md#article-l2197-7) → [art. Livre IV : L'arbitrage](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006089134)
+- [art. L3137-5](../code-de-la-commande-publique/partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-vii.md#article-l3137-5) → [art. Livre IV : L'arbitrage](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006089134)
 
 ### Code de la consommation — origine texte (6)
 
@@ -867,23 +951,41 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. R742-15](../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-15) → [art. 692-1](livre-ier/titre-xvii/chapitre-iii.md#article-692-1)
 - [art. R742-35](../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iv/chapitre-ii.md#article-r742-35) → [art. 692-1](livre-ier/titre-xvii/chapitre-iii.md#article-692-1)
 
-### Code des transports — origine LEGI (6) — pas encore traité
+### Code de la propriété intellectuelle — origine texte (6)
 
-- [art. R6411-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048324480) → [art. 484](livre-ier/titre-xiv/chapitre-ii.md#article-484)
-- [art. L6431-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023077769) → [art. 493](livre-ier/titre-xiv/chapitre-ii.md#article-493)
-- [art. R6123-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048322326) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R6123-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053225148) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R4123-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027232409) → [art. 683](livre-ier/titre-xvii/chapitre-iii.md#article-683)
-- [art. R4123-26](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347413) → [art. ANNEXE, art. 23](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-23)
+- [art. R411-25](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md#article-r411-25) → [art. 54](livre-ier/titre-iv/chapitre-ier.md#article-54)
+- [art. R321-47](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iii/titre-ii/chapitre-ier-septies.md#article-r321-47) → [art. 57](livre-ier/titre-iv/chapitre-ier.md#article-57)
+- [art. R331-44](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-r331-44) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R411-24](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md#article-r411-24) → [art. 930-1](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-930-1)
+- [art. R331-52](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-r331-52) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
+- [art. R411-39](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md#article-r411-39) → [art. 960](livre-ii/titre-vi/sous-titre-iii/chapitre-ier.md#article-960)
 
-### Code électoral — origine LEGI (6) — pas encore traité
+### Code des transports — origine LEGI (6)
 
-- [art. R25-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028092290) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
-- [art. R211](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846136) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006354418) → [art. 855](livre-ii/titre-iii/chapitre-ier.md#article-855)
-- [art. R14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006354418) → [art. 858](livre-ii/titre-iii/chapitre-ier.md#article-858)
-- [art. R19-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036912220) → [art. 974](livre-ii/titre-vii/chapitre-ier.md#article-974)
-- [art. R19-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036912220) → [art. 982](livre-ii/titre-vii/chapitre-ier.md#article-982)
+- [art. R6411-11](../code-des-transports/partie-reglementaire/sixieme-partie/livre-iv/titre-i/chapitre-i.md#article-r6411-11) → [art. 484](livre-ier/titre-xiv/chapitre-ii.md#article-484)
+- [art. L6431-3](../code-des-transports/partie-legislative/sixieme-partie/livre-iv/titre-iii/chapitre-ier.md#article-l6431-3) → [art. 493](livre-ier/titre-xiv/chapitre-ii.md#article-493)
+- [art. R6123-14](../code-des-transports/partie-reglementaire/sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r6123-14) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R6123-5](../code-des-transports/partie-reglementaire/sixieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r6123-5) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R4123-5](../code-des-transports/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r4123-5) → [art. 683](livre-ier/titre-xvii/chapitre-iii.md#article-683)
+- [art. R4123-26](../code-des-transports/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r4123-26) → [art. ANNEXE, art. 23](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-23)
+
+### Code général des impôts, annexe III — origine LEGI (6)
+
+- [art. 406 A 15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845672) → [art. 485](livre-ier/titre-xiv/chapitre-ii.md#article-485)
+- [art. 415](../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415) → [art. 656](livre-ier/titre-xvii/chapitre-iii.md#article-656)
+- [art. 415](../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415) → [art. 659](livre-ier/titre-xvii/chapitre-iii.md#article-659)
+- [art. 415](../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415) → [art. 660](livre-ier/titre-xvii/chapitre-iii.md#article-660)
+- [art. 415](../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415) → [art. 684](livre-ier/titre-xvii/chapitre-iii.md#article-684)
+- [art. 415](../code-general-des-impots-annexe-iii/livre-ii/chapitre-ii.md#article-415) → [art. 691](livre-ier/titre-xvii/chapitre-iii.md#article-691)
+
+### Code électoral — origine LEGI (6)
+
+- [art. R25-2](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii-bis.md#article-r25-2) → [art. 640](livre-ier/titre-xvii/chapitre-ier.md#article-640)
+- [art. R211](../code-electoral/partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r211) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R14](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r14) → [art. 855](livre-ii/titre-iii/chapitre-ier.md#article-855)
+- [art. R14](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r14) → [art. 858](livre-ii/titre-iii/chapitre-ier.md#article-858)
+- [art. R19-6](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-6) → [art. 974](livre-ii/titre-vii/chapitre-ier.md#article-974)
+- [art. R19-6](../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r19-6) → [art. 982](livre-ii/titre-vii/chapitre-ier.md#article-982)
 
 ### Décret n°91-1369 du 30 décembre 1991 — origine LEGI (6) — pas encore traité
 
@@ -894,29 +996,37 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 17-10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023723528) → [art. 1209](livre-iii/titre-ier/chapitre-ix.md#article-1209)
 - [art. 17-10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023723528) → [art. 1261](livre-iii/titre-ier/chapitre-x.md#article-1261)
 
-### Code de justice administrative — origine LEGI (5) — pas encore traité
+### Code de justice administrative — origine LEGI (5)
 
-- [art. R432-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039806962) → [art. 49](livre-ier/titre-iii/chapitre-iii.md#article-49)
-- [art. R811-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052286884) → [art. 49](livre-ier/titre-iii/chapitre-iii.md#article-49)
-- [art. R626-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046965781) → [art. 730](livre-ier/titre-xx/chapitre-ier.md#article-730)
-- [art. R627-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046960576) → [art. 730](livre-ier/titre-xx/chapitre-ier.md#article-730)
-- [art. R621-7-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047697230) → [art. 748-6](livre-ier/titre-xxi.md#article-748-6)
+- [art. R432-2](../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ii.md#article-r432-2) → [art. 49](livre-ier/titre-iii/chapitre-iii.md#article-49)
+- [art. R811-1](../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-ier.md#article-r811-1) → [art. 49](livre-ier/titre-iii/chapitre-iii.md#article-49)
+- [art. R626-3](../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vi.md#article-r626-3) → [art. 730](livre-ier/titre-xx/chapitre-ier.md#article-730)
+- [art. R627-3](../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vii.md#article-r627-3) → [art. 730](livre-ier/titre-xx/chapitre-ier.md#article-730)
+- [art. R621-7-3](../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-ier.md#article-r621-7-3) → [art. 748-6](livre-ier/titre-xxi.md#article-748-6)
 
-### Code de l'organisation judiciaire — origine LEGI (5) — pas encore traité
+### Code de l'action sociale et des familles — origine LEGI (5)
 
-- [art. L211-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038314123) → [art. 52](livre-ier/titre-iii/chapitre-iii.md#article-52)
-- [art. R123-24](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051166677) → [art. 131-6](livre-ier/titre-vi/chapitre-ii.md#article-131-6)
-- [art. R212-37](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053469702) → [art. 155-1](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-155-1)
-- [art. R411-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018921891) → [art. 366-5](livre-ier/titre-x/chapitre-iv.md#article-366-5)
-- [art. R123-24](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978) → [art. 1337](livre-iii/titre-iii/chapitre-ii.md#article-1337)
+- [art. R271-9](../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-vii/chapitre-ier.md#article-r271-9) → [art. 25](livre-ier/titre-ier/chapitre-ii.md#article-25)
+- [art. R314-105](../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md#article-r314-105) → [art. 1181](livre-iii/titre-ier/chapitre-ix.md#article-1181)
+- [art. D226-3-2](../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md#article-d226-3-2) → [art. 1182](livre-iii/titre-ier/chapitre-ix.md#article-1182)
+- [art. D226-3-7](../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md#article-d226-3-7) → [art. 1183](livre-iii/titre-ier/chapitre-ix.md#article-1183)
+- [art. L226-3-3](../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-l226-3-3) → [art. 1183](livre-iii/titre-ier/chapitre-ix.md#article-1183)
 
-### Code général des impôts, annexe 3 — origine LEGI (5) — pas encore traité
+### Code de l'organisation judiciaire — origine LEGI (5)
 
-- [art. 415](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518) → [art. 656](livre-ier/titre-xvii/chapitre-iii.md#article-656)
-- [art. 415](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518) → [art. 659](livre-ier/titre-xvii/chapitre-iii.md#article-659)
-- [art. 415](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518) → [art. 660](livre-ier/titre-xvii/chapitre-iii.md#article-660)
-- [art. 415](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518) → [art. 684](livre-ier/titre-xvii/chapitre-iii.md#article-684)
-- [art. 415](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025595518) → [art. 691](livre-ier/titre-xvii/chapitre-iii.md#article-691)
+- [art. L211-6](../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-6) → [art. 52](livre-ier/titre-iii/chapitre-iii.md#article-52)
+- [art. R123-24](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-24) → [art. 131-6](livre-ier/titre-vi/chapitre-ii.md#article-131-6)
+- [art. R212-37](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-37) → [art. 155-1](livre-ier/titre-vii/sous-titre-ii/chapitre-ier.md#article-155-1)
+- [art. R411-2](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-iv/titre-ier/chapitre-unique.md#article-r411-2) → [art. 366-5](livre-ier/titre-x/chapitre-iv.md#article-366-5)
+- [art. R123-24](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-24) → [art. 1337](livre-iii/titre-iii/chapitre-ii.md#article-1337)
+
+### Code général de la propriété des personnes publiques — origine LEGI (5)
+
+- [art. R2222-25](../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-r2222-25) → [art. 659](livre-ier/titre-xvii/chapitre-iii.md#article-659)
+- [art. R5112-35](../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/cinquieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-r5112-35) → [art. 762](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-762)
+- [art. R5112-35](../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/cinquieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-r5112-35) → [art. 828](livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828)
+- [art. R1122-1](../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/premiere-partie/livre-ier/titre-ii/chapitre-ii.md#article-r1122-1) → [art. 1354](livre-iii/titre-iii/chapitre-ii.md#article-1354)
+- [art. R5112-32](../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/cinquieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-r5112-32) → [art. Livre Ier : Dispositions communes à toutes les ](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006089127)
 
 ### Décret n°2011-945 du 10 août 2011 — origine LEGI (5) — pas encore traité
 
@@ -958,34 +1068,27 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 27](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039625111) → [art. 1008](livre-ii/titre-vii/chapitre-iii.md#article-1008)
 - [art. 38](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018845969) → [art. 1008](livre-ii/titre-vii/chapitre-iii.md#article-1008)
 
-### Livre des procédures fiscales — origine LEGI (5) — pas encore traité
+### Livre des procédures fiscales — origine LEGI (5)
 
-- [art. R*288-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018570321) → [art. 485](livre-ier/titre-xiv/chapitre-ii.md#article-485)
-- [art. R*288-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018570321) → [art. 760](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-760)
+- [art. R*288-3](../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-v/chapitre-ii.md#article-r288-3) → [art. 485](livre-ier/titre-xiv/chapitre-ii.md#article-485)
+- [art. R*288-3](../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-v/chapitre-ii.md#article-r288-3) → [art. 760](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-760)
 - [art. R*273 B-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026957400) → [art. 788](livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-788)
-- [art. R*288-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039725868) → [art. 1009](livre-ii/titre-vii/chapitre-iv.md#article-1009)
-- [art. L268](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039278593) → [art. 1272](livre-iii/titre-ii/chapitre-iv.md#article-1272)
+- [art. R*288-3](../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-v/chapitre-ii.md#article-r288-3) → [art. 1009](livre-ii/titre-vii/chapitre-iv.md#article-1009)
+- [art. L268](../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iv/chapitre-premier.md#article-l268) → [art. 1272](livre-iii/titre-ii/chapitre-iv.md#article-1272)
 
-### Code de l'action sociale et des familles — origine LEGI (4) — pas encore traité
+### Code de la propriété intellectuelle — origine LEGI (4)
 
-- [art. R271-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020056680) → [art. 25](livre-ier/titre-ier/chapitre-ii.md#article-25)
-- [art. R314-105](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047510441) → [art. 1181](livre-iii/titre-ier/chapitre-ix.md#article-1181)
-- [art. D226-3-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020020162) → [art. 1182](livre-iii/titre-ier/chapitre-ix.md#article-1182)
-- [art. D226-3-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043791939) → [art. 1183](livre-iii/titre-ier/chapitre-ix.md#article-1183)
+- [art. R331-28](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-r331-28) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R411-20](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md#article-r411-20) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R422-58-3](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md#article-r422-58-3) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R321-47](../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iii/titre-ii/chapitre-ier-septies.md#article-r321-47) → [art. 692-1](livre-ier/titre-xvii/chapitre-iii.md#article-692-1)
 
-### Code de la propriété intellectuelle — origine LEGI (4) — pas encore traité
+### Code de la sécurité sociale — origine texte (4)
 
-- [art. R331-28](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846457) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R411-20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846449) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R422-58-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045685389) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. R321-47](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624865) → [art. 692-1](livre-ier/titre-xvii/chapitre-iii.md#article-692-1)
-
-### Code général de la propriété des personnes publ... — origine LEGI (4) — pas encore traité
-
-- [art. R2222-25](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345195) → [art. 659](livre-ier/titre-xvii/chapitre-iii.md#article-659)
-- [art. R5112-35](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624578) → [art. 762](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-762)
-- [art. R5112-35](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029399251) → [art. 828](livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828)
-- [art. R1122-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024884600) → [art. 1354](livre-iii/titre-iii/chapitre-ii.md#article-1354)
+- [art. R582-5](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-5) → [art. 1074-3](livre-iii/titre-ier/chapitre-v.md#article-1074-3)
+- [art. R582-4-1](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-4-1) → [art. 1074-4](livre-iii/titre-ier/chapitre-v.md#article-1074-4)
+- [art. R582-5](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-5) → [art. 1074-4](livre-iii/titre-ier/chapitre-v.md#article-1074-4)
+- [art. R582-9](../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-viii/chapitre-2.md#article-r582-9) → [art. 1074-4](livre-iii/titre-ier/chapitre-v.md#article-1074-4)
 
 ### Décret n°2018-451 du 6 juin 2018 — origine LEGI (4) — pas encore traité
 
@@ -1054,23 +1157,29 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) → [art. 1337](livre-iii/titre-iii/chapitre-ii.md#article-1337)
 - [art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) → [art. 1355](livre-iii/titre-iii/chapitre-ii.md#article-1355)
 
-### CODE DE PROCEDURE PENALE — origine LEGI (3) — pas encore traité
+### Code des postes et des communications électroniques — origine LEGI (3)
 
-- [art. R50-28](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846278) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
-- [art. A43-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019462402) → [art. 1210-3](livre-iii/titre-ier/chapitre-ix.md#article-1210-3)
-- [art. A43-12](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020383078) → [art. 1248](livre-iii/titre-ier/chapitre-x.md#article-1248)
+- [art. R1-2-13](../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ii.md#article-r1-2-13) → [Code de procédure civile](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070716)
+- [art. R11-2](../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r11-2) → [Code de procédure civile](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070716)
+- [art. R11-8](../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r11-8) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
 
-### Code du domaine public fluvial et de la navigat... — origine LEGI (3) — pas encore traité
+### Code du domaine public fluvial et de la navigation intérieure — origine LEGI (3) — pas encore traité
 
 - [art. 131](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023480433) → [art. 761](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-761)
 - [art. 131](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023480433) → [art. 762](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-762)
 - [art. 131](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023480433) → [art. 763](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-763)
 
-### Code du patrimoine — origine LEGI (3) — pas encore traité
+### Code du patrimoine — origine LEGI (3)
 
-- [art. R112-19-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033464316) → [art. 9](livre-ier/titre-ier/chapitre-ier.md#article-9)
-- [art. R222-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039344182) → [art. 494](livre-ier/titre-xiv/chapitre-ii.md#article-494)
-- [art. R222-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039344175) → [art. 540](livre-ier/titre-xvi/sous-titre-ii/articles-directs.md#article-540)
+- [art. R112-19-1](../code-du-patrimoine/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r112-19-1) → [art. 9](livre-ier/titre-ier/chapitre-ier.md#article-9)
+- [art. R222-1](../code-du-patrimoine/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-1) → [art. 494](livre-ier/titre-xiv/chapitre-ii.md#article-494)
+- [art. R222-4](../code-du-patrimoine/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-4) → [art. 540](livre-ier/titre-xvi/sous-titre-ii/articles-directs.md#article-540)
+
+### Code général des impôts, annexe II — origine LEGI (3)
+
+- [art. 326 ter A](../code-general-des-impots-annexe-ii/livre-premier/deuxieme-partie/titre-iv/chapitre-ii.md#article-326-ter-a) → [art. 62](livre-ier/titre-iv/chapitre-ier.md#article-62)
+- [art. 302](../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iv/chapitre-ii.md#article-302) → [art. 67](livre-ier/titre-iv/chapitre-ii.md#article-67)
+- [art. 326 ter](../code-general-des-impots-annexe-ii/livre-premier/deuxieme-partie/titre-iv/chapitre-ii.md#article-326-ter) → [art. 964](livre-ii/titre-vi/sous-titre-iii/chapitre-ier-bis.md#article-964)
 
 ### Décret n°2006-936 du 27 juillet 2006 — origine LEGI (3) — pas encore traité
 
@@ -1081,8 +1190,8 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 ### Décret n°2009-1193 du 7 octobre 2009 — origine LEGI (3) — pas encore traité
 
 - [art. 90](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021126137) → [art. 462](livre-ier/titre-xiv/chapitre-ier.md#article-462)
-- [art. 60](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021126203) → [art. ANNEXE, art. 22](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-22)
-- [art. 60](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021126203) → [art. ANNEXE, art. 44](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-v.md#article-annexe-art-44)
+- [art. 60](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021126203) → [art. ANNEXE, art. 22](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-22)
+- [art. 60](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021126203) → [art. ANNEXE, art. 44](annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-v.md#article-annexe-art-44)
 
 ### Décret n°2015-1921 du 29 décembre 2015 — origine LEGI (3) — pas encore traité
 
@@ -1172,30 +1281,40 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 - [art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052176141) → [art. 748-6](livre-ier/titre-xxi.md#article-748-6)
 - [art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052176144) → [art. 748-6](livre-ier/titre-xxi.md#article-748-6)
 
-### Code de l'aviation civile — origine LEGI (2) — pas encore traité
+### Code de l'aviation civile — origine LEGI (2)
 
 - [art. R123-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025820269) → [art. 761](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-761)
 - [art. R123-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025820269) → [art. 762](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-762)
 
-### Code de l'environnement — origine LEGI (2) — pas encore traité
+### Code de l'environnement — origine LEGI (2)
 
 - [art. R426-29](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347593) → [art. 517](livre-ier/titre-xv/chapitre-iv.md#article-517)
-- [art. R437-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041463462) → [art. 704](livre-ier/titre-xviii/chapitre-iii.md#article-704)
+- [art. R437-11](../code-de-l-environnement/partie-reglementaire/livre-iv/titre-iii/chapitre-vii.md#article-r437-11) → [art. 704](livre-ier/titre-xviii/chapitre-iii.md#article-704)
 
-### Code de la sécurité intérieure — origine LEGI (2) — pas encore traité
+### Code de l'organisation judiciaire — origine texte (2)
 
-- [art. L634-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045453621) → [art. 493](livre-ier/titre-xiv/chapitre-ii.md#article-493)
-- [art. L646-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027590652) → [art. 493](livre-ier/titre-xiv/chapitre-ii.md#article-493)
+- [art. Annexe Tableau IV-II](../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-ii) → [art. 52](livre-ier/titre-iii/chapitre-iii.md#article-52)
+- [art. R123-24](../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-24) → [art. 1534-1](livre-v/titre-ii/chapitre-ier.md#article-1534-1)
 
-### Code général des impôts — origine LEGI (2) — pas encore traité
+### Code de la santé publique — origine texte (2)
+
+- [art. R4443-8](../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-iv/titre-iv/chapitre-iii.md#article-r4443-8) → [art. 643](livre-ier/titre-xvii/chapitre-ier.md#article-643)
+- [art. R1241-6](../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-ier.md#article-r1241-6) → [art. 1211](livre-iii/titre-ier/chapitre-x.md#article-1211)
+
+### Code de la sécurité intérieure — origine LEGI (2)
+
+- [art. L634-2](../code-de-la-securite-interieure/partie-legislative/livre-vi/titre-iii/chapitre-iv.md#article-l634-2) → [art. 493](livre-ier/titre-xiv/chapitre-ii.md#article-493)
+- [art. L646-1](../code-de-la-securite-interieure/partie-legislative/livre-vi/titre-iv/chapitre-vi.md#article-l646-1) → [art. 493](livre-ier/titre-xiv/chapitre-ii.md#article-493)
+
+### Code du domaine de l'Etat — origine texte (2)
+
+- [art. R33](../code-du-domaine-de-l-etat/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md#article-r33) → [art. 659](livre-ier/titre-xvii/chapitre-iii.md#article-659)
+- [art. R57-7](../code-du-domaine-de-l-etat/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ier.md#article-r57-7) → [art. 688](livre-ier/titre-xvii/chapitre-iii.md#article-688)
+
+### Code général des impôts — origine LEGI (2)
 
 - [art. 1751](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845689) → [art. 485](livre-ier/titre-xiv/chapitre-ii.md#article-485)
-- [art. 687](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310240) → [art. 707](livre-ier/titre-xviii/chapitre-iii.md#article-707)
-
-### Code général des impôts, annexe 2 — origine LEGI (2) — pas encore traité
-
-- [art. 302](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006295675) → [art. 67](livre-ier/titre-iv/chapitre-ii.md#article-67)
-- [art. 326 ter](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028424600) → [art. 964](livre-ii/titre-vi/sous-titre-iii/chapitre-ier-bis.md#article-964)
+- [art. 687](../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-687) → [art. 707](livre-ier/titre-xviii/chapitre-iii.md#article-707)
 
 ### DÉCRET n°2015-219 du 27 février 2015 — origine LEGI (2) — pas encore traité
 
@@ -1285,41 +1404,57 @@ Renvois entre ce code et d'autres textes (articles en vigueur). Les renvois à l
 
 - [art. 20](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006861790) → [art. 1451](livre-iv/titre-ier/chapitre-ii.md#article-1451)
 
-### Code de la mutualité — origine LEGI (1) — pas encore traité
+### Code de l'entrée et du séjour des étrangers et du droit d'asile — origine LEGI (1)
 
-- [art. R114-2-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045384028) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+- [art. R743-5](../code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile/partie-reglementaire/livre-vii/titre-iv/chapitre-iii.md#article-r743-5) → [art. 435](livre-ier/titre-xiv/chapitre-ier.md#article-435)
 
-### Code des postes et des communications électroni... — origine LEGI (1) — pas encore traité
+### Code de l'entrée et du séjour des étrangers et du droit d'asile — origine texte (1)
 
-- [art. R11-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044015502) → [art. 931](livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-931)
+- [art. R342-6](../code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-6) → [art. 435](livre-ier/titre-xiv/chapitre-ier.md#article-435)
 
-### Code du domaine de l'Etat — origine LEGI (1) — pas encore traité
+### Code de l'énergie — origine LEGI (1)
 
-- [art. R170-17](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624535) → [art. 762](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-762)
+- [art. R134-21](../code-de-l-energie/partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md#article-r134-21) → [art. Titre VI : Dispositions particulières à la cour](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006117256)
 
-### Code du sport — origine LEGI (1) — pas encore traité
+### Code de la construction et de l'habitation — origine texte (1)
+
+- [art. L632-1](../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-vi/titre-iii/chapitre-ii.md#article-l632-1) → [art. 828](livre-ii/titre-ier/sous-titre-iii/chapitre-ier.md#article-828)
+
+### Code de la mutualité — origine LEGI (1)
+
+- [art. R114-2-1](../code-de-la-mutualite/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-iv.md#article-r114-2-1) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+
+### Code de procédure pénale — origine texte (1)
+
+- [art. R93](../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93) → [art. 1136-3](livre-iii/titre-ier/chapitre-v.md#article-1136-3)
+
+### Code du domaine de l'Etat — origine LEGI (1)
+
+- [art. R170-17](../code-du-domaine-de-l-etat/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-ier-bis.md#article-r170-17) → [art. 762](livre-ii/titre-ier/sous-titre-ier/chapitre-ii.md#article-762)
+
+### Code du sport — origine LEGI (1)
 
 - [art. Annexe II-2 à l'article R232-86](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006547791) → [art. 11](livre-ier/titre-ier/chapitre-ier.md#article-11)
 
-### Code forestier (nouveau) — origine LEGI (1) — pas encore traité
+### Code forestier (nouveau) — origine LEGI (1)
 
-- [art. R321-50](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624572) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
+- [art. R321-50](../code-forestier-nouveau/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-50) → [art. 999](livre-ii/titre-vii/chapitre-iii.md#article-999)
 
-### Code général des impôts, annexe II — origine LEGI (1) — pas encore traité
+### Code général des collectivités territoriales — origine texte (1)
 
-- [art. 326 ter A](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053775213) → [art. 62](livre-ier/titre-iv/chapitre-ier.md#article-62)
+- [art. Rubrique 0](../code-general-des-collectivites-territoriales/annexes/annexe-i.md#article-rubrique-0) → [art. 420](livre-ier/titre-xii.md#article-420)
 
-### Code général des impôts, annexe III — origine LEGI (1) — pas encore traité
+### Code minier (nouveau) — origine LEGI (1)
 
-- [art. 406 A 15](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845672) → [art. 485](livre-ier/titre-xiv/chapitre-ii.md#article-485)
+- [art. L175-13](../code-minier-nouveau/partie-legislative/livre-ier/titre-vii/chapitre-v.md#article-l175-13) → [Code de procédure civile](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070716)
 
-### Code pénitentiaire — origine LEGI (1) — pas encore traité
+### Code monétaire et financier — origine texte (1)
 
-- [art. R631-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045491618) → [art. 1136-23](livre-iii/titre-ier/chapitre-v.md#article-1136-23)
+- [art. R312-4](../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-r312-4) → [art. 748-7](livre-ier/titre-xxi.md#article-748-7)
 
-### Code rural — origine LEGI (1) — pas encore traité
+### Code pénitentiaire — origine LEGI (1)
 
-- [art. D632-8](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846177) → [art. 1405](livre-iii/titre-iv/chapitre-ii.md#article-1405)
+- [art. R631-1](../code-penitentiaire/partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md#article-r631-1) → [art. 1136-23](livre-iii/titre-ier/chapitre-v.md#article-1136-23)
 
 ### Décret n°2004-593 du 17 juin 2004 — origine LEGI (1) — pas encore traité
 

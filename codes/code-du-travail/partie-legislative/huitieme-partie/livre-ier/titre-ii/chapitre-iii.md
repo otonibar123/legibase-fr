@@ -9,7 +9,7 @@ Code du travail › Partie législative › Huitième partie : Contrôle de l'ap
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043893795
 - Renvoie à : [art. L8112-1 du Code du travail](../titre-ier/chapitre-ii.md#article-l8112-1)
-- Cité par : [art. R4411-45 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-r4411-45) ; [ARRÊTÉ du 16 juin 2015, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030821491) ; [art. D351-1-11 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053355959)
+- Cité par : [art. D351-1-11 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-v/chapitre-1er.md#article-d351-1-11) ; [art. D461-27 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-vi.md#article-d461-27) ; [art. R4411-45 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-r4411-45) ; [ARRÊTÉ du 16 juin 2015, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030821491)
 
 Les médecins inspecteurs du travail exercent une action permanente en vue de la protection de la santé physique et mentale des travailleurs sur leur lieu de travail et participent à la veille sanitaire au bénéfice des travailleurs. Leur action porte en particulier sur l'organisation et le fonctionnement des services de prévention et de santé au travail prévus au titre II du livre VI de la quatrième partie.
 
@@ -51,7 +51,7 @@ Ils peuvent se faire présenter les documents prévus à l'article L. 8113-4, lo
 - Identifiant : LEGIARTI000024042009
 - État : en vigueur depuis le 19/05/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024042009
-- Renvoie à : [art. 226-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417944)
+- Renvoie à : [art. 226-13 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-226-13)
 
 Il est interdit aux ingénieurs de prévention des directions régionales des entreprises, de la concurrence, de la consommation, du travail et de l'emploi de révéler les secrets de fabrication et les procédés d'exploitation dont ils pourraient prendre connaissance dans l'exercice de leurs fonctions.
 
@@ -63,7 +63,7 @@ La méconnaissance de ces interdictions est punie conformément à l'article 226
 - Identifiant : LEGIARTI000033025151
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033025151
-- Renvoie à : [art. L8112-1 du Code du travail](../titre-ier/chapitre-ii.md#article-l8112-1) ; [art. L8113-1 du Code du travail](../titre-ier/chapitre-iii.md#article-l8113-1) ; [art. L8113-3 du Code du travail](../titre-ier/chapitre-iii.md#article-l8113-3) ; [art. L642-1 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006525277)
+- Renvoie à : [art. L642-1 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vi/titre-iv/chapitre-ii.md#article-l642-1) ; [art. L8112-1 du Code du travail](../titre-ier/chapitre-ii.md#article-l8112-1) ; [art. L8113-1 du Code du travail](../titre-ier/chapitre-iii.md#article-l8113-1) ; [art. L8113-3 du Code du travail](../titre-ier/chapitre-iii.md#article-l8113-3)
 - Cité par : [art. R8123-8 du Code du travail](../../../../partie-reglementaire/huitieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r8123-8) ; [art. R8123-9 du Code du travail](../../../../partie-reglementaire/huitieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r8123-9)
 
 Le ministre chargé du travail peut charger des médecins de missions spéciales temporaires concernant l'application des dispositions relatives à la santé des travailleurs.

@@ -27,7 +27,7 @@ L'autorité administrative chargée de la concurrence et de la consommation peut
 - Identifiant : LEGIARTI000049571070
 - État : en vigueur depuis le 17/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049571070
-- Renvoie à : [art. L32 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049571421) ; [Loi n° 2004-575 du 21 juin 2004, art. 6-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049571761)
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32) ; [Loi n° 2004-575 du 21 juin 2004, art. 6-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049571761)
 
 En cas d'infraction ou de manquement aux dispositions mentionnées aux articles L. 511-5, L. 511-6 et L. 511-7 ou au livre IV, l'autorité administrative chargée de la concurrence et de la consommation peut demander à l'autorité judiciaire de prescrire en référé ou sur requête, dans les conditions prévues à l'article 6-3 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, à toute personne mentionnée au 2 du I du même article 6 ou, à défaut, à toute personne mentionnée au 1 du même I ainsi qu'aux fournisseurs d'un service de communications vocales, au sens du 7° de l'article L. 32 du code des postes et des communications électroniques, toutes mesures proportionnées propres à prévenir un dommage ou à faire cesser un dommage causé par le contenu d'un service de communication au public en ligne ou d'un service téléphonique.
 

@@ -34,7 +34,7 @@ Tout intéressé peut demander au président du tribunal statuant en référé d
 - État : en vigueur depuis le 24/03/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559634
 - Renvoie à : [art. L231-1 du Code de commerce](chapitre-ier.md#article-l231-1)
-- Cité par : [art. L252-11 du Code de commerce](../titre-v/chapitre-ii.md#article-l252-11) ; [art. L512-73 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559718) ; [Ordonnance n°2004-274 du 25 mars 2004, art. 48](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006529577) ; [Ordonnance n°2004-274 du 25 mars 2004, art. 49](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006529597)
+- Cité par : [art. L252-11 du Code de commerce](../titre-v/chapitre-ii.md#article-l252-11) ; [art. L512-73 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ii.md#article-l512-73) ; [Ordonnance n°2004-274 du 25 mars 2004, art. 48](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006529577) ; [Ordonnance n°2004-274 du 25 mars 2004, art. 49](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006529597)
 
 Le ministère public ainsi que toute personne intéressée peuvent demander au président du tribunal compétent statuant en référé d'enjoindre, le cas échéant sous astreinte, au représentant légal d'une société à responsabilité limitée, d'une société anonyme, d'une société anonyme à participation ouvrière, d'une société par actions simplifiée, d'une société européenne ou d'une société en commandite par actions de porter sur tous les actes et documents émanant de la société :  
 

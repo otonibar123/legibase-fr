@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - Identifiant : LEGIARTI000018533820
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533820
-- Renvoie à : [art. L3231-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l3231-1) ; [art. L3232-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l3232-1) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L3231-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l3231-1) ; [art. L3232-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l3232-1) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Est puni de l'amende prévue pour les contraventions de la cinquième classe, le fait de payer :
 

@@ -2110,6 +2110,7 @@ Le montant et la répartition de ces indemnités sont fixés par le garde des sc
 - Identifiant : LEGIARTI000038203465
 - État : en vigueur depuis le 07/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038203465
+- Renvoie à : [art. 93 A du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-93-a)
 - Cité par : [art. R743-172 du Code de commerce](chapitre-iii.md#article-r743-172)
 
 Pour déterminer le montant de l'indemnité, le garde des sceaux, ministre de la justice, apprécie la valeur de l'office en tenant compte de la recette nette moyenne au cours des cinq derniers exercices connus précédant le dépôt de la demande d'indemnisation et du solde moyen d'exploitation de l'office au cours de la même période.

@@ -17,7 +17,7 @@ La répartition des affaires attribuées au juge unique est faite par le présid
 - Identifiant : LEGIARTI000039623626
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623626
-- Cité par : [art. R561-36 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036824807)
+- Cité par : [art. R561-36 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-36)
 
 Lorsqu'une affaire est attribuée au juge unique, celui-ci exerce les pouvoirs conférés tant au tribunal qu'au juge de la mise en état.  
 
@@ -42,7 +42,7 @@ Dans les affaires dispensées du ministère d'avocat, cet avis est adressé aux 
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623612
 - Renvoie à : [art. 814 du Code de procédure civile](chapitre-iii.md#article-814)
-- Cité par : [art. 816 du Code de procédure civile](chapitre-iii.md#article-816) ; [art. R311-6 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938953)
+- Cité par : [art. 816 du Code de procédure civile](chapitre-iii.md#article-816) ; [art. R311-6 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-6)
 
 La demande de renvoi à la formation collégiale d'une affaire attribuée au juge unique doit, à peine de forclusion, être formulée dans les quinze jours de la réception de l'avis prévu à l'article 814.  
 

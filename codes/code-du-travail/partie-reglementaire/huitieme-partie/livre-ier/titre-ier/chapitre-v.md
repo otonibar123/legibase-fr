@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Huitième partie : Contrôle de l'
 - Identifiant : LEGIARTI000049180104
 - État : en vigueur depuis le 01/04/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049180104
-- Cité par : [art. R8115-5 du Code du travail](chapitre-v.md#article-r8115-5) ; [art. R8115-6 du Code du travail](chapitre-v.md#article-r8115-6) ; [art. R8115-9 du Code du travail](chapitre-v.md#article-r8115-9) ; [art. R8322-2 du Code du travail](../../livre-iii/titre-ii/chapitre-ii.md#article-r8322-2) ; [art. R5568-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049351777) ; [art. R5596-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049356874) ; [Décret n°2024-297 du 29 mars 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049351744)
+- Cité par : [art. R5568-1 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-vi/chapitre-viii.md#article-r5568-1) ; [art. R5596-1 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-ix/chapitre-vi.md#article-r5596-1) ; [art. R8115-5 du Code du travail](chapitre-v.md#article-r8115-5) ; [art. R8115-6 du Code du travail](chapitre-v.md#article-r8115-6) ; [art. R8115-9 du Code du travail](chapitre-v.md#article-r8115-9) ; [art. R8322-2 du Code du travail](../../livre-iii/titre-ii/chapitre-ii.md#article-r8322-2) ; [Décret n°2024-297 du 29 mars 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049351744)
 
 Lorsqu'un agent de contrôle de l'inspection du travail constate l'un des manquements aux obligations mentionnées à la section 2 du présent chapitre, il transmet au directeur régional de l'économie, de l'emploi, du travail et des solidarités un rapport sur le fondement duquel ce dernier peut décider de prononcer une amende administrative.
 
@@ -33,7 +33,7 @@ L'indication de l'amende envisagée et la notification de la décision infligean
 - Identifiant : LEGIARTI000049180153
 - État : en vigueur depuis le 01/04/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049180153
-- Cité par : [art. R5568-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049351777) ; [art. R5596-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049356874) ; [Décret n°2024-297 du 29 mars 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049351744)
+- Cité par : [art. R5568-1 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-vi/chapitre-viii.md#article-r5568-1) ; [art. R5596-1 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-ix/chapitre-vi.md#article-r5596-1) ; [Décret n°2024-297 du 29 mars 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049351744)
 
 La décision du directeur régional de l'économie, de l'emploi, du travail et des solidarités indique les voies et délais de recours.
 
@@ -43,7 +43,7 @@ La décision du directeur régional de l'économie, de l'emploi, du travail et d
 - Identifiant : LEGIARTI000044102064
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044102064
-- Renvoie à : [Décret n° 2012-1246 du 7 novembre 2012, art. 112](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000026597370) ; [Décret n°2012-1246 du 7 novembre 2012, art. 117](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000026597376) ; [Livre des procédures fiscales, art. L274](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006315578)
+- Renvoie à : [Livre des procédures fiscales, art. L274](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iv/chapitre-premier.md#article-l274) ; [Décret n° 2012-1246 du 7 novembre 2012, art. 112](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000026597370) ; [Décret n°2012-1246 du 7 novembre 2012, art. 117](https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000026597376)
 
 L'amende est prise en charge et recouvrée par le comptable public assignataire de la recette. L'action en recouvrement se prescrit conformément aux dispositions de l'article L. 274 du livre des procédures fiscales. Les articles 112 à 124, à l'exception du quatrième alinéa de l'article 117, du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique sont applicables au recouvrement de cette amende. Les sommes recouvrées sont affectées au budget général de l'Etat.
 
@@ -67,7 +67,7 @@ Les manquements aux obligations mentionnées à l'article R. 8115-1 sont ceux r�
 - Identifiant : LEGIARTI000031392078
 - État : en vigueur depuis le 29/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031392078
-- Renvoie à : [art. R8115-1 du Code du travail](chapitre-v.md#article-r8115-1)
+- Renvoie à : [art. L124-8 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-8) ; [art. L124-9 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-9) ; [art. L124-14 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-14) ; [art. L124-17 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-17) ; [art. R124-12 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md#article-r124-12) ; [art. R8115-1 du Code du travail](chapitre-v.md#article-r8115-1)
 - Cité par : [art. R8322-2 du Code du travail](../../livre-iii/titre-ii/chapitre-ii.md#article-r8322-2)
 
 Les manquements mentionnés à l'article R. 8115-1 sont ceux résultant de la méconnaissance des articles L. 124-8, L. 124-14 et du premier alinéa de l'article L. 124-9 du code de l'éducation.  

@@ -10,8 +10,8 @@ Code de la consommation › Partie législative nouvelle › Livre II : FORMATIO
 - Identifiant : LEGIARTI000051560284
 - État : en vigueur depuis le 03/05/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051560284
-- Renvoie à : [art. L224-2 du Code de la consommation](chapitre-iv.md#article-l224-2) ; [art. L224-3 du Code de la consommation](chapitre-iv.md#article-l224-3) ; [art. L224-4 du Code de la consommation](chapitre-iv.md#article-l224-4) ; [art. L224-6 du Code de la consommation](chapitre-iv.md#article-l224-6) ; [art. L224-7 du Code de la consommation](chapitre-iv.md#article-l224-7) ; [art. L224-8 du Code de la consommation](chapitre-iv.md#article-l224-8) ; [art. L224-9 du Code de la consommation](chapitre-iv.md#article-l224-9) ; [art. L224-10 du Code de la consommation](chapitre-iv.md#article-l224-10) ; [art. L224-11 du Code de la consommation](chapitre-iv.md#article-l224-11) ; [art. L224-14 du Code de la consommation](chapitre-iv.md#article-l224-14) ; [art. L224-15 du Code de la consommation](chapitre-iv.md#article-l224-15) ; [art. L224-16 du Code de la consommation](chapitre-iv.md#article-l224-16)
-- Cité par : [Arrêté du 20 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054696545) ; [art. L332-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214856) ; [art. L442-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132799)
+- Renvoie à : [art. L111-92 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-92) ; [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L332-2-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2-1) ; [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. L224-2 du Code de la consommation](chapitre-iv.md#article-l224-2) ; [art. L224-3 du Code de la consommation](chapitre-iv.md#article-l224-3) ; [art. L224-4 du Code de la consommation](chapitre-iv.md#article-l224-4) ; [art. L224-6 du Code de la consommation](chapitre-iv.md#article-l224-6) ; [art. L224-7 du Code de la consommation](chapitre-iv.md#article-l224-7) ; [art. L224-8 du Code de la consommation](chapitre-iv.md#article-l224-8) ; [art. L224-9 du Code de la consommation](chapitre-iv.md#article-l224-9) ; [art. L224-10 du Code de la consommation](chapitre-iv.md#article-l224-10) ; [art. L224-11 du Code de la consommation](chapitre-iv.md#article-l224-11) ; [art. L224-14 du Code de la consommation](chapitre-iv.md#article-l224-14) ; [art. L224-15 du Code de la consommation](chapitre-iv.md#article-l224-15) ; [art. L224-16 du Code de la consommation](chapitre-iv.md#article-l224-16)
+- Cité par : [art. L332-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-1) ; [art. L442-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-1) ; [Arrêté du 20 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054696545)
 
 I.-Les dispositions de la présente section s'appliquent aux contrats souscrits par un consommateur avec un fournisseur d'électricité ou de gaz naturel, ainsi qu'aux contrats souscrits par un non-professionnel pour une puissance électrique égale ou inférieure à 36 kilovoltampères ou pour une consommation de gaz naturel inférieure à 30 000 kilowattheures par an.
 
@@ -25,7 +25,7 @@ Les dispositions de l'article L. 224-3 à l'exception de ses 5°, 3° bis, 11°,
 - Identifiant : LEGIARTI000032226737
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226737
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-6 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-6) ; [art. L332-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214861) ; [art. L442-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132848)
+- Cité par : [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-6 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-6)
 
 Les fournisseurs d'électricité ou de gaz naturel doivent adapter la communication des contrats et informations aux handicaps des consommateurs.
 
@@ -35,8 +35,8 @@ Les fournisseurs d'électricité ou de gaz naturel doivent adapter la communicat
 - Identifiant : LEGIARTI000046197680
 - État : en vigueur depuis le 01/07/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046197680
-- Renvoie à : [art. L221-18 du Code de la consommation](chapitre-ier.md#article-l221-18) ; [art. L221-20 du Code de la consommation](chapitre-ier.md#article-l221-20) ; art. L115-3 du Code de l'action sociale et des familles
-- Cité par : [art. D224-28 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-d224-28) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. L224-4 du Code de la consommation](chapitre-iv.md#article-l224-4) ; [art. L224-7 du Code de la consommation](chapitre-iv.md#article-l224-7) ; [art. R242-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-7) ; [art. L332-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214861) ; [art. L442-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132848)
+- Renvoie à : [art. L115-3 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-v.md#article-l115-3) ; [art. L122-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ier/titre-ii/chapitre-ii.md#article-l122-1) ; [art. L124-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ier/titre-ii/chapitre-iv.md#article-l124-1) ; [art. L332-7 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-7) ; [art. L221-18 du Code de la consommation](chapitre-ier.md#article-l221-18) ; [art. L221-20 du Code de la consommation](chapitre-ier.md#article-l221-20)
+- Cité par : [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L332-2-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2-1) ; [art. L332-7 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-7) ; [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. D224-28 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-d224-28) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. L224-4 du Code de la consommation](chapitre-iv.md#article-l224-4) ; [art. L224-7 du Code de la consommation](chapitre-iv.md#article-l224-7) ; [art. R242-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-7)
 
 L'offre de fourniture d'électricité ou de gaz naturel précise, dans des termes clairs et compréhensibles, les informations suivantes :
 
@@ -83,7 +83,7 @@ L'offre de fourniture d'électricité ou de gaz naturel précise, dans des terme
 - État : en vigueur depuis le 05/03/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214794
 - Renvoie à : [art. L224-3 du Code de la consommation](chapitre-iv.md#article-l224-3)
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-8 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-8) ; [art. L332-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214861) ; [art. L442-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132848)
+- Cité par : [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-8 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-8)
 
 Les informations mentionnées à l'article L. 224-3 sont mises à la disposition du consommateur par écrit ou sur support durable préalablement à la conclusion du contrat. Elles sont accompagnées d'une synthèse des principales dispositions contractuelles.
 
@@ -100,8 +100,8 @@ Lorsque le fournisseur propose une offre, celle-ci comporte au moins un contrat 
 - Identifiant : LEGIARTI000044563220
 - État : en vigueur depuis le 28/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563220
-- Renvoie à : [art. L221-5 du Code de la consommation](chapitre-ier.md#article-l221-5) ; [art. L221-18 du Code de la consommation](chapitre-ier.md#article-l221-18) ; [art. L221-25 du Code de la consommation](chapitre-ier.md#article-l221-25) ; [art. L224-7 du Code de la consommation](chapitre-iv.md#article-l224-7)
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. L332-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214861) ; [art. L333-3 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051213667) ; [art. L442-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132848)
+- Renvoie à : [art. L332-7 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-7) ; [art. L221-5 du Code de la consommation](chapitre-ier.md#article-l221-5) ; [art. L221-18 du Code de la consommation](chapitre-ier.md#article-l221-18) ; [art. L221-25 du Code de la consommation](chapitre-ier.md#article-l221-25) ; [art. L224-7 du Code de la consommation](chapitre-iv.md#article-l224-7)
+- Cité par : [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L333-3 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-iii.md#article-l333-3) ; [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. L443-9-3 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-iii.md#article-l443-9-3) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1)
 
 Le consommateur n'est engagé que par sa signature.  
 
@@ -116,7 +116,7 @@ Aucune somme n'est due par le consommateur en cas d'exercice de son droit de ré
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226723
 - Renvoie à : [art. L221-18 du Code de la consommation](chapitre-ier.md#article-l221-18) ; [art. L221-20 du Code de la consommation](chapitre-ier.md#article-l221-20) ; [art. L224-3 du Code de la consommation](chapitre-iv.md#article-l224-3)
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. L224-6 du Code de la consommation](chapitre-iv.md#article-l224-6) ; [art. R242-9 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-9) ; [art. L229-61 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043959995) ; [art. L332-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214861) ; [art. L442-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132848)
+- Cité par : [art. L229-61 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-ix.md#article-l229-61) ; [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. L224-6 du Code de la consommation](chapitre-iv.md#article-l224-6) ; [art. R242-9 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-9)
 
 Le contrat souscrit par un consommateur avec un fournisseur d'électricité ou de gaz naturel est écrit ou disponible sur un support durable. A la demande du consommateur, il lui est transmis à son choix par voie électronique ou postale.  
 Outre les informations mentionnées à l'article L. 224-3, il comporte les éléments suivants :  
@@ -131,7 +131,7 @@ Les dispositions du présent article s'appliquent quels que soient le lieu et le
 - Identifiant : LEGIARTI000032226721
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226721
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-10 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-10) ; [art. L332-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214861) ; [art. L332-3 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132438) ; [art. L442-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132848) ; [art. L442-3 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035133086)
+- Cité par : [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L332-3 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-3) ; [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. L442-3 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-3) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-10 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-10)
 
 Le fournisseur est tenu d'offrir au client la possibilité de conclure avec lui un contrat unique portant sur la fourniture et la distribution d'électricité ou de gaz naturel. Ce contrat reproduit en annexe les clauses réglant les relations entre le fournisseur et le gestionnaire de réseau, notamment les clauses précisant les responsabilités respectives de ces opérateurs.  
 Outre la prestation d'accès aux réseaux, le consommateur peut, dans le cadre du contrat unique, demander à bénéficier de toutes les prestations techniques proposées par le gestionnaire du réseau. Le fournisseur ne peut facturer au consommateur d'autres frais que ceux que le gestionnaire du réseau lui a imputés au titre d'une prestation.
@@ -151,7 +151,7 @@ Les modalités d'accès aux données et aux relevés de consommation sont préci
 - Identifiant : LEGIARTI000043211256
 - État : en vigueur depuis le 05/03/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043211256
-- Renvoie à : [art. L332-7 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043211411)
+- Renvoie à : [art. L332-7 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-7)
 
 Pour les offres à tarification dynamique mentionnées à l'article L. 332-7 du code de l'énergie, le fournisseur met à la disposition du consommateur le dispositif d'alerte en cas de variation significative du prix de marché prévu au V de cet article.
 
@@ -159,7 +159,7 @@ Pour les offres à tarification dynamique mentionnées à l'article L. 332-7 du 
 - Identifiant : LEGIARTI000046193896
 - État : en vigueur depuis le 01/07/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046193896
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-11 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-11)
+- Cité par : [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L332-2-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2-1) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-11 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-11)
 
 Tout projet de modification envisagé par le fournisseur des conditions contractuelles est communiqué au consommateur par voie postale ou, à sa demande, par voie électronique, au moins un mois avant la date d'application envisagée. En matière d'électricité ou de gaz, les projets envisagés de modification des dispositions contractuelles relatives aux modalités de détermination du prix de la fourniture, ainsi que les raisons, les conditions préalables et la portée de cette modification sont communiqués de manière transparente et compréhensible.  
 
@@ -209,8 +209,8 @@ Le fournisseur d'électricité ou de gaz naturel est tenu d'offrir gratuitement 
 - Identifiant : LEGIARTI000032892600
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032892600
-- Renvoie à : [art. L124-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031057539)
-- Cité par : [art. R124-16 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052026850)
+- Renvoie à : [art. L124-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ier/titre-ii/chapitre-iv.md#article-l124-1)
+- Cité par : [art. R124-16 du Code de l'énergie](../../../../code-de-l-energie/partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md#article-r124-16)
 
 Aucuns frais liés au rejet de paiement ne peuvent être imputés par un fournisseur d'électricité et de gaz naturel aux personnes physiques n'agissant pas pour des besoins professionnels qui bénéficient du chèque énergie prévu à l'article L. 124-1 du code de l'énergie.
 
@@ -218,7 +218,7 @@ Aucuns frais liés au rejet de paiement ne peuvent être imputés par un fournis
 - Identifiant : LEGIARTI000043214814
 - État : en vigueur depuis le 05/03/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214814
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1)
+- Cité par : [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. L332-2-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2-1) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1)
 
 Le client peut changer de fournisseur dans un délai le plus court possible, qui ne peut excéder vingt et un jours à compter de sa demande. Dans ce cas, le contrat est résilié de plein droit à la date de prise d'effet d'un nouveau contrat de fourniture d'énergie.  
 
@@ -228,7 +228,7 @@ S'il ne s'agit pas d'un changement de fournisseur, la résiliation prend effet �
 - Identifiant : LEGIARTI000043214818
 - État : en vigueur depuis le 05/03/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043214818
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-14 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-14) ; [art. D124-22 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043516522) ; [art. R124-11 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049507899)
+- Cité par : [art. D124-22 du Code de l'énergie](../../../../code-de-l-energie/partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md#article-d124-22) ; [art. L332-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iii/chapitre-ii.md#article-l332-2) ; [art. R124-11 du Code de l'énergie](../../../../code-de-l-energie/partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md#article-r124-11) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. R242-14 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md#article-r242-14)
 
 Le consommateur reçoit la facture de clôture dans un délai de quatre semaines à compter de la résiliation du contrat.  
 
@@ -242,7 +242,7 @@ Le remboursement du trop-perçu éventuel est effectué dans un délai maximal d
 - Identifiant : LEGIARTI000032226701
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226701
-- Cité par : [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1) ; [art. L442-2 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035132848)
+- Cité par : [art. L442-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-2) ; [art. L224-1 du Code de la consommation](chapitre-iv.md#article-l224-1)
 
 Les dispositions de la présente section sont d'ordre public.
 
@@ -373,7 +373,7 @@ Les conditions de résolution du contrat sont toutefois régies par le deuxième
 - Identifiant : LEGIARTI000050372103
 - État : en vigueur depuis le 01/07/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050372103
-- Renvoie à : [art. L217-1 du Code de la consommation](../titre-ier/chapitre-vii.md#article-l217-1) ; [art. L224-25-22 du Code de la consommation](chapitre-iv.md#article-l224-25-22)
+- Renvoie à : [art. L217-1 du Code de la consommation](../titre-ier/chapitre-vii.md#article-l217-1) ; [art. L224-25-22 du Code de la consommation](chapitre-iv.md#article-l224-25-22) ; [art. L300-2 du Code des relations entre le public et l'administration](../../../../code-des-relations-entre-le-public-et-l-administration/livre-iii/articles-directs.md#article-l300-2) ; [art. L54-10-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-x.md#article-l54-10-1) ; art. 32 du Code des postes et des communications électroniques
 - Cité par : [art. L217-2 du Code de la consommation](../titre-ier/chapitre-vii.md#article-l217-2) ; [art. L224-25-2 du Code de la consommation](chapitre-iv.md#article-l224-25-2) ; [Ordonnance n°2024-936 du 15 octobre 2024, art. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050354849)
 
 I.-A l'exception des II et III de l'article L. 224-25-22, les dispositions de la présente section ne sont pas applicables aux contenus numériques et aux services numériques qui sont intégrés ou interconnectés à des biens au sens de l'article liminaire et qui sont fournis dans le cadre du contrat de vente de ces biens, que ces contenus numériques ou services numériques soient fournis par le vendeur ou par un tiers. De tels contrats de vente de biens sont régis par les articles L. 217-1 et suivants. Lorsqu'il n'apparaît pas clairement que la fourniture d'un contenu numérique ou d'un service numérique fait l'objet d'un contrat distinct, cette fourniture est présumée relever du contrat de vente du bien.  
@@ -404,7 +404,7 @@ II.-Les dispositions de la présente section ne sont pas applicables aux contrat
 - Identifiant : LEGIARTI000044133345
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044133345
-- Renvoie à : [art. L224-25-6 du Code de la consommation](chapitre-iv.md#article-l224-25-6)
+- Renvoie à : [art. L224-25-6 du Code de la consommation](chapitre-iv.md#article-l224-25-6) ; art. 32 du Code des postes et des communications électroniques
 - Cité par : [art. L216-1 du Code de la consommation](../titre-ier/chapitre-vi.md#article-l216-1)
 
 A l'exception de l'article L. 224-25-6, les dispositions de la présente sous-section ne sont pas applicables aux services de communications interpersonnelles non fondés sur la numérotation au sens du 6° quater de l'article 32 du code des postes et des communications électroniques, lesquels sont soumis aux dispositions de la section 3 du présent chapitre.
@@ -479,6 +479,7 @@ Lorsqu'un contrat de fourniture de contenus numériques ou de services numériqu
 - Identifiant : LEGIARTI000044133353
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044133353
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 
 Les dispositions du présent article sont applicables à tout professionnel fournissant des contenus numériques ou des services numériques et proposant au consommateur, directement ou par l'intermédiaire d'un tiers, un service après-vente, un service d'assistance technique ou tout autre service chargé du traitement des réclamations se rapportant à l'exécution du contrat conclu avec ce professionnel, et accessible par un service de communications vocales au sens du 7° de l'article L. 32 du code des postes et des communications électroniques.  
 
@@ -901,6 +902,7 @@ Les dispositions de la présente section sont d'ordre public.
 - Identifiant : LEGIARTI000043545649
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545649
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 - Cité par : [art. L242-20 du Code de la consommation](../titre-iv/chapitre-ii.md#article-l242-20)
 
 Pour l'application de la présente section, on entend par :  
@@ -915,7 +917,7 @@ Pour l'application de la présente section, on entend par :
 - Identifiant : LEGIARTI000043539588
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043539588
-- Renvoie à : [art. L224-27 du Code de la consommation](chapitre-iv.md#article-l224-27) ; [art. L224-27-1 du Code de la consommation](chapitre-iv.md#article-l224-27-1) ; [art. L224-28 du Code de la consommation](chapitre-iv.md#article-l224-28) ; [art. L224-29 du Code de la consommation](chapitre-iv.md#article-l224-29) ; [art. L224-31 du Code de la consommation](chapitre-iv.md#article-l224-31) ; [art. L224-33 du Code de la consommation](chapitre-iv.md#article-l224-33) ; [art. L224-34 du Code de la consommation](chapitre-iv.md#article-l224-34) ; [art. L224-40 du Code de la consommation](chapitre-iv.md#article-l224-40) ; [art. L224-42 du Code de la consommation](chapitre-iv.md#article-l224-42) ; [art. L224-42-1 du Code de la consommation](chapitre-iv.md#article-l224-42-1) ; [art. L224-42-3 du Code de la consommation](chapitre-iv.md#article-l224-42-3)
+- Renvoie à : [art. L224-27 du Code de la consommation](chapitre-iv.md#article-l224-27) ; [art. L224-27-1 du Code de la consommation](chapitre-iv.md#article-l224-27-1) ; [art. L224-28 du Code de la consommation](chapitre-iv.md#article-l224-28) ; [art. L224-29 du Code de la consommation](chapitre-iv.md#article-l224-29) ; [art. L224-31 du Code de la consommation](chapitre-iv.md#article-l224-31) ; [art. L224-33 du Code de la consommation](chapitre-iv.md#article-l224-33) ; [art. L224-34 du Code de la consommation](chapitre-iv.md#article-l224-34) ; [art. L224-40 du Code de la consommation](chapitre-iv.md#article-l224-40) ; [art. L224-42 du Code de la consommation](chapitre-iv.md#article-l224-42) ; [art. L224-42-1 du Code de la consommation](chapitre-iv.md#article-l224-42-1) ; [art. L224-42-3 du Code de la consommation](chapitre-iv.md#article-l224-42-3) ; [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 
 Les articles L. 224-28, L. 224-29, L. 224-31, L. 224-33, L. 224-34, L. 224-40, L. 224-42 et L. 224-42-1 ne s'appliquent pas aux services de communications interpersonnelles non fondés sur la numérotation au sens du 6° quater de l'article L. 32 du code des postes et communications électroniques.  
 
@@ -950,7 +952,7 @@ Préalablement à la conclusion d'un contrat, ces entreprises informent les cons
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545657
 - Renvoie à : [art. L111-1 du Code de la consommation](../../livre-ier/titre-ier/chapitre-ier.md#article-l111-1) ; [art. L221-5 du Code de la consommation](chapitre-ier.md#article-l221-5) ; [art. L221-8 du Code de la consommation](chapitre-ier.md#article-l221-8) ; [art. L221-11 du Code de la consommation](chapitre-ier.md#article-l221-11) ; [art. L224-27-1 du Code de la consommation](chapitre-iv.md#article-l224-27-1) ; [art. L224-30 du Code de la consommation](chapitre-iv.md#article-l224-30)
-- Cité par : [art. L224-26-1 du Code de la consommation](chapitre-iv.md#article-l224-26-1) ; [art. L224-26-2 du Code de la consommation](chapitre-iv.md#article-l224-26-2) ; [art. L224-42-2 du Code de la consommation](chapitre-iv.md#article-l224-42-2)
+- Cité par : [art. L224-26-1 du Code de la consommation](chapitre-iv.md#article-l224-26-1) ; [art. L224-26-2 du Code de la consommation](chapitre-iv.md#article-l224-26-2) ; [art. L224-42-2 du Code de la consommation](chapitre-iv.md#article-l224-42-2) ; [art. L33-1 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l33-1)
 
 I.-Préalablement à la conclusion d'un contrat, les fournisseurs de services de communications électroniques accessibles au public communiquent aux consommateurs, dans la mesure où elles concernent un service qu'ils fournissent :  
 
@@ -1033,8 +1035,8 @@ Les dispositions de l'article L. 224-28 ne s'appliquent pas à la durée d'un co
 - Identifiant : LEGIARTI000043545688
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545688
-- Renvoie à : [art. L223-1 du Code de la consommation](chapitre-iii.md#article-l223-1)
-- Cité par : [art. L224-26-2 du Code de la consommation](chapitre-iv.md#article-l224-26-2) ; [art. L224-27 du Code de la consommation](chapitre-iv.md#article-l224-27) ; [LOI n°2016-1321 du 7 octobre 2016, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033205196)
+- Renvoie à : [art. L223-1 du Code de la consommation](chapitre-iii.md#article-l223-1) ; [art. L130 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-iii/titre-ii.md#article-l130)
+- Cité par : [art. L224-26-2 du Code de la consommation](chapitre-iv.md#article-l224-26-2) ; [art. L224-27 du Code de la consommation](chapitre-iv.md#article-l224-27) ; [art. L33-1 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l33-1) ; [LOI n°2016-1321 du 7 octobre 2016, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033205196)
 
 I.-Lorsque des services d'accès à l'internet ou des services de communications interpersonnelles accessibles au public sont facturés en fonction de la durée ou du volume de consommation, leurs fournisseurs mettent à disposition du consommateur une fonctionnalité gratuite permettant de surveiller et de maîtriser l'usage de chacun de ces services. Cette fonctionnalité permet d'informer le consommateur des niveaux de consommation atteints, notamment en indiquant le volume ou la durée d'usage de ces services en fonction du type d'offre choisie par le consommateur ainsi, le cas échéant, les consommations hors forfait ou associées à des services à valeur ajoutée. Cette information, actualisée en temps utile, est facilement accessible.  
 
@@ -1062,7 +1064,7 @@ Un arrêté du ministre chargé de la consommation, pris après avis du Conseil 
 - Identifiant : LEGIARTI000043545735
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545735
-- Cité par : [art. L224-26-1 du Code de la consommation](chapitre-iv.md#article-l224-26-1) ; [art. L224-26-2 du Code de la consommation](chapitre-iv.md#article-l224-26-2) ; [art. L224-29 du Code de la consommation](chapitre-iv.md#article-l224-29) ; [art. L224-42-2 du Code de la consommation](chapitre-iv.md#article-l224-42-2) ; [art. R20-33-2 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044012711)
+- Cité par : [art. L224-26-1 du Code de la consommation](chapitre-iv.md#article-l224-26-1) ; [art. L224-26-2 du Code de la consommation](chapitre-iv.md#article-l224-26-2) ; [art. L224-29 du Code de la consommation](chapitre-iv.md#article-l224-29) ; [art. L224-42-2 du Code de la consommation](chapitre-iv.md#article-l224-42-2) ; [art. R20-33-2 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md#article-r20-33-2)
 
 Tout projet de modification des conditions contractuelles est notifié par le fournisseur de services de communications électroniques au consommateur, de manière claire et compréhensible, sur support durable au moins un mois avant son entrée en vigueur. Ce même projet informe le consommateur qu'il peut, s'il n'accepte pas ces nouvelles conditions, résilier le contrat sans aucun frais et sans droit à dédommagement dans un délai de quatre mois suivant la notification du projet de modification.  
 
@@ -1130,6 +1132,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 - Identifiant : LEGIARTI000043545725
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545725
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 
 Les dispositions du présent article sont applicables à tout fournisseur de services de communications électroniques proposant au consommateur, directement ou par l'intermédiaire d'un tiers, un service après-vente, un service d'assistance technique ou tout autre service chargé du traitement des réclamations se rapportant à l'exécution du contrat conclu avec ce fournisseur, et accessible par un service de communications vocales au sens du 7° de l'article L. 32 du code des postes et des communications électroniques.  
 
@@ -1196,7 +1199,7 @@ Les indemnités sont versées au consommateur dans les trente jours suivant sa d
 - Identifiant : LEGIARTI000043545748
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545748
-- Renvoie à : [art. L224-27 du Code de la consommation](chapitre-iv.md#article-l224-27) ; [art. L224-28 du Code de la consommation](chapitre-iv.md#article-l224-28) ; [art. L224-29 du Code de la consommation](chapitre-iv.md#article-l224-29) ; [art. L224-33 du Code de la consommation](chapitre-iv.md#article-l224-33) ; [art. L224-34 du Code de la consommation](chapitre-iv.md#article-l224-34) ; [art. L224-39 du Code de la consommation](chapitre-iv.md#article-l224-39) ; [art. L224-40 du Code de la consommation](chapitre-iv.md#article-l224-40) ; [art. L224-42 du Code de la consommation](chapitre-iv.md#article-l224-42) ; [art. L224-42-3 du Code de la consommation](chapitre-iv.md#article-l224-42-3) ; [art. L34-15 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043538614)
+- Renvoie à : [art. L224-27 du Code de la consommation](chapitre-iv.md#article-l224-27) ; [art. L224-28 du Code de la consommation](chapitre-iv.md#article-l224-28) ; [art. L224-29 du Code de la consommation](chapitre-iv.md#article-l224-29) ; [art. L224-33 du Code de la consommation](chapitre-iv.md#article-l224-33) ; [art. L224-34 du Code de la consommation](chapitre-iv.md#article-l224-34) ; [art. L224-39 du Code de la consommation](chapitre-iv.md#article-l224-39) ; [art. L224-40 du Code de la consommation](chapitre-iv.md#article-l224-40) ; [art. L224-42 du Code de la consommation](chapitre-iv.md#article-l224-42) ; [art. L224-42-3 du Code de la consommation](chapitre-iv.md#article-l224-42-3) ; [art. L34-15 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l34-15)
 - Cité par : [art. L217-1 du Code de la consommation](../titre-ier/chapitre-vii.md#article-l217-1) ; [art. L217-16 du Code de la consommation](../titre-ier/chapitre-vii.md#article-l217-16) ; [art. L217-20 du Code de la consommation](../titre-ier/chapitre-vii.md#article-l217-20) ; [art. L224-25-2 du Code de la consommation](chapitre-iv.md#article-l224-25-2) ; [art. L224-25-5 du Code de la consommation](chapitre-iv.md#article-l224-25-5) ; [art. L224-25-22 du Code de la consommation](chapitre-iv.md#article-l224-25-22) ; [art. L224-25-26 du Code de la consommation](chapitre-iv.md#article-l224-25-26) ; [art. L224-26-2 du Code de la consommation](chapitre-iv.md#article-l224-26-2)
 
 I.-Si une offre groupée de services ou une offre groupée de services et d'équipements terminaux proposée à un consommateur comprend au moins un service d'accès à l'internet ou un service de communications interpersonnelles fondé sur la numérotation accessible au public, les 1° et 2° du I et le II de l'article L. 224-27, les articles L. 224-28, L. 224-29, L. 224-33, L. 224-34, L. 224-39, L. 224-40, L. 224-42 et le I de l'article L. 224-42-3 du code de la consommation et l'article L. 34-15 du code des postes et des communications électroniques s'appliquent à tous les éléments de l'offre groupée, y compris mutatis mutandis à ceux non couverts par ces dispositions.  
@@ -1256,6 +1259,7 @@ Les opérateurs mentionnés au premier alinéa ont le droit d'utiliser gratuitem
 - Identifiant : LEGIARTI000032226629
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226629
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 - Cité par : [art. D224-18 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-d224-18) ; [art. D224-21 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-d224-21) ; [art. L224-45 du Code de la consommation](chapitre-iv.md#article-l224-45) ; [art. L224-46 du Code de la consommation](chapitre-iv.md#article-l224-46) ; [art. L224-47 du Code de la consommation](chapitre-iv.md#article-l224-47) ; [art. L224-47-1 du Code de la consommation](chapitre-iv.md#article-l224-47-1) ; [art. L224-48 du Code de la consommation](chapitre-iv.md#article-l224-48) ; [art. L224-49 du Code de la consommation](chapitre-iv.md#article-l224-49) ; [art. L224-50 du Code de la consommation](chapitre-iv.md#article-l224-50) ; [art. L224-52 du Code de la consommation](chapitre-iv.md#article-l224-52) ; [art. L242-21 du Code de la consommation](../titre-iv/chapitre-ii.md#article-l242-21) ; [Décret n°2016-1238 du 20 septembre 2016](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000033137236)
 
 L'opérateur de communications électroniques, au sens du 6° de l'article L. 32 du code des postes et des communications électroniques, exploitant un numéro à valeur ajoutée, son abonné auquel ce numéro est affecté et, s'il est différent, le fournisseur du produit ou du service à valeur ajoutée mettent gratuitement à la disposition des consommateurs un outil accessible en ligne permettant d'identifier, à partir du numéro d'appel ou de message textuel, le nom du produit ou du service accessible à ce numéro d'appel ou de message textuel, la description sommaire du produit ou du service, le nom du fournisseur, son site internet, s'il existe, l'adresse du fournisseur ainsi que l'adresse ou le numéro de téléphone auxquels le consommateur peut adresser ses réclamations.  
@@ -1322,7 +1326,7 @@ L'opérateur mentionné au premier alinéa du même article L. 224-43 prend en c
 - Identifiant : LEGIARTI000043545835
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545835
-- Renvoie à : [art. L224-43 du Code de la consommation](chapitre-iv.md#article-l224-43) ; [art. L224-46 du Code de la consommation](chapitre-iv.md#article-l224-46)
+- Renvoie à : [art. L224-43 du Code de la consommation](chapitre-iv.md#article-l224-43) ; [art. L224-46 du Code de la consommation](chapitre-iv.md#article-l224-46) ; [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 
 I.-L'opérateur mentionné au premier alinéa de l'article L. 224-43 procède, dans les cas prévus au II de l'article L. 224-46, à la suspension de l'accès au numéro et, le cas échéant, à la résiliation du contrat en cas de réitération dans les conditions prévues au III du même article L. 224-46.
 
@@ -1356,6 +1360,7 @@ Tout fournisseur de produit ou de service à valeur ajoutée mentionné au premi
 - Identifiant : LEGIARTI000043545830
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545830
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 - Cité par : [art. D224-19 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-d224-19)
 
 Tout fournisseur d'un service de communications vocales, au sens du 7° de l'article L. 32 du code des postes et des communications électroniques, propose aux consommateurs avec lesquels il est en relation contractuelle un dispositif leur permettant de signaler, par messages textuels, les appels et messages textuels non sollicités émis par des professionnels et le numéro de téléphone de leurs émetteurs.  
@@ -1386,6 +1391,7 @@ Les modalités du mécanisme de signalement prévu à l'article L. 224-47 et les
 - Identifiant : LEGIARTI000043545823
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043545823
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 - Cité par : [LOI n°2016-1321 du 7 octobre 2016, art. 88](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033205122)
 
 Tout fournisseur d'un service de communications vocales, au sens du 7° de l'article L. 32 du code des postes et des communications électroniques, propose au consommateur une option gratuite permettant de bloquer les communications à destination des numéros surtaxés de certaines tranches de numéros à valeur ajoutée. Ces tranches de numéros sont définies par un arrêté conjoint des ministres chargés de la consommation et de l'économie numérique, pris après avis de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, qui tient compte du plafond de tarification et du format de ces numéros.
@@ -1528,7 +1534,7 @@ Tout exploitant de parc de stationnement affecté à un usage public applique au
 - Identifiant : LEGIARTI000043371943
 - État : en vigueur depuis le 16/04/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043371943
-- Cité par : [art. L319-2 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043371912)
+- Cité par : [art. L319-2 du Code de la route](../../../../code-de-la-route/partie-legislative/livre-3/titre-1er/chapitre-9.md#article-l319-2)
 
 Préalablement à la conclusion d'un contrat de vente ou de location d'un véhicule à délégation de conduite tel que défini par le code de la route, le professionnel communique au consommateur une information relative aux conditions d'utilisation du système de conduite automatisé dont le véhicule est équipé.  
 
@@ -1549,7 +1555,7 @@ Un arrêté conjoint des ministres chargés des transports, de la sécurité rou
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226555
 - Renvoie à : [Loi n° 86-18 du 6 janvier 1986](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000317307)
-- Cité par : [art. L221-2 du Code de la consommation](chapitre-ier.md#article-l221-2) ; [art. L222-10 du Code de la consommation](chapitre-ii.md#article-l222-10) ; [art. L224-70 du Code de la consommation](chapitre-iv.md#article-l224-70) ; [art. L224-73 du Code de la consommation](chapitre-iv.md#article-l224-73) ; [art. L224-75 du Code de la consommation](chapitre-iv.md#article-l224-75) ; [art. L224-79 du Code de la consommation](chapitre-iv.md#article-l224-79) ; [art. L224-85 du Code de la consommation](chapitre-iv.md#article-l224-85) ; [art. L242-28 du Code de la consommation](../titre-iv/chapitre-ii.md#article-l242-28) ; [art. L211-23 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052851118) ; [art. L211-24 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045209293)
+- Cité par : [art. L221-2 du Code de la consommation](chapitre-ier.md#article-l221-2) ; [art. L222-10 du Code de la consommation](chapitre-ii.md#article-l222-10) ; [art. L224-70 du Code de la consommation](chapitre-iv.md#article-l224-70) ; [art. L224-73 du Code de la consommation](chapitre-iv.md#article-l224-73) ; [art. L224-75 du Code de la consommation](chapitre-iv.md#article-l224-75) ; [art. L224-79 du Code de la consommation](chapitre-iv.md#article-l224-79) ; [art. L224-85 du Code de la consommation](chapitre-iv.md#article-l224-85) ; [art. L242-28 du Code de la consommation](../titre-iv/chapitre-ii.md#article-l242-28) ; [art. L211-24 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-24) ; [art. L211-23 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052851118)
 
 Est soumis aux dispositions de la présente section tout contrat ou groupe de contrats, conclu à titre onéreux, par lequel un professionnel confère à un consommateur, directement ou indirectement, un droit ou un service d'utilisation de biens à temps partagé ou concernant des produits de vacances à long terme, ou de revente ou d'échange de tels droits ou services.  
 Est également soumis aux dispositions de la présente section le contrat de souscription ou de cession de parts ou actions de sociétés d'attribution d'immeubles en jouissance à temps partagé régi par la loi n° 86-18 du 6 janvier 1986 relative aux sociétés d'attribution d'immeubles en jouissance à temps partagé.
@@ -1864,7 +1870,7 @@ Ce délai de rétractation ne s'applique pas aux opérations d'or investissement
 - Identifiant : LEGIARTI000032226475
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226475
-- Renvoie à : [Code monétaire et financier, Chapitre II : Comptes et dépôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006154410) ; [Code monétaire et financier, Chapitre II : La lettre de change et le billet ](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006153961) ; art. L518-1 du Code monétaire et financier ; [Code monétaire et financier, Section 3 : Frais liés à la fourniture d'inform](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000020861271) ; [Code monétaire et financier, Section 4 : Obligations d'information](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000020861274)
+- Renvoie à : [art. L518-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-1) ; [Code monétaire et financier, Chapitre II : Comptes et dépôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006154410) ; [Code monétaire et financier, Chapitre II : La lettre de change et le billet ](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006153961) ; [Code monétaire et financier, Section 3 : Frais liés à la fourniture d'inform](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000020861271) ; [Code monétaire et financier, Section 4 : Obligations d'information](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000020861274)
 - Cité par : [art. L123-11-3 du Code de commerce](../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-11-3)
 
 Les règles relatives à l'obligation de renseignements par les établissements de crédit, les sociétés de financement, les établissements de monnaie électronique, les établissements de paiement et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier à l'égard de leurs clients sont fixées par les dispositions des sections 3 et 4 du chapitre IV du titre Ier du livre III du code monétaire et financier.  

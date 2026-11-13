@@ -279,7 +279,7 @@ Le dépôt nécessaire est d'ailleurs régi par toutes les règles précédemmen
 - Identifiant : LEGIARTI000006445153
 - État : en vigueur depuis le 27/12/1973
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006445153
-- Cité par : [art. 1954 du Code civil](chapitre-ii.md#article-1954) ; [art. L311-9 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020898826)
+- Cité par : [art. 1954 du Code civil](chapitre-ii.md#article-1954) ; [art. L311-9 du Code du tourisme](../../../code-du-tourisme/partie-legislative/livre-iii/titre-ier/chapitre-1er.md#article-l311-9)
 
 Les aubergistes ou hôteliers répondent, comme dépositaires, des vêtements, bagages et objets divers apportés dans leur établissement par le voyageur qui loge chez eux ; le dépôt de ces sortes d'effets doit être regardé comme un dépôt nécessaire.
 

@@ -1,0 +1,90 @@
+# Code des postes et des communications électroniques
+
+Dernière modification du texte dans LEGI : 19/08/2026. 733 articles en vigueur, répartis dans 57 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : Le service postal et les services de livraison de colis**
+    - **TITRE Ier : Dispositions générales**
+      - [Chapitre Ier : Le service universel postal et les obligations du service postal.](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : La régulation des activités postales et des services de livraison de colis.](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Dérogations à l'inviolabilité et au secret des correspondances.](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Régime de responsabilité applicable aux services postaux.](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Prescription.](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (2 articles)
+    - [TITRE II : Dispositions pénales.](partie-legislative/livre-ier/titre-ii.md) (7 articles)
+  - **LIVRE II : Les communications électroniques**
+    - **TITRE Ier : Dispositions générales**
+      - [Chapitre Ier : Définitions et principes.](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Régime juridique.](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (62 articles)
+      - [Chapitre III : Les obligations de service public.](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : La régulation des communications électroniques.](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (23 articles)
+      - [Chapitre V : Dispositions pénales.](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (15 articles)
+    - **TITRE II : Ressources et police**
+      - [Chapitre Ier : Fréquences radioélectriques.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Numérotation et adressage.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Droits de passage et servitudes.](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (19 articles)
+      - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Protection des câbles sous-marins.](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (14 articles)
+    - [TITRE VIII : Assignations de fréquence relatives aux systèmes satellitaires.](partie-legislative/livre-ii/titre-viii.md) (3 articles)
+  - **LIVRE III : Autres services, dispositions communes et finales**
+    - [TITRE Ier : Autres services](partie-legislative/livre-iii/titre-ier.md) (4 articles)
+    - [TITRE II : Dispositions communes](partie-legislative/livre-iii/titre-ii.md) (8 articles)
+    - [TITRE III : Dispositions finales.](partie-legislative/livre-iii/titre-iii.md) (6 articles)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **LIVRE Ier : Le service postal**
+    - **TITRE Ier : Dispositions générales**
+      - [Chapitre Ier : Le service universel postal, les obligations du service postal et le financement du service universel postal.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ier.md) (31 articles)
+      - [Chapitre II : La régulation des activités postales.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier/chapitre-ii.md) (17 articles)
+    - [TITRE II : Régime de responsabilité applicable aux prestataires de services postaux.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii.md) (5 articles)
+  - **LIVRE II : Les communications électroniques**
+    - **TITRE Ier : Dispositions générales**
+      - [Chapitre Ier : Définitions et principes.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Régime juridique.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md) (128 articles)
+      - [Chapitre III : Les obligations de service public.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md) (21 articles)
+      - [Chapitre V : Pouvoirs d'enquête](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-v.md) (7 articles)
+    - **TITRE II : Ressources et police**
+      - [Chapitre Ier : Fréquences radioélectriques.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ier.md) (35 articles)
+      - [Chapitre II : Numérotation et adressage.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii.md) (17 articles)
+      - [Chapitre III : Droits de passage sur le domaine public routier et servitudes.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iii.md) (29 articles)
+      - [Chapitre IV : Police des liaisons et des installations du réseau des communications électroniques.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Guichet unique identifiant les maîtres d'ouvrage et leurs opérations de travaux d'installation ou de renforcement d'infrastructures d'accueil](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Protection des câbles sous-marins.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-vi.md) (8 articles)
+    - **TITRE VIII : Assignations de fréquences relatives aux systèmes satellitaires**
+      - [Chapitre Ier : Procédure d'autorisation.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-viii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Obligations du titulaire de l'autorisation prévue à l'article L. 97-2.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-viii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Durée et renouvellement de l'autorisation.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-viii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Modification et caducité de l'autorisation.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-viii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Dispositions financières.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-viii/chapitre-v.md) (5 articles)
+      - [Chapitre VI : Dispositions particulières.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-viii/chapitre-vi.md) (1 article)
+  - **LIVRE III : Autres services, dispositions communes et finales**
+    - **TITRE Ier : Autres services**
+      - [Chapitre Ier : Lettre recommandée électronique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Service d'identification électronique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ii.md) (27 articles)
+      - [Chapitre III : Service de coffre-fort numérique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-iii.md) (6 articles)
+- **Partie réglementaire - Décrets simples**
+  - **LIVRE Ier : Le service postal**
+    - **TITRE Ier : Dispositions générales**
+      - [Chapitre Ier : Le service universel postal et les obligations du service postal](partie-reglementaire-decrets-simples/livre-ier/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre IV : Conditions d'admission des objets de correspondance dans le régime intérieur.](partie-reglementaire-decrets-simples/livre-ier/titre-ier/chapitre-iv.md) (14 articles)
+    - **TITRE II : Affranchissement, recommandation et chargement**
+      - [Chapitre Ier : Affranchissement.](partie-reglementaire-decrets-simples/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+    - **TITRE VI : Distribution postale**
+      - [Chapitre Ier : Distribution à domicile.](partie-reglementaire-decrets-simples/livre-ier/titre-vi/chapitre-ier.md) (1 article)
+  - **LIVRE II : Les communications électroniques**
+    - **TITRE Ier : Dispositions générales**
+      - [Chapitre II : Régime juridique](partie-reglementaire-decrets-simples/livre-ii/titre-ier/chapitre-ii.md) (41 articles)
+      - [Chapitre IV : La régulation des communications électroniques.](partie-reglementaire-decrets-simples/livre-ii/titre-ier/chapitre-iv.md) (22 articles)
+    - **TITRE II : Ressources et police**
+      - [Chapitre Ier : Fréquences radioélectriques.](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Numérotation et adressage.](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+      - [CHAPITRE III : Etablissement de lignes](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-iii.md) (6 articles)
+  - **LIVRE III : Autres services, dispositions communes et finales**
+    - **Titre Ier : Autres services**
+      - [Chapitre III : Service de coffre-fort numérique](partie-reglementaire-decrets-simples/livre-iii/titre-ier/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Contrôle parental](partie-reglementaire-decrets-simples/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : Dispositions communes et finales**
+      - [Chapitre Ier : Désignation des membres de la commission supérieure du service public des postes et des communications électroniques.](partie-reglementaire-decrets-simples/livre-iii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Attributions de la commission supérieure du service public des postes et des communications électroniques.](partie-reglementaire-decrets-simples/livre-iii/titre-ii/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Fonctionnement de la commission supérieure du service public des postes et des communications électroniques.](partie-reglementaire-decrets-simples/livre-iii/titre-ii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Procédure de sanction de l'Autorité de régulation des communications électroniques et des postes](partie-reglementaire-decrets-simples/livre-iii/titre-ii/chapitre-iv.md) (6 articles)

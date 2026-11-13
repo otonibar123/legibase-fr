@@ -163,7 +163,7 @@ Les modalités d'application des règles relatives aux contrats de services fun�
 - Identifiant : LEGIARTI000046739275
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046739275
-- Renvoie à : [art. L224-43 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-43)
+- Renvoie à : [art. L224-43 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-43) ; [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 - Cité par : [art. D224-21 du Code de la consommation](chapitre-iv.md#article-d224-21)
 
 L'outil mentionné au premier alinéa de l'article L. 224-43 permet aux opérateurs de communications électroniques, au sens du 6° de l'article L. 32 du code des postes et des communications électroniques, exploitant un ou plusieurs numéros à valeur ajoutée, d'être informés quotidiennement, pour chaque numéro les concernant :  
@@ -180,7 +180,7 @@ L'outil mentionné au premier alinéa de l'article L. 224-43 permet aux opérate
 - Identifiant : LEGIARTI000046739271
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046739271
-- Renvoie à : [art. L224-51 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-51)
+- Renvoie à : [art. L224-51 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-51) ; [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 - Cité par : [art. D224-21 du Code de la consommation](chapitre-iv.md#article-d224-21)
 
 Les opérateurs de communications électroniques, au sens du 6° de l'article L. 32 du code des postes et des communications électroniques, exploitant un ou plusieurs numéros à valeur ajoutée, sont informés quotidiennement par les fournisseurs d'un service de communications vocales, au sens du 7° de l'article L. 32 du code des postes et des communications électroniques, des signalements adressés au dispositif prévu à l'article L. 224-51 pour chaque numéro les concernant.
@@ -191,6 +191,7 @@ Les opérateurs de communications électroniques, au sens du 6° de l'article L.
 - Identifiant : LEGIARTI000046739269
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046739269
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 
 Un arrêté du ministre chargé de la consommation fixe, en tant que de besoin, les modalités selon lesquelles les signalements mentionnés aux articles D. 224-18 et D. 224-19 peuvent être volontairement mis à disposition de l'autorité administrative chargée de la concurrence et de la consommation, de l'Autorité de régulation des communications électroniques, des postes et de la distribution de la presse, du service national de police judiciaire chargé de la lutte contre la cybercriminalité et des opérateurs de communications électroniques, au sens du 7° de l'article L. 32 du code des postes et des communications électroniques.
 
@@ -200,7 +201,7 @@ Un arrêté du ministre chargé de la consommation fixe, en tant que de besoin, 
 - Identifiant : LEGIARTI000046739266
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046739266
-- Renvoie à : [art. D224-18 du Code de la consommation](chapitre-iv.md#article-d224-18) ; [art. D224-19 du Code de la consommation](chapitre-iv.md#article-d224-19) ; [art. L224-43 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-43)
+- Renvoie à : [art. D224-18 du Code de la consommation](chapitre-iv.md#article-d224-18) ; [art. D224-19 du Code de la consommation](chapitre-iv.md#article-d224-19) ; [art. L224-43 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-43) ; [art. L32 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32)
 
 Sans que cela s'oppose à l'application volontaire d'éventuelles règles plus contraignantes et à la mise en œuvre d'actions complémentaires, décidées par lui-même ou par l'organisme professionnel le plus représentatif du secteur des services à valeur ajoutée, chaque opérateur de communications électroniques, au sens du 6° de l'article L. 32 du code des postes et des communications électroniques, exploitant un ou plusieurs numéros à valeur ajoutée, vérifie les informations présentes dans l'outil mentionné au premier alinéa de l'article L. 224-43 dès le premier signalement et à chaque signalement suivant. La vérification des informations présentes dans l'outil intervient dans un délai maximal de deux jours ouvrés à compter du jour où l'opérateur de communications électroniques a été informé d'un signalement sur un numéro le concernant, conformément à l'article D. 224-18.
 
@@ -212,7 +213,7 @@ Sans que cela s'oppose à l'application volontaire d'éventuelles règles plus c
 - Identifiant : LEGIARTI000050008710
 - État : en vigueur depuis le 01/10/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050008710
-- Renvoie à : [art. R224-23 du Code de la consommation](chapitre-iv.md#article-r224-23) ; art. R311-1 du Code de la route
+- Renvoie à : [art. R224-23 du Code de la consommation](chapitre-iv.md#article-r224-23) ; [art. R311-1 du Code de la route](../../../../code-de-la-route/partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-r311-1)
 - Cité par : [art. D224-23-1 du Code de la consommation](chapitre-iv.md#article-d224-23-1) ; [art. R224-23 du Code de la consommation](chapitre-iv.md#article-r224-23) ; [art. R224-24 du Code de la consommation](chapitre-iv.md#article-r224-24) ; [art. R224-25 du Code de la consommation](chapitre-iv.md#article-r224-25)
 
 Le professionnel qui commercialise des prestations d'entretien ou de réparation de voitures particulières et de camionnettes respectivement définies aux 1.4 et 2.4 de l'article R. 311-1 du code de la route, et de véhicules motorisés à deux ou trois roues définis aux 4.1 à 4.5 et 4.8 à 4.10 de ce même article, permet au consommateur d'opter pour l'utilisation de pièces de rechange issues de l'économie circulaire à la place de pièces neuves dans les conditions prévues aux articles R. 224-23 à R. 224-25.
@@ -223,7 +224,7 @@ Le professionnel qui commercialise des prestations d'entretien ou de réparation
 - Identifiant : LEGIARTI000050008706
 - État : en vigueur depuis le 01/10/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050008706
-- Renvoie à : [art. R224-22 du Code de la consommation](chapitre-iv.md#article-r224-22) ; art. L541-4-3 du Code de l'environnement
+- Renvoie à : [art. L541-1-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1-1) ; [art. L541-4-3 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-4-3) ; [art. R224-22 du Code de la consommation](chapitre-iv.md#article-r224-22)
 - Cité par : [art. R224-22 du Code de la consommation](chapitre-iv.md#article-r224-22)
 
 Pour l'application de la présente section, on entend par pièces issues de l'économie circulaire, les composants et éléments issus d'une opération de préparation en vue de leur réutilisation au sens des dispositions de l'article L. 541-1-1 et du II de l'article L. 541-4-3 du code de l'environnement.
@@ -250,7 +251,7 @@ Pour l'application de la présente section, on entend par :
 - Identifiant : LEGIARTI000050008702
 - État : en vigueur depuis le 01/10/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050008702
-- Renvoie à : [art. L421-3 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ier.md#article-l421-3) ; [art. R224-22 du Code de la consommation](chapitre-iv.md#article-r224-22) ; art. R321-14-1 du Code de la route
+- Renvoie à : [art. L541-1-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1-1) ; [art. R543-155 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-iii.md#article-r543-155) ; [art. R543-161 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-iii.md#article-r543-161) ; [art. L421-3 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ier.md#article-l421-3) ; [art. R224-22 du Code de la consommation](chapitre-iv.md#article-r224-22) ; art. R321-14-1 du Code de la route
 
 Les dispositions de l'article R. 224-22 ne s'appliquent pas :
 
@@ -356,8 +357,8 @@ Le professionnel conserve un double des documents remis au consommateur pendant 
 - Identifiant : LEGIARTI000034731377
 - État : en vigueur depuis le 01/07/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034731377
-- Renvoie à : [art. D224-27 du Code de la consommation](chapitre-iv.md#article-d224-27) ; [art. D224-29 du Code de la consommation](chapitre-iv.md#article-d224-29)
-- Cité par : [art. D224-27 du Code de la consommation](chapitre-iv.md#article-d224-27) ; [art. D224-28 du Code de la consommation](chapitre-iv.md#article-d224-28) ; [art. D224-29 du Code de la consommation](chapitre-iv.md#article-d224-29) ; [art. D124-19 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043516610) ; [Décret n°2017-976 du 10 mai 2017, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034725807)
+- Renvoie à : [art. L341-4 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iii/titre-iv/chapitre-ier.md#article-l341-4) ; [art. L453-7 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-iv/titre-v/chapitre-iii.md#article-l453-7) ; [art. D224-27 du Code de la consommation](chapitre-iv.md#article-d224-27) ; [art. D224-29 du Code de la consommation](chapitre-iv.md#article-d224-29)
+- Cité par : [art. D124-19 du Code de l'énergie](../../../../code-de-l-energie/partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md#article-d124-19) ; [art. D224-27 du Code de la consommation](chapitre-iv.md#article-d224-27) ; [art. D224-28 du Code de la consommation](chapitre-iv.md#article-d224-28) ; [art. D224-29 du Code de la consommation](chapitre-iv.md#article-d224-29) ; [Décret n°2017-976 du 10 mai 2017, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034725807)
 
 Lorsque le consommateur est équipé d'un dispositif de comptage qui peut être relevé à distance et tel que défini aux premiers alinéas des articles L. 341-4 et L. 453-7 du code de l'énergie, le fournisseur d'électricité ou de gaz naturel met à sa disposition dans un espace sécurisé d'un site internet :
 
@@ -422,7 +423,7 @@ Le fournisseur accuse réception des demandes prévues au présent article sur u
 - Identifiant : LEGIARTI000034731372
 - État : en vigueur depuis le 01/07/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034731372
-- Renvoie à : [art. D224-26 du Code de la consommation](chapitre-iv.md#article-d224-26) ; [art. D224-27 du Code de la consommation](chapitre-iv.md#article-d224-27) ; [art. L224-3 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-3)
+- Renvoie à : [art. L122-1 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ier/titre-ii/chapitre-ii.md#article-l122-1) ; [art. D224-26 du Code de la consommation](chapitre-iv.md#article-d224-26) ; [art. D224-27 du Code de la consommation](chapitre-iv.md#article-d224-27) ; [art. L224-3 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-3)
 
 L'espace sécurisé mentionné à l'article D. 224-26 comporte :
 
@@ -475,7 +476,7 @@ La transmission de l'évaluation ne s'applique pas aux consommateurs de gaz natu
 - Identifiant : LEGIARTI000044809462
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044809462
-- Renvoie à : [art. L224-109 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-109) ; [art. L541-1-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023248306)
+- Renvoie à : [art. L541-1-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1-1) ; [art. L541-4-3 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-4-3) ; [art. L224-109 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-109)
 
 Pour l'application de l'article L. 224-109, on entend par pièces issues de l'économie circulaire, les composants et éléments issus d'une opération de préparation en vue de leur réutilisation au sens des dispositions des articles L. 541-1-1 et L. 541-4-3 du code de l'environnement.
 
@@ -907,7 +908,7 @@ Ces dispositions sont également applicables aux dispositifs médicaux munis de 
 - Identifiant : LEGIARTI000044520187
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044520187
-- Renvoie à : [art. L224-111 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-111)
+- Renvoie à : [art. L541-1-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1-1) ; [art. L541-4-3 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-4-3) ; [art. L224-111 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-111)
 
 Pour l'application de l'article L. 224-111, on entend par pièces issues de l'économie circulaire, les composants et éléments issus d'une opération de préparation en vue de leur réutilisation pour un usage identique à celui pour lequel ils avaient été conçus, au sens des articles L. 541-1-1 et L. 541-4-3 du code de l'environnement.
 
@@ -1094,7 +1095,7 @@ h) Dispositifs anti-basculement.
 - Identifiant : LEGIARTI000047480962
 - État : en vigueur depuis le 23/04/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047480962
-- Renvoie à : [art. L224-27-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-27-1)
+- Renvoie à : [art. L224-27-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-27-1) ; [art. L34 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l34) ; [art. L36-7 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l36-7) ; [art. L44-4 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l44-4)
 
 A l'entrée du local où le public est reçu pour effectuer une demande d'entretien ou de réparation, le professionnel, mentionné à l'article L. 224-111, informe le consommateur de la possibilité d'opter pour l'utilisation de pièces issues de l'économie circulaire, telles que définies à l'article R. 224-50, par un affichage clair, visible et lisible depuis l'extérieur.
 
@@ -1143,6 +1144,7 @@ Le professionnel conserve un double des documents communiqués au consommateur p
 - Identifiant : LEGIARTI000047479813
 - État : en vigueur depuis le 23/04/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047479813
+- Renvoie à : [art. L34 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l34) ; [art. L36-7 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l36-7) ; [art. L44-4 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l44-4)
 
 I.-Préalablement à la conclusion d'un contrat, les fournisseurs de services de communications électroniques accessibles au public communiquent, en application du 1° de l'article L. 224-27-1, les informations suivantes :  
 
@@ -1249,7 +1251,7 @@ Après réception de la demande accompagnée de l'ensemble des justificatifs exi
 - Identifiant : LEGIARTI000047479215
 - État : en vigueur depuis le 23/04/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047479215
-- Renvoie à : [art. L224-112 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-112)
+- Renvoie à : [art. L541-1-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1-1) ; [art. L541-4-3 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-4-3) ; [art. L224-112 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-112)
 
 Pour l'application de l'article L. 224-112, on entend par pièces issues de l'économie circulaire, les composants et éléments issus d'une opération de préparation en vue de leur réutilisation au sens des dispositions des articles L. 541-1-1 et L. 541-4-3 du code de l'environnement.
 
@@ -1366,7 +1368,7 @@ Le professionnel conserve, le cas échéant sous forme dématérialisée, un dou
 - Identifiant : LEGIARTI000047479289
 - État : en vigueur depuis le 23/04/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047479289
-- Renvoie à : [art. L224-113 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-113)
+- Renvoie à : [art. L541-1-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1-1) ; [art. L541-4-3 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-4-3) ; [art. L224-113 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-113)
 
 Pour l'application de l'article L. 224-113, on entend par pièces issues de l'économie circulaire, les composants et éléments issus d'une opération de préparation en vue de leur réutilisation au sens des dispositions des articles L. 541-1-1 et L. 541-4-3 du code de l'environnement.
 
@@ -1386,7 +1388,7 @@ L'obligation prévue par l'article L. 224-113 ne s'applique pas dans les cas sui
 - Identifiant : LEGIARTI000047479293
 - État : en vigueur depuis le 23/04/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047479293
-- Renvoie à : [art. L224-113 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-113) ; art. R311-1 du Code de la route
+- Renvoie à : [art. L224-113 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-113) ; [art. R311-1 du Code de la route](../../../../code-de-la-route/partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md#article-r311-1)
 
 L'obligation prévue par l'article L. 224-113 s'applique aux catégories de produits et de pièces de rechange suivantes :
 

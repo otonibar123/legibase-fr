@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE IV : De la liberté des prix 
 - Identifiant : LEGIARTI000043539831
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043539831
-- Cité par : [art. L420-7 du Code de commerce](../titre-ii.md#article-l420-7) ; [art. L511-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725644)
+- Cité par : [art. L420-7 du Code de commerce](../titre-ii.md#article-l420-7) ; [art. L511-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-4)
 
 L'instruction et la procédure devant l'Autorité de la concurrence sont contradictoires sous réserve des dispositions prévues aux articles L. 463-4 et L. 464-10.
 
@@ -17,7 +17,7 @@ Les pratiques dont l'Autorité de la concurrence est saisie peuvent être établ
 - État : en vigueur depuis le 15/11/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019761629
 - Renvoie à : [art. L463-4 du Code de commerce](chapitre-iii.md#article-l463-4) ; [art. L464-1 du Code de commerce](chapitre-iv.md#article-l464-1)
-- Cité par : [art. L430-6 du Code de commerce](../titre-iii.md#article-l430-6) ; [art. L430-8 du Code de commerce](../titre-iii.md#article-l430-8) ; [art. L462-9 du Code de commerce](chapitre-ii.md#article-l462-9) ; [art. R463-11 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iii.md#article-r463-11) ; [art. R464-8 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iv.md#article-r464-8) ; [art. R464-14 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iv.md#article-r464-14) ; [art. R464-15 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iv.md#article-r464-15) ; [art. L450-4 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052848104) ; [art. L511-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725644)
+- Cité par : [art. L430-6 du Code de commerce](../titre-iii.md#article-l430-6) ; [art. L430-8 du Code de commerce](../titre-iii.md#article-l430-8) ; [art. L462-9 du Code de commerce](chapitre-ii.md#article-l462-9) ; [art. R463-11 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iii.md#article-r463-11) ; [art. R464-8 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iv.md#article-r464-8) ; [art. R464-14 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iv.md#article-r464-14) ; [art. R464-15 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iv.md#article-r464-15) ; [art. L511-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-4) ; [art. L450-4 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052848104)
 
 Sans préjudice des mesures prévues à l'article L. 464-1, le rapporteur général ou un rapporteur général adjoint désigné par lui notifie les griefs aux intéressés ainsi qu'au commissaire du Gouvernement, qui peuvent consulter le dossier sous réserve des dispositions de l'article L. 463-4 et présenter leurs observations dans un délai de deux mois. Les entreprises destinataires des griefs signalent sans délai au rapporteur chargé du dossier, à tout moment de la procédure d'investigation, toute modification de leur situation juridique susceptible de modifier les conditions dans lesquelles elles sont représentées ou dans lesquelles les griefs peuvent leur être imputés. Elles sont irrecevables à s'en prévaloir si elles n'ont pas procédé à cette information.
 
@@ -31,7 +31,7 @@ Lorsque des circonstances exceptionnelles le justifient, le rapporteur général
 - Identifiant : LEGIARTI000042624116
 - État : en vigueur depuis le 05/12/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042624116
-- Cité par : [art. R463-12 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iii.md#article-r463-12) ; [art. L511-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725644)
+- Cité par : [art. R463-12 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-vi/chapitre-iii.md#article-r463-12) ; [art. L511-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-4)
 
 Le rapporteur général de l'Autorité de la concurrence peut décider que l'affaire sera examinée par l'Autorité sans établissement préalable d'un rapport. Il en informe les parties et le commissaire du Gouvernement préalablement à la notification des griefs.
 
@@ -53,7 +53,7 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent a
 - Identifiant : LEGIARTI000019761623
 - État : en vigueur depuis le 15/11/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019761623
-- Cité par : [art. L511-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038725644)
+- Cité par : [art. L511-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-4)
 
 Les juridictions d'instruction et de jugement peuvent communiquer à l'Autorité de la concurrence, sur sa demande, les procès-verbaux rapports d'enquête ou autres pièces de l'instruction pénale ayant un lien direct avec des faits dont l'Autorité est saisie.
 
@@ -61,7 +61,7 @@ Les juridictions d'instruction et de jugement peuvent communiquer à l'Autorité
 - Identifiant : LEGIARTI000043539822
 - État : en vigueur depuis le 28/05/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043539822
-- Renvoie à : art. 226-13 du Code pénal
+- Renvoie à : [art. 226-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-226-13)
 - Cité par : [art. L420-7 du Code de commerce](../titre-ii.md#article-l420-7) ; [art. L430-6 du Code de commerce](../titre-iii.md#article-l430-6) ; [art. L430-8 du Code de commerce](../titre-iii.md#article-l430-8)
 
 Est punie des peines prévues à l'article 226-13 du code pénal, la divulgation par l'une des parties des informations concernant une autre partie ou un tiers et dont elle n'a pu avoir connaissance qu'à la suite des communications ou consultations auxquelles il a été procédé.

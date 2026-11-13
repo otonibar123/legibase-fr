@@ -27,7 +27,7 @@ Les conventions ayant pour objet l'instruction de l'affaire en la forme simplifi
 - Identifiant : LEGIARTI000051928710
 - État : en vigueur depuis le 01/09/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928710
-- Renvoie à : art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
 
 Les parties qui décident, une fois la juridiction saisie, d'instruire leur affaire par voie conventionnelle en informent le juge, notamment par voie de conclusions concordantes ou par la transmission d'une copie de la convention. Elles lui précisent les modalités de mise en œuvre convenues.
 
@@ -76,7 +76,7 @@ La convention fixe la répartition des frais de la procédure participative entr
 - Identifiant : LEGIARTI000051928699
 - État : en vigueur depuis le 01/09/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928699
-- Renvoie à : art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
 - Cité par : [art. 914-1 du Code de procédure civile](../../livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-914-1)
 
 Les parties peuvent conclure une convention de procédure participative aux fins de mise en état à tout moment de l'instance.

@@ -24,7 +24,7 @@ Pour l'application à Mayotte du dernier alinéa de l'article L. 1225-26 et du d
 - Identifiant : LEGIARTI000035881719
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035881719
-- Renvoie à : [art. L1225-28 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-l1225-28) ; art. L331-6 du Code de la sécurité sociale
+- Renvoie à : [art. L331-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-iii/chapitre-1er.md#article-l331-6) ; [art. L1225-28 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-l1225-28)
 
 Pour l'application à Mayotte de l'article L. 1225-28, les mots : “ définie au premier alinéa de l'article L. 331-6 du code de la sécurité sociale ” sont remplacés par les mots : “ soit entre la naissance de l'enfant et la fin de l'indemnisation au titre du régime d'assurance maternité, soit entre la naissance de l'enfant et la fin du maintien de traitement lié à la maternité ” et les mots : “ définie au même premier alinéa, le cas échéant reportée en application du deuxième alinéa du même article ” sont supprimés.
 
@@ -32,7 +32,7 @@ Pour l'application à Mayotte de l'article L. 1225-28, les mots : “ définie a
 - Identifiant : LEGIARTI000035881733
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035881733
-- Renvoie à : [art. L1225-61 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-l1225-61) ; art. L513-1 du Code de la sécurité sociale
+- Renvoie à : [art. L513-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-i/chapitre-3.md#article-l513-1) ; [art. L1225-61 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-l1225-61)
 
 Pour l'application à Mayotte du premier alinéa de l'article L. 1225-61, les mots : “ au sens de l'article L. 513-1 du code de la sécurité sociale ” sont remplacés par les mots : “ au sens du premier alinéa de l'article 6 de l'ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et à la généralisation des prestations familiales et à la protection sociale dans la collectivité départementale de Mayotte ”.
 
@@ -40,7 +40,7 @@ Pour l'application à Mayotte du premier alinéa de l'article L. 1225-61, les mo
 - Identifiant : LEGIARTI000035881735
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035881735
-- Renvoie à : [art. L1225-62 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-l1225-62) ; art. L513-1 du Code de la sécurité sociale ; art. L544-2 du Code de la sécurité sociale
+- Renvoie à : [art. L513-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-i/chapitre-3.md#article-l513-1) ; [art. L544-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-iv/chapitre-4.md#article-l544-2) ; [art. L1225-62 du Code du travail](../../livre-ii/titre-ii/chapitre-v.md#article-l1225-62)
 
 Pour l'application à Mayotte de l'article L. 1225-62 :  
 

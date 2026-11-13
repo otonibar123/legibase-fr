@@ -6,8 +6,8 @@ Code de la consommation › Partie réglementaire nouvelle › Livre IV : CONFOR
 - Identifiant : LEGIARTI000032808072
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808072
-- Renvoie à : [art. L412-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ii.md#article-l412-1) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
-- Cité par : [art. R412-17 du Code de la consommation](../titre-ier/chapitre-ii.md#article-r412-17) ; [art. R661-35 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036457123) ; [Décret n°2019-62 du 30 janvier 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038082334) ; [Décret n°2020-1562 du 9 décembre 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042650081) ; [Décret n°2024-1247 du 30 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050920501) ; [Décret n°2024-372 du 23 avril 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049468374) ; [Décret n°2025-141 du 13 février 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051188069) ; [Décret n°2025-162 du 20 février 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051224970) ; [Décret n°2025-992 du 28 octobre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052452478) ; [Décret n°2026-171 du 11 mars 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053654000) ; [Décret n°2026-7 du 7 janvier 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053324437) ; … et 1 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+- Renvoie à : [art. L412-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ii.md#article-l412-1) ; [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
+- Cité par : [art. R412-17 du Code de la consommation](../titre-ier/chapitre-ii.md#article-r412-17) ; [art. R1324-5 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-ii/chapitre-iv.md#article-r1324-5) ; [art. R661-35 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-vi/titre-vi/chapitre-ier.md#article-r661-35) ; [Décret n°2019-62 du 30 janvier 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038082334) ; [Décret n°2020-1562 du 9 décembre 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042650081) ; [Décret n°2024-1247 du 30 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050920501) ; [Décret n°2024-372 du 23 avril 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049468374) ; [Décret n°2025-141 du 13 février 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051188069) ; [Décret n°2025-162 du 20 février 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051224970) ; [Décret n°2025-992 du 28 octobre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052452478) ; [Décret n°2026-171 du 11 mars 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053654000) ; [Décret n°2026-7 du 7 janvier 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053324437) ; [Décret n°2026-714 du 30 juillet 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054597028)
 
 Les infractions aux dispositions des décrets pris en application de l'article L. 412-1 sont punies de la peine d'amende prévue pour les contraventions de la 5e classe.  
 La récidive est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
@@ -16,7 +16,7 @@ La récidive est réprimée conformément aux dispositions des articles 132-11 e
 - Identifiant : LEGIARTI000032808074
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808074
-- Renvoie à : [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de détenir en vue de la vente ou de la distribution à titre gratuit, de mettre en vente, de vendre ou de distribuer à titre gratuit une denrée alimentaire impropre à la consommation, au sens du paragraphe 5 de l'article 14 du règlement (CE) n° 178/2002 modifié établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l'Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires est puni de la peine d'amende prévue pour les contraventions de la 5e classe.  
 La récidive est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
@@ -25,7 +25,7 @@ La récidive est réprimée conformément aux dispositions des articles 132-11 e
 - Identifiant : LEGIARTI000032808076
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808076
-- Renvoie à : [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de ne pas mettre en œuvre les procédures de retrait ou de rappel d'une denrée alimentaire autre qu'un produit d'origine animale ou une denrée en contenant impropre à la consommation, au sens du paragraphe 5 de l'article 14 du règlement n° 178/2002 modifié du Parlement européen et du Conseil du 28 janvier 2002 modifié établissant les principes généraux et les prescriptions générales de la législation alimentaire, instituant l'Autorité européenne de sécurité des aliments et fixant des procédures relatives à la sécurité des denrées alimentaires prévues à l'article 19 du même règlement est puni de la peine d'amende prévue pour les contraventions de la 5e classe.  
 La récidive est réprimée conformément aux dispositions des articles 132-11 et 132-15 du code pénal.
@@ -34,6 +34,7 @@ La récidive est réprimée conformément aux dispositions des articles 132-11 e
 - Identifiant : LEGIARTI000048180406
 - État : en vigueur depuis le 11/10/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048180406
+- Renvoie à : [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 I. - Est puni de l'amende prévue pour les contraventions de la 5e classe le fait :
 

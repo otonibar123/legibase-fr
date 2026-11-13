@@ -57,7 +57,7 @@ Si le mariage n'a pas été célébré dans l'année, à compter de l'expiration
 - Identifiant : LEGIARTI000006421091
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421091
-- Cité par : [art. ANNEXE, art. 30-1 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-1) ; [Décret n°2005-1669 du 27 décembre 2005, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018845793)
+- Cité par : [art. ANNEXE, art. 30-1 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-1) ; [Décret n°2005-1669 du 27 décembre 2005, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018845793)
 
 Les actes d'opposition au mariage seront signés sur l'original et sur la copie par les opposants ou par leurs fondés de procuration, spéciale et authentique ; ils seront signifiés, avec la copie de la procuration, à la personne ou au domicile des parties, et à l'officier de l'état civil, qui mettra son visa sur l'original.
 
@@ -81,7 +81,7 @@ En cas d'opposition, l'officier d'état civil ne pourra célébrer le mariage av
 - Identifiant : LEGIARTI000006421152
 - État : en vigueur depuis le 09/08/1919
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421152
-- Cité par : [art. ANNEXE, art. 30-7 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-7)
+- Cité par : [art. ANNEXE, art. 30-7 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-7)
 
 Si la publication a été faite dans plusieurs communes, l'officier de l'état civil de chaque commune transmettra sans délai à celui d'entre eux qui doit célébrer le mariage un certificat constatant qu'il n'existe point d'opposition.
 
@@ -112,7 +112,7 @@ L'acte de notoriété est établi sur la foi des déclarations d'au moins trois 
 - État : en vigueur depuis le 28/02/1922
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006421164
 - Renvoie à : [art. 159 du Code civil](../titre-v/chapitre-ier.md#article-159)
-- Cité par : [art. 155 du Code civil](../titre-v/chapitre-ier.md#article-155) ; [art. ANNEXE, art. 30-11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-11)
+- Cité par : [art. 155 du Code civil](../titre-v/chapitre-ier.md#article-155) ; [art. ANNEXE, art. 30-11 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-11)
 
 L'acte authentique du consentement des père et mère ou aïeuls ou aïeules ou, à leur défaut, celui du conseil de famille, contiendra les prénoms, noms, professions et domicile des futurs époux et de tous ceux qui auront concouru à l'acte, ainsi que leur degré de parenté.  
 
@@ -139,7 +139,7 @@ Avant la célébration du mariage, les futurs époux confirment l'identité des 
 - État : en vigueur depuis le 19/05/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027432006
 - Renvoie à : [art. 212 du Code civil](../titre-v/chapitre-vi.md#article-212) ; [art. 213 du Code civil](../titre-v/chapitre-vi.md#article-213) ; [art. 214 du Code civil](../titre-v/chapitre-vi.md#article-214) ; [art. 215 du Code civil](../titre-v/chapitre-vi.md#article-215) ; [art. 371-1 du Code civil](../titre-ix/chapitre-ier.md#article-371-1)
-- Cité par : [art. 169 du Code civil](../titre-v/chapitre-ii.md#article-169) ; [art. D424 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045882806) ; [art. R2122-10 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039345174) ; [art. D343-1 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045492529) ; [Loi n°2002-305 du 4 mars 2002, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284711)
+- Cité par : [art. 169 du Code civil](../titre-v/chapitre-ii.md#article-169) ; [art. D424 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-simples/livre-v/titre-ii/chapitre-ix.md#article-d424) ; [art. L2121-30-1 du Code général des collectivités territoriales](../../../code-general-des-collectivites-territoriales/partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l2121-30-1) ; [art. R2122-10 du Code général des collectivités territoriales](../../../code-general-des-collectivites-territoriales/partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r2122-10) ; [art. D343-1 du Code pénitentiaire](../../../code-penitentiaire/partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md#article-d343-1) ; [Loi n°2002-305 du 4 mars 2002, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284711)
 
 Le jour désigné par les parties, après le délai de publication, l'officier de l'état civil, à la mairie, en présence d'au moins deux témoins, ou de quatre au plus, parents ou non des parties, fera lecture aux futurs époux des articles 212 et 213, du premier alinéa des articles 214 et 215, et de l'article 371-1 du présent code.
 
@@ -158,7 +158,7 @@ Il recevra de chaque partie, l'une après l'autre, la déclaration qu'elles veul
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460944
 - Renvoie à : [art. 50 du Code civil](chapitre-ier.md#article-50) ; [art. 99-1 du Code civil](chapitre-vii.md#article-99-1)
-- Cité par : [art. ANNEXE, art. 30-8 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-8) ; [art. ANNEXE, art. 30-13 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30-13) ; [Décret n°2025-1298 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053182732)
+- Cité par : [art. ANNEXE, art. 30-8 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-8) ; [art. ANNEXE, art. 30-13 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30-13) ; [Décret n°2025-1298 du 24 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053182732)
 
 L'acte de mariage énoncera :
 

@@ -65,5 +65,6 @@ Les dispositions du présent chapitre s'appliquent sans préjudice des articles 
 - Identifiant : LEGIARTI000032226749
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226749
+- Renvoie à : [art. L34-5 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l34-5)
 
 Les conditions de la prospection directe au moyen d'un automate d'appel, d'un télécopieur ou d'un courrier électronique sont prévues à l'article L. 34-5 du code des postes et des communications électroniques.

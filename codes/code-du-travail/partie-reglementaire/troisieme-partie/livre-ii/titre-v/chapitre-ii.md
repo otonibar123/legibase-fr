@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - Identifiant : LEGIARTI000018533764
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533764
-- Cité par : [Arrêté du 1er avril 2026, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053767531) ; [art. R212-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938533) ; [Livre des procédures fiscales, art. L264](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025033213)
+- Cité par : [art. R212-1 du Code des procédures civiles d'exécution](../../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-1) ; [Livre des procédures fiscales, art. L264](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iv/chapitre-premier.md#article-l264) ; [Arrêté du 1er avril 2026, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053767531)
 
 Le créancier muni d'un titre exécutoire constatant une créance liquide et exigible peut faire procéder à la saisie des sommes dues à titre de rémunération par un employeur à son débiteur.
 
@@ -17,7 +17,7 @@ Le créancier muni d'un titre exécutoire constatant une créance liquide et exi
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053193584
 - Renvoie à : [art. L3252-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-v/chapitre-ii.md#article-l3252-2)
-- Cité par : [art. R731-1 du Code de la consommation](../../../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ier.md#article-r731-1) ; [art. R23-113-3 du Code du travail](../../../deuxieme-partie/livre-iii/titre-xi/chapitre-iii.md#article-r23-113-3) ; [art. R3252-3 du Code du travail](chapitre-ii.md#article-r3252-3) ; [art. R3252-4 du Code du travail](chapitre-ii.md#article-r3252-4) ; [art. R112-4 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938282) ; [Décret n°2017-1854 du 29 décembre 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036443303)
+- Cité par : [art. R731-1 du Code de la consommation](../../../../../code-de-la-consommation/partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ier.md#article-r731-1) ; [art. R112-4 du Code des procédures civiles d'exécution](../../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r112-4) ; [art. R23-113-3 du Code du travail](../../../deuxieme-partie/livre-iii/titre-xi/chapitre-iii.md#article-r23-113-3) ; [art. R3252-3 du Code du travail](chapitre-ii.md#article-r3252-3) ; [art. R3252-4 du Code du travail](chapitre-ii.md#article-r3252-4) ; [Décret n°2017-1854 du 29 décembre 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036443303)
 
 La proportion dans laquelle les sommes dues à titre de rémunération sont saisissables ou cessibles, en application de l'article L. 3252-2, est fixée comme suit :
 
@@ -41,7 +41,7 @@ La proportion dans laquelle les sommes dues à titre de rémunération sont sais
 - Identifiant : LEGIARTI000053193590
 - État : en vigueur depuis le 01/01/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053193590
-- Renvoie à : [art. R3252-2 du Code du travail](chapitre-ii.md#article-r3252-2) ; art. L262-2 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-2) ; [art. L512-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-i/chapitre-2.md#article-l512-3) ; [art. L512-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-i/chapitre-2.md#article-l512-4) ; [art. L513-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-i/chapitre-3.md#article-l513-1) ; [art. R3252-2 du Code du travail](chapitre-ii.md#article-r3252-2)
 - Cité par : [art. R3252-4 du Code du travail](chapitre-ii.md#article-r3252-4) ; [Décret n°2017-1854 du 29 décembre 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036443303)
 
 Les seuils déterminés à l'article R. 3252-2 sont augmentés d'un montant de 1 740 € par personne à la charge du débiteur saisi ou du cédant, sur justification présentée par l'intéressé.
@@ -69,8 +69,8 @@ Les seuils et correctifs prévus aux articles R. 3252-2 et R. 3252-3 sont révis
 - Identifiant : LEGIARTI000031694644
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031694644
-- Renvoie à : [art. L3252-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-v/chapitre-ii.md#article-l3252-5) ; art. L262-2 du Code de l'action sociale et des familles
-- Cité par : [Arrêté du 1er avril 2026, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053767531) ; [art. R641-8 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939648)
+- Renvoie à : [art. L262-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-2) ; [art. L3252-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-v/chapitre-ii.md#article-l3252-5)
+- Cité par : [art. R213-10 du Code des procédures civiles d'exécution](../../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-r213-10) ; [art. R641-8 du Code des procédures civiles d'exécution](../../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-vi/titre-iv/chapitre-unique.md#article-r641-8) ; [art. R312-4 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-r312-4) ; [Arrêté du 1er avril 2026, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053767531)
 
 La somme laissée dans tous les cas à la disposition du salarié dont la rémunération fait l'objet d'une saisie ou d'une cession, en application du second alinéa de l'article L. 3252-5, est égale au montant forfaitaire mentionné à l'article L. 262-2 du code de l'action sociale et des familles fixé pour un foyer composé d'une seule personne.
 
@@ -78,6 +78,7 @@ La somme laissée dans tous les cas à la disposition du salarié dont la rémun
 - Identifiant : LEGIARTI000054558542
 - État : en vigueur depuis le 30/07/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054558542
+- Renvoie à : [Livre des procédures fiscales, art. L262](../../../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iv/chapitre-premier.md#article-l262)
 
 En cas de notification, en l'absence de toute procédure de saisie des rémunérations en cours, d'une saisie administrative à tiers détenteur conformément à l'article L. 262 du livre des procédures fiscales, lorsque le débiteur perçoit plusieurs rémunérations, le comptable public détermine le ou les tiers saisis chargés d'opérer les retenues ou désigne à cette fin un commissaire de justice répartiteur figurant sur une liste établie par la Chambre nationale des commissaires de justice.
 
@@ -125,7 +126,7 @@ A compter de la notification de la cession, l'employeur verse directement au ces
 - Identifiant : LEGIARTI000051166542
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051166542
-- Renvoie à : art. L212-11 du Code des procédures civiles d'exécution
+- Renvoie à : [art. L212-11 du Code des procédures civiles d'exécution](../../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-11)
 
 En cas de saisie d'une somme due à titre de rémunération faisant l'objet d'une cession préalable, le commissaire de justice répartiteur dénonce l'acte de saisie au cessionnaire. L'acte de dénonciation comporte à peine de nullité :  
 

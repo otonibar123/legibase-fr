@@ -6,7 +6,7 @@ Code de commerce › Partie législative › LIVRE Ier : Du commerce en généra
 - Identifiant : LEGIARTI000038311180
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311180
-- Cité par : [art. L152-7 du Code de commerce](chapitre-ii.md#article-l152-7) ; [art. L153-2 du Code de commerce](chapitre-iii.md#article-l153-2) ; [art. L775-1 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037268935) ; [Loi n° 72-626 du 5 juillet 1972, art. 11-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038311183)
+- Cité par : [art. L152-7 du Code de commerce](chapitre-ii.md#article-l152-7) ; [art. L153-2 du Code de commerce](chapitre-iii.md#article-l153-2) ; [art. L775-1 du Code de justice administrative](../../../../code-de-justice-administrative/partie-legislative/livre-vii/titre-vii/chapitre-v.md#article-l775-1) ; [Loi n° 72-626 du 5 juillet 1972, art. 11-2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038311183)
 
 Lorsque, à l'occasion d'une instance civile ou commerciale ayant pour objet une mesure d'instruction sollicitée avant tout procès au fond ou à l'occasion d'une instance au fond, il est fait état ou est demandée la communication ou la production d'une pièce dont il est allégué par une partie ou un tiers ou dont il a été jugé qu'elle est de nature à porter atteinte à un secret des affaires, le juge peut, d'office ou à la demande d'une partie ou d'un tiers, si la protection de ce secret ne peut être assurée autrement et sans préjudice de l'exercice des droits de la défense :  
 
@@ -23,7 +23,7 @@ Lorsque, à l'occasion d'une instance civile ou commerciale ayant pour objet une
 - État : en vigueur depuis le 01/08/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037266607
 - Renvoie à : [art. L153-1 du Code de commerce](chapitre-iii.md#article-l153-1)
-- Cité par : [art. L775-1 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037268935)
+- Cité par : [art. L775-1 du Code de justice administrative](../../../../code-de-justice-administrative/partie-legislative/livre-vii/titre-vii/chapitre-v.md#article-l775-1)
 
 Toute personne ayant accès à une pièce ou au contenu d'une pièce considérée par le juge comme étant couverte ou susceptible d'être couverte par le secret des affaires est tenue à une obligation de confidentialité lui interdisant toute utilisation ou divulgation des informations qu'elle contient.  
 

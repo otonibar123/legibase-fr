@@ -1,0 +1,11 @@
+# DEUXIÈME PARTIE : TRANSPORT FERROVIAIRE OU GUIDÉ : articles rattachés directement
+
+Code des transports › PARTIE LÉGISLATIVE › DEUXIÈME PARTIE : TRANSPORT FERROVIAIRE OU GUIDÉ
+
+### Article L2000-1
+- Identifiant : LEGIARTI000023084758
+- État : en vigueur depuis le 01/12/2010
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023084758
+- Cité par : [art. D328-3 du Code de la route](../../../code-de-la-route/partie-reglementaire/livre-iii/titre-ii/chapitre-viii.md#article-d328-3) ; [art. D1112-1 du Code des transports](../../partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-ii.md#article-d1112-1) ; [art. L1231-2 du Code des transports](../premiere-partie/livre-ii/titre-iii/chapitre-unique.md#article-l1231-2) ; [art. L1251-3 du Code des transports](../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-3) ; [art. L1621-1 du Code des transports](../premiere-partie/livre-vi/titre-ii/chapitre-ier.md#article-l1621-1) ; [art. R1511-2 du Code des transports](../../partie-reglementaire/premiere-partie/livre-v/titre-ier/chapitre-ier.md#article-r1511-2) ; [art. R2240-1 du Code des transports](../../partie-reglementaire/deuxieme-partie/livre-ii/titre-iv/articles-directs.md#article-r2240-1) ; [art. L211-134 du Code des impositions sur les biens et services](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054526573) ; [art. L211-159 du Code des impositions sur les biens et services](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053105354) ; [Décret n°2017-440 du 30 mars 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051525895) ; [Décret n°2017-694 du 2 mai 2017, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054422026) ; [Décret n°2023-1117 du 30 novembre 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048496112)
+
+Est dénommé transport ferroviaire ou guidé pour l'application du présent code tout transport public dont les véhicules sont assujettis à suivre, sur tout ou partie de leur parcours, une trajectoire déterminée à l'exclusion des remontées mécaniques relevant des dispositions du code du tourisme et des systèmes de transport situés dans l'enceinte d'un établissement soumis aux réglementations relatives aux établissements recevant du public, aux activités foraines ou aux parcs de loisirs.

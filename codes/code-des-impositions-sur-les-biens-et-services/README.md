@@ -1,0 +1,101 @@
+# Code des impositions sur les biens et services
+
+Dernière modification du texte dans LEGI : 10/10/2026. 1501 articles en vigueur, répartis dans 63 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **PARTIE LÉGISLATIVE**
+  - **Livre Ier : DISPOSITIONS GÉNÉRALES**
+    - [Livre Ier : DISPOSITIONS GÉNÉRALES : articles rattachés directement](partie-legislative/livre-ier/articles-directs.md) (1 article)
+    - **Titre Ier : ÉLÉMENTS TAXABLES ET TERRITOIRES**
+      - [Chapitre Ier : ÉLÉMENTS TAXABLES](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : TERRITOIRES](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (8 articles)
+      - [Chapitre III : COMPÉTENCES DELEGUEES](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (3 articles)
+    - [Titre II : FAIT GÉNÉRATEUR](partie-legislative/livre-ier/titre-ii.md) (5 articles)
+    - **Titre III : MONTANT DE L'IMPÔT**
+      - [Chapitre Ier : RÈGLES D'ARRONDIS](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : INDEXATIONS](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : RÈGLES PARTICULIÈRES](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (3 articles)
+    - **Titre IV : EXIGIBILITÉ**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (2 articles)
+    - **Titre V : PERSONNES SOUMISES AUX OBLIGATIONS FISCALES**
+      - [Chapitre Ier : REDEVABLES](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : REPRÉSENTANTS FISCAUX](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : PERSONNES SUPPORTANT L'IMPOSITION](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : TIERS COLLECTEURS D'IMPÔT](partie-legislative/livre-ier/titre-v/chapitre-iv.md) (6 articles)
+    - **Titre VI : CONSTATATION DE L'IMPÔT**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (5 articles)
+    - **Titre VII : PAIEMENT DE L'IMPÔT**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ier/titre-vii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : ACOMPTES](partie-legislative/livre-ier/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : RÉGIMES DE MUTUALISATION DU PAIEMENT](partie-legislative/livre-ier/titre-vii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : SOLIDARITÉS DE PAIEMENT](partie-legislative/livre-ier/titre-vii/chapitre-iv.md) (2 articles)
+  - **Livre III : ÉNERGIES, ALCOOLS ET TABACS**
+    - [Livre III : ÉNERGIES, ALCOOLS ET TABACS : articles rattachés directement](partie-legislative/livre-iii/articles-directs.md) (1 article)
+    - **Titre Ier : RÉGIME GÉNÉRAL D'ACCISE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (38 articles)
+      - [Chapitre II : ÉNERGIES](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (90 articles)
+      - [Chapitre III : ALCOOLS](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (34 articles)
+      - [Chapitre IV : TABACS](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (26 articles)
+    - **Titre II : TAXES NE RELEVANT PAS DU RÉGIME GÉNÉRAL D'ACCISE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Énergies](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (56 articles)
+  - **Livre IV : AUTRES IMPOSITIONS SECTORIELLES**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre unique : ÉLÉMENTS TAXABLES ET TERRITOIRES](partie-legislative/livre-iv/titre-ier/chapitre-unique.md) (3 articles)
+    - **Titre II : MOBILITÉS**
+      - [Chapitre Ier : DÉPLACEMENTS ROUTIERS](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (228 articles)
+      - [Chapitre II : TRANSPORT AÉRIEN](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (52 articles)
+      - [Chapitre III : NAVIGATIONS](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (46 articles)
+      - [Chapitre V : TAXES COMMUNES À PLUSIEURS MODES DE TRANSPORTS](partie-legislative/livre-iv/titre-ii/chapitre-v.md) (17 articles)
+    - **Titre III : ENVIRONNEMENT**
+      - [Chapitre III : Sûreté et déchets](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (86 articles)
+    - **Titre V : COMMUNICATION, NUMÉRIQUE, CULTURE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : UTILISATION FINALE DES ÉTABLISSEMENTS ET BIENS CULTURELS](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (32 articles)
+      - [Chapitre III : UTILISATION FINALE DES RÉSEAUX DE COMMUNICATIONS ÉLECTRONIQUES](partie-legislative/livre-iv/titre-v/chapitre-iii.md) (69 articles)
+      - [Chapitre IV : PUBLICITÉ](partie-legislative/livre-iv/titre-v/chapitre-iv.md) (57 articles)
+      - [Chapitre V : EXPLOITATION DES ÉTABLISSEMENTS, DROITS ET RÉSEAUX](partie-legislative/livre-iv/titre-v/chapitre-v.md) (47 articles)
+    - **Titre VII : ACTIVITÉS INDUSTRIELLES ET ARTISANALES**
+      - [Chapitre Ier : TAXES SUR LES PRODUITS DE L'INDUSTRIE ET DE L'ARTISANAT](partie-legislative/livre-iv/titre-vii/chapitre-ier.md) (48 articles)
+- **PARTIE RÉGLEMENTAIRE**
+  - **Livre Ier : DISPOSITIONS GÉNÉRALES**
+    - [Livre Ier : DISPOSITIONS GÉNÉRALES : articles rattachés directement](partie-reglementaire/livre-ier/articles-directs.md) (2 articles)
+    - **Titre Ier : ÉLÉMENTS TAXABLES ET TERRITOIRES**
+      - [Chapitre Ier : ÉLÉMENTS TAXABLES](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : TERRITOIRES](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : COMPÉTENCES DÉLÉGUÉES](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+    - **Titre III : MONTANT**
+      - [Chapitre II : INDEXATIONS](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (2 articles)
+    - **Titre IV : EXIGIBILITÉ**
+      - [Chapitre II : SUSPENSION](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+    - **Titre V : PERSONNES SOUMISES AUX OBLIGATIONS FISCALES**
+      - [Chapitre Ier : REDEVABLES](partie-reglementaire/livre-ier/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre III : PERSONNES SUPPORTANT L'IMPOSITION](partie-reglementaire/livre-ier/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : TIERS COLLECTEURS D'IMPÔT](partie-reglementaire/livre-ier/titre-v/chapitre-iv.md) (1 article)
+    - **Titre VI : CONSTATATION DE L'IMPÔT**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md) (34 articles)
+      - [Chapitre II : RÉGIME SIMPLIFIÉ DE DÉCLARATION](partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md) (10 articles)
+      - [Chapitre III : RÉGIMES DE MUTUALISATION DES DÉCLARATIONS](partie-reglementaire/livre-ier/titre-vi/chapitre-iii.md) (1 article)
+    - **Titre VII : PAIEMENT DE L'IMPÔT**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ier/titre-vii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : ACOMPTES](partie-reglementaire/livre-ier/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : RÉGIMES DE MUTUALISATION DU PAIEMENT](partie-reglementaire/livre-ier/titre-vii/chapitre-iii.md) (19 articles)
+  - **Livre III : ÉNERGIES, ALCOOLS ET TABACS**
+    - **Titre II : TAXES NE RELEVANT PAS DU RÉGIME GÉNÉRAL D'ACCISE**
+      - [Chapitre II : ÉNERGIES](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (46 articles)
+  - **Livre IV : DISPOSITIFS SECTORIELS**
+    - **Titre II : MOBILITÉS**
+      - [Chapitre Ier : DÉPLACEMENTS ROUTIERS](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (83 articles)
+      - [Chapitre II : TRANSPORT AÉRIEN](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (40 articles)
+      - [Chapitre III : NAVIGATIONS](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (28 articles)
+      - [Chapitre V : TAXES COMMUNES A PLUSIEURS MODES DE TRANSPORTS](partie-reglementaire/livre-iv/titre-ii/chapitre-v.md) (5 articles)
+    - **Titre III : ENVIRONNEMENT**
+      - [Chapitre III : SÛRETÉ ET DÉCHETS](partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md) (10 articles)
+    - **Titre V : COMMUNICATION, NUMÉRIQUE, CULTURE**
+      - [Chapitre II : UTILISATION FINALE DES ETABLISSEMENTS ET BIENS CULTURELS](partie-reglementaire/livre-iv/titre-v/chapitre-ii.md) (23 articles)
+      - [Chapitre III : UTILISATION FINALE DES RÉSEAUX DE COMMUNICATIONS ÉLECTRONIQUES](partie-reglementaire/livre-iv/titre-v/chapitre-iii.md) (46 articles)
+      - [Chapitre IV : PUBLICITÉ](partie-reglementaire/livre-iv/titre-v/chapitre-iv.md) (14 articles)
+      - [Chapitre V : EXPLOITATION DES ETABLISSEMENTS, DROITS ET RESEAUX](partie-reglementaire/livre-iv/titre-v/chapitre-v.md) (19 articles)
+    - **Titre VII : ACTIVITÉS INDUSTRIELLES ET ARTISANALES**
+      - [Chapitre Ier : TAXES SUR LES PRODUITS DE L'INDUSTRIE ET DE L'ARTISANAT](partie-reglementaire/livre-iv/titre-vii/chapitre-ier.md) (109 articles)

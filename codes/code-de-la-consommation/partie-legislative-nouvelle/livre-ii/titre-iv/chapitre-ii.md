@@ -47,7 +47,7 @@ Lorsque le professionnel n'a pas remboursé les sommes versées par le consommat
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226374
 - Renvoie à : [art. L221-9 du Code de la consommation](../titre-ii/chapitre-ier.md#article-l221-9)
-- Cité par : [art. L242-7-2 du Code de la consommation](chapitre-ii.md#article-l242-7-2) ; [art. L242-8 du Code de la consommation](chapitre-ii.md#article-l242-8) ; [art. L242-9 du Code de la consommation](chapitre-ii.md#article-l242-9) ; [art. L221-18 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310594) ; [art. L932-15-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036923677) ; [Loi n° 71-1130 du 31 décembre 1971, art. 66-4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033678987)
+- Cité par : [art. L242-7-2 du Code de la consommation](chapitre-ii.md#article-l242-7-2) ; [art. L242-8 du Code de la consommation](chapitre-ii.md#article-l242-8) ; [art. L242-9 du Code de la consommation](chapitre-ii.md#article-l242-9) ; [art. L221-18 du Code de la mutualité](../../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-18) ; [art. L932-15-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-15-1) ; [Loi n° 71-1130 du 31 décembre 1971, art. 66-4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033678987)
 
 Le fait de ne pas remettre au client un exemplaire du contrat dans les conditions prévues à l'article L. 221-9 ou de remettre un contrat non conforme aux dispositions du même article est puni d'une peine d'emprisonnement de deux ans et d'une amende de 150 000 euros.
 
@@ -93,7 +93,7 @@ Lorsqu'une amende est prononcée en application des articles L. 242-5 et L. 242-
 - Identifiant : LEGIARTI000044563252
 - État : en vigueur depuis le 28/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563252
-- Renvoie à : [art. L242-5 du Code de la consommation](chapitre-ii.md#article-l242-5) ; [art. L242-7 du Code de la consommation](chapitre-ii.md#article-l242-7) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L242-5 du Code de la consommation](chapitre-ii.md#article-l242-5) ; [art. L242-7 du Code de la consommation](chapitre-ii.md#article-l242-7) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques déclarées coupables des délits punis aux articles L. 242-5 à L. 242-7-1 encourent également, à titre de peines complémentaires, l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.  
@@ -185,7 +185,7 @@ Cette amende est prononcée dans les conditions prévues au chapitre II du titre
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226348
 - Renvoie à : [art. L222-15 du Code de la consommation](../titre-ii/chapitre-ii.md#article-l222-15)
-- Cité par : [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053311909) ; [art. L112-2-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310567) ; [art. L343-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053310651)
+- Cité par : [art. L112-2-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2-1) ; [art. L343-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-iii.md#article-l343-1) ; [art. L252-1 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053311909)
 
 Lorsque le professionnel n'a pas remboursé le consommateur dans les conditions prévues à l'article L. 222-15, à l'expiration du délai de trente jours, la somme due est, de plein droit, productive d'intérêts au taux légal en vigueur.
 
@@ -498,7 +498,7 @@ Le fait pour tout professionnel, directement ou indirectement, de faire supporte
 - Identifiant : LEGIARTI000032226281
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226281
-- Renvoie à : [art. L242-27 du Code de la consommation](chapitre-ii.md#article-l242-27) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L242-27 du Code de la consommation](chapitre-ii.md#article-l242-27) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques déclarées coupables de l'une des infractions punies aux articles L. 242-27 à L. 242-30 encourent également, à titre de peines complémentaires, l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.  
@@ -523,7 +523,7 @@ Les mentions prescrites au deuxième alinéa de l'article L. 224-90 sont prévue
 - Identifiant : LEGIARTI000032226271
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226271
-- Renvoie à : [art. 313-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418191)
+- Renvoie à : [art. 313-1 du Code pénal](../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-313-1)
 
 Le fait, pour un professionnel, sous prétexte d'une présentation de candidats au mariage ou à une union stable, de mettre en présence ou de faire communiquer des personnes dont l'une est rémunérée par lui, ou se trouve placée, directement ou indirectement, sous son autorité, ou n'a pas effectué de demande en vue du mariage ou d'une union stable, est puni des peines prévues aux articles 313-1 à 313-3 du code pénal.  
 Le fait, pour un professionnel, de promettre d'organiser des rencontres en vue de la réalisation d'un mariage ou d'une union stable avec une personne fictive, est puni des mêmes peines.
@@ -571,7 +571,7 @@ Le non-respect des obligations prévues à l'article L. 224-99 est puni d'une am
 - Identifiant : LEGIARTI000032226254
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226254
-- Renvoie à : [art. L242-36 du Code de la consommation](chapitre-ii.md#article-l242-36) ; [art. L242-37 du Code de la consommation](chapitre-ii.md#article-l242-37) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; [art. 131-39 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417335)
+- Renvoie à : [art. L242-36 du Code de la consommation](chapitre-ii.md#article-l242-36) ; [art. L242-37 du Code de la consommation](chapitre-ii.md#article-l242-37) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques déclarées coupables des infractions punies aux articles L. 242-36 et L. 242-37 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.  

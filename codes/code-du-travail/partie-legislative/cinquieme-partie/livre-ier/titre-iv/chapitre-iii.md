@@ -6,7 +6,7 @@ Code du travail › Partie législative › Cinquième partie : L'emploi › Liv
 - Identifiant : LEGIARTI000033012294
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033012294
-- Renvoie à : [art. L710-1 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vii/titre-ier/articles-directs.md#article-l710-1) ; [art. L23-111-1 du Code du travail](../../../deuxieme-partie/livre-iii/titre-xi/chapitre-ier.md#article-l23-111-1) ; [art. 5-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022514056) ; art. L511-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L710-1 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vii/titre-ier/articles-directs.md#article-l710-1) ; [art. L23-111-1 du Code du travail](../../../deuxieme-partie/livre-iii/titre-xi/chapitre-ier.md#article-l23-111-1) ; [art. L511-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1) ; [art. 5-1 du Code de l'artisanat](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022514056)
 
 Tout employeur d'une entreprise de moins de trois cents salariés a le droit d'obtenir une information précise et délivrée dans un délai raisonnable lorsqu'il sollicite l'administration sur une question relative à l'application d'une disposition du droit du travail ou des stipulations des accords et conventions collectives qui lui sont applicables.
 

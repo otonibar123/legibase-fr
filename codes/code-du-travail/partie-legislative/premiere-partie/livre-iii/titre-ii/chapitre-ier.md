@@ -7,7 +7,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901432
 - Renvoie à : [art. L4122-1 du Code du travail](../../../quatrieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l4122-1)
-- Cité par : [art. L1321-5 du Code du travail](chapitre-ier.md#article-l1321-5) ; [art. L1322-1 du Code du travail](chapitre-ii.md#article-l1322-1) ; [art. L1322-1-1 du Code du travail](chapitre-ii.md#article-l1322-1-1) ; [art. L1322-4 du Code du travail](chapitre-ii.md#article-l1322-4) ; [art. R4141-3-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r4141-3-1) ; [art. Annexe 3-12 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052117098) ; [art. D313-30-8 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052117064) ; [DÉCRET n°2014-754 du 1er juillet 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029182443)
+- Cité par : [art. Annexe 3-12 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-3-12) ; [art. D313-30-8 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-d313-30-8) ; [art. L1321-5 du Code du travail](chapitre-ier.md#article-l1321-5) ; [art. L1322-1 du Code du travail](chapitre-ii.md#article-l1322-1) ; [art. L1322-1-1 du Code du travail](chapitre-ii.md#article-l1322-1-1) ; [art. L1322-4 du Code du travail](chapitre-ii.md#article-l1322-4) ; [art. R4141-3-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-r4141-3-1) ; [DÉCRET n°2014-754 du 1er juillet 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029182443)
 
 Le règlement intérieur est un document écrit par lequel l'employeur fixe exclusivement :
 
@@ -83,7 +83,7 @@ Toutefois, lorsque l'urgence le justifie, les obligations relatives à la santé
 - Identifiant : LEGIARTI000006901439
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901439
-- Cité par : [art. L1322-1 du Code du travail](chapitre-ii.md#article-l1322-1) ; [art. L1322-1-1 du Code du travail](chapitre-ii.md#article-l1322-1-1) ; [art. L1322-4 du Code du travail](chapitre-ii.md#article-l1322-4) ; [art. L6221-4-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025558218)
+- Cité par : [art. L6221-4-1 du Code des transports](../../../../../code-des-transports/partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l6221-4-1) ; [art. L1322-1 du Code du travail](chapitre-ii.md#article-l1322-1) ; [art. L1322-1-1 du Code du travail](chapitre-ii.md#article-l1322-1-1) ; [art. L1322-4 du Code du travail](chapitre-ii.md#article-l1322-4)
 
 Le règlement intérieur est rédigé en français. Il peut être accompagné de traductions en une ou plusieurs langues étrangères.
 

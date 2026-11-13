@@ -29,7 +29,7 @@ Le 3° de l'article L. 310-5 est abrogé.
 - Identifiant : LEGIARTI000042330310
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042330310
-- Renvoie à : [art. L322-1 du Code de commerce](../../livre-iii/titre-ii/chapitre-ii.md#article-l322-1) ; art. L221-4 du Code des procédures civiles d'exécution
+- Renvoie à : [art. L322-1 du Code de commerce](../../livre-iii/titre-ii/chapitre-ii.md#article-l322-1) ; [art. L221-4 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-4)
 
 A l'article L. 322-1, les mots : " aux articles L. 221-4 du code des procédures civiles d'exécution et 945 du code de procédure civile " sont remplacés par les mots : " aux dispositions de procédure civile applicables localement et relatives à la vente de meubles dépendant d'une succession ".
 

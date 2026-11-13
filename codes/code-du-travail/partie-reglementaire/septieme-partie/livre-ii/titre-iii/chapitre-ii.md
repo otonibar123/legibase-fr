@@ -83,7 +83,7 @@ Si le dossier de demande d'extension est incomplet, le préfet en informe le dem
 - Identifiant : LEGIARTI000033747464
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747464
-- Renvoie à : [art. L7232-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-1) ; [art. 706-53-7 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577716)
+- Renvoie à : [art. L312-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1) ; [art. L313-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-1) ; [art. L7232-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-1) ; [art. 706-53-7 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006577716)
 - Cité par : [art. R7232-8 du Code du travail](chapitre-ii.md#article-r7232-8) ; [art. R7232-14 du Code du travail](chapitre-ii.md#article-r7232-14)
 
 Le préfet accorde l'agrément lorsque les conditions suivantes sont remplies :
@@ -110,7 +110,7 @@ L'agrément est délivré pour une durée de cinq ans.
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747462
 - Renvoie à : [art. L433-3 du Code de la consommation](../../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-iv/titre-iii/chapitre-iii.md#article-l433-3) ; [art. R7232-6 du Code du travail](chapitre-ii.md#article-r7232-6)
-- Cité par : [art. D133-21 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050740376)
+- Cité par : [art. D133-21 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-3-bis.md#article-d133-21)
 
 La demande de renouvellement est déposée, au plus tard, trois mois avant le terme de la période d'agrément auprès du préfet du département du lieu d'implantation du principal établissement de la personne morale ou de l'entrepreneur individuel.
 
@@ -120,8 +120,8 @@ Chaque organisme agréé et certifié bénéficie d'un renouvellement automatiqu
 - Identifiant : LEGIARTI000033747451
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747451
-- Renvoie à : [art. R7232-7 du Code du travail](chapitre-ii.md#article-r7232-7)
-- Cité par : [art. D133-21 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050740376)
+- Renvoie à : [art. L312-8 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-8) ; [art. L313-1-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-1-2) ; [art. R7232-7 du Code du travail](chapitre-ii.md#article-r7232-7)
+- Cité par : [art. D133-21 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-3-bis.md#article-d133-21)
 
 La personne morale ou l'entrepreneur individuel agréé produit au moins chaque trimestre un état d'activité et chaque année un bilan qualitatif et quantitatif de l'activité exercée au titre de l'année écoulée ainsi qu'un tableau statistique annuel. Ces documents sont adressés par voie électronique au préfet, qui les rend accessibles au ministre chargé de l'économie. A défaut, ils sont adressés sous forme de documents papiers au préfet, qui en assure la transmission au ministre chargé de l'économie. Celui-ci les rend accessibles par voie électronique au ministre chargé de l'emploi, à des fins statistiques.
 
@@ -179,7 +179,7 @@ Il dispose d'un délai de quinze jours au moins pour faire valoir ses observatio
 - Identifiant : LEGIARTI000033747564
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747564
-- Renvoie à : [art. R7232-6 du Code du travail](chapitre-ii.md#article-r7232-6)
+- Renvoie à : [art. L313-1 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-1) ; [art. R7232-6 du Code du travail](chapitre-ii.md#article-r7232-6)
 - Cité par : [art. R7232-11 du Code du travail](chapitre-ii.md#article-r7232-11)
 
 Lorsque l'agrément lui est retiré, la personne morale ou l'entrepreneur individuel en informe sans délai l'ensemble des bénéficiaires de ses prestations de service par lettre individuelle.
@@ -234,8 +234,8 @@ La déclaration comprend :
 - Identifiant : LEGIARTI000033747527
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747527
-- Renvoie à : [art. L241-10 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741928)
-- Cité par : [art. D133-21 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050740376)
+- Renvoie à : [art. L241-10 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-10)
+- Cité par : [art. D133-21 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-3-bis.md#article-d133-21)
 
 Dès réception du dossier de déclaration complet, le préfet du département du lieu d'implantation du principal établissement de la personne morale ou de l'entrepreneur individuel enregistre la déclaration et lui délivre un récépissé. Dans le cas où le dossier est incomplet, le préfet en informe le demandeur et l'invite à produire les pièces ou informations manquantes.
 
@@ -250,7 +250,7 @@ Le bénéfice des exonérations de cotisations de sécurité sociale mentionnée
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747516
 - Renvoie à : [art. L7231-1 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l7231-1) ; [art. L7231-2 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l7231-2) ; [art. L7232-1-2 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-1-2)
-- Cité par : [art. R7232-20 du Code du travail](chapitre-ii.md#article-r7232-20) ; [art. R7232-22 du Code du travail](chapitre-ii.md#article-r7232-22) ; [art. D133-21 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050740376) ; [Décret n°2024-851 du 25 juillet 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050057194)
+- Cité par : [art. D133-21 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-3-bis.md#article-d133-21) ; [art. R7232-20 du Code du travail](chapitre-ii.md#article-r7232-20) ; [art. R7232-22 du Code du travail](chapitre-ii.md#article-r7232-22) ; [Décret n°2024-851 du 25 juillet 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050057194)
 
 La personne morale ou l'entrepreneur individuel qui a effectué une déclaration produit au moins chaque trimestre un état d'activité et chaque année un bilan qualitatif et quantitatif de l'activité exercée au titre de l'année écoulée ainsi qu'un tableau statistique annuel. Ces documents sont adressés par voie électronique au préfet, qui les rend accessibles au ministre chargé de l'économie. A défaut, ils sont adressés sous forme de documents papiers au préfet, qui en assure la transmission au ministre chargé de l'économie. Celui-ci les rend accessibles par voie électronique au ministre chargé de l'emploi, à des fins statistiques.
 
@@ -262,7 +262,7 @@ La personne morale ou l'entrepreneur individuel qui a effectué une déclaration
 - Identifiant : LEGIARTI000033747511
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747511
-- Renvoie à : [art. R7232-17 du Code du travail](chapitre-ii.md#article-r7232-17) ; [art. R7232-19 du Code du travail](chapitre-ii.md#article-r7232-19) ; [art. L241-10 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741928) ; [art. L7233-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904703)
+- Renvoie à : [art. L241-10 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-10) ; [art. R7232-17 du Code du travail](chapitre-ii.md#article-r7232-17) ; [art. R7232-19 du Code du travail](chapitre-ii.md#article-r7232-19) ; [art. L7233-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904703)
 - Cité par : [art. R7524-2 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r7524-2) ; [Décret n°2024-851 du 25 juillet 2024, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050057200)
 
 La personne morale ou l'entrepreneur individuel qui cesse de remplir les conditions ou de respecter les obligations mentionnées aux 4°, 5° et 6° de l'article R. 7232-17 ou qui méconnaît de façon répétée, après mise en demeure par le préfet restée sans effet, les obligations définies à l'article R. 7232-19 perd le bénéfice des dispositions de l'article L. 7233-2 et des dispositions de l'article L. 241-10 du code de la sécurité sociale.
@@ -279,7 +279,7 @@ Le préfet en informe le directeur des services fiscaux et l'organisme chargé d
 - Identifiant : LEGIARTI000033747551
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747551
-- Renvoie à : [art. L241-10 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741928) ; [art. L7233-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904703)
+- Renvoie à : [art. L241-10 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-10) ; [art. L7233-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904703)
 - Cité par : [art. R7232-22 du Code du travail](chapitre-ii.md#article-r7232-22) ; [Décret n°2024-851 du 25 juillet 2024, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050057200)
 
 La décision de retrait de l'enregistrement et du bénéfice des dispositions des articles L. 7233-2 du code du travail et de l'article L. 241-10 du code de la sécurité sociale prend effet immédiatement. La personne morale ou l'entrepreneur individuel en informe sans délai l'ensemble des bénéficiaires de ses prestations de services par lettre individuelle.
@@ -290,7 +290,7 @@ A défaut de justification de l'accomplissement de cette obligation, et après m
 - Identifiant : LEGIARTI000033747535
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033747535
-- Renvoie à : [art. L7232-8 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-8) ; [art. R7232-19 du Code du travail](chapitre-ii.md#article-r7232-19) ; [art. R7232-21 du Code du travail](chapitre-ii.md#article-r7232-21) ; [art. L241-10 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741928) ; [art. L7233-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904703)
+- Renvoie à : [art. L241-10 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-10) ; [art. L7232-8 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-8) ; [art. R7232-19 du Code du travail](chapitre-ii.md#article-r7232-19) ; [art. R7232-21 du Code du travail](chapitre-ii.md#article-r7232-21) ; [art. L7233-2 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904703)
 - Cité par : [art. R7524-2 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r7524-2)
 
 Dans le cas prévu au premier alinéa de l'article L. 7232-8, la personne morale ou l'entrepreneur individuel qui a fait l'objet d'une décision de retrait du bénéfice des articles L. 7233-2 du code du travail et de l'article L. 241-10 du code de la sécurité sociale ne peut, en application du deuxième alinéa de l'article L. 7232-8, faire une nouvelle déclaration qu'après un délai d'un an à compter de la date de la notification de la décision de retrait de l'enregistrement de la déclaration.

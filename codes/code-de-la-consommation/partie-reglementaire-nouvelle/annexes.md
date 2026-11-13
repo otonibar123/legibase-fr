@@ -6,7 +6,7 @@ Code de la consommation › Partie réglementaire nouvelle
 - Identifiant : LEGIARTI000045981314
 - État : en vigueur depuis le 01/10/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045981314
-- Renvoie à : [art. 1641 du Code civil](../../code-civil/livre-iii/titre-vi/chapitre-iv.md#article-1641) ; [art. L217-1 du Code de la consommation](../partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md#article-l217-1) ; [art. L241-5 du Code de la consommation](../partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ier.md#article-l241-5)
+- Renvoie à : [art. 1641 du Code civil](../../code-civil/livre-iii/titre-vi/chapitre-iv.md#article-1641) ; [art. L217-1 du Code de la consommation](../partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-vii.md#article-l217-1) ; [art. L241-5 du Code de la consommation](../partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ier.md#article-l241-5) ; [art. L213-1 du Code rural (nouveau)](../../code-rural-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-1)
 
 A.-Encadré inséré dans les conditions générales de vente de biens (hors animaux domestiques)
 

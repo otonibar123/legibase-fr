@@ -29,7 +29,7 @@ Il est fait mention, pour chaque entreprise liée, de l'adresse de son siège so
 - Identifiant : LEGIARTI000047146393
 - État : en vigueur depuis le 17/02/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047146393
-- Renvoie à : [art. D2231-4 du Code du travail](../../../deuxieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-d2231-4) ; [art. L3313-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-l3313-3) ; art. L225-1 du Code de la sécurité sociale
+- Renvoie à : [art. L225-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-ii/chapitre-5.md#article-l225-1) ; [art. D2231-4 du Code du travail](../../../deuxieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-d2231-4) ; [art. L3313-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-l3313-3)
 
 Lorsque l'accord a été entièrement et exclusivement rédigé au moyen d'un site internet géré par l'organisme mentionné à l'article L. 225-1 du code de la sécurité sociale suivant une procédure de nature à garantir les conditions prévues au dernier alinéa de l'article L. 3313-3 du présent code, un code d'identification de l'accord est délivré à la fin de cette procédure et au moment de son téléchargement permettant l'authentification de l'accord.  
 
@@ -133,7 +133,7 @@ Lorsque l'accord d'intéressement a été mis en place après que des salariés 
 - Identifiant : LEGIARTI000031588573
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031588573
-- Renvoie à : [art. 2262 du Code civil](../../../../../code-civil/livre-iii/titre-xxi/chapitre-ii.md#article-2262) ; [art. L3314-9 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l3314-9) ; art. L312-20 du Code monétaire et financier
+- Renvoie à : [art. 2262 du Code civil](../../../../../code-civil/livre-iii/titre-xxi/chapitre-ii.md#article-2262) ; [art. L135-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-5-bis.md#article-l135-7) ; [art. L3314-9 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l3314-9) ; [art. L312-20 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-20)
 - Cité par : [art. D3313-8 du Code du travail](chapitre-iii.md#article-d3313-8)
 
 Lorsque le bénéficiaire ne peut être atteint à la dernière adresse indiquée par lui, les sommes auxquelles il peut prétendre sont tenues à sa disposition par l'entreprise pendant une durée d'un an à compter de la date limite de versement de l'intéressement prévue à l'article L. 3314-9.

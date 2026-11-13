@@ -1,0 +1,249 @@
+# Chapitre Ier : Entreprises de transport fluvial de marchandises
+
+Code des transports › PARTIE RÉGLEMENTAIRE › QUATRIÈME PARTIE : NAVIGATION INTÉRIEURE ET TRANSPORT FLUVIAL › LIVRE IV : LE TRANSPORT FLUVIAL › TITRE II : ENTREPRISES DE TRANSPORT FLUVIAL
+
+## Section 1 : Dispositions générales
+
+### Article R*4421-1
+- Identifiant : LEGIARTI000050985867
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985867
+- Renvoie à : [art. R4421-5 du Code des transports](chapitre-ier.md#article-r4421-5) ; [art. R4421-9 du Code des transports](chapitre-ier.md#article-r4421-9)
+- Cité par : [art. R211-2 du Code de l'artisanat](../../../../../code-de-l-artisanat/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-2)
+
+Le préfet de la région Hauts-de-France est l'autorité compétente pour :
+
+1° Délivrer et retirer l'attestation de capacité professionnelle nécessaire pour exercer la profession de transporteur fluvial ;
+
+2° Autoriser la poursuite d'une exploitation dans le cas prévu au troisième alinéa de l'article R. 4421-5 ;
+
+3° Prononcer la perte de l'honorabilité professionnelle à l'encontre des personnes mentionnées à l'article R. 4421-9 et la perte de la capacité financière.
+
+### Article R4421-2
+- Identifiant : LEGIARTI000050985861
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985861
+- Cité par : [art. R4421-3 du Code des transports](chapitre-ier.md#article-r4421-3)
+
+Pour l'application du présent chapitre, est regardée comme exerçant la profession de transporteur fluvial de marchandises toute personne physique ou toute entreprise dont l'activité, même si elle n'est exercée qu'à titre occasionnel, consiste à effectuer au moyen d'un bateau un transport de marchandises pour le compte d'autrui. Est considérée comme une telle entreprise tout groupement ou coopérative de bateliers, même n'ayant pas la personnalité morale, ayant pour objet de passer des contrats avec des chargeurs en vue d'en répartir l'exécution entre ses adhérents ou ses membres.
+
+## Section 2 : Capacité professionnelle
+
+### Article R4421-3
+- Identifiant : LEGIARTI000050985907
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985907
+- Renvoie à : [art. R4421-2 du Code des transports](chapitre-ier.md#article-r4421-2)
+- Cité par : [art. R123-96-1 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-96-1) ; [art. R123-126-1 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-126-1) ; [art. R123-279 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-279) ; [art. R4421-5 du Code des transports](chapitre-ier.md#article-r4421-5) ; [art. R4421-7 du Code des transports](chapitre-ier.md#article-r4421-7)
+
+Les personnes physiques qui demandent à exercer la profession de transporteur fluvial de marchandises doivent satisfaire aux conditions de capacité professionnelle même si elles adhèrent à un groupement ou sont membres d'une coopérative de bateliers.
+
+En ce qui concerne les entreprises mentionnées à l'article R. 4421-2, la condition de capacité professionnelle susmentionnée doit être remplie par la personne qui, dans l'entreprise, dirige effectivement et en permanence l'activité de transport, pour compte de tiers ou, si cette direction est exercée par plusieurs personnes, par une d'entre elles au moins.
+
+Les dispositions du présent chapitre sont applicables à toute personne physique ou morale qui exerce son activité de transport pendant une durée déterminée comme sous-traitant d'une autre entreprise de transport fluvial. Elles ne le sont pas aux exploitants de bacs ou de bateaux dont le port en lourd à l'enfoncement maximum est inférieur ou égal à 200 tonnes.
+
+### Article R4421-4
+- Identifiant : LEGIARTI000050985900
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985900
+- Cité par : [art. R123-279 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-279) ; [art. R4421-7 du Code des transports](chapitre-ier.md#article-r4421-7) ; [art. R4421-8 du Code des transports](chapitre-ier.md#article-r4421-8) ; [Arrêté du 28 juillet 1992, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053437865) ; [Arrêté du 28 juillet 1992, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053437888)
+
+La condition de capacité professionnelle prévue au présent chapitre fait l'objet d'une attestation délivrée :
+
+1° Soit aux personnes titulaires d'un diplôme de l'enseignement supérieur sanctionnant une formation qui permette d'assurer la direction d'une entreprise de transport ou d'un diplôme d'enseignement technique sanctionnant une formation qui prépare aux activités de transport ;
+
+2° Soit aux personnes qui ont exercé pendant au moins trois années consécutives des fonctions de direction ou d'encadrement dans une entreprise de transport fluvial de marchandises ou dans une autre entreprise, si l'activité qu'elles y ont exercée relève du domaine des transports ;
+
+3° Soit aux personnes qui ont satisfait aux épreuves d'un examen permettant d'apprécier leurs aptitudes professionnelles.
+
+Sont définies par arrêté du ministre chargé des transports les modalités d'application du présent article, notamment la liste des diplômes mentionnés au 1°, l'appréciation de l'expérience professionnelle prise en compte au 2° et les modalités de l'examen permettant d'apprécier les aptitudes professionnelles mentionnées au 3°.
+
+### Article R4421-5
+- Identifiant : LEGIARTI000050985891
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985891
+- Renvoie à : [art. R4421-3 du Code des transports](chapitre-ier.md#article-r4421-3)
+- Cité par : [art. R123-280 du Code de commerce](../../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-280) ; [art. R*4421-1 du Code des transports](chapitre-ier.md#article-r4421-1)
+
+Par dérogation à l'article R. 4421-3, l'exploitation peut être poursuivie à titre provisoire pendant une période maximum d'un an, prorogeable de six mois au plus, en cas de décès ou d'incapacité physique ou légale de la personne physique exerçant l'activité de transporteur.
+
+En cas de départ du titulaire de l'attestation de capacité, l'entreprise peut continuer d'exercer son activité jusqu'au recrutement d'un remplaçant dans un délai n'excédant pas six mois.
+
+La poursuite, à titre définitif, de l'exploitation, par une personne ayant une expérience pratique d'au moins trois ans dans la gestion de cette exploitation, peut toutefois être autorisée à titre exceptionnel et en vue de répondre à de graves difficultés familiales ou sociales.
+
+### Article R4421-6
+- Identifiant : LEGIARTI000050985885
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985885
+
+Toute décision de rejet d'une demande d'attestation de capacité de transporteur fluvial de marchandises est motivée. Elle est notifiée à l'intéressé avec l'indication des voies et des délais de recours ouverts par les lois et règlements.
+
+### Article R4421-7
+- Identifiant : LEGIARTI000050985916
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985916
+- Renvoie à : [art. R4421-3 du Code des transports](chapitre-ier.md#article-r4421-3) ; [art. R4421-4 du Code des transports](chapitre-ier.md#article-r4421-4) ; [art. R4421-9 du Code des transports](chapitre-ier.md#article-r4421-9)
+
+Lorsqu'il n'est plus satisfait aux conditions énoncées aux articles R. 4421-3, R. 4421-4 et R. 4421-9, l'autorisation d'exercer la profession de transporteur fluvial de marchandises est retirée par une décision motivée, prise après que l'intéressé a été mis en mesure de présenter ses observations.
+
+### Article R4421-8
+- Identifiant : LEGIARTI000050985877
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050985877
+- Renvoie à : [art. R4421-4 du Code des transports](chapitre-ier.md#article-r4421-4)
+
+Sont reconnues comme preuve satisfaisante de la capacité professionnelle des intéressés les attestations délivrées par les autorités des autres Etats membres dès lors qu'elles ont un objet conforme à celui de l'article R. 4421-4.
+
+## Section 3 : Honorabilité professionnelle
+
+### Article R4421-9
+- Identifiant : LEGIARTI000050982734
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982734
+- Cité par : [art. R4421-7 du Code des transports](chapitre-ier.md#article-r4421-7) ; [art. R4421-11 du Code des transports](chapitre-ier.md#article-r4421-11) ; [art. R4421-12 du Code des transports](chapitre-ier.md#article-r4421-12) ; [art. R4421-13 du Code des transports](chapitre-ier.md#article-r4421-13) ; [art. R*4421-1 du Code des transports](chapitre-ier.md#article-r4421-1)
+
+Il doit être satisfait à l'exigence d'honorabilité professionnelle par chacune des personnes suivantes :
+
+1° L'entreprise, personne morale ;
+
+2° Les personnes physiques suivantes :
+
+a) Le commerçant, chef d'entreprise individuelle ;
+
+b) Les associés et les gérants des sociétés en nom collectif ;
+
+c) Les gérants des sociétés à responsabilité limitée ;
+
+d) Les associés commandités et les gérants des sociétés en commandite ;
+
+e) Le président du conseil d'administration, les membres du directoire et les directeurs généraux des sociétés anonymes ;
+
+f) Le président et les dirigeants des sociétés par actions simplifiées.
+
+### Article R4421-10
+- Identifiant : LEGIARTI000050982736
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982736
+- Renvoie à : [art. R4421-12 du Code des transports](chapitre-ier.md#article-r4421-12) ; [art. R4422-9 du Code des transports](chapitre-ii.md#article-r4422-9)
+
+Les personnes physiques mentionnées à l'article R. 4422-9 qui souhaitent créer une activité de transport fluvial de marchandises, diriger une entreprise de transport fluvial de marchandises ne satisfont pas à l'exigence d'honorabilité professionnelle lorsqu'elles ont fait l'objet d'une ou plusieurs des condamnations mentionnées à l'article R. 4421-12.
+
+### Article R4421-11
+- Identifiant : LEGIARTI000050982738
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982738
+- Renvoie à : [art. R4421-9 du Code des transports](chapitre-ier.md#article-r4421-9) ; [art. R4421-12 du Code des transports](chapitre-ier.md#article-r4421-12)
+- Cité par : [art. R4421-15 du Code des transports](chapitre-ier.md#article-r4421-15)
+
+Toute personne physique mentionnée à l'article R. 4421-9 ne satisfait plus à l'exigence d'honorabilité au regard de l'exercice de la profession lorsque, ayant fait l'objet de condamnations prononcées à son encontre pour des infractions mentionnées à l'article R. 4421-12 le préfet de la région Hauts-de-France a, par une décision motivée, prononcé la perte de l'honorabilité.
+
+### Article R4421-12
+- Identifiant : LEGIARTI000050982740
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982740
+- Renvoie à : [art. L541-46 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-46) ; [art. L1252-5 du Code des transports](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ii.md#article-l1252-5) ; [art. L4142-1 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-l4142-1) ; [art. L4143-1 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-l4143-1) ; [art. L4271-3 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-ii/titre-vii/chapitre-ier.md#article-l4271-3) ; [art. L4274-1 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-ii/titre-vii/chapitre-iv.md#article-l4274-1) ; [art. L4274-11 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-ii/titre-vii/chapitre-iv.md#article-l4274-11) ; [art. L4274-18 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-ii/titre-vii/chapitre-iv.md#article-l4274-18) ; [art. L4462-1 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-iv/titre-vi/chapitre-ii.md#article-l4462-1) ; [art. L4463-2 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-iv/titre-vi/chapitre-iii.md#article-l4463-2) ; [art. L4472-9 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-iv/titre-vii/chapitre-ii.md#article-l4472-9) ; [art. R1333-1 du Code des transports](../../../premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-r1333-1) ; [art. R4274-19 du Code des transports](../../livre-ii/titre-vii/chapitre-iv.md#article-r4274-19) ; [art. R4274-40 du Code des transports](../../livre-ii/titre-vii/chapitre-iv.md#article-r4274-40) ; [art. R4421-9 du Code des transports](chapitre-ier.md#article-r4421-9) ; [art. R4512-1 du Code des transports](../../livre-v/titre-ier/chapitre-ii.md#article-r4512-1) ; [art. L1155-2 du Code du travail](../../../../../code-du-travail/partie-legislative/premiere-partie/livre-ier/titre-v/chapitre-v.md#article-l1155-2) ; [art. L8114-1 du Code du travail](../../../../../code-du-travail/partie-legislative/huitieme-partie/livre-ier/titre-ier/chapitre-iv.md#article-l8114-1) ; [art. L8234-1 du Code du travail](../../../../../code-du-travail/partie-legislative/huitieme-partie/livre-ii/titre-iii/chapitre-iv.md#article-l8234-1) ; [art. L8234-2 du Code du travail](../../../../../code-du-travail/partie-legislative/huitieme-partie/livre-ii/titre-iii/chapitre-iv.md#article-l8234-2) ; [art. L8243-1 du Code du travail](../../../../../code-du-travail/partie-legislative/huitieme-partie/livre-ii/titre-iv/chapitre-iii.md#article-l8243-1) ; [art. L8243-2 du Code du travail](../../../../../code-du-travail/partie-legislative/huitieme-partie/livre-ii/titre-iv/chapitre-iii.md#article-l8243-2) ; [art. R8114-2 du Code du travail](../../../../../code-du-travail/partie-reglementaire/huitieme-partie/livre-ier/titre-ier/chapitre-iv.md#article-r8114-2) ; [art. 222-32 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-222-32) ; [art. 222-33 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-222-33) ; [art. 222-33-2 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-222-33-2) ; [art. 223-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-iii.md#article-223-1) ; [art. 227-28-3 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vii.md#article-227-28-3) ; [art. 314-7 du Code pénal](../../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-314-7) ; [art. 521-1 du Code pénal](../../../../../code-penal/partie-legislative/livre-v/titre-ii/chapitre-ier.md#article-521-1) ; art. 1741 du Code général des impôts
+- Cité par : [art. R4421-10 du Code des transports](chapitre-ier.md#article-r4421-10) ; [art. R4421-11 du Code des transports](chapitre-ier.md#article-r4421-11) ; [art. R4421-14 du Code des transports](chapitre-ier.md#article-r4421-14)
+
+Les personnes mentionnées à l'article R. 4421-9 peuvent perdre l'honorabilité professionnelle lorsqu'elles ont fait l'objet :
+
+1° Soit d'une ou plusieurs condamnations mentionnées au bulletin n° 2 du casier judiciaire prononçant une interdiction d'exercer une profession commerciale ou industrielle ;
+
+2° Soit d'une ou plusieurs condamnations mentionnées au bulletin n° 2 du casier judiciaire pour l'une des infractions suivantes :
+
+a) Infractions mentionnées aux articles L. 1252-5 à L. 1252-7, L. 4142-1 à L. 4142-3, L. 4143-1, L. 4271-3 à L. 4271-5, L. 4274-1 à L. 4274-8, L. 4274-11 à L. 4274-15, L. 4274-18, L. 4274-19, L. 4462-1 à L. 4462-7, L. 4463-2 à L. 4463-7, L. 4472-9 du présent code ;
+
+b) Infractions mentionnées aux articles 222-23 à 222-31,222-32,222-33,222-33-2,222-34 à 222-42,223-1,225-4-1 à 225-4-7,227-22 à 227-27,227-28-3,314-1 à 314-4,314-7,321-6 à 321-12,521-1 du code pénal ;
+
+c) Infractions mentionnées aux articles L. 654-1 à L. 654-15 du code de commerce ;
+
+d) Infractions mentionnées aux articles L. 1155-2, L. 8114-1, L. 8224-1 à L. 8224-6, L. 8234-1 et L. 8234-2, L. 8243-1 et L. 8243-2, L. 8256-1 à L. 8256-8 du code du travail ;
+
+e) Infraction mentionnée au 5° du I de l'article L. 541-46 du code de l'environnement ;
+
+f) Infractions mentionnées à l'article 1741 du code général des impôts ;
+
+3° Soit d'aux moins deux amendes pour les contraventions mentionnées :
+
+a) Aux articles R. 1333-1 à R. 1333-3, R. 4274-19 à R. 4274-21, R. 4274-40, R. 4512-1 à R. 4512-8 du présent code ;
+
+b) A l'article R. 8114-2 du code du travail.
+
+### Article R4421-13
+- Identifiant : LEGIARTI000050982742
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982742
+- Renvoie à : [art. R4421-9 du Code des transports](chapitre-ier.md#article-r4421-9)
+
+Les personnes physiques mentionnées à l'article R. 4421-9 qui ne résident pas en France ou qui résident en France depuis moins de cinq ans apportent la preuve qu'elles satisfont dans leur Etat de résidence habituelle, ou dans l'Etat de la résidence habituelle précédente, aux conditions d'honorabilité. Les documents permettant d'apporter la preuve sont ceux prévus à l'article 8 de la directive 87/540/ CEE du Conseil du 9 novembre 1987 relative à l'accès à la profession de transporteur de marchandises par voie navigable dans le domaine des transports nationaux et visant à la reconnaissance mutuelle des diplômes, certificats et autres titres concernant cette profession.
+
+### Article R4421-14
+- Identifiant : LEGIARTI000050982744
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982744
+- Renvoie à : [art. R4421-12 du Code des transports](chapitre-ier.md#article-r4421-12) ; [art. R4421-15 du Code des transports](chapitre-ier.md#article-r4421-15)
+
+Lorsque le préfet de la région Hauts-de-France est informé d'une ou plusieurs condamnations ou amendes prononcées dans un ou plusieurs Etats membres de l'Union européenne ou de la Commission centrale de navigation du Rhin, autres que la France, à l'encontre d'une entreprise de transport en raison d'une ou plusieurs infractions mentionnées à l'article R. 4421-12, il engage la procédure administrative prévue à l'article R. 4421-15.
+
+### Article R4421-15
+- Identifiant : LEGIARTI000050982746
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982746
+- Renvoie à : [art. R4421-11 du Code des transports](chapitre-ier.md#article-r4421-11) ; [art. R4422-4 du Code des transports](chapitre-ii.md#article-r4422-4)
+- Cité par : [art. R4421-14 du Code des transports](chapitre-ier.md#article-r4421-14)
+
+Pour l'application des articles R. 4421-11 à R. 4421-14, le préfet de la région Hauts-de-France apprécie le caractère proportionné ou non de la perte de l'honorabilité en fonction de l'incidence sur l'exercice de la profession.
+
+Le préfet de la région Hauts-de-France avise la personne concernée des motifs de retrait de l'attestation de capacité professionnelle, de la sanction qu'elle encourt et lui notifie les raisons susceptibles de remettre en cause l'appréciation de son honorabilité. Il permet à la personne concernée de présenter ses observations écrites ou orales dans un délai de quinze jours. Celle-ci a accès au dossier et peut se faire assister par un conseil ou représenter par un mandataire de son choix.
+
+Au terme de cette procédure, le préfet de la région Hauts-de-France peut prononcer la perte de l'honorabilité professionnelle, après avis du ministre chargé des transports.
+
+Cette décision fixe la durée de la perte de l'honorabilité professionnelle, qui ne peut être inférieure à une année à compter de la date de la décision du préfet de la région Hauts-de-France, ni excéder trois années.
+
+A l'expiration de la durée de la perte d'honorabilité décidée par le préfet de la région Hauts-de-France, la personne concernée, si elle souhaite solliciter à nouveau la délivrance d'une attestation de capacité professionnelle, est tenue au préalable de se soumettre aux épreuves de l'examen permettant d'apprécier ses aptitudes professionnelles, prévu au 3° de l'article R. 4422-4.
+
+## Section 4 : Capacité financière
+
+### Article R4421-16
+- Identifiant : LEGIARTI000050982750
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982750
+- Renvoie à : [art. L4421-1 du Code des transports](../../../../partie-legislative/quatrieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l4421-1)
+- Cité par : [art. R4421-17 du Code des transports](chapitre-ier.md#article-r4421-17) ; [art. R4421-18 du Code des transports](chapitre-ier.md#article-r4421-18)
+
+Il est satisfait à l'exigence de capacité financière mentionnée à l'article L. 4421-1 lorsque l'entreprise démontre, conformément à l'article R. 4421-18, qu'elle dispose du titre de propriété d'au moins un bateau exploité ou de capitaux et de réserves d'un montant au moins égal à un mois de ses charges d'exploitation.
+
+### Article R4421-17
+- Identifiant : LEGIARTI000050982752
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982752
+- Renvoie à : [art. R4421-16 du Code des transports](chapitre-ier.md#article-r4421-16)
+
+A défaut de capitaux et de réserves suffisants, l'entreprise peut présenter des garanties accordées par un ou plusieurs organismes financiers se portant caution de l'entreprise pour les montants fixés à l'article R. 4421-16. Ces garanties ne peuvent toutefois excéder la moitié de la capacité financière exigible.
+
+La garantie est mise en œuvre par le liquidateur désigné en cas de liquidation judiciaire au bénéfice de tous les créanciers à proportion de leur créance.
+
+### Article R4421-18
+- Identifiant : LEGIARTI000050982754
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982754
+- Renvoie à : [art. R4421-16 du Code des transports](chapitre-ier.md#article-r4421-16)
+- Cité par : [art. R4421-20 du Code des transports](chapitre-ier.md#article-r4421-20)
+
+Pour attester de sa capacité financière, l'entreprise transmet, lors de sa demande initiale d'autorisation d'exercer la profession de transporteur fluvial de marchandises ou à la demande du préfet des Hauts-de-France, tout document comptable, statutaire ou établi par des agents financiers ou organismes d'assurance agréés par l'Autorité de contrôle prudentiel et de résolution justifiant qu'elle dispose de capitaux et de réserves à hauteur de la capacité financière exigible ou du titre de propriété d'au moins un bateau exploité.
+
+Pour l'année de l'inscription de l'entreprise au registre national des entreprises, en l'absence de comptes annuels certifiés, visés ou attestés par un expert-comptable, un commissaire aux comptes, un centre de gestion agréé ou une association de gestion et de comptabilité, le préfet de la région Hauts-de-France accepte tout document établi par des agents financiers ou organismes d'assurance agréés par l'Autorité de contrôle prudentiel et de résolution attestant que l'entreprise dispose des montants fixés à l'article R. 4421-16.
+
+### Article R4421-19
+- Identifiant : LEGIARTI000050982756
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982756
+
+Afin d'apprécier la capacité financière de l'entreprise, le préfet de la région Hauts-de-France peut demander à celle-ci de lui communiquer ses comptes annuels certifiés, visés ou attestés par un expert-comptable, un commissaire aux comptes, un centre de gestion agréé ou une association de gestion et de comptabilité. L'entreprise se conforme à cette demande dans un délai n'excédant pas deux mois.
+
+### Article R4421-20
+- Identifiant : LEGIARTI000050982758
+- État : en vigueur depuis le 17/01/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050982758
+- Renvoie à : [art. R4421-18 du Code des transports](chapitre-ier.md#article-r4421-18)
+
+A défaut de transmission des documents prévus à l'article R. 4421-18, et après une mise en demeure restée sans effet pendant trois mois suivant sa réception, le préfet de la région Hauts-de-France peut prononcer la suspension de l'autorisation d'exercer la profession de transporteur fluvial de marchandises.

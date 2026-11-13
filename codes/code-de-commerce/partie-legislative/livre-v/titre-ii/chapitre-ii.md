@@ -93,7 +93,7 @@ Les décrets ou arrêtés agréant les établissements comme magasins généraux
 - État : en vigueur depuis le 19/05/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024026862
 - Renvoie à : [art. L522-5 du Code de commerce](chapitre-ii.md#article-l522-5) ; [art. L522-6 du Code de commerce](chapitre-ii.md#article-l522-6) ; [art. L522-12 du Code de commerce](chapitre-ii.md#article-l522-12)
-- Cité par : [art. L522-7 du Code de commerce](chapitre-ii.md#article-l522-7) ; [art. R522-6 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-6) ; [art. D313-26 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033655931)
+- Cité par : [art. L522-7 du Code de commerce](chapitre-ii.md#article-l522-7) ; [art. R522-6 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-6) ; [art. D313-26 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-d313-26)
 
 I. - Les entreprises ne répondant pas aux conditions fixées aux articles L. 522-5 et L. 522-6 peuvent cependant solliciter l'agrément comme magasins généraux des entrepôts qu'elles exploitent ou projettent d'exploiter et obtenir, cet agrément s'il est reconnu que les intérêts du commerce l'exigent.
 
@@ -200,7 +200,7 @@ Les exploitants de magasins généraux peuvent prêter sur nantissement des marc
 - Identifiant : LEGIARTI000006233977
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233977
-- Renvoie à : [art. 226-13 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417944)
+- Renvoie à : [art. 226-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-226-13)
 
 Les présidents, gérants, directeurs et le personnel des exploitations de magasins généraux sont, sous les peines prévues à l'article 226-13 du code pénal, tenus au secret professionnel pour tout ce qui regarde les marchandises entreposées.
 
@@ -370,8 +370,8 @@ En cas de perte du warrant, la caution est libérée à l'expiration d'un délai
 - Identifiant : LEGIARTI000038509282
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038509282
-- Renvoie à : [art. L421-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006652335) ; [art. L424-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006652490) ; [art. L425-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006652744)
-- Cité par : [art. L522-15 du Code de commerce](chapitre-ii.md#article-l522-15) ; [art. L522-37-2 du Code de commerce](chapitre-ii.md#article-l522-37-2) ; [art. R522-24-1 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-1) ; [art. R522-24-2 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-2) ; [art. R522-24-3 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-3) ; [art. R522-24-7 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-7) ; [Arrêté du 20 avril 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000041839185) ; [art. L211-36 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038611642) ; [Décret n°2019-1287 du 3 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039451933) ; [LOI n°2024-537 du 13 juin 2024, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049708697)
+- Renvoie à : [art. L421-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ii/chapitre-ier.md#article-l421-1) ; [art. L424-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ii/chapitre-iv.md#article-l424-1) ; [art. L425-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ii/chapitre-v.md#article-l425-1)
+- Cité par : [art. L522-15 du Code de commerce](chapitre-ii.md#article-l522-15) ; [art. L522-37-2 du Code de commerce](chapitre-ii.md#article-l522-37-2) ; [art. R522-24-1 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-1) ; [art. R522-24-2 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-2) ; [art. R522-24-3 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-3) ; [art. R522-24-7 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-7) ; [art. L211-36 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-36) ; [Arrêté du 20 avril 2020](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000041839185) ; [Décret n°2019-1287 du 3 décembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039451933) ; [LOI n°2024-537 du 13 juin 2024, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049708697)
 
 Un reçu d'entreposage ne peut être délivré qu'en représentation de matières premières inscrites sur une liste établie par arrêté du ministre chargé de l'économie et qui peuvent faire l'objet d'un contrat négocié sur une plateforme de négociation d'instruments financiers.  
 
@@ -389,7 +389,7 @@ Le gestionnaire de la plateforme est responsable de l'exactitude des information
 - Identifiant : LEGIARTI000038509284
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038509284
-- Renvoie à : [art. L522-37-1 du Code de commerce](chapitre-ii.md#article-l522-37-1) ; [art. L621-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006584493) ; [art. L666-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022190369) ; art. L666-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L522-37-1 du Code de commerce](chapitre-ii.md#article-l522-37-1) ; [art. L621-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-ii/chapitre-ier.md#article-l621-1) ; [art. L666-2 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-vi/chapitre-vi.md#article-l666-2)
 - Cité par : [art. L522-37-4 du Code de commerce](chapitre-ii.md#article-l522-37-4) ; [art. R522-24-1 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-24-1)
 
 Le reçu d'entreposage prend la forme d'une inscription dans un registre tenu par le gestionnaire de la plateforme mentionnée au premier alinéa de l'article L. 522-37-1 et sous sa responsabilité. Cette inscription précise les nom, profession et domicile du titulaire du reçu ainsi que la nature des marchandises déposées et les indications propres à en établir l'identité et à en déterminer la valeur de remplacement.  

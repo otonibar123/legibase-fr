@@ -6,8 +6,8 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - Identifiant : LEGIARTI000038525812
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038525812
-- Renvoie à : [art. L233-3 du Code de commerce](chapitre-iii.md#article-l233-3)
-- Cité par : [art. L23-11-2 du Code de commerce](chapitre-xi.md#article-l23-11-2) ; [art. L23-11-3 du Code de commerce](chapitre-xi.md#article-l23-11-3) ; [art. 39 duodecies du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203546) ; [art. 150-0 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053543761) ; [art. 797 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038613428)
+- Renvoie à : [art. L233-3 du Code de commerce](chapitre-iii.md#article-l233-3) ; [art. 150-0 B ter du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-150-0-b-ter)
+- Cité par : [art. L23-11-2 du Code de commerce](chapitre-xi.md#article-l23-11-2) ; [art. L23-11-3 du Code de commerce](chapitre-xi.md#article-l23-11-3) ; [art. 39 duodecies du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-39-duodecies) ; [art. 150-0 A du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-150-0-a) ; [art. 797 A du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-797-a)
 
 Tout détenteur de titres d'une société peut prendre, vis-à-vis de l'ensemble des salariés de celle-ci, l'engagement de partager avec eux une partie de la plus-value de cession ou de rachat de ses titres au jour où il en cédera ou rachètera tout ou partie.  
 
@@ -23,7 +23,7 @@ Lorsque la société concernée contrôle, au sens de l'article L. 233-3 du pré
 - Identifiant : LEGIARTI000038525814
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038525814
-- Renvoie à : [art. L23-11-1 du Code de commerce](chapitre-xi.md#article-l23-11-1)
+- Renvoie à : [art. L23-11-1 du Code de commerce](chapitre-xi.md#article-l23-11-1) ; [art. 150-0 D du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-150-0-d)
 - Cité par : [art. L23-11-3 du Code de commerce](chapitre-xi.md#article-l23-11-3) ; [art. D3332-8-2 du Code du travail](../../../../code-du-travail/partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-d3332-8-2) ; [LOI n° 2019-1479 du 28 décembre 2019, art. 109](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039793273)
 
 L'engagement de partage défini à l'article L. 23-11-1 est constaté dans un contrat conclu entre tout détenteur de titres et la société concernée qui s'engage à transférer aux salariés concernés le montant résultant de l'engagement de partage, dont elle déduira les charges fiscales et sociales que ce transfert engendre.  
@@ -48,7 +48,7 @@ Le contrat de partage des plus-values a pour objet de définir les conditions et
 - Identifiant : LEGIARTI000038525816
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038525816
-- Renvoie à : [art. L23-11-1 du Code de commerce](chapitre-xi.md#article-l23-11-1) ; [art. L23-11-2 du Code de commerce](chapitre-xi.md#article-l23-11-2) ; [art. L1225-17 du Code du travail](../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-17) ; [art. L1225-37 du Code du travail](../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-37) ; [art. L1226-7 du Code du travail](../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-l1226-7) ; [art. L3332-11 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-11) ; [art. L3342-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-l3342-1) ; art. L241-3 du Code de la sécurité sociale
+- Renvoie à : [art. L23-11-1 du Code de commerce](chapitre-xi.md#article-l23-11-1) ; [art. L23-11-2 du Code de commerce](chapitre-xi.md#article-l23-11-2) ; [art. L241-3 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3) ; [art. L1225-17 du Code du travail](../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-17) ; [art. L1225-37 du Code du travail](../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-37) ; [art. L1226-7 du Code du travail](../../../../code-du-travail/partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-l1226-7) ; [art. L3332-11 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-11) ; [art. L3342-1 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-l3342-1)
 - Cité par : [art. D3332-8-2 du Code du travail](../../../../code-du-travail/partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-d3332-8-2)
 
 Le contrat de partage mentionné à l'article L. 23-11-2 rend bénéficiaires l'ensemble des salariés présents dans la ou les sociétés mentionnées à l'article L. 23-11-1 pendant tout ou partie de la période comprise entre la date de sa signature et la date de la cession des titres de la société concernée et qui sont adhérents au plan d'épargne d'entreprise au jour de cette cession.  
@@ -70,7 +70,7 @@ Le bénéfice du contrat de partage des plus-values est subordonné à une condi
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038525818
 - Renvoie à : [art. L3332-11 du Code du travail](../../../../code-du-travail/partie-legislative/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l3332-11)
-- Cité par : [art. 150-0 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053543761)
+- Cité par : [art. 150-0 A du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-150-0-a)
 
 Après la cession, le montant en résultant est versé, dans un délai d'un mois à compter de la date de la cession ou, le cas échéant, à compter de la date de perception d'un complément de prix afférent à cette cession, par le ou les détenteurs de titres cédants à la société dont les titres ont été cédés. Ce montant est insaisissable et incessible.  
 

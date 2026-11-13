@@ -7,7 +7,7 @@ Code de commerce › Partie législative › LIVRE VII : Des juridictions commer
 - État : en vigueur depuis le 25/07/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022517057
 - Renvoie à : [art. L761-10 du Code de commerce](chapitre-ier.md#article-l761-10)
-- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. R761-1 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-vi/chapitre-ier.md#article-r761-1) ; [Décret n°2026-241 du 1er avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053755738) ; [Décret n°2026-382 du 18 mai 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054114160) ; [LOI n°2015-990 du 6 août 2015, art. 199](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051373665)
+- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. R761-1 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-vi/chapitre-ier.md#article-r761-1) ; [art. L631-24 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iii/chapitre-ier.md#article-l631-24) ; [Décret n°2026-241 du 1er avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053755738) ; [Décret n°2026-382 du 18 mai 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054114160) ; [LOI n°2015-990 du 6 août 2015, art. 199](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051373665)
 
 Les marchés d'intérêt national sont des services publics de gestion de marchés offrant à des grossistes et à des producteurs des services de gestion collective adaptés aux caractéristiques de certains produits agricoles et alimentaires.
 
@@ -25,7 +25,7 @@ Le déclassement d'un marché d'intérêt national peut être prononcé par arr�
 - Identifiant : LEGIARTI000006241453
 - État : en vigueur depuis le 09/06/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006241453
-- Renvoie à : [art. L1411-1 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389206)
+- Renvoie à : [art. L1411-1 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-ier.md#article-l1411-1)
 - Cité par : [art. D761-2 du Code de commerce](../../../partie-reglementaire/livre-vii/titre-vi/chapitre-ier.md#article-d761-2)
 
 La liste des marchés d'intérêt national dont l'Etat entend organiser l'aménagement et la gestion est fixée par décret.  

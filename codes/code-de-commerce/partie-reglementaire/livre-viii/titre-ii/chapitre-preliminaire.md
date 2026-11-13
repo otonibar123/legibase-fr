@@ -674,6 +674,7 @@ Les dossiers et documents établis par le commissaire aux comptes ou par l'organ
 - Identifiant : LEGIARTI000048871836
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048871836
+- Cité par : [art. R561-57 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-57)
 
 Peuvent être désignées contrôleurs les personnes qui justifient :
 

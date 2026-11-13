@@ -1,0 +1,194 @@
+# Code du patrimoine
+
+Dernière modification du texte dans LEGI : 05/08/2026. 1634 articles en vigueur, répartis dans 138 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - [Partie législative : articles rattachés directement](partie-legislative/articles-directs.md) (1 article)
+  - **LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL**
+    - **TITRE Ier : PROTECTION DES BIENS CULTURELS**
+      - [Chapitre 1er : Régime de circulation des biens culturels.](partie-legislative/livre-ier/titre-ier/chapitre-1er.md) (16 articles)
+      - [Chapitre 2 : Restitution des biens culturels](partie-legislative/livre-ier/titre-ier/chapitre-2.md) (24 articles)
+      - [Chapitre 4 : Dispositions pénales.](partie-legislative/livre-ier/titre-ier/chapitre-4.md) (5 articles)
+      - [Chapitre 5 : Sortie des collections publiques d'un bien culturel](partie-legislative/livre-ier/titre-ier/chapitre-5.md) (16 articles)
+      - [Chapitre 6 : Fonds régionaux d'art contemporain](partie-legislative/livre-ier/titre-ier/chapitre-6.md) (2 articles)
+    - **TITRE II : ACQUISITION DE BIENS CULTURELS**
+      - [Chapitre 1er : Acquisition de biens culturels présentant le caractère de trésor national et faisant l'objet d'un refus de certificat d'exportation.](partie-legislative/livre-ier/titre-ii/chapitre-1er.md) (4 articles)
+      - [Chapitre 2 : Dispositions fiscales](partie-legislative/livre-ier/titre-ii/chapitre-2.md) (8 articles)
+      - [Chapitre 3 : Préemption des biens culturels](partie-legislative/livre-ier/titre-ii/chapitre-3.md) (4 articles)
+      - [Chapitre 4 : Annulation de l'acquisition d'un bien culturel en raison de son origine illicite](partie-legislative/livre-ier/titre-ii/chapitre-4.md) (1 article)
+      - [Chapitre 5 : Transfert de propriété de biens culturels entre personnes publiques](partie-legislative/livre-ier/titre-ii/chapitre-5.md) (1 article)
+    - **TITRE III : DÉPÔT LÉGAL**
+      - [Chapitre 1er : Objectifs et champ d'application du dépôt légal.](partie-legislative/livre-ier/titre-iii/chapitre-1er.md) (2 articles)
+      - [Chapitre 2 : Modalités et organisation du dépôt légal.](partie-legislative/livre-ier/titre-iii/chapitre-2.md) (9 articles)
+      - [Chapitre 3 : Dispositions pénales.](partie-legislative/livre-ier/titre-iii/chapitre-3.md) (1 article)
+    - **TITRE IV : INSTITUTIONS RELATIVES AU PATRIMOINE CULTUREL**
+      - [Chapitre 1er : Centre des monuments nationaux.](partie-legislative/livre-ier/titre-iv/chapitre-1er.md) (1 article)
+      - [Chapitre 2 : Cité de l'architecture et du patrimoine.](partie-legislative/livre-ier/titre-iv/chapitre-2.md) (1 article)
+      - [Chapitre 3 : Fondation du patrimoine.](partie-legislative/livre-ier/titre-iv/chapitre-3.md) (14 articles)
+  - **LIVRE II : ARCHIVES**
+    - **TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES**
+      - [Chapitre 1er : Dispositions générales.](partie-legislative/livre-ii/titre-ier/chapitre-1er.md) (7 articles)
+      - [Chapitre 2 : Collecte, conservation et protection](partie-legislative/livre-ii/titre-ier/chapitre-2.md) (33 articles)
+      - [Chapitre 3 : Régime de communication.](partie-legislative/livre-ii/titre-ier/chapitre-3.md) (9 articles)
+      - [Chapitre 4 : Dispositions pénales.](partie-legislative/livre-ii/titre-ier/chapitre-4.md) (9 articles)
+    - **TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE**
+      - [Chapitre 1er : Constitution.](partie-legislative/livre-ii/titre-ii/chapitre-1er.md) (5 articles)
+      - [Chapitre 2 : Communication et reproduction.](partie-legislative/livre-ii/titre-ii/chapitre-2.md) (3 articles)
+  - **LIVRE III : BIBLIOTHÈQUES**
+    - [TITRE Ier : DISPOSITIONS COMMUNES](partie-legislative/livre-iii/titre-ier.md) (8 articles)
+    - [TITRE II : BIBLIOTHÈQUES MUNICIPALES ET INTERCOMMUNALES](partie-legislative/livre-iii/titre-ii.md) (4 articles)
+    - [TITRE III : BIBLIOTHÈQUES DÉPARTEMENTALES](partie-legislative/livre-iii/titre-iii.md) (2 articles)
+  - **LIVRE IV : MUSÉES**
+    - [TITRE Ier : DISPOSITIONS GÉNÉRALES.](partie-legislative/livre-iv/titre-ier.md) (4 articles)
+    - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE.](partie-legislative/livre-iv/titre-iii.md) (4 articles)
+    - **TITRE IV : RÉGIME DES MUSÉES DE FRANCE**
+      - [Chapitre 1er : Définition et missions.](partie-legislative/livre-iv/titre-iv/chapitre-1er.md) (2 articles)
+      - [Chapitre 2 : Appellation "musée de France"](partie-legislative/livre-iv/titre-iv/chapitre-2.md) (11 articles)
+    - **TITRE V : COLLECTIONS DES MUSÉES DE FRANCE**
+      - [Chapitre 1er : Statut des collections](partie-legislative/livre-iv/titre-v/chapitre-1er.md) (13 articles)
+      - [Chapitre 2 : Conservation et restauration.](partie-legislative/livre-iv/titre-v/chapitre-2.md) (5 articles)
+  - **LIVRE V : ARCHÉOLOGIE**
+    - [TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE.](partie-legislative/livre-v/titre-ier.md) (1 article)
+    - **TITRE II : ARCHÉOLOGIE PRÉVENTIVE**
+      - [Chapitre 1er : Définition.](partie-legislative/livre-v/titre-ii/chapitre-1er.md) (1 article)
+      - [Chapitre 2 : Répartition des compétences : Etat et collectivités territoriales](partie-legislative/livre-v/titre-ii/chapitre-2.md) (8 articles)
+      - [Chapitre 3 : Mise en œuvre des opérations d'archéologie préventive.](partie-legislative/livre-v/titre-ii/chapitre-3.md) (14 articles)
+      - [Chapitre 4 : Financement de l'archéologie préventive.](partie-legislative/livre-v/titre-ii/chapitre-4.md) (13 articles)
+    - **TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES**
+      - [Chapitre 1er : Archéologie terrestre et subaquatique](partie-legislative/livre-v/titre-iii/chapitre-1er.md) (13 articles)
+      - [Chapitre 2 : Biens culturels maritimes.](partie-legislative/livre-v/titre-iii/chapitre-2.md) (14 articles)
+    - **TITRE IV : DISPOSITIONS DIVERSES**
+      - [Chapitre 1er : Régime de propriété du patrimoine archéologique.](partie-legislative/livre-v/titre-iv/chapitre-1er.md) (8 articles)
+      - [Chapitre 2 : Utilisation de détecteurs de métaux.](partie-legislative/livre-v/titre-iv/chapitre-2.md) (3 articles)
+      - [Chapitre 3 : Dispositions fiscales.](partie-legislative/livre-v/titre-iv/chapitre-3.md) (1 article)
+      - [Chapitre 4 : Dispositions pénales](partie-legislative/livre-v/titre-iv/chapitre-4.md) (13 articles)
+      - [Chapitre 5 : Instances scientifiques](partie-legislative/livre-v/titre-iv/chapitre-5.md) (2 articles)
+      - [Chapitre 6 : Règles relatives à la conservation, à la sélection et à l'étude du patrimoine archéologique](partie-legislative/livre-v/titre-iv/chapitre-6.md) (7 articles)
+  - **LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITE ARCHITECTURALE**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Institutions](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions diverses](partie-legislative/livre-vi/titre-ier/chapitre-iii.md) (1 article)
+    - **TITRE II : MONUMENTS HISTORIQUES**
+      - [Chapitre 1er : Immeubles](partie-legislative/livre-vi/titre-ii/chapitre-1er.md) (46 articles)
+      - [Chapitre 2 : Objets mobiliers](partie-legislative/livre-vi/titre-ii/chapitre-2.md) (30 articles)
+      - [Chapitre 3 : Dispositions fiscales.](partie-legislative/livre-vi/titre-ii/chapitre-3.md) (1 article)
+    - **TITRE III : SITES PATRIMONIAUX REMARQUABLES**
+      - [TITRE III : SITES PATRIMONIAUX REMARQUABLES : articles rattachés directement](partie-legislative/livre-vi/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Régime des travaux](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Dispositions fiscales](partie-legislative/livre-vi/titre-iii/chapitre-iii.md) (1 article)
+    - **TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES**
+      - [Chapitre 1er : Dispositions pénales](partie-legislative/livre-vi/titre-iv/chapitre-1er.md) (4 articles)
+      - [Chapitre 2 : Sanctions administratives](partie-legislative/livre-vi/titre-iv/chapitre-2.md) (2 articles)
+    - [TITRE V : QUALITÉ ARCHITECTURALE](partie-legislative/livre-vi/titre-v.md) (3 articles)
+  - **LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - [TITRE Ier : DISPOSITIONS PARTICULIERES AUX DEPARTEMENTS D'OUTRE-MER](partie-legislative/livre-vii/titre-ier.md) (1 article)
+    - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON.](partie-legislative/livre-vii/titre-ii.md) (3 articles)
+    - [TITRE III : DISPOSITIONS APPLICABLES À MAYOTTE.](partie-legislative/livre-vii/titre-iii.md) (4 articles)
+    - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE.](partie-legislative/livre-vii/titre-iv.md) (6 articles)
+    - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE.](partie-legislative/livre-vii/titre-v.md) (4 articles)
+    - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA.](partie-legislative/livre-vii/titre-vi.md) (6 articles)
+    - [TITRE VII : DISPOSITIONS APPLICABLES AU TERRITOIRE DES TERRES AUSTRALES ET ANTARCTIQUES FRANCAISES.](partie-legislative/livre-vii/titre-vii.md) (3 articles)
+- **Partie réglementaire**
+  - **LIVRE Ier : DISPOSITIONS COMMUNES À L'ENSEMBLE DU PATRIMOINE CULTUREL**
+    - **TITRE Ier : PROTECTION DES BIENS CULTURELS**
+      - [Chapitre Ier : Régime de circulation des biens culturels](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (30 articles)
+      - [Chapitre II : Restitution des biens culturels](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (32 articles)
+      - [Chapitre III : Prêts et dépôts](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (30 articles)
+      - [Chapitre IV : Dispositions pénales](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (18 articles)
+      - [Chapitre V : Sortie des collections publiques d'un bien culturel](partie-reglementaire/livre-ier/titre-ier/chapitre-v.md) (14 articles)
+      - [Chapitre VI : Fonds régionaux d'art contemporain](partie-reglementaire/livre-ier/titre-ier/chapitre-vi.md) (8 articles)
+    - **TITRE II : ACQUISITION DE BIENS CULTURELS**
+      - [Chapitre Ier : Acquisition de biens culturels présentant le caractère de Trésor national et faisant l'objet d'un refus de certificat d'exportation](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Dispositions fiscales](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Préemption des biens culturels](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (8 articles)
+      - [Chapitre V : Transfert de propriété de biens culturels entre personnes publiques](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (3 articles)
+    - **TITRE III : DÉPÔT LÉGAL**
+      - [Chapitre Ier : Objectifs et champ d'application du dépôt légal](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Modalités et organisation du dépôt légal](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (47 articles)
+      - [Chapitre III : Dispositions pénales](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (2 articles)
+    - **TITRE IV : INSTITUTIONS RELATIVES AU PATRIMOINE CULTUREL**
+      - [Chapitre Ier : Centre des monuments nationaux](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (21 articles)
+      - [Chapitre II : Cité de l'architecture et du patrimoine](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (27 articles)
+      - [Chapitre III : Fondation du patrimoine](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Conseil national de l'inventaire général du patrimoine culturel](partie-reglementaire/livre-ier/titre-iv/chapitre-iv.md) (5 articles)
+  - **LIVRE II : ARCHIVES**
+    - **TITRE Ier : RÉGIME GÉNÉRAL DES ARCHIVES**
+      - [Chapitre II : Collecte, conservation et protection](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (95 articles)
+      - [Chapitre III : Régime de communication](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (14 articles)
+    - **TITRE II : ARCHIVES AUDIOVISUELLES DE LA JUSTICE**
+      - [Chapitre Ier : Constitution](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Communication et reproduction](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+  - **LIVRE III : BIBLIOTHÈQUES**
+    - **TITRE Ier : DISPOSITIONS COMMUNES**
+      - [TITRE Ier : DISPOSITIONS COMMUNES : articles rattachés directement](partie-reglementaire/livre-iii/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre Ier : Documents patrimoniaux](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Documents appartenant à l'Etat déposés dans des bibliothèques des collectivités territoriales](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Contrôle scientifique et technique](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Rapport annuel](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+    - [TITRE II : BIBLIOTHÈQUES MUNICIPALES ET INTERCOMMUNALES](partie-reglementaire/livre-iii/titre-ii.md) (2 articles)
+    - [TITRE III : BIBLIOTHÈQUES DÉPARTEMENTALES ET DE LA COLLECTIVITÉ DE CORSE](partie-reglementaire/livre-iii/titre-iii.md) (1 article)
+    - **Titre IV : BIBLIOTHÈQUES NATIONALES**
+      - [Chapitre Ier : Bibliothèque nationale de France](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (21 articles)
+      - [Chapitre II : Bibliothèque publique d'information](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (16 articles)
+  - **LIVRE IV : MUSÉES**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre unique : Dispositions communes aux musées de France relevant de l'Etat](partie-reglementaire/livre-iv/titre-ier/chapitre-unique.md) (3 articles)
+    - **TITRE II : MUSÉES NATIONAUX**
+      - [Chapitre Ier : Musées nationaux relevant du ministère chargé de la culture](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Conseil et expertise](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Statut des collections des musées nationaux](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (17 articles)
+    - [TITRE III : HAUT CONSEIL DES MUSÉES DE FRANCE](partie-reglementaire/livre-iv/titre-iii.md) (6 articles)
+    - **TITRE IV : RÉGIME DES MUSÉES DE FRANCE**
+      - [Chapitre II : Appellation "musée de France"](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (13 articles)
+    - **TITRE V : COLLECTIONS DES MUSÉES DE FRANCE**
+      - [Chapitre Ier : Statut des collections](partie-reglementaire/livre-iv/titre-v/chapitre-ier.md) (37 articles)
+      - [Chapitre II : Conservation et restauration](partie-reglementaire/livre-iv/titre-v/chapitre-ii.md) (14 articles)
+  - **LIVRE V : ARCHÉOLOGIE**
+    - [TITRE Ier : DÉFINITION DU PATRIMOINE ARCHÉOLOGIQUE](partie-reglementaire/livre-v/titre-ier.md) (1 article)
+    - **TITRE II : ARCHÉOLOGIE PRÉVENTIVE**
+      - [Chapitre II : Répartition des compétences : Etat et collectivités territoriales](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (22 articles)
+      - [Chapitre III : Mise en œuvre des opérations d'archéologie préventive](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (60 articles)
+      - [Chapitre IV : Financement de l'archéologie préventive](partie-reglementaire/livre-v/titre-ii/chapitre-iv.md) (29 articles)
+    - **TITRE III : FOUILLES ARCHÉOLOGIQUES PROGRAMMÉES ET DÉCOUVERTES FORTUITES**
+      - [Chapitre Ier : Archéologie terrestre et subaquatique](partie-reglementaire/livre-v/titre-iii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Biens culturels maritimes](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (19 articles)
+    - **TITRE IV : DISPOSITIONS DIVERSES**
+      - [Chapitre Ier : Régime de propriété du patrimoine archéologique](partie-reglementaire/livre-v/titre-iv/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Utilisation des détecteurs de métaux](partie-reglementaire/livre-v/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre IV : Dispositions pénales](partie-reglementaire/livre-v/titre-iv/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Dispositions diverses](partie-reglementaire/livre-v/titre-iv/chapitre-v.md) (60 articles)
+      - [Chapitre VI : Règles relatives à la conservation, à la sélection, à l'étude du patrimoine archéologique mobilier et au rapport d'opération](partie-reglementaire/livre-v/titre-iv/chapitre-vi.md) (14 articles)
+      - [Chapitre VII : Notification de documents par voie électronique par le préfet de région](partie-reglementaire/livre-v/titre-iv/chapitre-vii.md) (1 article)
+  - **LIVRE VI : MONUMENTS HISTORIQUES, SITES PATRIMONIAUX REMARQUABLES ET QUALITÉ ARCHITECTURALE**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Institutions](partie-reglementaire/livre-vi/titre-ier/chapitre-ier.md) (35 articles)
+      - [Chapitre II : Dispositions relatives aux biens inscrits au patrimoine mondial](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions diverses](partie-reglementaire/livre-vi/titre-ier/chapitre-iii.md) (2 articles)
+    - **TITRE II : MONUMENTS HISTORIQUES**
+      - [Chapitre Ier : Immeubles](partie-reglementaire/livre-vi/titre-ii/chapitre-ier.md) (120 articles)
+      - [Chapitre II : Objets mobiliers](partie-reglementaire/livre-vi/titre-ii/chapitre-ii.md) (63 articles)
+      - [Chapitre III : Dispositions fiscales](partie-reglementaire/livre-vi/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Dispositions pénales](partie-reglementaire/livre-vi/titre-ii/chapitre-iv.md) (2 articles)
+    - **TITRE III : SITES PATRIMONIAUX REMARQUABLES**
+      - [Chapitre Ier : Classement au titre des sites patrimoniaux remarquables](partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Régime des travaux](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions fiscales](partie-reglementaire/livre-vi/titre-iii/chapitre-iii.md) (1 article)
+    - **TITRE IV : DISPOSITIONS PÉNALES ET SANCTIONS ADMINISTRATIVES**
+      - [Chapitre Ier : Dispositions pénales](partie-reglementaire/livre-vi/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Sanctions administratives](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (1 article)
+    - [TITRE V : QUALITÉ ARCHITECTURALE](partie-reglementaire/livre-vi/titre-v.md) (7 articles)
+  - **LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - [TITRE Ier : DISPOSITIONS PARTICULIÈRES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE ET À LA RÉUNION](partie-reglementaire/livre-vii/titre-ier.md) (7 articles)
+    - [TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-vii/titre-ii.md) (18 articles)
+    - [TITRE III : DISPOSITIONS PARTICULIÈRES À MAYOTTE](partie-reglementaire/livre-vii/titre-iii.md) (8 articles)
+    - [TITRE IV : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-vii/titre-iv.md) (16 articles)
+    - [TITRE V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-vii/titre-v.md) (14 articles)
+    - [TITRE VI : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-vii/titre-vi.md) (16 articles)
+    - [TITRE VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-vii/titre-vii.md) (12 articles)
+    - [TITRE VIII : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-vii/titre-viii.md) (21 articles)
+    - [TITRE IX : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN](partie-reglementaire/livre-vii/titre-ix.md) (19 articles)
+  - [Annexes](partie-reglementaire/annexes.md) (7 articles)

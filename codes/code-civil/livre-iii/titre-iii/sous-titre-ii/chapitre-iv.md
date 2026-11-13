@@ -6,8 +6,8 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000049423788
 - État : en vigueur depuis le 17/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049423788
-- Renvoie à : art. L311-1-1 du Code rural et de la pêche maritime
-- Cité par : [art. 49 bis du Code général des impôts, annexe 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006298477) ; [art. L311-1-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049419766)
+- Renvoie à : [art. L311-1-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-1-1)
+- Cité par : [art. 49 bis du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-premier/chapitre-ii.md#article-49-bis) ; [art. L311-1-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-1-1)
 
 Le propriétaire, le locataire, l'occupant sans titre, le bénéficiaire d'un titre ayant pour objet principal de l'autoriser à occuper ou à exploiter un fonds, le maître d'ouvrage ou celui qui en exerce les pouvoirs qui est à l'origine d'un trouble excédant les inconvénients normaux de voisinage est responsable de plein droit du dommage qui en résulte.  
 

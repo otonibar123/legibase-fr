@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - Identifiant : LEGIARTI000006230061
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230061
-- Cité par : [art. L229-9 du Code de commerce](../titre-ii/chapitre-ix.md#article-l229-9) ; [art. L213-18 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006648007) ; [art. R214-35 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928483) ; [art. R214-47 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027798472) ; [art. R214-65 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027798377)
+- Cité par : [art. L229-9 du Code de commerce](../titre-ii/chapitre-ix.md#article-l229-9) ; [art. L213-18 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-18) ; [art. R214-35 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-35) ; [art. R214-47 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-47) ; [art. R214-65 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-r214-65)
 
 Sous réserve des dispositions du présent chapitre, la liquidation des sociétés est régie par les dispositions contenues dans les statuts.
 
@@ -17,7 +17,7 @@ Sous réserve des dispositions du présent chapitre, la liquidation des sociét�
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230063
 - Renvoie à : [art. 1844-5 du Code civil](../../../../code-civil/livre-iii/titre-ix/chapitre-ier.md#article-1844-5)
-- Cité par : [art. L214-12 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320483) ; [art. L214-24-45 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051387533) ; [art. L214-162-8 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320331)
+- Cité par : [art. L214-12 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-12) ; [art. L214-24-45 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-45) ; [art. L214-162-8 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-8)
 
 La société est en liquidation dès l'instant de sa dissolution pour quelque cause que ce soit sauf dans le cas prévu au troisième alinéa de l'article 1844-5 du code civil. Sa dénomination sociale est suivie de la mention " société en liquidation ".  
 
@@ -29,7 +29,7 @@ La dissolution d'une société ne produit ses effets à l'égard des tiers qu'à
 - Identifiant : LEGIARTI000025559617
 - État : en vigueur depuis le 24/03/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559617
-- Cité par : [art. L238-1 du Code de commerce](chapitre-viii.md#article-l238-1) ; [art. L511-16 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030623576) ; [art. L532-6 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043706887) ; [art. L532-11 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035042882)
+- Cité par : [art. L238-1 du Code de commerce](chapitre-viii.md#article-l238-1) ; [art. L511-16 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-16) ; [art. L532-6 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-ii.md#article-l532-6) ; [art. L532-11 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-ii.md#article-l532-11)
 
 L'acte de nomination du liquidateur est publié par celui-ci, dans les conditions et délais fixés par décret en Conseil d'Etat, qui détermine également les documents à déposer en annexe au registre du commerce et des sociétés.
 
@@ -106,7 +106,7 @@ Si l'assemblée de clôture prévue à l'article L. 237-9 ne peut délibérer ou
 - Identifiant : LEGIARTI000006230089
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006230089
-- Cité par : [art. L214-12 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320483) ; [art. L214-24-45 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051387533) ; [art. L214-162-8 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320331)
+- Cité par : [art. L214-12 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-12) ; [art. L214-24-45 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-24-45) ; [art. L214-162-8 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-8)
 
 L'avis de clôture de la liquidation est publié selon les modalités fixées par décret en Conseil d'Etat.
 

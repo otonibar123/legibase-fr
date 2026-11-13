@@ -7,7 +7,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530255
 - Renvoie à : [art. R4443-2 du Code du travail](chapitre-iii.md#article-r4443-2) ; [art. R4445-2 du Code du travail](chapitre-v.md#article-r4445-2)
-- Cité par : [art. R4443-2 du Code du travail](chapitre-iii.md#article-r4443-2) ; [art. R717-85-9 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602490)
+- Cité par : [art. R4443-2 du Code du travail](chapitre-iii.md#article-r4443-2) ; [art. R717-85-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-9)
 
 Lorsque les valeurs d'exposition journalière déclenchant l'action de prévention fixées à l'article R. 4443-2 sont dépassées, l'employeur établit et met en œuvre un programme de mesures techniques ou organisationnelles visant à réduire au minimum l'exposition aux vibrations mécaniques et les risques qui en résultent, en prenant en considération notamment, les mesures mentionnées à l'article R. 4445-2.
 

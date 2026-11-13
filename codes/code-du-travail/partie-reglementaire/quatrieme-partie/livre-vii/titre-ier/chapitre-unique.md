@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018527636
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018527636
-- Cité par : [art. R4741-3 du Code du travail](../titre-iv/chapitre-ier.md#article-r4741-3) ; [Arrêté du 31 août 2021, art. ANNEXE II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044026555) ; [art. R717-58 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025889056)
+- Cité par : [art. R4741-3 du Code du travail](../titre-iv/chapitre-ier.md#article-r4741-3) ; [art. R717-58 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-58) ; [Arrêté du 31 août 2021, art. ANNEXE II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044026555)
 
 L'employeur affiche, dans des locaux normalement accessibles aux travailleurs, l'adresse et le numéro d'appel :  
 1° Du médecin du travail ou du service de santé au travail compétent pour l'établissement ;  

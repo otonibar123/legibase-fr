@@ -16,7 +16,7 @@ Les entreprises de moins de deux cent cinquante salariés bénéficient d'une ai
 - Identifiant : LEGIARTI000052476041
 - État : en vigueur depuis le 01/11/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052476041
-- Renvoie à : [art. D6243-4 du Code du travail](chapitre-iii.md#article-d6243-4) ; art. L133-5-3 du Code de la sécurité sociale
+- Renvoie à : [art. L133-5-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-3) ; [art. D6243-4 du Code du travail](chapitre-iii.md#article-d6243-4)
 - Cité par : [Décret n°2020-1085 du 24 août 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042261419) ; [Décret n°2021-223 du 26 février 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043323101) ; [Décret n°2025-1031 du 31 octobre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052474940) ; [Décret n°2025-1031 du 31 octobre 2025, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052474952)
 
 I. - L'aide est attribuée au titre de la première année d'exécution du contrat d'apprentissage.

@@ -66,7 +66,7 @@ Les modalités pratiques de cette coopération font l'objet d'un document joint 
 - Identifiant : LEGIARTI000043841170
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841170
-- Renvoie à : [art. R4412-97 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97-5) ; art. R126-10 du Code de la construction et de l'habitation ; [art. R1334-29-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024117149)
+- Renvoie à : [art. R126-10 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md#article-r126-10) ; [art. R1334-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-22) ; [art. R1334-27 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-27) ; [art. R1334-28 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-28) ; [art. R1334-29-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-4) ; [art. R4412-97 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97-5)
 
 Le maître d'ouvrage demande au propriétaire du bâtiment les dossiers techniques regroupant les informations relatives à la recherche et à l'identification des matériaux contenant de l'amiante prévus aux articles R. 1334-29-4 à R. 1334-29-6 du code de la santé publique et à l'article R. 126-10 du code de la construction et de l'habitation ou, le cas échéant, le rapport de repérage de l'amiante prévu à l'article R. 4412-97-5 du présent code.
 
@@ -195,7 +195,7 @@ Une personne morale en mesure d'affecter à cette fonction une personne physique
 - Identifiant : LEGIARTI000043841152
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841152
-- Renvoie à : [art. L4531-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ier.md#article-l4531-2) ; [art. L4532-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ii.md#article-l4532-7) ; [art. R4533-1 du Code du travail](chapitre-iii.md#article-r4533-1) ; [art. L125-1 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006824255)
+- Renvoie à : [art. L125-1 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-1) ; [art. L4531-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ier.md#article-l4531-2) ; [art. L4532-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ii.md#article-l4532-7) ; [art. R4533-1 du Code du travail](chapitre-iii.md#article-r4533-1)
 
 Une personne physique qui exerce la fonction de coordonnateur, en son nom propre ou au nom de l'organisme qui l'emploie, ne peut pas être chargée de la fonction de contrôleur technique prévue à l'article L. 125-1 du code de la construction et de l'habitation dans le cadre d'une même opération de bâtiment ou de génie civil.
 
@@ -509,7 +509,7 @@ Le plan général de coordination rappelle, dans le cas de la constitution d'un 
 - Identifiant : LEGIARTI000018529486
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018529486
-- Renvoie à : [art. R1334-22 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910360) ; [art. R1334-27 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910383) ; [art. R1334-28 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910387)
+- Renvoie à : [art. R1334-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-22) ; [art. R1334-27 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-27) ; [art. R1334-28 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-28)
 
 Les dossiers techniques regroupant les informations relatives à la recherche et à l'identification des matériaux contenant de l'amiante prévus aux articles R. 1334-22, R. 1334-27 et R. 1334-28 du code de la santé publique sont joints au plan général de coordination.
 
@@ -572,7 +572,7 @@ Ce plan prend en considération les mesures propres à prévenir les risques dé
 - Identifiant : LEGIARTI000018529470
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018529470
-- Renvoie à : [art. R1334-22 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910360) ; [art. R1334-27 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910383) ; [art. R1334-28 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910387)
+- Renvoie à : [art. R1334-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-22) ; [art. R1334-27 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-27) ; [art. R1334-28 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-28)
 
 Les dossiers techniques regroupant les informations relatives à la recherche et à l'identification des matériaux contenant de l'amiante prévus aux articles R. 1334-22, R. 1334-27 et R. 1334-28 du code de la santé publique sont joints au plan général simplifié de coordination.
 
@@ -985,7 +985,7 @@ Le président répond par écrit aux observations formulées et en informe les m
 - Identifiant : LEGIARTI000034670050
 - État : en vigueur depuis le 01/10/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034670050
-- Renvoie à : [art. L4532-16 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ii.md#article-l4532-16) ; [art. R4211-4 du Code du travail](../../livre-ii/titre-ier/chapitre-ier.md#article-r4211-4) ; [art. R4412-97-5 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97-5) ; [art. R1334-22 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910360) ; [art. R1334-28 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910387)
+- Renvoie à : [art. R1334-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-22) ; [art. R1334-28 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-28) ; [art. L4532-16 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ii.md#article-l4532-16) ; [art. R4211-4 du Code du travail](../../livre-ii/titre-ier/chapitre-ier.md#article-r4211-4) ; [art. R4412-97-5 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-97-5)
 
 Le dossier d'intervention ultérieure sur l'ouvrage prévu à l'article L. 4532-16 rassemble, sous bordereau, tous les documents, tels que les plans et notes techniques, de nature à faciliter l'intervention ultérieure sur l'ouvrage, ainsi que le dossier technique regroupant les informations relatives à la recherche et à l'identification des matériaux contenant de l'amiante prévus aux articles R. 1334-22 et R. 1334-28 du code de la santé publique ou, le cas échéant, le rapport de repérage de l'amiante prévu l'article R. 4412-97-5 du présent code.
 

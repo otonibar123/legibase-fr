@@ -6,7 +6,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre VII : TRAIT
 - Identifiant : LEGIARTI000046335951
 - État : en vigueur depuis le 29/09/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046335951
-- Renvoie à : [art. L711-2 du Code de la consommation](../../../partie-legislative-nouvelle/livre-vii/titre-ier/chapitre-ier.md#article-l711-2) ; [art. R721-5 du Code de la consommation](../titre-ii/chapitre-ier.md#article-r721-5) ; [art. R722-9 du Code de la consommation](../titre-ii/chapitre-ii.md#article-r722-9) ; art. L213-4-7 du Code de l'organisation judiciaire
+- Renvoie à : [art. L213-4-7 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-4-7) ; [art. L711-2 du Code de la consommation](../../../partie-legislative-nouvelle/livre-vii/titre-ier/chapitre-ier.md#article-l711-2) ; [art. R721-5 du Code de la consommation](../titre-ii/chapitre-ier.md#article-r721-5) ; [art. R722-9 du Code de la consommation](../titre-ii/chapitre-ii.md#article-r722-9)
 - Cité par : [Décret n°2022-1258 du 26 septembre 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046335404)
 
 Le juge des contentieux de la protection compétent, en vertu des dispositions de l'article L. 213-4-7 du code de l'organisation judiciaire, est celui du lieu où demeure le débiteur, y compris pour l'application des articles R. 721-5 et R. 722-9.

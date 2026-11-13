@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE Ier : Du commerce en généra
 - Identifiant : LEGIARTI000044056347
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056347
-- Cité par : [art. L145-3 du Code de commerce](chapitre-v.md#article-l145-3) ; [art. L145-24 du Code de commerce](chapitre-v.md#article-l145-24) ; [Arrêté du 23 décembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021673436) ; [art. L321-2-1 du CODE DE L'ORGANISATION JUDICIAIRE.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518772) ; [art. L145-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029108683) ; [art. L125-5 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047810693) ; [art. R2124-9 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024885035) ; [art. R2124-20 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024885061) ; [art. 725 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310771) ; [Décret n°2019-1339 du 11 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039503063)
+- Cité par : [art. L145-3 du Code de commerce](chapitre-v.md#article-l145-3) ; [art. L145-24 du Code de commerce](chapitre-v.md#article-l145-24) ; [art. L125-5 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-5) ; [art. R2124-9 du Code général de la propriété des personnes publiques](../../../../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-r2124-9) ; [art. R2124-20 du Code général de la propriété des personnes publiques](../../../../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-r2124-20) ; [art. 725 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-725) ; [Arrêté du 23 décembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021673436) ; [art. L145-2 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029108683) ; [art. L321-2-1 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518772) ; [Décret n°2019-1339 du 11 décembre 2019, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039503063)
 
 I. - Les dispositions du présent chapitre s'appliquent aux baux des immeubles ou locaux dans lesquels un fonds est exploité, que ce fonds appartienne, soit à un commerçant ou à un industriel immatriculé au registre du commerce et des sociétés, soit à un chef d'une entreprise du secteur des métiers et de l'artisanat immatriculée au registre national des entreprises, accomplissant ou non des actes de commerce, et en outre :
 
@@ -38,7 +38,7 @@ Les dispositions du présent chapitre ne sont pas applicables aux baux emphytéo
 - Identifiant : LEGIARTI000037667139
 - État : en vigueur depuis le 25/11/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667139
-- Renvoie à : [art. L145-9 du Code de commerce](chapitre-v.md#article-l145-9) ; [art. L145-18 du Code de commerce](chapitre-v.md#article-l145-18) ; [art. L145-21 du Code de commerce](chapitre-v.md#article-l145-21) ; [art. L145-23-1 du Code de commerce](chapitre-v.md#article-l145-23-1) ; [art. L145-24 du Code de commerce](chapitre-v.md#article-l145-24)
+- Renvoie à : [art. L145-9 du Code de commerce](chapitre-v.md#article-l145-9) ; [art. L145-18 du Code de commerce](chapitre-v.md#article-l145-18) ; [art. L145-21 du Code de commerce](chapitre-v.md#article-l145-21) ; [art. L145-23-1 du Code de commerce](chapitre-v.md#article-l145-23-1) ; [art. L145-24 du Code de commerce](chapitre-v.md#article-l145-24) ; [art. 231 ter du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iii.md#article-231-ter)
 - Cité par : [art. Annexe 4-9 du Code de commerce](../../../annexes-de-la-partie-reglementaire.md#article-annexe-4-9) ; [art. L145-15 du Code de commerce](chapitre-v.md#article-l145-15) ; [art. L341-1 du Code de commerce](../../livre-iii/titre-iv.md#article-l341-1) ; [art. R145-38 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-v.md#article-r145-38)
 
 La durée du contrat de location ne peut être inférieure à neuf ans.
@@ -83,8 +83,8 @@ N'est pas soumise au présent chapitre la convention d'occupation précaire qui 
 - Identifiant : LEGIARTI000006221571
 - État : en vigueur depuis le 01/10/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221571
-- Renvoie à : [art. L313-4 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815459) ; [art. L313-4-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815204)
-- Cité par : [art. L911-9 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-9) ; [art. L931-12 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-12) ; [art. L941-12 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-12) ; [art. L951-8 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-8) ; [art. L313-5 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815465) ; [art. L313-14 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815213) ; [art. L322-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032861028) ; [art. L641-1 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028053151)
+- Renvoie à : [art. L313-4 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4) ; [art. L313-4-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4-2)
+- Cité par : [art. L911-9 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-9) ; [art. L931-12 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-12) ; [art. L941-12 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-12) ; [art. L951-8 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-8) ; [art. L313-5 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-5) ; [art. L313-14 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-14) ; [art. L322-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-2) ; [art. L641-1 du Code du patrimoine](../../../../code-du-patrimoine/partie-legislative/livre-vi/titre-iv/chapitre-1er.md#article-l641-1)
 
 Le bailleur d'un local à usage commercial, industriel ou artisanal peut, au cours du bail originaire ou d'un bail renouvelé, reprendre les lieux en tout ou partie pour exécuter des travaux nécessitant l'évacuation des lieux compris dans un secteur ou périmètre prévu aux articles L. 313-4 et L. 313-4-2 du code de l'urbanisme et autorisés ou prescrits dans les conditions prévues auxdits articles, s'il offre de reporter le bail sur un local équivalent dans le même immeuble ou dans un autre immeuble. Cette offre précise les caractéristiques du local offert, lequel doit permettre la continuation de l'exercice de l'activité antérieure du locataire. L'offre doit être notifiée un an à l'avance.  
 
@@ -101,7 +101,7 @@ Le locataire doit, dans un délai de deux mois, soit faire connaître son accept
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221605
 - Renvoie à : [art. L145-19 du Code de commerce](chapitre-v.md#article-l145-19)
-- Cité par : [Arrêté du 23 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021673439) ; [art. L313-5 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815465) ; [art. L313-14 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815213)
+- Cité par : [art. L313-5 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-5) ; [art. L313-14 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-14) ; [Arrêté du 23 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021673439)
 
 Le locataire dont le bail est reporté a droit à une indemnité de dépossession qui comprend l'indemnisation des conséquences dommageables de la privation temporaire de jouissance, compte tenu, s'il y a lieu, de l'installation provisoire réalisée aux frais du bailleur et du remboursement de ses frais normaux de déménagement et de réinstallation.  
 
@@ -113,7 +113,7 @@ Les prix et les conditions accessoires du bail peuvent être modifiés à la dem
 - Identifiant : LEGIARTI000020898001
 - État : en vigueur depuis le 25/07/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020898001
-- Renvoie à : [art. L321-1 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006813144)
+- Renvoie à : [art. L321-1 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-iii/titre-ii/chapitre-1er.md#article-l321-1)
 
 Les baux commerciaux signés entre les propriétaires et les exploitants de résidences de tourisme mentionnées à l'article L. 321-1 du code du tourisme sont d'une durée de neuf ans minimum, sans possibilité de résiliation à l'expiration d'une période triennale.
 
@@ -124,7 +124,7 @@ Les baux commerciaux signés entre les propriétaires et les exploitants de rés
 - État : en vigueur depuis le 24/03/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025559451
 - Renvoie à : [art. L145-9 du Code de commerce](chapitre-v.md#article-l145-9)
-- Cité par : [art. L145-17 du Code de commerce](chapitre-v.md#article-l145-17) ; [art. L313-7 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006652100)
+- Cité par : [art. L145-17 du Code de commerce](chapitre-v.md#article-l145-17) ; [art. L313-7 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-7)
 
 Le droit au renouvellement du bail ne peut être invoqué que par le propriétaire du fonds qui est exploité dans les lieux.  
 
@@ -193,7 +193,7 @@ Toutefois, lorsque le bailleur a notifié, soit par un congé, soit par un refus
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221741
 - Renvoie à : [art. L145-17 du Code de commerce](chapitre-v.md#article-l145-17)
-- Cité par : [art. L145-18 du Code de commerce](chapitre-v.md#article-l145-18) ; [art. L145-25 du Code de commerce](chapitre-v.md#article-l145-25) ; [art. L145-26 du Code de commerce](chapitre-v.md#article-l145-26) ; [Arrêté du 23 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021673439) ; [art. L311-4 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031011024) ; [art. L321-3 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020898864)
+- Cité par : [art. L145-18 du Code de commerce](chapitre-v.md#article-l145-18) ; [art. L145-25 du Code de commerce](chapitre-v.md#article-l145-25) ; [art. L145-26 du Code de commerce](chapitre-v.md#article-l145-26) ; [art. L311-4 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-iii/titre-ier/chapitre-1er.md#article-l311-4) ; [art. L321-3 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-iii/titre-ii/chapitre-1er.md#article-l321-3) ; [Arrêté du 23 décembre 2009, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021673439)
 
 Le bailleur peut refuser le renouvellement du bail. Toutefois, le bailleur doit, sauf exceptions prévues aux articles L. 145-17 et suivants, payer au locataire évincé une indemnité dite d'éviction égale au préjudice causé par le défaut de renouvellement.  
 
@@ -254,8 +254,8 @@ II. - En cas de reconstruction par le propriétaire ou son ayant droit d'un nouv
 - Identifiant : LEGIARTI000031012815
 - État : en vigueur depuis le 08/08/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031012815
-- Renvoie à : [art. L145-14 du Code de commerce](chapitre-v.md#article-l145-14) ; [art. L145-56 du Code de commerce](chapitre-v.md#article-l145-56) ; [art. L145-58 du Code de commerce](chapitre-v.md#article-l145-58)
-- Cité par : [art. L145-4 du Code de commerce](chapitre-v.md#article-l145-4) ; [art. L145-24 du Code de commerce](chapitre-v.md#article-l145-24) ; [art. L145-28 du Code de commerce](chapitre-v.md#article-l145-28) ; [art. L145-53 du Code de commerce](chapitre-v.md#article-l145-53) ; [art. L911-9 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-9) ; [art. L911-11 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-11) ; [art. L921-11 du Code de commerce](../../livre-ix/titre-ii/chapitre-ier.md#article-l921-11) ; [art. L931-12 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-12) ; [art. L931-14 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-14) ; [art. L941-14 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-14) ; [art. L951-10 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-10) ; [art. R145-38 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-v.md#article-r145-38) ; [art. L313-5 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815465) ; [art. L313-14 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815213) ; [art. L322-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032861028) ; [art. L641-1 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028053151)
+- Renvoie à : [art. L145-14 du Code de commerce](chapitre-v.md#article-l145-14) ; [art. L145-56 du Code de commerce](chapitre-v.md#article-l145-56) ; [art. L145-58 du Code de commerce](chapitre-v.md#article-l145-58) ; [art. L313-4 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4) ; [art. L313-4-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4-2)
+- Cité par : [art. L145-4 du Code de commerce](chapitre-v.md#article-l145-4) ; [art. L145-24 du Code de commerce](chapitre-v.md#article-l145-24) ; [art. L145-28 du Code de commerce](chapitre-v.md#article-l145-28) ; [art. L145-53 du Code de commerce](chapitre-v.md#article-l145-53) ; [art. L911-9 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-9) ; [art. L911-11 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-11) ; [art. L921-11 du Code de commerce](../../livre-ix/titre-ii/chapitre-ier.md#article-l921-11) ; [art. L931-12 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-12) ; [art. L931-14 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-14) ; [art. L941-14 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-14) ; [art. L951-10 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-10) ; [art. R145-38 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-v.md#article-r145-38) ; [art. L313-5 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-5) ; [art. L313-14 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-14) ; [art. L322-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-2) ; [art. L641-1 du Code du patrimoine](../../../../code-du-patrimoine/partie-legislative/livre-vi/titre-iv/chapitre-1er.md#article-l641-1)
 
 Le bailleur a le droit de refuser le renouvellement du bail pour construire ou reconstruire l'immeuble existant, à charge de payer au locataire évincé l'indemnité d'éviction prévue à l'article L. 145-14.
 
@@ -377,7 +377,7 @@ Au cas où il viendrait à être établi à la charge du bailleur qu'il n'a exer
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280359
 - Renvoie à : [art. L145-18 du Code de commerce](chapitre-v.md#article-l145-18) ; [art. L145-56 du Code de commerce](chapitre-v.md#article-l145-56)
-- Cité par : [art. L911-5 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-5) ; [art. L931-6 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-6) ; [art. L941-6 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-6) ; [art. L951-4 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-4) ; [art. L313-5 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815465) ; [art. L313-14 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815213) ; [art. L322-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032861028) ; [art. L641-1 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028053151)
+- Cité par : [art. L911-5 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-5) ; [art. L931-6 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-6) ; [art. L941-6 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-6) ; [art. L951-4 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-4) ; [art. L313-5 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-5) ; [art. L313-14 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-14) ; [art. L322-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-2) ; [art. L641-1 du Code du patrimoine](../../../../code-du-patrimoine/partie-legislative/livre-vi/titre-iv/chapitre-1er.md#article-l641-1)
 
 Aucun locataire pouvant prétendre à une indemnité d'éviction ne peut être obligé de quitter les lieux avant de l'avoir reçue. Jusqu'au paiement de cette indemnité, il a droit au maintien dans les lieux aux conditions et clauses du contrat de bail expiré. Toutefois, l'indemnité d'occupation est déterminée conformément aux dispositions des sections 6 et 7, compte tenu de tous éléments d'appréciation.  
 
@@ -389,7 +389,7 @@ Par dérogation au précédent alinéa, dans le seul cas prévu au deuxième ali
 - Identifiant : LEGIARTI000019288513
 - État : en vigueur depuis le 06/08/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019288513
-- Cité par : [art. L313-14 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815213)
+- Cité par : [art. L313-14 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-14)
 
 En cas d'éviction, les lieux doivent être remis au bailleur à l'expiration d'un délai de trois mois suivant la date du versement de l'indemnité d'éviction au locataire lui-même ou de la notification à celui-ci du versement de l'indemnité à un séquestre. A défaut d'accord entre les parties, le séquestre est nommé par le jugement prononçant condamnation au paiement de l'indemnité ou à défaut par simple ordonnance sur requête.
 
@@ -400,7 +400,7 @@ L'indemnité est versée par le séquestre au locataire sur sa seule quittance, 
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006221889
 - Renvoie à : [art. L145-58 du Code de commerce](chapitre-v.md#article-l145-58)
-- Cité par : [art. L313-5 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815465) ; [art. L313-14 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815213)
+- Cité par : [art. L313-5 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-5) ; [art. L313-14 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-14)
 
 En cas de non-remise des clés à la date fixée et après mise en demeure, le séquestre retient 1 % par jour de retard sur le montant de l'indemnité et restitue cette retenue au bailleur sur sa seule quittance.  
 
@@ -471,7 +471,7 @@ Un décret en Conseil d'Etat précise la consistance de ces éléments.
 - Identifiant : LEGIARTI000029108759
 - État : en vigueur depuis le 20/06/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029108759
-- Renvoie à : [art. L145-33 du Code de commerce](chapitre-v.md#article-l145-33) ; art. L112-2 du Code monétaire et financier
+- Renvoie à : [art. L145-33 du Code de commerce](chapitre-v.md#article-l145-33) ; [art. L112-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2)
 - Cité par : [art. L145-35 du Code de commerce](chapitre-v.md#article-l145-35) ; [art. L911-13 du Code de commerce](../../livre-ix/titre-ier/chapitre-ier.md#article-l911-13) ; [art. L921-13 du Code de commerce](../../livre-ix/titre-ii/chapitre-ier.md#article-l921-13) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L940-1 du Code de commerce](../../livre-ix/titre-iv/articles-directs.md#article-l940-1) ; [art. L951-12 du Code de commerce](../../livre-ix/titre-v/chapitre-ier.md#article-l951-12) ; [art. R145-30 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-v.md#article-r145-30) ; [Décret n°2009-1568 du 15 décembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021488142) ; [Loi n°86-1291 du 23 décembre 1986, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006474371)
 
 A moins d'une modification notable des éléments mentionnés aux 1° à 4° de l'article L. 145-33, le taux de variation du loyer applicable lors de la prise d'effet du bail à renouveler, si sa durée n'est pas supérieure à neuf ans, ne peut excéder la variation, intervenue depuis la fixation initiale du loyer du bail expiré, de l'indice trimestriel des loyers commerciaux ou de l'indice trimestriel des loyers des activités tertiaires mentionnés aux premier et deuxième alinéas de l'article L. 112-2 du code monétaire et financier, publiés par l'Institut national de la statistique et des études économiques. A défaut de clause contractuelle fixant le trimestre de référence de cet indice, il y a lieu de prendre en compte la variation de l'indice trimestriel des loyers commerciaux ou de l'indice trimestriel des loyers des activités tertiaires, calculée sur la période de neuf ans antérieure au dernier indice publié.
@@ -503,7 +503,7 @@ La composition de la commission, le mode de désignation de ses membres et ses r
 - Identifiant : LEGIARTI000022873431
 - État : en vigueur depuis le 02/10/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022873431
-- Renvoie à : [art. L145-33 du Code de commerce](chapitre-v.md#article-l145-33)
+- Renvoie à : [art. L145-33 du Code de commerce](chapitre-v.md#article-l145-33) ; [art. L212-2 du Code du cinéma et de l'image animée](../../../../code-du-cinema-et-de-l-image-animee/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-2)
 
 Les éléments permettant de déterminer le prix des baux des terrains, des locaux construits en vue d'une seule utilisation et des locaux à usage exclusif de bureaux sont fixés par décret en Conseil d'Etat.
 
@@ -522,7 +522,7 @@ Les loyers des baux d'immeubles ou de locaux régis par les dispositions du pré
 - Identifiant : LEGIARTI000029108753
 - État : en vigueur depuis le 20/06/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029108753
-- Renvoie à : [art. L145-33 du Code de commerce](chapitre-v.md#article-l145-33) ; art. L112-2 du Code monétaire et financier
+- Renvoie à : [art. L145-33 du Code de commerce](chapitre-v.md#article-l145-33) ; [art. L112-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2)
 - Cité par : [art. L145-35 du Code de commerce](chapitre-v.md#article-l145-35) ; [art. L145-37 du Code de commerce](chapitre-v.md#article-l145-37) ; [art. L145-38-1 du Code de commerce](chapitre-v.md#article-l145-38-1) ; [art. L145-39 du Code de commerce](chapitre-v.md#article-l145-39) ; [art. L145-47 du Code de commerce](chapitre-v.md#article-l145-47) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L940-1 du Code de commerce](../../livre-ix/titre-iv/articles-directs.md#article-l940-1) ; [art. R145-22 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-v.md#article-r145-22)
 
 La demande en révision ne peut être formée que trois ans au moins après la date d'entrée en jouissance du locataire ou après le point de départ du bail renouvelé. La révision du loyer prend effet à compter de la date de la demande en révision.
@@ -539,7 +539,7 @@ En aucun cas il n'est tenu compte, pour le calcul de la valeur locative, des inv
 - Identifiant : LEGIARTI000054137977
 - État : en vigueur depuis le 28/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054137977
-- Renvoie à : [art. L145-38 du Code de commerce](chapitre-v.md#article-l145-38) ; [art. L145-39 du Code de commerce](chapitre-v.md#article-l145-39) ; art. L112-1 du Code monétaire et financier
+- Renvoie à : [art. L145-38 du Code de commerce](chapitre-v.md#article-l145-38) ; [art. L145-39 du Code de commerce](chapitre-v.md#article-l145-39) ; [art. L112-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-1)
 
 Par dérogation à l'article L. 112-1 du code monétaire et financier, est autorisée dans le bail des locaux à usage commercial la clause ayant pour objet ou pour effet d'encadrer, dans les mêmes proportions, à la hausse et à la baisse, la variation annuelle de l'indice des loyers commerciaux prise en compte pour la révision du loyer en application des articles L. 145-38 et L. 145-39 du présent code.
 
@@ -674,7 +674,8 @@ Lorsqu'il est à la fois propriétaire de l'immeuble loué et du fonds de commer
 - Identifiant : LEGIARTI000054142445
 - État : en vigueur depuis le 28/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054142445
-- Cité par : [art. L213-9 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045212577) ; [art. L321-5 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045202901)
+- Renvoie à : [art. L213-11 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-11)
+- Cité par : [art. L213-9 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-9) ; [art. L213-11 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-11) ; [art. L321-5 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-iii/titre-ii/chapitre-1er.md#article-l321-5)
 
 Lorsque le propriétaire d'un local à usage commercial ou artisanal envisage de vendre celui-ci, il en informe le locataire par lettre recommandée avec demande d'avis de réception, ou remise en main propre contre récépissé ou émargement. Cette notification doit, à peine de nullité, indiquer le prix et les conditions de la vente envisagée. Elle vaut offre de vente au profit du locataire. Ce dernier dispose d'un délai d'un mois à compter de la réception de cette offre pour se prononcer. En cas d'acceptation, le locataire dispose, à compter de la date d'envoi de sa réponse au bailleur, d'un délai de deux mois pour la réalisation de la vente. Si, dans sa réponse, il notifie son intention de recourir à un prêt, l'acceptation par le locataire de l'offre de vente est subordonnée à l'obtention du prêt et le délai de réalisation de la vente est porté à quatre mois.
 
@@ -802,7 +803,7 @@ A tout moment et jusqu'à l'expiration d'un délai de quinze jours à compter de
 - Identifiant : LEGIARTI000006222177
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222177
-- Cité par : [art. L145-18 du Code de commerce](chapitre-v.md#article-l145-18) ; [art. L145-19 du Code de commerce](chapitre-v.md#article-l145-19) ; [art. L145-28 du Code de commerce](chapitre-v.md#article-l145-28) ; [art. L145-31 du Code de commerce](chapitre-v.md#article-l145-31) ; [art. L931-19 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-19) ; [art. L941-19 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-19) ; [art. R145-20 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-v.md#article-r145-20) ; [art. L311-5 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031011020)
+- Cité par : [art. L145-18 du Code de commerce](chapitre-v.md#article-l145-18) ; [art. L145-19 du Code de commerce](chapitre-v.md#article-l145-19) ; [art. L145-28 du Code de commerce](chapitre-v.md#article-l145-28) ; [art. L145-31 du Code de commerce](chapitre-v.md#article-l145-31) ; [art. L931-19 du Code de commerce](../../livre-ix/titre-iii/chapitre-ier.md#article-l931-19) ; [art. L941-19 du Code de commerce](../../livre-ix/titre-iv/chapitre-ier.md#article-l941-19) ; [art. R145-20 du Code de commerce](../../../partie-reglementaire/livre-ier/titre-iv/chapitre-v.md#article-r145-20) ; [art. L311-5 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-iii/titre-ier/chapitre-1er.md#article-l311-5)
 
 Les règles de compétence et de procédure des contestations relatives au bail sont fixées par décret en Conseil d'Etat.
 

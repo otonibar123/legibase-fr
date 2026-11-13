@@ -66,7 +66,7 @@ Les créanciers, ou toute autre personne ayant intérêt à ce que la prescripti
 - Identifiant : LEGIARTI000019017063
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017063
-- Cité par : [art. L218-1 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-viii.md#article-l218-1) ; [art. L221-12-1 du Code de la mutualité](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017548) ; [art. L932-13-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029318655) ; [art. L114-3 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017545)
+- Cité par : [art. L218-1 du Code de la consommation](../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-viii.md#article-l218-1) ; [art. L221-12-1 du Code de la mutualité](../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-12-1) ; [art. L932-13-4 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-iii/chapitre-2.md#article-l932-13-4) ; [art. L114-3 du Code des assurances](../../../code-des-assurances/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114-3)
 
 La durée de la prescription peut être abrégée ou allongée par accord des parties. Elle ne peut toutefois être réduite à moins d'un an ni étendue à plus de dix ans.
 

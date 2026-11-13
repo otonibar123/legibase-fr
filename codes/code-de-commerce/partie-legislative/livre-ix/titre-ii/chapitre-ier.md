@@ -21,7 +21,7 @@ Pour l'application de l'article L. 123-32, les mots : “ les organismes gérant
 - Identifiant : LEGIARTI000044048347
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044048347
-- Renvoie à : art. L311-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L311-2 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ier/chapitre-ier.md#article-l311-2)
 
 Pour l'application à Mayotte de l'article L. 123-37, sont identifiés, de manière distincte des actifs agricoles définis à l'article L. 311-2 du code rural et de la pêche maritime, les chefs d'exploitation agricole soumis au critère du troisième alinéa du même article et exerçant des activités de cultures marines.
 
@@ -39,7 +39,7 @@ A l'article L. 133-7, les mots : " les droits, taxes, frais et amendes de douane
 - Identifiant : LEGIARTI000006243189
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006243189
-- Renvoie à : [art. L141-13 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-13) ; [art. 638 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305168) ; [art. 653 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305192)
+- Renvoie à : [art. L141-13 du Code de commerce](../../livre-ier/titre-iv/chapitre-ier.md#article-l141-13) ; [art. 638 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-638) ; [art. 653 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-653)
 
 A l'article L. 141-13, les mots : " de la déclaration prescrite par les articles 638 et 653 du code général des impôts " sont remplacés par les mots : " de la déclaration prescrite dans les conditions prescrites par les dispositions du code des impôts applicable dans la collectivité ".
 
@@ -47,6 +47,7 @@ A l'article L. 141-13, les mots : " de la déclaration prescrite par les article
 - Identifiant : LEGIARTI000025759951
 - État : en vigueur depuis le 28/04/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025759951
+- Renvoie à : [art. 71 du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-ii/chapitre-premier.md#article-71)
 
 Au 6° de l'article L. 145-2, les mots : " à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'œuvres graphiques et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacés par les mots : " à la caisse de sécurité sociale de Mayotte et reconnus auteurs d'œuvres graphiques et plastiques au sens du code des impôts applicable localement ".
 

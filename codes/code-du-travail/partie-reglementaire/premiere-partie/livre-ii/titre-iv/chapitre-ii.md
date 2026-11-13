@@ -10,8 +10,8 @@ Code du travail › Partie réglementaire › Première partie : Les relations i
 - Identifiant : LEGIARTI000051768762
 - État : en vigueur depuis le 21/06/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051768762
-- Renvoie à : [art. L1242-2 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-l1242-2) ; [art. L5132-7 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-7) ; [art. L7232-6 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-6) ; art. L6323-1 du Code de la santé publique
-- Cité par : [art. D431-14 du Code de la recherche](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048771796)
+- Renvoie à : [art. L3421-1 du Code de la défense](../../../../../code-de-la-defense/partie-legislative/partie-3/livre-iv/titre-ii/chapitre-ier.md#article-l3421-1) ; [art. L1434-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-iii/chapitre-iv.md#article-l1434-4) ; [art. L6323-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-1) ; [art. L1242-2 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-l1242-2) ; [art. L5132-7 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-7) ; [art. L7232-6 du Code du travail](../../../../partie-legislative/septieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l7232-6)
+- Cité par : [art. D431-14 du Code de la recherche](../../../../../code-de-la-recherche/partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md#article-d431-14)
 
 En application du 3° de l'article L. 1242-2, les secteurs d'activité dans lesquels des contrats à durée déterminée peuvent être conclus pour les emplois pour lesquels il est d'usage constant de ne pas recourir au contrat à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois sont les suivants :
 
@@ -54,7 +54,7 @@ En application du 3° de l'article L. 1242-2, les secteurs d'activité dans lesq
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045369576
 - Renvoie à : [art. L1242-3 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-l1242-3) ; [art. L5213-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-3)
-- Cité par : [art. D1242-6 du Code du travail](chapitre-ii.md#article-d1242-6) ; [art. D718-7 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031694880) ; [art. D781-113 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037585172)
+- Cité par : [art. D1242-6 du Code du travail](chapitre-ii.md#article-d1242-6) ; [art. D718-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md#article-d718-7) ; [art. D781-113 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-viii/chapitre-ier.md#article-d781-113)
 
 En application du 2° de l'article L. 1242-3, un contrat de travail à durée déterminée peut être conclu lorsque l'employeur s'engage à assurer un complément de formation professionnelle aux :  
 

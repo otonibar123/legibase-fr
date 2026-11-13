@@ -10,7 +10,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018532006
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532006
-- Cité par : [art. R4217-1 du Code du travail](../titre-ier/chapitre-vii.md#article-r4217-1) ; [art. R717-92 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020095097)
+- Cité par : [art. R4217-1 du Code du travail](../titre-ier/chapitre-vii.md#article-r4217-1) ; [art. R717-92 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-92) ; [art. R717-95 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-95)
 
 L'employeur met à la disposition des travailleurs les moyens d'assurer leur propreté individuelle, notamment des vestiaires, des lavabos, des cabinets d'aisance et, le cas échéant, des douches.
 
@@ -116,7 +116,7 @@ Ils sont équipés de chasse d'eau et pourvus de papier hygiénique.
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531978
 - Renvoie à : [Code de la santé publique, Chapitre II : Inscription au tableau de l'ordre](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000006178622)
-- Cité par : [art. R717-93 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020095103)
+- Cité par : [art. R717-93 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-93)
 
 Les cabinets d'aisance sont aérés conformément aux règles d'aération et d'assainissement du chapitre II et convenablement chauffés.
 
@@ -165,7 +165,7 @@ La dispense accordée par l'inspecteur du travail est subordonnée à la prise d
 - Identifiant : LEGIARTI000036483591
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483591
-- Cité par : [art. R717-94 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020095624)
+- Cité par : [art. R717-94 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-94)
 
 L'inspecteur du travail prend sa décision après avis du médecin du travail et du comité social et économique.
 
@@ -200,7 +200,7 @@ Il est interdit de laisser entrer ou séjourner dans les lieux de travail des pe
 - Identifiant : LEGIARTI000041455665
 - État : en vigueur depuis le 02/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041455665
-- Renvoie à : art. L130-1 du Code de la sécurité sociale
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1)
 - Cité par : [art. R4217-1 du Code du travail](../titre-ier/chapitre-vii.md#article-r4217-1) ; [Arrêté du 24 avril 2020, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045633336) ; [Décret n°2019-1586 du 31 décembre 2019, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041432762) ; [Décret n°2021-156 du 13 février 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043137062) ; [Décret n°2022-61 du 25 janvier 2022, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045073492)
 
 Dans les établissements d'au moins cinquante salariés, l'employeur, après avis du comité social et économique, met à leur disposition un local de restauration.  
@@ -213,7 +213,7 @@ Le local de restauration mentionné au premier alinéa est pourvu de sièges et 
 - Identifiant : LEGIARTI000041455662
 - État : en vigueur depuis le 02/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041455662
-- Renvoie à : [art. R4228-19 du Code du travail](chapitre-viii.md#article-r4228-19) ; art. L130-1 du Code de la sécurité sociale
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1) ; [art. R4228-19 du Code du travail](chapitre-viii.md#article-r4228-19)
 - Cité par : [Arrêté du 4 mai 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034800809) ; [Arrêté du 4 mai 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034800812) ; [Décret n°2021-156 du 13 février 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043137060) ; [Décret n°2022-61 du 25 janvier 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045073495)
 
 Dans les établissements de moins de cinquante salariés, l'employeur met à leur disposition un emplacement leur permettant de se restaurer dans de bonnes conditions de santé et de sécurité.  
@@ -253,7 +253,7 @@ Il est interdit d'héberger les travailleurs dans les locaux affectés à un usa
 - Identifiant : LEGIARTI000043841194
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841194
-- Renvoie à : art. R156-1 du Code de la construction et de l'habitation
+- Renvoie à : [art. R156-1 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-v/chapitre-vi.md#article-r156-1)
 
 La surface et le volume habitables, au sens de l'article R. 156-1 du code de la construction et de l'habitation, des locaux affectés à l'hébergement des travailleurs ne peuvent être inférieurs à 6 mètres carrés et 15 mètres cubes par personne. Les parties de locaux d'une hauteur inférieure à 1,90 mètre ne sont pas comptées comme surface habitable.
 

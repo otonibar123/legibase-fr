@@ -24,7 +24,7 @@ Chaque liste régionale est arrêtée par le préfet de région. Elle est publi�
 - Identifiant : LEGIARTI000039652593
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039652593
-- Cité par : [art. R718-15 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504267)
+- Cité par : [art. R718-15 du Code rural (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022504267)
 
 La liste des médiateurs appelés à être désignés par le ministre chargé du travail pour un conflit à incidence nationale ou dont l'incidence s'étend à plus d'une région comprend au moins trente noms de personnalités. Elle est commune pour les professions agricoles et non agricoles et est arrêtée conjointement par les ministres chargés du travail et de l'agriculture.  
 

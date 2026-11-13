@@ -30,7 +30,7 @@ La société en commandite simple est désignée par une dénomination sociale �
 - Identifiant : LEGIARTI000006222720
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222720
-- Cité par : [art. L214-162-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320541)
+- Cité par : [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1)
 
 Les statuts de la société doivent contenir les indications suivantes :  
 
@@ -51,7 +51,7 @@ Les décisions sont prises dans les conditions fixées par les statuts. Toutefoi
 - Identifiant : LEGIARTI000006222725
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222725
-- Cité par : [art. R222-2 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-2) ; [art. L214-162-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033613122)
+- Cité par : [art. R222-2 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-2) ; [art. L214-162-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-3)
 
 L'associé commanditaire ne peut faire aucun acte de gestion externe, même en vertu d'une procuration.  
 
@@ -61,7 +61,7 @@ En cas de contravention à la prohibition prévue par l'alinéa précédent, l'a
 - Identifiant : LEGIARTI000006222726
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222726
-- Cité par : [art. R222-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-3) ; [art. L214-162-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320541)
+- Cité par : [art. R222-3 du Code de commerce](../../../partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-3) ; [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1)
 
 Les associés commanditaires ont le droit, deux fois par an, d'obtenir communication des livres et documents sociaux et de poser par écrit des questions sur la gestion sociale, auxquelles il doit être répondu également par écrit.
 
@@ -113,6 +113,6 @@ En cas de redressement ou de liquidation judiciaires d'un des associés commandi
 - État : en vigueur depuis le 04/01/2003
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006222829
 - Renvoie à : [art. L221-17 du Code de commerce](chapitre-ier.md#article-l221-17)
-- Cité par : [art. L214-162-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051320541)
+- Cité par : [art. L214-162-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-1)
 
 Les dispositions de l'article L. 221-17 sont applicables aux sociétés en commandite simple.

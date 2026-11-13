@@ -16,7 +16,7 @@ Les contraventions donnent lieu à autant d'amendes qu'il y a de salariés indû
 - Identifiant : LEGIARTI000018534331
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534331
-- Renvoie à : [art. L3132-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l3132-1) ; [art. L3132-16 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l3132-16) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L3132-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l3132-1) ; [art. L3132-16 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l3132-16) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 - Cité par : [Décret n°2024-338 du 12 avril 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049412444) ; [Décret n°2024-338 du 12 avril 2024, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049412451)
 
 Le fait de méconnaître les dispositions des articles L. 3132-1 à L. 3132-14 et L. 3132-16 à L. 3132-31, relatives au repos hebdomadaire, ainsi que celles des décrets pris pour leur application, est puni de l'amende prévue pour les contraventions de la cinquième classe.
@@ -38,7 +38,7 @@ L'amende est appliquée autant de fois qu'il y a de salariés indûment employé
 - Identifiant : LEGIARTI000018534327
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534327
-- Renvoie à : [art. L3134-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l3134-3) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L3134-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-iv.md#article-l3134-3) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de méconnaître les dispositions particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin des articles L. 3134-3 à L. 3134-9 ou des décrets pris pour leur application, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
@@ -48,7 +48,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000018534325
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534325
-- Renvoie à : [art. L3164-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-2) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L3164-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-2) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de méconnaître les dispositions des articles L. 3164-2 à L. 3164-4, relatives au repos hebdomadaire et dominical des jeunes travailleurs, ainsi que celles des décrets pris pour leur application, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
@@ -60,7 +60,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000018534323
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534323
-- Renvoie à : [art. L3172-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vii/chapitre-ii.md#article-l3172-1) ; [art. L3172-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vii/chapitre-ii.md#article-l3172-2) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L3172-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vii/chapitre-ii.md#article-l3172-1) ; [art. L3172-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vii/chapitre-ii.md#article-l3172-2) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de méconnaître les dispositions des articles L. 3172-1 et L. 3172-2, relatives au contrôle du repos hebdomadaire, ainsi que celles des décrets pris pour leur application, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 

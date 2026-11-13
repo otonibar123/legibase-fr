@@ -82,7 +82,7 @@ En outre, les associés peuvent, dans les statuts ou par acte séparé, donner m
 - Identifiant : LEGIARTI000039338704
 - État : en vigueur depuis le 31/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039338704
-- Renvoie à : [art. R225-14 du Code de commerce](../../titre-ii/chapitre-v.md#article-r225-14) ; art. L411-2 du Code monétaire et financier
+- Renvoie à : [art. R225-14 du Code de commerce](../../titre-ii/chapitre-v.md#article-r225-14) ; [art. L411-2 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1)
 
 Lors de la constitution d'une société par actions sans offre au public, ou par la voie d'une offre au public mentionnée au 1° ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, l'état des actes accomplis pour le compte de la société en formation, avec l'indication, pour chacun d'eux, de l'engagement qui en résulterait pour la société, est tenu à la disposition des actionnaires dans les conditions prévues à l'article R. 225-14.
 
@@ -94,7 +94,7 @@ En outre, les actionnaires peuvent, dans les statuts, ou par acte séparé, donn
 - Identifiant : LEGIARTI000039338697
 - État : en vigueur depuis le 31/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039338697
-- Renvoie à : [art. L210-6 du Code de commerce](../../../../partie-legislative/livre-ii/titre-ier.md#article-l210-6) ; art. L411-2 du Code monétaire et financier
+- Renvoie à : [art. L210-6 du Code de commerce](../../../../partie-legislative/livre-ii/titre-ier.md#article-l210-6) ; [art. L411-2 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1)
 
 Lors de la constitution d'une société par actions avec offre au public, les actes accomplis pour le compte de la société en formation conformément au deuxième alinéa de l'article L. 210-6 sont soumis à l'assemblée générale constitutive, après qu'ont été désignés les premiers membres du conseil d'administration ou du conseil de surveillance et les premiers commissaires aux comptes. Ces dispositions ne sont pas applicables lors de la constitution d'une société par actions avec offre au public mentionnée au 1° ou au 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code.
 

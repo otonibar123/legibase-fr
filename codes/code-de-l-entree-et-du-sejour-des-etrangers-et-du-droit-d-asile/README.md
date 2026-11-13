@@ -1,0 +1,492 @@
+# Code de l'entrée et du séjour des étrangers et du droit d'asile
+
+Dernière modification du texte dans LEGI : 30/10/2026. 2466 articles en vigueur, répartis dans 377 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre I : DISPOSITIONS GÉNÉRALES**
+    - [Titre I : CHAMP D'APPLICATION](partie-legislative/livre-i/titre-i.md) (6 articles)
+    - **Titre II : ADMINISTRATIONS EN CHARGE DE L'ENTRÉE ET DU SÉJOUR DES ÉTRANGERS ET DU DROIT D'ASILE**
+      - [Chapitre Ier : ÉTABLISSEMENTS PUBLICS](partie-legislative/livre-i/titre-ii/chapitre-ier.md) (15 articles)
+      - [Chapitre Ier bis : FRANCE ASILE](partie-legislative/livre-i/titre-ii/chapitre-ier-bis.md) (1 article)
+      - [Chapitre III : RAPPORT ANNUEL SUR LES ORIENTATIONS DE LA POLITIQUE D'ASILE, D'IMMIGRATION ET D'INTÉGRATION](partie-legislative/livre-i/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : COUR NATIONALE DU DROIT D'ASILE**
+      - [Chapitre unique.](partie-legislative/livre-i/titre-iii/chapitre-unique.md) (9 articles)
+    - **Titre IV : PROCÉDURES ADMINISTRATIVES ET TRAITEMENTS DE DONNÉES**
+      - [Titre IV : PROCÉDURES ADMINISTRATIVES ET TRAITEMENTS DE DONNÉES : articles rattachés directement](partie-legislative/livre-i/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre I : PROCÉDURES ADMINISTRATIVES](partie-legislative/livre-i/titre-iv/chapitre-i.md) (9 articles)
+      - [Chapitre II : TRAITEMENTS AUTOMATISÉS DE DONNÉES ÀCARACTÈRE PERSONNEL](partie-legislative/livre-i/titre-iv/chapitre-ii.md) (6 articles)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-i/titre-v/chapitre-i.md) (3 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-i/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-i/titre-v/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-i/titre-v/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-i/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-i/titre-v/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-legislative/livre-i/titre-v/chapitre-vii.md) (2 articles)
+      - [Chapitre VIII : DISPOSITIONS ADMINISTRATIVES DIVERSES](partie-legislative/livre-i/titre-v/chapitre-viii.md) (2 articles)
+  - **Livre II : DISPOSITIONS APPLICABLES AUX CITOYENS DE L'UNION EUROPÉENNE ET AUX MEMBRES DE LEUR FAMILLE**
+    - [Livre II : DISPOSITIONS APPLICABLES AUX CITOYENS DE L'UNION EUROPÉENNE ET AUX MEMBRES DE LEUR FAMILLE : articles rattachés directement](partie-legislative/livre-ii/articles-directs.md) (6 articles)
+    - [Titre I : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ii/titre-i.md) (1 article)
+    - **Titre II : ENTRÉE EN FRANCE**
+      - [Chapitre I : CONDITIONS D'ADMISSION SUR LE TERRITOIRE FRANÇAIS](partie-legislative/livre-ii/titre-ii/chapitre-i.md) (2 articles)
+      - [Chapitre II : INTERDICTION ADMINISTRATIVE DU TERRITOIRE](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : AUTRES DISPOSITIONS APPLICABLES](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : SÉJOUR EN FRANCE**
+      - [Chapitre I : DISPOSITIONS COMMUNES](partie-legislative/livre-ii/titre-iii/chapitre-i.md) (3 articles)
+      - [Chapitre II : SÉJOUR DE MOINS DE TROIS MOIS](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : SÉJOUR DE PLUS DE TROIS MOIS](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : DROIT AU SÉJOUR PERMANENT](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : REFUS DE SÉJOUR](partie-legislative/livre-ii/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VI : CONDITIONS DE CIRCULATION](partie-legislative/livre-ii/titre-iii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : AUTRES DISPOSITIONS APPLICABLES](partie-legislative/livre-ii/titre-iii/chapitre-vii.md) (1 article)
+    - [Titre IV : DROIT D'ASILE ET AUTRES PROTECTIONS INTERNATIONALES](partie-legislative/livre-ii/titre-iv.md) (1 article)
+    - **Titre V : DÉCISIONS D'ÉLOIGNEMENT**
+      - [Chapitre I : OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS](partie-legislative/livre-ii/titre-v/chapitre-i.md) (8 articles)
+      - [Chapitre II : EXPULSION](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : AUTRES DISPOSITIONS APPLICABLES](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VI : EXÉCUTION DES DÉCISIONS D'ÉLOIGNEMENT**
+      - [Chapitre I : EXÉCUTION D'OFFICE DE LA DÉCISION PORTANT OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS](partie-legislative/livre-ii/titre-vi/chapitre-i.md) (1 article)
+      - [Chapitre II : ASSIGNATION À RÉSIDENCE](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : RÉTENTION ADMINISTRATIVE](partie-legislative/livre-ii/titre-vi/chapitre-iii.md) (1 article)
+      - [Chapitre IV : AUTRES DISPOSITIONS APPLICABLES](partie-legislative/livre-ii/titre-vi/chapitre-iv.md) (1 article)
+    - [Titre VII : CONTRÔLES ET SANCTIONS](partie-legislative/livre-ii/titre-vii.md) (1 article)
+    - [Titre VII bis : PROCÉDURE CONTENTIEUSE](partie-legislative/livre-ii/titre-vii-bis.md) (1 article)
+    - **Titre VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-ii/titre-viii/chapitre-i.md) (7 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-ii/titre-viii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-ii/titre-viii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-ii/titre-viii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-ii/titre-viii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-ii/titre-viii/chapitre-vi.md) (2 articles)
+  - **Livre III : ENTRÉE EN FRANCE**
+    - **Titre I : CONDITIONS D'ADMISSION SUR LE TERRITOIRE FRANÇAIS**
+      - [Titre I : CONDITIONS D'ADMISSION SUR LE TERRITOIRE FRANÇAIS : articles rattachés directement](partie-legislative/livre-iii/titre-i/articles-directs.md) (1 article)
+      - [Chapitre I : DISPOSITIONS COMMUNES](partie-legislative/livre-iii/titre-i/chapitre-i.md) (2 articles)
+      - [Chapitre II : VISAS](partie-legislative/livre-iii/titre-i/chapitre-ii.md) (10 articles)
+      - [Chapitre III : DOCUMENTS ET FORMALITÉS](partie-legislative/livre-iii/titre-i/chapitre-iii.md) (8 articles)
+    - **Titre II : INTERDICTION ADMINISTRATIVE DU TERRITOIRE**
+      - [Titre II : INTERDICTION ADMINISTRATIVE DU TERRITOIRE : articles rattachés directement](partie-legislative/livre-iii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : ÉDICTION](partie-legislative/livre-iii/titre-ii/chapitre-i.md) (2 articles)
+      - [Chapitre II : EXÉCUTION](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : ABROGATION](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : CONTRÔLES AUX FRONTIÈRES ET REFUS D'ENTRÉE SUR LE TERRITOIRE FRANÇAIS**
+      - [Titre III : CONTRÔLES AUX FRONTIÈRES ET REFUS D'ENTRÉE SUR LE TERRITOIRE FRANÇAIS : articles rattachés directement](partie-legislative/livre-iii/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre I : CONTRÔLES AUX FRONTIÈRES](partie-legislative/livre-iii/titre-iii/chapitre-i.md) (3 articles)
+      - [Chapitre II : DÉCISION DE REFUS D'ENTRÉE À LA FRONTIÈRE](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : EXÉCUTION D'OFFICE DE LA DÉCISION DE REFUS D'ENTRÉE À LA FRONTIÈRE](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (5 articles)
+    - **Titre IV : ZONE D'ATTENTE**
+      - [Titre IV : ZONE D'ATTENTE : articles rattachés directement](partie-legislative/livre-iii/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre I : PLACEMENT EN ZONE D'ATTENTE](partie-legislative/livre-iii/titre-iv/chapitre-i.md) (7 articles)
+      - [Chapitre II : MAINTIEN EN ZONE D'ATTENTE](partie-legislative/livre-iii/titre-iv/chapitre-ii.md) (19 articles)
+      - [Chapitre III : RÉGIME DE LA ZONE D'ATTENTE](partie-legislative/livre-iii/titre-iv/chapitre-iii.md) (11 articles)
+    - **Titre V : ASILE À LA FRONTIÈRE**
+      - [Titre V : ASILE À LA FRONTIÈRE : articles rattachés directement](partie-legislative/livre-iii/titre-v/articles-directs.md) (1 article)
+      - [Chapitre I : EXAMEN DE LA DEMANDE D'ASILE À LA FRONTIÈRE](partie-legislative/livre-iii/titre-v/chapitre-i.md) (5 articles)
+      - [Chapitre II : REFUS D'ENTRÉE AU TITRE DE L'ASILE](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (7 articles)
+    - **Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-iii/titre-vi/chapitre-i.md) (5 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-iii/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-iii/titre-vi/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-iii/titre-vi/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-iii/titre-vi/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-iii/titre-vi/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-legislative/livre-iii/titre-vi/chapitre-vii.md) (6 articles)
+  - **Livre IV : SÉJOUR EN FRANCE**
+    - **Titre I : DISPOSITIONS GÉNÉRALES**
+      - [Titre I : DISPOSITIONS GÉNÉRALES : articles rattachés directement](partie-legislative/livre-iv/titre-i/articles-directs.md) (1 article)
+      - [Chapitre I : DOCUMENTS DE SÉJOUR](partie-legislative/livre-iv/titre-i/chapitre-i.md) (5 articles)
+      - [Chapitre II : CONDITIONS GÉNÉRALES DE SÉJOUR](partie-legislative/livre-iv/titre-i/chapitre-ii.md) (10 articles)
+      - [Chapitre III : INTÉGRATION RÉPUBLICAINE](partie-legislative/livre-iv/titre-i/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : DROITS ATTACHÉS AUX TITRES DE SÉJOUR](partie-legislative/livre-iv/titre-i/chapitre-iv.md) (15 articles)
+    - **Titre II : CATÉGORIES DE TITRES DE SÉJOUR**
+      - [Titre II : CATÉGORIES DE TITRES DE SÉJOUR : articles rattachés directement](partie-legislative/livre-iv/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : TITRES DE SÉJOUR POUR MOTIF PROFESSIONNEL](partie-legislative/livre-iv/titre-ii/chapitre-i.md) (32 articles)
+      - [Chapitre II : TITRES DE SÉJOUR POUR MOTIF D'ÉTUDES](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : TITRES DE SÉJOUR POUR MOTIF FAMILIAL](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : TITRES DE SÉJOUR ACCORDÉS AUX BÉNÉFICIAIRES D'UNE PROTECTION INTERNATIONALE](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (21 articles)
+      - [Chapitre V : TITRES DE SÉJOUR POUR MOTIF HUMANITAIRE](partie-legislative/livre-iv/titre-ii/chapitre-v.md) (12 articles)
+      - [Chapitre VI : TITRES DE SÉJOUR DÉLIVRÉS POUR UN AUTRE MOTIF](partie-legislative/livre-iv/titre-ii/chapitre-vi.md) (23 articles)
+    - **Titre III : PROCÉDURE ADMINISTRATIVE**
+      - [Chapitre I : DEMANDES DE TITRES DE SÉJOUR](partie-legislative/livre-iv/titre-iii/chapitre-i.md) (6 articles)
+      - [Chapitre II : REFUS ET RETRAIT DES TITRES DE SÉJOUR](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (18 articles)
+      - [Chapitre III : CONDITIONS DE RENOUVELLEMENT DES TITRES DE SÉJOUR](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : RÉGIME DU REGROUPEMENT FAMILIAL](partie-legislative/livre-iv/titre-iii/chapitre-iv.md) (12 articles)
+      - [Chapitre V : ADMISSION EXCEPTIONNELLE AU SÉJOUR](partie-legislative/livre-iv/titre-iii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS FISCALES](partie-legislative/livre-iv/titre-iii/chapitre-vi.md) (12 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-iv/titre-iv/chapitre-i.md) (10 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (4 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-iv/titre-iv/chapitre-v.md) (5 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-iv/titre-iv/chapitre-vi.md) (5 articles)
+  - **Livre V : DROIT D'ASILE ET AUTRES PROTECTIONS INTERNATIONALES**
+    - **Titre I : CONDITIONS D'OCTROI DE L'ASILE**
+      - [Titre I : CONDITIONS D'OCTROI DE L'ASILE : articles rattachés directement](partie-legislative/livre-v/titre-i/articles-directs.md) (1 article)
+      - [Chapitre I : STATUT DE RÉFUGIÉ](partie-legislative/livre-v/titre-i/chapitre-i.md) (9 articles)
+      - [Chapitre II : PROTECTION SUBSIDIAIRE](partie-legislative/livre-v/titre-i/chapitre-ii.md) (4 articles)
+      - [Chapitre III : DISPOSITIONS COMMUNES](partie-legislative/livre-v/titre-i/chapitre-iii.md) (7 articles)
+    - **Titre II : ACCÈS À LA PROCÉDURE D'ASILE**
+      - [Titre II : ACCÈS À LA PROCÉDURE D'ASILE : articles rattachés directement](partie-legislative/livre-v/titre-ii/articles-directs.md) (2 articles)
+      - [Chapitre I : ENREGISTREMENT DE LA DEMANDE D'ASILE](partie-legislative/livre-v/titre-ii/chapitre-i.md) (13 articles)
+      - [Chapitre II : ÉVALUATION DE LA VULNÉRABILITÉ DU DEMANDEUR D'ASILE ET DE SES BESOINS PARTICULIERS](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : CAS D'ASSIGNATION A RESIDENCE OU DE PLACEMENT EN RETENTION DU DEMANDEUR D'ASILE](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (7 articles)
+    - **Titre III : EXAMEN DES DEMANDES D'ASILE**
+      - [Titre III : EXAMEN DES DEMANDES D'ASILE : articles rattachés directement](partie-legislative/livre-v/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre I : PROCÉDURE DEVANT L'OFFICE FRANÇAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES](partie-legislative/livre-v/titre-iii/chapitre-i.md) (42 articles)
+      - [Chapitre II : RECOURS DEVANT LA COUR NATIONALE DU DROIT D'ASILE](partie-legislative/livre-v/titre-iii/chapitre-ii.md) (14 articles)
+    - **Titre IV : DROIT AU MAINTIEN SUR LE TERRITOIRE FRANÇAIS**
+      - [Titre IV : DROIT AU MAINTIEN SUR LE TERRITOIRE FRANÇAIS : articles rattachés directement](partie-legislative/livre-v/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre I : BÉNÉFICE DU DROIT AU MAINTIEN](partie-legislative/livre-v/titre-iv/chapitre-i.md) (3 articles)
+      - [Chapitre II : FIN DU DROIT AU MAINTIEN](partie-legislative/livre-v/titre-iv/chapitre-ii.md) (6 articles)
+    - **Titre V : CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE**
+      - [Titre V : CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE : articles rattachés directement](partie-legislative/livre-v/titre-v/articles-directs.md) (3 articles)
+      - [Chapitre I : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-v/titre-v/chapitre-i.md) (16 articles)
+      - [Chapitre II : HÉBERGEMENT DES DEMANDEURS D'ASILE](partie-legislative/livre-v/titre-v/chapitre-ii.md) (15 articles)
+      - [Chapitre III : ALLOCATION POUR DEMANDEUR D'ASILE](partie-legislative/livre-v/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : CONDITIONS D'ACCÈS AU MARCHÉ DU TRAVAIL](partie-legislative/livre-v/titre-v/chapitre-iv.md) (4 articles)
+      - [Chapitre V : PROCÉDURE CONTENTIEUSE](partie-legislative/livre-v/titre-v/chapitre-v.md) (1 article)
+    - **Titre VI : CONTENU ET FIN DE LA PROTECTION**
+      - [Titre VI : CONTENU ET FIN DE LA PROTECTION : articles rattachés directement](partie-legislative/livre-v/titre-vi/articles-directs.md) (1 article)
+      - [Chapitre I : CONTENU DE LA PROTECTION](partie-legislative/livre-v/titre-vi/chapitre-i.md) (16 articles)
+      - [Chapitre II : FIN DE LA PROTECTION](partie-legislative/livre-v/titre-vi/chapitre-ii.md) (3 articles)
+    - **Titre VII : DISPOSITIONS APPLICABLES LORSQUE L'EXAMEN DE LA DEMANDE D'ASILE RELÈVE DE LA COMPÉTENCE D'UN AUTRE ÉTAT**
+      - [Chapitre I : ENREGISTREMENT DE LA DEMANDE ET ÉVALUATION DE LA VULNÉRABILITÉ DU DEMANDEUR D'ASILE ET DE SES BESOINS PARTICULIERS](partie-legislative/livre-v/titre-vii/chapitre-i.md) (2 articles)
+      - [Chapitre II : PROCÉDURES DE PRISE EN CHARGE ET DE REPRISE EN CHARGE](partie-legislative/livre-v/titre-vii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : DROIT AU MAINTIEN SUR LE TERRITOIRE FRANÇAIS ET CONDITIONS D'ACCUEIL](partie-legislative/livre-v/titre-vii/chapitre-iii.md) (6 articles)
+    - **Titre VIII : AUTRES PROTECTIONS INTERNATIONALES**
+      - [Titre VIII : AUTRES PROTECTIONS INTERNATIONALES : articles rattachés directement](partie-legislative/livre-v/titre-viii/articles-directs.md) (1 article)
+      - [Chapitre I : PROTECTION TEMPORAIRE](partie-legislative/livre-v/titre-viii/chapitre-i.md) (10 articles)
+      - [Chapitre II : APATRIDIE](partie-legislative/livre-v/titre-viii/chapitre-ii.md) (9 articles)
+    - **Titre IX : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-v/titre-ix/chapitre-i.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-v/titre-ix/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-v/titre-ix/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-v/titre-ix/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-v/titre-ix/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-v/titre-ix/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-legislative/livre-v/titre-ix/chapitre-vii.md) (1 article)
+  - **Livre VI : DÉCISIONS D'ÉLOIGNEMENT**
+    - **Titre I : OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS**
+      - [Titre I : OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS : articles rattachés directement](partie-legislative/livre-vi/titre-i/articles-directs.md) (1 article)
+      - [Chapitre I : DÉCISION PORTANT OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS](partie-legislative/livre-vi/titre-i/chapitre-i.md) (3 articles)
+      - [Chapitre II : DÉCISION POUVANT ASSORTIR LA DÉCISION PORTANT OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS](partie-legislative/livre-vi/titre-i/chapitre-ii.md) (12 articles)
+      - [Chapitre III : PROCÉDURE ADMINISTRATIVE](partie-legislative/livre-vi/titre-i/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : PROCÉDURE CONTENTIEUSE](partie-legislative/livre-vi/titre-i/chapitre-iv.md) (8 articles)
+      - [Chapitre V : CAS DE L'ÉTRANGER OBLIGÉ DE QUITTER LE TERRITOIRE D'UN AUTRE ÉTAT MEMBRE DE L'UNION EUROPÉENNE OU D'UN ÉTAT AVEC LEQUEL S'APPLIQUE L'ACQUIS DE SCHENGEN](partie-legislative/livre-vi/titre-i/chapitre-v.md) (2 articles)
+    - **Titre II : REMISE AUX AUTORITÉS D'UN AUTRE ÉTAT MEMBRE DE L'UNION EUROPÉENNE**
+      - [Chapitre Ier : CAS DANS LESQUELS UN ÉTRANGER PEUT FAIRE L'OBJET D'UNE DÉCISION DE REMISE](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : INTERDICTION DE CIRCULATION SUR LE TERRITOIRE FRANÇAIS ASSORTISSANT UNE DÉCISION DE REMISE](partie-legislative/livre-vi/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : PROCÉDURE CONTENTIEUSE](partie-legislative/livre-vi/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : EXPULSION**
+      - [Titre III : EXPULSION : articles rattachés directement](partie-legislative/livre-vi/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : CAS DANS LESQUELS UN ÉTRANGER PEUT FAIRE L'OBJET D'UNE DÉCISION D'EXPULSION](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : PROCÉDURE ADMINISTRATIVE](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (7 articles)
+    - **Titre IV : PEINE D'INTERDICTION DU TERRITOIRE FRANÇAIS**
+      - [Titre IV : PEINE D'INTERDICTION DU TERRITOIRE FRANÇAIS : articles rattachés directement](partie-legislative/livre-vi/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre unique.](partie-legislative/livre-vi/titre-iv/chapitre-unique.md) (3 articles)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-vi/titre-v/chapitre-ier.md) (9 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-vi/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-vi/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-vi/titre-v/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-vi/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-vi/titre-v/chapitre-vi.md) (2 articles)
+  - **Livre VII : EXÉCUTION DES DÉCISIONS D'ÉLOIGNEMENT**
+    - [Livre VII : EXÉCUTION DES DÉCISIONS D'ÉLOIGNEMENT : articles rattachés directement](partie-legislative/livre-vii/articles-directs.md) (2 articles)
+    - **Titre Ier : EXÉCUTION PAR L'ÉTRANGER**
+      - [Titre Ier : EXÉCUTION PAR L'ÉTRANGER : articles rattachés directement](partie-legislative/livre-vii/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre unique.](partie-legislative/livre-vii/titre-ier/chapitre-unique.md) (2 articles)
+    - **Titre II : EXÉCUTION PAR L'AUTORITÉ ADMINISTRATIVE**
+      - [Titre II : EXÉCUTION PAR L'AUTORITÉ ADMINISTRATIVE : articles rattachés directement](partie-legislative/livre-vii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre Ier : PRÉPARATION DE L'EXÉCUTION D'OFFICE](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : EXÉCUTION D'OFFICE](partie-legislative/livre-vii/titre-ii/chapitre-ii.md) (11 articles)
+    - **Titre III : ASSIGNATION À RÉSIDENCE**
+      - [Titre III : ASSIGNATION À RÉSIDENCE : articles rattachés directement](partie-legislative/livre-vii/titre-iii/articles-directs.md) (2 articles)
+      - [Chapitre I : CAS DANS LESQUELS L'ÉTRANGER PEUT ÊTRE ASSIGNÉ À RÉSIDENCE](partie-legislative/livre-vii/titre-iii/chapitre-i.md) (5 articles)
+      - [Chapitre II : RÉGIME DES ASSIGNATIONS À RÉSIDENCE](partie-legislative/livre-vii/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : MESURES APPLICABLES AUX ÉTRANGERS ASSIGNÉS À RÉSIDENCE](partie-legislative/livre-vii/titre-iii/chapitre-iii.md) (17 articles)
+    - **Titre IV : RÉTENTION ADMINISTRATIVE**
+      - [Titre IV : RÉTENTION ADMINISTRATIVE : articles rattachés directement](partie-legislative/livre-vii/titre-iv/articles-directs.md) (2 articles)
+      - [Chapitre I : PLACEMENT EN RÉTENTION PAR L'AUTORITÉ ADMINISTRATIVE](partie-legislative/livre-vii/titre-iv/chapitre-i.md) (11 articles)
+      - [Chapitre II : MAINTIEN EN RÉTENTION PAR LE MAGISTRAT DU SIEGE DU TRIBUNAL JUDICIAIRE](partie-legislative/livre-vii/titre-iv/chapitre-ii.md) (9 articles)
+      - [Chapitre III : CONTRÔLE DE LA RÉTENTION PAR L'AUTORITÉ JUDICIAIRE](partie-legislative/livre-vii/titre-iv/chapitre-iii.md) (25 articles)
+      - [Chapitre IV : RÉGIME DE LA RÉTENTION](partie-legislative/livre-vii/titre-iv/chapitre-iv.md) (16 articles)
+    - **Titre V : MESURES APPLICABLES EN CAS DE DEMANDE D'ASILE**
+      - [Titre V : MESURES APPLICABLES EN CAS DE DEMANDE D'ASILE : articles rattachés directement](partie-legislative/livre-vii/titre-v/articles-directs.md) (1 article)
+      - [Chapitre I : MESURES APPLICABLES EN VUE DE L'EXÉCUTION D'UNE DÉCISION DE TRANSFERT](partie-legislative/livre-vii/titre-v/chapitre-i.md) (13 articles)
+      - [Chapitre II : MESURES APPLICABLES EN VUE DE L'EXÉCUTION DE LA DÉCISION PORTANT OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS DU DEMANDEUR D'ASILE DONT LE DROIT AU MAINTIEN À PRIS FIN](partie-legislative/livre-vii/titre-v/chapitre-ii.md) (11 articles)
+      - [Chapitre III : MESURES APPLICABLES EN VUE DE L'EXÉCUTION D'UNE DÉCISION D'EXPULSION, D'UNE PEINE D'INTERDICTION DU TERRITOIRE FRANÇAIS OU D'UNE INTERDICTION ADMINISTRATIVE DU TERRITOIRE FRANÇAIS EN CAS DE DEMANDE D'ASILE](partie-legislative/livre-vii/titre-v/chapitre-iii.md) (11 articles)
+      - [Chapitre IV : DEMANDE D'ASILE PRÉSENTÉE EN RÉTENTION](partie-legislative/livre-vii/titre-v/chapitre-iv.md) (8 articles)
+    - **Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-vii/titre-vi/chapitre-i.md) (9 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-vii/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-vii/titre-vi/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-vii/titre-vi/chapitre-iv.md) (3 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-vii/titre-vi/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-vii/titre-vi/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-legislative/livre-vii/titre-vi/chapitre-vii.md) (1 article)
+  - **Livre VIII : CONTRÔLES ET SANCTIONS**
+    - **Titre Ier : CONTRÔLES**
+      - [Titre Ier : CONTRÔLES : articles rattachés directement](partie-legislative/livre-viii/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre I : VÉRIFICATIONS PRÉALABLES À LA DÉLIVRANCE OU AU RETRAIT DES TITRES DE SÉJOUR](partie-legislative/livre-viii/titre-ier/chapitre-i.md) (6 articles)
+      - [Chapitre II : CONTRÔLE DE LA DÉTENTION DES TITRES](partie-legislative/livre-viii/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : VÉRIFICATION DU DROIT DE CIRCULATION ET DE SÉJOUR](partie-legislative/livre-viii/titre-ier/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : MESURES DE SUIVI DES ÉTRANGERS](partie-legislative/livre-viii/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : SANCTIONS**
+      - [Titre II : SANCTIONS : articles rattachés directement](partie-legislative/livre-viii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : MÉCONNAISSANCE DES OBLIGATIONS RELATIVES À L'ENTRÉE EN FRANCE](partie-legislative/livre-viii/titre-ii/chapitre-i.md) (12 articles)
+      - [Chapitre II : MÉCONNAISSANCE DES OBLIGATIONS RELATIVES AU SÉJOUR EN FRANCE](partie-legislative/livre-viii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : FACILITATION DE L'ENTRÉE, DE LA CIRCULATION ET DU SÉJOUR IRRÉGULIERS](partie-legislative/livre-viii/titre-ii/chapitre-iii.md) (18 articles)
+      - [Chapitre IV : MANQUEMENT À L'EXÉCUTION D'UNE DÉCISION D'ÉLOIGNEMENT](partie-legislative/livre-viii/titre-ii/chapitre-iv.md) (12 articles)
+    - **Titre III : DISPOSITIONS APPLICABLES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-legislative/livre-viii/titre-iii/chapitre-i.md) (5 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-legislative/livre-viii/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-legislative/livre-viii/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-legislative/livre-viii/titre-iii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-legislative/livre-viii/titre-iii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-legislative/livre-viii/titre-iii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-legislative/livre-viii/titre-iii/chapitre-vii.md) (4 articles)
+  - **Livre IX : PROCÉDURES CONTENTIEUSES DEVANT LE JUGE ADMINISTRATIF**
+    - [Livre IX : PROCÉDURES CONTENTIEUSES DEVANT LE JUGE ADMINISTRATIF : articles rattachés directement](partie-legislative/livre-ix/articles-directs.md) (2 articles)
+    - **Titre Ier : PROCÉDURE COLLÉGIALE SPÉCIALE**
+      - [Chapitre UNIQUE](partie-legislative/livre-ix/titre-ier/chapitre-unique.md) (1 article)
+    - **Titre II : PROCÉDURES À JUGE UNIQUE**
+      - [Chapitre Ier : Délais de recours et de jugement](partie-legislative/livre-ix/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Règles de procédure](partie-legislative/livre-ix/titre-ii/chapitre-ii.md) (3 articles)
+    - **Titre III : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon](partie-legislative/livre-ix/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Dispositions applicables à Saint-Barthélemy](partie-legislative/livre-ix/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions applicables à Saint-Martin](partie-legislative/livre-ix/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Dispositions applicables dans les iles Wallis et Futuna](partie-legislative/livre-ix/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions applicables en Polynésie française](partie-legislative/livre-ix/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions applicables en Nouvelle-Calédonie](partie-legislative/livre-ix/titre-iii/chapitre-vi.md) (1 article)
+- **Partie réglementaire**
+  - **Livre I : DISPOSITIONS GÉNÉRALES**
+    - [Titre I : CHAMP D'APPLICATION](partie-reglementaire/livre-i/titre-i.md) (1 article)
+    - **Titre II : ADMINISTRATIONS EN CHARGE DE L'ENTRÉE ET DU SÉJOUR DES ÉTRANGERS ET DU DROIT D'ASILE**
+      - [Chapitre I : ÉTABLISSEMENTS PUBLICS](partie-reglementaire/livre-i/titre-ii/chapitre-i.md) (39 articles)
+      - [Chapitre II : COMPETENCE DES ADMINISTRATIONS DÉCONCENTRÉES](partie-reglementaire/livre-i/titre-ii/chapitre-ii.md) (4 articles)
+    - [Titre II BIS : COMITÉ INTERMINISTÉRIEL DE CONTRÔLE DE L'IMMIGRATION](partie-reglementaire/livre-i/titre-ii-bis.md) (4 articles)
+    - **Titre III : COUR NATIONALE DU DROIT D'ASILE**
+      - [Chapitre unique.](partie-reglementaire/livre-i/titre-iii/chapitre-unique.md) (13 articles)
+    - **Titre IV : PROCEDURES ADMINISTRATIVES ET TRAITEMENTS DE DONNÉES**
+      - [Titre IV : PROCEDURES ADMINISTRATIVES ET TRAITEMENTS DE DONNÉES : articles rattachés directement](partie-reglementaire/livre-i/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre I : PROCEDURES ADMINISTRATIVES](partie-reglementaire/livre-i/titre-iv/chapitre-i.md) (13 articles)
+      - [Chapitre II : TRAITEMENTS AUTOMATISÉS DE DONNÉES À CARACTÈRE PERSONNEL](partie-reglementaire/livre-i/titre-iv/chapitre-ii.md) (68 articles)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-i/titre-v/chapitre-i.md) (7 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-i/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-reglementaire/livre-i/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-i/titre-v/chapitre-iv.md) (4 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-i/titre-v/chapitre-v.md) (4 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-i/titre-v/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-i/titre-v/chapitre-vii.md) (3 articles)
+  - **Livre II : DISPOSITIONS APPLICABLES AUX CITOYENS DE L'UNION EUROPÉENNE ET AUX MEMBRES DE LEUR FAMILLE**
+    - [Titre I : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ii/titre-i.md) (1 article)
+    - **Titre II : ENTRÉE EN FRANCE**
+      - [Chapitre I : CONDITIONS D'ADMISSION SUR LE TERRITOIRE FRANÇAIS](partie-reglementaire/livre-ii/titre-ii/chapitre-i.md) (2 articles)
+      - [Chapitre III : AUTRES DISPOSITIONS APPLICABLES](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : SÉJOUR EN FRANCE**
+      - [Chapitre I : DISPOSITIONS COMMUNES](partie-reglementaire/livre-ii/titre-iii/chapitre-i.md) (3 articles)
+      - [Chapitre III : SÉJOUR DE PLUS DE TROIS MOIS](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (18 articles)
+      - [Chapitre IV : DROIT AU SÉJOUR PERMANENT](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (6 articles)
+      - [Chapitre VII : AUTRES DISPOSITIONS APPLICABLES](partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md) (1 article)
+    - [Titre IV : DROIT D'ASILE ET AUTRES PROTECTIONS INTERNATIONALES](partie-reglementaire/livre-ii/titre-iv.md) (1 article)
+    - **Titre V : DÉCISIONS D'ÉLOIGNEMENT**
+      - [Chapitre I : OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS](partie-reglementaire/livre-ii/titre-v/chapitre-i.md) (3 articles)
+      - [Chapitre II : EXPULSION](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : AUTRES DISPOSITIONS APPLICABLES](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VI : EXÉCUTION DES DÉCISIONS D'ÉLOIGNEMENT**
+      - [Chapitre IV : AUTRES DISPOSITIONS APPLICABLES](partie-reglementaire/livre-ii/titre-vi/chapitre-iv.md) (1 article)
+    - [Titre VII : CONTRÔLES ET SANCTIONS](partie-reglementaire/livre-ii/titre-vii.md) (4 articles)
+    - [Titre VII BIS : PROCÉDURE CONTENTIEUSE](partie-reglementaire/livre-ii/titre-vii-bis.md) (1 article)
+    - **Titre VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIERES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-ii/titre-viii/chapitre-i.md) (5 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-ii/titre-viii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES A SAINT-MARTIN](partie-reglementaire/livre-ii/titre-viii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-ii/titre-viii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-ii/titre-viii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-ii/titre-viii/chapitre-vi.md) (2 articles)
+  - **Livre III : ENTRÉE EN FRANCE**
+    - **Titre I : CONDITIONS D'ADMISSION SUR LE TERRITOIRE FRANÇAIS**
+      - [Chapitre I : DISPOSITIONS COMMUNES](partie-reglementaire/livre-iii/titre-i/chapitre-i.md) (3 articles)
+      - [Chapitre II : VISAS ET AUTORISATIONS DE VOYAGE](partie-reglementaire/livre-iii/titre-i/chapitre-ii.md) (19 articles)
+      - [Chapitre III : DOCUMENTS ET FORMALITÉS](partie-reglementaire/livre-iii/titre-i/chapitre-iii.md) (18 articles)
+    - **Titre II : INTERDICTION ADMINISTRATIVE DU TERRITOIRE**
+      - [Titre II : INTERDICTION ADMINISTRATIVE DU TERRITOIRE : articles rattachés directement](partie-reglementaire/livre-iii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : ÉDICTION](partie-reglementaire/livre-iii/titre-ii/chapitre-i.md) (1 article)
+    - **Titre III : CONTRÔLES AUX FRONTIÈRES ET REFUS D'ENTRÉE SUR LE TERRITOIRE FRANÇAIS**
+      - [Titre III : CONTRÔLES AUX FRONTIÈRES ET REFUS D'ENTRÉE SUR LE TERRITOIRE FRANÇAIS : articles rattachés directement](partie-reglementaire/livre-iii/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre II : DÉCISION DE REFUS D'ENTRÉE À LA FRONTIÈRE](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre IV : DÉCISION DE TRANSFERT PRÉVUE À L'ARTICLE 23 BIS DU CODE FRONTIÈRES SCHENGEN](partie-reglementaire/livre-iii/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : ZONE D'ATTENTE**
+      - [Titre IV : ZONE D'ATTENTE : articles rattachés directement](partie-reglementaire/livre-iii/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre I : PLACEMENT EN ZONE D'ATTENTE](partie-reglementaire/livre-iii/titre-iv/chapitre-i.md) (2 articles)
+      - [Chapitre II : MAINTIEN EN ZONE D'ATTENTE](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (23 articles)
+      - [Chapitre III : RÉGIME DE LA ZONE D'ATTENTE](partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md) (35 articles)
+    - **Titre V : ASILE À LA FRONTIÈRE**
+      - [Chapitre II : REFUS D'ENTRÉE AU TITRE DE L'ASILE](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (1 article)
+    - **Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-iii/titre-vi/chapitre-i.md) (7 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-iii/titre-vi/chapitre-ii.md) (5 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-reglementaire/livre-iii/titre-vi/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-iii/titre-vi/chapitre-iv.md) (7 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-iii/titre-vi/chapitre-v.md) (7 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-iii/titre-vi/chapitre-vi.md) (7 articles)
+  - **Livre IV : SÉJOUR EN FRANCE**
+    - **Titre I : DISPOSITIONS GÉNÉRALES**
+      - [Titre I : DISPOSITIONS GÉNÉRALES : articles rattachés directement](partie-reglementaire/livre-iv/titre-i/articles-directs.md) (1 article)
+      - [Chapitre II : CONDITIONS GÉNÉRALES DE SÉJOUR](partie-reglementaire/livre-iv/titre-i/chapitre-ii.md) (3 articles)
+      - [Chapitre III : INTÉGRATION RÉPUBLICAINE](partie-reglementaire/livre-iv/titre-i/chapitre-iii.md) (17 articles)
+      - [Chapitre IV : DROITS ATTACHÉS AUX TITRES DE SÉJOUR](partie-reglementaire/livre-iv/titre-i/chapitre-iv.md) (6 articles)
+    - **Titre II : CATÉGORIES DE TITRES DE SÉJOUR**
+      - [Titre II : CATÉGORIES DE TITRES DE SÉJOUR : articles rattachés directement](partie-reglementaire/livre-iv/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : Titres de séjour pour motif professionnel](partie-reglementaire/livre-iv/titre-ii/chapitre-i.md) (81 articles)
+      - [Chapitre II : Titres de séjour pour motif d'études](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Titres de séjour pour motif familial](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Titres de séjour accordés aux bénéficiaires d'une protection internationale](partie-reglementaire/livre-iv/titre-ii/chapitre-iv.md) (12 articles)
+      - [Chapitre V : Titres de séjour pour motif humanitaire](partie-reglementaire/livre-iv/titre-ii/chapitre-v.md) (14 articles)
+      - [Chapitre VI : Titres de séjour délivrés pour un autre motif](partie-reglementaire/livre-iv/titre-ii/chapitre-vi.md) (22 articles)
+    - **Titre III : PROCÉDURE ADMINISTRATIVE**
+      - [Titre III : PROCÉDURE ADMINISTRATIVE : articles rattachés directement](partie-reglementaire/livre-iv/titre-iii/articles-directs.md) (2 articles)
+      - [Chapitre I : DEMANDES DE TITRES DE SÉJOUR](partie-reglementaire/livre-iv/titre-iii/chapitre-i.md) (28 articles)
+      - [Chapitre II : REFUS ET RETRAIT DES TITRES DE SÉJOUR](partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md) (15 articles)
+      - [Chapitre III : CONDITIONS DE RENOUVELLEMENT DES TITRES DE SÉJOUR](partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : RÉGIME DU REGROUPEMENT FAMILIAL](partie-reglementaire/livre-iv/titre-iii/chapitre-iv.md) (36 articles)
+      - [Chapitre V : ADMISSION EXCEPTIONNELLE AU SÉJOUR](partie-reglementaire/livre-iv/titre-iii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS FISCALES](partie-reglementaire/livre-iv/titre-iii/chapitre-vi.md) (3 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-iv/titre-iv/chapitre-i.md) (7 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-iv/titre-iv/chapitre-iv.md) (6 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-iv/titre-iv/chapitre-v.md) (7 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-iv/titre-iv/chapitre-vi.md) (7 articles)
+  - **Livre V : DROIT D'ASILE ET AUTRES PROTECTIONS INTERNATIONALES**
+    - **Titre I : CONDITIONS D'OCTROI DE L'ASILE**
+      - [Titre I : CONDITIONS D'OCTROI DE L'ASILE : articles rattachés directement](partie-reglementaire/livre-v/titre-i/articles-directs.md) (1 article)
+      - [Chapitre I : STATUT DE RÉFUGIÉ](partie-reglementaire/livre-v/titre-i/chapitre-i.md) (2 articles)
+      - [Chapitre II : PROTECTION SUBSIDIAIRE](partie-reglementaire/livre-v/titre-i/chapitre-ii.md) (1 article)
+    - **Titre II : ACCÈS À LA PROCÉDURE D'ASILE**
+      - [Titre II : ACCÈS À LA PROCÉDURE D'ASILE : articles rattachés directement](partie-reglementaire/livre-v/titre-ii/articles-directs.md) (2 articles)
+      - [Chapitre I : ENREGISTREMENT DE LA DEMANDE D'ASILE](partie-reglementaire/livre-v/titre-ii/chapitre-i.md) (18 articles)
+      - [Chapitre II : ÉVALUATION DE LA VULNÉRABILITÉ DU DEMANDE D'ASILE ET DE SES BESOINS PARTICULIERS](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Cas d'assignation à résidence ou de placement en rétention du demandeur d'asile](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (14 articles)
+    - **Titre III : EXAMEN DES DEMANDES D'ASILE**
+      - [Titre III : EXAMEN DES DEMANDES D'ASILE : articles rattachés directement](partie-reglementaire/livre-v/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre I : PROCÉDURE DEVANT L'OFFICE FRANÇAIS DE PROTECTION DES RÉFUGIÉS ET APATRIDES](partie-reglementaire/livre-v/titre-iii/chapitre-i.md) (37 articles)
+      - [Chapitre II : RECOURS DEVANT LA COUR NATIONALE DU DROIT D'ASILE](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (78 articles)
+    - **Titre IV : DROIT AU MAINTIEN SUR LE TERRITOIRE FRANÇAIS**
+      - [Titre IV : DROIT AU MAINTIEN SUR LE TERRITOIRE FRANÇAIS : articles rattachés directement](partie-reglementaire/livre-v/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre I : BÉNÉFICE DU DROIT AU MAINTIEN](partie-reglementaire/livre-v/titre-iv/chapitre-i.md) (2 articles)
+    - **Titre V : CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE**
+      - [Titre V : CONDITIONS D'ACCUEIL DES DEMANDEURS D'ASILE : articles rattachés directement](partie-reglementaire/livre-v/titre-v/articles-directs.md) (2 articles)
+      - [Chapitre I : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-v/titre-v/chapitre-i.md) (23 articles)
+      - [Chapitre II : HÉBERGEMENT DES DEMANDEURS D'ASILE](partie-reglementaire/livre-v/titre-v/chapitre-ii.md) (16 articles)
+      - [Chapitre III : ALLOCATION POUR DEMANDEUR D'ASILE](partie-reglementaire/livre-v/titre-v/chapitre-iii.md) (28 articles)
+      - [Chapitre IV : CONDITIONS D'ACCÈS AU MARCHÉ DU TRAVAIL](partie-reglementaire/livre-v/titre-v/chapitre-iv.md) (1 article)
+    - **Titre VI : CONTENU ET FIN DE LA PROTECTION**
+      - [Titre VI : CONTENU ET FIN DE LA PROTECTION : articles rattachés directement](partie-reglementaire/livre-v/titre-vi/articles-directs.md) (1 article)
+      - [Chapitre I : CONTENU DE LA PROTECTION](partie-reglementaire/livre-v/titre-vi/chapitre-i.md) (15 articles)
+      - [Chapitre II : FIN DE LA PROTECTION](partie-reglementaire/livre-v/titre-vi/chapitre-ii.md) (3 articles)
+    - **Titre VII : DISPOSITIONS APPLICABLES LORSQUE L'EXAMEN DE LA DEMANDE D'ASILE RELÈVE DE LA COMPÉTENCE D'UN AUTRE ÉTAT**
+      - [Chapitre II : PROCÉDURES DE PRISE EN CHARGE ET DE REPRISE EN CHARGE](partie-reglementaire/livre-v/titre-vii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DROIT AU MAINTIEN SUR LE TERRITOIRE FRANÇAIS ET CONDITIONS D'ACCUEIL](partie-reglementaire/livre-v/titre-vii/chapitre-iii.md) (1 article)
+    - **Titre VIII : AUTRES PROTECTIONS INTERNATIONALES**
+      - [Titre VIII : AUTRES PROTECTIONS INTERNATIONALES : articles rattachés directement](partie-reglementaire/livre-v/titre-viii/articles-directs.md) (1 article)
+      - [Chapitre I : PROTECTION TEMPORAIRE](partie-reglementaire/livre-v/titre-viii/chapitre-i.md) (19 articles)
+      - [Chapitre II : APATRIDIE](partie-reglementaire/livre-v/titre-viii/chapitre-ii.md) (5 articles)
+    - **Titre IX : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIERES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-v/titre-ix/chapitre-i.md) (21 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-v/titre-ix/chapitre-ii.md) (5 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES A SAINT-MARTIN](partie-reglementaire/livre-v/titre-ix/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-v/titre-ix/chapitre-iv.md) (3 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-v/titre-ix/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-v/titre-ix/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : DISPOSITIONS APPLICABLES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-v/titre-ix/chapitre-vii.md) (3 articles)
+  - **Livre VI : DÉCISIONS D'ÉLOIGNEMENT**
+    - **Titre I : OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS**
+      - [Titre I : OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS : articles rattachés directement](partie-reglementaire/livre-vi/titre-i/articles-directs.md) (1 article)
+      - [Chapitre I : DÉCISION PORTANT OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS](partie-reglementaire/livre-vi/titre-i/chapitre-i.md) (1 article)
+      - [Chapitre III : PROCÉDURE ADMINISTRATIVE](partie-reglementaire/livre-vi/titre-i/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Procédure contentieuse](partie-reglementaire/livre-vi/titre-i/chapitre-iv.md) (3 articles)
+      - [Chapitre V : CAS DE L'ÉTRANGER OBLIGÉ DE QUITTER LE TERRITOIRE D'UN AUTRE ÉTAT MEMBRE DE L'UNION EUROPÉENNE OU D'UN ÉTAT AVEC LEQUEL S'APPLIQUE L'ACQUIS DE SCHENGEN](partie-reglementaire/livre-vi/titre-i/chapitre-v.md) (6 articles)
+    - **Titre II : REMISE AUX AUTORITÉS D'UN AUTRE ÉTAT MEMBRE DE L'UNION EUROPÉENNE**
+      - [Chapitre I : CAS DANS LESQUELS UN ÉTRANGER PEUT FAIRE L'OBJET D'UNE DÉCISION DE REMISE](partie-reglementaire/livre-vi/titre-ii/chapitre-i.md) (14 articles)
+      - [Chapitre II : INTERDICTION DE CIRCULATION SUR LE TERRITOIRE FRANÇAIS ASSORTISSANT UNE DÉCISION DE REMISE](partie-reglementaire/livre-vi/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : PROCÉDURE CONTENTIEUSE](partie-reglementaire/livre-vi/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : EXPULSION**
+      - [Titre III : EXPULSION : articles rattachés directement](partie-reglementaire/livre-vi/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre I : CAS DANS LESQUELS UN ÉTRANGER PEUT FAIRE L'OBJET D'UNE DÉCISION D'EXPULSION](partie-reglementaire/livre-vi/titre-iii/chapitre-i.md) (2 articles)
+      - [Chapitre II : PROCÉDURE ADMINISTRATIVE](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (12 articles)
+    - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIERES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-vi/titre-v/chapitre-i.md) (11 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-vi/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES A SAINT-MARTIN](partie-reglementaire/livre-vi/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-vi/titre-v/chapitre-iv.md) (3 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-vi/titre-v/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-vi/titre-v/chapitre-vi.md) (3 articles)
+  - **Livre VII : EXÉCUTION DES DÉCISIONS D'ÉLOIGNEMENT**
+    - **Titre I : EXÉCUTION PAR L'ÉTRANGER**
+      - [Titre I : EXÉCUTION PAR L'ÉTRANGER : articles rattachés directement](partie-reglementaire/livre-vii/titre-i/articles-directs.md) (1 article)
+      - [Section 1 : Constat de l'exécution de la décision portant obligation de quitter le territoire français par l'étranger](partie-reglementaire/livre-vii/titre-i/section-1.md) (2 articles)
+      - [Section 2 : Aide au retour](partie-reglementaire/livre-vii/titre-i/section-2.md) (3 articles)
+    - **Titre II : EXÉCUTION PAR L'AUTORITÉ ADMINISTRATIVE**
+      - [Titre II : EXÉCUTION PAR L'AUTORITÉ ADMINISTRATIVE : articles rattachés directement](partie-reglementaire/livre-vii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : PRÉPARATION DE L'EXÉCUTION D'OFFICE](partie-reglementaire/livre-vii/titre-ii/chapitre-i.md) (8 articles)
+      - [Chapitre II : EXÉCUTION D'OFFICE](partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md) (2 articles)
+    - **Titre III : ASSIGNATION À RÉSIDENCE**
+      - [Titre III : ASSIGNATION À RÉSIDENCE : articles rattachés directement](partie-reglementaire/livre-vii/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre I : CAS DANS LESQUELS L'ÉTRANGER PEUT ÊTRE ASSIGNÉ À RÉSIDENCE](partie-reglementaire/livre-vii/titre-iii/chapitre-i.md) (3 articles)
+      - [Chapitre II : RÉGIME DES ASSIGNATIONS À RÉSIDENCE](partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : MESURES APPLICABLES AUX ÉTRANGERS ASSIGNÉS À RÉSIDENCE](partie-reglementaire/livre-vii/titre-iii/chapitre-iii.md) (21 articles)
+    - **Titre IV : RÉTENTION ADMINISTRATIVE**
+      - [Titre IV : RÉTENTION ADMINISTRATIVE : articles rattachés directement](partie-reglementaire/livre-vii/titre-iv/articles-directs.md) (1 article)
+      - [Chapitre I : PLACEMENT EN RÉTENTION PAR L'AUTORITÉ ADMINISTRATIVE](partie-reglementaire/livre-vii/titre-iv/chapitre-i.md) (4 articles)
+      - [Chapitre II : MAINTIEN EN RÉTENTION PAR LE MAGISTRAT DU SIÈGE DU TRIBUNAL JUDICIAIRE](partie-reglementaire/livre-vii/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : CONTRÔLE DE LA RÉTENTION PAR L'AUTORITÉ JUDICIAIRE](partie-reglementaire/livre-vii/titre-iv/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : RÉGIME DE LA RÉTENTION](partie-reglementaire/livre-vii/titre-iv/chapitre-iv.md) (46 articles)
+    - **Titre V : MESURES APPLICABLES EN CAS DE DEMANDE D'ASILE**
+      - [Titre V : MESURES APPLICABLES EN CAS DE DEMANDE D'ASILE : articles rattachés directement](partie-reglementaire/livre-vii/titre-v/articles-directs.md) (1 article)
+      - [Chapitre I : MESURES APPLICABLES EN VUE DE L'EXÉCUTION D'UNE DÉCISION DE TRANSFERT](partie-reglementaire/livre-vii/titre-v/chapitre-i.md) (9 articles)
+      - [Chapitre II : MESURES APPLICABLES EN VUE DE L'EXÉCUTION DE LA DÉCISION PORTANT OBLIGATION DE QUITTER LE TERRITOIRE FRANÇAIS DU DEMANDEUR D'ASILE DONT LE DROIT AU MAINTIEN A PRIS FIN](partie-reglementaire/livre-vii/titre-v/chapitre-ii.md) (5 articles)
+      - [Chapitre III : MESURES APPLICABLES EN VUE DE L'EXÉCUTION D'UNE DÉCISION D'EXPULSION, D'UNE PEINE D'INTERDICTION DU TERRITOIRE FRANÇAIS OU D'UNE INTERDICTION ADMINISTRATIVE DU TERRITOIRE FRANÇAIS EN CAS DE DEMANDE D'ASILE](partie-reglementaire/livre-vii/titre-v/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : DEMANDES D'ASILE PRÉSENTÉES EN RÉTENTION](partie-reglementaire/livre-vii/titre-v/chapitre-iv.md) (20 articles)
+    - **Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER : articles rattachés directement](partie-reglementaire/livre-vii/titre-vi/articles-directs.md) (1 article)
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-vii/titre-vi/chapitre-i.md) (5 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-vii/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-reglementaire/livre-vii/titre-vi/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-vii/titre-vi/chapitre-iv.md) (3 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-vii/titre-vi/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-vii/titre-vi/chapitre-vi.md) (3 articles)
+  - **Livre VIII : CONTRÔLES ET SANCTIONS**
+    - **Titre I : CONTRÔLES**
+      - [Titre I : CONTRÔLES : articles rattachés directement](partie-reglementaire/livre-viii/titre-i/articles-directs.md) (1 article)
+      - [Chapitre I : VÉRIFICATIONS PRÉALABLES À LA DÉLIVRANCE OU AU RETRAIT DES TITRES DE SÉJOUR](partie-reglementaire/livre-viii/titre-i/chapitre-i.md) (5 articles)
+      - [Chapitre II : CONTRÔLE DE LA DÉTENTION DES TITRES](partie-reglementaire/livre-viii/titre-i/chapitre-ii.md) (1 article)
+      - [Chapitre IV : MESURES DE SUIVI DES ÉTRANGERS](partie-reglementaire/livre-viii/titre-i/chapitre-iv.md) (4 articles)
+    - **Titre II : SANCTIONS**
+      - [Titre II : SANCTIONS : articles rattachés directement](partie-reglementaire/livre-viii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre I : MÉCONNAISSANCE DES OBLIGATIONS RELATIVES À L'ENTRÉE EN FRANCE](partie-reglementaire/livre-viii/titre-ii/chapitre-i.md) (13 articles)
+      - [Chapitre II : MÉCONNAISSANCE DES OBLIGATIONS RELATIVES AU SÉJOUR EN FRANCE](partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md) (1 article)
+    - **Titre III : DISPOSITIONS APPLICABLES À L'OUTRE-MER**
+      - [Chapitre I : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION ET À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-viii/titre-iii/chapitre-i.md) (3 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-viii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN](partie-reglementaire/livre-viii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-viii/titre-iii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-viii/titre-iii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE](partie-reglementaire/livre-viii/titre-iii/chapitre-vi.md) (3 articles)
+  - **Livre IX : PROCÉDURES CONTENTIEUSES DEVANT LE JUGE ADMINISTRATIF**
+    - [Livre IX : PROCÉDURES CONTENTIEUSES DEVANT LE JUGE ADMINISTRATIF : articles rattachés directement](partie-reglementaire/livre-ix/articles-directs.md) (2 articles)
+    - **Titre IER : PROCÉDURE COLLÉGIALE SPÉCIALE**
+      - [Chapitre unique](partie-reglementaire/livre-ix/titre-ier/chapitre-unique.md) (9 articles)
+    - **Titre II : PROCÉDURES À JUGE UNIQUE**
+      - [Chapitre Ier : Délais de recours et de jugement](partie-reglementaire/livre-ix/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Règles de procédure](partie-reglementaire/livre-ix/titre-ii/chapitre-ii.md) (28 articles)
+    - **Titre III : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre unique : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ix/titre-iii/chapitre-unique.md) (5 articles)
+  - [Annexes](partie-reglementaire/annexes.md) (13 articles)

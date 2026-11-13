@@ -1,0 +1,123 @@
+# Chapitre 3 : Dispositions diverses.
+
+Code de la sécurité sociale › Partie législative › Livre V : Prestations familiales et prestations assimilées › Titre V : Dispositions communes
+
+### Article L553-1
+- Identifiant : LEGIARTI000042686248
+- État : en vigueur depuis le 16/12/2020
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042686248
+- Renvoie à : [art. L262-46 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-46) ; [art. L823-9 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-iii.md#article-l823-9) ; [art. L553-2 du Code de la sécurité sociale](chapitre-3.md#article-l553-2) ; [art. L821-5-1 du Code de la sécurité sociale](../../livre-viii/titre-ii.md#article-l821-5-1) ; [art. L845-3 du Code de la sécurité sociale](../../livre-viii/titre-iv/chapitre-5.md#article-l845-3)
+- Cité par : [art. L214-13 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv-bis.md#article-l214-13) ; [art. L442-6-5 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-6-5) ; [art. L821-7 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-7) ; [art. D253-44 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-simples/livre-ii/titre-v/chapitre-3.md#article-d253-44) ; [art. L168-12 du Code de la sécurité sociale](../../livre-i/titre-vi/chapitre-8-bis.md#article-l168-12) ; [art. L755-3 du Code de la sécurité sociale](../../livre-vii/titre-v/chapitre-5.md#article-l755-3) ; [art. L845-4 du Code de la sécurité sociale](../../livre-viii/titre-iv/chapitre-5.md#article-l845-4) ; [art. L851-3-1 du Code de la sécurité sociale](../../livre-viii/titre-v.md#article-l851-3-1) ; [art. D723-223 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md#article-d723-223) ; [Ordonnance n° 2002-149 du 7 février 2002, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048688564)
+
+L'action de l'allocataire pour le paiement des prestations se prescrit par deux ans.
+
+Cette prescription est également applicable à l'action intentée par un organisme payeur en recouvrement des prestations indûment payées, sauf en cas de manoeuvre frauduleuse ou de fausse déclaration, l'action de l'organisme se prescrivant alors par cinq ans .
+
+La prescription est interrompue tant que l'organisme débiteur des prestations familiales se trouve dans l'impossibilité de recouvrer l'indu concerné en raison de la mise en œuvre d'une procédure de recouvrement d'indus relevant des articles L. 553-2, L. 821-5-1 ou L. 845-3, L. 844-3 (1) du code de la sécurité sociale, L. 262-46 du code de l'action sociale et des familles ou L. 823-9 du code de la construction et de l'habitation.
+
+> Nota : (1) Au lieu de "ou L. 845-3 L. 844-3" lire "ou L. 845-3"
+
+### Article L553-2
+- Identifiant : LEGIARTI000046811463
+- État : en vigueur depuis le 01/01/2024
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046811463
+- Renvoie à : [art. L262-1 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-1) ; [art. L262-46 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-46) ; [art. L821-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-1) ; [art. L823-9 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-iii.md#article-l823-9) ; [art. L133-4-1 du Code de la sécurité sociale](../../livre-i/titre-iii/chapitre-3.md#article-l133-4-1) ; [art. L168-8 du Code de la sécurité sociale](../../livre-i/titre-vi/chapitre-8-bis.md#article-l168-8) ; [art. L821-5-1 du Code de la sécurité sociale](../../livre-viii/titre-ii.md#article-l821-5-1) ; [art. L845-3 du Code de la sécurité sociale](../../livre-viii/titre-iv/chapitre-5.md#article-l845-3)
+- Cité par : [art. L214-14 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv-bis.md#article-l214-14) ; [art. L214-16 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-iv-bis.md#article-l214-16) ; [art. L262-45 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-45) ; [art. L262-46 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-46) ; [art. L532-2 du Code de l'éducation](../../../../code-de-l-education/partie-legislative/deuxieme-partie/livre-v/titre-iii/chapitre-ii.md#article-l532-2) ; [art. L564-1 du Code de l'éducation](../../../../code-de-l-education/partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-iv.md#article-l564-1) ; [art. L823-9 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-iii.md#article-l823-9) ; [art. R823-23 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-viii/titre-ii/chapitre-iii.md#article-r823-23) ; [art. R861-5 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-viii/titre-vi/chapitre-ier.md#article-r861-5) ; [art. R863-6 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-viii/titre-vi/chapitre-iii.md#article-r863-6) ; [art. D545-6 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-5.md#article-d545-6) ; [art. D553-1 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-simples/livre-v/titre-v/chapitre-3.md#article-d553-1) ; [art. D553-4 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-simples/livre-v/titre-v/chapitre-3.md#article-d553-4) ; [art. D553-5 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-simples/livre-v/titre-v/chapitre-3.md#article-d553-5) ; [art. L114-17-2 du Code de la sécurité sociale](../../livre-i/titre-i/chapitre-4-ter.md#article-l114-17-2) ; [art. L168-13 du Code de la sécurité sociale](../../livre-i/titre-vi/chapitre-8-bis.md#article-l168-13) ; [art. L545-1 du Code de la sécurité sociale](../titre-iv/chapitre-5.md#article-l545-1) ; [art. L553-1 du Code de la sécurité sociale](chapitre-3.md#article-l553-1) ; [art. L553-4 du Code de la sécurité sociale](chapitre-3.md#article-l553-4) ; [art. L755-3 du Code de la sécurité sociale](../../livre-vii/titre-v/chapitre-5.md#article-l755-3) ; [art. L821-5 du Code de la sécurité sociale](../../livre-viii/titre-ii.md#article-l821-5) ; [art. L821-5-1 du Code de la sécurité sociale](../../livre-viii/titre-ii.md#article-l821-5-1) ; [art. L845-3 du Code de la sécurité sociale](../../livre-viii/titre-iv/chapitre-5.md#article-l845-3) ; [art. L845-5 du Code de la sécurité sociale](../../livre-viii/titre-iv/chapitre-5.md#article-l845-5) ; [art. L861-5 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044405110) ; [art. D542-19 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028343633) ; [art. L531-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281724) ; [Décret n°2020-1453 du 27 novembre 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042581861) ; [Décret n°2020-1746 du 29 décembre 2020, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042774262) ; [Décret n°2020-1803 du 30 décembre 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042843913) ; [Décret n°2020-519 du 5 mai 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041853077) ; [Décret n°2020-769 du 24 juin 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042036181) ; [Décret n°2021-1657 du 15 décembre 2021, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044502962) ; [Décret n°2022-1234 du 14 septembre 2022, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046290718) ; … et 7 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+
+Tout paiement indu de prestations familiales est récupéré, sous réserve des dispositions des quatrième à neuvième alinéas de l'article L. 133-4-1, par retenues sur les prestations à venir ou par remboursement intégral de la dette en un seul versement si l'allocataire opte pour cette solution. A défaut, l'organisme payeur peut, dans des conditions fixées par décret, procéder à la récupération de l'indu par retenues sur les échéances à venir dues soit au titre des aides personnelles au logement mentionnées à l'article L. 821-1 du code de la construction et de l'habitation, soit au titre des prestations mentionnées à l'article L. 168-8 ainsi qu'aux titres II et IV du livre VIII du présent code, soit au titre du revenu de solidarité active mentionné à l'article L. 262-1 du code de l'action sociale et des familles. En contrepartie des frais de gestion qu'il engage lorsque le versement indu est le résultat d'une fraude de l'allocataire, l'organisme payeur recouvre auprès de ce dernier une indemnité équivalant à 10 % des sommes réclamées au titre des prestations versées à tort. Cette indemnité est recouvrée dans les mêmes conditions que les indus recouvrés au titre du présent article.
+
+Par dérogation aux dispositions précédentes, lorsqu'un indu a été constitué sur une prestation versée en tiers payant, l'organisme peut, si d'autres prestations sont versées directement à l'allocataire, recouvrer l'indu sur ces prestations selon des modalités et des conditions précisées par décret.
+
+Dans des conditions définies par décret, les retenues mentionnées au premier alinéa, ainsi que celles mentionnées aux articles L. 821-5-1 et L. 845-3 du présent code, L. 823-9 du code de la construction et de l'habitation et L. 262-46 du code de l'action sociale et des familles, sont déterminées en fonction de la composition de la famille, de ses ressources, des charges de logement, des prestations servies par les organismes débiteurs de prestations familiales, à l'exception de celles précisées par décret. En cas de fraude, le directeur de l'organisme débiteur de prestations familiales peut majorer le montant de la retenue d'un taux fixé par décret qui ne peut excéder 50 %. Ce taux est doublé en cas de réitération de la fraude dans un délai de cinq ans à compter de la notification de l'indu ayant donné lieu à majoration de la retenue.
+
+Les mêmes règles sont applicables en cas de non-remboursement d'un prêt subventionné ou consenti à quelque titre que ce soit par un organisme de prestations familiales, la caisse nationale des allocations familiales ou les caisses centrales de mutualité sociale agricole.
+
+Toutefois, par dérogation aux dispositions des alinéas précédents, la créance de l'organisme peut être réduite ou remise en cas de précarité de la situation du débiteur, sauf en cas de manœuvre frauduleuse ou de fausses déclarations.
+
+Lorsque l'indu notifié ne peut être recouvré sur les prestations mentionnées au premier alinéa, la récupération peut être opérée, sous réserve des dispositions des quatrième à neuvième alinéas de l'article L. 133-4-1 et si l'assuré n'opte pas pour le remboursement en un seul versement, par retenue sur les prestations en espèces gérées par les organismes mentionnés à l'article L. 133-4-1 ou sur les prestations mentionnées aux titres IV et V du livre III et au titre Ier du livre VIII, par l'organisme gestionnaire de ces prestations et avec son accord. Toutefois, suite à cet accord, le recouvrement ne peut être effectué que si l'assuré n'est débiteur d'aucun indu sur ces mêmes prestations. Ce recouvrement est opéré selon les modalités applicables aux prestations sur lesquelles les retenues sont effectuées. Un décret fixe les modalités d'application et le traitement comptable afférant à ces opérations.
+
+Les dispositions des quatrième à dernier alinéas de l'article L. 133-4-1 sont applicables au recouvrement des indus mentionnés au présent article.
+
+> Nota : Conformément au IV de l’article 100 de la loi n° 2022-1616 du 23 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2024.
+
+### Article L553-2-1
+- Identifiant : LEGIARTI000051288185
+- État : en vigueur depuis le 28/02/2025
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051288185
+- Renvoie à : [art. L211-16 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-16) ; [art. L2324-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l2324-1)
+
+Par dérogation à l'article L. 553-2, lorsqu'il est constaté qu'un établissement ou un service mentionné au premier alinéa de l'article L. 2324-1 du code de la santé publique n'a pas respecté le dernier alinéa de l'article L. 531-6 du présent code, l'indu constaté est recouvré auprès de cet établissement ou de ce service. La somme indue ne peut être facturée aux parents par l'établissement ou le service à l'issue de la procédure de recouvrement.
+
+L'action en recouvrement s'ouvre par l'envoi à l'établissement ou au service d'une notification de payer le montant réclamé ou de produire, le cas échéant, leurs observations.
+
+En cas de rejet total ou partiel des observations de l'intéressé, le directeur de l'organisme débiteur des prestations familiales adresse, par lettre recommandée, une mise en demeure à l'établissement ou au service de payer dans le délai d'un mois. La mise en demeure ne peut concerner que des sommes mentionnées sur la notification.
+
+Lorsque la mise en demeure reste sans effet, le directeur de l'organisme peut délivrer une contrainte qui, à défaut d'opposition du débiteur devant le tribunal judiciaire spécialement désigné en application de l'article L. 211-16 du code de l'organisation judiciaire, comporte tous les effets d'un jugement et confère notamment le bénéfice de l'hypothèque judiciaire. Une majoration de 10 % est applicable aux sommes réclamées qui n'ont pas été réglées aux dates d'exigibilité mentionnées dans la mise en demeure. Cette majoration peut faire l'objet d'une remise.
+
+En contrepartie des frais de gestion qu'il engage lorsque le versement indu est le résultat d'une fraude de l'établissement ou du service, l'organisme débiteur des prestations familiales recouvre auprès de ce dernier une indemnité équivalente à 10 % des sommes réclamées au titre des prestations versées à tort. Cette indemnité est recouvrée dans les mêmes conditions que les indus recouvrés au titre du présent article.
+
+### Article L553-3
+- Identifiant : LEGIARTI000019869296
+- État : en vigueur depuis le 01/06/2009
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019869296
+- Cité par : [art. L89 du Code des pensions civiles et militaires de retraite](../../../../code-des-pensions-civiles-et-militaires-de-retraite/partie-legislative/livre-ii/titre-iii/chapitre-iv.md#article-l89) ; [Décret n°68-382 du 5 avril 1968, art. 35](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029135170) ; [Décret n°68-960 du 11 octobre 1968, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029134328)
+
+Lorsqu'un même enfant ouvre droit aux prestations familiales et à une majoration de l'une quelconque des allocations ci-après énumérées :
+
+1°) allocation de chômage ;
+
+2°) allocations aux réfugiés ;
+
+3°) allocations militaires ;
+
+4°) retraites ou pensions attribuées par l'Etat, les collectivités publiques ou les organismes de prévoyance obligatoire, les prestations familiales sont perçues par priorité et excluent, à due concurrence, lesdites majorations.
+
+Dans le cas où le montant des prestations familiales serait inférieur au montant des majorations mentionnées au précédent alinéa, ces dernières seront réduites à due concurrence du montant des prestations familiales.
+
+Toutefois, l'allocation de logement servie au titre d'enfants infirmes dont l'âge est supérieur aux limites fixées pour le bénéfice des allocations familiales est cumulable avec les majorations de retraites ou de pensions susmentionnées allouées du chef de ces enfants.
+
+Le présent article n'est pas applicable à l'allocation de soutien familial.
+
+### Article L553-4
+- Identifiant : LEGIARTI000041398650
+- État : en vigueur depuis le 28/12/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041398650
+- Renvoie à : [art. L822-3 du Code de l'éducation](../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-viii/titre-ii/chapitre-ii.md#article-l822-3) ; [art. L301-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-preliminaire/chapitre-ier.md#article-l301-1) ; [art. L365-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-vi/chapitre-v.md#article-l365-1) ; [art. L114-17 du Code de la sécurité sociale](../../livre-i/titre-i/chapitre-4-ter.md#article-l114-17) ; [art. L511-1 du Code de la sécurité sociale](../titre-i/chapitre-1er.md#article-l511-1) ; [art. L541-1 du Code de la sécurité sociale](../titre-iv/chapitre-1er.md#article-l541-1) ; [art. L553-2 du Code de la sécurité sociale](chapitre-3.md#article-l553-2) ; [art. L581-1 du Code de la sécurité sociale](../titre-viii/chapitre-1er.md#article-l581-1) ; [art. L581-3 du Code de la sécurité sociale](../titre-viii/chapitre-1er.md#article-l581-3) ; [art. L582-1 du Code de la sécurité sociale](../titre-viii/chapitre-2.md#article-l582-1) ; [art. L742-1 du Code de la sécurité sociale](../../livre-vii/titre-iv/chapitre-2.md#article-l742-1)
+- Cité par : [art. D553-3 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-simples/livre-v/titre-v/chapitre-3.md#article-d553-3) ; [art. L755-3 du Code de la sécurité sociale](../../livre-vii/titre-v/chapitre-5.md#article-l755-3) ; [art. R552-3 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-2.md#article-r552-3) ; [art. R742-21-3 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-iv/chapitre-2.md#article-r742-21-3) ; [art. D542-18 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032659961) ; [art. D542-19 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028343633) ; [art. D542-22-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032659989) ; [art. D542-22-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032660014) ; [art. D542-29 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032660033) ; [art. D755-30 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006738623) ; [art. D755-31 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028343644) ; [Décret n°99-468 du 4 juin 1999, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006779004)
+
+I.-Les prestations familiales sont incessibles et insaisissables sauf pour le recouvrement des prestations indûment versées à la suite d'une manoeuvre frauduleuse ou d'une fausse déclaration de l'allocataire.
+
+Toutefois, peuvent être saisis selon les modalités prévues au troisième alinéa de l'article L. 553-2 :
+
+1°) pour le paiement des dettes alimentaires ou l'exécution de la contribution aux charges du mariage et liées à l'entretien des enfants ou le recouvrement des créances mentionnées aux articles L. 581-1 et L. 581-3 : l'allocation de base et la prestation partagée d'éducation de l'enfant, les allocations familiales, le complément familial, l'allocation de rentrée scolaire, l'allocation de soutien familial ;
+
+2°) pour le paiement des frais entraînés par les soins, l'hébergement, l'éducation ou la formation notamment dans les établissements mentionnés à l'article L. 541-1 : l'allocation d'éducation de l'enfant handicapé. En cas de non-paiement de ces frais, la personne physique ou morale ou l'organisme qui assume la charge de l'éducation spéciale, de la formation ou de l'entretien de l'enfant peut obtenir de l'organisme débiteur de l'allocation que celle-ci lui soit versée directement.
+
+Dans le cas prévu au 1°, le recouvrement des créances mentionnées aux articles L. 581-1 et L. 581-3 est opéré par priorité sur celles d'autres créanciers.
+
+Lorsque le parent débiteur est bénéficiaire de prestations familiales, le paiement de la pension alimentaire, dans le cadre de l'intermédiation financière prévue à l'article L. 582-1, peut être opéré sur celles-ci avec son accord.
+
+Sur demande de l'allocataire, les cotisations d'assurance volontaire mentionnées à l'article L. 742-1 sont recouvrées sur les prestations familiales visées à l'article L. 511-1, à l'exception de l'allocation de logement.
+
+II.-(Abrogé)
+
+III.-Le blocage de comptes courants de dépôts ou d'avances ne peut avoir pour effet de faire obstacle à l'insaisissabilité et à l'incessibilité des prestations familiales.
+
+Nonobstant toute opposition, les allocataires dont les prestations familiales sont servies par versement à un compte courant de dépôts ou d'avances peuvent retirer des fonds chaque mois de ce compte dans la limite du montant des prestations familiales.
+
+Un décret précise les conditions d'application des deux alinéas précédents.
+
+> Nota : Conformément au VIII de l'article 72 de la loi n° 2019-1446 du 24 décembre 2019, le troisième alinéa du 2° du I de l'article L. 553-4 dans sa rédaction résultant du c du 2° du V du présent article s'applique à compter du 1er juin 2020.
+
+### Article L553-5
+- Identifiant : LEGIARTI000038834515
+- État : en vigueur depuis le 01/09/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038834515
+- Renvoie à : [art. L821-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-1)
+- Cité par : [art. R553-3-1 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-3.md#article-r553-3-1) ; [art. R553-3-4 du Code de la sécurité sociale](../../../partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-3.md#article-r553-3-4)
+
+Lorsqu'il est constaté par l'organisme local de sécurité sociale, à l'occasion de l'instruction d'une demande ou lors d'un contrôle, une disproportion marquée entre, d'une part, le train de vie du demandeur ou du bénéficiaire et, d'autre part, les ressources qu'il déclare, une évaluation forfaitaire des éléments de train de vie est effectuée. Cette évaluation forfaitaire est prise en compte pour la détermination du droit aux prestations prévues au présent livre, à l'exception de l'allocation de logement servie en application du a du 2° de l'article L. 821-1 du code de la construction et de l'habitation.
+
+Les éléments de train de vie à prendre en compte, qui comprennent notamment le patrimoine mobilier ou immobilier, sont ceux dont la personne a disposé au cours de la période correspondant à la déclaration de ses ressources, en quelque lieu que ce soit, en France ou à l'étranger, et à quelque titre que ce soit.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

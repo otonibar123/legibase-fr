@@ -53,6 +53,7 @@ La procuration doit être donnée par écrit ; elle est annexée au procès-verb
 - Identifiant : LEGIARTI000043749863
 - État : en vigueur depuis le 02/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043749863
+- Renvoie à : [art. L122-2 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ier/titre-ii/chapitre-ii.md#article-l122-2) ; [art. R212-12 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-12) ; [art. R212-14 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-14) ; [art. R212-15 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md#article-r212-15)
 - Cité par : [Décret n°2021-867 du 29 juin 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043733887)
 
 Le ministère public est représenté devant le tribunal de commerce dans les conditions fixées aux articles L. 122-2 et R. 212-12, R. 212-14 et R. 212-15 du code de l'organisation judiciaire.

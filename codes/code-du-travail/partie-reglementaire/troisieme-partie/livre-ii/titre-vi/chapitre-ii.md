@@ -37,7 +37,7 @@ Les titres-restaurant émis sur un support papier comportent, en caractères tr�
 - Identifiant : LEGIARTI000028695608
 - État : en vigueur depuis le 02/04/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028695608
-- Renvoie à : [art. L3262-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ii.md#article-l3262-3) ; [art. R3262-1-1 du Code du travail](chapitre-ii.md#article-r3262-1-1) ; [art. R3262-5 du Code du travail](chapitre-ii.md#article-r3262-5) ; [art. R3262-8 du Code du travail](chapitre-ii.md#article-r3262-8)
+- Renvoie à : [art. L32 du Code des postes et des communications électroniques](../../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l32) ; [art. L3262-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ii.md#article-l3262-3) ; [art. R3262-1-1 du Code du travail](chapitre-ii.md#article-r3262-1-1) ; [art. R3262-5 du Code du travail](chapitre-ii.md#article-r3262-5) ; [art. R3262-8 du Code du travail](chapitre-ii.md#article-r3262-8)
 
 Lorsque les titres-restaurant sont émis sous forme dématérialisée, les dispositions suivantes sont applicables :  
 
@@ -87,7 +87,7 @@ Les titres-restaurant émis conformément aux dispositions du présent chapitre 
 - Identifiant : LEGIARTI000023155179
 - État : en vigueur depuis le 03/12/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023155179
-- Cité par : [art. R3262-27 du Code du travail](chapitre-ii.md#article-r3262-27) ; [art. R3262-32 du Code du travail](chapitre-ii.md#article-r3262-32) ; [art. R3262-36 du Code du travail](chapitre-ii.md#article-r3262-36) ; [art. R3262-46 du Code du travail](chapitre-ii.md#article-r3262-46) ; [art. R121-28 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048517537) ; [Décret n°2006-1206 du 29 septembre 2006, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048517592)
+- Cité par : [art. R121-28 du Code du service national](../../../../../code-du-service-national/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier-bis.md#article-r121-28) ; [art. R3262-27 du Code du travail](chapitre-ii.md#article-r3262-27) ; [art. R3262-32 du Code du travail](chapitre-ii.md#article-r3262-32) ; [art. R3262-36 du Code du travail](chapitre-ii.md#article-r3262-36) ; [art. R3262-46 du Code du travail](chapitre-ii.md#article-r3262-46) ; [Décret n°2006-1206 du 29 septembre 2006, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048517592)
 
 Les titres-restaurant ne peuvent être utilisés que dans les restaurants et auprès des organismes ou entreprises assimilés ainsi qu'auprès des détaillants en fruits et légumes, afin d'acquitter en tout ou en partie le prix d'un repas.
 
@@ -168,7 +168,7 @@ Dans ce cas, le montant des commissions correspondant aux titres dont la non uti
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533502
 - Renvoie à : [art. L3262-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ii.md#article-l3262-5) ; [art. R3262-14 du Code du travail](chapitre-ii.md#article-r3262-14) ; [art. R3262-33 du Code du travail](chapitre-ii.md#article-r3262-33)
-- Cité par : [art. R3262-14 du Code du travail](chapitre-ii.md#article-r3262-14) ; [art. R121-29 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048517531) ; [Décret n°2006-1206 du 29 septembre 2006, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048517586)
+- Cité par : [art. R121-29 du Code du service national](../../../../../code-du-service-national/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier-bis.md#article-r121-29) ; [art. R3262-14 du Code du travail](chapitre-ii.md#article-r3262-14) ; [Décret n°2006-1206 du 29 septembre 2006, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048517586)
 
 En application des dispositions de l'article L. 3262-5, la contre-valeur des titres-restaurant perdus ou périmés est versée à l'émetteur par l'établissement bancaire qui tient son compte de titres-restaurant.  
 L'émetteur est autorisé à opérer sur cette somme un prélèvement, dont le taux maximum est fixé par arrêté du ministre chargé de l'économie et des finances, et qui est destiné à couvrir forfaitairement les frais de répartition entraînés par l'application de l'article R. 3262-14 et les frais d'expert comptable prévus à l'article R. 3262-33.
@@ -286,7 +286,7 @@ Le paiement est effectué dans un délai qui ne peut excéder vingt et un jours 
 - État : en vigueur depuis le 05/03/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021926372
 - Renvoie à : [art. L3262-3 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-vi/chapitre-ii.md#article-l3262-3)
-- Cité par : [art. R3262-19 du Code du travail](chapitre-ii.md#article-r3262-19) ; [art. R3262-36 du Code du travail](chapitre-ii.md#article-r3262-36) ; [art. R121-32 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048517513) ; [Décret n°2006-1206 du 29 septembre 2006, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048515543)
+- Cité par : [art. R121-32 du Code du service national](../../../../../code-du-service-national/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier-bis.md#article-r121-32) ; [art. R3262-19 du Code du travail](chapitre-ii.md#article-r3262-19) ; [art. R3262-36 du Code du travail](chapitre-ii.md#article-r3262-36) ; [Décret n°2006-1206 du 29 septembre 2006, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048515543)
 
 L'exercice de la profession de restaurateur ou de détaillant en fruits et légumesexigé par les dispositions de l'article L. 3262-3 est vérifié par la Commission nationale des titres-restaurant mentionnée à la section 5 d'après les renseignements de notoriété dont elle dispose et au besoin par référence au numéro d'activité d'entreprise adopté par l'Institut national de la statistique et des études économiques (I. N. S. E. E.) et par les unions pour le recouvrement des cotisations de sécurité sociale (URSSAF).  
 Les pièces que la commission peut demander au professionnel concerné pour l'application de l'alinéa ci-dessus sont précisées par arrêté du ministre chargé de l'économie et des finances.
@@ -296,7 +296,7 @@ Les pièces que la commission peut demander au professionnel concerné pour l'ap
 - État : en vigueur depuis le 03/12/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023155176
 - Renvoie à : [art. R3262-4 du Code du travail](chapitre-ii.md#article-r3262-4)
-- Cité par : [art. R3262-29 du Code du travail](chapitre-ii.md#article-r3262-29) ; [art. R3262-30 du Code du travail](chapitre-ii.md#article-r3262-30) ; [art. R3262-32 du Code du travail](chapitre-ii.md#article-r3262-32) ; [art. R121-32 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048517513) ; [Décret n°2006-1206 du 29 septembre 2006, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048515543) ; [Décret n°2021-104 du 2 février 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043091591)
+- Cité par : [art. R121-32 du Code du service national](../../../../../code-du-service-national/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier-bis.md#article-r121-32) ; [art. R3262-29 du Code du travail](chapitre-ii.md#article-r3262-29) ; [art. R3262-30 du Code du travail](chapitre-ii.md#article-r3262-30) ; [art. R3262-32 du Code du travail](chapitre-ii.md#article-r3262-32) ; [Décret n°2006-1206 du 29 septembre 2006, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048515543) ; [Décret n°2021-104 du 2 février 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043091591)
 
 Les personnes, les entreprises ou les organismes qui proposent à la vente au détail, à titre habituel et au moins six mois par an, des préparations alimentaires mentionnées au deuxième alinéa de l'article R. 3262-4 sans être en possession du numéro de code d'activité accordé aux restaurateurs et hôteliers restaurateurs peuvent être assimilés à ces derniers, à la condition d'avoir transmis par lettre recommandée avec avis de réception à la commission un dossier complet.  
 La commission des titres-restaurant vérifie également que les préparations offertes sont conformes aux dispositions mentionnées à l'article R. 3262-4.

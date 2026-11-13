@@ -28,7 +28,7 @@ Les aides destinées aux personnes qui créent ou reprennent une entreprise, ou 
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526292
 - Renvoie à : [art. L5141-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l5141-1)
-- Cité par : [art. D131-6-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038027006) ; [art. R3324-22 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845711)
+- Cité par : [art. D131-6-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-i/titre-iii/chapitre-1.md#article-d131-6-4) ; [art. R3324-22 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845711)
 
 Pour l'application des dispositions de l'article L. 5141-1, sont considérés comme remplissant la condition de contrôle effectif de l'entreprise créée ou reprise lorsqu'elle est constituée sous la forme de société :  
 1° Le demandeur du bénéfice de ces dispositions qui détient, personnellement ou avec son conjoint, son partenaire lié par un pacte civil de solidarité ou son concubin, ses ascendants et descendants, plus de la moitié du capital de la société, sans que sa part personnelle puisse être inférieure à 35 % de celui-ci ;  
@@ -83,7 +83,7 @@ Par dérogation aux articles R. 5141-4 et R. 5141-5, lorsque la perte du contrô
 - Identifiant : LEGIARTI000034644045
 - État : en vigueur depuis le 01/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034644045
-- Renvoie à : [art. L1233-65 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-l1233-65) ; [art. L5141-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l5141-1) ; [art. L5141-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l5141-2) ; [art. L5422-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l5422-1) ; [art. L5423-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l5423-1) ; art. L524-1 du Code de la sécurité sociale
+- Renvoie à : [art. L161-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-4) ; [art. L1233-65 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-l1233-65) ; [art. L5141-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l5141-1) ; [art. L5141-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l5141-2) ; [art. L5422-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l5422-1) ; [art. L5423-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l5423-1) ; art. L524-1 du Code de la sécurité sociale
 - Cité par : [art. R5141-31 du Code du travail](chapitre-ier.md#article-r5141-31) ; [art. R5522-83 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-83)
 
 Peuvent être admis au bénéfice des exonérations de cotisations et des droits à prestation prévus aux articles L. 161-1-1 et L. 161-24 du code de la sécurité sociale :
@@ -119,7 +119,7 @@ Un arrêté du ministre chargé de l'emploi définit la composition du dossier d
 - Identifiant : LEGIARTI000034728034
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034728034
-- Renvoie à : art. L161-1-1 du Code de la sécurité sociale ; [art. L213-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741637) ; [art. L752-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006744441) ; [art. R5141-11 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018495096)
+- Renvoie à : [art. L213-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-i/chapitre-3.md#article-l213-1) ; [art. L752-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-vii/titre-v/chapitre-2.md#article-l752-4) ; art. L161-1-1 du Code de la sécurité sociale ; [art. R5141-11 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018495096)
 
 Lorsque les conditions d'octroi sont remplies, les organismes mentionnés aux articles L. 213-1 et L. 752-4 du code de la sécurité sociale délivrent à l'intéressé une attestation d'admission au bénéfice de l'exonération mentionnée à l'article L. 161-1-1 du code de la sécurité sociale.
 
@@ -238,7 +238,7 @@ En cas de non-réponse dans le délai de deux mois, la demande est réputée rej
 - Identifiant : LEGIARTI000048909749
 - État : en vigueur depuis le 01/01/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048909749
-- Renvoie à : [art. L821-13 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-13) ; [art. L822-9 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-9) ; [art. L511-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006654292)
+- Renvoie à : [art. L821-13 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-13) ; [art. L822-9 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-9) ; [art. L511-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1)
 
 Seuls peuvent être titulaires d'une habilitation les organismes ayant pour objet exclusif de participer, par le versement d'aides financières, à la création ou à la reprise d'entreprise et ceux définis par les articles L. 511-1 et suivants du code monétaire et financier.
 

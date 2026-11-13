@@ -13,7 +13,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre III : CRÉD
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807502
 - Renvoie à : [art. L313-4 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-4) ; [art. L314-3 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iv.md#article-l314-3)
-- Cité par : [art. R313-2 du Code de la consommation](chapitre-iii.md#article-r313-2)
+- Cité par : [art. R313-2 du Code de la consommation](chapitre-iii.md#article-r313-2) ; [art. R313-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-r313-1)
 
 Les informations complémentaires mentionnées à l'article L. 313-4 sont les suivantes :  
 1° Le taux débiteur et sa nature fixe, variable ou révisable, ou une combinaison des deux, ainsi que les informations relatives à tous les frais compris dans le coût total du crédit pour l'emprunteur ;  
@@ -32,7 +32,7 @@ Les informations complémentaires mentionnées à l'article L. 313-4 sont les su
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807504
 - Renvoie à : [art. L313-4 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-4) ; [art. R313-1 du Code de la consommation](chapitre-iii.md#article-r313-1)
-- Cité par : [art. R313-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047256405)
+- Cité par : [art. R313-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-r313-1)
 
 Les informations figurant aux 1° à 6° de l'article R. 313-1 sont fournies à l'aide de l'exemple représentatif mentionné à l'article L. 313-4. Cet exemple répond aux caractéristiques suivantes :  
 1° Un montant total du crédit accordé égal à 50 000 euros ou à un multiple de cette somme qui ne peut excéder 500 000 euros ;  
@@ -49,7 +49,7 @@ La publicité indique que l'exemple représentatif a une valeur d'exemple. Cet e
 - Identifiant : LEGIARTI000032807508
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807508
-- Renvoie à : [art. L313-6 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-6) ; [art. L519-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006657008)
+- Renvoie à : [art. L313-6 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-6) ; [art. L519-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ix.md#article-l519-2)
 
 Les informations générales mentionnées à l'article L. 313-6 sont les suivantes :  
 1° L'identité du prêteur, ou le cas échéant de l'intermédiaire de crédit, et l'adresse géographique de la partie qui fournit les informations ;  
@@ -143,7 +143,7 @@ Cette disposition ne s'applique pas aux contrats de crédit pour lesquels le tau
 - Identifiant : LEGIARTI000053303400
 - État : en vigueur depuis le 19/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053303400
-- Renvoie à : [art. L313-7 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-7) ; [art. R314-19 du Code de la consommation](chapitre-iv.md#article-r314-19)
+- Renvoie à : [art. L313-7 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-7) ; [art. R314-19 du Code de la consommation](chapitre-iv.md#article-r314-19) ; [art. R341-16 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md#article-r341-16)
 
 Les informations exigées en application des articles R. 222-1 et L. 222-5-2 du présent code et R. 341-16 du code monétaire et financier qui figurent dans la fiche d'information standardisée européenne sont réputées fournies lors de la fourniture de cette fiche.
 
@@ -333,7 +333,7 @@ Le montant des frais d'étude, prévus à l'article L. 313-38, que le prêteur p
 - Identifiant : LEGIARTI000036769118
 - État : en vigueur depuis le 01/04/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036769118
-- Renvoie à : [art. R123-220 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220) ; [art. L313-24 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-24) ; [art. L313-29 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-29) ; [art. L313-30 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-30) ; [art. L314-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iv.md#article-l314-1) ; art. L511-1 du Code des assurances ; art. L519-1 du Code monétaire et financier
+- Renvoie à : [art. R123-220 du Code de commerce](../../../../code-de-commerce/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-220) ; [art. L313-24 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-24) ; [art. L313-29 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-29) ; [art. L313-30 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iii.md#article-l313-30) ; [art. L314-1 du Code de la consommation](../../../partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-iv.md#article-l314-1) ; [art. L511-1 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1) ; [art. L519-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ix.md#article-l519-1)
 - Cité par : [art. R313-24 du Code de la consommation](chapitre-iii.md#article-r313-24)
 
 Lorsque l'emprunteur souhaite faire usage de la faculté de substitution du contrat d'assurance prévue à l'article L. 313-30 avant l'émission de l'offre de prêt mentionnée à l'article L. 313-24, le prêteur et l'assureur délégué échangent les informations suivantes :  

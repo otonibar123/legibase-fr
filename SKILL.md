@@ -26,7 +26,7 @@ Dire toujours la vérité. Ne jamais inventer. Cette règle passe avant toutes l
 1. Lire `INDEX.md` : liste des codes disponibles, nombre d'articles, dates.
 2. Ouvrir `codes/<code>/README.md` : plan du code (livres, titres, chapitres) avec un lien vers chaque fichier.
 3. Ouvrir le fichier du chapitre concerné. Un article commence par `### Article <numéro>`. Pour aller vite, chercher `### Article 1103` avec grep plutôt que de lire tout le fichier.
-4. Suivre les renvois : chaque article indique « Renvoie à » (articles qu'il cite) et « Cité par » (articles et textes qui le citent). Les suivre pour donner une réponse complète (par exemple un article du code du travail qui renvoie au code civil). `codes/<code>/renvois.md` liste tous les renvois vers et depuis les autres textes, et `liens/graphe.json` tous les renvois.
+4. Suivre les renvois : chaque article indique « Renvoie à » (articles qu'il cite) et « Cité par » (articles et textes qui le citent). Les suivre pour donner une réponse complète (par exemple un article du code du travail qui renvoie au code civil). `codes/<code>/renvois.md` liste tous les renvois vers et depuis les autres textes, et `liens/graphe/<code>.json` tous les renvois du code.
 5. Citer la jurisprudence liée avec sa juridiction, sa date et son numéro de pourvoi (dossier `jurisprudence/`, s'il existe pour le thème).
 
 Ne pas lire en entier les gros fichiers : chercher l'article voulu, puis lire seulement autour.

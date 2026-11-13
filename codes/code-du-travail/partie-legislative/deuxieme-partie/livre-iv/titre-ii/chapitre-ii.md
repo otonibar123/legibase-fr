@@ -9,7 +9,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652491
 - Renvoie à : [art. L23-111-1 du Code du travail](../../livre-iii/titre-xi/chapitre-ier.md#article-l23-111-1)
-- Cité par : [art. L2422-4 du Code du travail](chapitre-ii.md#article-l2422-4) ; [art. L4623-6 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iii.md#article-l4623-6) ; [art. L515-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243603)
+- Cité par : [art. L2422-4 du Code du travail](chapitre-ii.md#article-l2422-4) ; [art. L4623-6 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iii.md#article-l4623-6) ; [art. L515-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-4)
 
 Lorsque le ministre compétent annule, sur recours hiérarchique, la décision de l'inspecteur du travail autorisant le licenciement d'un salarié investi de l'un des mandats énumérés ci-après, ou lorsque le juge administratif annule la décision d'autorisation de l'inspecteur du travail ou du ministre compétent, le salarié concerné a le droit, s'il le demande dans un délai de deux mois à compter de la notification de la décision, d'être réintégré dans son emploi ou dans un emploi équivalent. Cette disposition s'applique aux salariés investis d'un des mandats suivants :
 
@@ -57,7 +57,7 @@ La réintégration d'un représentant des salariés au conseil de surveillance o
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902361
 - Renvoie à : [art. L2422-1 du Code du travail](chapitre-ii.md#article-l2422-1)
-- Cité par : [art. L515-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243603) ; [DÉCRET n°2014-1426 du 28 novembre 2014, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049902451)
+- Cité par : [art. L515-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-4) ; [DÉCRET n°2014-1426 du 28 novembre 2014, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049902451)
 
 Lorsque l'annulation d'une décision d'autorisation est devenue définitive, le salarié investi d'un des mandats mentionnés à l'article L. 2422-1 a droit au paiement d'une indemnité correspondant à la totalité du préjudice subi au cours de la période écoulée entre son licenciement et sa réintégration, s'il en a formulé la demande dans le délai de deux mois à compter de la notification de la décision.  
 

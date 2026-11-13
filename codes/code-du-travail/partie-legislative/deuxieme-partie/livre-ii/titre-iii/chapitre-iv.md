@@ -7,7 +7,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - État : en vigueur depuis le 17/10/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022929205
 - Renvoie à : [art. L2231-1 du Code du travail](chapitre-ier.md#article-l2231-1) ; [art. L2234-2 du Code du travail](chapitre-iv.md#article-l2234-2)
-- Cité par : [art. L411-10 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030404562) ; [LOI n°2010-1215 du 15 octobre 2010, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022919695)
+- Cité par : [art. L411-10 du Code du tourisme](../../../../../code-du-tourisme/partie-legislative/livre-iv/titre-ier/chapitre-1er.md#article-l411-10) ; [LOI n°2010-1215 du 15 octobre 2010, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022919695)
 
 Des commissions paritaires professionnelles ou interprofessionnelles peuvent être instituées au niveau local, départemental ou régional, par accord conclu dans les conditions prévues à l'article L. 2231-1.
 

@@ -1,0 +1,113 @@
+# Code des pensions civiles et militaires de retraite
+
+Dernière modification du texte dans LEGI : 04/11/2026. 261 articles en vigueur, répartis dans 74 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Livre Ier : Dispositions générales relatives au régime général des retraites.**
+    - [Titre Ier : Généralités.](partie-legislative/livre-ier/titre-ier.md) (3 articles)
+    - **Titre II : Constitution du droit à la pension ou à la solde de réforme.**
+      - [Chapitre Ier : Fonctionnaires civils.](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Militaires.](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions communes.](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (4 articles)
+    - **Titre III : Liquidation de la pension ou de la solde de réforme.**
+      - [Chapitre Ier : Services et bonifications valables.](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Détermination du montant de la pension.](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Règles particulières de liquidation.](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (4 articles)
+    - [Titre IV : Jouissance de la pension ou de la solde de réforme.](partie-legislative/livre-ier/titre-iv.md) (6 articles)
+    - **Titre V : Invalidité.**
+      - [Chapitre Ier : Fonctionnaires civils.](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Militaires.](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (4 articles)
+    - **Titre VI : Pensions des ayants cause.**
+      - [Chapitre Ier : Fonctionnaires civils.](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Militaires.](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions communes.](partie-legislative/livre-ier/titre-vi/chapitre-iii.md) (1 article)
+    - [Titre VII : Dispositions spéciales.](partie-legislative/livre-ier/titre-vii.md) (2 articles)
+    - **Titre VIII : Dispositions d'ordre et diverses.**
+      - [Paragraphe Ier : Concession et révision de la pension.](partie-legislative/livre-ier/titre-viii/paragraphe-ier.md) (3 articles)
+      - [Paragraphe II : Dispositions diverses.](partie-legislative/livre-ier/titre-viii/paragraphe-ii.md) (1 article)
+    - [Titre IX : Retenues pour pensions.](partie-legislative/livre-ier/titre-ix.md) (4 articles)
+    - [Titre X : Cessation ou reprise de service. - Coordination avec le régime de sécurité sociale.](partie-legislative/livre-ier/titre-x.md) (3 articles)
+  - **Livre II : Dispositions particulières du régime général des retraites.**
+    - [Livre II : Dispositions particulières du régime général des retraites. : articles rattachés directement](partie-legislative/livre-ii/articles-directs.md) (1 article)
+    - **Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires.**
+      - [Chapitre Ier : Agents en service détaché.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Fonctionnaires civils titulaires de deux emplois.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Sapeurs-pompiers de Paris.](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+    - **Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Cumul de pensions et de rémunérations d'activité.](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Cumul de plusieurs pensions.](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Cumul d'accessoires de pension.](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Retraite progressive](partie-legislative/livre-ii/titre-iii/chapitre-v.md) (2 articles)
+  - **Livre III : Dispositions relatives au paiement des pensions.**
+    - [Chapitre Ier : Paiement des pensions.](partie-legislative/livre-iii/chapitre-ier.md) (4 articles)
+    - [Chapitre II : Avances mensuelles sur pensions concédées en paiement.](partie-legislative/livre-iii/chapitre-ii.md) (3 articles)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Livre Ier : Dispositions générales relatives au régime général des retraites.**
+    - [Titre Ier : Généralités.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ier.md) (3 articles)
+    - **Titre II : Constitution du droit à la pension ou à la solde de réforme.**
+      - [Chapitre Ier : Fonctionnaires civils.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Militaires.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions communes.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : Liquidation de la pension ou de la solde de réforme.**
+      - [Chapitre Ier : Services et bonifications valables.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Détermination du montant de la pension.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iii/chapitre-ii.md) (14 articles)
+    - [Titre IV : Jouissance de la pension ou de la solde de réforme.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-iv.md) (5 articles)
+    - **Titre V : Invalidité.**
+      - [Chapitre Ier : Fonctionnaires civils.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-v/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Militaires.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-v/chapitre-ii.md) (3 articles)
+    - **Titre VI : Pensions des ayants cause.**
+      - [Chapitre III : Dispositions communes.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vi/chapitre-iii.md) (4 articles)
+    - **Titre VII : Dispositions spéciales.**
+      - [Chapitre Ier : Solde de réserve des officiers généraux.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Militaires ayant bénéficié d'un pécule.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-vii/chapitre-iii.md) (1 article)
+    - **Titre VIII : Dispositions d'ordre et diverses.**
+      - [Paragraphe Ier : Concession et révision de la pension.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-viii/paragraphe-ier.md) (1 article)
+      - [Paragraphe II : Dispositions diverses.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-viii/paragraphe-ii.md) (3 articles)
+    - **Titre IX : Cotisations et contributions pour pension**
+      - [Chapitre Ier : Liquidation, recouvrement et déclaration](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ix/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Agents en détachement](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ix/chapitre-ii.md) (2 articles)
+  - **Livre II : Dispositions particulières du régime général des retraites.**
+    - **Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.**
+      - [Chapitre Ier : Agents en service détaché.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-vi.md) (1 article)
+    - **Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.**
+      - [Chapitre Ier : Dispositions générales.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Cumul de pensions et de rémunérations d'activité.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Cumul de plusieurs pensions.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-iii.md) (3 articles)
+  - **Livre III : Dispositions relatives au paiement des pensions.**
+    - [Chapitre Ier : Paiement des pensions.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/chapitre-ier.md) (5 articles)
+    - [Chapitre II : Avances provisoires sur pensions en instance de liquidation.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/chapitre-ii.md) (4 articles)
+- **Partie réglementaire - Décrets simples**
+  - **Livre Ier : Dispositions générales relatives au régime général des retraites.**
+    - [Titre Ier : Généralités.](partie-reglementaire-decrets-simples/livre-ier/titre-ier.md) (1 article)
+    - **Titre II : Constitution du droit à la pension ou à la solde de réforme.**
+      - [Chapitre Ier : Fonctionnaires civils.](partie-reglementaire-decrets-simples/livre-ier/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre III : Dispositions communes](partie-reglementaire-decrets-simples/livre-ier/titre-ii/chapitre-iii.md) (3 articles)
+    - **Titre III : Liquidation de la pension ou de la solde de réforme.**
+      - [Chapitre Ier : Services et bonifications valables.](partie-reglementaire-decrets-simples/livre-ier/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Détermination du montant de la pension.](partie-reglementaire-decrets-simples/livre-ier/titre-iii/chapitre-ii.md) (3 articles)
+    - [Titre IV : Jouissance de la pension ou de la solde de réforme.](partie-reglementaire-decrets-simples/livre-ier/titre-iv.md) (3 articles)
+    - **Titre V : Invalidité.**
+      - [Chapitre Ier : Fonctionnaires civils.](partie-reglementaire-decrets-simples/livre-ier/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Militaires.](partie-reglementaire-decrets-simples/livre-ier/titre-v/chapitre-ii.md) (1 article)
+    - [Titre VI : Pensions des ayants cause.](partie-reglementaire-decrets-simples/livre-ier/titre-vi.md) (6 articles)
+    - **Titre VIII : Dispositions d'ordre et diverses.**
+      - [Paragraphe Ier : Concession et révision de la pension.](partie-reglementaire-decrets-simples/livre-ier/titre-viii/paragraphe-ier.md) (10 articles)
+      - [Paragraphe II : Dispositions spécifiques à la concession les prestations d'invalidité](partie-reglementaire-decrets-simples/livre-ier/titre-viii/paragraphe-ii.md) (1 article)
+    - [Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.](partie-reglementaire-decrets-simples/livre-ier/titre-x.md) (2 articles)
+  - **Livre II : Dispositions particulières du régime général des retraites.**
+    - **Titre III : Cumul de pension avec des rémunérations d'activité ou d'autres pensions.**
+      - [Chapitre Ier : Cumul de pensions et de rémunérations d'activité](partie-reglementaire-decrets-simples/livre-ii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Retraite progressive](partie-reglementaire-decrets-simples/livre-ii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Accessoires de pension](partie-reglementaire-decrets-simples/livre-ii/titre-iii/chapitre-iii.md) (1 article)
+  - **Livre III : Dispositions relatives au paiement des pensions.**
+    - [Chapitre Ier : Paiement des pensions.](partie-reglementaire-decrets-simples/livre-iii/chapitre-ier.md) (9 articles)
+    - [Chapitre II : Avances provisoires sur pensions en instance de liquidation.](partie-reglementaire-decrets-simples/livre-iii/chapitre-ii.md) (1 article)
+- [Annexe](annexe.md) (1 article)

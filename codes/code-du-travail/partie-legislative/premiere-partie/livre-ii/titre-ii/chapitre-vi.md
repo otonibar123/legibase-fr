@@ -8,8 +8,8 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - Identifiant : LEGIARTI000054331868
 - État : en vigueur depuis le 27/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054331868
-- Renvoie à : art. L321-1 du Code de la sécurité sociale
-- Cité par : [art. D1226-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-d1226-1) ; [art. D1226-2 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-d1226-2) ; [art. L1225-10 du Code du travail](chapitre-v.md#article-l1225-10) ; [art. L1225-14 du Code du travail](chapitre-v.md#article-l1225-14) ; [art. L1226-1-1 du Code du travail](chapitre-vi.md#article-l1226-1-1) ; [art. L1531-3 du Code du travail](../../livre-v/titre-iii/chapitre-ier.md#article-l1531-3) ; [art. L7211-3 du Code du travail](../../../septieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l7211-3) ; [art. R1226-10 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-r1226-10) ; [art. R1262-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-1) ; [art. D323-6-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045368066) ; [art. L161-22 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053279730) ; [art. L315-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054336551) ; [Décret n°2021-13 du 8 janvier 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042984220) ; [Décret n°2021-13 du 8 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042984248) ; [Décret n°2021-1412 du 29 octobre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044275617) ; [Décret n°2021-15 du 8 janvier 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042984992) ; [Décret n°2021-182 du 18 février 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043156766) ; [Décret n°2021-271 du 11 mars 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043242184) ; [Décret n°2021-343 du 29 mars 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043303933) ; … et 7 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+- Renvoie à : [art. L169-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-9.md#article-l169-1) ; [art. L321-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-1er.md#article-l321-1) ; [art. L431-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iii/chapitre-1er.md#article-l431-1)
+- Cité par : [art. D323-6-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-ii/chapitre-3.md#article-d323-6-1) ; [art. L16-10-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-10.md#article-l16-10-1) ; [art. L161-22 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-1er.md#article-l161-22) ; [art. L315-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-i/chapitre-5.md#article-l315-1) ; [art. R341-17 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-1er.md#article-r341-17) ; [art. D1226-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-d1226-1) ; [art. D1226-2 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-d1226-2) ; [art. L1225-10 du Code du travail](chapitre-v.md#article-l1225-10) ; [art. L1225-14 du Code du travail](chapitre-v.md#article-l1225-14) ; [art. L1226-1-1 du Code du travail](chapitre-vi.md#article-l1226-1-1) ; [art. L1531-3 du Code du travail](../../livre-v/titre-iii/chapitre-ier.md#article-l1531-3) ; [art. L7211-3 du Code du travail](../../../septieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l7211-3) ; [art. R1226-10 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-r1226-10) ; [art. R1262-1 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-1) ; [Décret n°2021-13 du 8 janvier 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042984220) ; [Décret n°2021-13 du 8 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042984248) ; [Décret n°2021-1412 du 29 octobre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044275617) ; [Décret n°2021-15 du 8 janvier 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042984992) ; [Décret n°2021-182 du 18 février 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043156766) ; [Décret n°2021-271 du 11 mars 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043242184) ; [Décret n°2021-343 du 29 mars 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043303933) ; [Décret n°2021-497 du 23 avril 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043417510) ; [Décret n°2021-657 du 26 mai 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043538821) ; [Décret n°2021-770 du 16 juin 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043670534) ; … et 4 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
 
 Tout salarié ayant une année d'ancienneté dans l'entreprise bénéficie, en cas d'absence au travail justifiée par l'incapacité résultant de maladie ou d'accident constaté par certificat médical et contre-visite s'il y a lieu, d'une indemnité complémentaire à l'allocation journalière prévue à l'article L. 321-1 du code de la sécurité sociale, à condition :
 
@@ -31,7 +31,7 @@ Le taux, les délais et les modalités de calcul de l'indemnité complémentaire
 - Identifiant : LEGIARTI000042685559
 - État : en vigueur depuis le 16/12/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042685559
-- Renvoie à : [art. L1226-1 du Code du travail](chapitre-vi.md#article-l1226-1) ; [art. L16-10-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042685562)
+- Renvoie à : [art. L16-10-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-10.md#article-l16-10-1) ; [art. L323-3-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-3.md#article-l323-3-1) ; [art. L1226-1 du Code du travail](chapitre-vi.md#article-l1226-1)
 - Cité par : [Décret n°2021-13 du 8 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042984248)
 
 Lorsque la protection de la santé publique le justifie, en cas de risque sanitaire grave et exceptionnel, tel que prévu à l'article L. 16-10-1 du code de la sécurité sociale, notamment d'épidémie, nécessitant l'adoption en urgence de conditions adaptées pour le versement de l'indemnité complémentaire prévue à l'article L. 1226-1 du présent code, dérogatoires au droit commun, celles-ci peuvent être prévues par décret, pour une durée limitée qui ne peut excéder un an.  
@@ -58,7 +58,7 @@ Le décret mentionné au premier alinéa du présent article détermine la duré
 - Identifiant : LEGIARTI000042682021
 - État : en vigueur depuis le 16/12/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042682021
-- Renvoie à : [art. L323-3-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023266168)
+- Renvoie à : [art. L323-3-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-3.md#article-l323-3-1)
 
 Le contrat de travail d'un salarié atteint d'une maladie ou victime d'un accident non professionnel demeure suspendu pendant les périodes au cours desquelles il suit les actions mentionnées à l'article L. 323-3-1 du code de la sécurité sociale dans les conditions prévues à ce même article.
 
@@ -66,8 +66,8 @@ Le contrat de travail d'un salarié atteint d'une maladie ou victime d'un accide
 - Identifiant : LEGIARTI000043891119
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043891119
-- Renvoie à : [art. L4624-2-4 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2-4) ; [art. L4624-3 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-3) ; [art. L323-3-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023266168)
-- Cité par : [art. L5213-6-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-6-1) ; [art. R4624-33-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-r4624-33-1) ; [art. R717-17-1-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045673416)
+- Renvoie à : [art. L323-3-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-3.md#article-l323-3-1) ; [art. L4624-2-4 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2-4) ; [art. L4624-3 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-3)
+- Cité par : [art. L5213-6-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iii.md#article-l5213-6-1) ; [art. R4624-33-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-r4624-33-1) ; [art. R717-17-1-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-17-1-1)
 
 Lorsque la durée de l'absence au travail du salarié justifiée par l'incapacité résultant de maladie ou d'accident, constaté par certificat médical et contre-visite s'il y a lieu, est supérieure à une durée fixée par décret, la suspension du contrat de travail ne fait pas obstacle à l'organisation d'un rendez-vous de liaison entre le salarié et l'employeur, associant le service de prévention et de santé au travail.  
 
@@ -96,7 +96,7 @@ Les travailleurs déclarés inaptes en application de l'article L. 4624-4 ou pou
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653236
 - Renvoie à : [art. L233-1 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-1) ; [art. L233-3 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-3) ; [art. L233-16 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-16) ; [art. L4624-4 du Code du travail](../../../quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-4)
-- Cité par : [art. L1225-11 du Code du travail](chapitre-v.md#article-l1225-11) ; [art. L1225-15 du Code du travail](chapitre-v.md#article-l1225-15) ; [art. L1226-2-1 du Code du travail](chapitre-vi.md#article-l1226-2-1) ; [art. L3122-14 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l3122-14) ; [art. R5545-6-29 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480098) ; [art. R5134-34 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526627) ; [Décret n°2017-1820 du 29 décembre 2017, art. Annexe II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820335) ; [Décret n°2018-449 du 5 juin 2018, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037007688) ; [Décret n°98-596 du 13 juillet 1998, art. 54](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037016415)
+- Cité par : [art. R5545-6-29 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-29) ; [art. L1225-11 du Code du travail](chapitre-v.md#article-l1225-11) ; [art. L1225-15 du Code du travail](chapitre-v.md#article-l1225-15) ; [art. L1226-2-1 du Code du travail](chapitre-vi.md#article-l1226-2-1) ; [art. L3122-14 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l3122-14) ; [art. R5134-34 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526627) ; [Décret n°2017-1820 du 29 décembre 2017, art. Annexe II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820335) ; [Décret n°2018-449 du 5 juin 2018, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037007688) ; [Décret n°98-596 du 13 juillet 1998, art. 54](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037016415)
 
 Lorsque le salarié victime d'une maladie ou d'un accident non professionnel est déclaré inapte par le médecin du travail, en application de l'article L. 4624-4, à reprendre l'emploi qu'il occupait précédemment, l'employeur lui propose un autre emploi approprié à ses capacités, au sein de l'entreprise ou des entreprises du groupe auquel elle appartient le cas échéant, situées sur le territoire national et dont l'organisation, les activités ou le lieu d'exploitation assurent la permutation de tout ou partie du personnel.
 
@@ -157,7 +157,7 @@ La gestion de ce fonds est confiée à l'association prévue à l'article L. 325
 - État : en vigueur depuis le 19/05/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024024756
 - Renvoie à : [art. L1226-4 du Code du travail](chapitre-vi.md#article-l1226-4)
-- Cité par : [art. L444-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046774725)
+- Cité par : [art. L444-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-iv/chapitre-iv.md#article-l444-2)
 
 Les dispositions visées à l'article L. 1226-4 s'appliquent également aux salariés en contrat de travail à durée déterminée.
 
@@ -166,7 +166,7 @@ Les dispositions visées à l'article L. 1226-4 s'appliquent également aux sala
 - État : en vigueur depuis le 19/05/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024024758
 - Renvoie à : [art. L1234-9 du Code du travail](../titre-iii/chapitre-iv.md#article-l1234-9) ; [art. L1243-8 du Code du travail](../titre-iv/chapitre-iii.md#article-l1243-8)
-- Cité par : [art. L444-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046774725)
+- Cité par : [art. L444-2 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-iv/chapitre-iv.md#article-l444-2)
 
 La rupture du contrat à durée déterminée prononcée en cas d'inaptitude ouvre droit, pour le salarié, à une indemnité dont le montant ne peut être inférieur à celui de l'indemnité prévue à l'article L. 1234-9. Cette indemnité de rupture est versée selon les mêmes modalités que l'indemnité de précarité prévue à l'article L. 1243-8.
 
@@ -176,7 +176,7 @@ La rupture du contrat à durée déterminée prononcée en cas d'inaptitude ouvr
 - Identifiant : LEGIARTI000032181969
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032181969
-- Renvoie à : [art. L160-14 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031670469)
+- Renvoie à : [art. L160-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-vi/chapitre-preliminaire.md#article-l160-14)
 
 Tout salarié atteint d'une maladie grave au sens du 3° et du 4° de l'article L. 160-14 du code de la sécurité sociale bénéficie d'autorisations d'absence pour suivre les traitements médicaux rendus nécessaires par son état de santé.
 
@@ -188,7 +188,7 @@ Tout salarié atteint d'une maladie grave au sens du 3° et du 4° de l'article 
 - Identifiant : LEGIARTI000006900972
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900972
-- Cité par : [art. L5542-37 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027724283)
+- Cité par : [art. L5542-37 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-37)
 
 Les dispositions de la présente section ne sont pas applicables aux rapports entre un employeur et son salarié victime d'un accident du travail ou d'une maladie professionnelle, survenu ou contractée au service d'un autre employeur.
 
@@ -198,7 +198,7 @@ Les dispositions de la présente section ne sont pas applicables aux rapports en
 - Identifiant : LEGIARTI000053283550
 - État : en vigueur depuis le 31/12/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053283550
-- Renvoie à : [art. L6313-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-l6313-1) ; art. L146-9 du Code de l'action sociale et des familles ; art. L323-3-1 du Code de la sécurité sociale
+- Renvoie à : [art. L146-9 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9) ; [art. L323-3-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-3.md#article-l323-3-1) ; [art. L433-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iii/chapitre-3.md#article-l433-1) ; [art. L6313-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-l6313-1)
 - Cité par : [art. L23-11-3 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-xi.md#article-l23-11-3) ; [art. L1226-8 du Code du travail](chapitre-vi.md#article-l1226-8) ; [art. L1524-8 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-l1524-8) ; [art. L3314-5 du Code du travail](../../../troisieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l3314-5) ; [art. L3324-6 du Code du travail](../../../troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-6) ; [art. R6341-32-2 du Code du travail](../../../../partie-reglementaire/sixieme-partie/livre-iii/titre-iv/chapitre-ier.md#article-r6341-32-2)
 
 Le contrat de travail du salarié victime d'un accident du travail, autre qu'un accident de trajet, ou d'une maladie professionnelle est suspendu pendant la durée de l'arrêt de travail provoqué par l'accident ou la maladie.
@@ -234,7 +234,7 @@ Au cours des périodes de suspension du contrat de travail, l'employeur ne peut 
 - Identifiant : LEGIARTI000046119112
 - État : en vigueur depuis le 01/08/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046119112
-- Renvoie à : art. L3131-1 du Code de la santé publique
+- Renvoie à : [art. L3131-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l3131-1)
 
 Les dispositions de la présente sous-section s'appliquent en cas de mise en quarantaine au sens du 2° du I de l'article L. 3131-1 du code de la santé publique.
 
@@ -259,7 +259,7 @@ Pour l'application du présent article, la notion de groupe désigne le groupe f
 - Identifiant : LEGIARTI000006900978
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900978
-- Cité par : [art. L1226-20 du Code du travail](chapitre-vi.md#article-l1226-20) ; [art. L1226-21 du Code du travail](chapitre-vi.md#article-l1226-21) ; [art. D433-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021957784) ; [art. L433-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053283560) ; [art. D751-47-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022833850)
+- Cité par : [art. D433-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-iii/chapitre-3.md#article-d433-5) ; [art. L433-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iii/chapitre-3.md#article-l433-1) ; [art. L1226-20 du Code du travail](chapitre-vi.md#article-l1226-20) ; [art. L1226-21 du Code du travail](chapitre-vi.md#article-l1226-21) ; [art. D751-47-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-v/chapitre-ier.md#article-d751-47-4)
 
 Lorsque, à l'issue d'un délai d'un mois à compter de la date de l'examen médical de reprise du travail, le salarié déclaré inapte n'est pas reclassé dans l'entreprise ou s'il n'est pas licencié, l'employeur lui verse, dès l'expiration de ce délai, le salaire correspondant à l'emploi que celui-ci occupait avant la suspension de son contrat de travail.  
 
@@ -309,7 +309,7 @@ Les dispositions du présent article ne se cumulent pas avec les avantages de m�
 - État : en vigueur depuis le 24/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643503
 - Renvoie à : [art. L1226-8 du Code du travail](chapitre-vi.md#article-l1226-8) ; [art. L1226-10 du Code du travail](chapitre-vi.md#article-l1226-10) ; [art. L1226-12 du Code du travail](chapitre-vi.md#article-l1226-12) ; [art. L1226-14 du Code du travail](chapitre-vi.md#article-l1226-14) ; [art. L1235-2 du Code du travail](../titre-iii/chapitre-v.md#article-l1235-2) ; [art. L1235-3-1 du Code du travail](../titre-iii/chapitre-v.md#article-l1235-3-1)
-- Cité par : [art. 2331 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-ii/chapitre-ier.md#article-2331) ; [art. 2377 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-ier.md#article-2377) ; [art. L1226-16 du Code du travail](chapitre-vi.md#article-l1226-16) ; [art. L1226-17 du Code du travail](chapitre-vi.md#article-l1226-17) ; [art. L511-84-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049720702) ; [art. L533-22-2-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038509096) ; [LOI n°2024-537 du 13 juin 2024, art. 27](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049708723)
+- Cité par : [art. 2331 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-ii/chapitre-ier.md#article-2331) ; [art. 2377 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-ier.md#article-2377) ; [art. L1226-16 du Code du travail](chapitre-vi.md#article-l1226-16) ; [art. L1226-17 du Code du travail](chapitre-vi.md#article-l1226-17) ; [art. L511-84-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-84-1) ; [art. L533-22-2-3 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-iii.md#article-l533-22-2-3) ; [LOI n°2024-537 du 13 juin 2024, art. 27](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049708723)
 
 Lorsqu'un licenciement est prononcé en méconnaissance des dispositions relatives à la réintégration du salarié, prévues à l'article L. 1226-8, le tribunal saisi peut proposer la réintégration du salarié dans l'entreprise, avec maintien de ses avantages acquis.  
 Il en va de même en cas de licenciement prononcé en méconnaissance des dispositions relatives au reclassement du salarié déclaré inapte prévues aux articles L. 1226-10 à L. 1226-12.  
@@ -351,7 +351,7 @@ Lorsque le salarié victime d'un accident ou d'une maladie professionnelle est t
 - Identifiant : LEGIARTI000006900986
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900986
-- Cité par : [art. L1243-5 du Code du travail](../titre-iv/chapitre-iii.md#article-l1243-5) ; [art. R6152-364 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045140708)
+- Cité par : [art. R6152-364 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/sixieme-partie/livre-ier/titre-v/chapitre-ii.md#article-r6152-364) ; [art. L1243-5 du Code du travail](../titre-iv/chapitre-iii.md#article-l1243-5)
 
 Les périodes de suspension du contrat de travail consécutives à un accident du travail ou à une maladie professionnelle ne font pas obstacle à l'échéance du contrat de travail à durée déterminée.
 
@@ -362,7 +362,7 @@ Toutefois, lorsque ce contrat comporte une clause de renouvellement, l'employeur
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024877
 - Renvoie à : [art. L1226-10 du Code du travail](chapitre-vi.md#article-l1226-10) ; [art. L1226-11 du Code du travail](chapitre-vi.md#article-l1226-11) ; [art. L1226-12 du Code du travail](chapitre-vi.md#article-l1226-12) ; [art. L1226-14 du Code du travail](chapitre-vi.md#article-l1226-14) ; [art. L1234-9 du Code du travail](../titre-iii/chapitre-iv.md#article-l1234-9) ; [art. L1243-8 du Code du travail](../titre-iv/chapitre-iii.md#article-l1243-8)
-- Cité par : [art. 2331 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-ii/chapitre-ier.md#article-2331) ; [art. 2377 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-ier.md#article-2377) ; [art. L1226-21 du Code du travail](chapitre-vi.md#article-l1226-21) ; [art. L1226-22 du Code du travail](chapitre-vi.md#article-l1226-22) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050328194)
+- Cité par : [art. 2331 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-ii/chapitre-ier.md#article-2331) ; [art. 2377 du Code civil](../../../../../code-civil/livre-iv/titre-ii/sous-titre-iii/chapitre-ier.md#article-2377) ; [art. R592-79 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-ix/chapitre-ii.md#article-r592-79) ; [art. L1226-21 du Code du travail](chapitre-vi.md#article-l1226-21) ; [art. L1226-22 du Code du travail](chapitre-vi.md#article-l1226-22) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050328194)
 
 Lorsque le salarié est titulaire d'un contrat à durée déterminée, les dispositions des deuxième et dernier alinéas de l'article L. 1226-12 et des articles L. 1226-14 à L. 1226-16, relatives aux conditions de licenciement d'un salarié victime d'un accident du travail ou d'une maladie professionnelle, ne sont pas applicables.
 

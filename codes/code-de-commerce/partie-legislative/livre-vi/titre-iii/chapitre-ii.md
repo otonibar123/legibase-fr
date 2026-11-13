@@ -6,8 +6,8 @@ Code de commerce › Partie législative › LIVRE VI : Des difficultés des ent
 - Identifiant : LEGIARTI000045178091
 - État : en vigueur depuis le 15/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045178091
-- Renvoie à : [art. 2011 du Code civil](../../../../code-civil/livre-iii/titre-xiv.md#article-2011) ; [art. 2350 du Code civil](../../../../code-civil/livre-iv/titre-ii/sous-titre-ii/chapitre-ii.md#article-2350) ; [art. L225-177 du Code de commerce](../../livre-ii/titre-ii/chapitre-v.md#article-l225-177) ; [art. L526-1 du Code de commerce](../../livre-v/titre-ii/chapitre-vi.md#article-l526-1) ; [art. L526-18 du Code de commerce](../../livre-v/titre-ii/chapitre-vi.md#article-l526-18) ; art. L313-23 du Code monétaire et financier
-- Cité par : [art. L142-4 du Code de commerce](../../livre-ier/titre-iv/chapitre-ii.md#article-l142-4) ; [art. L632-3 du Code de commerce](chapitre-ii.md#article-l632-3) ; [art. L645-9 du Code de commerce](../titre-iv/chapitre-v.md#article-l645-9) ; [art. L311-20 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036102821) ; [art. L613-34-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031080653)
+- Renvoie à : [art. 2011 du Code civil](../../../../code-civil/livre-iii/titre-xiv.md#article-2011) ; [art. 2350 du Code civil](../../../../code-civil/livre-iv/titre-ii/sous-titre-ii/chapitre-ii.md#article-2350) ; [art. L225-177 du Code de commerce](../../livre-ii/titre-ii/chapitre-v.md#article-l225-177) ; [art. L526-1 du Code de commerce](../../livre-v/titre-ii/chapitre-vi.md#article-l526-1) ; [art. L526-18 du Code de commerce](../../livre-v/titre-ii/chapitre-vi.md#article-l526-18) ; [art. L313-23 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-23)
+- Cité par : [art. L142-4 du Code de commerce](../../livre-ier/titre-iv/chapitre-ii.md#article-l142-4) ; [art. L632-3 du Code de commerce](chapitre-ii.md#article-l632-3) ; [art. L645-9 du Code de commerce](../titre-iv/chapitre-v.md#article-l645-9) ; [art. L311-20 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l311-20) ; [art. L613-34-9 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ier/chapitre-iii.md#article-l613-34-9)
 
 I. ― Sont nuls, lorsqu'ils sont intervenus depuis la date de cessation des paiements, les actes suivants :
 
@@ -45,8 +45,8 @@ II. ― Le tribunal peut, en outre, annuler les actes à titre gratuit visés au
 - Identifiant : LEGIARTI000053281588
 - État : en vigueur depuis le 31/12/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281588
-- Renvoie à : art. L243-1 du Code de la sécurité sociale ; art. L741-20 du Code rural et de la pêche maritime
-- Cité par : [art. L632-3 du Code de commerce](chapitre-ii.md#article-l632-3) ; [art. L214-169 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038611549) ; [art. L513-18 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027623059) ; [art. L513-31 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027623261)
+- Renvoie à : [art. L243-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-3.md#article-l243-1) ; [art. 204 A du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-204-a) ; [art. L741-20 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-iv/chapitre-ier.md#article-l741-20)
+- Cité par : [art. L632-3 du Code de commerce](chapitre-ii.md#article-l632-3) ; [art. L214-169 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-169) ; [art. L513-18 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-iii.md#article-l513-18) ; [art. L513-31 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-iii.md#article-l513-31)
 
 Les paiements pour dettes échues effectués à compter de la date de cessation des paiements et les actes à titre onéreux accomplis à compter de cette même date peuvent être annulés si ceux qui ont traité avec le débiteur ont eu connaissance de la cessation des paiements.
 
@@ -73,6 +73,6 @@ Toutefois, l'administrateur ou le mandataire judiciaire peut exercer une action 
 - Identifiant : LEGIARTI000019984243
 - État : en vigueur depuis le 15/02/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019984243
-- Cité par : [art. L311-20 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036102821)
+- Cité par : [art. L311-20 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l311-20)
 
 L'action en nullité est exercée par l'administrateur, le mandataire judiciaire, le commissaire à l'exécution du plan ou le ministère public. Elle a pour effet de reconstituer l'actif du débiteur.

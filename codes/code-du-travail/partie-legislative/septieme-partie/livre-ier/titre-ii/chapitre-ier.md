@@ -55,7 +55,7 @@ Sont considérés comme artistes du spectacle, notamment :
 - Identifiant : LEGIARTI000044056630
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044056630
-- Cité par : [art. L7121-5 du Code du travail](chapitre-ier.md#article-l7121-5) ; [Arrêté du 25 janvier 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036558231) ; [Arrêté du 25 janvier 2018, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036558240) ; [Arrêté du 29 juin 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045997893) ; [art. 84 A du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018620184) ; [art. L222-2-11 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031537932) ; [LOI n°2016-925 du 7 juillet 2016, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032855824)
+- Cité par : [art. L222-2-11 du Code du sport](../../../../../code-du-sport/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l222-2-11) ; [art. L7121-5 du Code du travail](chapitre-ier.md#article-l7121-5) ; [art. 84 A du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-84-a) ; [Arrêté du 25 janvier 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036558231) ; [Arrêté du 25 janvier 2018, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036558240) ; [Arrêté du 29 juin 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045997893) ; [LOI n°2016-925 du 7 juillet 2016, art. 32](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032855824)
 
 Tout contrat par lequel une personne s'assure, moyennant rémunération, le concours d'un artiste du spectacle en vue de sa production, est présumé être un contrat de travail dès lors que cet artiste n'exerce pas l'activité qui fait l'objet de ce contrat dans des conditions impliquant son inscription au registre du commerce et des sociétés.
 
@@ -111,7 +111,7 @@ Les employeurs relevant du champ d'application du guichet unique fixé à l'arti
 - Identifiant : LEGIARTI000006904535
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904535
-- Cité par : [Arrêté du 29 juin 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045997893) ; [art. L136-6 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051218166)
+- Cité par : [art. L212-6 du Code de la propriété intellectuelle](../../../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-ii.md#article-l212-6) ; [art. L136-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-6.md#article-l136-6) ; [Arrêté du 29 juin 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045997893)
 
 La rémunération due à l'artiste à l'occasion de la vente ou de l'exploitation de l'enregistrement de son interprétation, exécution ou présentation par l'employeur ou tout autre utilisateur n'est pas considérée comme salaire dès que la présence physique de l'artiste n'est plus requise pour exploiter cet enregistrement et que cette rémunération n'est pas fonction du salaire reçu pour la production de son interprétation, exécution ou présentation, mais est fonction du produit de la vente ou de l'exploitation de cet enregistrement.
 
@@ -123,7 +123,7 @@ La rémunération due à l'artiste à l'occasion de la vente ou de l'exploitatio
 - Identifiant : LEGIARTI000022517415
 - État : en vigueur depuis le 25/07/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022517415
-- Cité par : [art. L5321-3 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ii/chapitre-ier.md#article-l5321-3) ; [art. L7121-12 du Code du travail](chapitre-ier.md#article-l7121-12) ; [art. L7121-15 du Code du travail](chapitre-ier.md#article-l7121-15) ; [art. R7121-1 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-r7121-1)
+- Cité par : [art. 919-102 du Code du cinéma et de l'image animée](../../../../../code-du-cinema-et-de-l-image-animee/annexe/livre-ix/titre-unique/chapitre-ix.md#article-919-102) ; [art. L5321-3 du Code du travail](../../../cinquieme-partie/livre-iii/titre-ii/chapitre-ier.md#article-l5321-3) ; [art. L7121-12 du Code du travail](chapitre-ier.md#article-l7121-12) ; [art. L7121-15 du Code du travail](chapitre-ier.md#article-l7121-15) ; [art. R7121-1 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-r7121-1)
 
 L'activité d'agent artistique, qu'elle soit exercée sous l'appellation d'impresario, de manager ou sous toute autre dénomination, consiste à recevoir mandat à titre onéreux d'un ou de plusieurs artistes du spectacle aux fins de placement et de représentation de leurs intérêts professionnels.
 

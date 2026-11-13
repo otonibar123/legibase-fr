@@ -80,7 +80,7 @@ En cas de carence d'une partie, le juge peut être saisi selon les modalités pr
 - État : en vigueur depuis le 01/09/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928666
 - Renvoie à : [art. 131-3 du Code de procédure civile](chapitre-ii.md#article-131-3)
-- Cité par : [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051166677) ; [Décret n°2005-1669 du 27 décembre 2005, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029043049)
+- Cité par : [art. R123-24 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-24) ; [Décret n°2005-1669 du 27 décembre 2005, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029043049)
 
 Tout tiers intéressé peut, avec l'accord des parties et du technicien, être associé aux opérations menées par celui-ci. Il devient alors partie au contrat en cours.
 

@@ -6,7 +6,7 @@ Code de commerce › Partie Arrêtés › LIVRE Ier : Du commerce en général.
 - Identifiant : LEGIARTI000032821233
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032821233
-- Renvoie à : [art. R123-154-1 du Code de commerce](../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-154-1)
+- Renvoie à : [art. R123-154-1 du Code de commerce](../../partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-154-1) ; [art. 441-1 du Code pénal](../../../code-penal/partie-legislative/livre-iv/titre-iv/chapitre-ier.md#article-441-1)
 - Cité par : [art. A123-68-1 du Code de commerce](titre-ii/chapitre-iii.md#article-a123-68-1)
 
 MODÈLE TYPE D'ATTESTATION PRÉVUE PAR L'ARTICLE A. 123-68-1

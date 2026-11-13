@@ -8,6 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000049743357
 - État : en vigueur depuis le 19/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049743357
+- Cité par : [art. R554-2 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-2)
 
 Au sens du présent chapitre, on entend par :
 
@@ -85,7 +86,7 @@ Cette évaluation et ces mesures tiennent notamment compte :
 - Identifiant : LEGIARTI000049743367
 - État : en vigueur depuis le 19/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049743367
-- Renvoie à : [art. R4544-16 du Code du travail](chapitre-iv-bis.md#article-r4544-16) ; art. R554-25 du Code de l'environnement
+- Renvoie à : [art. R554-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-1) ; [art. R554-21 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-21) ; [art. R554-25 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-25) ; [art. R554-26 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-26) ; [art. R4544-16 du Code du travail](chapitre-iv-bis.md#article-r4544-16)
 
 Pour les travaux dans l'environnement d'ouvrages électriques soumis à déclaration en vertu de l'article R. 554-25 du code de l'environnement, les informations et indications mentionnées au 2° de l'article R. 4544-16 du présent code sont fournies à l'employeur par l'exploitant de l'ouvrage dans le cadre de la procédure prévue aux articles R. 554-25 et R. 554-26 du code de l'environnement. Lorsqu'en vertu de l'article R. 554-21 du même code, ces travaux ne sont pas soumis à déclaration au motif qu'une convention a été passée avec l'exploitant, le responsable de projet mentionné à l'article R. 554-1 du même code ou le propriétaire du terrain qui commande les travaux communique par écrit à l'employeur ces informations et indications, telles qu'elles figurent dans la convention.
 
@@ -95,7 +96,7 @@ Pour les travaux dans l'environnement d'ouvrages électriques soumis à déclara
 - Identifiant : LEGIARTI000049743369
 - État : en vigueur depuis le 19/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049743369
-- Renvoie à : [art. R4544-16 du Code du travail](chapitre-iv-bis.md#article-r4544-16) ; art. R554-19 du Code de l'environnement
+- Renvoie à : [art. R554-19 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-19) ; [art. R4544-16 du Code du travail](chapitre-iv-bis.md#article-r4544-16) ; [art. R717-97 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-97)
 
 Pour les travaux agricoles ou horticoles mentionnés au 2° du I de l'article R. 554-19 du code de l'environnement, le chef d'exploitation demande à l'exploitant de l'ouvrage, par tout moyen conférant date certaine à leur réception, les informations et indications mentionnées au 2° de l'article R. 4544-16 concernant les parcelles sur lesquelles il envisage de réaliser les travaux concernés.
 
@@ -111,7 +112,7 @@ Lorsque le chef d'exploitation n'exécute pas lui-même les travaux et coopère 
 - Identifiant : LEGIARTI000049743371
 - État : en vigueur depuis le 19/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049743371
-- Renvoie à : [art. R4544-16 du Code du travail](chapitre-iv-bis.md#article-r4544-16) ; art. R554-21 du Code de l'environnement
+- Renvoie à : [art. R554-21 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-21) ; [art. R4544-16 du Code du travail](chapitre-iv-bis.md#article-r4544-16)
 
 Pour les autres travaux dans l'environnement d'ouvrages électriques non soumis à l'obligation de déclaration ou de convention prévue à l'article R. 554-21 du code de l'environnement, l'employeur sollicite les informations et indications mentionnées au 2° de l'article R. 4544-16 auprès de l'exploitant de l'ouvrage. Celui-ci les lui communique, par tout moyen conférant date certaine à leur réception, dans un délai utile pour la réalisation des travaux, le cas échéant en tenant compte de leur caractère urgent.
 
@@ -223,7 +224,7 @@ Lorsque les lignes aériennes isolées sont visibles, l'employeur organise les t
 - Identifiant : LEGIARTI000049743393
 - État : en vigueur depuis le 19/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049743393
-- Renvoie à : art. R554-1 du Code de l'environnement ; art. R554-23 du Code de l'environnement
+- Renvoie à : [art. R554-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-1) ; [art. R554-23 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-23) ; [art. R554-27 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-27)
 
 Lorsque les canalisations souterraines isolées ne sont pas visibles, l'employeur vérifie que le responsable de projet mentionné à l'article R. 554-1 du code de l'environnement ou, le cas échéant, l'exploitant de réseau a réalisé, en application des dispositions de l'article R. 554-27 du même code, le marquage ou piquetage du parcours de ces ouvrages ou installations électriques et s'assure de son maintien pendant toute la durée des travaux. Hors réseau public ou lorsque l'article R. 554-27 n'est pas applicable, ces opérations sont assurées par le chef de l'entreprise utilisatrice ou le maître d'ouvrage.
 
@@ -282,7 +283,7 @@ L'habilitation est délivrée et renouvelée dans les conditions fixées à l'ar
 - Identifiant : LEGIARTI000049743403
 - État : en vigueur depuis le 19/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049743403
-- Renvoie à : [art. R4544-32 du Code du travail](chapitre-iv-bis.md#article-r4544-32) ; art. R554-31 du Code de l'environnement
+- Renvoie à : [art. R554-31 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-iv.md#article-r554-31) ; [art. R4544-32 du Code du travail](chapitre-iv-bis.md#article-r4544-32)
 
 Un arrêté des ministres chargés du travail et de l'agriculture définit les conditions dans lesquelles l'autorisation d'intervenir à proximité des réseaux prévue par l'article R. 554-31 du code de l'environnement vaut habilitation pour l'application de l'article R. 4544-32 du présent code.
 

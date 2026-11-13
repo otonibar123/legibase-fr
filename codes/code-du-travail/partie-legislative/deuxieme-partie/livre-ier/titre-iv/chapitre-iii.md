@@ -32,7 +32,7 @@ Dans les entreprises de travail temporaire, la condition d'ancienneté pour êtr
 - État : en vigueur depuis le 26/10/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052437195
 - Renvoie à : [art. L2143-12 du Code du travail](chapitre-iii.md#article-l2143-12)
-- Cité par : [art. L2143-10 du Code du travail](chapitre-iii.md#article-l2143-10) ; [art. L2143-11 du Code du travail](chapitre-iii.md#article-l2143-11) ; [art. L2143-14 du Code du travail](chapitre-iii.md#article-l2143-14) ; [art. L2242-17 du Code du travail](../../livre-ii/titre-iv/chapitre-ii.md#article-l2242-17) ; [art. R2143-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-1) ; [art. R2143-3 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-3) ; [art. R1432-121 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023383090) ; [art. L1214-8-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039785105) ; [LOI n°2008-789 du 20 août 2008, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019347422) ; [LOI n°2024-450 du 21 mai 2024, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049566256)
+- Cité par : [art. R1432-121 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-r1432-121) ; [art. L1214-8-2 du Code des transports](../../../../../code-des-transports/partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iv.md#article-l1214-8-2) ; [art. L2143-10 du Code du travail](chapitre-iii.md#article-l2143-10) ; [art. L2143-11 du Code du travail](chapitre-iii.md#article-l2143-11) ; [art. L2143-14 du Code du travail](chapitre-iii.md#article-l2143-14) ; [art. L2242-17 du Code du travail](../../livre-ii/titre-iv/chapitre-ii.md#article-l2242-17) ; [art. R2143-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-1) ; [art. R2143-3 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-3) ; [LOI n°2008-789 du 20 août 2008, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019347422) ; [LOI n°2024-450 du 21 mai 2024, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049566256)
 
 Chaque organisation syndicale représentative dans l'entreprise ou l'établissement d'au moins cinquante salariés, qui constitue une section syndicale, désigne parmi les candidats aux élections professionnelles qui ont recueilli à titre personnel et dans leur collège au moins 10 % des suffrages exprimés au premier tour des dernières élections au comité social et économique, quel que soit le nombre de votants, dans les limites fixées à l'article L. 2143-12, un ou plusieurs délégués syndicaux pour la représenter auprès de l'employeur.
 
@@ -56,7 +56,7 @@ Ce délégué supplémentaire est désigné parmi les candidats aux élections p
 - Identifiant : LEGIARTI000035652764
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652764
-- Cité par : [art. L2143-12 du Code du travail](chapitre-iii.md#article-l2143-12) ; [art. L2143-15 du Code du travail](chapitre-iii.md#article-l2143-15) ; [art. L2101-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243386)
+- Cité par : [art. L2101-6 du Code des transports](../../../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ier/titre-preliminaire/chapitre-ier.md#article-l2101-6) ; [art. L2143-12 du Code du travail](chapitre-iii.md#article-l2143-12) ; [art. L2143-15 du Code du travail](chapitre-iii.md#article-l2143-15)
 
 Dans les entreprises d'au moins deux mille salariés comportant au moins deux établissements d'au moins cinquante salariés chacun, chaque syndicat représentatif dans l'entreprise peut désigner un délégué syndical central d'entreprise, distinct des délégués syndicaux d'établissement.
 
@@ -160,7 +160,7 @@ Le nombre ainsi fixé peut être dépassé en application des dispositions de l'
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033023282
 - Renvoie à : [art. L3121-58 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-58)
-- Cité par : [art. R2143-3-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-3-1) ; [art. R1432-122 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023383094) ; [art. L6524-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042655830) ; [art. R1324-4 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028996693)
+- Cité par : [art. R1432-122 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-r1432-122) ; [art. L6524-6 du Code des transports](../../../../../code-des-transports/partie-legislative/sixieme-partie/livre-v/titre-ii/chapitre-iv.md#article-l6524-6) ; [art. R1324-4 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-ii/chapitre-iv.md#article-r1324-4) ; [art. R2143-3-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-3-1)
 
 Chaque délégué syndical dispose d'un temps nécessaire à l'exercice de ses fonctions.
 
@@ -189,7 +189,7 @@ Dans les entreprises ou établissements où, en application des articles L. 2143
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033023277
 - Renvoie à : [art. L2143-5 du Code du travail](chapitre-iii.md#article-l2143-5) ; [art. L3121-58 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-58)
-- Cité par : [art. R2143-3-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-3-1) ; [art. L6524-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042655830)
+- Cité par : [art. L6524-6 du Code des transports](../../../../../code-des-transports/partie-legislative/sixieme-partie/livre-v/titre-ii/chapitre-iv.md#article-l6524-6) ; [art. R2143-3-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-3-1)
 
 Le délégué syndical central prévu au premier alinéa de l'article L. 2143-5 dispose de vingt-quatre heures par mois pour l'exercice de ses fonctions.
 
@@ -259,7 +259,7 @@ Ils peuvent également, tant durant les heures de délégation qu'en dehors de l
 - Identifiant : LEGIARTI000006901645
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901645
-- Cité par : [art. L625-2 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-v.md#article-l625-2) ; [art. L6161-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021941790)
+- Cité par : [art. L625-2 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-v.md#article-l625-2) ; [art. L6161-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/sixieme-partie/livre-ier/titre-vi/chapitre-ier.md#article-l6161-1)
 
 Les délégués syndicaux sont tenus au secret professionnel pour toutes les questions relatives aux procédés de fabrication.
 

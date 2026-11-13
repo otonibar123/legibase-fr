@@ -75,5 +75,6 @@ Les équipements et caractéristiques des locaux annexes aux locaux de travail, 
 - Identifiant : LEGIARTI000043841212
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841212
+- Renvoie à : [art. L171-1 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ier/titre-vii/chapitre-ier.md#article-l171-1) ; [art. L173-1 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ier/titre-vii/chapitre-iii.md#article-l173-1)
 
 Les dispositions de la présente section ne font pas obstacle à celles des articles L. 171-1 et L. 173-1 du code de la construction et de l'habitation relatives aux caractéristiques thermiques des bâtiments autres que d'habitation.

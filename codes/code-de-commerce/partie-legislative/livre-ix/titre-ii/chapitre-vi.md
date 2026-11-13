@@ -14,7 +14,7 @@ Pour l'application de l'article L. 611-7, L. 626-6, L. 643-3 et L. 643-11, les i
 - Identifiant : LEGIARTI000029596688
 - État : en vigueur depuis le 15/10/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029596688
-- Renvoie à : [art. L642-1 du Code de commerce](../../livre-vi/titre-iv/chapitre-ii.md#article-l642-1) ; [art. L312-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583312) ; art. L312-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L642-1 du Code de commerce](../../livre-vi/titre-iv/chapitre-ii.md#article-l642-1) ; [art. L312-1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1)
 
 A l'article L. 642-1, l'obligation faite au tribunal de tenir compte des priorités du schéma directeur régional des exploitations agricoles mentionné à l'article L. 312-1 du code rural et de la pêche maritime s'entend des prescriptions suivantes :
 

@@ -239,7 +239,7 @@ Si le créancier omet de poursuivre le débiteur, il répond à l'égard de la c
 - Identifiant : LEGIARTI000044071257
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071257
-- Cité par : [art. R211-32 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031131195) ; [Décret n°72-678 du 20 juillet 1972, art. 48-6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030768155)
+- Cité par : [art. R211-32 du Code du tourisme](../../../code-du-tourisme/partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md#article-r211-32) ; [Décret n°72-678 du 20 juillet 1972, art. 48-6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030768155)
 
 Lorsque plusieurs personnes se sont portées cautions de la même dette, elles sont chacune tenues pour le tout.  
 
@@ -301,7 +301,7 @@ Si la caution a subi un préjudice indépendant du retard dans le paiement des s
 - Identifiant : LEGIARTI000044071294
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071294
-- Cité par : [art. 2310 du Code civil](chapitre-ier.md#article-2310) ; [art. R211-32 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929722) ; [Décret n°72-678 du 20 juillet 1972, art. 48-6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929477)
+- Cité par : [art. 2310 du Code civil](chapitre-ier.md#article-2310) ; [art. R211-32 du Code du tourisme](../../../code-du-tourisme/partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md#article-r211-32) ; [Décret n°72-678 du 20 juillet 1972, art. 48-6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929477)
 
 La caution qui a payé tout ou partie de la dette est subrogée dans les droits qu'avait le créancier contre le débiteur.
 
@@ -420,7 +420,7 @@ La caution du solde d'un compte courant ou de dépôt ne peut plus être poursui
 - Identifiant : LEGIARTI000044071305
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071305
-- Cité par : [art. R511-7 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044929356) ; [Décret n°2021-1888 du 29 décembre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044858910)
+- Cité par : [art. R511-7 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-7) ; [Décret n°2021-1888 du 29 décembre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044858910)
 
 La simple prorogation de terme, accordée par le créancier au débiteur principal, ne décharge pas la caution.  
 

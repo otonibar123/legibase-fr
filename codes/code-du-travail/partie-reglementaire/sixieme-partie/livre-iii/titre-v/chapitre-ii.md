@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Sixième partie : La formation pro
 - Identifiant : LEGIARTI000039355645
 - État : en vigueur depuis le 09/11/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039355645
-- Cité par : [art. R6231-5 du Code du travail](../../livre-ii/titre-iii/chapitre-ier.md#article-r6231-5) ; [art. R811-46 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053057313)
+- Cité par : [art. R6231-5 du Code du travail](../../livre-ii/titre-iii/chapitre-ier.md#article-r6231-5) ; [art. R811-46 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-viii/titre-ier/chapitre-ier.md#article-r811-46)
 
 Le règlement intérieur est établi dans tous les organismes de formation, y compris dans ceux qui accueillent les stagiaires et apprentis dans des locaux mis à leur disposition.
 
@@ -20,7 +20,7 @@ Lorsque la formation se déroule dans une entreprise ou un établissement déjà
 - Identifiant : LEGIARTI000018522360
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018522360
-- Cité par : [art. R811-46 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053057313)
+- Cité par : [art. R811-46 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-viii/titre-ier/chapitre-ier.md#article-r811-46)
 
 Le règlement intérieur est établi dans les trois mois suivant le début de l'activité de l'organisme de formation.  
 Il se conforme aux dispositions de la présente section.
@@ -230,7 +230,7 @@ Le bilan pédagogique et financier prévu à l'article L. 6352-11 indique :
 - État : en vigueur depuis le 08/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043766609
 - Renvoie à : [art. R6351-13 du Code du travail](chapitre-ier.md#article-r6351-13)
-- Cité par : [art. Annexe II-2-1 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049530469)
+- Cité par : [art. Annexe II-2-1 du Code du sport](../../../../../code-du-sport/annexes/annexes-partie-reglementaire-arretes/annexes-ii.md#article-annexe-ii-2-1)
 
 Le prestataire de formation déclaré adresse au préfet de région et, lorsque ce bilan est adressé selon les modalités définies au second alinéa, au ministère chargé de la formation professionnelle, son bilan pédagogique et financier avant le 30 avril de chaque année.
 

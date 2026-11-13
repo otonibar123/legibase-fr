@@ -7,7 +7,7 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - État : en vigueur depuis le 26/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047053198
 - Renvoie à : [art. 388-1 du Code civil](../../../code-civil/livre-ier/titre-x/chapitre-ier.md#article-388-1) ; [art. 1072 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-v.md#article-1072) ; [art. 1171 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-viii.md#article-1171) ; [art. 1210-8 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-ix.md#article-1210-8) ; [art. 1221 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-x.md#article-1221) ; [art. 1248 du Code de procédure civile](../../livre-iii/titre-ier/chapitre-x.md#article-1248)
-- Cité par : [art. 701 du Code de procédure civile](chapitre-ii.md#article-701) ; [art. 704 du Code de procédure civile](chapitre-iii.md#article-704) ; [art. 719 du Code de procédure civile](chapitre-iv.md#article-719) ; [art. D311-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011) ; [Décret n°2019-390 du 30 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038432528)
+- Cité par : [art. D311-1 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) ; [art. 701 du Code de procédure civile](chapitre-ii.md#article-701) ; [art. 704 du Code de procédure civile](chapitre-iii.md#article-704) ; [art. 719 du Code de procédure civile](chapitre-iv.md#article-719) ; [Décret n°2019-390 du 30 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038432528)
 
 Les dépens afférents aux instances, actes et procédures d'exécution comprennent :
 
@@ -39,7 +39,7 @@ Les dépens afférents aux instances, actes et procédures d'exécution comprenn
 - Identifiant : LEGIARTI000042941174
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042941174
-- Cité par : [art. R93 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403781)
+- Cité par : [art. R93 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93)
 
 La partie perdante est condamnée aux dépens, à moins que le juge, par décision motivée, n'en mette la totalité ou une fraction à la charge d'une autre partie.
 

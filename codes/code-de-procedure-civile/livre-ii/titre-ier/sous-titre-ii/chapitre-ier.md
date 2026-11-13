@@ -18,7 +18,7 @@ La procédure est écrite sauf disposition contraire.
 - État : en vigueur depuis le 01/09/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928823
 - Renvoie à : [art. 1108 du Code de procédure civile](../../../livre-iii/titre-ier/chapitre-v.md#article-1108)
-- Cité par : [art. 847 du Code de procédure civile](../sous-titre-iv/chapitre-iii.md#article-847) ; [art. 905 du Code de procédure civile](../../titre-vi/sous-titre-ier/chapitre-ier.md#article-905) ; [art. ANNEXE, art. 33 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-33) ; [art. 1362 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001973)
+- Cité par : [art. 847 du Code de procédure civile](../sous-titre-iv/chapitre-iii.md#article-847) ; [art. 905 du Code de procédure civile](../../titre-vi/sous-titre-ier/chapitre-ier.md#article-905) ; [art. ANNEXE, art. 33 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-33) ; [art. 1362 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055001973)
 
 Sous réserve des dispositions de l'article 1108, au jour de l'audience d'orientation, l'affaire est appelée devant le président de la chambre saisie ou à laquelle l'affaire a été distribuée.
 
@@ -39,7 +39,7 @@ Lorsque les parties et leurs avocats justifient avoir conclu une convention de p
 - Identifiant : LEGIARTI000039623364
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623364
-- Renvoie à : art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1)
 - Cité par : [art. 779 du Code de procédure civile](chapitre-ier.md#article-779) ; [art. 798 du Code de procédure civile](chapitre-ier.md#article-798) ; [art. 844 du Code de procédure civile](../sous-titre-iv/chapitre-ier.md#article-844) ; [art. 905 du Code de procédure civile](../../titre-vi/sous-titre-ier/chapitre-ier.md#article-905)
 
 Le président renvoie à l'audience de plaidoirie les affaires qui, d'après les explications des avocats et au vu des conclusions échangées et des pièces communiquées, lui paraissent prêtes à être jugées sur le fond.  
@@ -80,7 +80,7 @@ Le président renvoie au juge de la mise en état, les affaires qui ne sont pas 
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623350
 - Renvoie à : [art. 382 du Code de procédure civile](../../../livre-ier/titre-xi/chapitre-iii.md#article-382) ; [art. 383 du Code de procédure civile](../../../livre-ier/titre-xi/chapitre-iii.md#article-383)
-- Cité par : [art. R142-10-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041404206)
+- Cité par : [art. R142-10-5 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-5)
 
 L'affaire est instruite sous le contrôle d'un magistrat de la chambre saisie ou à laquelle l'affaire a été distribuée.  
 
@@ -198,7 +198,7 @@ Le juge de la mise en état exerce tous les pouvoirs nécessaires à la communic
 - État : en vigueur depuis le 07/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054032059
 - Renvoie à : [art. 47 du Code de procédure civile](../../../livre-ier/titre-iii/chapitre-ii.md#article-47) ; [art. 499-1 du Code de procédure civile](../../../livre-ier/titre-xiv-bis.md#article-499-1) ; [art. 514-5 du Code de procédure civile](../../../livre-ier/titre-xv/chapitre-iv.md#article-514-5) ; [art. 517 du Code de procédure civile](../../../livre-ier/titre-xv/chapitre-iv.md#article-517) ; [art. 518 du Code de procédure civile](../../../livre-ier/titre-xv/chapitre-iv.md#article-518)
-- Cité par : [art. Annexe 4-7 du Code de commerce](../../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 794 du Code de procédure civile](chapitre-ier.md#article-794) ; [art. 795 du Code de procédure civile](chapitre-ier.md#article-795) ; [art. 851 du Code de procédure civile](../sous-titre-v/chapitre-ii.md#article-851) ; [art. 905 du Code de procédure civile](../../titre-vi/sous-titre-ier/chapitre-ier.md#article-905) ; [art. 1117 du Code de procédure civile](../../../livre-iii/titre-ier/chapitre-v.md#article-1117) ; [art. ANNEXE, art. 34 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ii.md#article-annexe-art-34) ; [art. R421-9 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624137)
+- Cité par : [art. Annexe 4-7 du Code de commerce](../../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 794 du Code de procédure civile](chapitre-ier.md#article-794) ; [art. 795 du Code de procédure civile](chapitre-ier.md#article-795) ; [art. 851 du Code de procédure civile](../sous-titre-v/chapitre-ii.md#article-851) ; [art. 905 du Code de procédure civile](../../titre-vi/sous-titre-ier/chapitre-ier.md#article-905) ; [art. 1117 du Code de procédure civile](../../../livre-iii/titre-ier/chapitre-v.md#article-1117) ; [art. ANNEXE, art. 34 du Code de procédure civile](../../../annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ii.md#article-annexe-art-34) ; [art. R421-9 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9)
 
 Le juge de la mise en état est, à compter de sa désignation et, jusqu'à son dessaisissement, seul compétent, à l'exclusion de toute autre formation du tribunal, pour :  
 
@@ -261,7 +261,7 @@ Toutefois, dans les cas prévus aux articles 787 à 790, le juge de la mise en �
 - Identifiant : LEGIARTI000039623287
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623287
-- Cité par : [art. R142-10-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041404206)
+- Cité par : [art. R142-10-5 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-5)
 
 L'ordonnance est rendue, immédiatement s'il y a lieu, les avocats entendus ou appelés.  
 
@@ -350,7 +350,7 @@ La clôture de l'instruction, dans les cas prévus aux articles 778,779,799 et 8
 - Identifiant : LEGIARTI000051928805
 - État : en vigueur depuis le 01/09/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051928805
-- Renvoie à : [art. 781 du Code de procédure civile](chapitre-ier.md#article-781) ; art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1) ; [art. 781 du Code de procédure civile](chapitre-ier.md#article-781)
 - Cité par : [art. 798 du Code de procédure civile](chapitre-ier.md#article-798) ; [art. 806 du Code de procédure civile](chapitre-ier.md#article-806) ; [art. 807-1 du Code de procédure civile](chapitre-ier.md#article-807-1) ; [art. 807-3 du Code de procédure civile](chapitre-ier.md#article-807-3)
 
 Sauf dans le cas où il est fait application des dispositions du troisième alinéa de l'article 130-2 ou du troisième alinéa de l'article 781, le juge de la mise en état déclare l'instruction close dès que l'état de celle-ci le permet et renvoie l'affaire devant le tribunal pour être plaidée à la date fixée par le président ou par lui-même s'il a reçu délégation à cet effet. La date de la clôture doit être aussi proche que possible de celle fixée pour les plaidoiries.

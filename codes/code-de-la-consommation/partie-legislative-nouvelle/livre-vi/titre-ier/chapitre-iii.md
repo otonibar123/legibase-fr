@@ -22,7 +22,7 @@ Les modalités d'application du présent article sont fixées par décret en Con
 - Identifiant : LEGIARTI000032224790
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224790
-- Cité par : [art. D613-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-iii.md#article-d613-2) ; [art. D821-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-viii/titre-ii/chapitre-ier.md#article-d821-1) ; [art. L614-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048252360)
+- Cité par : [art. D613-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-iii.md#article-d613-2) ; [art. D821-1 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-viii/titre-ii/chapitre-ier.md#article-d821-1) ; [art. L614-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ier/chapitre-iv.md#article-l614-1)
 
 Lorsqu'il est employé ou rémunéré exclusivement par le professionnel, le médiateur de la consommation satisfait aux conditions supplémentaires suivantes :  
 1° Il est désigné, selon une procédure transparente, par un organe collégial mis en place par l'entreprise, comprenant des représentants d'associations de défense des consommateurs agréées et des représentants du professionnel, ou relevant d'une instance nationale consultative dans le domaine de la consommation ou propre à un secteur d'activité dans des conditions fixées par décret ;  

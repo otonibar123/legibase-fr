@@ -6,7 +6,7 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - Identifiant : LEGIARTI000033022632
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033022632
-- Cité par : [art. L3141-22 du Code du travail](../titre-iv/chapitre-ier.md#article-l3141-22) ; [art. 163 A du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018620026) ; [LOI n° 2008-1330 du 17 décembre 2008, art. 60](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045355391) ; [LOI n° 2014-873 du 4 août 2014, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033022676)
+- Cité par : [art. L3141-22 du Code du travail](../titre-iv/chapitre-ier.md#article-l3141-22) ; [art. 163 A du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018620026) ; [LOI n° 2008-1330 du 17 décembre 2008, art. 60](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045355391) ; [LOI n° 2014-873 du 4 août 2014, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033022676)
 
 Le compte épargne-temps peut être mis en place par une convention ou un accord d'entreprise ou d'établissement ou, à défaut, par une convention ou un accord de branche.
 

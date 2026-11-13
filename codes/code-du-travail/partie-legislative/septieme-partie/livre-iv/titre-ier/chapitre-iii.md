@@ -22,7 +22,7 @@ Le travailleur à domicile bénéficie des dispositions conventionnelles liant l
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033025255
 - Renvoie à : [art. L8112-1 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-l8112-1)
-- Cité par : [art. R718-25 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018334796)
+- Cité par : [art. R718-25 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md#article-r718-25)
 
 Le donneur d'ouvrage communique, à sa demande, à l'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 une déclaration dès qu'il commence ou cesse de faire exécuter du travail à domicile.
 

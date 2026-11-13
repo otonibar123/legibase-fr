@@ -12,7 +12,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000036761964
 - État : en vigueur depuis le 01/04/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036761964
-- Cité par : [art. L2101-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243390)
+- Cité par : [art. L2101-5 du Code des transports](../../../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ier/titre-preliminaire/chapitre-ier.md#article-l2101-5)
 
 Un comité social et économique est mis en place au niveau de l'entreprise.  
 
@@ -82,7 +82,7 @@ La perte de la qualité d'établissement distinct dans les cas prévus aux artic
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035650943
 - Renvoie à : [art. L2313-2 du Code du travail](chapitre-iii.md#article-l2313-2)
-- Cité par : [art. R2313-7 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-r2313-7)
+- Cité par : [art. L1432-11 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-l1432-11) ; [art. R2313-7 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-r2313-7)
 
 L'accord d'entreprise défini à l'article L. 2313-2 peut mettre en place des représentants de proximité.  
 

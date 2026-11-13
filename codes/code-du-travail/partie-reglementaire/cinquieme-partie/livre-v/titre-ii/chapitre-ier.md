@@ -18,7 +18,7 @@ Pour l'application du présent livre à Saint-Pierre-et-Miquelon, les référenc
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031831476
 - Renvoie à : [art. L5524-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-v/titre-ii/chapitre-iv.md#article-l5524-1)
-- Cité par : [art. D522-35 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023396949)
+- Cité par : [art. D522-35 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-d522-35)
 
 Les dépenses en faveur de l'emploi correspondent aux actions suivantes :
 

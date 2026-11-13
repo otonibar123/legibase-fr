@@ -18,7 +18,7 @@ Ces autorités administratives peuvent déléguer leurs signatures aux fonctionn
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808272
 - Renvoie à : [art. R523-1 du Code de la consommation](chapitre-iii.md#article-r523-1)
-- Cité par : [art. R224-72 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041983993) ; [art. R329-24 du Code de la route](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041984968)
+- Cité par : [art. R224-72 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md#article-r224-72) ; [art. R329-24 du Code de la route](../../../../code-de-la-route/partie-reglementaire/livre-iii/titre-ii/chapitre-ix.md#article-r329-24)
 
 L'autorité administrative mentionnée à l'article R. 523-1 transmet la proposition de transaction au procureur de la République dans un délai de trois mois à compter de la clôture du procès-verbal de constatation de l'infraction.  
 Cette proposition précise la somme que l'auteur de l'infraction devra payer au Trésor public, le délai imparti pour son paiement et, s'il y a lieu, les autres obligations résultant pour lui de l'acceptation de la transaction.

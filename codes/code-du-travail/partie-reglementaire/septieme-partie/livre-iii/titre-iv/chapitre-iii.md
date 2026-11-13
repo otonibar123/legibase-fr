@@ -746,7 +746,7 @@ Les délais fixés par les articles R. 7343-56, R. 7343-57 et R. 7343-58 sont ca
 - Identifiant : LEGIARTI000044630321
 - État : en vigueur depuis le 27/12/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044630321
-- Renvoie à : [art. L7343-3 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-3) ; art. R311-2 du Code de justice administrative
+- Renvoie à : [art. R311-2 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md#article-r311-2) ; [art. L7343-3 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-3)
 
 Les recours dirigés contre l'arrêté édicté en application de l'article L. 7343-3 sont portés devant la juridiction désignée par l'article R. 311-2 du code de justice administrative.
 
@@ -809,7 +809,7 @@ En cas de faute grave donnant lieu à une suspension provisoire des relations co
 - Identifiant : LEGIARTI000045655558
 - État : en vigueur depuis le 27/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045655558
-- Renvoie à : [art. L7343-14 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-14) ; [art. R112-9-1 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033286800) ; [art. R112-9-2 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033286802)
+- Renvoie à : [art. R112-9-1 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-1) ; [art. R112-9-2 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-ier/titre-ier/chapitre-ii.md#article-r112-9-2) ; [art. L7343-14 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-14)
 
 La plateforme adresse la demande d'autorisation de rupture du contrat prévue à l'article L. 7343-14 à l'Autorité des relations sociales des plateformes d'emploi par voie électronique selon les modalités prévues aux articles R. 112-9-1 et R. 112-9-2 du code des relations entre le public et l'administration.
 
@@ -853,7 +853,7 @@ La rupture de la relation commerciale intervient dans un délai maximal d'un moi
 - Identifiant : LEGIARTI000045655566
 - État : en vigueur depuis le 27/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045655566
-- Renvoie à : [art. L7343-17 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-17) ; [art. R1326-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043419001) ; [art. R1326-4 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043419106)
+- Renvoie à : [art. R1326-1 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-ii/chapitre-vi.md#article-r1326-1) ; [art. R1326-4 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-ii/chapitre-vi.md#article-r1326-4) ; [art. L7343-17 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-17)
 - Cité par : [art. R7343-71 du Code du travail](chapitre-iii.md#article-r7343-71)
 
 Pour l'application de l'article L. 7343-17, la baisse substantielle d'activité peut notamment être établie par les éléments suivants :
@@ -998,7 +998,7 @@ Pour être prise en compte, l'adhérente doit avoir payé au 31 mars de l'année
 - Identifiant : LEGIARTI000045906948
 - État : en vigueur depuis le 15/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045906948
-- Renvoie à : [art. L7343-7 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-7) ; [art. L7343-22 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-22) ; [art. L7343-23 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-23) ; [art. L1326-3 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039677959)
+- Renvoie à : [art. L1326-3 du Code des transports](../../../../../code-des-transports/partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-vi.md#article-l1326-3) ; [art. L7343-7 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-7) ; [art. L7343-22 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-22) ; [art. L7343-23 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-23)
 
 Sont joints à la déclaration de candidature d'une organisation professionnelle de plateformes souhaitant voir établie sa représentativité au niveau du secteur considéré en application de l'article L. 7343-23 :
 
@@ -1028,7 +1028,7 @@ Les plateformes adhérentes à une organisation candidate peuvent transmettre le
 - Identifiant : LEGIARTI000045906950
 - État : en vigueur depuis le 15/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045906950
-- Renvoie à : [art. L7343-7 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-7) ; [art. L7343-22 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-22)
+- Renvoie à : [art. R1326-4 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-ii/chapitre-vi.md#article-r1326-4) ; [art. L7343-7 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-7) ; [art. L7343-22 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-l7343-22)
 
 Pour l'application des dispositions du a du 6° de l'article L. 7343-22, les conditions d'ancienneté de trois mois et du nombre de prestations fixées à l'article L. 7343-7 s'apprécient au premier jour du troisième mois précédant la date de clôture des candidatures fixée par décision du directeur général de l'Autorité des relations sociales des plateformes d'emploi.
 
@@ -1155,6 +1155,7 @@ A défaut d'autres modalités prévues par un accord collectif de secteur conclu
 - Identifiant : LEGIARTI000046322743
 - État : en vigueur depuis le 24/09/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046322743
+- Renvoie à : [art. L311-9 du Code des relations entre le public et l'administration](../../../../../code-des-relations-entre-le-public-et-l-administration/livre-iii/titre-ier/chapitre-ier.md#article-l311-9)
 
 Toute personne intéressée peut prendre connaissance gratuitement des accords collectifs de secteur déposés auprès de l'Autorité des relations sociales des plateformes d'emploi.
 

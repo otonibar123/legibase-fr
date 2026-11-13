@@ -25,7 +25,7 @@ Les dispositions de l'article L. 1243-11 ne font pas obstacle à la conclusion d
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024642
 - Renvoie à : [art. L1242-2 du Code du travail](chapitre-ii.md#article-l1242-2)
-- Cité par : [art. L1244-2-1 du Code du travail](chapitre-iv.md#article-l1244-2-1) ; [art. L3121-21 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-21) ; [art. L3121-34 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-34) ; [art. L718-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585178) ; [LOI n°2020-734 du 17 juin 2020, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045578787)
+- Cité par : [art. L1244-2-1 du Code du travail](chapitre-iv.md#article-l1244-2-1) ; [art. L3121-21 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-21) ; [art. L3121-34 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-34) ; [art. L718-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-viii.md#article-l718-6) ; [LOI n°2020-734 du 17 juin 2020, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045578787)
 
 Les contrats de travail à caractère saisonnier définis au 3° de l'article L. 1242-2 peuvent comporter une clause de reconduction pour la saison suivante.
 
@@ -96,7 +96,7 @@ Les jours pris en compte pour apprécier le délai devant séparer les deux cont
 - État : en vigueur depuis le 24/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643994
 - Renvoie à : [art. L1242-1 du Code du travail](chapitre-ii.md#article-l1242-1) ; [art. L1244-3 du Code du travail](chapitre-iv.md#article-l1244-3)
-- Cité par : [art. L1244-4-1 du Code du travail](chapitre-iv.md#article-l1244-4-1) ; [art. L1245-1 du Code du travail](chapitre-v.md#article-l1245-1) ; [art. L2253-1 du Code du travail](../../../deuxieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l2253-1) ; [art. L5132-5 du Code du travail](../../../cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-5) ; [art. L431-1 du Code de la recherche](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243449)
+- Cité par : [art. L431-1 du Code de la recherche](../../../../../code-de-la-recherche/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-1) ; [art. L1244-4-1 du Code du travail](chapitre-iv.md#article-l1244-4-1) ; [art. L1245-1 du Code du travail](chapitre-v.md#article-l1245-1) ; [art. L2253-1 du Code du travail](../../../deuxieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l2253-1) ; [art. L5132-5 du Code du travail](../../../cinquieme-partie/livre-ier/titre-iii/chapitre-ii.md#article-l5132-5)
 
 Sans préjudice des dispositions de l'article L. 1242-1, une convention ou un accord de branche étendu peut prévoir les cas dans lesquels le délai de carence prévu à l'article L. 1244-3 n'est pas applicable.
 

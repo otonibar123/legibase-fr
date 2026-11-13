@@ -1,0 +1,279 @@
+# Code général de la propriété des personnes publiques
+
+Dernière modification du texte dans LEGI : 01/09/2026. 1127 articles en vigueur, répartis dans 158 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - [TITRE PRÉLIMINAIRE.](partie-legislative/titre-preliminaire.md) (2 articles)
+  - **PREMIÈRE PARTIE : ACQUISITION**
+    - **LIVRE Ier : MODES D'ACQUISITION**
+      - **TITRE Ier : ACQUISITIONS À TITRE ONÉREUX**
+        - [Chapitre Ier : Acquisitions à l'amiable](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Acquisitions selon des procédés de contrainte](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ii.md) (9 articles)
+      - **TITRE II : ACQUISITIONS À TITRE GRATUIT**
+        - [Chapitre Ier : Dons et legs](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Successions en déshérence.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Biens sans maître](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iii.md) (4 articles)
+        - [Chapitre IV : Biens confisqués.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md) (1 article)
+        - [Chapitre VI : Sommes et valeurs prescrites.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-vi.md) (4 articles)
+        - [Chapitre VII : Dispositions diverses.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-vii.md) (3 articles)
+    - **LIVRE II : PROCÉDURES D'ACQUISITION**
+      - **TITRE Ier : BIENS SITUÉS EN FRANCE**
+        - [Chapitre Ier : Consultation préalable](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Actes](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-ii.md) (8 articles)
+      - **TITRE II : BIENS SITUÉS À L'ÉTRANGER**
+        - [Chapitre unique.](partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-unique.md) (1 article)
+  - **DEUXIÈME PARTIE : GESTION**
+    - **LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC**
+      - **TITRE Ier : CONSISTANCE DU DOMAINE PUBLIC**
+        - [Chapitre Ier : Domaine public immobilier](partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md) (17 articles)
+        - [Chapitre II : Domaine public mobilier.](partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - **TITRE II : UTILISATION DU DOMAINE PUBLIC**
+        - [Chapitre Ier : Utilisation conforme à l'affectation.](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Utilisation compatible avec l'affectation](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md) (26 articles)
+        - [Chapitre III : Modalités de gestion](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-iii.md) (12 articles)
+        - [Chapitre IV : Dispositions particulières](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md) (37 articles)
+        - [Chapitre V : Dispositions financières](partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-v.md) (12 articles)
+      - **TITRE III : PROTECTION DU DOMAINE PUBLIC**
+        - [Chapitre Ier : Servitudes administratives](partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Police de la conservation](partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-ii.md) (30 articles)
+      - **TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC**
+        - [Chapitre Ier : Règles générales.](partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Règles particulières au domaine public fluvial.](partie-legislative/deuxieme-partie/livre-ier/titre-iv/chapitre-ii.md) (2 articles)
+    - **LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ**
+      - **TITRE Ier : CONSISTANCE DU DOMAINE PRIVÉ**
+        - [Chapitre Ier : Dispositions générales.](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-ier.md) (1 article)
+        - [Chapitre II : Dispositions particulières.](partie-legislative/deuxieme-partie/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+      - **TITRE II : UTILISATION DU DOMAINE PRIVÉ**
+        - [Chapitre Ier : Dispositions générales.](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Dispositions particulières](partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md) (24 articles)
+    - **LIVRE III : DISPOSITIONS COMMUNES**
+      - **TITRE Ier : INSAISISSABILITÉ, IMPLANTATION ET ATTRIBUTION DES BIENS**
+        - [Chapitre Ier : Insaisissabilité.](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+        - [Chapitre II : Implantation et inventaire](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+      - **TITRE II : PRODUITS ET REDEVANCES DU DOMAINE**
+        - [Chapitre Ier : Constatation et perception](partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Paiement.](partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Action en recouvrement](partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-iii.md) (16 articles)
+      - **TITRE III : CONTENTIEUX**
+        - [Chapitre unique.](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-unique.md) (3 articles)
+      - [TITRE IV : VALORISATION DU PATRIMOINE IMMOBILIER](partie-legislative/deuxieme-partie/livre-iii/titre-iv.md) (2 articles)
+  - **TROISIÈME PARTIE : CESSION**
+    - **LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC**
+      - **TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ**
+        - [Chapitre Ier : Principe.](partie-legislative/troisieme-partie/livre-ier/titre-unique/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Dérogations.](partie-legislative/troisieme-partie/livre-ier/titre-unique/chapitre-ii.md) (4 articles)
+        - [Chapitre III : Transfert de propriété du domaine public fluvial.](partie-legislative/troisieme-partie/livre-ier/titre-unique/chapitre-iii.md) (5 articles)
+        - [Chapitre IV : Transfert de propriété du domaine public ferroviaire](partie-legislative/troisieme-partie/livre-ier/titre-unique/chapitre-iv.md) (3 articles)
+    - **LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ**
+      - **TITRE Ier : MODES DE CESSION**
+        - [Chapitre Ier : Cessions à titre onéreux](partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md) (26 articles)
+        - [Chapitre II : Cessions à titre gratuit](partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ii.md) (3 articles)
+      - **TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE**
+        - [Chapitre Ier : Ventes](partie-legislative/troisieme-partie/livre-ii/titre-ii/chapitre-ier.md) (7 articles)
+        - [Chapitre II : Echange](partie-legislative/troisieme-partie/livre-ii/titre-ii/chapitre-ii.md) (3 articles)
+      - **TITRE III : CONTENTIEUX**
+        - [Chapitre unique.](partie-legislative/troisieme-partie/livre-ii/titre-iii/chapitre-unique.md) (1 article)
+  - **QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES**
+    - **LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES**
+      - **TITRE Ier : PRISES À BAIL**
+        - [Chapitre Ier : Biens situés en France](partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Biens situés à l'étranger.](partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - **TITRE II : DISPOSITIONS APPLICABLES AUX BIENS DÉTENUS EN JOUISSANCE PAR L'ÉTAT**
+        - [Chapitre unique.](partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-unique.md) (1 article)
+  - **CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **LIVRE Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE**
+      - [LIVRE Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, À LA GUYANE, À LA MARTINIQUE, À LA RÉUNION ET À MAYOTTE : articles rattachés directement](partie-legislative/cinquieme-partie/livre-ier/articles-directs.md) (1 article)
+      - **TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME**
+        - [Chapitre Ier : Dispositions communes à la Guadeloupe, à la Guyane, à la Martinique et à La Réunion.](partie-legislative/cinquieme-partie/livre-ier/titre-ier/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique.](partie-legislative/cinquieme-partie/livre-ier/titre-ier/chapitre-ii.md) (11 articles)
+        - [Chapitre III : Dispositions particulières à la Guyane et à La Réunion.](partie-legislative/cinquieme-partie/livre-ier/titre-ier/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Dispositions particulières applicables à Mayotte.](partie-legislative/cinquieme-partie/livre-ier/titre-ier/chapitre-iv.md) (12 articles)
+      - **TITRE II : RÉGIME DOMANIAL DES EAUX**
+        - [Chapitre Ier : Dispositions particulières applicables en Guadeloupe, en Guyane, en Martinique et à La Réunion](partie-legislative/cinquieme-partie/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Dispositions particulières applicables à Mayotte.](partie-legislative/cinquieme-partie/livre-ier/titre-ii/chapitre-ii.md) (2 articles)
+      - **TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE**
+        - [Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales.](partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales, à leurs groupements et aux établissements publics en Guyane](partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Concessions et cessions à des communautés d'habitants.](partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III.](partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-iv.md) (3 articles)
+        - [Chapitre V : Dispositions communes et diverses.](partie-legislative/cinquieme-partie/livre-ier/titre-iv/chapitre-v.md) (2 articles)
+      - **TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-ier/titre-v/chapitre-unique.md) (1 article)
+      - **TITRE VI : DISPOSITIONS PARTICULIÈRES APPLICABLES À MAYOTTE**
+        - [Chapitre Ier : Dispositions générales.](partie-legislative/cinquieme-partie/livre-ier/titre-vi/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Acquisition](partie-legislative/cinquieme-partie/livre-ier/titre-vi/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Gestion](partie-legislative/cinquieme-partie/livre-ier/titre-vi/chapitre-iii.md) (15 articles)
+        - [Chapitre IV : Cession](partie-legislative/cinquieme-partie/livre-ier/titre-vi/chapitre-iv.md) (7 articles)
+        - [Chapitre V : Autres opérations immobilières des personnes publiques](partie-legislative/cinquieme-partie/livre-ier/titre-vi/chapitre-v.md) (2 articles)
+    - **LIVRE II : DISPOSITIONS RELATIVES À SAINT-BARTHÉLEMY**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE III : GESTION**
+        - [Chapitre Ier : Biens relevant du domaine public](partie-legislative/cinquieme-partie/livre-ii/titre-iii/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Biens relevant du domaine privé](partie-legislative/cinquieme-partie/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - **TITRE IV : CESSION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-ii/titre-iv/chapitre-unique.md) (2 articles)
+      - **TITRE VI : RÉGIME DOMANIAL DES EAUX**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-ii/titre-vi/chapitre-unique.md) (2 articles)
+    - **LIVRE III : DISPOSITIONS RELATIVES À SAINT-MARTIN**
+      - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE III : GESTION**
+        - [Chapitre Ier : Biens relevant du domaine public](partie-legislative/cinquieme-partie/livre-iii/titre-iii/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Biens relevant du domaine privé](partie-legislative/cinquieme-partie/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+      - **TITRE IV : CESSION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-iii/titre-iv/chapitre-unique.md) (2 articles)
+      - **TITRE VI : RÉGIME DOMANIAL DES EAUX**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-iii/titre-vi/chapitre-unique.md) (2 articles)
+    - **LIVRE IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique.](partie-legislative/cinquieme-partie/livre-iv/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE II : ACQUISITIONS**
+        - [Chapitre Ier : Modes d'acquisition](partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Procédures d'acquisition](partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ii.md) (1 article)
+      - **TITRE III : GESTION**
+        - [Chapitre Ier : Biens relevant du domaine public.](partie-legislative/cinquieme-partie/livre-iv/titre-iii/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Biens relevant du domaine privé.](partie-legislative/cinquieme-partie/livre-iv/titre-iii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Recouvrement.](partie-legislative/cinquieme-partie/livre-iv/titre-iii/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Contentieux.](partie-legislative/cinquieme-partie/livre-iv/titre-iii/chapitre-iv.md) (1 article)
+      - **TITRE IV : CESSIONS**
+        - [Chapitre Ier : Modes de cession](partie-legislative/cinquieme-partie/livre-iv/titre-iv/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Procédures de cession et d'échange.](partie-legislative/cinquieme-partie/livre-iv/titre-iv/chapitre-ii.md) (1 article)
+      - **TITRE VI : RÉGIME DOMANIAL DES EAUX**
+        - [Chapitre unique.](partie-legislative/cinquieme-partie/livre-iv/titre-vi/chapitre-unique.md) (2 articles)
+    - **LIVRE V : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE**
+      - **TITRE IER : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-v/titre-ier/chapitre-unique.md) (7 articles)
+      - **TITRE II : ACQUISITION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-v/titre-ii/chapitre-unique.md) (2 articles)
+      - **TITRE III : GESTION**
+        - [Chapitre Ier : Biens relevant du domaine public](partie-legislative/cinquieme-partie/livre-v/titre-iii/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Biens relevant du domaine privé](partie-legislative/cinquieme-partie/livre-v/titre-iii/chapitre-ii.md) (4 articles)
+        - [Chapitre III : Dispositions communes](partie-legislative/cinquieme-partie/livre-v/titre-iii/chapitre-iii.md) (7 articles)
+      - **TITRE IV : CESSION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-unique.md) (5 articles)
+    - **LIVRE VI : DISPOSITIONS RELATIVES À LA POLYNÉSIE FRANÇAISE**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-vi/titre-ier/chapitre-unique.md) (5 articles)
+      - **TITRE II : ACQUISITION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-vi/titre-ii/chapitre-unique.md) (2 articles)
+      - **TITRE III : GESTION**
+        - [Chapitre Ier : Biens relevant du domaine public](partie-legislative/cinquieme-partie/livre-vi/titre-iii/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Biens relevant du domaine privé](partie-legislative/cinquieme-partie/livre-vi/titre-iii/chapitre-ii.md) (5 articles)
+        - [Chapitre III : Dispositions communes](partie-legislative/cinquieme-partie/livre-vi/titre-iii/chapitre-iii.md) (7 articles)
+      - **Titre IV : CESSION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-vi/titre-iv/chapitre-unique.md) (8 articles)
+    - **LIVRE VII : DISPOSITIONS RELATIVES AUX ÎLES WALLIS ET FUTUNA**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-vii/titre-ier/chapitre-unique.md) (5 articles)
+      - **TITRE II : ACQUISITION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-vii/titre-ii/chapitre-unique.md) (1 article)
+      - **TITRE III : GESTION**
+        - [Chapitre Ier : Biens relevant du domaine public](partie-legislative/cinquieme-partie/livre-vii/titre-iii/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Biens relevant du domaine privé](partie-legislative/cinquieme-partie/livre-vii/titre-iii/chapitre-ii.md) (4 articles)
+        - [Chapitre III : Dispositions communes](partie-legislative/cinquieme-partie/livre-vii/titre-iii/chapitre-iii.md) (2 articles)
+      - **TITRE IV : CESSION**
+        - [Chapitre unique](partie-legislative/cinquieme-partie/livre-vii/titre-iv/chapitre-unique.md) (1 article)
+- **Partie réglementaire**
+  - **PREMIÈRE PARTIE : ACQUISITION**
+    - **LIVRE Ier : MODES D'ACQUISITION**
+      - **TITRE Ier : ACQUISITIONS À TITRE ONÉREUX**
+        - [Chapitre Ier : Acquisitions à l'amiable](partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Acquisitions selon des procédés de contrainte](partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-ii.md) (7 articles)
+      - **TITRE II : ACQUISITIONS À TITRE GRATUIT**
+        - [Chapitre Ier : Dons et legs](partie-reglementaire/premiere-partie/livre-ier/titre-ii/chapitre-ier.md) (8 articles)
+        - [Chapitre II : Successions en déshérence](partie-reglementaire/premiere-partie/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Biens sans maître](partie-reglementaire/premiere-partie/livre-ier/titre-ii/chapitre-iii.md) (2 articles)
+        - [Chapitre VI : Sommes et valeurs prescrites](partie-reglementaire/premiere-partie/livre-ier/titre-ii/chapitre-vi.md) (5 articles)
+        - [Chapitre VII : Dispositions diverses](partie-reglementaire/premiere-partie/livre-ier/titre-ii/chapitre-vii.md) (1 article)
+    - **LIVRE II : PROCÉDURES D'ACQUISITION**
+      - **TITRE Ier : BIENS SITUÉS EN FRANCE**
+        - [Chapitre Ier : Consultation préalable](partie-reglementaire/premiere-partie/livre-ii/titre-ier/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Actes](partie-reglementaire/premiere-partie/livre-ii/titre-ier/chapitre-ii.md) (25 articles)
+      - **TITRE II : BIENS SITUÉS À L'ÉTRANGER**
+        - [Chapitre unique](partie-reglementaire/premiere-partie/livre-ii/titre-ii/chapitre-unique.md) (6 articles)
+  - **DEUXIÈME PARTIE : GESTION**
+    - **LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC**
+      - **TITRE Ier : CONSISTANCE DU DOMAINE PUBLIC**
+        - [Chapitre Ier : Domaine public immobilier](partie-reglementaire/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md) (19 articles)
+        - [Chapitre II : Domaine public mobilier](partie-reglementaire/deuxieme-partie/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - **TITRE II : UTILISATION DU DOMAINE PUBLIC**
+        - [Chapitre II : Utilisation compatible avec l'affectation](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md) (37 articles)
+        - [Chapitre III : Modalités de gestion](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iii.md) (20 articles)
+        - [Chapitre IV : Dispositions particulières](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md) (88 articles)
+        - [Chapitre V : Dispositions financières](partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-v.md) (17 articles)
+      - **TITRE III : PROTECTION DU DOMAINE PUBLIC**
+        - [Chapitre II : Police de la conservation](partie-reglementaire/deuxieme-partie/livre-ier/titre-iii/chapitre-ii.md) (5 articles)
+      - **TITRE IV : SORTIE DES BIENS DU DOMAINE PUBLIC**
+        - [Chapitre Ier : Règles générales](partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ier.md) (1 article)
+        - [Chapitre II : Règles particulières au domaine public fluvial](partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ii.md) (3 articles)
+    - **LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ**
+      - **TITRE II : UTILISATION DU DOMAINE PRIVÉ**
+        - [Chapitre II : Dispositions particulières](partie-reglementaire/deuxieme-partie/livre-ii/titre-ii/chapitre-ii.md) (37 articles)
+    - **LIVRE III : DISPOSITIONS COMMUNES**
+      - **TITRE Ier : INSAISISSABILITÉ, IMPLANTATION ET ATTRIBUTION DES BIENS**
+        - [Chapitre II : Implantation et inventaire](partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md) (9 articles)
+        - [Chapitre III : Attribution](partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-iii.md) (6 articles)
+      - **TITRE II : PRODUITS ET REDEVANCES DU DOMAINE**
+        - [Chapitre Ier : Constatation et perception](partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-ier.md) (9 articles)
+        - [Chapitre III : Action en recouvrement](partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-iii.md) (7 articles)
+      - **TITRE III : CONTENTIEUX**
+        - [Chapitre unique](partie-reglementaire/deuxieme-partie/livre-iii/titre-iii/chapitre-unique.md) (11 articles)
+  - **TROISIÈME PARTIE : CESSION**
+    - **LIVRE Ier : BIENS RELEVANT DU DOMAINE PUBLIC**
+      - **TITRE UNIQUE : INALIÉNABILITÉ ET IMPRESCRIPTIBILITÉ**
+        - [Chapitre III : Transfert de propriété du domaine public fluvial](partie-reglementaire/troisieme-partie/livre-ier/titre-unique/chapitre-iii.md) (7 articles)
+        - [Chapitre IV : Transfert de propriété du domaine public ferroviaire](partie-reglementaire/troisieme-partie/livre-ier/titre-unique/chapitre-iv.md) (9 articles)
+    - **LIVRE II : BIENS RELEVANT DU DOMAINE PRIVÉ**
+      - **TITRE Ier : MODES DE CESSION**
+        - [Chapitre Ier : Cessions à titre onéreux](partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md) (63 articles)
+        - [Chapitre II : Cessions à titre gratuit](partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ii.md) (8 articles)
+      - **TITRE II : PROCÉDURES DE CESSION ET D'ÉCHANGE**
+        - [Chapitre Ier : Ventes](partie-reglementaire/troisieme-partie/livre-ii/titre-ii/chapitre-ier.md) (17 articles)
+        - [Chapitre II : Echange](partie-reglementaire/troisieme-partie/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+      - [TITRE III : CONTENTIEUX](partie-reglementaire/troisieme-partie/livre-ii/titre-iii.md) (2 articles)
+  - **QUATRIÈME PARTIE : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES**
+    - **LIVRE Ier : RÉALISATION DES OPÉRATIONS IMMOBILIÈRES**
+      - **TITRE Ier : PRISES À BAIL**
+        - [Chapitre Ier : Biens situés en France](partie-reglementaire/quatrieme-partie/livre-ier/titre-ier/chapitre-ier.md) (11 articles)
+        - [Chapitre II : Biens situés à l'étranger](partie-reglementaire/quatrieme-partie/livre-ier/titre-ier/chapitre-ii.md) (3 articles)
+      - **TITRE II : DISPOSITIONS APPLICABLES AUX BIENS DÉTENUS EN JOUISSANCE PAR L'ÉTAT**
+        - [Chapitre unique](partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-unique.md) (8 articles)
+    - **LIVRE II : CONTRÔLE DES OPÉRATIONS IMMOBILIÈRES**
+      - **TITRE UNIQUE : CONTRÔLE DE L'UTILISATION DES IMMEUBLES DE L'ÉTAT ET DE SES ÉTABLISSEMENTS PUBLICS**
+        - [Chapitre unique](partie-reglementaire/quatrieme-partie/livre-ii/titre-unique/chapitre-unique.md) (3 articles)
+  - **CINQUIÈME PARTIE : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **LIVRE Ier : DISPOSITIONS SPÉCIFIQUES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION**
+      - **TITRE Ier : ZONE DES CINQUANTE PAS GÉOMÉTRIQUES ET TERRAINS EXONDÉS RELEVANT DU DOMAINE PUBLIC MARITIME**
+        - [Chapitre Ier : Dispositions communes](partie-reglementaire/cinquieme-partie/livre-ier/titre-ier/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Dispositions particulières à la Guadeloupe et à la Martinique](partie-reglementaire/cinquieme-partie/livre-ier/titre-ier/chapitre-ii.md) (46 articles)
+        - [Chapitre III : Dispositions particulières à la Guyane et à La Réunion](partie-reglementaire/cinquieme-partie/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+      - **TITRE II : RÉGIME DOMANIAL DES EAUX**
+        - [Chapitre unique.](partie-reglementaire/cinquieme-partie/livre-ier/titre-ii/chapitre-unique.md) (1 article)
+      - **TITRE IV : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUYANE**
+        - [Chapitre Ier : Concessions et cessions pour l'aménagement et la mise en valeur agricole des terres domaniales](partie-reglementaire/cinquieme-partie/livre-ier/titre-iv/chapitre-ier.md) (25 articles)
+        - [Chapitre II : Concessions et cessions d'immeubles domaniaux à des collectivités territoriales et à l'Etablissement public d'aménagement en Guyane](partie-reglementaire/cinquieme-partie/livre-ier/titre-iv/chapitre-ii.md) (12 articles)
+        - [Chapitre III : Concessions et cessions à des communautés d'habitants](partie-reglementaire/cinquieme-partie/livre-ier/titre-iv/chapitre-iii.md) (6 articles)
+        - [Chapitre IV : Cessions de terrains domaniaux ne relevant pas des dispositions des chapitres Ier, II et III](partie-reglementaire/cinquieme-partie/livre-ier/titre-iv/chapitre-iv.md) (4 articles)
+        - [Chapitre V : Dispositions communes et diverses](partie-reglementaire/cinquieme-partie/livre-ier/titre-iv/chapitre-v.md) (8 articles)
+      - **TITRE V : DISPOSITIONS PARTICULIÈRES AU DOMAINE PRIVÉ DE L'ÉTAT EN GUADELOUPE, EN MARTINIQUE ET À LA RÉUNION**
+        - [Chapitre unique.](partie-reglementaire/cinquieme-partie/livre-ier/titre-v/chapitre-unique.md) (5 articles)
+    - **LIVRE II : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique.](partie-reglementaire/cinquieme-partie/livre-ii/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE II : ACQUISITIONS**
+        - [Chapitre Ier : Modes d'acquisition](partie-reglementaire/cinquieme-partie/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Procédures d'acquisition](partie-reglementaire/cinquieme-partie/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+      - **TITRE III : GESTION**
+        - [Chapitre Ier : Biens relevant du domaine public](partie-reglementaire/cinquieme-partie/livre-ii/titre-iii/chapitre-ier.md) (5 articles)
+        - [Chapitre III : Recouvrement](partie-reglementaire/cinquieme-partie/livre-ii/titre-iii/chapitre-iii.md) (2 articles)
+      - **TITRE IV : CESSIONS**
+        - [Chapitre Ier : Modes de cession](partie-reglementaire/cinquieme-partie/livre-ii/titre-iv/chapitre-ier.md) (9 articles)
+        - [Chapitre II : Procédures de cession et d'échange](partie-reglementaire/cinquieme-partie/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+      - **TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES**
+        - [Chapitre unique.](partie-reglementaire/cinquieme-partie/livre-ii/titre-v/chapitre-unique.md) (1 article)
+      - **TITRE VI : RÉGIME DOMANIAL DES EAUX**
+        - [Chapitre unique.](partie-reglementaire/cinquieme-partie/livre-ii/titre-vi/chapitre-unique.md) (1 article)
+  - [ANNEXE](partie-reglementaire/annexe.md) (1 article)

@@ -42,7 +42,7 @@ Perd la nationalité française le Français qui exerce la faculté de répudier
 - Identifiant : LEGIARTI000006419983
 - État : en vigueur depuis le 23/07/1993
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419983
-- Cité par : [art. 23-9 du Code civil](chapitre-iv.md#article-23-9) ; [art. R221-15 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031677698) ; [Décret n°2023-64 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093199) ; [Décret n°2023-64 du 3 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047093223) ; [Décret n°2023-65 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093330) ; [Décret n°93-1362 du 30 décembre 1993, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047096234)
+- Cité par : [art. 23-9 du Code civil](chapitre-iv.md#article-23-9) ; [art. R221-15 du Code des relations entre le public et l'administration](../../../code-des-relations-entre-le-public-et-l-administration/livre-ii/titre-ii/chapitre-ier.md#article-r221-15) ; [Décret n°2023-64 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093199) ; [Décret n°2023-64 du 3 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047093223) ; [Décret n°2023-65 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093330) ; [Décret n°93-1362 du 30 décembre 1993, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047096234)
 
 Perd la nationalité française le Français, même mineur, qui, ayant une nationalité étrangère, est autorisé, sur sa demande, par le Gouvernement français, à perdre la qualité de Français.
 
@@ -73,7 +73,7 @@ Le jugement détermine la date à laquelle la nationalité française a été pe
 - Identifiant : LEGIARTI000006420004
 - État : en vigueur depuis le 23/07/1993
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006420004
-- Cité par : [art. 23-9 du Code civil](chapitre-iv.md#article-23-9) ; [art. 27-3 du Code civil](chapitre-v.md#article-27-3) ; [art. R90 du Code de la Légion d'honneur et de la médaille m...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006476283) ; [art. R221-15 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031677698) ; [Décret n°2023-64 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093199) ; [Décret n°2023-64 du 3 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047093223) ; [Décret n°2023-65 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093330) ; [Décret n°93-1362 du 30 décembre 1993, art. 59](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047096242)
+- Cité par : [art. 23-9 du Code civil](chapitre-iv.md#article-23-9) ; [art. 27-3 du Code civil](chapitre-v.md#article-27-3) ; [art. R90 du Code de la légion d'honneur et de la médaille militaire](../../../code-de-la-legion-d-honneur-et-de-la-medaille-militaire/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-v/chapitre-i.md#article-r90) ; [art. R221-15 du Code des relations entre le public et l'administration](../../../code-des-relations-entre-le-public-et-l-administration/livre-ii/titre-ii/chapitre-ier.md#article-r221-15) ; [Décret n°2023-64 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093199) ; [Décret n°2023-64 du 3 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047093223) ; [Décret n°2023-65 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093330) ; [Décret n°93-1362 du 30 décembre 1993, art. 59](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047096242)
 
 Le Français qui se comporte en fait comme le national d'un pays étranger peut, s'il a la nationalité de ce pays, être déclaré, par décret après avis conforme du Conseil d'Etat, avoir perdu la qualité de Français.
 
@@ -120,7 +120,7 @@ La réintégration dans la nationalité française des personnes qui établissen
 - Identifiant : LEGIARTI000006420127
 - État : en vigueur depuis le 23/07/1993
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006420127
-- Cité par : [art. 21-28 du Code civil](chapitre-iii.md#article-21-28) ; [art. R221-15 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031677698)
+- Cité par : [art. 21-28 du Code civil](chapitre-iii.md#article-21-28) ; [art. R221-15 du Code des relations entre le public et l'administration](../../../code-des-relations-entre-le-public-et-l-administration/livre-ii/titre-ii/chapitre-ier.md#article-r221-15)
 
 La réintégration par décret peut être obtenue à tout âge et sans condition de stage. Elle est soumise, pour le surplus, aux conditions et aux règles de la naturalisation.
 
@@ -150,7 +150,7 @@ La réintégration par décret ou par déclaration produit effet à l'égard des
 - État : en vigueur depuis le 01/09/1998
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006420133
 - Renvoie à : [Code pénal](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006070719)
-- Cité par : [art. 25-1 du Code civil](chapitre-iv.md#article-25-1) ; [art. R90 du Code de la Légion d'honneur et de la médaille m...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006476283) ; [Décret n°2023-64 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093199) ; [Décret n°2023-64 du 3 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047093223) ; [Décret n°2023-65 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093330) ; [Décret n°93-1362 du 30 décembre 1993, art. 61](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047096252)
+- Cité par : [art. 25-1 du Code civil](chapitre-iv.md#article-25-1) ; [art. R90 du Code de la légion d'honneur et de la médaille militaire](../../../code-de-la-legion-d-honneur-et-de-la-medaille-militaire/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-v/chapitre-i.md#article-r90) ; [art. R221-15 du Code des relations entre le public et l'administration](../../../code-des-relations-entre-le-public-et-l-administration/livre-ii/titre-ii/chapitre-ier.md#article-r221-15) ; [Décret n°2023-64 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093199) ; [Décret n°2023-64 du 3 février 2023, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047093223) ; [Décret n°2023-65 du 3 février 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047093330) ; [Décret n°93-1362 du 30 décembre 1993, art. 61](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047096252)
 
 L'individu qui a acquis la qualité de Français peut, par décret pris après avis conforme du Conseil d'Etat, être déchu de la nationalité française, sauf si la déchéance a pour résultat de le rendre apatride :  
 

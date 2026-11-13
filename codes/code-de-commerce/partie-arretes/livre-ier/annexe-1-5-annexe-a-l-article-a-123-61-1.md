@@ -6,7 +6,7 @@ Code de commerce › Partie Arrêtés › LIVRE Ier : Du commerce en général.
 - Identifiant : LEGIARTI000032674713
 - État : en vigueur depuis le 11/06/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032674713
-- Renvoie à : [art. L123-16-1 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16-1) ; [art. L123-16-2 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16-2) ; [art. L232-25 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-25) ; [art. L524-6-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029930572) ; art. L524-6-6 du Code rural et de la pêche maritime
+- Renvoie à : [art. L123-16-1 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16-1) ; [art. L123-16-2 du Code de commerce](../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-16-2) ; [art. L232-25 du Code de commerce](../../partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-25) ; [art. 441-1 du Code pénal](../../../code-penal/partie-legislative/livre-iv/titre-iv/chapitre-ier.md#article-441-1) ; [art. L524-6-6 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-v/titre-ii/chapitre-iv.md#article-l524-6-6)
 
 MODÈLE TYPE DE DÉCLARATION DE CONFIDENTIALITÉ DES COMPTES ANNUELS-MICRO-ENTREPRISE
 

@@ -17,7 +17,7 @@ Les modalités de calcul de l'intéressement peuvent varier selon les établisse
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038589716
 - Renvoie à : [art. L233-16 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-16) ; [art. L3315-1 du Code du travail](chapitre-v.md#article-l3315-1)
-- Cité par : [art. D3345-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iv/chapitre-v.md#article-d3345-6) ; [art. R621-56 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037154248)
+- Cité par : [art. D3345-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iv/chapitre-v.md#article-d3345-6) ; [art. R621-56 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-reglementaire/livre-vi/titre-ii/chapitre-unique.md#article-r621-56)
 
 Pour ouvrir droit aux exonérations prévues aux articles L. 3315-1 à L. 3315-3, l'intéressement collectif des salariés doit présenter un caractère aléatoire et résulter d'une formule de calcul liée :
 
@@ -49,7 +49,7 @@ Pour ouvrir droit aux exonérations prévues aux articles L. 3315-1 à L. 3315-3
 - Identifiant : LEGIARTI000048488981
 - État : en vigueur depuis le 01/12/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048488981
-- Renvoie à : [art. L1225-17 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-17) ; [art. L1225-35 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-35) ; [art. L1225-37 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-37) ; [art. L1226-7 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-l1226-7) ; [art. L3142-1-1 du Code du travail](../../livre-ier/titre-iv/chapitre-ii.md#article-l3142-1-1) ; art. L3131-1 du Code de la santé publique
+- Renvoie à : [art. L3131-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l3131-1) ; [art. L1225-17 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-17) ; [art. L1225-35 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-35) ; [art. L1225-37 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-37) ; [art. L1226-7 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-l1226-7) ; [art. L3142-1-1 du Code du travail](../../livre-ier/titre-iv/chapitre-ii.md#article-l3142-1-1)
 - Cité par : [art. L3314-11 du Code du travail](chapitre-iv.md#article-l3314-11)
 
 La répartition de l'intéressement entre les bénéficiaires peut être uniforme, proportionnelle à la durée de présence dans l'entreprise au cours de l'exercice ou proportionnelle aux salaires. L'accord peut également retenir conjointement ces différents critères. Ces critères peuvent varier selon les établissements et les unités de travail. A cet effet, l'accord peut renvoyer à des accords d'établissement.
@@ -68,7 +68,7 @@ Sont assimilées à des périodes de présence :
 - Identifiant : LEGIARTI000038613233
 - État : en vigueur depuis le 24/05/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038613233
-- Renvoie à : [art. L3312-3 du Code du travail](chapitre-ii.md#article-l3312-3) ; [art. L241-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741897)
+- Renvoie à : [art. L241-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-1er.md#article-l241-3) ; [art. L3312-3 du Code du travail](chapitre-ii.md#article-l3312-3)
 
 Pour les personnes mentionnées à l'article L. 3312-3, lorsqu'elle est proportionnelle aux salaires, la répartition prend en compte la rémunération annuelle ou le revenu professionnel imposé à l'impôt sur le revenu au titre de l'année précédente, dans la limite d'un plafond égal au salaire le plus élevé versé dans l'entreprise.
 
@@ -112,7 +112,7 @@ Lorsque la formule de calcul de l'intéressement retient une période inférieur
 - Identifiant : LEGIARTI000038837105
 - État : en vigueur depuis le 01/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038837105
-- Renvoie à : [art. L3312-4 du Code du travail](chapitre-ii.md#article-l3312-4) ; [art. L3312-5 du Code du travail](chapitre-ii.md#article-l3312-5) ; [art. L3314-8 du Code du travail](chapitre-iv.md#article-l3314-8) ; art. L131-7 du Code de la sécurité sociale
+- Renvoie à : [art. L131-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-1-bis.md#article-l131-7) ; [art. L3312-4 du Code du travail](chapitre-ii.md#article-l3312-4) ; [art. L3312-5 du Code du travail](chapitre-ii.md#article-l3312-5) ; [art. L3314-8 du Code du travail](chapitre-iv.md#article-l3314-8)
 - Cité par : [art. L22-10-58 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-x.md#article-l22-10-58) ; [art. L22-10-60 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-x.md#article-l22-10-60) ; [art. L3312-4 du Code du travail](chapitre-ii.md#article-l3312-4) ; [art. L3346-1 du Code du travail](../titre-iv/chapitre-vi.md#article-l3346-1) ; [art. R3314-4 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-r3314-4)
 
 Le conseil d'administration ou le directoire peut décider de verser un supplément d'intéressement collectif au titre de l'exercice clos, dans le respect des plafonds mentionnés à l'article L. 3314-8 et selon les modalités de répartition prévues par l'accord d'intéressement ou par un accord spécifique conclu selon les modalités prévues à l'article L. 3312-5.

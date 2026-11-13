@@ -15,7 +15,7 @@ Ce montant peut être porté, de manière proportionnée aux avantages tirés du
 - Identifiant : LEGIARTI000032225273
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225273
-- Renvoie à : [art. L452-1 du Code de la consommation](chapitre-ii.md#article-l452-1) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; art. 131-39 du Code pénal
+- Renvoie à : [art. L452-1 du Code de la consommation](chapitre-ii.md#article-l452-1) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables du délit puni à l'article L. 452-1 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions d'exercice peuvent être prononcées cumulativement.  
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, du délit puni à l'article L. 452-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par les 2° à 9° de l'article 131-39 du même code.  
@@ -25,7 +25,7 @@ L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l
 - Identifiant : LEGIARTI000032225271
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225271
-- Renvoie à : [art. L452-1 du Code de la consommation](chapitre-ii.md#article-l452-1) ; art. 131-35 du Code pénal
+- Renvoie à : [art. L452-1 du Code de la consommation](chapitre-ii.md#article-l452-1) ; [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 - Cité par : [art. L452-4 du Code de la consommation](chapitre-ii.md#article-l452-4)
 
 En cas de condamnation pour les faits réprimés à l'article L. 452-1, le tribunal peut prononcer en outre :  
@@ -67,7 +67,7 @@ Ce montant peut être porté, de manière proportionnée aux avantages tirés du
 - Identifiant : LEGIARTI000049464105
 - État : en vigueur depuis le 13/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049464105
-- Renvoie à : [art. L452-5 du Code de la consommation](chapitre-ii.md#article-l452-5) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal
+- Renvoie à : [art. L452-5 du Code de la consommation](chapitre-ii.md#article-l452-5) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables des délits punis aux articles L. 452-5 et L. 452-5-1 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 

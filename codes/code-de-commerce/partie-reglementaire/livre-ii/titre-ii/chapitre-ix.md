@@ -80,7 +80,7 @@ Elles sont portées à la connaissance de la société par lettre recommandée a
 - Identifiant : LEGIARTI000006263359
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006263359
-- Renvoie à : [art. L433-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006653777)
+- Renvoie à : [art. L433-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-l433-4)
 - Cité par : [art. R229-8 du Code de commerce](chapitre-ix.md#article-r229-8)
 
 La société adresse à chacun des actionnaires mentionnés à l'article précédent, dans un délai de quinze jours suivant la réception de sa demande, une offre de rachat par lettre recommandée avec demande d'avis de réception.  

@@ -168,8 +168,8 @@ En cas de désaccord entre les administrateurs légaux, le juge des tutelles est
 - Identifiant : LEGIARTI000031322948
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322948
-- Renvoie à : art. L211-1 du Code monétaire et financier
-- Cité par : [art. 387-3 du Code civil](chapitre-ii.md#article-387-3) ; [art. 387-4 du Code civil](chapitre-ii.md#article-387-4)
+- Renvoie à : [art. L211-1 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-1)
+- Cité par : [art. 387-3 du Code civil](chapitre-ii.md#article-387-3) ; [art. 387-4 du Code civil](chapitre-ii.md#article-387-4) ; [art. R491-8 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ix/section-2.md#article-r491-8)
 
 L'administrateur légal ne peut, sans l'autorisation préalable du juge des tutelles :
 

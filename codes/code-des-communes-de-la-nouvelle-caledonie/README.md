@@ -1,0 +1,126 @@
+# Code des communes de la Nouvelle-Calédonie
+
+Dernière modification du texte dans LEGI : 19/08/2026. 807 articles en vigueur, répartis dans 81 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : ORGANISATION COMMUNALE**
+    - **TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES**
+      - [Chapitre Ier : Nom des communes](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Limites territoriales, chef-lieu et fusion des communes](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (14 articles)
+    - **TITRE II : ORGANES DE LA COMMUNE**
+      - [Chapitre Ier : Conseil municipal](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (66 articles)
+      - [Chapitre II : Maires et adjoints](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (37 articles)
+      - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (21 articles)
+      - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Participation des habitants à la vie locale.](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (11 articles)
+      - [Chapitre V bis : Médiation](partie-legislative/livre-ier/titre-ii/chapitre-v-bis.md) (1 article)
+      - [Chapitre VI : Participation des habitants et des usagers à la vie des services publics.](partie-legislative/livre-ier/titre-ii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Responsabilité et protection des élus](partie-legislative/livre-ier/titre-ii/chapitre-vii.md) (3 articles)
+    - **TITRE III : POLICE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Dispositions particulières](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (4 articles)
+    - **TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS**
+      - [Chapitre Ier : Section de communes](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (14 articles)
+      - [Chapitre III : Communes associées](partie-legislative/livre-ier/titre-v/chapitre-iii.md) (8 articles)
+    - **TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES**
+      - [Chapitre Ier : Ententes et conférences intercommunales](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Biens et droits indivis entre plusieurs communes](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Syndicat de communes](partie-legislative/livre-ier/titre-vi/chapitre-iii.md) (25 articles)
+      - [Chapitre VI : Syndicats mixtes](partie-legislative/livre-ier/titre-vi/chapitre-vi.md) (8 articles)
+      - [Chapitre IX : Dispositions communes](partie-legislative/livre-ier/titre-vi/chapitre-ix.md) (2 articles)
+  - **LIVRE II : FINANCES COMMUNALES**
+    - **TITRE Ier : BUDGET**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Vote et règlement](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (5 articles)
+    - [TITRE II : DÉPENSES](partie-legislative/livre-ii/titre-ii.md) (10 articles)
+    - **TITRE III : RECETTES**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (31 articles)
+      - [Chapitre V : Subventions et dotations](partie-legislative/livre-ii/titre-iii/chapitre-v.md) (4 articles)
+      - [Chapitre VI : Avances, emprunts et garanties d'emprunts](partie-legislative/livre-ii/titre-iii/chapitre-vi.md) (13 articles)
+    - **TITRE IV : COMPTABILITÉ**
+      - [Chapitre Ier : Comptabilité du maire et du comptable](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (6 articles)
+    - **TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX**
+      - [Chapitre unique : Dispositions applicables au syndicat de communes](partie-legislative/livre-ii/titre-v/chapitre-unique.md) (7 articles)
+  - **LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX**
+    - **TITRE Ier : ADMINISTRATION DE LA COMMUNE**
+      - [Chapitre Ier : Biens communaux](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dons et legs](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Adjudications publiques en matière de biens communaux](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Marchés et délégations de service public](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Travaux communaux](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (1 article)
+      - [Chapitre VI : Actions judiciaires](partie-legislative/livre-iii/titre-ier/chapitre-vi.md) (11 articles)
+      - [Chapitre VIII : Dispositions diverses](partie-legislative/livre-iii/titre-ier/chapitre-viii.md) (4 articles)
+    - **TITRE II : SERVICES COMMUNAUX**
+      - [Chapitre Ier : Dispositions générales applicables aux services communaux](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions communes aux régies, aux concessions et aux affermages](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Régies municipales](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (18 articles)
+      - [Chapitre IV : Concessions et affermages](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (5 articles)
+    - **TITRE V : SERVICES D'INCENDIE ET DE SECOURS**
+      - [Chapitre II : Réserves communales de sécurité civile](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (4 articles)
+    - **TITRE VI : CIMETIÈRES ET OPÉRATIONS FUNÉRAIRES**
+      - [Chapitre II : Opérations funéraires](partie-legislative/livre-iii/titre-vi/chapitre-ii.md) (1 article)
+    - **TITRE VII : DISPOSITIONS PARTICULIÈRES À CERTAINS SERVICES INDUSTRIELS ET COMMERCIAUX**
+      - [Chapitre II : Assainissement et eaux usées](partie-legislative/livre-iii/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Énergie](partie-legislative/livre-iii/titre-vii/chapitre-iii.md) (1 article)
+    - **TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-viii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Aide aux entreprises](partie-legislative/livre-iii/titre-viii/chapitre-ii.md) (1 article)
+  - **LIVRE IV : PERSONNEL COMMUNAL**
+    - **TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET**
+      - [Chapitre unique : Recrutement, formation et promotion sociale](partie-legislative/livre-iv/titre-unique/chapitre-unique.md) (2 articles)
+- **Partie réglementaire**
+  - **LIVRE Ier : ORGANISATION COMMUNALE**
+    - **TITRE Ier : NOM, LIMITES TERRITORIALES ET POPULATION DES COMMUNES**
+      - [Chapitre Ier : Nom des communes](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Limites territoriales, chef-lieu et fusion des communes](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (24 articles)
+      - [Chapitre IV : Population des communes](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (7 articles)
+    - **TITRE II : ORGANES DE LA COMMUNE**
+      - [Chapitre Ier : Conseil municipal](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (54 articles)
+      - [Chapitre II : Maires et adjoints](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (19 articles)
+      - [Chapitre III : Indemnités et régime de retraite des titulaires de certaines fonctions municipales](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions applicables en périodes de mobilisation et de temps de guerre](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Participation des habitants à la vie locale](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (14 articles)
+      - [Chapitre VI : Responsabilité et protection des élus](partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md) (1 article)
+    - **TITRE III : POLICE**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions particulières](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+    - **TITRE V : INTÉRÊTS PROPRES À CERTAINES CATÉGORIES D'HABITANTS**
+      - [Chapitre III : Communes associées](partie-reglementaire/livre-ier/titre-v/chapitre-iii.md) (2 articles)
+    - **TITRE VI : INTÉRÊTS COMMUNS À PLUSIEURS COMMUNES**
+      - [Chapitre III : Syndicat de communes](partie-reglementaire/livre-ier/titre-vi/chapitre-iii.md) (2 articles)
+  - **LIVRE II : FINANCES COMMUNALES**
+    - **TITRE Ier : BUDGET**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Vote et règlement](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (8 articles)
+    - [TITRE II : DÉPENSES](partie-reglementaire/livre-ii/titre-ii.md) (7 articles)
+    - **TITRE III : RECETTES**
+      - [Chapitre Ier : Dispositions générales.](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre III : Taxes, redevances ou versements autres que ceux prévus par le code territorial des impôts](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Dotation globale de fonctionnement et autres dotations](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (17 articles)
+      - [Chapitre V : Subventions](partie-reglementaire/livre-ii/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Avances, emprunts et garanties d'emprunts](partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md) (18 articles)
+      - [Chapitre VII : Dispositions régissant la société publique mentionnée à l'article L. 236-7-2](partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md) (1 article)
+    - **TITRE IV : COMPTABILITÉ**
+      - [Chapitre Ier : Comptabilité du maire et du comptable](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (30 articles)
+    - **TITRE V : DISPOSITIONS APPLICABLES À CERTAINS ÉTABLISSEMENTS COMMUNAUX**
+      - [Chapitre unique : Dispositions applicables au syndicat de communes](partie-reglementaire/livre-ii/titre-v/chapitre-unique.md) (4 articles)
+  - **LIVRE III : ADMINISTRATION ET SERVICES COMMUNAUX**
+    - **TITRE Ier : ADMINISTRATION DE LA COMMUNE**
+      - [Chapitre Ier : Biens communaux](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dons et legs](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (7 articles)
+      - [Chapitre IV : Marchés et délégations de service public](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre VI : Actions judiciaires](partie-reglementaire/livre-iii/titre-ier/chapitre-vi.md) (4 articles)
+      - [Chapitre VIII : Dispositions diverses](partie-reglementaire/livre-iii/titre-ier/chapitre-viii.md) (1 article)
+    - **TITRE II : SERVICES COMMUNAUX**
+      - [Chapitre III : Régies municipales](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (97 articles)
+      - [Chapitre IV : Concessions et affermages](partie-reglementaire/livre-iii/titre-ii/chapitre-iv.md) (6 articles)
+    - **TITRE VIII : DISPOSITIONS ÉCONOMIQUES ET PARTICIPATION À DES ENTREPRISES PRIVÉES**
+      - [Chapitre Ier : Dispositions générales.](partie-reglementaire/livre-iii/titre-viii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Aide aux entreprises](partie-reglementaire/livre-iii/titre-viii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Sociétés d'économie mixte locales](partie-reglementaire/livre-iii/titre-viii/chapitre-iii.md) (5 articles)
+  - **LIVRE IV : PERSONNEL COMMUNAL**
+    - **TITRE UNIQUE : AGENTS NOMMÉS DANS DES EMPLOIS PERMANENTS À TEMPS COMPLET**
+      - [Chapitre unique : Recrutement, formation et promotion sociale](partie-reglementaire/livre-iv/titre-unique/chapitre-unique.md) (1 article)

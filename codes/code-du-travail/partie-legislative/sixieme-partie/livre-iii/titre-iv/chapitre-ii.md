@@ -24,7 +24,7 @@ Toutefois, des exceptions peuvent, par décret, être apportées à la règle po
 - Identifiant : LEGIARTI000006904380
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904380
-- Cité par : [art. L330-3 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029580887)
+- Cité par : [art. L330-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iii/chapitre-preliminaire.md#article-l330-3)
 
 Lorsque le stagiaire de la formation professionnelle relevant d'un régime de sécurité sociale de salariés est rémunéré par son employeur, l'Etat participe aux cotisations de sécurité sociale incombant à l'employeur dans la même proportion qu'aux rémunérations.
 
@@ -33,7 +33,7 @@ Lorsque le stagiaire de la formation professionnelle relevant d'un régime de s�
 - État : en vigueur depuis le 01/08/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042195119
 - Renvoie à : [art. L5214-1 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iv.md#article-l5214-1) ; [art. L5214-1 A du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-iv.md#article-l5214-1-a)
-- Cité par : [art. D5316-14-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-d5316-14-1) ; [art. L5131-5 du Code du travail](../../../cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-5) ; [art. L5522-25 du Code du travail](../../../cinquieme-partie/livre-v/titre-ii/chapitre-ii.md#article-l5522-25) ; [art. L6342-7 du Code du travail](chapitre-ii.md#article-l6342-7) ; [art. L382-42 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046448471) ; [Décret n°90-1215 du 20 décembre 1990, art. 42](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033477238)
+- Cité par : [art. L351-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-3) ; [art. L382-42 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-viii/chapitre-2.md#article-l382-42) ; [art. D5316-14-1 du Code du travail](../../../../partie-reglementaire/cinquieme-partie/livre-iii/titre-ier/chapitre-vi.md#article-d5316-14-1) ; [art. L5131-5 du Code du travail](../../../cinquieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l5131-5) ; [art. L5522-25 du Code du travail](../../../cinquieme-partie/livre-v/titre-ii/chapitre-ii.md#article-l5522-25) ; [art. L6342-7 du Code du travail](chapitre-ii.md#article-l6342-7) ; [Décret n°90-1215 du 20 décembre 1990, art. 42](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033477238)
 
 Les cotisations de sécurité sociale d'un stagiaire qui est rémunéré par l'Etat, l'opérateur de compétences ou par la région pendant la durée du stage ou qui ne bénéficie d'aucune rémunération sont intégralement prises en charge au même titre que le financement de l'action de formation, selon le cas, par l'Etat, l'opérateur de compétences ou la région.
 

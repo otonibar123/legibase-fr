@@ -28,7 +28,7 @@ Si la transmission au consommateur d'une information, en application de l'articl
 - Identifiant : LEGIARTI000043960821
 - État : en vigueur depuis le 25/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043960821
-- Cité par : [art. L113-4 du Code de la consommation](chapitre-iii.md#article-l113-4)
+- Cité par : [art. L113-4 du Code de la consommation](chapitre-iii.md#article-l113-4) ; [art. L1111-3-3 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ier.md#article-l1111-3-3) ; [art. R3121-1 du Code des transports](../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-r3121-1) ; [art. L2223-20 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/deuxieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l2223-20)
 
 Les magasins de vente au détail de plus de 400 mètres carrés qui commercialisent des denrées alimentaires mettent à la disposition des consommateurs, tout au long de l'année, une information claire et lisible relative à la saisonnalité des fruits et légumes frais qu'ils proposent à la vente. L'affichage de cette information peut être effectué par voie électronique.  
 

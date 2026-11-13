@@ -8,7 +8,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000036262764
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262764
-- Renvoie à : [art. L23-111-1 du Code du travail](../../livre-iii/titre-xi/chapitre-ier.md#article-l23-111-1) ; [art. L1453-4 du Code du travail](../../../premiere-partie/livre-iv/titre-v/chapitre-iii.md#article-l1453-4) ; [art. L2232-23-1 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-23-1) ; [art. L2232-24 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-24) ; [art. L2232-26 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-26) ; art. L515-36 du Code de l'environnement ; art. L231-11 du Code de la sécurité sociale ; art. L515-1 du Code rural et de la pêche maritime ; art. L717-7 du Code rural et de la pêche maritime
+- Renvoie à : [art. L515-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8) ; [art. L515-36 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-36) ; [art. L231-11 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iii/chapitre-1er.md#article-l231-11) ; [art. L23-111-1 du Code du travail](../../livre-iii/titre-xi/chapitre-ier.md#article-l23-111-1) ; [art. L1453-4 du Code du travail](../../../premiere-partie/livre-iv/titre-v/chapitre-iii.md#article-l1453-4) ; [art. L2232-23-1 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-23-1) ; [art. L2232-24 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-24) ; [art. L2232-26 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-26) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2) ; [art. L515-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-1) ; [art. L717-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-7) ; art. L211-2 du Code minier
 - Cité par : [art. L1235-3-1 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-v.md#article-l1235-3-1) ; [art. L1243-5 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-iii.md#article-l1243-5) ; [art. L2421-7 du Code du travail](../titre-ii/chapitre-ier.md#article-l2421-7) ; [art. L2421-8 du Code du travail](../titre-ii/chapitre-ier.md#article-l2421-8)
 
 Bénéficie de la protection en cas de rupture d'un contrat à durée déterminée prévue par le présent chapitre le salarié investi de l'un des mandats suivants :
@@ -132,7 +132,7 @@ La rupture du contrat de travail à durée déterminée d'un membre du groupe sp
 - Identifiant : LEGIARTI000036762254
 - État : en vigueur depuis le 01/04/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762254
-- Renvoie à : [art. L1242-2 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-l1242-2) ; [art. L1244-2-2 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-iv.md#article-l1244-2-2) ; [art. L2411-8 du Code du travail](chapitre-ier.md#article-l2411-8) ; [art. L2411-10 du Code du travail](chapitre-ier.md#article-l2411-10) ; art. L515-36 du Code de l'environnement
+- Renvoie à : [art. L515-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8) ; [art. L515-36 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-36) ; [art. L1242-2 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-ii.md#article-l1242-2) ; [art. L1244-2-2 du Code du travail](../../../premiere-partie/livre-ii/titre-iv/chapitre-iv.md#article-l1244-2-2) ; [art. L2411-8 du Code du travail](chapitre-ier.md#article-l2411-8) ; [art. L2411-10 du Code du travail](chapitre-ier.md#article-l2411-10) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2) ; art. L211-2 du Code minier
 - Cité par : [art. L2421-8 du Code du travail](../titre-ii/chapitre-ier.md#article-l2421-8)
 
 La rupture du contrat de travail à durée déterminée d'un représentant du personnel d'une entreprise extérieure, désigné à la commission santé, sécurité et conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier, avant l'échéance du terme en raison d'une faute grave ou de l'inaptitude constatée par le médecin du travail, ou à l'arrivée du terme lorsque l'employeur n'envisage pas de renouveler un contrat comportant une clause de renouvellement, ne peut intervenir qu'après autorisation de l'inspecteur du travail.
@@ -171,7 +171,7 @@ La rupture du contrat de travail à durée déterminée d'un salarié mandaté a
 - Identifiant : LEGIARTI000006902336
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902336
-- Renvoie à : art. L231-11 du Code de la sécurité sociale
+- Renvoie à : [art. L231-11 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iii/chapitre-1er.md#article-l231-11)
 
 Lorsque le salarié membre du conseil ou administrateur d'une caisse de sécurité sociale est titulaire d'un contrat de travail à durée déterminée, il bénéficie des garanties et protections prévues à l'article L. 231-11 du code de la sécurité sociale.
 
@@ -181,7 +181,7 @@ Lorsque le salarié membre du conseil ou administrateur d'une caisse de sécurit
 - Identifiant : LEGIARTI000022234539
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022234539
-- Renvoie à : [art. L515-4 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006584222)
+- Renvoie à : [art. L515-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-4)
 
 Lorsque le salarié représentant d'une chambre d'agriculture est titulaire d'un contrat de travail à durée déterminée, il bénéficie des garanties et protections prévues à l'article L. 515-4 du code rural et de la pêche maritime.
 

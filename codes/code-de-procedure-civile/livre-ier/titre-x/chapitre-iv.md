@@ -37,7 +37,7 @@ La décision du premier président autorisant la procédure de prise à partie f
 - Identifiant : LEGIARTI000006410579
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410579
-- Cité par : [art. R411-2 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018921891)
+- Cité par : [art. R411-2 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-iv/titre-ier/chapitre-unique.md#article-r411-2)
 
 La décision de refus est susceptible d'un recours devant la Cour de cassation dans les quinze jours de son prononcé. Le recours est formé, instruit et jugé selon la procédure sans représentation obligatoire.
 

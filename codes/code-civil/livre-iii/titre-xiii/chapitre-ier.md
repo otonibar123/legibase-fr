@@ -6,7 +6,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006445236
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006445236
-- Cité par : [art. 478 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-478) ; [art. 812-1-4 du Code civil](../titre-ier/chapitre-vi.md#article-812-1-4) ; [art. 813 du Code civil](../titre-ier/chapitre-vi.md#article-813) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [art. L311-5-1 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030992958) ; [Décret n°67-223 du 17 mars 1967, art. 39-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488682)
+- Cité par : [art. 478 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-478) ; [art. 812-1-4 du Code civil](../titre-ier/chapitre-vi.md#article-812-1-4) ; [art. 813 du Code civil](../titre-ier/chapitre-vi.md#article-813) ; [art. L311-5-1 du Code du tourisme](../../../code-du-tourisme/partie-legislative/livre-iii/titre-ier/chapitre-1er.md#article-l311-5-1) ; [Arrêté du 23 décembre 2009, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039348544) ; [Décret n°67-223 du 17 mars 1967, art. 39-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488682)
 
 Le mandat ou procuration est un acte par lequel une personne donne à une autre le pouvoir de faire quelque chose pour le mandant et en son nom.  
 

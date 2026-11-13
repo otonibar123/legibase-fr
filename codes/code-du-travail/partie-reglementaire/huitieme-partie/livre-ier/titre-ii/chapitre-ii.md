@@ -68,7 +68,7 @@ Chacune de ces unités de contrôle est placée sous l'autorité d'un inspecteur
 - Identifiant : LEGIARTI000042661080
 - État : en vigueur depuis le 01/04/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042661080
-- Renvoie à : [art. R8122-6 du Code du travail](chapitre-ii.md#article-r8122-6)
+- Renvoie à : [art. R8122-6 du Code du travail](chapitre-ii.md#article-r8122-6) ; [art. L717-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-1)
 - Cité par : [Arrêté du 27 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050720261) ; [Arrêté du 9 février 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053460462)
 
 Les directions départementales de l'emploi, du travail et des solidarités, les directions départementales de l'emploi, du travail, des solidarités et de la protection des populations et les unités départementales de la direction régionale et interdépartementale de l'économie de l'emploi du travail et des solidarités d'Ile-de-France comportent des unités de contrôle départementales, infra-départementales ou interdépartementales. La délimitation géographique d'une unité de contrôle peut recouvrir tout ou partie d'un ou plusieurs départements dans les conditions prévues à l'article R. 8122-6.
@@ -109,7 +109,7 @@ Il peut également créer des services interdépartementaux ou régionaux pour g
 - Identifiant : LEGIARTI000028753233
 - État : en vigueur depuis le 01/01/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028753233
-- Renvoie à : [Code du travail, Chapitre II : Compétences des agents](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018500448) ; [art. L717-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585143) ; art. L717-1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L717-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-1) ; [Code du travail, Chapitre II : Compétences des agents](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018500448)
 - Cité par : [ARRÊTÉ du 24 juin 2014, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029184496)
 
 Dans chaque département, au moins une section exerce les missions définies au chapitre II du titre Ier du présent livre dans les exploitations, entreprises et établissements définis à l'article L. 717-1 du code rural et de la pêche maritime, sauf exception justifiée par le faible volume de l'activité agricole et prévue par arrêté des ministres chargés de l'agriculture et du travail. Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi peut en tant que de besoin élargir le champ de compétence des sections agricoles tel qu'il résulte de l'application de l'article L. 717-1 du code rural et de la pêche maritime.
@@ -128,6 +128,7 @@ Dans chaque région, une unité régionale d'appui et de contrôle, rattachée a
 - Identifiant : LEGIARTI000031564859
 - État : en vigueur depuis le 05/12/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031564859
+- Renvoie à : [art. L717-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-1)
 - Cité par : [Arrêté du 27 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050720261) ; [Arrêté du 9 février 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053460462)
 
 Afin d'opérer un contrôle sectoriel ou thématique, de prévenir un risque particulier ou d'assurer le renfort des agents des unités de contrôle, le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi peut :

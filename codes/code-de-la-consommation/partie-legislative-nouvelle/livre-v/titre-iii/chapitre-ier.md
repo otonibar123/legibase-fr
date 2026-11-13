@@ -9,7 +9,7 @@ Code de la consommation › Partie législative nouvelle › Livre V : POUVOIRS 
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224856
 - Renvoie à : [art. L512-4 du Code de la consommation](../titre-ier/chapitre-ii.md#article-l512-4)
-- Cité par : [art. L531-2 du Code de la consommation](chapitre-ier.md#article-l531-2) ; [art. L531-7 du Code de la consommation](chapitre-ier.md#article-l531-7) ; [art. L541-1 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-1) ; [art. L931-7-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845932) ; [art. L163-17 du Code forestier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032235611)
+- Cité par : [art. L531-2 du Code de la consommation](chapitre-ier.md#article-l531-2) ; [art. L531-7 du Code de la consommation](chapitre-ier.md#article-l531-7) ; [art. L541-1 du Code de la consommation](../titre-iv/chapitre-unique.md#article-l541-1) ; [art. L163-17 du Code forestier (nouveau)](../../../../code-forestier-nouveau/partie-legislative/livre-ier/titre-vi/chapitre-iii.md#article-l163-17) ; [art. L931-7-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052845932)
 
 Le fait de faire obstacle à l'exercice des fonctions des agents habilités en violation des dispositions de l'article L. 512-4 est puni d'un emprisonnement de deux ans et d'une amende de 300 000 euros.  
 Le montant de l'amende peut être porté, de manière proportionnée aux avantages tirés du délit, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits.
@@ -18,7 +18,7 @@ Le montant de l'amende peut être porté, de manière proportionnée aux avantag
 - Identifiant : LEGIARTI000032224854
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224854
-- Renvoie à : [art. L531-1 du Code de la consommation](chapitre-ier.md#article-l531-1) ; art. 121-2 du Code pénal ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal ; art. 131-39 du Code pénal
+- Renvoie à : [art. L531-1 du Code de la consommation](chapitre-ier.md#article-l531-1) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables du délit puni à l'article L. 531-1 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  
 Ces interdictions d'exercice ne peuvent excéder une durée de cinq ans. Elles peuvent être prononcées cumulativement.  
@@ -47,7 +47,7 @@ Le non-respect de la mesure de saisie mentionnée à l'article L. 512-29 est pun
 - Identifiant : LEGIARTI000032224848
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224848
-- Renvoie à : [art. L531-3 du Code de la consommation](chapitre-ier.md#article-l531-3) ; [art. L531-4 du Code de la consommation](chapitre-ier.md#article-l531-4) ; art. 131-35 du Code pénal
+- Renvoie à : [art. L531-3 du Code de la consommation](chapitre-ier.md#article-l531-3) ; [art. L531-4 du Code de la consommation](chapitre-ier.md#article-l531-4) ; [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 En cas de condamnation pour les faits réprimés par les articles L. 531-3 et L. 531-4, le tribunal peut prononcer en outre :  
 1° L'affichage et la diffusion de la décision dans les conditions prévues à l'article 131-35 du code pénal ;  

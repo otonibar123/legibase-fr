@@ -96,7 +96,7 @@ Les conditions requises des candidats sont les suivantes :
 - État : en vigueur depuis le 22/12/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262121
 - Renvoie à : [art. L1441-7 du Code du travail](chapitre-ier.md#article-l1441-7)
-- Cité par : [art. L133-5-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030752652) ; [Décret n°2016-1766 du 16 décembre 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038589805)
+- Cité par : [art. L133-5-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-4) ; [Décret n°2016-1766 du 16 décembre 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038589805)
 
 Les conditions de candidature définies aux 1° et 2° de l'article L. 1441-7 s'apprécient à la date de nomination.
 
@@ -155,7 +155,7 @@ Les employés de maison et leurs employeurs sont candidats dans la section du co
 - Identifiant : LEGIARTI000032345312
 - État : en vigueur depuis le 01/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032345312
-- Renvoie à : [art. L121-4 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-l121-4) ; [art. L1441-7 du Code du travail](chapitre-ier.md#article-l1441-7) ; [art. L321-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583353) ; art. L321-5 du Code rural et de la pêche maritime
+- Renvoie à : [art. L121-4 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-l121-4) ; [art. L1441-7 du Code du travail](chapitre-ier.md#article-l1441-7) ; [art. L321-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-5)
 - Cité par : [art. D1441-22-4 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-iv/chapitre-ier.md#article-d1441-22-4) ; [art. L1441-13 du Code du travail](chapitre-ier.md#article-l1441-13) ; [art. L1441-15 du Code du travail](chapitre-ier.md#article-l1441-15) ; [art. L1441-16 du Code du travail](chapitre-ier.md#article-l1441-16) ; [art. L1441-17 du Code du travail](chapitre-ier.md#article-l1441-17) ; [art. R1441-16 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-iv/chapitre-ier.md#article-r1441-16) ; [art. R1441-24 du Code du travail](../../../../partie-reglementaire/premiere-partie/livre-iv/titre-iv/chapitre-ier.md#article-r1441-24)
 
 Peuvent être candidats dans le collège des employeurs :

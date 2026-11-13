@@ -73,7 +73,7 @@ Lorsque la représentation est obligatoire, l'avocat ne peut se décharger de so
 - Identifiant : LEGIARTI000025820587
 - État : en vigueur depuis le 06/05/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025820587
-- Cité par : [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696)
+- Cité par : [art. Rubrique 0 du Code général des collectivités territoriales](../../code-general-des-collectivites-territoriales/annexes/annexe-i.md#article-rubrique-0) ; [Arrêté du 5 mai 2021, art. Annexe](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052847696)
 
 L'avocat remplit les obligations de son mandat sans nouveau pouvoir jusqu'à l'exécution du jugement pourvu que celle-ci soit entreprise moins d'un an après que ce jugement soit passé en force de chose jugée.
 

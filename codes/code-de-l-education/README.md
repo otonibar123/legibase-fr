@@ -1,0 +1,566 @@
+# Code de l'éducation
+
+Dernière modification du texte dans LEGI : 31/10/2026. 5015 articles en vigueur, répartis dans 421 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Première partie : Dispositions générales et communes**
+    - **Livre Ier : Principes généraux de l'éducation**
+      - **Titre Ier : Le droit à l'éducation**
+        - [Chapitre Ier : Dispositions générales.](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Dispositions particulières aux enfants et adolescents en situation de handicap ou présentant une maladie chronique ou de longue durée](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ii.md) (7 articles)
+        - [Chapitre III : Dispositions particulières aux enfants d'âge préélémentaire](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Dispositions relatives à l'obligation de formation](partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-iv.md) (1 article)
+      - **Titre II : Objectifs et missions du service public de l'enseignement**
+        - [Chapitre Ier : Dispositions générales.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Objectifs et missions de l'enseignement scolaire.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-ii.md) (7 articles)
+        - [Chapitre III : Objectifs et missions de l'enseignement supérieur.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iii.md) (12 articles)
+        - [Chapitre IV : Stages et périodes de formation en milieu professionnel.](partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md) (24 articles)
+      - **Titre III : L'obligation scolaire, la gratuité et l'accueil des élèves des écoles maternelles et élémentaires**
+        - [Chapitre Ier : L'obligation scolaire.](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ier.md) (19 articles)
+        - [Chapitre II : La gratuité de l'enseignement scolaire public.](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ii.md) (2 articles)
+        - [Chapitre III : L'accueil des élèves des écoles maternelles et élémentaires](partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-iii.md) (11 articles)
+      - **Titre IV : La laïcité de l'enseignement public**
+        - [Chapitre unique.](partie-legislative/premiere-partie/livre-ier/titre-iv/chapitre-unique.md) (8 articles)
+      - **Titre V : La liberté de l'enseignement**
+        - [Chapitre unique.](partie-legislative/premiere-partie/livre-ier/titre-v/chapitre-unique.md) (6 articles)
+      - **Titre VI : Dispositions relatives à l'outre-mer**
+        - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-legislative/premiere-partie/livre-ier/titre-vi/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Saint-Barthélemy](partie-legislative/premiere-partie/livre-ier/titre-vi/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Saint-Martin](partie-legislative/premiere-partie/livre-ier/titre-vi/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/premiere-partie/livre-ier/titre-vi/chapitre-iv.md) (2 articles)
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/premiere-partie/livre-ier/titre-vi/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/premiere-partie/livre-ier/titre-vi/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/premiere-partie/livre-ier/titre-vi/chapitre-vii.md) (1 article)
+    - **Livre II : L'administration de l'éducation**
+      - **Titre Ier : La répartition des compétences entre l'Etat et les collectivités territoriales**
+        - [Chapitre Ier : Les compétences de l'Etat.](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-ier.md) (9 articles)
+        - [Chapitre II : Les compétences des communes](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-ii.md) (14 articles)
+        - [Chapitre III : Les compétences des départements](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iii.md) (12 articles)
+        - [Chapitre IV : Les compétences des régions](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-iv.md) (24 articles)
+        - [Chapitre V : Les compétences de la collectivité territoriale de Corse.](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-v.md) (1 article)
+        - [Chapitre VI : Les compétences communes aux collectivités territoriales.](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-vi.md) (12 articles)
+        - [Chapitre VII : Les compétences de la métropole de Lyon](partie-legislative/premiere-partie/livre-ii/titre-ier/chapitre-vii.md) (1 article)
+      - **Titre II : L'organisation des services de l'administration de l'éducation**
+        - [Chapitre II : Les services académiques et départementaux.](partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+      - **Titre III : Les organismes collégiaux nationaux et locaux**
+        - [Chapitre Ier : Le Conseil supérieur de l'éducation](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-ier.md) (5 articles)
+        - [Chapitre Ier bis : Le Conseil supérieur des programmes](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-ier-bis.md) (4 articles)
+        - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-ii.md) (7 articles)
+        - [Chapitre III : La Conférence des chefs d'établissements de l'enseignement supérieur.](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Les conseils académiques de l'éducation nationale.](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-iv.md) (5 articles)
+        - [Chapitre V : Les conseils départementaux de l'éducation nationale.](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-v.md) (1 article)
+        - [Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux.](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Les instances consultatives en matière de formation professionnelle](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-vii.md) (1 article)
+        - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-viii.md) (3 articles)
+        - [Chapitre IX : Les autres instances consultatives](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-ix.md) (1 article)
+        - [Chapitre X : Le médiateur de l'éducation nationale et de l'enseignement supérieur.](partie-legislative/premiere-partie/livre-ii/titre-iii/chapitre-x.md) (1 article)
+      - **Titre IV : L'inspection et l'évaluation de l'éducation**
+        - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation.](partie-legislative/premiere-partie/livre-ii/titre-iv/chapitre-ier.md) (8 articles)
+        - [Chapitre Ier bis : Le conseil d'évaluation de l'école](partie-legislative/premiere-partie/livre-ii/titre-iv/chapitre-ier-bis.md) (3 articles)
+        - [Chapitre II : L'évaluation des établissements publics à caractère scientifique, culturel et professionnel](partie-legislative/premiere-partie/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+      - **Titre V : Dispositions relatives à l'Outre-Mer**
+        - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ier.md) (21 articles)
+        - [Chapitre II : Saint-Barthélemy](partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ii.md) (7 articles)
+        - [Chapitre III : Saint-Martin](partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-iii.md) (8 articles)
+        - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-iv.md) (6 articles)
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-vii.md) (1 article)
+  - **Deuxième partie : Les enseignements scolaires**
+    - **Livre III : L'organisation des enseignements scolaires**
+      - **Titre Ier : L'organisation générale des enseignements**
+        - [Chapitre Ier : Dispositions communes.](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Dispositions propres à certaines matières d'enseignement](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md) (28 articles)
+        - [Chapitre III : L'information et l'orientation.](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-iii.md) (8 articles)
+        - [Chapitre IV : La recherche, l'expérimentation et la documentation pédagogiques](partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-iv.md) (3 articles)
+      - **Titre II : L'enseignement du premier degré**
+        - [Chapitre unique.](partie-legislative/deuxieme-partie/livre-iii/titre-ii/chapitre-unique.md) (4 articles)
+      - **Titre III : Les enseignements du second degré**
+        - [Chapitre Ier : Dispositions communes aux enseignements du second degré](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-ier.md) (8 articles)
+        - [Chapitre II : Les enseignements dispensés dans les collèges.](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-ii.md) (7 articles)
+        - [Chapitre III : Dispositions communes aux enseignements dispensés dans les lycées.](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-iii.md) (3 articles)
+        - [Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général.](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-iv.md) (1 article)
+        - [Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles.](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-v.md) (16 articles)
+        - [Chapitre VI : Dispositions propres aux formations technologiques.](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-vi.md) (2 articles)
+        - [Chapitre VII : Dispositions propres aux formations professionnelles.](partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-vii.md) (4 articles)
+      - **Titre IV : L'enseignement agricole et maritime**
+        - [Chapitre Ier : L'enseignement agricole.](partie-legislative/deuxieme-partie/livre-iii/titre-iv/chapitre-ier.md) (1 article)
+      - **Titre V : Les enseignements pour les enfants et adolescents en situation de handicap ou présentant une maladie chronique ou de longue durée**
+        - [Chapitre Ier : Scolarité.](partie-legislative/deuxieme-partie/livre-iii/titre-v/chapitre-ier.md) (6 articles)
+        - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes en situation de handicap](partie-legislative/deuxieme-partie/livre-iii/titre-v/chapitre-ii.md) (1 article)
+      - **Titre VI : Les enseignements préparant aux professions artistiques et sportives**
+        - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.](partie-legislative/deuxieme-partie/livre-iii/titre-vi/chapitre-ier.md) (6 articles)
+        - [Chapitre II : L'enseignement de la danse.](partie-legislative/deuxieme-partie/livre-iii/titre-vi/chapitre-ii.md) (6 articles)
+        - [Chapitre III : Les formations et les professions des activités physiques et sportives.](partie-legislative/deuxieme-partie/livre-iii/titre-vi/chapitre-iii.md) (1 article)
+      - **Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+        - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-legislative/deuxieme-partie/livre-iii/titre-vii/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Saint-Barthélemy](partie-legislative/deuxieme-partie/livre-iii/titre-vii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Saint-Martin](partie-legislative/deuxieme-partie/livre-iii/titre-vii/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/deuxieme-partie/livre-iii/titre-vii/chapitre-iv.md) (3 articles)
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/deuxieme-partie/livre-iii/titre-vii/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/deuxieme-partie/livre-iii/titre-vii/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/deuxieme-partie/livre-iii/titre-vii/chapitre-vii.md) (1 article)
+    - **Livre IV : Les établissements d'enseignement scolaire**
+      - [Titre préliminaire : Dispositions communes.](partie-legislative/deuxieme-partie/livre-iv/titre-preliminaire.md) (6 articles)
+      - **Titre Ier : Les écoles**
+        - [Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires.](partie-legislative/deuxieme-partie/livre-iv/titre-ier/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Les écoles régionales du premier degré.](partie-legislative/deuxieme-partie/livre-iv/titre-ier/chapitre-ii.md) (1 article)
+      - **Titre II : Les collèges et les lycées**
+        - [Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement.](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ier.md) (40 articles)
+        - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Les groupements d'établissements scolaires publics.](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Les écoles de métiers.](partie-legislative/deuxieme-partie/livre-iv/titre-ii/chapitre-iv.md) (4 articles)
+      - **Titre III : Les centres de formation d'apprentis**
+        - [Chapitre unique.](partie-legislative/deuxieme-partie/livre-iv/titre-iii/chapitre-unique.md) (1 article)
+      - **Titre IV : Les établissements d'enseignement privés**
+        - [Chapitre Ier : L'ouverture des établissements d'enseignement scolaire privés](partie-legislative/deuxieme-partie/livre-iv/titre-iv/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés](partie-legislative/deuxieme-partie/livre-iv/titre-iv/chapitre-ii.md) (24 articles)
+        - [Chapitre III : Les établissements d'enseignement technique privés](partie-legislative/deuxieme-partie/livre-iv/titre-iv/chapitre-iii.md) (5 articles)
+        - [Chapitre IV : Les établissements privés dispensant un enseignement à distance.](partie-legislative/deuxieme-partie/livre-iv/titre-iv/chapitre-iv.md) (11 articles)
+        - [Chapitre V : Les organismes de soutien scolaire](partie-legislative/deuxieme-partie/livre-iv/titre-iv/chapitre-v.md) (2 articles)
+      - **Titre V : Les établissements français d'enseignement à l'étranger**
+        - [Chapitre Ier : Dispositions générales.](partie-legislative/deuxieme-partie/livre-iv/titre-v/chapitre-ier.md) (2 articles)
+        - [Chapitre II : L'Agence pour l'enseignement français à l'étranger.](partie-legislative/deuxieme-partie/livre-iv/titre-v/chapitre-ii.md) (11 articles)
+        - [Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne.](partie-legislative/deuxieme-partie/livre-iv/titre-v/chapitre-iii.md) (1 article)
+      - **Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives**
+        - [Chapitre II : Les établissements d'enseignement de la danse](partie-legislative/deuxieme-partie/livre-iv/titre-vi/chapitre-ii.md) (6 articles)
+        - [Chapitre III : Les établissements de formation aux professions des activités physiques et sportives.](partie-legislative/deuxieme-partie/livre-iv/titre-vi/chapitre-iii.md) (1 article)
+      - **Titre VII : Dispositions communes**
+        - [Chapitre Ier : Publicité et démarchage.](partie-legislative/deuxieme-partie/livre-iv/titre-vii/chapitre-ier.md) (5 articles)
+      - **Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle**
+        - [Chapitre unique.](partie-legislative/deuxieme-partie/livre-iv/titre-viii/chapitre-unique.md) (1 article)
+      - **Titre IX : Dispositions relatives à l'outre-mer**
+        - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-legislative/deuxieme-partie/livre-iv/titre-ix/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Saint-Barthélemy](partie-legislative/deuxieme-partie/livre-iv/titre-ix/chapitre-ii.md) (7 articles)
+        - [Chapitre III : Saint-Martin](partie-legislative/deuxieme-partie/livre-iv/titre-ix/chapitre-iii.md) (7 articles)
+        - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/deuxieme-partie/livre-iv/titre-ix/chapitre-iv.md) (3 articles)
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/deuxieme-partie/livre-iv/titre-ix/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/deuxieme-partie/livre-iv/titre-ix/chapitre-vi.md) (1 article)
+    - **Livre V : La vie scolaire**
+      - **Titre Ier : Les droits et obligations des élèves**
+        - [Chapitre unique.](partie-legislative/deuxieme-partie/livre-v/titre-ier/chapitre-unique.md) (7 articles)
+      - **Titre II : L'organisation du temps et de l'espace scolaires**
+        - [Chapitre unique.](partie-legislative/deuxieme-partie/livre-v/titre-ii/chapitre-unique.md) (4 articles)
+      - **Titre III : Les aides à la scolarité**
+        - [Chapitre Ier : L'aide à la scolarité et les bourses nationales.](partie-legislative/deuxieme-partie/livre-v/titre-iii/chapitre-ier.md) (5 articles)
+        - [Chapitre II : L'allocation de rentrée scolaire.](partie-legislative/deuxieme-partie/livre-v/titre-iii/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Les aides attribuées par les collectivités territoriales.](partie-legislative/deuxieme-partie/livre-v/titre-iii/chapitre-iii.md) (2 articles)
+      - **Titre IV : La santé scolaire**
+        - [Chapitre Ier : La protection de la santé.](partie-legislative/deuxieme-partie/livre-v/titre-iv/chapitre-ier.md) (6 articles)
+        - [Chapitre II : La prévention des mauvais traitements.](partie-legislative/deuxieme-partie/livre-v/titre-iv/chapitre-ii.md) (4 articles)
+        - [Chapitre III : La prise en charge des victimes et des auteurs de harcèlement scolaire](partie-legislative/deuxieme-partie/livre-v/titre-iv/chapitre-iii.md) (1 article)
+      - **Titre V : Les activités périscolaires, sportives et culturelles**
+        - [Chapitre Ier : Les activités périscolaires.](partie-legislative/deuxieme-partie/livre-v/titre-v/chapitre-ier.md) (1 article)
+        - [Chapitre II : Les activités physiques et sportives.](partie-legislative/deuxieme-partie/livre-v/titre-v/chapitre-ii.md) (4 articles)
+      - **Titre VI : Dispositions relatives à l'outre-mer**
+        - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Saint-Barthélemy](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-ii.md) (1 article)
+        - [Chapitre III : Saint-Martin](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-iv.md) (1 article)
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/deuxieme-partie/livre-v/titre-vi/chapitre-vii.md) (1 article)
+  - **Troisième partie : Les enseignements supérieurs et la recherche**
+    - **Livre VI : L'organisation des enseignements supérieurs et de la recherche**
+      - **Titre Ier : L'organisation générale des enseignements**
+        - [Chapitre Ier : Dispositions communes.](partie-legislative/troisieme-partie/livre-vi/titre-ier/chapitre-ier.md) (12 articles)
+        - [Chapitre II : Déroulement des études supérieures.](partie-legislative/troisieme-partie/livre-vi/titre-ier/chapitre-ii.md) (10 articles)
+        - [Chapitre III : Collation des grades et titres universitaires](partie-legislative/troisieme-partie/livre-vi/titre-ier/chapitre-iii.md) (3 articles)
+        - [Chapitre IV : Programmation et développement des formations supérieures.](partie-legislative/troisieme-partie/livre-vi/titre-ier/chapitre-iv.md) (2 articles)
+      - **Titre II : Les formations universitaires générales et la formation des maîtres**
+        - [Chapitre Ier : Droit, sciences politiques, économie et administration.](partie-legislative/troisieme-partie/livre-vi/titre-ii/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Sciences et technologie.](partie-legislative/troisieme-partie/livre-vi/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Lettres, langues, arts et sciences humaines et sociales.](partie-legislative/troisieme-partie/livre-vi/titre-ii/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Education physique et sportive.](partie-legislative/troisieme-partie/livre-vi/titre-ii/chapitre-iv.md) (2 articles)
+        - [Chapitre V : Formation des personnels enseignants et d'éducation](partie-legislative/troisieme-partie/livre-vi/titre-ii/chapitre-v.md) (2 articles)
+      - **Titre III : Les formations de santé**
+        - [Chapitre Ier : Dispositions communes.](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Les études médicales.](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-ii.md) (10 articles)
+        - [Chapitre III : Les études pharmaceutiques.](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-iii.md) (6 articles)
+        - [Chapitre IV : Les études odontologiques.](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-iv.md) (1 article)
+        - [Chapitre V : Les études de maïeutique.](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-v.md) (1 article)
+        - [Chapitre VI : Les autres formations de santé.](partie-legislative/troisieme-partie/livre-vi/titre-iii/chapitre-vi.md) (1 article)
+      - **Titre IV : Les formations technologiques**
+        - [Chapitre Ier : Dispositions communes.](partie-legislative/troisieme-partie/livre-vi/titre-iv/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Les formations technologiques longues.](partie-legislative/troisieme-partie/livre-vi/titre-iv/chapitre-ii.md) (12 articles)
+      - **Titre VI : La recherche universitaire.**
+        - [Chapitre unique](partie-legislative/troisieme-partie/livre-vi/titre-vi/chapitre-unique.md) (1 article)
+      - **Titre VII : Les formations dans les autres établissements d'enseignement supérieur**
+        - [Chapitre Ier : L'enseignement supérieur agricole et vétérinaire public.](partie-legislative/troisieme-partie/livre-vi/titre-vii/chapitre-ier.md) (2 articles)
+        - [Chapitre V : L'enseignement dans les écoles supérieures militaires.](partie-legislative/troisieme-partie/livre-vi/titre-vii/chapitre-v.md) (1 article)
+        - [Chapitre VI : L'enseignement dans les écoles sanitaires et sociales.](partie-legislative/troisieme-partie/livre-vi/titre-vii/chapitre-vi.md) (1 article)
+      - **Titre VIII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+        - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-legislative/troisieme-partie/livre-vi/titre-viii/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Saint-Barthélemy](partie-legislative/troisieme-partie/livre-vi/titre-viii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Saint-Martin](partie-legislative/troisieme-partie/livre-vi/titre-viii/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/troisieme-partie/livre-vi/titre-viii/chapitre-iv.md) (2 articles)
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/troisieme-partie/livre-vi/titre-viii/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/troisieme-partie/livre-vi/titre-viii/chapitre-vi.md) (3 articles)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/troisieme-partie/livre-vi/titre-viii/chapitre-vii.md) (3 articles)
+    - **Livre VII : Les établissements d'enseignement supérieur**
+      - **Titre Ier : Les établissements publics à caractère scientifique, culturel et professionnel**
+        - [Chapitre Ier : Principes relatifs à la création et à l'autonomie des établissements publics à caractère scientifique, culturel et professionnel.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Les universités.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-ii.md) (10 articles)
+        - [Chapitre III : Les composantes des universités.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-iii.md) (8 articles)
+        - [Chapitre IV : Les services communs.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-iv.md) (2 articles)
+        - [Chapitre V : Les instituts et les écoles ne faisant pas partie des universités.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-v.md) (3 articles)
+        - [Chapitre VI : Les écoles normales supérieures.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Les grands établissements.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-vii.md) (1 article)
+        - [Chapitre VIII : Les écoles françaises à l'étranger.](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-viii.md) (1 article)
+        - [Chapitre VIII bis : Coopération et regroupements des établissements](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-viii-bis.md) (15 articles)
+        - [Chapitre IX : Dispositions communes](partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-ix.md) (16 articles)
+      - **Titre II : Instituts nationaux supérieurs du professorat et de l'éducation**
+        - [Chapitre Ier : Missions et organisation des instituts nationaux supérieurs du professorat et de l'éducation](partie-legislative/troisieme-partie/livre-vii/titre-ii/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres, les écoles supérieures du professorat et de l'éducation et les instituts nationaux supérieurs du professorat et de l'éducation](partie-legislative/troisieme-partie/livre-vii/titre-ii/chapitre-ii.md) (17 articles)
+        - [Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires](partie-legislative/troisieme-partie/livre-vii/titre-ii/chapitre-iii.md) (1 article)
+      - **Titre III : Les établissements d'enseignement supérieur privés**
+        - [Chapitre Ier : Ouverture des établissements d'enseignement supérieur privés.](partie-legislative/troisieme-partie/livre-vii/titre-iii/chapitre-ier.md) (21 articles)
+        - [Chapitre II : Rapports entre l'Etat et les établissements d'enseignement supérieur privés à but non lucratif](partie-legislative/troisieme-partie/livre-vii/titre-iii/chapitre-ii.md) (3 articles)
+      - **Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur**
+        - [Chapitre unique.](partie-legislative/troisieme-partie/livre-vii/titre-iv/chapitre-unique.md) (1 article)
+      - **Titre V : Les établissements d'enseignement supérieur spécialisés**
+        - [Chapitre Ier : Les établissements d'enseignement supérieur agricole et vétérinaire.](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Les écoles d'architecture.](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Les écoles de commerce.](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-iii.md) (1 article)
+        - [Chapitre V : Les écoles supérieures militaires.](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-v.md) (3 articles)
+        - [Chapitre VI : Les écoles sanitaires et sociales.](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-vi.md) (3 articles)
+        - [Chapitre VII : L'Ecole nationale supérieure maritime.](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-vii.md) (1 article)
+        - [Chapitre VIII : La Fondation nationale des sciences politiques.](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-viii.md) (2 articles)
+        - [Chapitre IX : Les établissements d'enseignement supérieur de la création artistique dans les domaines du spectacle vivant et des arts plastiques](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-ix.md) (5 articles)
+        - [Chapitre X : Les établissements d'enseignement supérieur de la création artistique dans les domaines du cinéma et de la communication audiovisuelle](partie-legislative/troisieme-partie/livre-vii/titre-v/chapitre-x.md) (1 article)
+      - **Titre VI : Dispositions communes**
+        - [Chapitre Ier : Dispositions communes aux établissements publics et privés.](partie-legislative/troisieme-partie/livre-vii/titre-vi/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Dispositions communes aux établissements publics.](partie-legislative/troisieme-partie/livre-vii/titre-vi/chapitre-ii.md) (6 articles)
+      - **Titre VII : Dispositions relatives à l'outre-mer**
+        - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-legislative/troisieme-partie/livre-vii/titre-vii/chapitre-ier.md) (17 articles)
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/troisieme-partie/livre-vii/titre-vii/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/troisieme-partie/livre-vii/titre-vii/chapitre-vi.md) (2 articles)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/troisieme-partie/livre-vii/titre-vii/chapitre-vii.md) (2 articles)
+    - **Livre VIII : La vie universitaire**
+      - **Titre Ier : Les droits et obligations des usagers du service public de l'enseignement supérieur**
+        - [Chapitre unique.](partie-legislative/troisieme-partie/livre-viii/titre-ier/chapitre-unique.md) (8 articles)
+      - **Titre II : Les aides aux étudiants et les oeuvres universitaires**
+        - [Chapitre Ier : Les aides aux étudiants.](partie-legislative/troisieme-partie/livre-viii/titre-ii/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Les oeuvres universitaires.](partie-legislative/troisieme-partie/livre-viii/titre-ii/chapitre-ii.md) (6 articles)
+      - **Titre III : La santé et la protection sociale des étudiants**
+        - [Chapitre Ier : La santé universitaire.](partie-legislative/troisieme-partie/livre-viii/titre-iii/chapitre-ier.md) (3 articles)
+        - [Chapitre II : La protection sociale des étudiants.](partie-legislative/troisieme-partie/livre-viii/titre-iii/chapitre-ii.md) (2 articles)
+      - **Titre IV : Les activités périuniversitaires, sportives et culturelles**
+        - [Chapitre unique.](partie-legislative/troisieme-partie/livre-viii/titre-iv/chapitre-unique.md) (5 articles)
+      - **Titre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/troisieme-partie/livre-viii/titre-v/chapitre-v.md) (1 article)
+        - [Chapitre VI : Polynésie française](partie-legislative/troisieme-partie/livre-viii/titre-v/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/troisieme-partie/livre-viii/titre-v/chapitre-vii.md) (1 article)
+  - **Quatrième partie : Les personnels**
+    - **Livre IX : Les personnels de l'éducation**
+      - **Titre Ier : Dispositions générales**
+        - [Chapitre Ier : Dispositions communes.](partie-legislative/quatrieme-partie/livre-ix/titre-ier/chapitre-ier.md) (11 articles)
+        - [Chapitre II : Dispositions propres aux personnels enseignants.](partie-legislative/quatrieme-partie/livre-ix/titre-ier/chapitre-ii.md) (7 articles)
+        - [Chapitre III : Dispositions propres aux personnels administratifs, techniques, ouvriers, sociaux, de santé et de service.](partie-legislative/quatrieme-partie/livre-ix/titre-ier/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Dispositions propres aux personnels des établissements d'enseignement privés.](partie-legislative/quatrieme-partie/livre-ix/titre-ier/chapitre-iv.md) (9 articles)
+        - [Chapitre VI : Dispositions relatives aux assistants d'éducation.](partie-legislative/quatrieme-partie/livre-ix/titre-ier/chapitre-vi.md) (2 articles)
+        - [Chapitre VII : Dispositions spécifiques relatives aux accompagnants des élèves en situation de handicap.](partie-legislative/quatrieme-partie/livre-ix/titre-ier/chapitre-vii.md) (1 article)
+      - **Titre II : Les personnels du premier degré**
+        - [Chapitre unique.](partie-legislative/quatrieme-partie/livre-ix/titre-ii/chapitre-unique.md) (3 articles)
+      - **Titre III : Les personnels du second degré**
+        - [Chapitre Ier : Dispositions communes.](partie-legislative/quatrieme-partie/livre-ix/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Les personnels enseignants des lycées et collèges.](partie-legislative/quatrieme-partie/livre-ix/titre-iii/chapitre-ii.md) (6 articles)
+        - [Chapitre IV : Les personnels d'orientation.](partie-legislative/quatrieme-partie/livre-ix/titre-iii/chapitre-iv.md) (1 article)
+        - [Chapitre V : Les personnels de surveillance.](partie-legislative/quatrieme-partie/livre-ix/titre-iii/chapitre-v.md) (2 articles)
+        - [Chapitre VI : Les personnels des centres de formation d'apprentis.](partie-legislative/quatrieme-partie/livre-ix/titre-iii/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Les personnels de la formation continue.](partie-legislative/quatrieme-partie/livre-ix/titre-iii/chapitre-vii.md) (1 article)
+      - **Titre IV : Les personnels d'inspection et de direction**
+        - [Chapitre Ier : Les personnels d'inspection.](partie-legislative/quatrieme-partie/livre-ix/titre-iv/chapitre-ier.md) (1 article)
+      - **Titre V : Les personnels de l'enseignement supérieur**
+        - [Chapitre Ier : Dispositions communes.](partie-legislative/quatrieme-partie/livre-ix/titre-v/chapitre-ier.md) (7 articles)
+        - [Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs](partie-legislative/quatrieme-partie/livre-ix/titre-v/chapitre-ii.md) (35 articles)
+        - [Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service.](partie-legislative/quatrieme-partie/livre-ix/titre-v/chapitre-iii.md) (8 articles)
+        - [Chapitre IV : Dispositions applicables aux universités bénéficiant de responsabilités et de compétences élargies.](partie-legislative/quatrieme-partie/livre-ix/titre-v/chapitre-iv.md) (3 articles)
+      - **Titre VI : Les personnels des établissements d'enseignement spécialisés**
+        - [Chapitre Ier : Les personnels de l'enseignement agricole.](partie-legislative/quatrieme-partie/livre-ix/titre-vi/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Les personnels enseignants de l'architecture.](partie-legislative/quatrieme-partie/livre-ix/titre-vi/chapitre-ii.md) (1 article)
+      - **Titre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+        - [Chapitre V : Wallis-et-Futuna](partie-legislative/quatrieme-partie/livre-ix/titre-vii/chapitre-v.md) (2 articles)
+        - [Chapitre VI : Polynésie française](partie-legislative/quatrieme-partie/livre-ix/titre-vii/chapitre-vi.md) (2 articles)
+        - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/quatrieme-partie/livre-ix/titre-vii/chapitre-vii.md) (2 articles)
+- **Partie réglementaire**
+  - **Livre Ier : Principes généraux de l'éducation.**
+    - **Titre Ier : Le droit à l'éducation.**
+      - [Chapitre Ier : Dispositions générales.](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Dispositions particulières aux enfants et adolescents handicapés ou présentant une maladie chronique ou de longue durée](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions particulières aux enfants d'âge préscolaire.](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions relatives à l'obligation de formation](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (7 articles)
+    - **Titre II : Objectifs et missions du service public de l'enseignement.**
+      - [Chapitre Ier : Dispositions générales.](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Objectifs et missions de l'enseignement scolaire](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (21 articles)
+      - [Chapitre III : Objectifs et missions de l'enseignement supérieur](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (21 articles)
+      - [Chapitre IV : Stages et périodes de formation en milieu professionnel](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (14 articles)
+    - **Titre III : L'obligation et la gratuité scolaires.**
+      - [Chapitre Ier : L'obligation scolaire](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (44 articles)
+    - **Titre IV : La laïcité de l'enseignement public.**
+      - [Chapitre unique.](partie-reglementaire/livre-ier/titre-iv/chapitre-unique.md) (8 articles)
+    - **Titre VI : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-ier/titre-vi/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ier/titre-vi/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-ier/titre-vi/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-ier/titre-vi/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-ier/titre-vi/chapitre-vii.md) (2 articles)
+  - **Livre II : L'administration de l'éducation.**
+    - **Titre Ier : La répartition des compétences entre l'État et les collectivités territoriales.**
+      - [Chapitre Ier : Les compétences de l'Etat](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Les compétences des communes](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (37 articles)
+      - [Chapitre III : Les compétences des départements](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Les compétences des régions](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (13 articles)
+      - [Chapitre V : Les compétences de la collectivité de Corse.](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (1 article)
+      - [Chapitre VI : Les compétences communes aux collectivités territoriales.](partie-reglementaire/livre-ii/titre-ier/chapitre-vi.md) (19 articles)
+    - **Titre II : L'organisation des services de l'administration de l'éducation.**
+      - [Chapitre Ier : Les services de l'administration centrale.](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les services académiques et départementaux](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (69 articles)
+    - **Titre III : Les organismes collégiaux nationaux et locaux.**
+      - [Chapitre Ier : Le Conseil supérieur de l'éducation](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (16 articles)
+      - [Chapitre Ier bis : Le Conseil supérieur des programmes](partie-reglementaire/livre-ii/titre-iii/chapitre-ier-bis.md) (9 articles)
+      - [Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (54 articles)
+      - [Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Les conseils académiques de l'éducation nationale](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (39 articles)
+      - [Chapitre V : Les conseils départementaux de l'éducation nationale](partie-reglementaire/livre-ii/titre-iii/chapitre-v.md) (34 articles)
+      - [Chapitre VI : Dispositions communes aux organismes collégiaux nationaux et locaux.](partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : Les instances consultatives en matière de relations éducation-économie et de formation professionnelle.](partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md) (2 articles)
+      - [Chapitre VIII : Les instances consultatives en matière d'enseignement agricole](partie-reglementaire/livre-ii/titre-iii/chapitre-viii.md) (5 articles)
+      - [Chapitre IX : Les autres instances consultatives](partie-reglementaire/livre-ii/titre-iii/chapitre-ix.md) (35 articles)
+    - **Titre IV : L'inspection et l'évaluation de l'éducation.**
+      - [Chapitre Ier : L'exercice des missions d'inspection et d'évaluation](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (33 articles)
+      - [Chapitre Ier bis : Le conseil d'évaluation de l'école](partie-reglementaire/livre-ii/titre-iv/chapitre-ier-bis.md) (3 articles)
+      - [Chapitre II : Le Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur.](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+    - **Titre V : Dispositions relatives à l'outre-mer**
+      - [Chapitre I : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-ii/titre-v/chapitre-i.md) (22 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ii/titre-v/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Wallis et Futuna](partie-reglementaire/livre-ii/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-ii/titre-v/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-ii/titre-v/chapitre-vii.md) (2 articles)
+  - **Livre III : L'organisation des enseignements scolaires.**
+    - **Titre Ier : L'organisation générale des enseignements.**
+      - [Chapitre Ier : Dispositions communes.](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Dispositions propres à certaines matières d'enseignement.](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (55 articles)
+      - [Chapitre III : L'information et l'orientation.](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (51 articles)
+      - [Chapitre IV : La recherche, l'expérimentation et la documentation pédagogiques](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (56 articles)
+    - **Titre II : L'enseignement du premier degré.**
+      - [Chapitre unique](partie-reglementaire/livre-iii/titre-ii/chapitre-unique.md) (25 articles)
+    - **Titre III : Les enseignements du second degré.**
+      - [Chapitre Ier : Dispositions communes aux enseignements du second degré.](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (70 articles)
+      - [Chapitre II : Les enseignements dispensés dans les collèges.](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (28 articles)
+      - [Chapitre III : Dispositions communes aux enseignements dispensés dans les lycées.](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (21 articles)
+      - [Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général.](partie-reglementaire/livre-iii/titre-iii/chapitre-iv.md) (40 articles)
+      - [Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles.](partie-reglementaire/livre-iii/titre-iii/chapitre-v.md) (11 articles)
+      - [Chapitre VI : Dispositions propres aux formations technologiques.](partie-reglementaire/livre-iii/titre-iii/chapitre-vi.md) (36 articles)
+      - [Chapitre VII : Dispositions propres aux formations professionnelles.](partie-reglementaire/livre-iii/titre-iii/chapitre-vii.md) (198 articles)
+      - [Chapitre VIII : Autres diplômes et titres.](partie-reglementaire/livre-iii/titre-iii/chapitre-viii.md) (53 articles)
+    - **Titre IV : L'enseignement agricole et maritime.**
+      - [Chapitre Ier : L'enseignement agricole.](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (45 articles)
+      - [Chapitre II : L'enseignement maritime.](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (7 articles)
+    - **Titre V : Les enseignements pour les enfants et adolescents handicapés ou présentant une maladie chronique ou de longue durée**
+      - [Chapitre Ier : Scolarité.](partie-reglementaire/livre-iii/titre-v/chapitre-ier.md) (41 articles)
+      - [Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (1 article)
+    - **Titre VI : Les enseignements préparant aux professions artistiques et sportives.**
+      - [Chapitre Ier : Les formations dispensées dans les établissements d'enseignement artistique.](partie-reglementaire/livre-iii/titre-vi/chapitre-ier.md) (8 articles)
+      - [Chapitre II : L'enseignement de la danse.](partie-reglementaire/livre-iii/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.](partie-reglementaire/livre-iii/titre-vi/chapitre-iii.md) (3 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-iii/titre-vii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-iii/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-iii/titre-vii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-iii/titre-vii/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-iii/titre-vii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-iii/titre-vii/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-iii/titre-vii/chapitre-vii.md) (7 articles)
+  - **Livre IV : Les établissements d'enseignement scolaire.**
+    - **Titre Préliminaire : Dispositions communes**
+      - [Chapitre unique](partie-reglementaire/livre-iv/titre-preliminaire/chapitre-unique.md) (4 articles)
+    - **Titre Ier : Les écoles.**
+      - [Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires.](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (21 articles)
+      - [Chapitre II : Les écoles régionales du premier degré.](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (3 articles)
+    - **Titre II : Les collèges et les lycées.**
+      - [Chapitre Ier : Organisation et fonctionnement des établissements publics locaux d'enseignement.](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (172 articles)
+      - [Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement.](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (82 articles)
+      - [Chapitre III : Les groupements d'établissements scolaires publics.](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : Les écoles de métiers.](partie-reglementaire/livre-iv/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Les lycées de la défense.](partie-reglementaire/livre-iv/titre-ii/chapitre-v.md) (27 articles)
+      - [Chapitre VI : Le Centre national d'enseignement à distance.](partie-reglementaire/livre-iv/titre-ii/chapitre-vi.md) (24 articles)
+    - **Titre III : Les centres de formation d'apprentis.**
+      - [Chapitre unique : Création et fonctionnement des centres de formation d'apprentis et des unités de formation par apprentissage.](partie-reglementaire/livre-iv/titre-iii/chapitre-unique.md) (6 articles)
+    - **Titre IV : Les établissements d'enseignement privés.**
+      - [Chapitre Ier : Ouverture des établissements d'enseignement scolaire privés](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés.](partie-reglementaire/livre-iv/titre-iv/chapitre-ii.md) (85 articles)
+      - [Chapitre III : Les établissements d'enseignement technique privés.](partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Les établissements privés dispensant un enseignement à distance.](partie-reglementaire/livre-iv/titre-iv/chapitre-iv.md) (28 articles)
+    - **Titre V : Les établissements français d'enseignement à l'étranger.**
+      - [Chapitre Ier : Dispositions générales.](partie-reglementaire/livre-iv/titre-v/chapitre-ier.md) (28 articles)
+      - [Chapitre II : L'Agence pour l'enseignement français à l'étranger.](partie-reglementaire/livre-iv/titre-v/chapitre-ii.md) (21 articles)
+      - [Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne.](partie-reglementaire/livre-iv/titre-v/chapitre-iii.md) (51 articles)
+      - [Chapitre IV : Les établissements d'enseignement français en Principauté d'Andorre.](partie-reglementaire/livre-iv/titre-v/chapitre-iv.md) (34 articles)
+      - [Chapitre V : Les écoles européennes.](partie-reglementaire/livre-iv/titre-v/chapitre-v.md) (2 articles)
+    - **Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives.**
+      - [Chapitre Ier : Les établissements d'enseignement artistique.](partie-reglementaire/livre-iv/titre-vi/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Les établissements d'enseignement de la danse.](partie-reglementaire/livre-iv/titre-vi/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Les établissements de formation aux professions des activités physiques et sportives.](partie-reglementaire/livre-iv/titre-vi/chapitre-iii.md) (1 article)
+    - **Titre VII : Dispositions communes.**
+      - [Titre VII : Dispositions communes. : articles rattachés directement](partie-reglementaire/livre-iv/titre-vii/articles-directs.md) (4 articles)
+      - [Chapitre Ier : Publicité et démarchage.](partie-reglementaire/livre-iv/titre-vii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Dispositions pénales.](partie-reglementaire/livre-iv/titre-vii/chapitre-ii.md) (1 article)
+    - **Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.**
+      - [Chapitre unique.](partie-reglementaire/livre-iv/titre-viii/chapitre-unique.md) (8 articles)
+    - **Titre IX : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-iv/titre-ix/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-iv/titre-ix/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-iv/titre-ix/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-iv/titre-ix/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-iv/titre-ix/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-iv/titre-ix/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-iv/titre-ix/chapitre-vii.md) (2 articles)
+  - **Livre V : La vie scolaire**
+    - **Titre Ier : Les droits et obligations des élèves**
+      - [Chapitre unique](partie-reglementaire/livre-v/titre-ier/chapitre-unique.md) (79 articles)
+    - **Titre II : L'organisation du temps et de l'espace scolaires**
+      - [Chapitre unique](partie-reglementaire/livre-v/titre-ii/chapitre-unique.md) (16 articles)
+    - **Titre III : Les aides à la scolarité**
+      - [Chapitre Ier : L’aide à la scolarité et les bourses nationales](partie-reglementaire/livre-v/titre-iii/chapitre-ier.md) (52 articles)
+      - [Chapitre II : L’allocation de rentrée scolaire](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre IV : La santé scolaire**
+      - [Chapitre Ier : La protection de la santé](partie-reglementaire/livre-v/titre-iv/chapitre-ier.md) (10 articles)
+      - [Chapitre II : La prévention des mauvais traitements](partie-reglementaire/livre-v/titre-iv/chapitre-ii.md) (1 article)
+    - **Titre V : Les activités périscolaires, sportives et culturelles**
+      - [Chapitre Ier : Les activités périscolaires](partie-reglementaire/livre-v/titre-v/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Les activités physiques et sportives](partie-reglementaire/livre-v/titre-v/chapitre-ii.md) (2 articles)
+    - **Titre VI : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-v/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-v/titre-vi/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-v/titre-vi/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-v/titre-vi/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-v/titre-vi/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-v/titre-vi/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-v/titre-vi/chapitre-vii.md) (2 articles)
+  - **Livre VI : L'organisation des enseignements supérieurs**
+    - **Titre Ier : L'organisation générale des enseignements**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-vi/titre-ier/chapitre-ier.md) (20 articles)
+      - [Chapitre II : Accès aux études supérieures](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (34 articles)
+      - [Chapitre II bis : Déroulement des études supérieures](partie-reglementaire/livre-vi/titre-ier/chapitre-ii-bis.md) (70 articles)
+      - [Chapitre III : Collation des grades et titres universitaires](partie-reglementaire/livre-vi/titre-ier/chapitre-iii.md) (58 articles)
+      - [Chapitre IV : Programmation et développement des formations supérieures](partie-reglementaire/livre-vi/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre III : Les formations de santé**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md) (41 articles)
+      - [Chapitre II : Les études médicales](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (92 articles)
+      - [Chapitre III : Les études pharmaceutiques](partie-reglementaire/livre-vi/titre-iii/chapitre-iii.md) (48 articles)
+      - [Chapitre IV : Les études odontologiques](partie-reglementaire/livre-vi/titre-iii/chapitre-iv.md) (24 articles)
+      - [Chapitre V : Les études de maïeutique](partie-reglementaire/livre-vi/titre-iii/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Les autres formations de santé](partie-reglementaire/livre-vi/titre-iii/chapitre-vi.md) (52 articles)
+    - **Titre IV : Les formations technologiques**
+      - [Chapitre II : Les formations technologiques longues](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (103 articles)
+      - [Chapitre III : Les formations technologiques courtes](partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md) (50 articles)
+    - **Titre V : Les formations dans les instituts et écoles extérieurs aux universités, les écoles normales supérieures et les grands établissements**
+      - [Chapitre Ier : Les formations dans les écoles et instituts extérieurs aux universités](partie-reglementaire/livre-vi/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les formations dans les écoles normales supérieures](partie-reglementaire/livre-vi/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Les formations dans les grands établissements](partie-reglementaire/livre-vi/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VII : Les formations dans les autres établissements d'enseignement supérieur**
+      - [Chapitre Ier : L'enseignement supérieur agricole et vétérinaire public](partie-reglementaire/livre-vi/titre-vii/chapitre-ier.md) (1 article)
+      - [Chapitre II : L'enseignement de l'architecture](partie-reglementaire/livre-vi/titre-vii/chapitre-ii.md) (24 articles)
+      - [Chapitre IV : L'enseignement dans les écoles nationales des mines](partie-reglementaire/livre-vi/titre-vii/chapitre-iv.md) (1 article)
+      - [Chapitre V : L'enseignement dans les écoles supérieures militaires](partie-reglementaire/livre-vi/titre-vii/chapitre-v.md) (20 articles)
+      - [Chapitre VI : L'enseignement dans les écoles sanitaires et sociales](partie-reglementaire/livre-vi/titre-vii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : L'enseignement dans les écoles de la marine marchande](partie-reglementaire/livre-vi/titre-vii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : L'enseignement à l'Ecole nationale de l'aviation civile](partie-reglementaire/livre-vi/titre-vii/chapitre-viii.md) (1 article)
+    - **Titre VIII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-vi/titre-viii/chapitre-ier.md) (8 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-vi/titre-viii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-vi/titre-viii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-vi/titre-viii/chapitre-vii.md) (2 articles)
+  - **Livre VII : Les établissements d'enseignement supérieur**
+    - **Titre Ier : Les établissements publics à caractère scientifique, culturel et professionnel**
+      - [Chapitre Ier : Principes relatifs à la création et à l'autonomie des établissements publics à caractère scientifique, culturel et professionnel](partie-reglementaire/livre-vii/titre-ier/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Les universités](partie-reglementaire/livre-vii/titre-ier/chapitre-ii.md) (44 articles)
+      - [Chapitre III : Les composantes des universités](partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md) (22 articles)
+      - [Chapitre IV : Les services communs](partie-reglementaire/livre-vii/titre-ier/chapitre-iv.md) (105 articles)
+      - [Chapitre V : Les instituts et les écoles ne faisant pas partie des universités](partie-reglementaire/livre-vii/titre-ier/chapitre-v.md) (20 articles)
+      - [Chapitre VI : Les écoles normales supérieures](partie-reglementaire/livre-vii/titre-ier/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Les grands établissements](partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md) (11 articles)
+      - [Chapitre VIII : Les écoles françaises à l'étranger](partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md) (4 articles)
+      - [Chapitre VIII bis : Coopération et regroupements des établissements](partie-reglementaire/livre-vii/titre-ier/chapitre-viii-bis.md) (1 article)
+      - [Chapitre IX : Dispositions communes](partie-reglementaire/livre-vii/titre-ier/chapitre-ix.md) (113 articles)
+    - **Titre II : Etablissements de formation des personnels enseignants et d'éducation**
+      - [Chapitre Ier : Organisation des instituts nationaux supérieurs du professorat et de l'éducation](partie-reglementaire/livre-vii/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'integration scolaire](partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : Les établissements d'enseignement supérieur privés**
+      - [Chapitre Ier : Ouverture des établissements d'enseignement supérieur privés](partie-reglementaire/livre-vii/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Rapports entre l'Etat et les établissements d'enseignement supérieur privés à but non lucratif](partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md) (8 articles)
+    - **Titre IV : Les établissements d'enseignement supérieur à caractère administratif placés sous la tutelle du ministre chargé de l'enseignement supérieur**
+      - [Chapitre unique](partie-reglementaire/livre-vii/titre-iv/chapitre-unique.md) (10 articles)
+    - **Titre V : Les établissements d'enseignement supérieur spécialisés**
+      - [Chapitre Ier : Les établissements d'enseignement supérieur agricole et vétérinaire](partie-reglementaire/livre-vii/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les écoles d'architecture](partie-reglementaire/livre-vii/titre-v/chapitre-ii.md) (5 articles)
+      - [Chapitre IV : Les établissements sous tutelle des ministères chargés de la justice, de l'intérieur, de l'industrie, du développement durable, de l'énergie et des sports](partie-reglementaire/livre-vii/titre-v/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Les écoles supérieures militaires](partie-reglementaire/livre-vii/titre-v/chapitre-v.md) (1 article)
+      - [Chapitre VI : Les écoles sanitaires et sociales](partie-reglementaire/livre-vii/titre-v/chapitre-vi.md) (1 article)
+      - [Chapitre VII : L'Ecole nationale supérieure maritime](partie-reglementaire/livre-vii/titre-v/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : La Fondation nationale des sciences politiques](partie-reglementaire/livre-vii/titre-v/chapitre-viii.md) (1 article)
+      - [Chapitre IX : Les établissements d'enseignement supérieur de la création artistique dans les domaines du spectacle vivant et des arts plastiques](partie-reglementaire/livre-vii/titre-v/chapitre-ix.md) (16 articles)
+      - [Chapitre X : Les établissements d'enseignement supérieur de la création artistique dans les domaines du cinéma et de la communication audiovisuelle](partie-reglementaire/livre-vii/titre-v/chapitre-x.md) (1 article)
+    - **Titre VI : Dispositions communes**
+      - [Chapitre II : Dispositions communes aux établissements publics](partie-reglementaire/livre-vii/titre-vi/chapitre-ii.md) (21 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-vii/titre-vii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-vii/titre-vii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-vii/titre-vii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-vii/titre-vii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-vii/titre-vii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-vii/titre-vii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-vii/titre-vii/chapitre-vii.md) (2 articles)
+  - **Livre VIII : La vie universitaire**
+    - **Titre Ier : Les droits et obligations des usagers du service public de l'enseignement supérieur**
+      - [Chapitre unique.](partie-reglementaire/livre-viii/titre-ier/chapitre-unique.md) (50 articles)
+    - **Titre II : Les aides aux étudiants et les œuvres universitaires**
+      - [Chapitre Ier : Les aides aux étudiants](partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Les œuvres universitaires](partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md) (37 articles)
+    - **Titre III : La santé et la protection sociale des étudiants**
+      - [Chapitre Ier : La santé universitaire](partie-reglementaire/livre-viii/titre-iii/chapitre-ier.md) (2 articles)
+    - **Titre IV : Les activités péri-universitaires, sportives et culturelles**
+      - [Chapitre unique.](partie-reglementaire/livre-viii/titre-iv/chapitre-unique.md) (10 articles)
+    - **Titre V : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-viii/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-viii/titre-v/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-viii/titre-v/chapitre-vi.md) (6 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-viii/titre-v/chapitre-vii.md) (6 articles)
+  - **Livre IX : Les personnels de l'éducation.**
+    - **Titre Ier : Dispositions générales.**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-ix/titre-ier/chapitre-ier.md) (95 articles)
+      - [Chapitre II : Dispositions propres aux personnels enseignants](partie-reglementaire/livre-ix/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions propres aux personnels administratifs, techniques, ouvriers, sociaux, de santé et de service](partie-reglementaire/livre-ix/titre-ier/chapitre-iii.md) (3 articles)
+      - [Chapitre III bis : Dispositions propres aux personnels des établissements d'enseignement scolaire privés](partie-reglementaire/livre-ix/titre-ier/chapitre-iii-bis.md) (11 articles)
+      - [Chapitre III ter : Dispositions propres aux personnels des établissements d'enseignement supérieur technique privés](partie-reglementaire/livre-ix/titre-ier/chapitre-iii-ter.md) (13 articles)
+      - [Chapitre IV : Dispositions propres aux personnels exerçant dans des classes sous contrat des établissements d'enseignement privés](partie-reglementaire/livre-ix/titre-ier/chapitre-iv.md) (225 articles)
+      - [Chapitre VI : Dispositions relatives aux assistants d'éducation et aux accompagnants des élèves en situation de handicap](partie-reglementaire/livre-ix/titre-ier/chapitre-vi.md) (2 articles)
+    - **Titre II : Les personnels du premier degré**
+      - [Chapitre unique.](partie-reglementaire/livre-ix/titre-ii/chapitre-unique.md) (5 articles)
+    - **Titre III : Les personnels du second degré**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-ix/titre-iii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Les personnels enseignants des lycées et collèges](partie-reglementaire/livre-ix/titre-iii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Les personnels d'éducation](partie-reglementaire/livre-ix/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Les personnels d'orientation](partie-reglementaire/livre-ix/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Les personnels de surveillance](partie-reglementaire/livre-ix/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VII : Les personnels de la formation continue](partie-reglementaire/livre-ix/titre-iii/chapitre-vii.md) (3 articles)
+    - [Titre IV : Les personnels d'inspection et de direction](partie-reglementaire/livre-ix/titre-iv.md) (1 article)
+    - **Titre V : Les personnels de l'enseignement supérieur**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-ix/titre-v/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Les enseignants-chercheurs, les enseignants et les chercheurs](partie-reglementaire/livre-ix/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service](partie-reglementaire/livre-ix/titre-v/chapitre-iii.md) (9 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte](partie-reglementaire/livre-ix/titre-vii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-ix/titre-vii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-ix/titre-vii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ix/titre-vii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-ix/titre-vii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-ix/titre-vii/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-ix/titre-vii/chapitre-vii.md) (2 articles)

@@ -41,7 +41,7 @@ Les mesures conservatoires peuvent être demandées :
 - Identifiant : LEGIARTI000039386454
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039386454
-- Cité par : [art. R218 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403763)
+- Cité par : [art. R218 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-iii.md#article-r218)
 
 La demande est portée devant le président du tribunal judiciaire dans le ressort duquel est ouverte la succession qui statue par ordonnance sur requête. Le ministère d'avocat n'est pas obligatoire.
 
@@ -410,7 +410,7 @@ Les demandes de l'héritier acceptant à concurrence de l'actif net contre la su
 - État : en vigueur depuis le 01/11/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033748033
 - Renvoie à : [art. 792 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-iv.md#article-792)
-- Cité par : [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455) ; [art. R123-24 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051930978)
+- Cité par : [art. R123-24 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-24) ; [Arrêté du 9 novembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021246455)
 
 A l'issue du délai de quinze mois prévu à l'article 792 du code civil, après soit le désintéressement de tous les créanciers déclarés, soit l'épuisement de l'actif et l'affectation des sommes correspondantes au paiement des créanciers, l'héritier ou le notaire chargé du règlement de la succession dépose au greffe le compte de l'administration.
 
@@ -530,7 +530,7 @@ La déclaration des créances est faite par lettre recommandée avec demande d'a
 - Identifiant : LEGIARTI000026459744
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459744
-- Renvoie à : [art. 1271 du Code de procédure civile](../titre-ii/chapitre-iv.md#article-1271) ; [art. R221-33 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938654) ; [art. R221-39 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938667)
+- Renvoie à : [art. 1271 du Code de procédure civile](../titre-ii/chapitre-iv.md#article-1271) ; [art. R221-33 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-33) ; [art. R221-39 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-39)
 - Cité par : [Arrêté du 23 février 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036686798)
 
 Lorsque la vente des biens dépendant de la succession n'est pas faite dans les formes prévues par le code général de la propriété des personnes publiques pour l'aliénation, à titre onéreux, du domaine immobilier ou du domaine mobilier appartenant à l'Etat, elle est réalisée, pour les immeubles, selon les règles prévues aux articles 1271 à 1281 et, pour les meubles, dans les formes prévues aux articles R. 221-33 à R. 221-38 et R. 221-39 du code des procédures civiles d'exécution.
@@ -574,6 +574,7 @@ A défaut d'héritier connu, la réalisation peut, à l'expiration d'un délai d
 - Identifiant : LEGIARTI000006412516
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412516
+- Renvoie à : art. L77 du Code du domaine de l'Etat
 
 Un arrêté du ministre de l'économie, des finances et de l'industrie fixe, dans les conditions prévues par l'article L. 77 du code du domaine de l'Etat, le taux et l'imputation du prélèvement opéré au profit du Trésor pour frais d'administration, de gestion et de vente.
 
@@ -584,7 +585,7 @@ Un arrêté du ministre de l'économie, des finances et de l'industrie fixe, dan
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412517
 - Renvoie à : [art. 811 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-v.md#article-811)
-- Cité par : [art. R1122-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024884600)
+- Cité par : [art. R1122-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-reglementaire/premiere-partie/livre-ier/titre-ii/chapitre-ii.md#article-r1122-1)
 
 L'administration chargée des domaines est dispensée de recourir au ministère d'avocat pour demander l'envoi en possession prévu à l'article 811 du code civil.  
 
@@ -734,7 +735,7 @@ Les demandes formées en application des articles 772, 794, 810-5, 812-3, 813-1,
 - Identifiant : LEGIARTI000039383317
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039383317
-- Renvoie à : [art. 811 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-v.md#article-811) ; [art. 820 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-820) ; [art. 824 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-824) ; [art. 832-1 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-832-1) ; [art. 887 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-887) ; [art. 1026 du Code civil](../../../code-civil/livre-iii/titre-ii/chapitre-v.md#article-1026) ; art. L213-3 du Code de l'organisation judiciaire
+- Renvoie à : [art. 811 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-v.md#article-811) ; [art. 820 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-820) ; [art. 821 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-821) ; [art. 821-1 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-821-1) ; [art. 824 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-824) ; [art. 832-1 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-832-1) ; [art. 832-2 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-832-2) ; [art. 832-3 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-832-3) ; [art. 887 du Code civil](../../../code-civil/livre-iii/titre-ier/chapitre-viii.md#article-887) ; [art. 1026 du Code civil](../../../code-civil/livre-iii/titre-ii/chapitre-v.md#article-1026) ; [art. L213-3 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-iii.md#article-l213-3)
 
 Les demandes formées en application des articles 811, 820, 821, 821-1, 824, 832-1, 832-2, 832-3,
 887,

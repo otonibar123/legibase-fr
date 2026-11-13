@@ -8,7 +8,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006443690
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006443690
-- Cité par : [art. L421-1 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583976) ; [Décret n°2007-1516 du 22 octobre 2007, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019711110)
+- Cité par : [art. L421-1 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ii.md#article-l421-1) ; [Décret n°2007-1516 du 22 octobre 2007, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019711110)
 
 Le bail à cheptel est un contrat par lequel l'une des parties donne à l'autre un fonds de bétail pour le garder, le nourrir et le soigner, sous les conditions convenues entre elles.
 

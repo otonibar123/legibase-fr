@@ -169,7 +169,7 @@ Le contrat conclu en violation de la promesse unilatérale avec un tiers qui en 
 - Identifiant : LEGIARTI000032040830
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040830
-- Cité par : [art. 1127-4 du Code civil](chapitre-ii.md#article-1127-4) ; [art. R211-3-1 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033201769) ; [art. R211-6 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033201756)
+- Cité par : [art. 1127-4 du Code civil](chapitre-ii.md#article-1127-4) ; [art. R211-3-1 du Code du tourisme](../../../../code-du-tourisme/partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md#article-r211-3-1) ; [art. R211-6 du Code du tourisme](../../../../code-du-tourisme/partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md#article-r211-6)
 
 La voie électronique peut être utilisée pour mettre à disposition des stipulations contractuelles ou des informations sur des biens ou services.
 
@@ -185,7 +185,7 @@ Les informations qui sont demandées en vue de la conclusion d'un contrat ou cel
 - Identifiant : LEGIARTI000032040916
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040916
-- Cité par : [art. L192-7 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795196)
+- Cité par : [art. L192-7 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ix/chapitre-ii.md#article-l192-7)
 
 Les informations destinées à un professionnel peuvent lui être adressées par courrier électronique, dès lors qu'il a communiqué son adresse électronique.
 
@@ -195,7 +195,7 @@ Si ces informations doivent être portées sur un formulaire, celui-ci est mis, 
 - Identifiant : LEGIARTI000032007504
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032007504
-- Cité par : [art. 1127-3 du Code civil](chapitre-ii.md#article-1127-3) ; [art. L211-1 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032043031)
+- Cité par : [art. 1127-3 du Code civil](chapitre-ii.md#article-1127-3) ; [art. L211-1 du Code du tourisme](../../../../code-du-tourisme/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-1)
 
 Quiconque propose à titre professionnel, par voie électronique, la fourniture de biens ou la prestation de services, met à disposition les stipulations contractuelles applicables d'une manière qui permette leur conservation et leur reproduction.
 
@@ -251,7 +251,7 @@ Si une disposition prévoit que l'écrit doit être lu au destinataire, la remis
 - Identifiant : LEGIARTI000032040911
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032040911
-- Cité par : [art. L192-7 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795196)
+- Cité par : [art. L192-7 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-ix/chapitre-ii.md#article-l192-7)
 
 Sont nécessaires à la validité d'un contrat :
 
@@ -314,7 +314,7 @@ L'acceptation d'un aléa sur une qualité de la prestation exclut l'erreur relat
 - Identifiant : LEGIARTI000032041008
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041008
-- Cité par : [art. L422-2-1 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033972874) ; [art. L7 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006465336) ; [art. L8 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006465339)
+- Cité par : [art. L422-2-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-ii/chapitre-ii.md#article-l422-2-1) ; [art. L7 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l7) ; [art. L8 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l8)
 
 L'erreur sur les qualités essentielles du cocontractant n'est une cause de nullité que dans les contrats conclus en considération de la personne.
 
@@ -624,7 +624,7 @@ Lorsque la qualité de la prestation n'est pas déterminée ou déterminable en 
 - Identifiant : LEGIARTI000032041130
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041130
-- Cité par : [art. 794 du Code civil](../../titre-ier/chapitre-iv.md#article-794) ; [art. 1397 du Code civil](../../titre-v/chapitre-ier.md#article-1397) ; [art. 1578 du Code civil](../../titre-v/chapitre-iv.md#article-1578) ; [art. L132-14 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028312164)
+- Cité par : [art. 794 du Code civil](../../titre-ier/chapitre-iv.md#article-794) ; [art. 1397 du Code civil](../../titre-v/chapitre-ier.md#article-1397) ; [art. 1578 du Code civil](../../titre-v/chapitre-iv.md#article-1578) ; [art. L132-14 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-14)
 
 Lorsque le prix ou tout autre élément du contrat doit être déterminé par référence à un indice qui n'existe pas ou a cessé d'exister ou d'être accessible, celui-ci est remplacé par l'indice qui s'en rapproche le plus.
 
@@ -709,7 +709,7 @@ Il est fait exception aux dispositions de l'article précédent pour les actes s
 - Identifiant : LEGIARTI000032041168
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041168
-- Cité par : [art. R211-3-1 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033201769) ; [art. R211-6 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033201756)
+- Cité par : [art. R211-3-1 du Code du tourisme](../../../../code-du-tourisme/partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md#article-r211-3-1) ; [art. R211-6 du Code du tourisme](../../../../code-du-tourisme/partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md#article-r211-6)
 
 Lorsque l'écrit sur papier est soumis à des conditions particulières de lisibilité ou de présentation, l'écrit électronique doit répondre à des exigences équivalentes.
 
@@ -719,7 +719,7 @@ L'exigence d'un formulaire détachable est satisfaite par un procédé électron
 - Identifiant : LEGIARTI000032041163
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041163
-- Cité par : [art. R211-3-1 du Code du tourisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033201769)
+- Cité par : [art. R211-3-1 du Code du tourisme](../../../../code-du-tourisme/partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md#article-r211-3-1)
 
 L'exigence d'un envoi en plusieurs exemplaires est réputée satisfaite par voie électronique si l'écrit peut être imprimé par le destinataire.
 
@@ -788,7 +788,7 @@ La confirmation emporte renonciation aux moyens et exceptions qui pouvaient êtr
 - Identifiant : LEGIARTI000032041218
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041218
-- Cité par : [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022335768) ; [Ordonnance n°2016-131 du 10 février 2016, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036829913)
+- Cité par : [art. 1961 du Code général des impôts](../../../../code-general-des-impots/livre-ii/chapitre-v.md#article-1961) ; [Ordonnance n°2016-131 du 10 février 2016, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036829913)
 
 Une partie peut demander par écrit à celle qui pourrait se prévaloir de la nullité soit de confirmer le contrat soit d'agir en nullité dans un délai de six mois à peine de forclusion. La cause de la nullité doit avoir cessé.
 
@@ -800,7 +800,7 @@ L'écrit mentionne expressément qu'à défaut d'action en nullité exercée ava
 - Identifiant : LEGIARTI000032041210
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041210
-- Cité par : [art. 1961 du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006314073) ; [Loi n°67-1253 du 30 décembre 1967, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006465270)
+- Cité par : [art. 1961 du Code général des impôts](../../../../code-general-des-impots/livre-ii/chapitre-v.md#article-1961) ; [Loi n°67-1253 du 30 décembre 1967, art. 53](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006465270)
 
 Lorsque la cause de nullité n'affecte qu'une ou plusieurs clauses du contrat, elle n'emporte nullité de l'acte tout entier que si cette ou ces clauses ont constitué un élément déterminant de l'engagement des parties ou de l'une d'elles.
 

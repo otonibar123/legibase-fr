@@ -187,6 +187,6 @@ La direction générale du travail :
 - Identifiant : LEGIARTI000028753071
 - État : en vigueur depuis le 01/01/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028753071
-- Cité par : [art. R8113-3-3 du Code du travail](../titre-ier/chapitre-iii.md#article-r8113-3-3) ; [art. R8122-3 du Code du travail](chapitre-ii.md#article-r8122-3) ; [art. R8124-4 du Code du travail](chapitre-iv.md#article-r8124-4) ; [Arrêté du 24 juin 2024, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049813811) ; [art. R3120-40 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045495205)
+- Cité par : [art. R3120-40 du Code des transports](../../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-ier/titre-ii/chapitre-preliminaire.md#article-r3120-40) ; [art. R8113-3-3 du Code du travail](../titre-ier/chapitre-iii.md#article-r8113-3-3) ; [art. R8122-3 du Code du travail](chapitre-ii.md#article-r8122-3) ; [art. R8124-4 du Code du travail](chapitre-iv.md#article-r8124-4) ; [Arrêté du 24 juin 2024, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049813811)
 
 Le groupe national de veille, d'appui et de contrôle mène ou apporte un appui à des opérations qui nécessitent une expertise particulière, un accompagnement des services, un contrôle spécifique ou une coordination des contrôles. Des inspecteurs et contrôleurs du travail y sont affectés. Il est placé sous l'autorité d'un inspecteur du travail.

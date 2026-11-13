@@ -66,7 +66,7 @@ Pour l'accomplissement des missions qui lui sont confiées, l'Autorité des rela
 - Identifiant : LEGIARTI000048849204
 - État : en vigueur depuis le 31/12/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048849204
-- Renvoie à : [art. L7345-1 du Code du travail](chapitre-v.md#article-l7345-1)
+- Renvoie à : [art. L453-35 du Code des impositions sur les biens et services](../../../../../code-des-impositions-sur-les-biens-et-services/partie-legislative/livre-iv/titre-v/chapitre-iii.md#article-l453-35) ; [art. L7345-1 du Code du travail](chapitre-v.md#article-l7345-1)
 - Cité par : [art. R7345-17 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-v.md#article-r7345-17) ; [art. L453-44 du Code des impositions sur les biens et services](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053151159) ; [LOI n°2025-127 du 14 février 2025, art. 125](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053563909)
 
 Pour le financement de la mission mentionnée à l'article L. 7345-1, le produit de la taxe sur la mise en relation par voie électronique en vue de fournir certaines prestations de transport mentionnée à l'article L. 453-35 du code des impositions sur les biens et services est affecté à l'Autorité des relations sociales des plateformes d'emploi. La taxe est affectée dans la limite d'un plafond annuel.

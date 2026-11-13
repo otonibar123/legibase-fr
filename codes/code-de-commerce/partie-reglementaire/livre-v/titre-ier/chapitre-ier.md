@@ -23,8 +23,8 @@ La somme déposée est remise par la Caisse des dépôts et consignations en con
 - Identifiant : LEGIARTI000006267782
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006267782
-- Renvoie à : [art. L511-55 du Code de commerce](../../../partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-55) ; [art. L131-64 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006645281)
-- Cité par : [art. R131-10 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006678784) ; [art. R131-49 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046074334)
+- Renvoie à : [art. L511-55 du Code de commerce](../../../partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-55) ; [art. L131-64 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-64)
+- Cité par : [art. R131-10 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md#article-r131-10) ; [art. R131-49 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md#article-r131-49)
 
 Les notaires et les huissiers de justice remettent, conformément à l'article L. 511-55 du code de commerce et à l'article L. 131-64 du code monétaire et financier, deux copies des protêts, faute de paiement de lettres de change acceptées ou de billet à ordre, et trois copies des protêts, faute de paiement de chèques, ou envoient par lettre recommandée, sous pli distinct pour chacun d'eux, une copie des protêts, faute de paiement de lettres de change acceptées ou de billet à ordre, et deux copies des protêts, faute de paiement des chèques, au greffier du tribunal de commerce dans le ressort duquel est situé le domicile de l'accepteur de la lettre de change, du souscripteur du billet à ordre ou du tireur du chèque.
 

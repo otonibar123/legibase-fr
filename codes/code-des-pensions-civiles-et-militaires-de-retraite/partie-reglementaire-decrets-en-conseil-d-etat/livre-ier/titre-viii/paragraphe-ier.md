@@ -1,0 +1,19 @@
+# Paragraphe Ier : Concession et révision de la pension.
+
+Code des pensions civiles et militaires de retraite › Partie réglementaire - Décrets en Conseil d'Etat › Livre Ier : Dispositions générales relatives au régime général des retraites. › Titre VIII : Dispositions d'ordre et diverses.
+
+### Article R65
+- Identifiant : LEGIARTI000022752945
+- État : en vigueur depuis le 31/12/2012
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022752945
+- Cité par : [art. D21-1 du Code des pensions civiles et militaires de retraite](../../../partie-reglementaire-decrets-simples/livre-ier/titre-viii/paragraphe-ier.md#article-d21-1) ; [art. R99 du Code des pensions civiles et militaires de retraite](../../livre-iii/chapitre-ier.md#article-r99) ; [ARRÊTÉ du 17 décembre 2014, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039431211) ; [ARRÊTÉ du 21 août 2015, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031120459) ; [ARRÊTÉ du 3 octobre 2014, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029576264) ; [ARRÊTÉ du 7 novembre 2014, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029786647) ; [Arrêté du 12 décembre 2012, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026793064) ; [Arrêté du 14 décembre 2012, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026840730) ; [Arrêté du 17 décembre 2012, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026808582) ; [Arrêté du 17 février 2014, art. 23](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043022673) ; [Arrêté du 19 décembre 2012, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026836458) ; [Arrêté du 21 décembre 2012, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026836445) ; … et 5 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+
+Le service chargé de la mise en œuvre de la gestion administrative et financière du régime de retraite et d'invalidité des fonctionnaires civils et militaires de l'Etat constitue, pour chaque fonctionnaire, magistrat et militaire, à compter de la date de son affiliation au régime du présent code, un compte individuel de retraite.A partir de ce compte et après contrôle des informations y figurant, ainsi que, le cas échéant, des durées d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs autres régimes de retraite de base obligatoires, la pension de l'intéressé ou celle de ses ayants cause ou, le cas échéant, la rente viagère d'invalidité est liquidée et concédée par arrêté du ministre chargé du budget.
+
+Les administrations ou établissements de l'Etat ou tous autres organismes employeurs de fonctionnaires de l'Etat, magistrats et militaires transmettent au service mentionné au premier alinéa, dans des conditions fixées par décret, tout au long de la carrière des intéressés, les informations à porter à leur compte individuel de retraite.
+
+Le décompte détaillé de la liquidation est adressé à chaque intéressé en même temps que son titre de pension.
+
+> Nota : Décret n° 2010-981 du 26 août 2010, art. 2 : Les dispositions de l'article 1er du présent décret prennent effet à l'égard des employeurs de fonctionnaires, magistrats et militaires à une date et selon les modalités fixées par arrêté conjoint des ministres chargés du budget et de la fonction publique et du ministre concerné et au plus tard le 31 décembre 2012.
+> 
+> Jusqu'aux dates fixées par les arrêtés mentionnés à l'alinéa précédent, la pension ou la rente viagère d'invalidité des agents des employeurs en cause est liquidée et concédée selon les modalités prévues à l'article R. 65 du code des pensions civiles et militaires de retraite dans sa rédaction antérieure à l'entrée en vigueur du présent décret.

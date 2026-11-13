@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE V : Des effets de commerce et
 - Identifiant : LEGIARTI000006233040
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233040
-- Cité par : [art. L132-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020968592)
+- Cité par : [art. L132-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-1)
 
 I. - La lettre de change contient :  
 
@@ -131,7 +131,7 @@ Qu'il y ait ou non acceptation, le tireur seul est tenu de prouver, en cas de d�
 - Identifiant : LEGIARTI000006233194
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233194
-- Cité par : [art. L512-3 du Code de commerce](chapitre-ii.md#article-l512-3) ; [art. D211-15 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020405344) ; [art. D754-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006643254) ; [art. L313-32 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027643222) ; [art. L313-38 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006652156)
+- Cité par : [art. L512-3 du Code de commerce](chapitre-ii.md#article-l512-3) ; [art. D211-15 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-d211-15) ; [art. L313-32 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-32) ; [art. L313-38 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-38) ; [art. D754-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006643254)
 
 Toute lettre de change, même non expressément tirée à ordre, est transmissible par la voie de l'endossement.  
 
@@ -436,7 +436,7 @@ Si le montant de la lettre de change est indiqué dans une monnaie ayant la mêm
 - Identifiant : LEGIARTI000006233279
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233279
-- Cité par : [art. R511-1 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-1) ; [art. L312-5 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049463757) ; [Loi n°2001-420 du 15 mai 2001, art. 27](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006516408)
+- Cité par : [art. R511-1 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-1) ; [art. L312-5 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-5) ; [Loi n°2001-420 du 15 mai 2001, art. 27](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006516408)
 
 A défaut de présentation de la lettre de change au paiement le jour de son échéance, ou l'un des deux jours ouvrables qui suivent, tout débiteur a la faculté d'en remettre le montant en dépôt à la Caisse des dépôts et consignations, aux frais, risques et périls du porteur.
 
@@ -551,7 +551,7 @@ Si le règlement est effectué au moyen d'un mandat de virement et si celui-ci e
 - Identifiant : LEGIARTI000006233290
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233290
-- Renvoie à : [art. L511-33 du Code de commerce](chapitre-ier.md#article-l511-33) ; [art. 314-1 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418212) ; [art. 314-10 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418229)
+- Renvoie à : [art. L511-33 du Code de commerce](chapitre-ier.md#article-l511-33) ; [art. 314-1 du Code pénal](../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-314-1) ; [art. 314-10 du Code pénal](../../../../code-penal/partie-legislative/livre-iii/titre-ier/chapitre-iv.md#article-314-10)
 
 Lorsque le dernier jour du délai accordé pour l'accomplissement de l'acte de notification de la non-exécution du mandat de virement ou du chèque postal est un jour férié légal, ce délai est prorogé jusqu'au premier jour ouvrable qui en suit l'expiration. Les jours fériés intermédiaires sont compris dans la computation du délai. Aux jours fériés légaux sont assimilés les jours où, aux termes des lois en vigueur, aucun paiement ne peut être exigé ni aucun protêt dressé.  
 
@@ -703,7 +703,7 @@ Ne sont point considérés comme constituant des cas de force majeure les faits 
 - Identifiant : LEGIARTI000006233302
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233302
-- Cité par : [art. L215-7 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038274821)
+- Cité par : [art. Annexe Tableau IV-III du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-iii) ; [art. L215-7 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-v.md#article-l215-7)
 
 Indépendamment des formalités prescrites pour l'exercice de l'action en garantie, le porteur d'une lettre de change protestée faute de paiement peut, en obtenant la permission du juge, saisir conservatoirement les effets mobiliers des tireurs, accepteurs et endosseurs.
 
@@ -759,7 +759,7 @@ Les notaires et les huissiers sont tenus, à peine de destitution, dépens, domm
 - Identifiant : LEGIARTI000006233331
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233331
-- Cité par : [art. L511-57 du Code de commerce](chapitre-ier.md#article-l511-57) ; [art. L511-58 du Code de commerce](chapitre-ier.md#article-l511-58) ; [art. L512-5 du Code de commerce](chapitre-ii.md#article-l512-5) ; [art. R511-6 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-6) ; [art. L131-65 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006645294) ; [art. R131-49 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046074334)
+- Cité par : [art. L511-57 du Code de commerce](chapitre-ier.md#article-l511-57) ; [art. L511-58 du Code de commerce](chapitre-ier.md#article-l511-58) ; [art. L512-5 du Code de commerce](chapitre-ii.md#article-l512-5) ; [art. R511-6 du Code de commerce](../../../partie-reglementaire/livre-v/titre-ier/chapitre-ier.md#article-r511-6) ; [art. L131-65 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-65) ; [art. R131-49 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md#article-r131-49)
 
 Le greffier du tribunal de commerce tient régulièrement à jour d'après les dénonciations qui lui sont faites par les notaires et huissiers, un état nominatif et par débiteur des protêts faute de paiement des lettres de change acceptées, des billets à ordre et des chèques ainsi que des certificats de non-paiement des chèques postaux qui lui sont dénoncés par les centres de chèques postaux. Cet état comporte des énonciations dont la liste est fixée par décret.
 
@@ -804,7 +804,7 @@ Un décret en Conseil d'Etat détermine les modalités d'application des disposi
 - Identifiant : LEGIARTI000006233350
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006233350
-- Cité par : [art. L511-50 du Code de commerce](chapitre-ier.md#article-l511-50) ; [art. L935-3 du Code de commerce](../../livre-ix/titre-iii/chapitre-v.md#article-l935-3) ; [art. L945-4 du Code de commerce](../../livre-ix/titre-iv/chapitre-v.md#article-l945-4) ; [art. L955-1 du Code de commerce](../../livre-ix/titre-v/chapitre-v.md#article-l955-1) ; [art. L131-55 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006645170) ; [art. L131-66 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006645305)
+- Cité par : [art. L511-50 du Code de commerce](chapitre-ier.md#article-l511-50) ; [art. L935-3 du Code de commerce](../../livre-ix/titre-iii/chapitre-v.md#article-l935-3) ; [art. L945-4 du Code de commerce](../../livre-ix/titre-iv/chapitre-v.md#article-l945-4) ; [art. L955-1 du Code de commerce](../../livre-ix/titre-v/chapitre-v.md#article-l955-1) ; [art. L131-55 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-55) ; [art. L131-66 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-66)
 
 Dans le cas de mobilisation de l'armée, de fléau ou de calamité publique, d'interruption des services publics gérés ou soumis au contrôle de l'Etat ou des collectivités territoriales, des décrets en conseil des ministres peuvent, pour tout ou partie du territoire, proroger les délais dans lesquels doivent être faits les protêts et les autres actes destinés à conserver les recours pour toutes les valeurs négociables.  
 

@@ -122,7 +122,7 @@ Le directeur des services de greffe judiciaires du tribunal judiciaire a seul qu
 - Identifiant : LEGIARTI000039119527
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119527
-- Cité par : [Décret n°93-1362 du 30 décembre 1993, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041421985)
+- Cité par : [art. R211-18 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-r211-18) ; [Décret n°93-1362 du 30 décembre 1993, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041421985)
 
 Le siège et le ressort des tribunaux judiciaires ou des chambres de proximité compétents pour délivrer les certificats de nationalité sont fixés par décret.
 

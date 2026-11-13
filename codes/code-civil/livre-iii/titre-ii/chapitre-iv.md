@@ -166,7 +166,7 @@ Lorsque la donation d'effets mobiliers aura été faite avec réserve d'usufruit
 - Identifiant : LEGIARTI000006433871
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433871
-- Cité par : [art. 791 ter du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021629743) ; [Décret n°2009-1193 du 7 octobre 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929384) ; [Loi du 1er juin 1924, art. 38](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020616083)
+- Cité par : [art. 791 ter du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-791-ter) ; [Décret n°2009-1193 du 7 octobre 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929384) ; [Loi du 1er juin 1924, art. 38](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020616083)
 
 Le donateur pourra stipuler le droit de retour des objets donnés soit pour le cas du prédécès du donataire seul, soit pour le cas du prédécès du donataire et de ses descendants.  
 
@@ -194,7 +194,7 @@ La donation entre vifs ne pourra être révoquée que pour cause d'inexécution 
 - Identifiant : LEGIARTI000006433885
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433885
-- Cité par : [art. 1046 du Code civil](chapitre-v.md#article-1046) ; [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042913)
+- Cité par : [art. 1046 du Code civil](chapitre-v.md#article-1046) ; [art. 1961 du Code général des impôts](../../../code-general-des-impots/livre-ii/chapitre-v.md#article-1961)
 
 Dans le cas de la révocation pour cause d'inexécution des conditions, les biens rentreront dans les mains du donateur, libres de toutes charges et hypothèques du chef du donataire ; et le donateur aura, contre les tiers détenteurs des immeubles donnés, tous les droits qu'il aurait contre le donataire lui-même.
 

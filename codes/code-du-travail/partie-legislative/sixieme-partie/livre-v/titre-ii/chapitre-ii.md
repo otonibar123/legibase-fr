@@ -15,7 +15,7 @@ En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Ba
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035902666
 - Renvoie à : [art. L6523-3 du Code du travail](chapitre-iii.md#article-l6523-3)
-- Cité par : [art. R161-19 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000055052439)
+- Cité par : [art. R161-19 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-vi/chapitre-1er.md#article-r161-19)
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon, l'employeur peut assurer dans l'entreprise la formation pratique d'un apprenti dans les mêmes conditions de parrainage que celles prévues aux articles L. 6523-3 et suivants.
 

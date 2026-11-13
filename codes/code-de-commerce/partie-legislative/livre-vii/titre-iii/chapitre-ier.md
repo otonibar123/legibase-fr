@@ -35,7 +35,7 @@ La chambre commerciale est composée d'un membre du tribunal judiciaire, présid
 - Identifiant : LEGIARTI000033461632
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461632
-- Renvoie à : [art. L721-1 du Code de commerce](../titre-ii/chapitre-ier.md#article-l721-1) ; [art. L722-3 du Code de commerce](../titre-ii/chapitre-ii.md#article-l722-3) ; [art. L722-14 du Code de commerce](../titre-ii/chapitre-ii.md#article-l722-14) ; art. L215-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L721-1 du Code de commerce](../titre-ii/chapitre-ier.md#article-l721-1) ; [art. L722-3 du Code de commerce](../titre-ii/chapitre-ii.md#article-l722-3) ; [art. L722-14 du Code de commerce](../titre-ii/chapitre-ii.md#article-l722-14) ; [art. L215-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-v.md#article-l215-1)
 
 Les autres dispositions du titre II du livre VII relatives aux tribunaux de commerce sont applicables à la chambre commerciale, à l'exception des articles L. 721-1, L. 721-2, L. 722-3, et L. 722-11 à L. 722-13.
 

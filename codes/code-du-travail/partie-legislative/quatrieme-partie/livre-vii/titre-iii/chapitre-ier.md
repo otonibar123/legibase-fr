@@ -7,7 +7,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032376237
 - Renvoie à : [art. L4111-6 du Code du travail](../../livre-ier/titre-ier/chapitre-unique.md#article-l4111-6) ; [art. L4311-7 du Code du travail](../../livre-iii/titre-ier/chapitre-ier.md#article-l4311-7) ; [art. L4321-4 du Code du travail](../../livre-iii/titre-ii/chapitre-ier.md#article-l4321-4) ; [art. L8112-1 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-l8112-1)
-- Cité par : [art. L4731-6 du Code du travail](chapitre-ier.md#article-l4731-6) ; [art. L4741-3 du Code du travail](../titre-iv/chapitre-ier.md#article-l4741-3) ; [art. L4741-3-1 du Code du travail](../titre-iv/chapitre-ier.md#article-l4741-3-1) ; [art. L4752-1 du Code du travail](../titre-v/chapitre-ii.md#article-l4752-1) ; [art. R4731-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vii/titre-iii/chapitre-ier.md#article-r4731-1) ; [art. L412-20-6 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046451269)
+- Cité par : [art. L4731-6 du Code du travail](chapitre-ier.md#article-l4731-6) ; [art. L4741-3 du Code du travail](../titre-iv/chapitre-ier.md#article-l4741-3) ; [art. L4741-3-1 du Code du travail](../titre-iv/chapitre-ier.md#article-l4741-3-1) ; [art. L4752-1 du Code du travail](../titre-v/chapitre-ii.md#article-l4752-1) ; [art. R4731-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-vii/titre-iii/chapitre-ier.md#article-r4731-1) ; [art. L412-20-6 du Code pénitentiaire](../../../../../code-penitentiaire/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-20-6)
 
 L'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 peut prendre toutes mesures utiles visant à soustraire immédiatement un travailleur qui ne s'est pas retiré d'une situation de danger grave et imminent pour sa vie ou sa santé, constituant une infraction aux obligations des décrets pris en application des articles L. 4111-6, L. 4311-7 ou L. 4321-4, notamment en prescrivant l'arrêt temporaire de la partie des travaux ou de l'activité en cause, lorsqu'il constate que la cause de danger résulte :
 
@@ -54,7 +54,7 @@ En cas de contestation par l'employeur de la réalité du danger ou de la façon
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032376269
 - Renvoie à : [art. L8112-1 du Code du travail](../../../huitieme-partie/livre-ier/titre-ier/chapitre-ii.md#article-l8112-1)
-- Cité par : [art. R2332-15 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034672755) ; [art. R313-38 du Code de la sécurité intérieure](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034686403)
+- Cité par : [art. R2332-15 du Code de la défense](../../../../../code-de-la-defense/partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-ii.md#article-r2332-15) ; [art. R313-38 du Code de la sécurité intérieure](../../../../../code-de-la-securite-interieure/partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md#article-r313-38)
 
 La décision d'arrêt temporaire de travaux ou d'activité de l'agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 prise en application du présent chapitre ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés.
 

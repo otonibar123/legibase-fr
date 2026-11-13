@@ -60,7 +60,7 @@ Lors de son inscription, la personne mentionnée à l'article L. 5411-1 est info
 - Identifiant : LEGIARTI000053963991
 - État : en vigueur depuis le 26/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053963991
-- Renvoie à : [art. L5411-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-l5411-2) ; art. L341-4 du Code de la sécurité sociale
+- Renvoie à : [art. L341-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-iv/chapitre-1er.md#article-l341-4) ; [art. L5411-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-l5411-2)
 - Cité par : [art. R5221-47 du Code du travail](../../livre-ii/titre-ii/chapitre-ier.md#article-r5221-47) ; [art. R5411-7 du Code du travail](chapitre-ier.md#article-r5411-7) ; [art. R5524-1 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r5524-1)
 
 Les changements affectant la situation au regard de l'inscription ou du classement du demandeur d'emploi et devant être portés à la connaissance de l'opérateur France Travail, en application du second alinéa de l'article L. 5411-2, sont les suivants :
@@ -255,7 +255,7 @@ Pour la détermination de ces éléments, la zone géographique privilégiée es
 - Identifiant : LEGIARTI000050925897
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050925897
-- Renvoie à : art. L262-28 du Code de l'action sociale et des familles
+- Renvoie à : [art. L262-28 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-28)
 
 Lorsqu'il n'est pas tenu aux obligations définies à l'article L. 262-28 du code de l'action sociale et des familles, le bénéficiaire du revenu de solidarité active est dispensé de conclure le contrat d'engagement.
 
@@ -298,7 +298,7 @@ Les conventions prévoient également que, lorsque ces organismes constatent des
 - Identifiant : LEGIARTI000049816625
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816625
-- Cité par : [art. R262-112 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049794870) ; [Décret n°2024-1242 du 30 décembre 2024, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050924530)
+- Cité par : [art. R262-112 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-vi/chapitre-ii.md#article-r262-112) ; [Décret n°2024-1242 du 30 décembre 2024, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050924530)
 
 Cesse d'être inscrit sur la liste des demandeurs d'emploi ou est transféré dans la catégorie correspondant à sa nouvelle situation, le demandeur d'emploi :
 
@@ -312,7 +312,7 @@ Cesse d'être inscrit sur la liste des demandeurs d'emploi ou est transféré da
 - Identifiant : LEGIARTI000049816621
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816621
-- Renvoie à : [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1)
+- Renvoie à : [art. R213-10 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md#article-r213-10) ; [art. L5312-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l5312-1)
 - Cité par : [art. R5312-26 du Code du travail](../../livre-iii/titre-ier/chapitre-ii.md#article-r5312-26) ; [art. R5312-47 du Code du travail](../../livre-iii/titre-ier/chapitre-ii.md#article-r5312-47)
 
 La décision motivée par laquelle le directeur régional de l'opérateur France Travail constate la cessation d'inscription sur la liste des demandeurs d'emploi ou le changement de catégorie est notifiée à l'intéressé.

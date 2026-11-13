@@ -1,0 +1,81 @@
+# Code de justice militaire (nouveau)
+
+Dernière modification du texte dans LEGI : 01/12/2025. 634 articles en vigueur, répartis dans 46 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - [TITRE PRÉLIMINAIRE.](partie-legislative/titre-preliminaire.md) (3 articles)
+  - **LIVRE Ier : ORGANISATION ET COMPÉTENCE DE LA JUSTICE MILITAIRE**
+    - **TITRE Ier : ORGANISATION**
+      - [Chapitre II : Des juridictions des forces armées en temps de guerre](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (35 articles)
+    - **TITRE II : COMPÉTENCE**
+      - [Chapitre Ier : En temps de paix et hors du territoire de la République.](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : En temps de guerre.](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Règles communes.](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (4 articles)
+  - **LIVRE II : PROCÉDURE PÉNALE MILITAIRE DISPOSITIONS PRÉLIMINAIRES**
+    - **TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION**
+      - [Chapitre Ier : En temps de paix et hors du territoire de la République](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (12 articles)
+      - [Chapitre II : En temps de guerre](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (145 articles)
+    - **TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT**
+      - [Chapitre Ier : En temps de paix et hors du territoire de la République.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : En temps de guerre.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (78 articles)
+    - **TITRE III : DES VOIES DE RECOURS EXTRAORDINAIRES**
+      - [Chapitre Ier : Du pourvoi en cassation](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre III : Des demandes en révision](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (1 article)
+    - **TITRE IV : DES CITATIONS ET NOTIFICATIONS**
+      - [Chapitre unique.](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (11 articles)
+    - **TITRE V : DES PROCÉDURES PARTICULIÈRES DU TEMPS DE GUERRE**
+      - [Chapitre Ier : Des jugements par défaut ou itératif défaut et de l'appel en temps de guerre](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (28 articles)
+      - [Chapitre II : Du séquestre et de la confiscation des biens en temps de guerre.](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (12 articles)
+      - [Chapitre III : De la reconnaissance d'identité d'un condamné en temps de guerre.](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Des règlements de juges et des renvois d'un tribunal à un autre tribunal en temps de guerre.](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Des crimes et délits contre les intérêts fondamentaux de la nation en temps de guerre.](partie-legislative/livre-ii/titre-v/chapitre-v.md) (21 articles)
+    - **TITRE VI : DES PROCÉDURES D'EXÉCUTION**
+      - [Chapitre Ier : De l'exécution des jugements.](partie-legislative/livre-ii/titre-vi/chapitre-ier.md) (12 articles)
+      - [Chapitre II : De l'exécution des peines.](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : De la suspension de l'exécution des jugements.](partie-legislative/livre-ii/titre-vi/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : De la libération conditionnelle.](partie-legislative/livre-ii/titre-vi/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Du sursis et de la récidive.](partie-legislative/livre-ii/titre-vi/chapitre-v.md) (2 articles)
+      - [Chapitre VI : De la réhabilitation et des demandes présentées en vue d'être relevé des interdictions, déchéances ou incapacités.](partie-legislative/livre-ii/titre-vi/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : De la prescription des peines.](partie-legislative/livre-ii/titre-vi/chapitre-vii.md) (2 articles)
+      - [Chapitre VIII : Du casier judiciaire.](partie-legislative/livre-ii/titre-vi/chapitre-viii.md) (3 articles)
+      - [Chapitre IX : Des frais de justice et de la contrainte judiciaire.](partie-legislative/livre-ii/titre-vi/chapitre-ix.md) (2 articles)
+    - **TITRE VII : DISPOSITIONS DIVERSES**
+      - [Chapitre unique.](partie-legislative/livre-ii/titre-vii/chapitre-unique.md) (1 article)
+  - **LIVRE III : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES ET DES INFRACTIONS D'ORDRE MILITAIRE**
+    - **TITRE Ier : DES PEINES APPLICABLES PAR LES JURIDICTIONS DES FORCES ARMÉES**
+      - [Chapitre unique.](partie-legislative/livre-iii/titre-ier/chapitre-unique.md) (12 articles)
+    - **TITRE II : DES INFRACTIONS D'ORDRE MILITAIRE**
+      - [Chapitre Ier : Des infractions tendant à soustraire leur auteur à ses obligations militaires](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (20 articles)
+      - [Chapitre II : Des infractions contre l'honneur ou le devoir](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (17 articles)
+      - [Chapitre III : Des infractions contre la discipline](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : Des infractions aux consignes.](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (11 articles)
+    - **TITRE III : DES ATTEINTES AUX INTÉRÊTS FONDAMENTAUX DE LA NATION EN TEMPS DE GUERRE**
+      - [Chapitre Ier : De la trahison et de l'espionnage en temps de guerre.](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Des autres atteintes à la défense nationale en temps de guerre.](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions générales.](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (7 articles)
+  - **LIVRE IV : DES PRÉVÔTÉS ET DES TRIBUNAUX PRÉVÔTAUX**
+    - **TITRE Ier : DES PRÉVÔTÉS**
+      - [Chapitre unique : Organisation et attributions.](partie-legislative/livre-iv/titre-ier/chapitre-unique.md) (2 articles)
+    - **TITRE II : DES TRIBUNAUX PRÉVÔTAUX**
+      - [Chapitre Ier : Organisation et compétence.](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : De la procédure avant l'audience.](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : De la procédure à l'audience.](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Du jugement.](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (2 articles)
+- **Partie réglementaire : Décrets en Conseil d'Etat**
+  - **LIVRE II : PROCÉDURE PÉNALE MILITAIRE**
+    - **TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION**
+      - [Chapitre II : En temps de guerre](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (43 articles)
+- **Partie réglementaire : Décrets simples**
+  - **LIVRE Ier : ORGANISATION ET COMPETENCE DE LA JUSTICE MILITAIRE**
+    - **TITRE Ier : ORGANISATION**
+      - [Chapitre II : Des juridictions des forces armées en temps de guerre](partie-reglementaire-2/livre-ier/titre-ier/chapitre-ii.md) (24 articles)
+  - **LIVRE II : PROCÉDURE PÉNALE MILITAIRE**
+    - **TITRE Ier : DE L'EXERCICE DE L'ACTION PUBLIQUE ET DE L'INSTRUCTION**
+      - [Chapitre Ier : En temps de paix et hors du territoire de la République](partie-reglementaire-2/livre-ii/titre-ier/chapitre-ier.md) (14 articles)
+      - [Chapitre II : En temps de guerre](partie-reglementaire-2/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+    - **TITRE II : PROCÉDURE DEVANT LES JURIDICTIONS DE JUGEMENT**
+      - [Chapitre II : En temps de guerre](partie-reglementaire-2/livre-ii/titre-ii/chapitre-ii.md) (5 articles)
+    - **TITRE VI : DES PROCÉDURES D'EXÉCUTION**
+      - [Chapitre IX : Des frais de justice](partie-reglementaire-2/livre-ii/titre-vi/chapitre-ix.md) (18 articles)

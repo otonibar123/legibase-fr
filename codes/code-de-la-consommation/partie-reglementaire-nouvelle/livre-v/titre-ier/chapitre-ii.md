@@ -174,7 +174,7 @@ En application du paragraphe 3 du même article 35, en cas de différend entre l
 - Identifiant : LEGIARTI000037798815
 - État : en vigueur depuis le 13/12/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037798815
-- Cité par : [art. R512-9 du Code de la consommation](chapitre-ii.md#article-r512-9) ; [art. R512-11 du Code de la consommation](chapitre-ii.md#article-r512-11) ; [art. R512-24 du Code de la consommation](chapitre-ii.md#article-r512-24) ; [art. R512-25 du Code de la consommation](chapitre-ii.md#article-r512-25) ; [art. R512-28 du Code de la consommation](chapitre-ii.md#article-r512-28) ; [art. R512-29 du Code de la consommation](chapitre-ii.md#article-r512-29) ; [art. R20-29-10-7 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047817904)
+- Cité par : [art. R512-9 du Code de la consommation](chapitre-ii.md#article-r512-9) ; [art. R512-11 du Code de la consommation](chapitre-ii.md#article-r512-11) ; [art. R512-24 du Code de la consommation](chapitre-ii.md#article-r512-24) ; [art. R512-25 du Code de la consommation](chapitre-ii.md#article-r512-25) ; [art. R512-28 du Code de la consommation](chapitre-ii.md#article-r512-28) ; [art. R512-29 du Code de la consommation](chapitre-ii.md#article-r512-29) ; [art. R20-20 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r20-20) ; [art. R20-29-10-7 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r20-29-10-7)
 
 Tout prélèvement donne lieu, séance tenante, à la rédaction d'un procès-verbal comportant les mentions suivantes :  
 1° Les nom, prénoms, qualité et résidence de l'agent habilité ;  
@@ -188,7 +188,7 @@ Tout prélèvement donne lieu, séance tenante, à la rédaction d'un procès-ve
 - État : en vigueur depuis le 13/12/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037798803
 - Renvoie à : [art. L512-24 du Code de la consommation](../../../partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ii.md#article-l512-24) ; [art. R512-10 du Code de la consommation](chapitre-ii.md#article-r512-10)
-- Cité par : [art. R512-28 du Code de la consommation](chapitre-ii.md#article-r512-28)
+- Cité par : [art. R512-28 du Code de la consommation](chapitre-ii.md#article-r512-28) ; [art. R20-20 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r20-20)
 
 Le procès-verbal mentionné à l'article R. 512-10 comporte, outre un exposé succinct des modalités de prélèvement, une description des marques et étiquettes apposées sur les enveloppes ou récipients. Il indique également l'importance du lot de marchandises échantillonnées, ainsi que toutes les indications jugées utiles pour établir l'authenticité des échantillons prélevés, l'identité de la marchandise et la dénomination exacte sous laquelle cette dernière était détenue ou mise en vente.  
 Le propriétaire ou le détenteur de la marchandise ou, le cas échéant, le représentant de l'entreprise de transport peut en outre faire insérer au procès-verbal toutes les déclarations qu'il juge utiles. Il est invité à signer le procès-verbal ; en cas de refus, mention en est faite par l'agent habilité.  
@@ -211,7 +211,7 @@ Lorsque la nature de la marchandise le justifie, l'échantillonnage peut être r
 - Identifiant : LEGIARTI000037798757
 - État : en vigueur depuis le 13/12/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037798757
-- Cité par : [art. R512-24 du Code de la consommation](chapitre-ii.md#article-r512-24)
+- Cité par : [art. R512-24 du Code de la consommation](chapitre-ii.md#article-r512-24) ; [art. R20-20 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r20-20)
 
 Tout échantillon prélevé est mis sous scellés.  
 
@@ -231,7 +231,7 @@ Ces scellés retiennent une étiquette d'identification portant notamment les in
 - Identifiant : LEGIARTI000037798788
 - État : en vigueur depuis le 13/12/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037798788
-- Cité par : [art. R512-19 du Code de la consommation](chapitre-ii.md#article-r512-19)
+- Cité par : [art. R512-19 du Code de la consommation](chapitre-ii.md#article-r512-19) ; [art. R20-20 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r20-20)
 
 Lors du prélèvement, un récépissé est remis au propriétaire ou détenteur de la marchandise.  
 Il fait mention de la nature et des quantités d'échantillons prélevés.  
@@ -273,7 +273,7 @@ Toutefois, si la nature des marchandises exige des mesures spéciales de conserv
 - État : en vigueur depuis le 13/12/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037797977
 - Renvoie à : [art. R512-12 du Code de la consommation](chapitre-ii.md#article-r512-12)
-- Cité par : [art. R20-29-10-7 du Code des postes et des communications électroni...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047817904)
+- Cité par : [art. R20-29-10-7 du Code des postes et des communications électroniques](../../../../code-des-postes-et-des-communications-electroniques/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md#article-r20-29-10-7)
 
 Les dispositions du présent sous-paragraphe s'appliquent au prélèvement de marchandises mises à disposition sur le marché au moyen d'une technique de communication à distance.  
 

@@ -62,7 +62,7 @@ Lorsqu'il tient de la loi un droit d'accès aux registres mentionnés à l'artic
 - Identifiant : LEGIARTI000035651246
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035651246
-- Renvoie à : [art. L211-2 du Code minier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023505387) ; [art. L211-3 du Code minier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023505389)
+- Renvoie à : [art. L512-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-ii.md#article-l512-1) ; [art. L211-2 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-2) ; [art. L211-3 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-unique.md#article-l211-3)
 
 Dans les établissements comportant une ou plusieurs installations soumises à autorisation au titre de l'article L. 512-1 code de l'environnement ou soumise aux dispositions des articles L. 211-2 et L. 211-3, des titres II à VII et du chapitre II du titre VIII du livre II du code minier, les documents établis à l'intention des autorités publiques chargées de la protection de l'environnement sont portés à la connaissance du comité social et économique par l'employeur, dans des conditions déterminées par voie réglementaire.
 
@@ -74,7 +74,7 @@ Dans les établissements comportant une ou plusieurs installations soumises à a
 - Identifiant : LEGIARTI000035651243
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035651243
-- Cité par : [art. L2232-27 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-27) ; [art. L4523-7-1 du Code du travail](../../../quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-l4523-7-1) ; [art. R2312-47 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-47) ; [art. R2314-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-r2314-1) ; [art. R2315-3 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-3) ; [art. R2315-4 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-4) ; [art. R2315-5 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-5) ; [art. R2321-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-unique.md#article-r2321-1) ; [art. R342-33 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046112724) ; [art. L6524-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042655830) ; [art. R1241-66-13 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053216506)
+- Cité par : [art. R342-33 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-33) ; [art. L6524-6 du Code des transports](../../../../../code-des-transports/partie-legislative/sixieme-partie/livre-v/titre-ii/chapitre-iv.md#article-l6524-6) ; [art. R1241-66-13 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-ier.md#article-r1241-66-13) ; [art. L2232-27 du Code du travail](../../livre-ii/titre-iii/chapitre-ii.md#article-l2232-27) ; [art. L4523-7-1 du Code du travail](../../../quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-l4523-7-1) ; [art. R2312-47 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-47) ; [art. R2314-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-r2314-1) ; [art. R2315-3 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-3) ; [art. R2315-4 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-4) ; [art. R2315-5 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-5) ; [art. R2321-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ii/chapitre-unique.md#article-r2321-1)
 
 L'employeur laisse le temps nécessaire à l'exercice de leurs fonctions :  
 
@@ -102,7 +102,7 @@ Les modalités d'utilisation des heures de délégation sur une durée supérieu
 - Identifiant : LEGIARTI000035651237
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035651237
-- Cité par : [art. R2315-6 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-6) ; [art. R1241-66-13 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053216506)
+- Cité par : [art. R1241-66-13 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-ier.md#article-r1241-66-13) ; [art. R2315-6 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-6)
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles les membres titulaires de la délégation du personnel du comité social et économique peuvent, chaque mois, répartir entre eux et avec les membres suppléants le crédit d'heures de délégation dont ils disposent.
 
@@ -166,7 +166,7 @@ Ces heures de délégation sont réputées rattachées, en matière de rémunér
 - Identifiant : LEGIARTI000035621169
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035621169
-- Cité par : [art. R4312-49 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046173126) ; [art. R1233-26-5 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046305817)
+- Cité par : [art. R4312-49 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r4312-49) ; [art. R1233-26-5 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-r1233-26-5)
 
 Pour l'exercice de leurs fonctions, les membres élus de la délégation du personnel du comité social et économique et les représentants syndicaux au comité peuvent, durant les heures de délégation, se déplacer hors de l'entreprise.  
 
@@ -261,6 +261,7 @@ L'employeur met à la disposition des membres de la délégation du personnel du
 - Identifiant : LEGIARTI000035624428
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035624428
+- Cité par : [art. L344-2-9 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-iv.md#article-l344-2-9)
 
 Les membres de la délégation du personnel du comité social et économique sont reçus collectivement par l'employeur ou son représentant au moins une fois par mois. En cas d'urgence, ils sont reçus sur leur demande.  
 
@@ -307,7 +308,7 @@ Les formations en santé, sécurité et conditions de travail prévues à l'arti
 - Identifiant : LEGIARTI000035624835
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035624835
-- Cité par : [art. R2312-47 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-47) ; [art. R1432-71 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042200344)
+- Cité par : [art. L592-12-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ix/chapitre-ii.md#article-l592-12-1) ; [art. R1432-71 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-r1432-71) ; [art. R2312-47 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-47)
 
 Le comité social et économique est doté de la personnalité civile et gère son patrimoine.  
 
@@ -323,7 +324,7 @@ Le comité désigne, parmi ses membres titulaires, un secrétaire et un trésori
 - Identifiant : LEGIARTI000036761946
 - État : en vigueur depuis le 01/04/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036761946
-- Cité par : [art. R342-42 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046110505) ; [art. R4312-48 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046173130)
+- Cité par : [art. R342-42 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-42) ; [art. R4312-48 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r4312-48)
 
 Le comité social et économique détermine, dans un règlement intérieur, les modalités de son fonctionnement et celles de ses rapports avec les salariés de l'entreprise, pour l'exercice des missions qui lui sont conférées par le chapitre II du présent titre.
 
@@ -335,7 +336,7 @@ Sauf accord de l'employeur, un règlement intérieur ne peut comporter des claus
 - Identifiant : LEGIARTI000035624843
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035624843
-- Cité par : [art. R4312-49 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046173126) ; [art. R1233-26-5 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046305817)
+- Cité par : [art. R4312-49 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r4312-49) ; [art. R1233-26-5 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-r1233-26-5)
 
 L'employeur met à la disposition du comité social et économique un local aménagé et le matériel nécessaire à l'exercice de ses fonctions.
 
@@ -346,7 +347,7 @@ L'employeur met à la disposition du comité social et économique un local amé
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035624845
 - Renvoie à : [art. L2142-10 du Code du travail](../../livre-ier/titre-iv/chapitre-ii.md#article-l2142-10) ; [art. L2142-11 du Code du travail](../../livre-ier/titre-iv/chapitre-ii.md#article-l2142-11)
-- Cité par : [art. R4312-49 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046173126) ; [art. R1233-26-5 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046305817)
+- Cité par : [art. R4312-49 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r4312-49) ; [art. R1233-26-5 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-r1233-26-5)
 
 Le comité social et économique peut organiser, dans le local mis à sa disposition, des réunions d'information, internes au personnel, portant notamment sur des problèmes d'actualité.  
 
@@ -756,7 +757,7 @@ A cet effet, la commission :
 - Identifiant : LEGIARTI000035626501
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035626501
-- Renvoie à : art. L441-2-3 du Code de la construction et de l'habitation
+- Renvoie à : [art. L441-2-3 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iv/titre-iv/chapitre-ier.md#article-l441-2-3)
 
 La commission d'information et d'aide au logement des salariés aide les salariés souhaitant acquérir ou louer un logement au titre de la participation des employeurs à l'effort de construction, ou investir les fonds provenant des droits constitués en application des dispositions relatives à l'intéressement, à la participation et à l'épargne salariale.  
 
@@ -825,8 +826,8 @@ Cette commission est notamment chargée de préparer les délibérations du comi
 - Identifiant : LEGIARTI000036761916
 - État : en vigueur depuis le 01/04/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036761916
-- Renvoie à : [art. L2315-65 du Code du travail](chapitre-v.md#article-l2315-65) ; [art. L2315-69 du Code du travail](chapitre-v.md#article-l2315-69) ; [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; art. L242-1 du Code de la sécurité sociale ; art. L741-10 du Code rural et de la pêche maritime
-- Cité par : [art. D2315-34 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-34) ; [art. D2315-36 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-36) ; [art. R2312-49 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-49) ; [art. R2312-58 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-58) ; [art. R2315-31-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-31-1) ; [art. R1241-66-8 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053216483) ; [art. R4312-46 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046173134) ; [art. R1233-18 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046306684)
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. L2315-65 du Code du travail](chapitre-v.md#article-l2315-65) ; [art. L2315-69 du Code du travail](chapitre-v.md#article-l2315-69) ; [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. L741-10 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-iv/chapitre-ier.md#article-l741-10)
+- Cité par : [art. R592-106 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-ix/chapitre-ii.md#article-r592-106) ; [art. R1241-66-8 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-ier.md#article-r1241-66-8) ; [art. R4312-46 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r4312-46) ; [art. D2315-34 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-34) ; [art. D2315-36 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-36) ; [art. R2312-49 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-49) ; [art. R2312-58 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r2312-58) ; [art. R2315-31-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-31-1) ; [art. R1233-18 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-r1233-18)
 
 L'employeur verse au comité social et économique une subvention de fonctionnement d'un montant annuel équivalent à :
 
@@ -876,7 +877,7 @@ Cette formation est imputée sur la durée du congé de formation économique, s
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035627352
 - Renvoie à : [art. L123-12 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-12)
-- Cité par : [art. D2315-33 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-33) ; [art. D2315-38 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-38) ; [art. L2315-44-1 du Code du travail](chapitre-v.md#article-l2315-44-1) ; [art. L2315-65 du Code du travail](chapitre-v.md#article-l2315-65) ; [art. L2315-66 du Code du travail](chapitre-v.md#article-l2315-66) ; [art. L2315-67 du Code du travail](chapitre-v.md#article-l2315-67) ; [art. L2315-69 du Code du travail](chapitre-v.md#article-l2315-69) ; [art. L2315-73 du Code du travail](chapitre-v.md#article-l2315-73) ; [art. L2315-76 du Code du travail](chapitre-v.md#article-l2315-76) ; [art. L2315-77 du Code du travail](chapitre-v.md#article-l2315-77) ; [art. R4312-45 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046173136) ; [art. R1233-16 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046306688)
+- Cité par : [art. R4312-45 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-r4312-45) ; [art. D2315-33 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-33) ; [art. D2315-38 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-d2315-38) ; [art. L2315-44-1 du Code du travail](chapitre-v.md#article-l2315-44-1) ; [art. L2315-65 du Code du travail](chapitre-v.md#article-l2315-65) ; [art. L2315-66 du Code du travail](chapitre-v.md#article-l2315-66) ; [art. L2315-67 du Code du travail](chapitre-v.md#article-l2315-67) ; [art. L2315-69 du Code du travail](chapitre-v.md#article-l2315-69) ; [art. L2315-73 du Code du travail](chapitre-v.md#article-l2315-73) ; [art. L2315-76 du Code du travail](chapitre-v.md#article-l2315-76) ; [art. L2315-77 du Code du travail](chapitre-v.md#article-l2315-77) ; [art. R1233-16 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-r1233-16)
 
 I.-Le comité social et économique est soumis aux obligations comptables définies à l'article L. 123-12 du code de commerce. Ses comptes annuels sont établis selon les modalités définies par un règlement de l'Autorité des normes comptables.  
 
@@ -1198,7 +1199,7 @@ En cas d'annulation définitive par le juge de la délibération du comité soci
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262509
 - Renvoie à : [art. L2312-17 du Code du travail](chapitre-ii.md#article-l2312-17)
-- Cité par : [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. L142-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975136)
+- Cité par : [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. L142-9 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iv/chapitre-ii.md#article-l142-9)
 
 Le comité social et économique peut décider de recourir à un expert-comptable en vue de la consultation sur les orientations stratégiques de l'entreprise prévu au 1° de l'article L. 2312-17.
 
@@ -1218,7 +1219,7 @@ La mission de l'expert-comptable porte sur tous les éléments d'ordre économiq
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262505
 - Renvoie à : [art. L2312-17 du Code du travail](chapitre-ii.md#article-l2312-17)
-- Cité par : [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. L142-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975136)
+- Cité par : [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. L142-9 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iv/chapitre-ii.md#article-l142-9)
 
 Le comité social et économique peut décider de recourir à un expert-comptable en vue de la consultation sur la situation économique et financière de l'entreprise prévue au 2° de l'article L. 2312-17.
 
@@ -1248,7 +1249,7 @@ Pour opérer toute vérification ou tout contrôle entrant dans l'exercice de se
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262501
 - Renvoie à : [art. L2312-17 du Code du travail](chapitre-ii.md#article-l2312-17)
-- Cité par : [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. L142-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975136)
+- Cité par : [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. L142-9 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iv/chapitre-ii.md#article-l142-9)
 
 Le comité social et économique peut décider de recourir à un expert-comptable dans le cadre de la consultation sur la politique sociale de l'entreprise, les conditions de travail et l'emploi mentionnée au 3° de l'article L. 2312-17.
 
@@ -1268,7 +1269,7 @@ La mission de l'expert-comptable porte sur tous les éléments d'ordre économiq
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262604
 - Renvoie à : [art. L1233-24-1 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-l1233-24-1) ; [art. L1233-34 du Code du travail](../../../premiere-partie/livre-ii/titre-iii/chapitre-iii.md#article-l1233-34) ; [art. L2254-2 du Code du travail](../../livre-ii/titre-v/chapitre-iv.md#article-l2254-2) ; [art. L2312-41 du Code du travail](chapitre-ii.md#article-l2312-41) ; [art. L2312-42 du Code du travail](chapitre-ii.md#article-l2312-42) ; [art. L2312-63 du Code du travail](chapitre-ii.md#article-l2312-63)
-- Cité par : [art. L2312-41 du Code du travail](chapitre-ii.md#article-l2312-41) ; [art. L2312-42 du Code du travail](chapitre-ii.md#article-l2312-42) ; [art. L2312-64 du Code du travail](chapitre-ii.md#article-l2312-64) ; [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. R2315-47 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-47) ; [art. L142-9 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975136)
+- Cité par : [art. L2312-41 du Code du travail](chapitre-ii.md#article-l2312-41) ; [art. L2312-42 du Code du travail](chapitre-ii.md#article-l2312-42) ; [art. L2312-64 du Code du travail](chapitre-ii.md#article-l2312-64) ; [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. R2315-47 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-47) ; [art. L142-9 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iv/chapitre-ii.md#article-l142-9)
 
 I.-Un expert-comptable peut être désigné par le comité social et économique :
 
@@ -1304,7 +1305,7 @@ Lorsqu'il est saisi dans le cadre d'une offre publique d'acquisition dans les co
 - État : en vigueur depuis le 25/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975185
 - Renvoie à : [art. L2312-8 du Code du travail](chapitre-ii.md#article-l2312-8)
-- Cité par : [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. R2315-48 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-48) ; [art. R2315-51 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-51) ; [art. R2315-52 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-52) ; [Arrêté du 2 août 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037381682) ; [Arrêté du 22 juin 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037381695) ; [art. R342-34 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046112720)
+- Cité par : [art. R342-34 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-34) ; [art. L2315-80 du Code du travail](chapitre-v.md#article-l2315-80) ; [art. R2315-48 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-48) ; [art. R2315-51 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-51) ; [art. R2315-52 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-r2315-52) ; [Arrêté du 2 août 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037381682) ; [Arrêté du 22 juin 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037381695)
 
 Le comité social et économique peut faire appel à un expert habilité dans des conditions prévues par décret en Conseil d'Etat :
 

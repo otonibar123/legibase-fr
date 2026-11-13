@@ -6,7 +6,7 @@ Code de procédure civile › Livre II : Dispositions particulières à chaque j
 - Identifiant : LEGIARTI000049887245
 - État : en vigueur depuis le 01/09/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049887245
-- Renvoie à : [art. 1031-3 du Code de procédure civile](chapitre-vi.md#article-1031-3) ; art. L441-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L441-1 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-iv/chapitre-unique.md#article-l441-1) ; [art. 1031-3 du Code de procédure civile](chapitre-vi.md#article-1031-3)
 
 Lorsque le juge envisage de solliciter l'avis de la Cour de cassation en application de l'article L. 441-1 du code de l'organisation judiciaire, il en avise les parties et le ministère public, à peine d'irrecevabilité. Il recueille leurs observations écrites éventuelles dans le délai qu'il fixe, à moins qu'ils n'aient déjà conclu sur ce point.
 

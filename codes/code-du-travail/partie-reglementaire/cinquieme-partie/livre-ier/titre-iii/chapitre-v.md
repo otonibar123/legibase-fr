@@ -7,7 +7,7 @@ Code du travail › Partie réglementaire › Cinquième partie : L'emploi › L
 - État : en vigueur depuis le 16/11/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029763894
 - Renvoie à : [art. L5135-4 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l5135-4)
-- Cité par : [ARRÊTÉ du 13 novembre 2014, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049860382) ; [Arrêté du 8 juin 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049860121) ; [art. D412-74 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045678825)
+- Cité par : [art. D412-74 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-d412-74) ; [ARRÊTÉ du 13 novembre 2014, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049860382) ; [Arrêté du 8 juin 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049860121)
 
 Lorsque le bénéficiaire est salarié, son employeur est également partie à la convention de mise en situation en milieu professionnel mentionnée à l'article L. 5135-4.
 

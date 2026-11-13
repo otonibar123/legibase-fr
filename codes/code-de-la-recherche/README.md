@@ -1,0 +1,213 @@
+# Code de la recherche
+
+Dernière modification du texte dans LEGI : 01/09/2026. 1027 articles en vigueur, répartis dans 150 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE**
+    - **TITRE Ier : ORIENTATION DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE**
+      - [Chapitre Ier : Politiques de la recherche et du développement technologique](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Objectifs et moyens institutionnels de la recherche publique.](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Programmation des moyens de la recherche publique et des actions de développement technologique.](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Evaluation de la recherche et de l'enseignement supérieur](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (13 articles)
+    - **TITRE II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE**
+      - [Chapitre III : Le Conseil national de l'enseignement supérieur et de la recherche (CNESER).](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Autres instances consultatives.](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (1 article)
+    - **TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna.](partie-legislative/livre-ier/titre-iv/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à la Polynésie française.](partie-legislative/livre-ier/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.](partie-legislative/livre-ier/titre-iv/chapitre-vii.md) (1 article)
+  - **LIVRE II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE**
+    - **TITRE Ier : L'ÉTHIQUE DE LA RECHERCHE**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-ier/chapitre-unique.md) (2 articles)
+    - **TITRE II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE**
+      - [Chapitre Ier : La génétique.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Utilisation à des fins scientifiques d'éléments et produits du corps humain et de leurs dérivés.](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Les recherches impliquant la personne humaine](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : La recherche sur l'embryon et les cellules souches embryonnaires.](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Les traitements de données à caractère personnel.](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (2 articles)
+    - **TITRE III : L'EXPÉRIMENTATION ANIMALE**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre VI : Sanctions.](partie-legislative/livre-ii/titre-iii/chapitre-vi.md) (1 article)
+    - **TITRE IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS**
+      - [Chapitre unique.](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (2 articles)
+    - **TITRE V : AUTRES DOMAINES DE RECHERCHE**
+      - [Chapitre Ier : La recherche scientifique marine.](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Les recherches sur la gestion des déchets radioactifs.](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Utilisation en recherche de certains produits chimiques.](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : La recherche en archéologie.](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (1 article)
+    - **TITRE VI : DISPOSITIONS RELATIVES A L'OUTRE-MER.**
+      - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna.](partie-legislative/livre-ii/titre-vi/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à la Polynésie française.](partie-legislative/livre-ii/titre-vi/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.](partie-legislative/livre-ii/titre-vi/chapitre-vii.md) (1 article)
+  - **LIVRE III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Les établissements publics de recherche.](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Les établissements publics d'enseignement supérieur et de recherche.](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Les unités de recherche](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Les établissements privés participant au service public de la recherche](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+    - **TITRE II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF**
+      - [Chapitre Ier : Dispositions communes aux établissements publics à caractère scientifique et technologique.](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre VIII : Autres établissements à caractère administratif.](partie-legislative/livre-iii/titre-ii/chapitre-viii.md) (3 articles)
+      - [Chapitre IX : L'Agence nationale de la recherche.](partie-legislative/livre-iii/titre-ii/chapitre-ix.md) (6 articles)
+    - **TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL**
+      - [Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Etablissements de recherche dans le domaine de l'énergie.](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (9 articles)
+    - **TITRE IV : LES STRUCTURES DE COOPÉRATION**
+      - [Chapitre IV : Les fondations de coopération scientifique](partie-legislative/livre-iii/titre-iv/chapitre-iv.md) (6 articles)
+      - [Chapitre V : L'établissement public Campus Condorcet](partie-legislative/livre-iii/titre-iv/chapitre-v.md) (7 articles)
+    - **TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER.**
+      - [Chapitre II : Dispositions relatives à Saint-Barthélemy.](partie-legislative/livre-iii/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions relatives à Saint-Martin.](partie-legislative/livre-iii/titre-vi/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions relatives à Saint-Pierre-et-Miquelon.](partie-legislative/livre-iii/titre-vi/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna.](partie-legislative/livre-iii/titre-vi/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à la Polynésie française.](partie-legislative/livre-iii/titre-vi/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.](partie-legislative/livre-iii/titre-vi/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.](partie-legislative/livre-iii/titre-vi/chapitre-viii.md) (1 article)
+  - **LIVRE IV : LES PERSONNELS DE LA RECHERCHE**
+    - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : Missions et garanties fondamentales.](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : La formation.](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (4 articles)
+    - **TITRE II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Chercheurs.](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (4 articles)
+    - **TITRE III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE**
+      - [Chapitre Ier : Les personnels contractuels.](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Les chercheurs et enseignants associés.](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Les personnels bénéficiant d'un congé d'enseignement ou de recherche.](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Doctorants et chercheurs étrangers accueillis dans le cadre d'un séjour de recherche](partie-legislative/livre-iv/titre-iii/chapitre-iv.md) (1 article)
+    - **TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna.](partie-legislative/livre-iv/titre-iv/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à la Polynésie française.](partie-legislative/livre-iv/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.](partie-legislative/livre-iv/titre-iv/chapitre-vii.md) (1 article)
+  - **LIVRE V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE**
+    - **TITRE Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION**
+      - [Chapitre Ier : Le crédit d'impôt recherche](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Les fonds communs de placement dans l'innovation (FCPI)](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : L'aide à l'innovation et les incitations en faveur de la valorisation et du transfert de technologie](partie-legislative/livre-v/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : L'évaluation des incitations en faveur de la valorisation et du transfert de technologie](partie-legislative/livre-v/titre-ier/chapitre-iv.md) (1 article)
+    - **TITRE II : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE**
+      - [Chapitre Ier : Les centres techniques industriels](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (19 articles)
+      - [Chapitre II : Autres structures](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (1 article)
+    - **TITRE III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE**
+      - [Chapitre Ier : Participation des personnels de la recherche à la création d'entreprises et aux activités des entreprises existantes](partie-legislative/livre-v/titre-iii/chapitre-ier.md) (13 articles)
+      - [Chapitre III : La valorisation des résultats de la recherche par les établissements et organismes de recherche](partie-legislative/livre-v/titre-iii/chapitre-iii.md) (4 articles)
+    - **TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre V : Dispositions relatives aux îles Wallis et Futuna](partie-legislative/livre-v/titre-iv/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dispositions relatives à la Polynésie française](partie-legislative/livre-v/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie](partie-legislative/livre-v/titre-iv/chapitre-vii.md) (1 article)
+- **Partie réglementaire**
+  - **Livre Ier : L'ORGANISATION GÉNÉRALE DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE**
+    - **Titre Ier : ORIENTATION DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE**
+      - [Chapitre Ier : POLITIQUES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : OBJECTIFS ET MOYENS INSTITUTIONNELS DE LA RECHERCHE PUBLIQUE](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (11 articles)
+      - [Chapitre IV : ÉVALUATION DE LA RECHERCHE ET DE L'ENSEIGNEMENT SUPÉRIEUR](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (23 articles)
+    - **Titre II : LES INSTANCES CONSULTATIVES DE LA RECHERCHE ET DU DÉVELOPPEMENT TECHNOLOGIQUE**
+      - [Chapitre préliminaire : LE CONSEIL STRATÉGIQUE DE LA RECHERCHE](partie-reglementaire/livre-ier/titre-ii/chapitre-preliminaire.md) (4 articles)
+      - [Chapitre III : LE CONSEIL NATIONAL DE L'ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : AUTRES INSTANCES CONSULTATIVES](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (3 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : DISPOSITIONS RELATIVES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE, LA RÉUNION ET MAYOTTE](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (8 articles)
+      - [Chapitre II : DISPOSITIONS RELATIVES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : DISPOSITIONS RELATIVES À SAINT-MARTIN](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : DISPOSITIONS RELATIVES À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-ier/titre-iv/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS RELATIVES AUX ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-ier/titre-iv/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS RELATIVES À LA POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-ier/titre-iv/chapitre-vi.md) (8 articles)
+      - [Chapitre VII : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE](partie-reglementaire/livre-ier/titre-iv/chapitre-vii.md) (8 articles)
+      - [Chapitre VIII : DISPOSITIONS RELATIVES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-ier/titre-iv/chapitre-viii.md) (1 article)
+  - **Livre II : L'EXERCICE DES ACTIVITÉS DE RECHERCHE**
+    - **Titre Ier : L'ÉTHIQUE DE LA RECHERCHE**
+      - [Chapitre unique.](partie-reglementaire/livre-ii/titre-ier/chapitre-unique.md) (4 articles)
+    - **Titre II : LA RECHERCHE EN MÉDECINE ET BIOLOGIE HUMAINE**
+      - [Chapitre Ier : LA GÉNÉTIQUE](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : UTILISATION À DES FINS SCIENTIFIQUES D'ÉLÉMENTS ET PRODUITS DU CORPS HUMAIN ET DE LEURS DÉRIVÉS](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : LES RECHERCHES IMPLIQUANT LA PERSONNE HUMAINE](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : LA RECHERCHE SUR L'EMBRYON HUMAIN, LES CELLULES SOUCHES EMBRYONNAIRES HUMAINES ET LES CELLULES SOUCHES PLURIPOTENTES INDUITES HUMAINES](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : LES TRAITEMENTS DE DONNÉES À CARACTÈRE PERSONNEL](partie-reglementaire/livre-ii/titre-ii/chapitre-v.md) (4 articles)
+    - **Titre III : L'EXPÉRIMENTATION ET LA PROTECTION ANIMALES**
+      - [Chapitre II : LES ANIMAUX D'EXPÉRIMENTATION ET LEUR PROTECTION](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : PROCÉDURES D'AUTORISATION, D'AGRÉMENT, DE DÉCLARATION ET DE CONTRÔLE](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DÉROGATIONS RELATIVES À L'EXPÉRIMENTATION DANS LE DOMAINE DE LA DÉFENSE](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : LA COMMISSION NATIONALE POUR LA PROTECTION DES ANIMAUX UTILISÉS À DES FINS SCIENTIFIQUES](partie-reglementaire/livre-ii/titre-iii/chapitre-v.md) (1 article)
+      - [Chapitre VI : SANCTIONS](partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md) (1 article)
+    - **Titre IV : LES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS**
+      - [Chapitre unique.](partie-reglementaire/livre-ii/titre-iv/chapitre-unique.md) (8 articles)
+    - **Titre V : AUTRES DOMAINES DE RECHERCHE**
+      - [Chapitre Ier : LA RECHERCHE SCIENTIFIQUE MARINE](partie-reglementaire/livre-ii/titre-v/chapitre-ier.md) (16 articles)
+      - [Chapitre II : LES RECHERCHES SUR LA GESTION DES DÉCHETS RADIOACTIFS](partie-reglementaire/livre-ii/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : UTILISATION EN RECHERCHE DE CERTAINS PRODUITS CHIMIQUES](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : LA RECHERCHE EN ARCHÉOLOGIE](partie-reglementaire/livre-ii/titre-v/chapitre-iv.md) (2 articles)
+    - **Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : DISPOSITIONS RELATIVES À LA GUADELOUPE, LA GUYANE, LA RÉUNION, LA MARTINIQUE ET MAYOTTE](partie-reglementaire/livre-ii/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : DISPOSITIONS RELATIVES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-ii/titre-vi/chapitre-ii.md) (1 article)
+      - [Chapitre III : DISPOSITIONS RELATIVES À SAINT-MARTIN](partie-reglementaire/livre-ii/titre-vi/chapitre-iii.md) (1 article)
+      - [Chapitre IV : DISPOSITIONS RELATIVES À SAINT-PIERRE ET MIQUELON](partie-reglementaire/livre-ii/titre-vi/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS RELATIVES AUX ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-ii/titre-vi/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS RELATIVES À LA POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-ii/titre-vi/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE](partie-reglementaire/livre-ii/titre-vi/chapitre-vii.md) (4 articles)
+      - [Chapitre VIII : DISPOSITIONS RELATIVES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES](partie-reglementaire/livre-ii/titre-vi/chapitre-viii.md) (2 articles)
+  - **Livre III : LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : LES ÉTABLISSEMENTS PUBLICS DE RECHERCHE](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+    - **Titre II : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES AUX ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (15 articles)
+      - [Chapitre II : CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (33 articles)
+      - [Chapitre III : INSTITUT NATIONAL DE RECHERCHE POUR L'AGRICULTURE, L'ALIMENTATION ET L'ENVIRONNEMENT (INRAE)](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : INSTITUT NATIONAL DE LA SANTÉ ET DE LA RECHERCHE MÉDICALE (INSERM)](partie-reglementaire/livre-iii/titre-ii/chapitre-iv.md) (23 articles)
+      - [Chapitre V : INSTITUT DE RECHERCHE POUR LE DÉVELOPPEMENT (IRD)](partie-reglementaire/livre-iii/titre-ii/chapitre-v.md) (26 articles)
+      - [Chapitre VI : ÉTABLISSEMENTS DE RECHERCHE EN SCIENCES EXACTES ET TECHNOLOGIE](partie-reglementaire/livre-iii/titre-ii/chapitre-vi.md) (18 articles)
+      - [Chapitre VII : ÉTABLISSEMENTS DE RECHERCHE EN SCIENCES HUMAINES ET SOCIALES](partie-reglementaire/livre-iii/titre-ii/chapitre-vii.md) (18 articles)
+      - [Chapitre VIII : AUTRES ÉTABLISSEMENTS À CARACTÈRE ADMINISTRATIF](partie-reglementaire/livre-iii/titre-ii/chapitre-viii.md) (20 articles)
+      - [Chapitre IX : L'AGENCE NATIONALE DE LA RECHERCHE (ANR)](partie-reglementaire/livre-iii/titre-ii/chapitre-ix.md) (24 articles)
+    - **Titre III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL**
+      - [Chapitre Ier : ÉTABLISSEMENTS DE RECHERCHE DANS LE DOMAINE DE L'ESPACE ET DE L'AÉRONAUTIQUE](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (27 articles)
+      - [Chapitre II : ÉTABLISSEMENTS DE RECHERCHE DANS LE DOMAINE DE L'ÉNERGIE](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (18 articles)
+      - [Chapitre III : ÉTABLISSEMENTS DE RECHERCHE DANS LE DOMAINE DES RESSOURCES ET DES MILIEUX NATURELS](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (31 articles)
+      - [Chapitre IV : ÉTABLISSEMENTS DE RECHERCHE DANS LE DOMAINE DU DÉVELOPPEMENT](partie-reglementaire/livre-iii/titre-iii/chapitre-iv.md) (17 articles)
+      - [Chapitre V : ÉTABLISSEMENTS DE SUPPORT, DE VALORISATION ET DE DIFFUSION DE LA RECHERCHE](partie-reglementaire/livre-iii/titre-iii/chapitre-v.md) (19 articles)
+    - **Titre IV : LES STRUCTURES DE COOPÉRATION**
+      - [Chapitre V : ÉTABLISSEMENT PUBLIC CAMPUS CONDORCET](partie-reglementaire/livre-iii/titre-iv/chapitre-v.md) (17 articles)
+    - **Titre V : AUTRES ÉTABLISSEMENTS AYANT UNE ACTIVITÉ DE RECHERCHE**
+      - [Chapitre Ier : INSTITUT NATIONAL D'HISTOIRE DE L'ART (INHA)](partie-reglementaire/livre-iii/titre-v/chapitre-ier.md) (17 articles)
+      - [Chapitre II : INSTITUT NATIONAL DE RECHERCHES ARCHÉOLOGIQUES PRÉVENTIVES (INRAP)](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : MUSÉUM NATIONAL D'HISTOIRE NATURELLE (MUSÉUM)](partie-reglementaire/livre-iii/titre-v/chapitre-iii.md) (24 articles)
+    - **Titre VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre V : DISPOSITIONS RELATIVES AUX ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-iii/titre-vi/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS RELATIVES À LA POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-iii/titre-vi/chapitre-vi.md) (5 articles)
+      - [Chapitre VII : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE](partie-reglementaire/livre-iii/titre-vi/chapitre-vii.md) (5 articles)
+  - **Livre IV : LES PERSONNELS DE LA RECHERCHE**
+    - **Titre Ier : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier : MISSIONS ET GARANTIES FONDAMENTALES](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : LA FORMATION](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (26 articles)
+    - **Titre II : DISPOSITIONS APPLICABLES AUX PERSONNELS DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : CHERCHEURS](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (49 articles)
+      - [Chapitre III : INGÉNIEURS ET PERSONNELS TECHNIQUES DE LA RECHERCHE](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (91 articles)
+      - [Chapitre VI : DISPOSITIONS COMMUNES AUX FONCTIONNAIRES DES ÉTABLISSEMENTS PUBLICS À CARACTÈRE SCIENTIFIQUE ET TECHNOLOGIQUE](partie-reglementaire/livre-iv/titre-ii/chapitre-vi.md) (10 articles)
+    - **Titre III : MODALITÉS PARTICULIÈRES D'EMPLOI SCIENTIFIQUE**
+      - [Chapitre Ier : LES PERSONNELS CONTRACTUELS](partie-reglementaire/livre-iv/titre-iii/chapitre-ier.md) (39 articles)
+      - [Chapitre IV : DOCTORANTS ET CHERCHEURS ÉTRANGERS ACCUEILLIS DANS LE CADRE D'UN SÉJOUR DE RECHERCHE](partie-reglementaire/livre-iv/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre V : DISPOSITIONS RELATIVES AUX ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-iv/titre-iv/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS RELATIVES À LA POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-iv/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE](partie-reglementaire/livre-iv/titre-iv/chapitre-vii.md) (3 articles)
+  - **Livre V : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE ET LE TRANSFERT DE TECHNOLOGIE EN DIRECTION DU MONDE ÉCONOMIQUE ET DES ASSOCIATIONS ET FONDATIONS, RECONNUES D'UTILITÉ PUBLIQUE**
+    - **Titre Ier : INCITATIONS EN FAVEUR DE LA RECHERCHE ET DE L'INNOVATION**
+      - [Chapitre Ier : LE CRÉDIT D'IMPÔT-RECHERCHE](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : LES FONDS COMMUNS DE PLACEMENT DANS L'INNOVATION (FCPI)](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : L'AIDE À L'INNOVATION ET LES INCITATIONS EN FAVEUR DE LA VALORISATION ET DU TRANSFERT DE TECHNOLOGIE](partie-reglementaire/livre-v/titre-ier/chapitre-iii.md) (17 articles)
+    - **Titre II : LES STRUCTURES DE COOPÉRATION TECHNOLOGIQUE**
+      - [Chapitre Ier : LES CENTRES TECHNIQUES INDUSTRIELS](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : AUTRES STRUCTURES](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (1 article)
+    - **Titre III : DISPOSITIONS RELATIVES AUX PERSONNELS ET AUX ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE**
+      - [Chapitre Ier : PARTICIPATION DES PERSONNELS DE LA RECHERCHE À LA CRÉATION D'ENTREPRISES ET AUX ACTIVITÉS DES ENTREPRISES EXISTANTES](partie-reglementaire/livre-v/titre-iii/chapitre-ier.md) (10 articles)
+      - [Chapitre II : L'INTÉRESSEMENT DES CHERCHEURS](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (13 articles)
+      - [Chapitre III : LA VALORISATION DES RÉSULTATS DE LA RECHERCHE PAR LES ÉTABLISSEMENTS ET ORGANISMES DE RECHERCHE](partie-reglementaire/livre-v/titre-iii/chapitre-iii.md) (16 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre II : DISPOSITIONS RELATIVES À SAINT-BARTHÉLEMY](partie-reglementaire/livre-v/titre-iv/chapitre-ii.md) (2 articles)
+      - [Chapitre III : DISPOSITIONS RELATIVES À SAINT-MARTIN](partie-reglementaire/livre-v/titre-iv/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : DISPOSITIONS RELATIVES À SAINT-PIERRE-ET-MIQUELON](partie-reglementaire/livre-v/titre-iv/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS RELATIVES AUX ÎLES WALLIS ET FUTUNA](partie-reglementaire/livre-v/titre-iv/chapitre-v.md) (3 articles)
+      - [Chapitre VI : DISPOSITIONS RELATIVES À LA POLYNÉSIE FRANÇAISE](partie-reglementaire/livre-v/titre-iv/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : DISPOSITIONS RELATIVES À LA NOUVELLE-CALÉDONIE](partie-reglementaire/livre-v/titre-iv/chapitre-vii.md) (3 articles)

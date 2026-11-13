@@ -9,7 +9,7 @@ Code civil › Livre V : Dispositions applicables à Mayotte › Titre IV : Disp
 - État : en vigueur depuis le 01/01/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044073623
 - Renvoie à : [art. 2375 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/articles-directs.md#article-2375) ; [art. 2377 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/chapitre-ier.md#article-2377)
-- Cité par : [art. L611-1 du Code de l'expropriation pour cause d'utilité pu...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029733994)
+- Cité par : [art. L611-1 du Code de l'expropriation pour cause d'utilité publique](../../../code-de-l-expropriation-pour-cause-d-utilite-publique/partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-unique.md#article-l611-1)
 
 Par dérogation aux dispositions de l'article 2377, les seuls privilèges généraux sur les immeubles applicables à Mayotte sont les frais de justice et les droits du Trésor public. Ces deux privilèges sont exonérés de l'inscription sur le livre foncier.
 

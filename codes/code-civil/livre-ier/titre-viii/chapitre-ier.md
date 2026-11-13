@@ -8,7 +8,7 @@ Code civil › Livre Ier : Des personnes › Titre VIII : De la filiation adopti
 - Identifiant : LEGIARTI000046372004
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046372004
-- Cité par : [art. 361 du Code civil](chapitre-iii.md#article-361) ; [art. Annexe 2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052043213)
+- Cité par : [art. 361 du Code civil](chapitre-iii.md#article-361) ; [art. Annexe 2-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-2-6)
 
 L'adoption peut être demandée par deux époux non séparés de corps, deux partenaires liés par un pacte civil de solidarité ou deux concubins.  
 
@@ -20,7 +20,7 @@ Les adoptants doivent être en mesure d'apporter la preuve d'une communauté de 
 - Identifiant : LEGIARTI000045204971
 - État : en vigueur depuis le 23/02/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045204971
-- Cité par : [art. Annexe 2-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052043213)
+- Cité par : [art. Annexe 2-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-2-6)
 
 L'adoption peut être aussi demandée par toute personne âgée de plus de vingt-six ans.
 
@@ -32,6 +32,7 @@ Si l'adoptant est marié et non séparé de corps ou lié par un pacte civil de 
 - Identifiant : LEGIARTI000046372646
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046372646
+- Cité par : [art. L224-5 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-5)
 
 Peuvent être adoptés :
 
@@ -142,7 +143,7 @@ Il en est de même lorsque la filiation de l'enfant n'est pas établie.
 - Identifiant : LEGIARTI000046373309
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046373309
-- Cité par : [art. 345 du Code civil](chapitre-ier.md#article-345) ; [art. A444-163-4 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-163-4) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. 1165 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-viii.md#article-1165) ; [art. L224-5 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027762744) ; [art. R225-31 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047971703) ; [Loi n°66-500 du 11 juillet 1966, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283832)
+- Cité par : [art. 345 du Code civil](chapitre-ier.md#article-345) ; [art. A444-163-4 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-163-4) ; [art. Annexe 4-7 du Code de commerce](../../../code-de-commerce/annexes-de-la-partie-reglementaire.md#article-annexe-4-7) ; [art. L224-5 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-5) ; [art. R225-31 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-v.md#article-r225-31) ; [art. 1165 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-viii.md#article-1165) ; [Loi n°66-500 du 11 juillet 1966, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283832)
 
 Le consentement à l'adoption doit être libre, obtenu sans aucune contrepartie après la naissance de l'enfant et éclairé sur les conséquences de l'adoption, en particulier s'il est donné en vue d'une adoption plénière, sur le caractère complet et irrévocable de la rupture du lien de filiation préexistant.
 
@@ -152,7 +153,7 @@ Le consentement à l'adoption est donné devant un notaire français ou étrange
 - Identifiant : LEGIARTI000046373445
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046373445
-- Cité par : [art. R225-31 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047971703)
+- Cité par : [art. R225-31 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-v.md#article-r225-31)
 
 Le consentement à l'adoption des enfants de moins de deux ans n'est valable que si l'enfant a été effectivement remis au service de l'aide sociale à l'enfance, sauf le cas où il existe un lien de parenté ou d'alliance jusqu'au sixième degré inclus entre l'adoptant et l'adopté ou dans les cas d'adoption de l'enfant du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin.
 
@@ -187,7 +188,7 @@ Il en est de même en cas de refus abusif de consentement du conseil de famille.
 - Identifiant : LEGIARTI000046372037
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046372037
-- Cité par : [art. R224-18 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049624671)
+- Cité par : [art. R224-18 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md#article-r224-18)
 
 L'adopté âgé de plus de treize ans consent personnellement à son adoption.  
 
@@ -199,7 +200,7 @@ Il peut être rétracté à tout moment jusqu'au prononcé de l'adoption.
 - Identifiant : LEGIARTI000046375101
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046375101
-- Cité par : [art. L161-3 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045293394)
+- Cité par : [art. L161-3 du Code des pensions militaires d'invalidité et des victimes de la guerre](../../../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-legislative-nouvelle/livre-ier/titre-vi/chapitre-ier.md#article-l161-3)
 
 Le tribunal peut prononcer l'adoption, si elle est conforme à l'intérêt de l'adopté, d'un mineur âgé de plus de treize ans ou d'un majeur protégé, l'un et l'autre hors d'état d'y consentir personnellement, après avoir recueilli l'avis d'un administrateur ad hoc ou de la personne chargée d'une mesure de protection juridique avec représentation relative à la personne.
 

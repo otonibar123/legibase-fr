@@ -71,6 +71,7 @@ L'appel est formé, instruit et jugé comme en matière gracieuse.
 - Identifiant : LEGIARTI000042057569
 - État : en vigueur depuis le 01/07/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042057569
+- Renvoie à : [art. L213-1 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-ii/titre-ier/chapitre-3.md#article-l213-1)
 - Cité par : [art. 1441 du Code de procédure civile](chapitre-v.md#article-1441) ; [Arrêté du 29 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052181362)
 
 Les éléments permettant d'identifier les personnes physiques mentionnées dans la décision, lorsqu'elles sont parties ou tiers, sont occultés par le greffier préalablement à la remise de la décision si leur divulgation est de nature à porter atteinte à la sécurité ou au respect de la vie privée de ces personnes ou de leur entourage. En tout état de cause, il est procédé à cette occultation lorsqu'elle a été décidée, pour ces personnes, en application des articles R. 111-12 ou R. 111-13.  

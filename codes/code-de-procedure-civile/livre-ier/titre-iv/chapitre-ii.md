@@ -36,7 +36,7 @@ Lorsque la demande émane du tiers, l'intervention est volontaire ; l'interventi
 - Identifiant : LEGIARTI000006410172
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410172
-- Cité par : [art. 302 du Code général des impôts, annexe 2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006295675)
+- Cité par : [art. 302 du Code général des impôts, annexe II](../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iv/chapitre-ii.md#article-302)
 
 La demande incidente doit exposer les prétentions et les moyens de la partie qui la forme et indiquer les pièces justificatives.
 

@@ -38,7 +38,7 @@ Le Conseil peut être saisi de toute question relevant de son domaine de compét
 - Identifiant : LEGIARTI000032809158
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032809158
-- Renvoie à : art. L3231-1 du Code de la santé publique ; [art. L1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029579996)
+- Renvoie à : [art. L3231-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ii-bis/titre-unique/chapitre-ier.md#article-l3231-1) ; [art. L1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-preliminaire.md#article-l1)
 
 La politique publique de l'alimentation est définie à l'article L. 1 du code rural et de la pêche maritime.  
 Le programme national relatif à la nutrition et à la santé est défini à l'article L. 3231-1 du code de la santé publique.
@@ -47,7 +47,7 @@ Le programme national relatif à la nutrition et à la santé est défini à l'a
 - Identifiant : LEGIARTI000047075581
 - État : en vigueur depuis le 01/02/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047075581
-- Renvoie à : art. L266-2 du Code de l'action sociale et des familles ; art. L141-1 du Code de l'environnement ; art. L1114-1 du Code de la santé publique ; art. L1 du Code rural et de la pêche maritime
+- Renvoie à : [art. L266-2 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-vi.md#article-l266-2) ; [art. L141-1 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-ier/titre-iv/chapitre-ier.md#article-l141-1) ; [art. L1114-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-iv.md#article-l1114-1) ; [art. L1 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-preliminaire.md#article-l1)
 - Cité par : [art. D824-5 du Code de la consommation](chapitre-iv.md#article-d824-5) ; [art. D824-6 du Code de la consommation](chapitre-iv.md#article-d824-6)
 
 Le Conseil national de l'alimentation comprend :

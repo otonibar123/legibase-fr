@@ -636,7 +636,7 @@ Conformément aux dispositions de l'article R. 663-26, l'émolument du au titre 
 - Identifiant : LEGIARTI000041684961
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684961
-- Renvoie à : [art. R663-27 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-vi/chapitre-iii.md#article-r663-27) ; art. L515-8 du Code de l'environnement
+- Renvoie à : [art. R663-27 du Code de commerce](../../../partie-reglementaire/livre-vi/titre-vi/chapitre-iii.md#article-r663-27) ; [art. L515-8 du Code de l'environnement](../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8)
 
 L'émolument prévu à l'article R. 663-27 au titre des obligations résultant de la cessation d'activité d'une ou de plusieurs installations classées au sens du titre Ier du livre V du code de l'environnement (numéro 10 du tableau 4-3) est fixé à :  
 

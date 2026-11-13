@@ -163,7 +163,7 @@ L'engagement d'apprentis par une entreprise peut faire l'objet d'une décision d
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037813428
 - Renvoie à : [art. L6223-8-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-8-1) ; [art. L6314-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-iv.md#article-l6314-1)
-- Cité par : [art. R6226-1 du Code du travail](chapitre-vi.md#article-r6226-1) ; [art. R6227-1 du Code du travail](chapitre-vii.md#article-r6227-1) ; [art. A212-28 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019263137)
+- Cité par : [art. A212-28 du Code du sport](../../../../../code-du-sport/partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md#article-a212-28) ; [art. R6226-1 du Code du travail](chapitre-vi.md#article-r6226-1) ; [art. R6227-1 du Code du travail](chapitre-vii.md#article-r6227-1)
 
 A défaut de convention ou accord collectif de branche fixant les conditions de compétence professionnelle exigées d'un maître d'apprentissage, sont réputées remplir la condition de compétence professionnelle exigée d'un maître d'apprentissage en application de l'article L. 6223-8-1 :
 

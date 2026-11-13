@@ -6,7 +6,7 @@ Code de la consommation › Partie législative nouvelle › Livre VII : TRAITEM
 - Identifiant : LEGIARTI000032224556
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224556
-- Cité par : [art. L224-37-1 du Code de la consommation](../../livre-ii/titre-ii/chapitre-iv.md#article-l224-37-1) ; [art. L721-5 du Code de la consommation](chapitre-ier.md#article-l721-5) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. D7-2 du Code des pensions civiles et militaires de retr...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053217507)
+- Cité par : [art. L224-37-1 du Code de la consommation](../../livre-ii/titre-ii/chapitre-iv.md#article-l224-37-1) ; [art. L721-5 du Code de la consommation](chapitre-ier.md#article-l721-5) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. D7-2 du Code des pensions civiles et militaires de retraite](../../../../code-des-pensions-civiles-et-militaires-de-retraite/partie-reglementaire-decrets-simples/livre-ier/titre-ii/chapitre-iii.md#article-d7-2) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234)
 
 Le débiteur saisit la commission de surendettement des particuliers d'une demande tendant au traitement de sa situation de surendettement dans laquelle il déclare les éléments actifs et passifs de son patrimoine.
 
@@ -24,7 +24,7 @@ Si, au terme de ce délai, la commission n'a pas décidé de l'orientation du do
 - Identifiant : LEGIARTI000034073071
 - État : en vigueur depuis le 23/02/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034073071
-- Renvoie à : [art. L751-1 du Code de la consommation](../titre-v/chapitre-ier.md#article-l751-1) ; art. 226-13 du Code pénal
+- Renvoie à : [art. L751-1 du Code de la consommation](../titre-v/chapitre-ier.md#article-l751-1) ; [art. 226-13 du Code pénal](../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-226-13)
 - Cité par : [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234)
 
 Les renseignements relatifs au dépôt d'un dossier de surendettement et à la situation du débiteur ne peuvent être communiqués aux créanciers, aux établissements de paiement, aux établissements de monnaie électronique et aux établissements de crédit qui tiennent les comptes de dépôt du débiteur, antérieurement à la décision de recevabilité du dossier, sous peine des sanctions prévues à l'article 226-13 du code pénal.
@@ -35,7 +35,7 @@ Ces dispositions ne font toutefois pas obstacle à l'application des règles pr�
 - Identifiant : LEGIARTI000039119635
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119635
-- Cité par : [art. L721-6 du Code de la consommation](chapitre-ier.md#article-l721-6) ; [art. R721-5 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ier.md#article-r721-5) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234) ; [art. R322-16 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747494)
+- Cité par : [art. L721-6 du Code de la consommation](chapitre-ier.md#article-l721-6) ; [art. R721-5 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ier.md#article-r721-5) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. R322-16 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-16) ; [art. L771-2 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053611234)
 
 A la demande du débiteur, la commission peut saisir, à compter du dépôt du dossier et jusqu'à la décision statuant sur la recevabilité de la demande de traitement de la situation de surendettement, le juge des contentieux de la protection aux fins de suspension des procédures d'exécution diligentées à l'encontre des biens du débiteur ainsi que des cessions de rémunération consenties par celui-ci et portant sur les dettes autres qu'alimentaires.  
 
@@ -65,6 +65,6 @@ Lorsqu'elle est prononcée, la suspension mentionnée à l'article L. 721-4 s'ap
 - Identifiant : LEGIARTI000032224544
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224544
-- Cité par : [art. R721-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ier.md#article-r721-7) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. R322-28 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747503) ; [Décret n°2019-992 du 26 septembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039372745)
+- Cité par : [art. R721-7 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-ii/chapitre-ier.md#article-r721-7) ; [art. R732-2 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-vii/titre-iii/chapitre-ii.md#article-r732-2) ; [art. R322-28 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-28) ; [Décret n°2019-992 du 26 septembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039372745)
 
 En cas de saisie immobilière, lorsque la vente forcée a été ordonnée, le report de la date d'adjudication ne peut résulter que d'une décision du juge chargé de la saisie immobilière, saisi à cette fin par la commission, pour causes graves et dûment justifiées.

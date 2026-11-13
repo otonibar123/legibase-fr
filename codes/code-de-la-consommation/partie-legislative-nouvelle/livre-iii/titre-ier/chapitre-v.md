@@ -18,7 +18,7 @@ Ce contrat peut également prévoir le même dispositif avec un remboursement p�
 - État : en vigueur depuis le 01/09/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048841356
 - Renvoie à : art. L511-6 du Code monétaire et financier
-- Cité par : [art. L315-4 du Code de la consommation](chapitre-v.md#article-l315-4) ; [art. R315-3 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-r315-3) ; [Arrêté du 10 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053017506) ; [Arrêté du 23 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050864374) ; [Arrêté du 3 septembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050175323) ; [art. Annexe à l'article R314-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516619) ; [Décret n°2024-887 du 3 septembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050175148)
+- Cité par : [art. L315-4 du Code de la consommation](chapitre-v.md#article-l315-4) ; [art. R315-3 du Code de la consommation](../../../partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-v.md#article-r315-3) ; [art. D31-11-7 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-ier/chapitre-xi.md#article-d31-11-7) ; [art. L312-7 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-7) ; [art. 244 quater T du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-iv.md#article-244-quater-t) ; [Arrêté du 10 décembre 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053017506) ; [Arrêté du 23 décembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050864374) ; [Arrêté du 3 septembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050175323) ; [art. Annexe à l'article R314-3 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053516619) ; [Décret n°2024-887 du 3 septembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050175148)
 
 Un établissement de crédit, un établissement financier ou une société de tiers-financement mentionnée au 8 de l'article L. 511-6 du code monétaire et financier peuvent procéder au financement de travaux de rénovation au moyen d'un prêt avance mutation garanti par une hypothèque constituée à hauteur du montant initial du prêt augmenté des intérêts capitalisés annuellement et dont le remboursement ne peut être exigé que lors de la mutation du bien. Le prêt avance mutation peut financer les frais liés à l'inscription d'une hypothèque et les frais notariés.
 
@@ -85,7 +85,7 @@ L'offre préalable de crédit doit être distincte de tout support ou document p
 - Identifiant : LEGIARTI000043977216
 - État : en vigueur depuis le 25/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977216
-- Renvoie à : art. L341-1 du Code monétaire et financier
+- Renvoie à : [art. L341-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-iv/chapitre-ier.md#article-l341-1)
 
 Une opération de prêt viager hypothécaire ou de prêt avance mutation ne peut faire l'objet d'un démarchage au sens du septième alinéa de l'article L. 341-1 du code monétaire et financier.
 
@@ -96,7 +96,7 @@ Une opération de prêt viager hypothécaire ou de prêt avance mutation ne peut
 - État : en vigueur depuis le 25/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977203
 - Renvoie à : [art. L314-1 du Code de la consommation](chapitre-iv.md#article-l314-1) ; [art. L315-10 du Code de la consommation](chapitre-v.md#article-l315-10) ; [art. L315-20 du Code de la consommation](chapitre-v.md#article-l315-20) ; [art. L341-41 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l341-41) ; [art. L341-55 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l341-55)
-- Cité par : [art. L341-54 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l341-54) ; [art. L341-57 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l341-57) ; [Décret n°2024-887 du 3 septembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050175148)
+- Cité par : [art. L341-54 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l341-54) ; [art. L341-57 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l341-57) ; [art. D31-11-6 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-ier/chapitre-xi.md#article-d31-11-6) ; [art. D31-11-7 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-ier/chapitre-xi.md#article-d31-11-7) ; [Décret n°2024-887 du 3 septembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050175148)
 
 L'opération de prêt viager hypothécaire ou de prêt avance mutation est conclue dans les termes d'une offre préalable comportant les mentions suivantes :
 
@@ -161,7 +161,7 @@ Ainsi qu'il est dit à l'article 1305-4 du code civil, le débiteur ne peut réc
 - Identifiant : LEGIARTI000049397530
 - État : en vigueur depuis le 11/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049397530
-- Renvoie à : art. L312-7 du Code de la construction et de l'habitation
+- Renvoie à : [art. L312-7 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-7)
 
 Le débiteur perd également le bénéfice du terme lorsqu'il change l'affectation du bien hypothéqué ou lorsqu'il refuse au créancier l'accès de l'immeuble hypothéqué pour s'assurer de son bon état d'entretien et de conservation ou en cas de prêt à versement périodique d'intérêts, lorsqu'il est défaillant dans le versement d'une ou de plusieurs échéances d'intérêts.
 

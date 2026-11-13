@@ -31,7 +31,7 @@ On ne peut prescrire les biens ou les droits qui ne sont point dans le commerce.
 - Identifiant : LEGIARTI000019017202
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017202
-- Cité par : [art. L331-7 du Code forestier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025247262) ; [Décret n°2017-1802 du 28 décembre 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036409170) ; [Décret n°2026-286 du 16 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053908537) ; [Décret n°2026-286 du 16 avril 2026, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053908556) ; [LOI n°2024-322 du 9 avril 2024, art. 51](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049394311)
+- Cité par : [art. L331-7 du Code forestier (nouveau)](../../../code-forestier-nouveau/partie-legislative/livre-iii/titre-iii/chapitre-ier.md#article-l331-7) ; [Décret n°2017-1802 du 28 décembre 2017, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036409170) ; [Décret n°2026-286 du 16 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053908537) ; [Décret n°2026-286 du 16 avril 2026, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053908556) ; [LOI n°2024-322 du 9 avril 2024, art. 51](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049394311)
 
 Pour pouvoir prescrire, il faut une possession continue et non interrompue, paisible, publique, non équivoque, et à titre de propriétaire.
 
@@ -104,7 +104,7 @@ Ceux à qui les locataires, dépositaires, usufruitiers et autres détenteurs pr
 - Identifiant : LEGIARTI000019017057
 - État : en vigueur depuis le 19/06/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017057
-- Cité par : [Arrêté du 8 septembre 2009, art. 44](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021095692) ; [art. R123-1 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818497) ; [art. Annexe I art A243-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019231476) ; [Décret n°96-478 du 31 mai 1996, art. 34](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006199871) ; [Loi n°78-12 du 4 janvier 1978, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006839864)
+- Cité par : [art. R123-1 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-1) ; [art. Annexe I art A243-1 du Code des assurances](../../../code-des-assurances/partie-reglementaire-arretes/livre-ii/titre-iv.md#article-annexe-i-art-a243-1) ; [Arrêté du 8 septembre 2009, art. 44](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021095692) ; [Décret n°96-478 du 31 mai 1996, art. 34](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006199871) ; [Loi n°78-12 du 4 janvier 1978, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006839864)
 
 On ne peut pas prescrire contre son titre, en ce sens que l'on ne peut point se changer à soi-même la cause et le principe de sa possession.
 

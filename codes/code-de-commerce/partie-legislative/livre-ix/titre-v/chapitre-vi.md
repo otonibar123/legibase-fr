@@ -55,7 +55,7 @@ L. 626-6, L. 643-3 et L. 643-11, les institutions régies par le livre IX du cod
 - Identifiant : LEGIARTI000022233742
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233742
-- Renvoie à : [art. L642-2 du Code de commerce](../../livre-vi/titre-iv/chapitre-ii.md#article-l642-2) ; [art. L331-3 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583519) ; art. L331-3 du Code rural et de la pêche maritime
+- Renvoie à : [art. L642-2 du Code de commerce](../../livre-vi/titre-iv/chapitre-ii.md#article-l642-2) ; [art. L331-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iii/chapitre-ier.md#article-l331-3)
 
 A l'article L. 642-2, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de l'article L. 331-3 du code rural et de la pêche maritime s'entend des prescriptions suivantes :
 

@@ -6,7 +6,7 @@ Code du travail › Partie législative › Cinquième partie : L'emploi › Liv
 - Identifiant : LEGIARTI000022517620
 - État : en vigueur depuis le 25/07/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022517620
-- Cité par : [art. L1251-4 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-4) ; [Arrêté du 1er septembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049821457) ; [art. L5546-1-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043072487) ; [art. L5546-1-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043072475) ; [Décret n°2017-1119 du 29 juin 2017, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035065469) ; [Décret n°2017-1119 du 29 juin 2017, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035065463)
+- Cité par : [art. L5546-1-1 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-vi.md#article-l5546-1-1) ; [art. L5546-1-5 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-vi.md#article-l5546-1-5) ; [art. L5785-5-1 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-vii/titre-viii/chapitre-v.md#article-l5785-5-1) ; [art. L5795-6-1 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-vii/titre-ix/chapitre-v.md#article-l5795-6-1) ; [art. L1251-4 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-4) ; [Arrêté du 1er septembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049821457) ; [Décret n°2017-1119 du 29 juin 2017, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035065469) ; [Décret n°2017-1119 du 29 juin 2017, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035065463)
 
 L'activité de placement consiste à fournir, à titre habituel, des services visant à rapprocher les offres et les demandes d'emploi, sans que la personne assurant cette activité ne devienne partie aux relations de travail susceptibles d'en découler.
 
@@ -24,7 +24,7 @@ Aucun service de placement ne peut être refusé à une personne à la recherche
 - Identifiant : LEGIARTI000031643464
 - État : en vigueur depuis le 19/12/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031643464
-- Renvoie à : [art. L7121-9 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l7121-9) ; [art. L222-6 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006547600)
+- Renvoie à : [art. L222-6 du Code du sport](../../../../../code-du-sport/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l222-6) ; [art. L7121-9 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l7121-9)
 - Cité par : [art. L5324-1 du Code du travail](chapitre-iv.md#article-l5324-1)
 
 Aucune rétribution, directe ou indirecte, ne peut être exigée des personnes à la recherche d'un emploi en contrepartie de la fourniture de services de placement, sous réserve des dispositions :

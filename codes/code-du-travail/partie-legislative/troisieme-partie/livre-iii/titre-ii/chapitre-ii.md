@@ -8,8 +8,8 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - Identifiant : LEGIARTI000038613215
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038613215
-- Renvoie à : [art. L130-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038498675)
-- Cité par : [art. L3346-1 du Code du travail](../titre-iv/chapitre-vi.md#article-l3346-1) ; [art. 81 bis du CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018621184) ; [LOI n°2019-486 du 22 mai 2019, art. 155](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042656580)
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1)
+- Cité par : [art. L3346-1 du Code du travail](../titre-iv/chapitre-vi.md#article-l3346-1) ; [art. 81 bis du Code général des impôts, annexe II](../../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-81-bis) ; [LOI n°2019-486 du 22 mai 2019, art. 155](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042656580)
 
 La participation a pour objet de garantir collectivement aux salariés le droit de participer aux résultats de l'entreprise.
 
@@ -26,7 +26,7 @@ Elle concourt à la mise en œuvre de la gestion participative dans l'entreprise
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038613208
 - Renvoie à : [art. L2313-8 du Code du travail](../../../deuxieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-l2313-8)
-- Cité par : [art. L3324-8 du Code du travail](chapitre-iv.md#article-l3324-8) ; [art. L137-15 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047452686) ; [art. L137-16 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031012057) ; [art. R5343-23 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042049771)
+- Cité par : [art. L137-15 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-15) ; [art. L137-16 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-16) ; [art. R5343-23 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r5343-23) ; [art. L3324-8 du Code du travail](chapitre-iv.md#article-l3324-8)
 
 Les entreprises employant au moins cinquante salariés garantissent le droit de leurs salariés à participer aux résultats de l'entreprise. Il en va de même pour les entreprises constituant une unité économique et sociale mentionnée à l'article L. 2313-8 et composée d'au moins cinquante salariés.
 
@@ -47,7 +47,7 @@ Dans les entreprises nouvelles dont la création ne résulte pas d'une fusion, t
 - Identifiant : LEGIARTI000035652821
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652821
-- Cité par : [art. L3322-7 du Code du travail](chapitre-ii.md#article-l3322-7) ; [art. L3322-9 du Code du travail](chapitre-ii.md#article-l3322-9) ; [art. L3323-8 du Code du travail](chapitre-iii.md#article-l3323-8) ; [art. L3324-9 du Code du travail](chapitre-iv.md#article-l3324-9) ; [art. L3332-3 du Code du travail](../titre-iii/chapitre-ii.md#article-l3332-3) ; [art. L3332-4 du Code du travail](../titre-iii/chapitre-ii.md#article-l3332-4) ; [art. L3334-2 du Code du travail](../titre-iii/chapitre-iv.md#article-l3334-2) ; [art. R3332-7 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r3332-7) ; [art. L2101-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036243386) ; [art. R5343-25 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042049765) ; [art. 39 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026949398) ; [art. L224-14 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038818303)
+- Cité par : [art. L2101-6 du Code des transports](../../../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ier/titre-preliminaire/chapitre-ier.md#article-l2101-6) ; [art. R5343-25 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r5343-25) ; [art. L3322-7 du Code du travail](chapitre-ii.md#article-l3322-7) ; [art. L3322-9 du Code du travail](chapitre-ii.md#article-l3322-9) ; [art. L3323-8 du Code du travail](chapitre-iii.md#article-l3323-8) ; [art. L3324-9 du Code du travail](chapitre-iv.md#article-l3324-9) ; [art. L3332-3 du Code du travail](../titre-iii/chapitre-ii.md#article-l3332-3) ; [art. L3332-4 du Code du travail](../titre-iii/chapitre-ii.md#article-l3332-4) ; [art. L3334-2 du Code du travail](../titre-iii/chapitre-iv.md#article-l3334-2) ; [art. R3332-7 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-r3332-7) ; [art. L224-14 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-14) ; [art. 39 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026949398)
 
 Les accords de participation sont conclus selon l'une des modalités suivantes :  
 

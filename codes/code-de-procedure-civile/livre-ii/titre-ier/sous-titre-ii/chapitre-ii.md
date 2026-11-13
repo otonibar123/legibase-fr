@@ -6,7 +6,7 @@ Code de procédure civile › Livre II : Dispositions particulières à chaque j
 - Identifiant : LEGIARTI000039623592
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623592
-- Cité par : [art. R421-9 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846252)
+- Cité par : [art. R421-9 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9)
 
 La demande est formée par un avocat, ou par un officier public ou ministériel dans les cas où ce dernier y est habilité par les dispositions en vigueur.
 

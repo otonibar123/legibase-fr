@@ -107,6 +107,7 @@ Le juge de l'exécution statue sur les oppositions et ordonne la radiation des i
 - Identifiant : LEGIARTI000026854514
 - État : en vigueur depuis le 01/01/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026854514
+- Renvoie à : [art. R533-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-iii/chapitre-iii.md#article-r533-1)
 
 Le liquidateur remet au service de la publicité foncière une expédition du procès-verbal de clôture de l'ordre, de l'ordonnance du juge des ordres prononçant la radiation des inscriptions ou l'acte par lequel les créanciers ont donné mainlevée de leurs inscriptions.
 
@@ -124,6 +125,7 @@ Le liquidateur fixe les frais de radiation et de poursuite de l'ordre qui sont c
 - Identifiant : LEGIARTI000039624435
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624435
+- Renvoie à : [art. R311-4 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-4) ; [art. R311-6 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-6) ; [art. R311-7 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ier/chapitre-unique.md#article-r311-7)
 - Cité par : [art. R626-37 du Code de commerce](../titre-ii/chapitre-vi.md#article-r626-37) ; [art. R643-6 du Code de commerce](chapitre-iii.md#article-r643-6) ; [art. R643-7 du Code de commerce](chapitre-iii.md#article-r643-7)
 
 Les contestations sont formées dans le délai de trente jours à compter de l'insertion au Bulletin officiel des annonces civiles et commerciales avisant du dépôt de l'état de collocation. Elles sont faites par requête remise ou adressée au greffe du juge de l'exécution du tribunal judiciaire devant lequel s'est déroulée la procédure de liquidation judiciaire ou dans le ressort duquel la procédure s'est déroulée.
@@ -229,7 +231,7 @@ Dans le cas prévu aux I, II et III de l'article L. 643-11, l'ordonnance est ren
 - Identifiant : LEGIARTI000045921267
 - État : en vigueur depuis le 17/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045921267
-- Renvoie à : art. L131-73 du Code monétaire et financier
+- Renvoie à : [art. L131-73 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-l131-73)
 - Cité par : [art. R645-20 du Code de commerce](chapitre-v.md#article-r645-20)
 
 Si le débiteur fait l'objet d'une mesure d'interdiction d'émettre des chèques prise en application de l'article L. 131-73 du code monétaire et financier, le liquidateur se fait remettre par la Banque de France un relevé des incidents de paiement de chèques enregistrés au nom de l'intéressé et, si le débiteur est un entrepreneur, des incidents de paiement afférents au patrimoine, ou aux patrimoines, faisant l'objet de la procédure et le dépose au greffe. Le greffier conserve ce relevé pendant cinq ans à compter du jugement d'ouverture de la procédure.

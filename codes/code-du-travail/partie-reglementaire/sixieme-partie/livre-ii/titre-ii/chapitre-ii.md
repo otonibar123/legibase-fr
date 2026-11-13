@@ -34,7 +34,7 @@ c) La mise en œuvre de la procédure de suspension de l'exécution du contrat d
 - Identifiant : LEGIARTI000029444348
 - État : en vigueur depuis le 13/09/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029444348
-- Renvoie à : [art. L6222-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-1)
+- Renvoie à : [art. D331-3 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-d331-3) ; [art. D331-4 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-d331-4) ; [art. D331-15 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md#article-d331-15) ; [art. L6222-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-1) ; [art. R715-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-v.md#article-r715-1) ; [art. R715-1-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-v.md#article-r715-1-5)
 - Cité par : [art. D6235-3 du Code du travail](../titre-iii/chapitre-v.md#article-d6235-3) ; [art. R6332-25 du Code du travail](../../livre-iii/titre-iii/chapitre-ii.md#article-r6332-25)
 
 En application du troisième alinéa de l'article L. 6222-1, les jeunes qui atteignent l'âge de quinze ans avant le terme de l'année civile peuvent être inscrits, sous statut scolaire, dans un lycée professionnel ou dans un centre de formation d'apprentis pour débuter leur formation, dans les conditions suivantes :
@@ -68,7 +68,7 @@ Chaque exemplaire est signé par l'employeur, l'apprenti et, le cas échéant, s
 - Identifiant : LEGIARTI000041771270
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771270
-- Renvoie à : [art. L6223-8-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-8-1) ; art. L130-1 du Code de la sécurité sociale
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1) ; [art. L6223-8-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-8-1)
 
 Le contrat d'apprentissage précise :
 
@@ -112,7 +112,7 @@ Dans le cadre d'un centre de formation d'apprentis interne à l'entreprise, la c
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771297
 - Renvoie à : [art. L6222-7-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-7-1)
-- Cité par : [Arrêté du 8 juillet 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020849838) ; [art. D337-60 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041913676)
+- Cité par : [art. D337-60 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-iii/titre-iii/chapitre-vii.md#article-d337-60) ; [Arrêté du 8 juillet 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020849838)
 
 Un arrêté du ministre chargé de la formation professionnelle détermine le modèle de la convention tripartite prévue au dernier alinéa de l'article L. 6222-7-1.
 
@@ -129,7 +129,7 @@ La convention tripartite prévue au dernier alinéa de l'article L. 6222-7-1 est
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771278
 - Renvoie à : [art. L6222-7-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-7-1) ; [art. L6222-11 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-11) ; [art. L6222-12-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-12-1) ; [art. L6222-37 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-37) ; [art. L6222-40 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-40)
-- Cité par : [art. D6222-19 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041445908) ; [art. R6222-11 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029446070) ; [art. R6222-13 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029469746) ; [art. D811-139-2 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053057608)
+- Cité par : [art. D811-139-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-viii/titre-ier/chapitre-ier.md#article-d811-139-2) ; [art. D6222-19 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041445908) ; [art. R6222-11 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029446070) ; [art. R6222-13 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029469746)
 
 La conclusion de la convention tripartite prévue au dernier alinéa de l'article L. 6222-7-1 n'est pas requise dans les cas prévus aux articles L. 6222-11 et L. 6222-12-1, au 2° de l'article L. 6222-37 et au 1° de l'article L. 6222-40.
 
@@ -137,7 +137,7 @@ La conclusion de la convention tripartite prévue au dernier alinéa de l'articl
 - Identifiant : LEGIARTI000041771292
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771292
-- Cité par : [art. D214-12 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030428818)
+- Cité par : [art. D214-12 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-d214-12)
 
 Une convention tripartite peut être conclue pour allonger la durée du contrat ou de la période d'apprentissage en cas de suspension de celui-ci ou de celle-ci pour une raison indépendante de la volonté de l'apprenti. La durée du contrat ou de la période d'apprentissage est alors prolongée jusqu'à l'expiration du cycle de formation suivant.
 
@@ -172,7 +172,7 @@ La rupture du contrat d'apprentissage ne peut intervenir qu'après un délai qui
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771330
 - Renvoie à : [art. L6222-19 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-19)
-- Cité par : [art. D214-12 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030428818)
+- Cité par : [art. D214-12 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-d214-12)
 
 L'apprenti qui souhaite rompre son contrat en cas d'obtention du diplôme ou du titre préparé, en application de l'article L. 6222-19, en informe l'employeur, par écrit, au moins un mois avant la fin du contrat.
 
@@ -414,7 +414,7 @@ Le modèle de la carte d'étudiant des métiers est déterminé par arrêté du 
 - Identifiant : LEGIARTI000018524060
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018524060
-- Renvoie à : [art. L241-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797050)
+- Renvoie à : [art. L241-6 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-iv/chapitre-ier-bis.md#article-l241-6)
 - Cité par : [art. D6235-5 du Code du travail](../titre-iii/chapitre-v.md#article-d6235-5) ; [art. D6235-14 du Code du travail](../titre-iii/chapitre-v.md#article-d6235-14)
 
 Les dispositions de la présente section s'appliquent aux personnes auxquelles la qualité de travailleur handicapé est reconnue et qui souscrivent un contrat d'apprentissage en application du 1° du I de l'article L. 241-6 du code de l'action sociale et des familles.
@@ -425,7 +425,7 @@ Les dispositions de la présente section s'appliquent aux personnes auxquelles l
 - Identifiant : LEGIARTI000018524056
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018524056
-- Cité par : [art. D6235-5 du Code du travail](../titre-iii/chapitre-v.md#article-d6235-5) ; [art. R6222-49 du Code du travail](chapitre-ii.md#article-r6222-49) ; [art. D214-12 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030428818)
+- Cité par : [art. D214-12 du Code de l'éducation](../../../../../code-de-l-education/partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md#article-d214-12) ; [art. D6235-5 du Code du travail](../titre-iii/chapitre-v.md#article-d6235-5) ; [art. R6222-49 du Code du travail](chapitre-ii.md#article-r6222-49)
 
 La durée du contrat d'apprentissage du travailleur handicapé peut être portée à quatre ans.
 
@@ -507,6 +507,7 @@ Elles contiennent les aménagements nécessaires pour tenir compte de la spécif
 - Identifiant : LEGIARTI000033601832
 - État : en vigueur depuis le 15/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033601832
+- Renvoie à : [art. L221-2 du Code du sport](../../../../../code-du-sport/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-2)
 - Cité par : [art. D6235-3 du Code du travail](../titre-iii/chapitre-v.md#article-d6235-3) ; [art. D6235-14 du Code du travail](../titre-iii/chapitre-v.md#article-d6235-14)
 
 Les dispositions de la présente section s'appliquent aux sportifs de haut niveau figurant sur la liste mentionnée au premier alinéa de l'article L. 221-2 du code du sport qui concluent un contrat d'apprentissage.
@@ -576,7 +577,7 @@ L'établissement de formation dans lequel est inscrit l'apprenti prend l'attache
 - État : en vigueur depuis le 06/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050744362
 - Renvoie à : [art. L6222-42 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-42)
-- Cité par : [art. R6222-66-1 du Code du travail](chapitre-ii.md#article-r6222-66-1) ; [art. R6222-68 du Code du travail](chapitre-ii.md#article-r6222-68) ; [art. A212-45-2 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049530048)
+- Cité par : [art. A212-45-2 du Code du sport](../../../../../code-du-sport/partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md#article-a212-45-2) ; [art. R6222-66-1 du Code du travail](chapitre-ii.md#article-r6222-66-1) ; [art. R6222-68 du Code du travail](chapitre-ii.md#article-r6222-68)
 
 La convention conclue en application du 1° du II de l'article L. 6222-42, entre l'apprenti et ses représentants légaux pour les mineurs, l'employeur en France, le centre de formation en France et la ou les structures d'accueil à l'étranger, employeur ou organisme de formation précise, notamment :  
 
@@ -631,7 +632,7 @@ Cette convention comporte, en outre, l'ensemble des informations énumérées à
 - État : en vigueur depuis le 06/12/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050744355
 - Renvoie à : [art. L6222-42 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-42)
-- Cité par : [art. R6222-68 du Code du travail](chapitre-ii.md#article-r6222-68) ; [art. A212-45-2 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049530048)
+- Cité par : [art. A212-45-2 du Code du sport](../../../../../code-du-sport/partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md#article-a212-45-2) ; [art. R6222-68 du Code du travail](chapitre-ii.md#article-r6222-68)
 
 La convention conclue en application du 2° du II de l'article L. 6222-42, entre l'apprenti et ses représentants légaux pour les mineurs, l'employeur en France, le centre de formation d'apprentis en France et la ou les structures d'accueil à l'étranger, employeur ou organisme de formation, précise, notamment :
 

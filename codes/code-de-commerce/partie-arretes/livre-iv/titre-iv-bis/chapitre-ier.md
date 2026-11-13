@@ -26,7 +26,7 @@ Les émoluments applicables jusqu'au 29 février 2028 sont ceux qui sont prévus
 - Identifiant : LEGIARTI000041672814
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041672814
-- Renvoie à : art. D514-2 du Code monétaire et financier
+- Renvoie à : [art. D514-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-iv.md#article-d514-2)
 - Cité par : [art. A444-9 du Code de commerce](chapitre-ier.md#article-a444-9)
 
 La prisée figurant au numéro 1 du tableau mentionné à l'article A. 444-1 donne lieu à la perception d'un émolument proportionnel :
@@ -80,7 +80,7 @@ L'émolument mentionné au premier alinéa ne s'applique pas à l'appréciation 
 - Identifiant : LEGIARTI000041672819
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041672819
-- Renvoie à : art. D514-17 du Code monétaire et financier
+- Renvoie à : [art. D514-17 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-iv.md#article-d514-17)
 
 La vente judiciaire aux enchères publiques de meubles corporels ou incorporels, figurant au numéro 4 du tableau mentionné à l'article A. 444-1, donne lieu à la perception d'un émolument proportionnel au produit de chaque lot, selon le barème suivant :
 
@@ -208,7 +208,7 @@ En application du IV de l'article R. 444-10, les prisées et aux ventes judiciai
 - État : en vigueur depuis le 01/03/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053602234
 - Renvoie à : [art. Annexe 4-7 du Code de commerce](../../../annexes-de-la-partie-reglementaire.md#article-annexe-4-7)
-- Cité par : [art. R181 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403562) ; [art. R182 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403577) ; [art. R182-1 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403083) ; [art. R185 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403592)
+- Cité par : [art. R181 du Code de procédure pénale](../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r181) ; [art. R182 du Code de procédure pénale](../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r182) ; [art. R182-1 du Code de procédure pénale](../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r182-1) ; [art. R185 du Code de procédure pénale](../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r185)
 
 Les prestations figurant aux tableaux 3-1 à 3-3 de l'article Annexe 4-7 donnent lieu à la perception d'émoluments fixés conformément aux dispositions respectives des sous-sections 1 à 4 de la présente section.
 
@@ -304,7 +304,7 @@ L'huissier de justice indique, sur l'acte qu'il dresse, les dates et heures resp
 - Identifiant : LEGIARTI000049217921
 - État : en vigueur depuis le 01/03/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049217921
-- Renvoie à : art. R232-6 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R232-6 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md#article-r232-6) ; [art. R432-2 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iv/titre-iii/chapitre-ii.md#article-r432-2) ; [art. R433-7 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iv/titre-iii/chapitre-iii.md#article-r433-7)
 
 Les prestations figurant aux numéros 5 à 40 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
@@ -695,7 +695,7 @@ Signification d'une proposition de redressement
 - Identifiant : LEGIARTI000049217931
 - État : en vigueur depuis le 01/03/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049217931
-- Renvoie à : art. R222-6 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R222-6 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-6)
 
 Les prestations figurant aux numéros 41 à 49 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
@@ -878,7 +878,7 @@ Selon que le coût de l'acte est à la charge du débiteur ou du créancier, il 
 - Identifiant : LEGIARTI000049217944
 - État : en vigueur depuis le 01/03/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049217944
-- Renvoie à : art. R222-4 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R222-4 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-4)
 
 Les prestations figurant aux numéros 50 à 78 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
@@ -1192,7 +1192,7 @@ Signification au débiteur de la créance donnée en gage
 - Identifiant : LEGIARTI000032127898
 - État : en vigueur depuis le 01/03/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032127898
-- Renvoie à : art. R222-4 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R222-4 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md#article-r222-4)
 
 Les prestations mentionnées à l'article A. 444-16 donnent également lieu à la perception du droit d'engagement de poursuite mentionné à l'article A. 444-15, à l'exception de celles figurant aux numéros suivants du tableau 3-1 :  
 
@@ -2414,7 +2414,7 @@ Supérieur à 150 m2
 - Identifiant : LEGIARTI000051327766
 - État : en vigueur depuis le 15/03/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051327766
-- Renvoie à : [art. 1304 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1304) ; art. L125-1 du Code des procédures civiles d'exécution
+- Renvoie à : [art. 1304 du Code de procédure civile](../../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1304) ; [art. L125-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-1)
 
 Les prestations figurant aux numéros 113 à 126 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
@@ -3033,7 +3033,7 @@ Les prestations figurant aux numéros suivants du tableau 3-2 donnent lieu à la
 - Identifiant : LEGIARTI000051327778
 - État : en vigueur depuis le 15/03/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051327778
-- Renvoie à : art. R151-3 du Code des procédures civiles d'exécution
+- Renvoie à : [art. R151-3 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-ier/titre-v/chapitre-ier.md#article-r151-3)
 
 Les prestations figurant aux numéros 151 à 203 du tableau 3-3 donnent lieu à la perception par l'huissier de justice des émoluments suivants :
 
@@ -3626,7 +3626,7 @@ Lorsque les actes, formalités ou requêtes sont relatifs à une obligation péc
 - Identifiant : LEGIARTI000051797343
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051797343
-- Renvoie à : [art. A444-46 du Code de commerce](chapitre-ier.md#article-a444-46) ; art. L125-1 du Code des procédures civiles d'exécution
+- Renvoie à : [art. A444-46 du Code de commerce](chapitre-ier.md#article-a444-46) ; [art. L125-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ii/chapitre-v.md#article-l125-1)
 
 Les coefficients prévus à l'article A. 444-46 ne sont applicables ni aux émoluments complémentaires de vacation, ni aux émoluments des prestations figurant aux numéros suivants du tableau 3-1 :
 
@@ -3652,7 +3652,7 @@ Les coefficients prévus à l'article A. 444-46 ne sont applicables ni aux émol
 - Identifiant : LEGIARTI000049906124
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049906124
-- Renvoie à : [art. Annexe 4-8 du Code de commerce](../../../annexes-de-la-partie-reglementaire.md#article-annexe-4-8)
+- Renvoie à : [art. Annexe 4-8 du Code de commerce](../../../annexes-de-la-partie-reglementaire.md#article-annexe-4-8) ; [art. 6 B du Code général des impôts, annexe IV](../../../../code-general-des-impots-annexe-iv/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-6-b)
 - Cité par : [art. A444-201 du Code de commerce](chapitre-ier.md#article-a444-201) ; [Arrêté du 2 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049899906) ; [Arrêté du 21 mai 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049584900) ; [Arrêté du 21 mai 2024, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049584903) ; [Arrêté du 21 mai 2024, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049584908)
 
 Les frais de déplacement mentionnés au a du 3° du I de l'article Annexe 4-8 font l'objet d'un remboursement forfaitaire :  
@@ -3665,7 +3665,7 @@ Les frais de déplacement mentionnés au a du 3° du I de l'article Annexe 4-8 f
 - Identifiant : LEGIARTI000049906152
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049906152
-- Renvoie à : [art. Annexe 4-8 du Code de commerce](../../../annexes-de-la-partie-reglementaire.md#article-annexe-4-8)
+- Renvoie à : [art. Annexe 4-8 du Code de commerce](../../../annexes-de-la-partie-reglementaire.md#article-annexe-4-8) ; [art. 6 B du Code général des impôts, annexe IV](../../../../code-general-des-impots-annexe-iv/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-6-b)
 - Cité par : [Arrêté du 2 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049899906)
 
 Dans les départements d'outre-mer, pour tout déplacement à plus de 2 kilomètres des limites de la commune où est situé l'office, les frais de déplacement mentionnés au a du 3° du I de l'article Annexe 4-8 font l'objet d'un remboursement forfaitaire :  
@@ -3787,7 +3787,7 @@ Lorsque, réalisée par un seul acte, une convention porte sur des biens de natu
 - Identifiant : LEGIARTI000032132066
 - État : en vigueur depuis le 01/03/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032132066
-- Renvoie à : art. 669 du Code général des impôts
+- Renvoie à : [art. 669 du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-669)
 
 Pour les mutations à titre gratuit, l'évaluation de l'usufruit et de la nue-propriété est établie conformément aux dispositions de l'article 669 du code général des impôts.  
 
@@ -5362,6 +5362,7 @@ Plus de 60 000 €
 - Identifiant : LEGIARTI000041684365
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684365
+- Renvoie à : [art. L719-14 du Code de l'éducation](../../../../code-de-l-education/partie-legislative/troisieme-partie/livre-vii/titre-ier/chapitre-ix.md#article-l719-14)
 
 I.-Le transfert de propriété à titre gratuit des biens mobiliers et immobiliers mentionnés à l'article L. 719-14 du code de l'éducation donne lieu à la perception d'un émolument proportionnel, selon le barème suivant :
 
@@ -9277,6 +9278,7 @@ Plus de 60 000 €
 - Identifiant : LEGIARTI000041684596
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684596
+- Renvoie à : [art. L290-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-ix.md#article-l290-1)
 
 L'établissement par acte authentique de la promesse de vente d'une durée de plus de dix-huit mois prévue à l'article L. 290-1 du code de la construction et de l'habitat donne lieu à la perception des émoluments suivants :
 
@@ -9321,6 +9323,7 @@ Plus de 60 000 €
 - Identifiant : LEGIARTI000041684601
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684601
+- Renvoie à : [art. L1311-5 du Code général des collectivités territoriales](../../../../code-general-des-collectivites-territoriales/partie-legislative/premiere-partie/livre-iii/titre-ier/chapitre-unique.md#article-l1311-5)
 
 Les actes relatifs aux autorisations d'occupation temporaire du domaine public mentionnées aux articles L. 1311-5 et suivants du code général des collectivités territoriales et qui sont constitutives de droits réels donnent lieu à la perception des émoluments suivants :
 
@@ -9714,7 +9717,7 @@ Le renouvellement de l'extrait de casier judiciaire, avec réinitialisation de l
 - Identifiant : LEGIARTI000041684637
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684637
-- Renvoie à : art. L711-2 du Code de la construction et de l'habitation ; art. L711-4 du Code de la construction et de l'habitation ; art. L711-5 du Code de la construction et de l'habitation
+- Renvoie à : [art. L711-2 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-vii/titre-ier/chapitre-unique.md#article-l711-2) ; [art. L711-4 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-vii/titre-ier/chapitre-unique.md#article-l711-4) ; [art. L711-5 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-vii/titre-ier/chapitre-unique.md#article-l711-5)
 - Cité par : [Arrêté du 30 septembre 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033174625)
 
 Les prestations figurant aux numéros 182 à 195 du tableau 5 donnent lieu à la perception des émoluments suivants :
@@ -10060,7 +10063,7 @@ Rédaction d'imprimés administratifs relatifs à la taxe sur la valeur ajoutée
 - Identifiant : LEGIARTI000041684657
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684657
-- Renvoie à : art. L271-4 du Code de la construction et de l'habitation
+- Renvoie à : [art. L271-4 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-vii/chapitre-unique.md#article-l271-4)
 
 Les démarches concernant l'obtention et la vérification d'un certificat de mesurage ou d'un document composant le dossier de diagnostic technique donnent lieu à la perception d'un émolument fixe conformément au tableau ci-après :
 
@@ -10253,7 +10256,7 @@ Dépôt au rang des minutes de la convention prévue à l' article 229-1 du code
 - Identifiant : LEGIARTI000041684677
 - État : en vigueur depuis le 01/03/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041684677
-- Renvoie à : [art. L444-2 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-2) ; [art. R444-10 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-iv-bis/section-1/sous-section-3.md#article-r444-10)
+- Renvoie à : [art. L444-2 du Code de commerce](../../../partie-legislative/livre-iv/titre-iv-bis.md#article-l444-2) ; [art. R444-10 du Code de commerce](../../../partie-reglementaire/livre-iv/titre-iv-bis/section-1/sous-section-3.md#article-r444-10) ; [art. 787 B du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-787-b) ; [art. 787 C du Code général des impôts](../../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-787-c)
 - Cité par : [art. A444-175 du Code de commerce](chapitre-ier.md#article-a444-175)
 
 Les remises prévues à la première phrase du sixième alinéa de l'article L. 444-2 sont consenties par les notaires sur les émoluments proportionnels fixés à la sous-section 1 de la présente section selon les modalités suivantes :
@@ -11790,7 +11793,7 @@ L'assiette de l'émolument est arrondie à l'euro le plus proche.
 - Identifiant : LEGIARTI000039000802
 - État : en vigueur depuis le 01/09/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039000802
-- Renvoie à : [art. A444-91 du Code de commerce](chapitre-ier.md#article-a444-91) ; [art. A444-102 du Code de commerce](chapitre-ier.md#article-a444-102) ; art. L322-1 du Code des procédures civiles d'exécution
+- Renvoie à : [art. A444-91 du Code de commerce](chapitre-ier.md#article-a444-91) ; [art. A444-102 du Code de commerce](chapitre-ier.md#article-a444-102) ; [art. L322-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-1)
 
 I. – A l'exception des cas mentionnés au II et au III, les actes réalisés en matière de saisie immobilière et de licitation par adjudication judiciaire (numéros 1,2 et 3 du tableau 6) donnent lieu à la perception de l'émolument perçu par les notaires en application du 1° de l'article A. 444-102, ainsi réparti entre les avocats en cause :
 
@@ -11814,7 +11817,7 @@ V. – En cas de vente amiable sur autorisation judiciaire, ou de vente de gré 
 - Identifiant : LEGIARTI000043938982
 - État : en vigueur depuis le 16/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043938982
-- Renvoie à : [art. A663-28 du Code de commerce](../../livre-vi/titre-vi/chapitre-iii.md#article-a663-28) ; art. R332-1 du Code des procédures civiles d'exécution
+- Renvoie à : [art. A663-28 du Code de commerce](../../livre-vi/titre-vi/chapitre-iii.md#article-a663-28) ; [art. R332-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md#article-r332-1)
 
 Les actes réalisés en matière de distribution du prix (numéro 4 du tableau 6) donnent lieu à la perception de l'émolument perçu par les mandataires judiciaires en application de l'article A. 663-28.
 
@@ -11824,7 +11827,7 @@ Lorsque la distribution est soumise aux dispositions de l'article R. 332-1 du co
 - Identifiant : LEGIARTI000035190691
 - État : en vigueur depuis le 01/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035190691
-- Renvoie à : [art. L616 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006825825) ; [art. R1334-14 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006910323) ; [art. R321-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938974) ; [art. R321-4 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938982) ; [art. R321-6 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025938988) ; [art. R321-22 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939036) ; [art. R322-9 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939068) ; [art. R322-10 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939072) ; [art. R322-32 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939131) ; [art. R322-46 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939167) ; … et 8 autres textes (liste complète dans [renvois.md](../../../renvois.md))
+- Renvoie à : [art. L616 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-vi/titre-ier/chapitre-vi.md#article-l616) ; [art. R1334-14 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-14) ; [art. R321-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-1) ; [art. R321-4 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-4) ; [art. R321-6 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-6) ; [art. R321-22 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-22) ; [art. R322-9 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-9) ; [art. R322-10 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-10) ; [art. R322-32 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-32) ; [art. R322-46 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-46) ; [art. R322-67 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-67) ; [art. R332-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md#article-r332-1) ; [art. R332-2 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md#article-r332-2) ; [art. R332-4 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md#article-r332-4) ; [Décret n° 67-223 du 17 mars 1967, art. 5-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488281) ; [Décret n° 67-223 du 17 mars 1967, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488313) ; [Décret n° 67-223 du 17 mars 1967, art. 6-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006488320) ; [Loi n°75-1351 du 31 décembre 1975, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006465237)
 
 Les formalités accomplies en matière de saisie immobilière et de licitation par adjudication judiciaire donnent lieu à la perception des émoluments suivants :
 
@@ -12270,7 +12273,7 @@ Les actes réalisés pour l'inscription d'une sûreté judiciaire sans demande d
 - Identifiant : LEGIARTI000035190721
 - État : en vigueur depuis le 01/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035190721
-- Renvoie à : [art. R532-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939524) ; [art. R533-1 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939546)
+- Renvoie à : [art. R532-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-iii/chapitre-ii.md#article-r532-1) ; [art. R533-1 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-v/titre-iii/chapitre-iii.md#article-r533-1)
 
 Les formalités accomplies en matière de sûretés judiciaires donnent lieu à la perception des émoluments suivants :
 

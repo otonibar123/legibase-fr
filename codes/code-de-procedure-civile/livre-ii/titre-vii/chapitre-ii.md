@@ -6,7 +6,7 @@ Code de procédure civile › Livre II : Dispositions particulières à chaque j
 - Identifiant : LEGIARTI000006411666
 - État : en vigueur depuis le 01/01/1980
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411666
-- Cité par : [art. R4031-36 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034696860)
+- Cité par : [art. R4031-36 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-preliminaire/titre-iii/chapitre-unique.md#article-r4031-36)
 
 Les dispositions du présent chapitre s'appliquent aux pourvois formés dans les matières pour lesquelles une disposition spéciale dispense les parties du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation.
 

@@ -47,7 +47,7 @@ Par dérogation à l'article R. 225-72, la demande d'inscription d'un point ou d
 - État : en vigueur depuis le 05/03/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023661103
 - Renvoie à : [art. L626-5 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-vi.md#article-l626-5) ; [art. R626-8 du Code de commerce](chapitre-vi.md#article-r626-8)
-- Cité par : [art. R626-8 du Code de commerce](chapitre-vi.md#article-r626-8) ; [art. R631-34-4 du Code de commerce](../titre-iii/chapitre-ier.md#article-r631-34-4) ; [art. R213-48-45 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026736181) ; [Décret n°2021-1354 du 16 octobre 2021, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044216013)
+- Cité par : [art. R626-8 du Code de commerce](chapitre-vi.md#article-r626-8) ; [art. R631-34-4 du Code de commerce](../titre-iii/chapitre-ier.md#article-r631-34-4) ; [art. R213-48-45 du Code de l'environnement](../../../../code-de-l-environnement/partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md#article-r213-48-45) ; [Décret n°2021-1354 du 16 octobre 2021, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044216013)
 
 I.-Pour l'application des deuxième et troisième alinéas de l'article L. 626-5, les propositions pour le règlement des dettes sont communiquées par lettre recommandée avec demande d'avis de réception, par le mandataire judiciaire, à chaque créancier consulté ayant déclaré sa créance.
 
@@ -680,7 +680,7 @@ La décision par laquelle le juge-commissaire autorise qu'il soit fait applicati
 - Identifiant : LEGIARTI000044096099
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044096099
-- Renvoie à : [art. L626-30 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-vi.md#article-l626-30)
+- Renvoie à : [art. L626-30 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-vi.md#article-l626-30) ; [art. L511-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1) ; [art. L518-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-viii.md#article-l518-1)
 - Cité par : [art. R626-58 du Code de commerce](chapitre-vi.md#article-r626-58)
 
 L'administrateur avise par tout moyen chaque partie affectée qu'elle est membre d'une classe et lui fait connaître les modalités lui permettant de communiquer par voie électronique.  

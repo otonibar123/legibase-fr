@@ -50,6 +50,6 @@ Le fait de méconnaître les dispositions relatives à la surveillance médicale
 - Identifiant : LEGIARTI000029235495
 - État : en vigueur depuis le 14/07/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029235495
-- Renvoie à : [art. R4623-32 du Code du travail](../../livre-vi/titre-ii/chapitre-iii.md#article-r4623-32) ; [art. R717-53 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006596663) ; art. R717-53 du Code rural et de la pêche maritime
+- Renvoie à : [art. R4623-32 du Code du travail](../../livre-vi/titre-ii/chapitre-iii.md#article-r4623-32) ; [art. R717-53 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-53)
 
 Le fait de méconnaître les dispositions relatives au personnel infirmier en entreprise prévues aux articles R. 4623-32 à R. 4623-33 ou, s'agissant des professions agricoles, à l'article R. 717-53 du code rural et de la pêche maritime est puni de l'amende prévue pour les contraventions de la cinquième classe.

@@ -17,7 +17,7 @@ Les vérifications à la charge de la personne qui conclut un contrat, prévues 
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018520574
 - Renvoie à : [art. L5221-2 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l5221-2) ; [art. L8254-1 du Code du travail](../../../../partie-legislative/huitieme-partie/livre-ii/titre-v/chapitre-iv.md#article-l8254-1)
-- Cité par : [art. D8254-3 du Code du travail](chapitre-iv.md#article-d8254-3) ; [art. D8254-5 du Code du travail](chapitre-iv.md#article-d8254-5) ; [art. D8254-6 du Code du travail](chapitre-iv.md#article-d8254-6) ; [art. R.4122-4-22 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039820523)
+- Cité par : [art. R4122-4-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r4122-4-22) ; [art. D8254-3 du Code du travail](chapitre-iv.md#article-d8254-3) ; [art. D8254-5 du Code du travail](chapitre-iv.md#article-d8254-5) ; [art. D8254-6 du Code du travail](chapitre-iv.md#article-d8254-6) ; [art. R.4122-4-22 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039820523)
 
 La personne à qui les vérifications prévues à l'article L. 8254-1 s'imposent se fait remettre, par son cocontractant, lors de la conclusion du contrat, la liste nominative des salariés étrangers employés par ce dernier et soumis à l'autorisation de travail prévue à l'article L. 5221-2.  
 Cette liste, établie à partir du registre unique du personnel, précise pour chaque salarié :  
@@ -45,7 +45,7 @@ Sauf en ce qui concerne les particuliers, la liste nominative des salariés étr
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018520568
 - Renvoie à : [art. D8254-2 du Code du travail](chapitre-iv.md#article-d8254-2)
-- Cité par : [art. R.4122-4-22 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039820523)
+- Cité par : [art. R4122-4-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/quatrieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r4122-4-22) ; [art. R.4122-4-22 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039820523)
 
 Pour les entreprises de travail temporaire, la communication de la liste nominative prévue à l'article D. 8254-2 est réputée accomplie lorsque les informations relatives au salarié étranger figurent dans le contrat de mise à disposition conclu avec l'utilisateur.
 

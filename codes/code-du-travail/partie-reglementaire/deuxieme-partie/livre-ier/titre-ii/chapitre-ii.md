@@ -505,7 +505,7 @@ La décision est notifiée aux parties au plus tard dans les trois jours par le 
 - Identifiant : LEGIARTI000041996159
 - État : en vigueur depuis le 14/06/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041996159
-- Renvoie à : [art. 999 du Code de procédure civile](../../../../../code-de-procedure-civile/livre-ii/titre-vii/chapitre-iii.md#article-999) ; [art. R2122-39 du Code du travail](chapitre-ii.md#article-r2122-39) ; [art. L411-3 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006572200)
+- Renvoie à : [art. L411-3 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-ier/chapitre-unique.md#article-l411-3) ; [art. 999 du Code de procédure civile](../../../../../code-de-procedure-civile/livre-ii/titre-vii/chapitre-iii.md#article-999) ; [art. R2122-39 du Code du travail](chapitre-ii.md#article-r2122-39)
 
 La décision du tribunal judiciaire peut faire l'objet d'un pourvoi en cassation dans un délai de dix jours suivant sa notification. Lorsqu'elle casse une décision du tribunal judiciaire rendue en application de l'article R. 2122-39, la Cour de cassation peut statuer au fond dans les conditions mentionnées à l'article L. 411-3 du code de l'organisation judiciaire. Le pourvoi est jugé dans les conditions prévues aux articles 999 à 1009 du code de procédure civile. Les parties sont dispensées du ministère d'avocat au Conseil d'Etat et à la Cour de cassation.
 
@@ -1233,6 +1233,6 @@ Les délais fixés par les articles R. 2122-93, R. 2122-96 et R. 2122-97 sont ca
 - Identifiant : LEGIARTI000026462321
 - État : en vigueur depuis le 08/10/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026462321
-- Renvoie à : [art. L2122-11 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l2122-11) ; art. R311-2 du Code de justice administrative
+- Renvoie à : [art. R311-2 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md#article-r311-2) ; [art. L2122-11 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l2122-11)
 
 Les recours dirigés contre les arrêtés pris en application de l'article L. 2122-11 sont portés devant la juridiction désignée par l'article R. 311-2 du code de justice administrative.

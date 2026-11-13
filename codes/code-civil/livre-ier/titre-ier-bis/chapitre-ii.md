@@ -16,7 +16,7 @@ Est français l'enfant dont l'un des parents au moins est français.
 - Identifiant : LEGIARTI000006419386
 - État : en vigueur depuis le 23/07/1993
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419386
-- Cité par : [art. 23-3 du Code civil](chapitre-iv.md#article-23-3) ; [art. L113-3 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054702847) ; [Décret n°93-1362 du 30 décembre 1993, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041422234)
+- Cité par : [art. 23-3 du Code civil](chapitre-iv.md#article-23-3) ; [art. L113-3 du Code du service national](../../../code-du-service-national/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-3) ; [Décret n°93-1362 du 30 décembre 1993, art. 22](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041422234)
 
 Toutefois, si un seul des parents est français, l'enfant qui n'est pas né en France a la faculté de répudier la qualité de Français dans les six mois précédant sa majorité et dans les douze mois la suivant.  
 
@@ -68,7 +68,7 @@ Est français l'enfant né en France lorsque l'un de ses parents au moins y est 
 - État : en vigueur depuis le 23/07/1993
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419429
 - Renvoie à : [art. 19-3 du Code civil](chapitre-ii.md#article-19-3)
-- Cité par : [art. 20 du Code civil](chapitre-ii.md#article-20) ; [art. 20-5 du Code civil](chapitre-ii.md#article-20-5) ; [art. 23-3 du Code civil](chapitre-iv.md#article-23-3) ; [art. L113-3 du Code du service national](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006555920) ; [Décret n°93-1362 du 30 décembre 1993, art. 23](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041422249)
+- Cité par : [art. 20 du Code civil](chapitre-ii.md#article-20) ; [art. 20-5 du Code civil](chapitre-ii.md#article-20-5) ; [art. 23-3 du Code civil](chapitre-iv.md#article-23-3) ; [art. L113-3 du Code du service national](../../../code-du-service-national/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-3) ; [Décret n°93-1362 du 30 décembre 1993, art. 23](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041422249)
 
 Toutefois, si un seul des parents est né en France, l'enfant français, en vertu de l'article 19-3, a la faculté de répudier cette qualité dans les six mois précédant sa majorité et dans les douze mois la suivant.  
 

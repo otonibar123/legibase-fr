@@ -1,0 +1,11 @@
+# CHAPITRE Ier : Nom.
+
+Code général des collectivités territoriales › Partie législative › DEUXIÈME PARTIE : LA COMMUNE › LIVRE Ier : ORGANISATION DE LA COMMUNE › TITRE Ier : NOM ET TERRITOIRE DE LA COMMUNE
+
+### Article L2111-1
+- Identifiant : LEGIARTI000037273289
+- État : en vigueur depuis le 02/08/2018
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037273289
+- Cité par : [art. L2564-3 du Code général des collectivités territoriales](../../livre-v/titre-vi/chapitre-iv.md#article-l2564-3) ; [art. L2573-1 du Code général des collectivités territoriales](../../livre-v/titre-vii/chapitre-iii.md#article-l2573-1) ; [art. R2111-1 du Code général des collectivités territoriales](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-r2111-1) ; [art. L2572-3 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006391331) ; [art. L2573-2 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027574259) ; [DÉCRET n°2014-1447 du 3 décembre 2014](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029839039) ; [DÉCRET n°2015-1487 du 16 novembre 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031492599) ; [Décret n°2009-306 du 19 mars 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020425196) ; [Décret n°2009-755 du 22 juin 2009](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020783345) ; [Décret n°2010-772 du 8 juillet 2010](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022472676) ; [Décret n°2012-938 du 1er août 2012](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000026255420) ; [Décret n°2013-986 du 5 novembre 2013](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028161040) ; [Décret n°2017-149 du 7 février 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034017612) ; … et 6 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+
+Le changement de nom d'une commune est décidé par décret, sur demande du conseil municipal et après consultation du conseil départemental. Toutefois, les changements de noms qui sont la conséquence d'une modification des limites territoriales des communes sont prononcés par les autorités compétentes pour prendre les décisions de modification.

@@ -54,7 +54,7 @@ Le tribunal peut en outre ordonner, aux frais du condamné, la publication inté
 - Identifiant : LEGIARTI000032225526
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032225526
-- Renvoie à : [art. L342-2 du Code de la consommation](chapitre-ii.md#article-l342-2) ; art. 131-27 du Code pénal
+- Renvoie à : [art. L342-2 du Code de la consommation](chapitre-ii.md#article-l342-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27)
 - Cité par : [art. L354-5 du Code de la consommation](../titre-v/chapitre-iv.md#article-l354-5)
 
 Les personnes physiques coupables des délits punis aux articles L. 342-2 à L. 342-5 encourent également à titre de peines complémentaires l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.  

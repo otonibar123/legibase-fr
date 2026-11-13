@@ -16,7 +16,7 @@ Cette délibération n'est pas nécessaire si les biens appartiennent en même t
 - Identifiant : LEGIARTI000039380910
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039380910
-- Cité par : [Livre des procédures fiscales, art. L268](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039278593)
+- Cité par : [Livre des procédures fiscales, art. L268](../../../livre-des-procedures-fiscales/partie-legislative/premiere-partie/titre-iv/chapitre-premier.md#article-l268)
 
 Sur requête du tuteur ou du subrogé tuteur, les enchères sont reçues soit par un notaire commis à cet effet par le tribunal judiciaire, soit à l'audience des criées par un juge désigné par ce tribunal.
 
@@ -72,7 +72,7 @@ Sauf renonciation du vendeur, le tribunal qui a fixé la mise à prix, saisi à 
 - Identifiant : LEGIARTI000026459902
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026459902
-- Renvoie à : [art. R322-39 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939151) ; [art. R322-59 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939202) ; [art. R322-61 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939208) ; [art. R322-66 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939228)
+- Renvoie à : [art. R322-39 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-39) ; [art. R322-59 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-59) ; [art. R322-61 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-61) ; [art. R322-66 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-66)
 
 Sont déclarés communes au présent chapitre les dispositions des articles R. 322-39 à R. 322-49, R. 322-59, R. 322-61, R. 322-62, R. 322-66 à R. 322-72 du code des procédures civiles d'exécution.
 
@@ -84,7 +84,7 @@ Dans le cas de vente devant notaire, s'il y a lieu à folle enchère, la procéd
 - Identifiant : LEGIARTI000026460004
 - État : en vigueur depuis le 01/06/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026460004
-- Renvoie à : [art. R322-50 du Code des procédures civiles d'exécution](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025939179)
+- Renvoie à : [art. R322-50 du Code des procédures civiles d'exécution](../../../code-des-procedures-civiles-d-execution/partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md#article-r322-50)
 - Cité par : [art. 1280 du Code de procédure civile](chapitre-iv.md#article-1280)
 
 Dans les dix jours qui suivent l'adjudication définitive, toute personne peut faire une surenchère du dixième en se conformant aux formalités et délais prévus par les dispositions des articles R. 322-50 à R. 322-55 du code des procédures civile d'exécution.

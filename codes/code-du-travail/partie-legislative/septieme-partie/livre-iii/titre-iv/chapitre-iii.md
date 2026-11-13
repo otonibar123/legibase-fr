@@ -26,7 +26,7 @@ Dans les conditions et selon les modalités définies au présent chapitre, un d
 - État : en vigueur depuis le 23/04/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043405417
 - Renvoie à : [art. L2131-1 du Code du travail](../../../deuxieme-partie/livre-ier/titre-iii/chapitre-ier.md#article-l2131-1) ; [art. L2133-2 du Code du travail](../../../deuxieme-partie/livre-ier/titre-iii/chapitre-iii.md#article-l2133-2) ; [art. L7341-1 du Code du travail](chapitre-ier.md#article-l7341-1) ; [art. L7342-1 du Code du travail](chapitre-ii.md#article-l7342-1) ; [Loi du 1er juillet 1901](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000497458)
-- Cité par : [art. L7343-4 du Code du travail](chapitre-iii.md#article-l7343-4) ; [art. L7343-6 du Code du travail](chapitre-iii.md#article-l7343-6) ; [art. R7343-22 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-22) ; [art. R311-2 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053927678)
+- Cité par : [art. R311-2 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md#article-r311-2) ; [art. L7343-4 du Code du travail](chapitre-iii.md#article-l7343-4) ; [art. L7343-6 du Code du travail](chapitre-iii.md#article-l7343-6) ; [art. R7343-22 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-22)
 
 Pour l'application de la présente section, sont considérés comme des organisations représentant les travailleurs définis à l'article L. 7341-1 recourant pour leur activité aux plateformes mentionnées à l'article L. 7342-1 :  
 
@@ -190,7 +190,7 @@ Le fait de rompre, en méconnaissance des dispositions relatives à la procédur
 - Identifiant : LEGIARTI000043405455
 - État : en vigueur depuis le 23/04/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043405455
-- Cité par : [art. L7343-18 du Code du travail](chapitre-iii.md#article-l7343-18) ; [art. R7343-70 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-70) ; [art. Annexe Tableau VI-I du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049527320) ; [art. D211-7-3 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049527594) ; [Décret n°2024-424 du 10 mai 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049527236) ; [Décret n°2024-424 du 10 mai 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049527253)
+- Cité par : [art. Annexe Tableau VI-I du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-vi-i) ; [art. D211-7-3 du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-d211-7-3) ; [art. L7343-18 du Code du travail](chapitre-iii.md#article-l7343-18) ; [art. R7343-70 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-70) ; [Décret n°2024-424 du 10 mai 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049527236) ; [Décret n°2024-424 du 10 mai 2024, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049527253)
 
 Lorsque le travailleur indépendant estime subir, du fait de la plateforme, une baisse d'activité en rapport avec son mandat de représentation, il peut saisir le tribunal judiciaire dont le siège et le ressort sont fixés par décret pour faire cesser cette situation et demander la réparation du préjudice subi à ce titre.  
 
@@ -254,7 +254,7 @@ Pour l'application du présent chapitre, sont considérées comme des organisati
 - Identifiant : LEGIARTI000045524489
 - État : en vigueur depuis le 08/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045524489
-- Renvoie à : [art. L2135-1 du Code du travail](../../../deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-1) ; [art. L7341-1 du Code du travail](chapitre-ier.md#article-l7341-1) ; [art. L7343-7 du Code du travail](chapitre-iii.md#article-l7343-7) ; [art. L1326-3 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039677959)
+- Renvoie à : [art. L1326-3 du Code des transports](../../../../../code-des-transports/partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-vi.md#article-l1326-3) ; [art. L2135-1 du Code du travail](../../../deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-1) ; [art. L7341-1 du Code du travail](chapitre-ier.md#article-l7341-1) ; [art. L7343-7 du Code du travail](chapitre-iii.md#article-l7343-7)
 - Cité par : [art. L7343-23 du Code du travail](chapitre-iii.md#article-l7343-23) ; [art. L7345-1 du Code du travail](chapitre-v.md#article-l7345-1) ; [art. R7343-79 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-79) ; [art. R7343-82 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-82) ; [art. R7343-83 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-83) ; [art. R7343-86 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-86) ; [art. R7343-87 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-87) ; [art. R7343-95 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-95)
 
 La représentativité, au niveau du secteur considéré, des organisations professionnelles de plateformes est déterminée d'après les critères cumulatifs suivants :  
@@ -442,7 +442,7 @@ Une négociation est engagée au moins une fois par an au niveau du secteur, sur
 - Identifiant : LEGIARTI000045524529
 - État : en vigueur depuis le 08/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045524529
-- Renvoie à : [art. L442-1 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-1)
+- Renvoie à : [art. L442-1 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-1) ; [art. L911-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-1) ; [art. L911-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-2)
 
 Une négociation peut également être engagée au niveau du secteur sur tout autre thème relatif aux conditions de travail et d'exercice de l'activité, notamment :  
 
@@ -503,7 +503,7 @@ Il est opposable, dans des conditions de dépôt prévues à l'article L. 7343-3
 - Identifiant : LEGIARTI000045524539
 - État : en vigueur depuis le 08/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045524539
-- Renvoie à : [art. L7343-5 du Code du travail](chapitre-iii.md#article-l7343-5) ; [art. L7343-7 du Code du travail](chapitre-iii.md#article-l7343-7) ; [art. L7343-35 du Code du travail](chapitre-iii.md#article-l7343-35) ; [art. L1326-3 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039677959)
+- Renvoie à : [art. L1326-3 du Code des transports](../../../../../code-des-transports/partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-vi.md#article-l1326-3) ; [art. L7343-5 du Code du travail](chapitre-iii.md#article-l7343-5) ; [art. L7343-7 du Code du travail](chapitre-iii.md#article-l7343-7) ; [art. L7343-35 du Code du travail](chapitre-iii.md#article-l7343-35)
 - Cité par : [art. D7343-91 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-d7343-91) ; [art. L7343-49 du Code du travail](chapitre-iii.md#article-l7343-49) ; [art. R7343-95 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r7343-95)
 
 I.-L'accord collectif de secteur à durée indéterminée peut être dénoncé par les parties signataires.  

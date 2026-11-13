@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000036406457
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036406457
-- Renvoie à : [art. L4162-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l4162-1) ; art. L411-2 du Code de la sécurité sociale ; [art. R130-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006746964)
+- Renvoie à : [art. L411-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-i/chapitre-1er-definitions.md#article-l411-2) ; [art. R130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-preliminaire.md#article-r130-1) ; [art. L4162-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l4162-1)
 
 I.-La proportion minimale de salariés mentionnée au 1° du I de l'article L. 4162-1 est fixée à 25 % de l'effectif.  
 
@@ -60,7 +60,7 @@ Pour les thèmes mentionnés au 2°, l'accord ou le plan d'action précise les m
 - Identifiant : LEGIARTI000036409862
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036409862
-- Renvoie à : [art. L4162-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l4162-1) ; [art. L4162-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l4162-2) ; [art. L215-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741680) ; art. L723-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L215-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-i/chapitre-5.md#article-l215-1) ; [art. L752-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-vii/titre-v/chapitre-2.md#article-l752-4) ; [art. L4162-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l4162-1) ; [art. L4162-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ii.md#article-l4162-2) ; [art. L723-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-2)
 - Cité par : [art. R4162-5 du Code du travail](chapitre-ii.md#article-r4162-5) ; [art. R4162-6 du Code du travail](chapitre-ii.md#article-r4162-6) ; [art. D4162-51 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029560727) ; [art. D4162-52 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029560729) ; [art. R4162-17 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029560054) ; [Décret n°2018-1256 du 27 décembre 2018, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037925415)
 
 I.-La caisse mentionnée aux articles L. 215-1 ou L. 752-4 du code de la sécurité sociale ou à l'article L. 723-2 du code rural et de la pêche maritime informe l'employeur des obligations lui incombant en application des articles L. 4162-1 et L. 4162-2 du présent code.  

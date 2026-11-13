@@ -409,7 +409,7 @@ La caisse de garantie peut souscrire des contrats d'assurance groupe permettant 
 - État : en vigueur depuis le 25/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846643
 - Renvoie à : [art. 714 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ier/titre-xviii/chapitre-iii.md#article-714)
-- Cité par : [art. R613-23 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029727138)
+- Cité par : [art. R613-23 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vi/titre-ier/chapitre-iii.md#article-r613-23)
 
 La rémunération des administrateurs judiciaires au titre des mandats qui leur sont confiés en matière civile est fixée sur justification de l' accomplissement de leur mission par le président de la juridiction les ayant désignés.  
 

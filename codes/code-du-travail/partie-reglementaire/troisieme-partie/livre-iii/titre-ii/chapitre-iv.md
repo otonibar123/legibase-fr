@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - Identifiant : LEGIARTI000037456740
 - État : en vigueur depuis le 30/09/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037456740
-- Renvoie à : [art. L3324-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-1) ; art. L242-1 du Code de la sécurité sociale
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. L3324-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-1)
 - Cité par : [art. D3324-10 du Code du travail](chapitre-iv.md#article-d3324-10) ; [art. R3321-1 du Code du travail](chapitre-ier.md#article-r3321-1) ; [art. R3324-16 du Code du travail](chapitre-iv.md#article-r3324-16)
 
 Les salaires à retenir pour le calcul du montant de la réserve spéciale de participation des salariés mentionnée à l'article L. 3324-1 sont les revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1 du code de la sécurité sociale.
@@ -123,7 +123,7 @@ Le bénéfice net des associés des entreprises soumises au régime fiscal des s
 - Identifiant : LEGIARTI000042053882
 - État : en vigueur depuis le 29/06/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042053882
-- Renvoie à : [art. D3324-1 du Code du travail](chapitre-iv.md#article-d3324-1) ; [art. L3323-6 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-6) ; [art. L3324-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-2) ; [art. L3324-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-5) ; art. L242-1 du Code de la sécurité sociale
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. D3324-1 du Code du travail](chapitre-iv.md#article-d3324-1) ; [art. L3323-6 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-6) ; [art. L3324-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-2) ; [art. L3324-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-5)
 - Cité par : [art. D3324-12 du Code du travail](chapitre-iv.md#article-d3324-12) ; [art. D3324-13 du Code du travail](chapitre-iv.md#article-d3324-13) ; [art. D3324-15 du Code du travail](chapitre-iv.md#article-d3324-15)
 
 Le salaire servant de base à la répartition proportionnelle de la réserve spéciale de participation est égal au total des revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1 du code de la sécurité sociale, perçues par chaque bénéficiaire au cours de l'exercice considéré sans que ce total puisse excéder une somme, qui est identique pour tous les salariés et figure dans l'accord. Cette somme est au plus égale à trois fois le plafond annuel retenu pour la détermination du montant maximum des cotisations de sécurité sociale et d'allocations familiales.  
@@ -322,7 +322,7 @@ Lorsque l'accord de participation prévoit que les sommes revenant aux salariés
 - Identifiant : LEGIARTI000027799510
 - État : en vigueur depuis le 31/07/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027799510
-- Renvoie à : [art. L214-164 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780393) ; [art. L214-165 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780469) ; [Code monétaire et financier, Paragraphe 1 : Fonds d'investissement à vocatio](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027775213) ; [Code monétaire et financier, Paragraphe 2 : Fonds déclarés](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784586) ; [Code monétaire et financier, Sous-paragraphe 1 : Fonds professionnels à voca](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784063) ; [art. Sous-section 4 : Fonds d'épargne salariale du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784784)
+- Renvoie à : [art. L214-39 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-39) ; [art. L214-40 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-40) ; [art. L214-164 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-164) ; [art. L214-165 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-165) ; [Code monétaire et financier, Paragraphe 1 : Fonds d'investissement à vocatio](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027775213) ; [Code monétaire et financier, Paragraphe 2 : Fonds déclarés](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784586) ; [Code monétaire et financier, Sous-paragraphe 1 : Fonds professionnels à voca](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784063) ; [art. Sous-section 4 : Fonds d'épargne salariale du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000027784784)
 
 Lorsque l'accord de participation offre plusieurs instruments de placement, il précise les modalités selon lesquelles le salarié peut modifier l'affectation de son épargne.
 
@@ -370,7 +370,7 @@ Les sommes attribuées au titre de la participation et affectées à un fonds d'
 - Identifiant : LEGIARTI000027799506
 - État : en vigueur depuis le 31/07/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027799506
-- Renvoie à : [art. L3323-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-2) ; [art. L214-165 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780469)
+- Renvoie à : [art. L3323-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-2) ; [art. L214-39 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-39) ; [art. L214-40 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-40) ; [art. L214-164 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-164) ; [art. L214-165 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-165)
 - Cité par : [art. R3332-18 du Code du travail](../titre-iii/chapitre-ii.md#article-r3332-18)
 
 Les fonds communs de placement constitués en application d'un accord de participation sont régis par les règles applicables aux fonds communs de placement d'entreprise mentionnés aux articles L. 214-164 et L. 214-165 du code monétaire et financier.
@@ -399,7 +399,7 @@ Lorsqu'un salarié titulaire de droits sur la réserve spéciale de participatio
 - Identifiant : LEGIARTI000031588627
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031588627
-- Renvoie à : [art. 2262 du Code civil](../../../../../code-civil/livre-iii/titre-xxi/chapitre-ii.md#article-2262) ; [art. L3323-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-5) ; [art. L3324-10 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-10) ; art. L312-20 du Code monétaire et financier
+- Renvoie à : [art. 2262 du Code civil](../../../../../code-civil/livre-iii/titre-xxi/chapitre-ii.md#article-2262) ; [art. L135-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-5-bis.md#article-l135-7) ; [art. L3323-5 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-5) ; [art. L3324-10 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iv.md#article-l3324-10) ; [art. L312-20 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-20)
 - Cité par : [art. R3332-30 du Code du travail](../titre-iii/chapitre-ii.md#article-r3332-30)
 
 Lorsque le bénéficiaire ne peut être atteint à la dernière adresse indiquée par lui, les sommes auxquelles il peut prétendre sont tenues à sa disposition par l'entreprise pendant une durée d'un an à compter de la date d'expiration du délai prévu soit à l'article L. 3323-5, soit à l'article L. 3324-10 selon le cas.  
@@ -410,7 +410,7 @@ Passé ce délai, ces sommes sont remises à la Caisse des dépôts et consignat
 - Identifiant : LEGIARTI000031588623
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031588623
-- Renvoie à : [art. 2262 du Code civil](../../../../../code-civil/livre-iii/titre-xxi/chapitre-ii.md#article-2262) ; [art. L3323-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-2) ; art. L312-20 du Code monétaire et financier
+- Renvoie à : [art. 2262 du Code civil](../../../../../code-civil/livre-iii/titre-xxi/chapitre-ii.md#article-2262) ; [art. L135-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-5-bis.md#article-l135-7) ; [art. L3323-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l3323-2) ; [art. L312-20 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-20)
 
 La conservation des parts de fonds communs de placement et des actions de sociétés d'investissement à capital variable (SICAV) acquises en application du 1° de l'article L. 3323-2 continue d'être assurée par l'organisme qui en est chargé et auprès duquel l'intéressé peut les réclamer jusqu'au terme des délais prévus au III de l'article L. 312-20 du code monétaire et financier.
 
@@ -418,7 +418,7 @@ La conservation des parts de fonds communs de placement et des actions de socié
 - Identifiant : LEGIARTI000018533204
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018533204
-- Renvoie à : [art. 150-0 A du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006302714)
+- Renvoie à : [art. 150-0 A du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-150-0-a)
 
 En cas de décès du salarié, ses ayants droit demandent la liquidation de ses droits.
 

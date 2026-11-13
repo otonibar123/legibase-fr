@@ -38,7 +38,7 @@ La femme enceinte exposée à des rayonnements ionisants ayant déclaré son ét
 - État : en vigueur depuis le 01/07/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037000987
 - Renvoie à : [art. R4451-6 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-6)
-- Cité par : [art. R4452-19 du Code du travail](../../livre-iv/titre-v/chapitre-ii.md#article-r4452-19) ; [art. R1333-96 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022442982)
+- Cité par : [art. R1333-96 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-r1333-96) ; [art. R4452-19 du Code du travail](../../livre-iv/titre-v/chapitre-ii.md#article-r4452-19)
 
 Lorsque la femme enceinte est maintenu sur un poste l'exposant aux rayonnements ionisants, l'employeur s'assure du respect des valeurs limites d'exposition fixées au 2° de l'article R. 4451-6 pour les organes ou les tissus.
 

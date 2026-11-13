@@ -68,8 +68,8 @@ L'affaire est instruite et débattue en chambre du conseil, après avis du minis
 - Identifiant : LEGIARTI000006412119
 - État : en vigueur depuis le 23/12/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412119
-- Renvoie à : [art. 1168 du Code de procédure civile](chapitre-viii.md#article-1168) ; [art. L221-7 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796790)
-- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028130314) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039346197) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027907290)
+- Renvoie à : [art. L221-7 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-ier.md#article-l221-7) ; [art. 1168 du Code de procédure civile](chapitre-viii.md#article-1168)
+- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du Code de procédure pénale](../../../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039346197) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027907290)
 
 Le tribunal vérifie si les conditions légales de l'adoption sont remplies dans un délai de six mois à compter soit du dépôt de la requête, soit de sa transmission dans le cas prévu au second alinéa de l'article 1168. S'il y a lieu, il fait procéder à une enquête par toute personne qualifiée. Il peut commettre un médecin aux fins de procéder à tout examen qui lui paraîtrait nécessaire.  
 

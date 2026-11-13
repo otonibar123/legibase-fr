@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire ancienne - Décrets simples › Livre 
 - Identifiant : LEGIARTI000037456714
 - État : en vigueur depuis le 30/09/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037456714
-- Renvoie à : art. L212-3 du Code de la sécurité sociale ; art. L242-1 du Code de la sécurité sociale ; art. R711-1 du Code de la sécurité sociale
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. R711-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vii/titre-i/chapitre-1er.md#article-r711-1) ; art. L212-3 du Code de la sécurité sociale
 
 Pour les salariés relevant du régime spécial de sécurité sociale des marins mentionné au 4° de l'article R. 711-1 du code de la sécurité sociale, l'exonération prévue à l'article L. 981-6 est applicable aux contributions et cotisations à la charge de l'employeur et dues :
 

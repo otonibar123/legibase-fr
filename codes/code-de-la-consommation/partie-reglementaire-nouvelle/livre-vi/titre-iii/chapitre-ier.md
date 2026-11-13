@@ -31,6 +31,6 @@ Le consommateur peut saisir, soit l'une des juridictions territorialement compé
 - Identifiant : LEGIARTI000032808506
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032808506
-- Renvoie à : art. L111-8 du Code des procédures civiles d'exécution
+- Renvoie à : [art. L111-8 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-8)
 
 Lors du prononcé d'une condamnation, le juge peut, même d'office, pour des raisons tirées de l'équité ou de la situation économique du professionnel condamné, mettre à sa charge l'intégralité des droits proportionnels de recouvrement ou d'encaissement prévus à l'article L. 111-8 du code des procédures civiles d'exécution.

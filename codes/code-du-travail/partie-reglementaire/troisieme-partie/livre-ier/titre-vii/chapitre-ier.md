@@ -11,7 +11,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033516016
 - Renvoie à : [art. L3121-30 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-30) ; [art. L3121-33 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-33) ; [art. L3121-38 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-38) ; [art. L3121-39 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-39) ; [art. L3121-67 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-67)
-- Cité par : [art. D241-25 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033516203) ; [art. D3312-14 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033450251) ; [art. D3312-54 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033450347)
+- Cité par : [art. D241-25 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-ii/titre-iv/chapitre-1er.md#article-d241-25) ; [art. D3312-14 du Code des transports](../../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-iii/titre-unique/chapitre-ii.md#article-d3312-14) ; [art. D3312-54 du Code des transports](../../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-iii/titre-unique/chapitre-ii.md#article-d3312-54)
 
 Lorsque tous les salariés d'un atelier, d'un service ou d'une équipe travaillent selon le même horaire collectif, un horaire établi selon l'heure légale indique les heures auxquelles commence et finit chaque période de travail.
 
@@ -114,7 +114,7 @@ A défaut de précision conventionnelle contraire, les salariés sont informés 
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033515990
 - Renvoie à : [art. D3121-27 du Code du travail](../titre-ii/chapitre-ier.md#article-d3121-27) ; [art. D3171-11 du Code du travail](chapitre-ier.md#article-d3171-11) ; [art. L3121-28 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-28) ; [art. L3121-33 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-33) ; [art. L3121-37 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-37) ; [art. L3121-44 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-44)
-- Cité par : [art. D4511-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037330261)
+- Cité par : [art. D4511-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/quatrieme-partie/livre-v/titre-ier/chapitre-ier.md#article-d4511-6)
 
 Lorsque des salariés d'un atelier, d'un service ou d'une équipe ne travaillent pas selon le même horaire collectif de travail affiché, un document mensuel, dont le double est annexé au bulletin de paie, est établi pour chaque salarié.
 
@@ -133,7 +133,7 @@ Ce document comporte les mentions prévues à l'article D. 3171-11 ainsi que :
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033515985
 - Renvoie à : [art. L3121-44 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-44) ; [art. L3122-19 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l3122-19)
-- Cité par : [art. D3312-63 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033450365)
+- Cité par : [art. D3312-63 du Code des transports](../../../../../code-des-transports/partie-reglementaire/troisieme-partie/livre-iii/titre-unique/chapitre-ii.md#article-d3312-63)
 
 Dans les entreprises et établissements qui appliquent un dispositif d'aménagement du temps de travail en application des dispositions de l'article L. 3121-44, le total des heures de travail accomplies depuis le début de la période de référence est mentionné à la fin de celle-ci ou lors du départ du salarié si celui-ci a lieu en cours de période, sur un document annexé au dernier bulletin de paie de cette période.
 
@@ -152,7 +152,7 @@ Le droit d'accès aux informations nominatives prévu à l'article 39 de la loi 
 - État : en vigueur depuis le 23/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033292581
 - Renvoie à : [art. D3171-7 du Code du travail](chapitre-ier.md#article-d3171-7)
-- Cité par : [art. D241-25 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033516203)
+- Cité par : [art. D241-25 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-ii/titre-iv/chapitre-1er.md#article-d241-25)
 
 Les documents mentionnés aux articles D. 3171-7 à D. 3171-13 peuvent être sous format électronique lorsque des garanties de contrôle équivalentes sont maintenues.
 

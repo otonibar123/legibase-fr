@@ -45,7 +45,7 @@ Le ministre chargé de la consommation est l'ordonnateur compétent pour émettr
 - Identifiant : LEGIARTI000054966887
 - État : en vigueur depuis le 10/10/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054966887
-- Renvoie à : art. L321-1 du Code de la construction et de l'habitation ; art. R321-11 du Code de la construction et de l'habitation
+- Renvoie à : [art. L222-9 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l222-9) ; [art. L232-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-2) ; [art. L232-3 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-3) ; [art. L321-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1) ; [art. L321-1-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1-1) ; [art. R321-11 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-11)
 
 I. - La décision de suspension prévue au I de l'article L. 521-28 est soumise au respect d'une procédure contradictoire préalable qui ne peut être inférieure à 15 jours.
 
@@ -75,7 +75,7 @@ Lorsque l'autorité administrative mentionnée à l'article L. 521-28 prononce u
 - Identifiant : LEGIARTI000054966889
 - État : en vigueur depuis le 10/10/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054966889
-- Renvoie à : [art. L521-28 du Code de la consommation](../../../partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md#article-l521-28) ; art. L321-1 du Code de la construction et de l'habitation ; art. R321-11 du Code de la construction et de l'habitation
+- Renvoie à : [art. L232-2 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-2) ; [art. L232-3 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-3) ; [art. L521-28 du Code de la consommation](../../../partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md#article-l521-28) ; [art. L321-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1) ; [art. L321-1-1 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1-1) ; [art. R321-11 du Code de la construction et de l'habitation](../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md#article-r321-11)
 
 I. - La décision de suspension de l'agrément prévue au II de l'article L. 521-28 est soumise au respect d'une procédure contradictoire préalable qui ne peut être inférieure à 15 jours.
 

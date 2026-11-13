@@ -8,8 +8,8 @@ Code de la consommation › Partie législative nouvelle › Livre VI : RÈGLEME
 - Identifiant : LEGIARTI000032224749
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224749
-- Renvoie à : [art. L811-1 du Code de la consommation](../../livre-viii/titre-ier/chapitre-ier.md#article-l811-1) ; [art. L211-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796729)
-- Cité par : [art. L621-2 du Code de la consommation](chapitre-ier.md#article-l621-2) ; [art. L621-3 du Code de la consommation](chapitre-ier.md#article-l621-3) ; [art. L621-7 du Code de la consommation](chapitre-ier.md#article-l621-7) ; [art. L621-9 du Code de la consommation](chapitre-ier.md#article-l621-9) ; [art. L211-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035032488) ; [Décret n°2025-719 du 29 juillet 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052011810) ; [LOI n°2024-449 du 21 mai 2024, art. 41](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049565852)
+- Renvoie à : [art. L211-2 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-2) ; [art. L811-1 du Code de la consommation](../../livre-viii/titre-ier/chapitre-ier.md#article-l811-1)
+- Cité par : [art. L211-3 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3) ; [art. L621-2 du Code de la consommation](chapitre-ier.md#article-l621-2) ; [art. L621-3 du Code de la consommation](chapitre-ier.md#article-l621-3) ; [art. L621-7 du Code de la consommation](chapitre-ier.md#article-l621-7) ; [art. L621-9 du Code de la consommation](chapitre-ier.md#article-l621-9) ; [Décret n°2025-719 du 29 juillet 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052011810) ; [LOI n°2024-449 du 21 mai 2024, art. 41](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049565852)
 
 Les associations régulièrement déclarées ayant pour objet statutaire explicite la défense des intérêts des consommateurs peuvent, si elles ont été agréées à cette fin en application de l'article L. 811-1, exercer les droits reconnus à la partie civile relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif des consommateurs.  
 Les organisations définies à l'article L. 211-2 du code de l'action sociale et des familles sont dispensées de l'agrément pour agir en justice dans les conditions prévues au présent article.
@@ -103,7 +103,7 @@ Le ministère public peut produire devant la juridiction saisie, nonobstant les 
 - Identifiant : LEGIARTI000032224725
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224725
-- Renvoie à : art. 131-35 du Code pénal
+- Renvoie à : [art. 131-35 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 La juridiction saisie peut ordonner la diffusion, par tous moyens appropriés, de l'information au public du jugement rendu. Lorsqu'elle ordonne l'affichage de l'information en application du présent alinéa, il est procédé à celui-ci dans les conditions prévues par l'article 131-35 du code pénal.  
 Cette diffusion a lieu aux frais de la partie qui succombe ou du condamné ou de l'association qui s'est constituée partie civile lorsque les poursuites engagées à son initiative ont donné lieu à une décision de relaxe.

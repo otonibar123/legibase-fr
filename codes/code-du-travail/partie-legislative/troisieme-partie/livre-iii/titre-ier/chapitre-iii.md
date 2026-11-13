@@ -43,7 +43,7 @@ L'accord d'intéressement définit notamment :
 - Identifiant : LEGIARTI000046194067
 - État : en vigueur depuis le 01/01/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046194067
-- Renvoie à : [art. L3312-2 du Code du travail](chapitre-ii.md#article-l3312-2) ; [art. L3312-4 du Code du travail](chapitre-ii.md#article-l3312-4) ; [art. L3315-1 du Code du travail](chapitre-v.md#article-l3315-1) ; [art. L3345-2 du Code du travail](../titre-iv/chapitre-v.md#article-l3345-2) ; art. L723-3 du Code rural et de la pêche maritime
+- Renvoie à : [art. L213-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-i/chapitre-3.md#article-l213-1) ; [art. L752-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-vii/titre-v/chapitre-2.md#article-l752-4) ; [art. L3312-2 du Code du travail](chapitre-ii.md#article-l3312-2) ; [art. L3312-4 du Code du travail](chapitre-ii.md#article-l3312-4) ; [art. L3315-1 du Code du travail](chapitre-v.md#article-l3315-1) ; [art. L3345-2 du Code du travail](../titre-iv/chapitre-v.md#article-l3345-2) ; [art. L723-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-3)
 - Cité par : [art. L3312-8 du Code du travail](chapitre-ii.md#article-l3312-8) ; [art. L3345-2 du Code du travail](../titre-iv/chapitre-v.md#article-l3345-2) ; [art. R3313-4 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-r3313-4)
 
 L'accord d'intéressement est déposé auprès de l'autorité administrative compétente dans un délai et selon des modalités déterminés par voie réglementaire.

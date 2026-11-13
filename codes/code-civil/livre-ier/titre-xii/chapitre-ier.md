@@ -6,7 +6,7 @@ Code civil › Livre Ier : Des personnes › Titre XII : De la gestion du patrim
 - Identifiant : LEGIARTI000006428219
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428219
-- Cité par : [art. 382-1 du Code civil](../titre-ix/chapitre-ii.md#article-382-1) ; [art. Annexe 4-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020079416) ; [Décret n°2008-1484 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020063702) ; [Décret n°2015-1669 du 14 décembre 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031630203)
+- Cité par : [art. 382-1 du Code civil](../titre-ix/chapitre-ii.md#article-382-1) ; [art. Annexe 4-3 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-4-3) ; [Décret n°2008-1484 du 22 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020063702) ; [Décret n°2015-1669 du 14 décembre 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031630203)
 
 Le tuteur représente la personne protégée dans les actes nécessaires à la gestion de son patrimoine.  
 
@@ -28,7 +28,7 @@ Il en est notamment ainsi de l'emploi ou du remploi des capitaux opéré conform
 - Identifiant : LEGIARTI000006428237
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428237
-- Cité par : [Arrêté du 1er avril 2026, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053767453) ; [art. R1112-37 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043588087)
+- Cité par : [art. R1112-37 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-ier/titre-ier/chapitre-ii.md#article-r1112-37) ; [Arrêté du 1er avril 2026, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053767453)
 
 Les capitaux revenant à la personne protégée sont versés directement sur un compte ouvert à son seul nom et mentionnant la mesure de tutelle, auprès d'un établissement habilité à recevoir des fonds du public.  
 
@@ -38,7 +38,7 @@ Lorsque la mesure de tutelle est confiée aux personnes ou services préposés d
 - Identifiant : LEGIARTI000006428243
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428243
-- Cité par : [art. L342-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031728172) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
+- Cité par : [art. L342-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-2) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
 
 Les tiers peuvent informer le juge des actes ou omissions du tuteur qui leur paraissent de nature à porter préjudice aux intérêts de la personne protégée.  
 
@@ -52,7 +52,7 @@ La tierce opposition contre les autorisations du conseil de famille ou du juge n
 - Identifiant : LEGIARTI000038310440
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310440
-- Cité par : [Arrêté du 4 mars 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286813) ; [Arrêté du 4 mars 1970, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286815) ; [art. L342-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031728172) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Décret n°69-195 du 15 février 1969, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286388)
+- Cité par : [art. L342-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-2) ; [Arrêté du 4 mars 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286813) ; [Arrêté du 4 mars 1970, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286815) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Décret n°69-195 du 15 février 1969, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286388)
 
 Le tuteur arrête le budget de la tutelle en déterminant, en fonction de l'importance des biens de la personne protégée et des opérations qu'implique leur gestion, les sommes annuellement nécessaires à l'entretien de celle-ci et au remboursement des frais d'administration de ses biens. Le tuteur en informe le conseil de famille ou, à défaut, le juge. En cas de difficultés, le budget est arrêté par le conseil de famille ou, à défaut, par le juge.
 
@@ -64,7 +64,7 @@ Si le tuteur conclut un contrat avec un tiers pour la gestion des valeurs mobili
 - Identifiant : LEGIARTI000038310437
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310437
-- Cité par : [Arrêté du 4 mars 1970, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286815) ; [art. L443-7 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797968) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Décret n°69-195 du 15 février 1969, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286388)
+- Cité par : [art. L443-7 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-iv/chapitre-iii.md#article-l443-7) ; [Arrêté du 4 mars 1970, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286815) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Décret n°69-195 du 15 février 1969, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286388)
 
 Le conseil de famille ou, à défaut, le juge détermine la somme à partir de laquelle commence, pour le tuteur, l'obligation d'employer les capitaux liquides et l'excédent des revenus. Le tuteur peut toutefois, sans autorisation, placer des fonds sur un compte.
 
@@ -92,7 +92,7 @@ Toutefois, les autorisations du conseil de famille peuvent être suppléées par
 - Identifiant : LEGIARTI000038311125
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311125
-- Cité par : [art. 472 du Code civil](../titre-xi/chapitre-ii.md#article-472) ; [art. 1253 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1253) ; [art. Annexe 4-6 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020077558) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
+- Cité par : [art. 472 du Code civil](../titre-xi/chapitre-ii.md#article-472) ; [art. Annexe 4-6 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-4-6) ; [art. 1253 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-ier/chapitre-x.md#article-1253) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395)
 
 Le tuteur fait procéder, en présence du subrogé tuteur s'il a été désigné, à un inventaire des biens de la personne protégée, qui est transmis au juge dans les trois mois de l'ouverture de la tutelle pour les biens meubles corporels, et dans les six mois pour les autres biens, avec le budget prévisionnel. Il en assure l'actualisation au cours de la mesure.
 
@@ -185,7 +185,7 @@ Dans le cas où la succession à laquelle il a été renoncé au nom de la perso
 - Identifiant : LEGIARTI000006428331
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428331
-- Cité par : [art. 509 du Code civil](chapitre-ier.md#article-509) ; [art. L3211-5 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687906) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687910) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
+- Cité par : [art. 509 du Code civil](chapitre-ier.md#article-509) ; [art. L3211-5 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l3211-5) ; [art. L3211-8 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006687910) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Loi n°2004-1 du 2 janvier 2004, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006682194)
 
 A titre exceptionnel et dans l'intérêt de la personne protégée, le tuteur qui n'est pas mandataire judiciaire à la protection des majeurs peut, sur autorisation du conseil de famille ou, à défaut, du juge, acheter les biens de celle-ci ou les prendre à bail ou à ferme.  
 

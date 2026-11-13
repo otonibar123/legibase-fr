@@ -15,7 +15,7 @@ Elles sont également applicables au personnel des personnes publiques employé 
 - Identifiant : LEGIARTI000038610170
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038610170
-- Renvoie à : [art. L130-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038498675)
+- Renvoie à : [art. L130-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-preliminaire.md#article-l130-1)
 
 Pour l'application du présent titre, l'effectif salarié et le franchissement d'un seuil d'effectif sont déterminés selon les modalités prévues à l'article L. 130-1 du code de la sécurité sociale.
 

@@ -6,7 +6,7 @@ Code du travail › Partie législative › Cinquième partie : L'emploi › Liv
 - Identifiant : LEGIARTI000054315135
 - État : en vigueur depuis le 27/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054315135
-- Renvoie à : [art. L5312-13-1 du Code du travail](chapitre-ii.md#article-l5312-13-1) ; [art. L5421-2 du Code du travail](../../livre-iv/titre-ii/chapitre-ier.md#article-l5421-2) ; [art. L114-10-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054335739)
+- Renvoie à : [art. L114-10-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-i/chapitre-4-ter.md#article-l114-10-1) ; [art. L5312-13-1 du Code du travail](chapitre-ii.md#article-l5312-13-1) ; [art. L5421-2 du Code du travail](../../livre-iv/titre-ii/chapitre-ier.md#article-l5421-2) ; [art. L12 du Code électoral](../../../../../code-electoral/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l12)
 - Cité par : [art. L5312-17 du Code du travail](chapitre-ii-bis.md#article-l5312-17)
 
 Pour l'accomplissement de leur mission de lutte contre la fraude, les agents chargés de la prévention des fraudes assermentés et agréés mentionnés à l'article L. 5312-13-1 ainsi que les agents chargés du contrôle et de la lutte contre la fraude mentionnés à l'article L. 114-10-1 du code de la sécurité sociale peuvent interroger les services du ministre des affaires étrangères tenant le registre mentionné à l'article L. 12 du code électoral, à la seule fin de contrôler le respect de la condition de résidence en France, lorsque les allocations mentionnées à l'article L. 5421-2 du présent code sont soumises à une telle condition.

@@ -1,0 +1,118 @@
+# Code des relations entre le public et l'administration
+
+Dernière modification du texte dans LEGI : 28/05/2026. 475 articles en vigueur, répartis dans 85 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- [Dispositions préliminaires](dispositions-preliminaires.md) (3 articles)
+- **Livre Ier : LES ÉCHANGES AVEC L'ADMINISTRATION**
+  - **Titre Ier : LES DEMANDES DU PUBLIC ET LEUR TRAITEMENT**
+    - [Titre Ier : LES DEMANDES DU PUBLIC ET LEUR TRAITEMENT : articles rattachés directement](livre-ier/titre-ier/articles-directs.md) (1 article)
+    - [Chapitre Ier : Règles générales](livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+    - [Chapitre II : Modalités de saisine et d'échanges](livre-ier/titre-ier/chapitre-ii.md) (26 articles)
+    - [Chapitre III : Contenu des dossiers](livre-ier/titre-ier/chapitre-iii.md) (14 articles)
+    - [Chapitre IV : Diligences de l'administration](livre-ier/titre-ier/chapitre-iv.md) (21 articles)
+    - [Chapitre V : Lutte contre la fraude](livre-ier/titre-ier/chapitre-v.md) (4 articles)
+  - **Titre II : LES PROCÉDURES PRÉALABLES A L'INTERVENTION DE CERTAINES DÉCISIONS**
+    - [Titre II : LES PROCÉDURES PRÉALABLES A L'INTERVENTION DE CERTAINES DÉCISIONS : articles rattachés directement](livre-ier/titre-ii/articles-directs.md) (1 article)
+    - [Chapitre Ier : Décisions soumises au respect d'une procédure contradictoire préalable](livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+    - [Chapitre II : Modalités de mise en œuvre de la procédure contradictoire préalable](livre-ier/titre-ii/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Droit à régularisation en cas d'erreur](livre-ier/titre-ii/chapitre-iii.md) (2 articles)
+    - [Chapitre IV : Droit au contrôle et opposabilité du contrôle](livre-ier/titre-ii/chapitre-iv.md) (2 articles)
+  - **Titre III : L'ASSOCIATION DU PUBLIC AUX DÉCISIONS PRISES PAR L'ADMINISTRATION**
+    - [Chapitre Ier : Principes généraux](livre-ier/titre-iii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Consultation ouverte sur internet](livre-ier/titre-iii/chapitre-ii.md) (10 articles)
+    - [Chapitre III : Commissions administratives à caractère consultatif](livre-ier/titre-iii/chapitre-iii.md) (15 articles)
+    - [Chapitre IV : Enquêtes publiques](livre-ier/titre-iii/chapitre-iv.md) (35 articles)
+    - [Chapitre V : Participation du public aux décisions locales](livre-ier/titre-iii/chapitre-v.md) (2 articles)
+- **Livre II : LES ACTES UNILATÉRAUX PRIS PAR L'ADMINISTRATION**
+  - [Livre II : LES ACTES UNILATÉRAUX PRIS PAR L'ADMINISTRATION : articles rattachés directement](livre-ii/articles-directs.md) (1 article)
+  - **Titre Ier : LA MOTIVATION ET LA SIGNATURE DES ACTES ADMINISTRATIFS**
+    - [Chapitre Ier : Motivation](livre-ii/titre-ier/chapitre-ier.md) (8 articles)
+    - [Chapitre II : Signature](livre-ii/titre-ier/chapitre-ii.md) (3 articles)
+  - **Titre II : L'ENTRÉE EN VIGUEUR DES ACTES ADMINISTRATIFS**
+    - [Chapitre Ier : Règles générales](livre-ii/titre-ii/chapitre-ier.md) (15 articles)
+    - [Chapitre II : Autres règles applicables aux collectivités territoriales et à leurs établissements publics](livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+  - **Titre III : LES DÉCISIONS IMPLICITES**
+    - [Chapitre Ier : Régimes de décisions implicites](livre-ii/titre-iii/chapitre-ier.md) (6 articles)
+    - [Chapitre II : Garanties procédurales](livre-ii/titre-iii/chapitre-ii.md) (4 articles)
+  - **Titre IV : LA SORTIE DE VIGUEUR DES ACTES ADMINISTRATIFS**
+    - [Titre IV : LA SORTIE DE VIGUEUR DES ACTES ADMINISTRATIFS : articles rattachés directement](livre-ii/titre-iv/articles-directs.md) (2 articles)
+    - [Chapitre Ier : Règles générales](livre-ii/titre-iv/chapitre-ier.md) (2 articles)
+    - [Chapitre II : Les décisions créatrices de droits](livre-ii/titre-iv/chapitre-ii.md) (5 articles)
+    - [Chapitre III : Les actes réglementaires et les actes non réglementaires non créateurs de droits](livre-ii/titre-iv/chapitre-iii.md) (4 articles)
+- **Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES**
+  - [Livre III : L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET LA RÉUTILISATION DES INFORMATIONS PUBLIQUES : articles rattachés directement](livre-iii/articles-directs.md) (4 articles)
+  - **Titre Ier : LE DROIT D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS**
+    - [Chapitre Ier : Communication des documents administratifs](livre-iii/titre-ier/chapitre-ier.md) (20 articles)
+    - [Chapitre II : Diffusion des documents administratifs](livre-iii/titre-ier/chapitre-ii.md) (18 articles)
+  - **Titre II : LA RÉUTILISATION DES INFORMATIONS PUBLIQUES**
+    - [Chapitre Ier : Etendue du droit de réutilisation](livre-iii/titre-ii/chapitre-ier.md) (8 articles)
+    - [Chapitre II : Règles générales](livre-iii/titre-ii/chapitre-ii.md) (7 articles)
+    - [Chapitre III : Etablissement d'une licence](livre-iii/titre-ii/chapitre-iii.md) (6 articles)
+    - [Chapitre IV : Redevance](livre-iii/titre-ii/chapitre-iv.md) (14 articles)
+    - [Chapitre V : Droit d'exclusivité](livre-iii/titre-ii/chapitre-v.md) (8 articles)
+    - [Chapitre VI : Sanctions](livre-iii/titre-ii/chapitre-vi.md) (1 article)
+    - [Chapitre VII : Dispositions diverses](livre-iii/titre-ii/chapitre-vii.md) (1 article)
+  - [Titre III : LES PERSONNES RESPONSABLES DE L'ACCÈS AUX DOCUMENTS ADMINISTRATIFS ET DES QUESTIONS RELATIVES À LA RÉUTILISATION DES INFORMATIONS PUBLIQUES](livre-iii/titre-iii.md) (4 articles)
+  - **Titre IV : LA COMMISSION D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS**
+    - [Titre IV : LA COMMISSION D'ACCÈS AUX DOCUMENTS ADMINISTRATIFS : articles rattachés directement](livre-iii/titre-iv/articles-directs.md) (1 article)
+    - [Chapitre Ier : Composition et fonctionnement de la Commission d'accès aux documents administratifs](livre-iii/titre-iv/chapitre-ier.md) (20 articles)
+    - [Chapitre II : Attributions de la Commission d'accès aux documents administratifs](livre-iii/titre-iv/chapitre-ii.md) (6 articles)
+    - [Chapitre III : Procédures applicables devant la Commission d'accès aux documents administratifs](livre-iii/titre-iv/chapitre-iii.md) (14 articles)
+  - **Titre V : LA COMMISSION SUPÉRIEURE DE CODIFICATION**
+    - [Chapitre unique : Missions et composition](livre-iii/titre-v/chapitre-unique.md) (1 article)
+- **Livre IV : LE RÈGLEMENT DES DIFFÉRENDS AVEC L'ADMINISTRATION**
+  - **Titre Ier : LES RECOURS ADMINISTRATIFS**
+    - [Titre Ier : LES RECOURS ADMINISTRATIFS : articles rattachés directement](livre-iv/titre-ier/articles-directs.md) (1 article)
+    - [Chapitre Ier : Règles générales](livre-iv/titre-ier/chapitre-ier.md) (7 articles)
+    - [Chapitre II : Recours administratifs préalables obligatoires](livre-iv/titre-ier/chapitre-ii.md) (8 articles)
+  - **Titre II : LES AUTRES MODES NON JURIDICTIONNELS DE RÉSOLUTION DES DIFFÉRENDS**
+    - [Chapitre Ier : Médiation dans un cadre non juridictionnel](livre-iv/titre-ii/chapitre-ier.md) (3 articles)
+    - [Chapitre II : Médiation dans un cadre juridictionnel](livre-iv/titre-ii/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Transaction](livre-iv/titre-ii/chapitre-iii.md) (7 articles)
+    - [Chapitre IV : Saisine du Défenseur des droits](livre-iv/titre-ii/chapitre-iv.md) (2 articles)
+  - **Titre III : LES RECOURS JURIDICTIONNELS**
+    - [Chapitre Ier : Recours juridictionnels de droit commun : les recours contentieux](livre-iv/titre-iii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Arbitrage : principe de prohibition et dérogations](livre-iv/titre-iii/chapitre-ii-arbitrage.md) (1 article)
+- **Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+  - [Livre V : DISPOSITIONS RELATIVES À L'OUTRE-MER : articles rattachés directement](livre-v/articles-directs.md) (1 article)
+  - **Titre Ier : DISPOSITIONS APPLICABLES EN GUADELOUPE, EN GUYANE, EN MARTINIQUE, À LA RÉUNION ET À MAYOTTE**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-ier/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions spécifiques relatives au livre Ier](livre-v/titre-ier/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Dispositions spécifiques relatives au livre II](livre-v/titre-ier/chapitre-iii.md) (2 articles)
+    - [Chapitre IV : Dispositions spécifiques relatives au livre III](livre-v/titre-ier/chapitre-iv.md) (2 articles)
+  - **Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-ii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions spécifiques relatives au livre Ier](livre-v/titre-ii/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Dispositions spécifiques relatives au livre II](livre-v/titre-ii/chapitre-iii.md) (2 articles)
+    - [Chapitre IV : Dispositions spécifiques relatives au livre III](livre-v/titre-ii/chapitre-iv.md) (3 articles)
+  - **Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-iii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions spécifiques relatives au livre Ier](livre-v/titre-iii/chapitre-ii.md) (1 article)
+    - [Chapitre III : Dispositions spécifiques relatives au livre II](livre-v/titre-iii/chapitre-iii.md) (2 articles)
+    - [Chapitre IV : Dispositions spécifiques relatives au livre III](livre-v/titre-iii/chapitre-iv.md) (3 articles)
+  - **Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-iv/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions spécifiques relatives au livre Ier](livre-v/titre-iv/chapitre-ii.md) (1 article)
+    - [Chapitre III : Dispositions spécifiques relatives au livre II](livre-v/titre-iv/chapitre-iii.md) (2 articles)
+    - [Chapitre IV : Dispositions spécifiques relatives au livre III](livre-v/titre-iv/chapitre-iv.md) (4 articles)
+  - **Titre V : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-v/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et autres organismes et personnes placés sous leur contrôle](livre-v/titre-v/chapitre-ii.md) (19 articles)
+    - [Chapitre III : Dispositions applicables à la Polynésie française et aux organismes et personnes placées sous son contrôle](livre-v/titre-v/chapitre-iii.md) (4 articles)
+  - **Titre VI : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-vi/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions applicables à l'Etat, aux communes et à leurs établissements publics et aux autres organismes et personnes placés sous leur contrôle](livre-v/titre-vi/chapitre-ii.md) (20 articles)
+    - [Chapitre III : Dispositions applicables à la Nouvelle-Calédonie, à ses provinces et aux organismes et personnes placés sous leur contrôle](livre-v/titre-vi/chapitre-iii.md) (4 articles)
+  - **Titre VII : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-vii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions spécifiques relatives au livre Ier](livre-v/titre-vii/chapitre-ii.md) (6 articles)
+    - [Chapitre III : Dispositions spécifiques relatives au livre II](livre-v/titre-vii/chapitre-iii.md) (6 articles)
+    - [Chapitre IV : Dispositions spécifiques relatives au livre III](livre-v/titre-vii/chapitre-iv.md) (11 articles)
+    - [Chapitre V : Dispositions spécifiques relatives au livre IV](livre-v/titre-vii/chapitre-v.md) (1 article)
+  - **Titre VIII : DISPOSITIONS APPLICABLES DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+    - [Chapitre Ier : Dispositions générales](livre-v/titre-viii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Dispositions spécifiques relatives au livre Ier](livre-v/titre-viii/chapitre-ii.md) (2 articles)
+    - [Chapitre III : Dispositions spécifiques relatives au livre II](livre-v/titre-viii/chapitre-iii.md) (1 article)
+    - [Chapitre IV : Dispositions spécifiques relatives au livre III](livre-v/titre-viii/chapitre-iv.md) (3 articles)

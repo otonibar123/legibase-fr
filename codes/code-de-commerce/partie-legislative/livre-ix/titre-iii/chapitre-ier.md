@@ -107,6 +107,7 @@ Le juge doit, en tenant compte de tous les éléments d'appréciation, adapter l
 - Identifiant : LEGIARTI000020905594
 - État : en vigueur depuis le 26/07/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020905594
+- Renvoie à : [art. 71 du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-ii/chapitre-premier.md#article-71)
 
 Pour l'application de l'article L. 145-2, la Nouvelle-Calédonie est considérée comme une collectivité territoriale et au 6°, les mots : " à la caisse de sécurité sociale de la maison des artistes et reconnus auteurs d'oeuvres graphiques et plastiques, tels que définis par l'article 71 de l'annexe III du code général des impôts " sont remplacés par les mots : " à la caisse locale d'assurance sociale et reconnus auteurs d'oeuvres graphiques et plastiques au sens du code des impôts applicable en Nouvelle-Calédonie ".
 
@@ -114,7 +115,7 @@ Pour l'application de l'article L. 145-2, la Nouvelle-Calédonie est considéré
 - Identifiant : LEGIARTI000006243721
 - État : en vigueur depuis le 01/10/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006243721
-- Renvoie à : [art. L145-6 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-6) ; [art. L145-18 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-18) ; [art. L313-4 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815459) ; [art. L313-4-2 du Code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006815204)
+- Renvoie à : [art. L145-6 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-6) ; [art. L145-18 du Code de commerce](../../livre-ier/titre-iv/chapitre-v.md#article-l145-18) ; [art. L313-4 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4) ; [art. L313-4-2 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ier/chapitre-iii.md#article-l313-4-2)
 
 Pour l'application de l'article L. 145-6, les mots : " l'évacuation des lieux compris dans un secteur ou périmètre prévu aux articles L. 313-4 et L. 313-4-2 du code de l'urbanisme " sont remplacés par les mots : " l'évacuation des lieux prévue à l'article L. 145-18 ".
 

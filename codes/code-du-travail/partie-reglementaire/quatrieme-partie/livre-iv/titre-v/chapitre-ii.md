@@ -204,7 +204,7 @@ Les lieux de travail où, d'après les résultats de l'évaluation des risques d
 - Identifiant : LEGIARTI000022442807
 - État : en vigueur depuis le 05/07/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022442807
-- Renvoie à : [art. R4452-12 du Code du travail](chapitre-ii.md#article-r4452-12) ; [art. R4452-13 du Code du travail](chapitre-ii.md#article-r4452-13) ; [art. R4452-14 du Code du travail](chapitre-ii.md#article-r4452-14)
+- Renvoie à : [art. R1333-95 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-r1333-95) ; [art. R4452-12 du Code du travail](chapitre-ii.md#article-r4452-12) ; [art. R4452-13 du Code du travail](chapitre-ii.md#article-r4452-13) ; [art. R4452-14 du Code du travail](chapitre-ii.md#article-r4452-14)
 - Cité par : [art. R4452-16 du Code du travail](chapitre-ii.md#article-r4452-16) ; [art. R4452-18 du Code du travail](chapitre-ii.md#article-r4452-18) ; [art. R4452-19 du Code du travail](chapitre-ii.md#article-r4452-19) ; [art. R4452-20 du Code du travail](chapitre-ii.md#article-r4452-20)
 
 En liaison avec le médecin du travail, l'employeur adapte les mesures de prévention prévues à la présente section aux besoins des travailleurs appartenant à des groupes à risques particulièrement sensibles.
@@ -213,7 +213,7 @@ En liaison avec le médecin du travail, l'employeur adapte les mesures de préve
 - Identifiant : LEGIARTI000022442803
 - État : en vigueur depuis le 05/07/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022442803
-- Renvoie à : [art. R4452-5 du Code du travail](chapitre-ii.md#article-r4452-5) ; [art. R4452-6 du Code du travail](chapitre-ii.md#article-r4452-6) ; [art. R4452-12 du Code du travail](chapitre-ii.md#article-r4452-12) ; [art. R4452-13 du Code du travail](chapitre-ii.md#article-r4452-13) ; [art. R4452-15 du Code du travail](chapitre-ii.md#article-r4452-15)
+- Renvoie à : [art. R1333-95 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-r1333-95) ; [art. R4452-5 du Code du travail](chapitre-ii.md#article-r4452-5) ; [art. R4452-6 du Code du travail](chapitre-ii.md#article-r4452-6) ; [art. R4452-12 du Code du travail](chapitre-ii.md#article-r4452-12) ; [art. R4452-13 du Code du travail](chapitre-ii.md#article-r4452-13) ; [art. R4452-15 du Code du travail](chapitre-ii.md#article-r4452-15)
 
 Lorsqu'il n'est pas possible d'éviter les risques dus à l'exposition aux rayonnements optiques artificiels par d'autres moyens, des équipements de protection individuelle, appropriés et adaptés, sont mis à la disposition des travailleurs. Lorsque les niveaux d'exposition fixés aux articles R. 4452-5 et R. 4452-6 sont dépassés, l'employeur veille à leur port effectif.
 
@@ -246,7 +246,7 @@ Lorsqu'en dépit des mesures de prévention mises en œuvre en application de la
 - Identifiant : LEGIARTI000033769504
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769504
-- Renvoie à : [art. D4152-5 du Code du travail](../../livre-ier/titre-v/chapitre-ii.md#article-d4152-5) ; [art. D4153-34 du Code du travail](../../livre-ier/titre-v/chapitre-iii.md#article-d4153-34) ; [art. R4451-12 du Code du travail](chapitre-ier.md#article-r4451-12) ; [art. R4451-13 du Code du travail](chapitre-ier.md#article-r4451-13) ; [art. R4452-15 du Code du travail](chapitre-ii.md#article-r4452-15) ; [Code du travail, Section 4 : Evaluation des risques](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018491227) ; [Code du travail, Section 5 : Mesures et moyens de prévention](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000022440431)
+- Renvoie à : [art. R*1411-7 du Code de la défense](../../../../../code-de-la-defense/partie-reglementaire/partie-1/livre-iv/titre-ier/chapitre-ier.md#article-r1411-7) ; [art. D4152-5 du Code du travail](../../livre-ier/titre-v/chapitre-ii.md#article-d4152-5) ; [art. D4153-34 du Code du travail](../../livre-ier/titre-v/chapitre-iii.md#article-d4153-34) ; [art. R4451-12 du Code du travail](chapitre-ier.md#article-r4451-12) ; [art. R4451-13 du Code du travail](chapitre-ier.md#article-r4451-13) ; [art. R4452-15 du Code du travail](chapitre-ii.md#article-r4452-15) ; [Code du travail, Section 4 : Evaluation des risques](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018491227) ; [Code du travail, Section 5 : Mesures et moyens de prévention](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000022440431)
 
 Les mesures de formation portent notamment sur :
 
@@ -298,7 +298,7 @@ Lorsqu'il est fait usage de lasers des classes mentionnées au 9° de l'article 
 - Identifiant : LEGIARTI000022442759
 - État : en vigueur depuis le 05/07/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022442759
-- Renvoie à : [art. R4452-5 du Code du travail](chapitre-ii.md#article-r4452-5) ; [art. R4452-6 du Code du travail](chapitre-ii.md#article-r4452-6)
+- Renvoie à : [art. L1333-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-l1333-4) ; [art. R4452-5 du Code du travail](chapitre-ii.md#article-r4452-5) ; [art. R4452-6 du Code du travail](chapitre-ii.md#article-r4452-6)
 
 L'employeur tient une liste actualisée des travailleurs susceptibles d'être exposés à des rayonnements optiques artificiels dépassant les valeurs limites d'exposition définies aux articles R. 4452-5 et R. 4452-6.  
 

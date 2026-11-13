@@ -51,7 +51,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 - Identifiant : LEGIARTI000037062324
 - État : en vigueur depuis le 14/06/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037062324
-- Renvoie à : art. L613-7 du Code de la sécurité sociale
+- Renvoie à : [art. L613-7 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-i/chapitre-3.md#article-l613-7)
 - Cité par : [LOI n°2015-990 du 6 août 2015, art. 50](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030982264)
 
 Les émoluments des greffiers des tribunaux de commerce sont fixés en application du titre IV bis du livre IV du présent code.

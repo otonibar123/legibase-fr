@@ -16,7 +16,7 @@ Indépendamment des causes de nullité ou de résolution déjà expliquées dans
 - État : en vigueur depuis le 14/05/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020616218
 - Renvoie à : [art. 1673 du Code civil](chapitre-vi.md#article-1673)
-- Cité par : [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042913) ; [Décret n°2009-1193 du 7 octobre 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929384)
+- Cité par : [art. 1961 du Code général des impôts](../../../code-general-des-impots/livre-ii/chapitre-v.md#article-1961) ; [Décret n°2009-1193 du 7 octobre 2009, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929384)
 
 La faculté de rachat est un pacte par lequel le vendeur se réserve de reprendre la chose vendue, moyennant la restitution du prix principal et le remboursement dont il est parlé à l'article 1673.
 

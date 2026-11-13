@@ -204,7 +204,7 @@ En cas de désaccord sur les modalités d'organisation de la consultation retenu
 - État : en vigueur depuis le 29/12/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036284063
 - Renvoie à : [art. L2232-21 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-iii/chapitre-ii.md#article-l2232-21)
-- Cité par : [art. R370-8 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038630760)
+- Cité par : [art. R370-8 du Code des assurances](../../../../../code-des-assurances/partie-reglementaire/livre-iii/titre-vii/section-ii.md#article-r370-8)
 
 Les conditions dans lesquelles l'employeur recueille l'approbation des salariés en application des articles L. 2232-21 à L. 2232-23 sont les suivantes :  
 

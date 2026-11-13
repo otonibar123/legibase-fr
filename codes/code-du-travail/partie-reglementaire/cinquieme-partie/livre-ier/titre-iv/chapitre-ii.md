@@ -30,8 +30,8 @@ La personne responsable de l'appui informe ces organismes des renouvellements ou
 - Identifiant : LEGIARTI000018526195
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526195
-- Renvoie à : [art. L127-3 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-vii.md#article-l127-3) ; art. L242-1 du Code de la sécurité sociale
-- Cité par : [art. R5142-5 du Code du travail](chapitre-ii.md#article-r5142-5) ; [art. R5142-6 du Code du travail](chapitre-ii.md#article-r5142-6) ; [art. R5522-84 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-84) ; [art. D751-82-1 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023562416)
+- Renvoie à : [art. L127-3 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ier/titre-ii/chapitre-vii.md#article-l127-3) ; [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1)
+- Cité par : [art. R5142-5 du Code du travail](chapitre-ii.md#article-r5142-5) ; [art. R5142-6 du Code du travail](chapitre-ii.md#article-r5142-6) ; [art. R5522-84 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-84) ; [art. D751-82-1 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-v/chapitre-ier.md#article-d751-82-1)
 
 Sont considérés comme rémunération, au sens de l'article L. 242-1 du code de la sécurité sociale, et par dérogation aux dispositions du sixième alinéa de l'article R. 242-1 de ce code, les revenus correspondant aux recettes hors taxe dégagées par l'activité du bénéficiaire du contrat d'appui et à la rémunération prévue au 7° de l'article 1er du décret n° 2005-505 du 19 mai 2005 relatif au contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique, déduction faite des frais liés à l'exercice de l'activité du bénéficiaire et des frais mentionnés au deuxième alinéa de l'article L. 127-3 du code de commerce.
 
@@ -39,7 +39,7 @@ Sont considérés comme rémunération, au sens de l'article L. 242-1 du code de
 - Identifiant : LEGIARTI000018526193
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018526193
-- Renvoie à : [art. R243-6 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006748439)
+- Renvoie à : [art. R243-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-6)
 
 Le recouvrement des cotisations et contributions de sécurité sociale s'effectue dans les conditions prévues au titre III et aux chapitres III et IV du titre IV du livre II du code de la sécurité sociale.
 

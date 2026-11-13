@@ -1,0 +1,69 @@
+# Livre des procédures fiscales
+
+Dernière modification du texte dans LEGI : 01/10/2026. 815 articles en vigueur, répartis dans 45 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **Première partie : Partie législative**
+    - **Titre II : Le contrôle de l'impôt**
+      - [Chapitre premier : Le droit de contrôle de l'administration](partie-legislative/premiere-partie/titre-ii/chapitre-premier.md) (103 articles)
+      - [Chapitre I bis : Le droit d'enquête](partie-legislative/premiere-partie/titre-ii/chapitre-i-bis.md) (3 articles)
+      - [Chapitre Ier octies : Le droit de contrôle de certaines obligations prévues au code monétaire et financier](partie-legislative/premiere-partie/titre-ii/chapitre-ier-octies.md) (1 article)
+      - [Chapitre Ier nonies : Le droit de contrôle des obligations des tiers visant à garantir la coopération administrative en matière fiscale](partie-legislative/premiere-partie/titre-ii/chapitre-ier-nonies.md) (1 article)
+      - [Chapitre II : Le droit de communication](partie-legislative/premiere-partie/titre-ii/chapitre-ii.md) (57 articles)
+      - [Chapitre II bis : Obligation et délais de conservation des documents](partie-legislative/premiere-partie/titre-ii/chapitre-ii-bis.md) (2 articles)
+      - [Chapitre III : Le secret professionnel en matière fiscale](partie-legislative/premiere-partie/titre-ii/chapitre-iii.md) (127 articles)
+      - [Chapitre IV : Les délais de prescription](partie-legislative/premiere-partie/titre-ii/chapitre-iv.md) (32 articles)
+    - **Titre III : Le contentieux de l'impôt**
+      - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office](partie-legislative/premiere-partie/titre-iii/chapitre-premier.md) (16 articles)
+      - [Chapitre II : Les procédures pénales](partie-legislative/premiere-partie/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Les remises et transactions à titre gracieux](partie-legislative/premiere-partie/titre-iii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Le règlement des différends fiscaux dans l'Union européenne](partie-legislative/premiere-partie/titre-iii/chapitre-iv.md) (33 articles)
+    - **Titre IV : Le recouvrement de l'impôt**
+      - [Chapitre premier : Les procédures de recouvrement](partie-legislative/premiere-partie/titre-iv/chapitre-premier.md) (31 articles)
+      - [Chapitre II : Le sursis de paiement](partie-legislative/premiere-partie/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Le contentieux du recouvrement](partie-legislative/premiere-partie/titre-iv/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne](partie-legislative/premiere-partie/titre-iv/chapitre-iv.md) (6 articles)
+    - **Titre V : Dispositions communes**
+      - [Chapitre premier : Dispositions générales](partie-legislative/premiere-partie/titre-v/chapitre-premier.md) (6 articles)
+      - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques](partie-legislative/premiere-partie/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions communautaires](partie-legislative/premiere-partie/titre-v/chapitre-iii.md) (1 article)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Deuxième partie : Partie réglementaire, décrets**
+    - **Titre premier :**
+      - [Chapitre premier :](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-premier/chapitre-premier.md) (5 articles)
+    - **Titre II : Le contrôle de l'impôt**
+      - [Chapitre premier : Le droit de contrôle de l'administration](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-premier.md) (73 articles)
+      - [Chapitre I bis : Le droit d'enquête](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-i-bis.md) (3 articles)
+      - [Chapitre I ter : Le droit de contrôle des entrepôts](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-i-ter.md) (1 article)
+      - [Chapitre I septies : Injonction de mise en conformité fiscale](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-i-septies.md) (1 article)
+      - [Chapitre II : Le droit de communication](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-ii.md) (34 articles)
+      - [Chapitre II bis : Obligation et délais de conservation des documents](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-ii-bis.md) (1 article)
+      - [Chapitre III : Le secret professionnel en matière fiscale](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-iii.md) (59 articles)
+    - **Titre III : Le contentieux de l'impôt**
+      - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-premier.md) (58 articles)
+      - [Chapitre II : Les procédures pénales](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Les remises et transactions à titre gracieux](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-iii.md) (17 articles)
+      - [Chapitre IV : Le règlement des différends fiscaux dans l'Union Européenne](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iii/chapitre-iv.md) (18 articles)
+    - **Titre IV : Le recouvrement de l'impôt**
+      - [Chapitre premier : Les procédures de recouvrement](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iv/chapitre-premier.md) (20 articles)
+      - [Chapitre II : Le sursis de paiement](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iv/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Le contentieux du recouvrement](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iv/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Assistance au recouvrement au sein de l'Union européenne](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-iv/chapitre-iv.md) (13 articles)
+    - **Titre V : Dispositions communes**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-v/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Numéro d'inscription au répertoire national d'identification des personnes physiques](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-v/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Dispositions communautaires](partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-v/chapitre-iii.md) (2 articles)
+- **Partie réglementaire - Arrêtés**
+  - **Troisième partie : Partie réglementaire, arrêtés**
+    - **Titre II : Le contrôle de l'impôt**
+      - [Chapitre premier : Le droit de contrôle de l'administration](partie-reglementaire-arretes/troisieme-partie/titre-ii/chapitre-premier.md) (20 articles)
+      - [Chapitre II : Le droit de communication](partie-reglementaire-arretes/troisieme-partie/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre II bis : Obligation et délais de conservation des documents](partie-reglementaire-arretes/troisieme-partie/titre-ii/chapitre-ii-bis.md) (2 articles)
+      - [Chapitre III : Le secret professionnel en matière fiscale](partie-reglementaire-arretes/troisieme-partie/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : Le contentieux de l'impôt**
+      - [Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office](partie-reglementaire-arretes/troisieme-partie/titre-iii/chapitre-premier.md) (1 article)
+      - [Chapitre II : Les procédures pénales](partie-reglementaire-arretes/troisieme-partie/titre-iii/chapitre-ii.md) (2 articles)
+    - **Titre IV : Le recouvrement de l'impôt**
+      - [Chapitre II : Le sursis de paiement](partie-reglementaire-arretes/troisieme-partie/titre-iv/chapitre-ii.md) (10 articles)

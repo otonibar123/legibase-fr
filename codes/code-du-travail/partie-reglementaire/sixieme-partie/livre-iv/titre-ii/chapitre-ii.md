@@ -60,6 +60,7 @@ Au terme d'un congé de validation des acquis de l'expérience, le bénéficiair
 - Identifiant : LEGIARTI000048721667
 - État : en vigueur depuis le 29/12/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048721667
+- Renvoie à : [art. L335-5 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/deuxieme-partie/livre-iii/titre-iii/chapitre-v.md#article-l335-5)
 
 Le salarié ayant bénéficié d'une autorisation d'absence pour accomplir des actions de validation des acquis de l'expérience ne peut prétendre, dans la même entreprise, au bénéfice d'une nouvelle autorisation dans le même but avant un an, à l'exception des candidats ayant obtenu une ou plusieurs parties de certification pour le passage de l'évaluation complémentaire prévue à l'article R. 6412-6.
 

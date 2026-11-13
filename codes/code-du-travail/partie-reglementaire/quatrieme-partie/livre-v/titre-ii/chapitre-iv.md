@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018529642
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018529642
-- Renvoie à : [art. L515-8 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006834304) ; [art. L515-15 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006834316) ; [art. 3-1 du Code minier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006627113) ; [art. 104 du Code minier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006627317)
+- Renvoie à : [art. L515-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-8) ; [art. L515-15 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-15) ; [art. 3-1 du Code minier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006627113) ; [art. 104 du Code minier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006627317)
 
 Lorsqu'un plan de prévention des risques technologiques a été prescrit en application de l'article L. 515-15 du code de l'environnement, le préfet met en place un comité interentreprises de santé et de sécurité au travail.
 

@@ -32,7 +32,7 @@ Les lieux de travail intérieurs et extérieurs sont aménagés de telle façon 
 - Identifiant : LEGIARTI000018532229
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532229
-- Cité par : [art. R717-85-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602547) ; [Décret n°2021-1838 du 24 décembre 2021, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044810699)
+- Cité par : [art. R717-85-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-2) ; [Décret n°2021-1838 du 24 décembre 2021, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044810699)
 
 L'employeur prend toutes dispositions pour que seuls les travailleurs autorisés à cet effet puissent accéder aux zones de danger. Les mesures appropriées sont prises pour protéger ces travailleurs.
 

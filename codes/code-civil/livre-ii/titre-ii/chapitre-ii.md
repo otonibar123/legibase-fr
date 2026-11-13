@@ -15,7 +15,7 @@ Tout ce qui s'unit et s'incorpore à la chose appartient au propriétaire, suiva
 - Identifiant : LEGIARTI000006428953
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428953
-- Cité par : [art. L541-1 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032860209) ; [art. L541-4 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032857657) ; [art. L5121-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361499) ; [art. L5261-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033169744) ; [art. L5361-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033165156) ; [art. L5461-1 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033164452)
+- Cité par : [art. L541-1 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-v/titre-iv/chapitre-1er.md#article-l541-1) ; [art. L541-4 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-v/titre-iv/chapitre-1er.md#article-l541-4) ; [art. L5121-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/cinquieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l5121-1) ; [art. L5122-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/cinquieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-l5122-1) ; [art. L5261-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/cinquieme-partie/livre-ii/titre-vi/chapitre-unique.md#article-l5261-1) ; [art. L5361-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/cinquieme-partie/livre-iii/titre-vi/chapitre-unique.md#article-l5361-1) ; [art. L5461-1 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/cinquieme-partie/livre-iv/titre-vi/chapitre-unique.md#article-l5461-1)
 
 La propriété du sol emporte la propriété du dessus et du dessous.
 
@@ -55,7 +55,7 @@ Si les plantations, constructions et ouvrages ont été faits par un tiers évin
 - Identifiant : LEGIARTI000006428988
 - État : en vigueur depuis le 01/07/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428988
-- Cité par : [art. L215-6 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833161) ; [art. L215-14 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833171) ; [art. L2111-13 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361192) ; [art. L3211-15 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361435)
+- Cité par : [art. L215-6 du Code de l'environnement](../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ier/chapitre-v.md#article-l215-6) ; [art. L215-14 du Code de l'environnement](../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ier/chapitre-v.md#article-l215-14) ; [art. L2111-13 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l2111-13) ; [art. L3211-15 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l3211-15)
 
 Les atterrissements et accroissements qui se forment successivement et imperceptiblement aux fonds riverains d'un cours d'eau s'appellent " alluvion ".
 
@@ -65,7 +65,7 @@ L'alluvion profite au propriétaire riverain, qu'il s'agisse d'un cours d'eau do
 - Identifiant : LEGIARTI000006428998
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428998
-- Cité par : [art. L2111-13 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361192)
+- Cité par : [art. L2111-13 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l2111-13)
 
 Il en est de même des relais que forme l'eau courante qui se retire insensiblement de l'une de ses rives en se portant sur l'autre : le propriétaire de la rive découverte profite de l'alluvion, sans que le riverain du côté opposé y puisse venir réclamer le terrain qu'il a perdu.  
 
@@ -75,7 +75,7 @@ Ce droit n'a pas lieu à l'égard des relais de la mer.
 - Identifiant : LEGIARTI000006429008
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429008
-- Cité par : [art. L2111-13 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361192)
+- Cité par : [art. L2111-13 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l2111-13)
 
 L'alluvion n'a pas lieu à l'égard des lacs et étangs, dont le propriétaire conserve toujours le terrain que l'eau couvre quand elle est à la hauteur de la décharge de l'étang, encore que le volume de l'eau vienne à diminuer.  
 
@@ -85,7 +85,7 @@ Réciproquement, le propriétaire de l'étang n'acquiert aucun droit sur les ter
 - Identifiant : LEGIARTI000006429019
 - État : en vigueur depuis le 01/07/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429019
-- Cité par : [art. L215-6 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833161) ; [art. L2124-15 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361250)
+- Cité par : [art. L215-6 du Code de l'environnement](../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ier/chapitre-v.md#article-l215-6) ; [art. L2124-15 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ii/chapitre-iv.md#article-l2124-15)
 
 Si un cours d'eau, domanial ou non, enlève par une force subite une partie considérable et reconnaissable d'un champ riverain, et la porte vers un champ inférieur ou sur la rive opposée, le propriétaire de la partie enlevée peut réclamer sa propriété ; mais il est tenu de former sa demande dans l'année : après ce délai, il n'y sera plus recevable, à moins que le propriétaire du champ auquel la partie enlevée a été unie, n'eût pas encore pris possession de celle-ci.
 
@@ -93,7 +93,7 @@ Si un cours d'eau, domanial ou non, enlève par une force subite une partie cons
 - Identifiant : LEGIARTI000006429030
 - État : en vigueur depuis le 01/07/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429030
-- Cité par : [art. L2111-13 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361192)
+- Cité par : [art. L2111-13 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l2111-13)
 
 Les îles, îlots, atterrissements, qui se forment dans le lit des cours d'eau domaniaux, appartiennent à la personne publique propriétaire du domaine concerné, en l'absence de titre ou de prescription contraire.
 
@@ -101,7 +101,7 @@ Les îles, îlots, atterrissements, qui se forment dans le lit des cours d'eau d
 - Identifiant : LEGIARTI000006429040
 - État : en vigueur depuis le 01/07/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429040
-- Cité par : [art. L215-6 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006833161)
+- Cité par : [art. L215-6 du Code de l'environnement](../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ier/chapitre-v.md#article-l215-6)
 
 Les îles et atterrissements qui se forment dans les cours d'eau non domaniaux, appartiennent aux propriétaires riverains du côté où l'île s'est formée : si l'île n'est pas formée d'un seul côté, elle appartient aux propriétaires riverains des deux côtés, à partir de la ligne qu'on suppose tracée au milieu du cours d'eau.
 
@@ -109,7 +109,7 @@ Les îles et atterrissements qui se forment dans les cours d'eau non domaniaux, 
 - Identifiant : LEGIARTI000006429049
 - État : en vigueur depuis le 01/07/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429049
-- Cité par : [art. L2111-13 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361192)
+- Cité par : [art. L2111-13 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/deuxieme-partie/livre-ier/titre-ier/chapitre-ier.md#article-l2111-13)
 
 Si un cours d'eau, en se formant un bras nouveau, coupe et embrasse le champ d'un propriétaire riverain, et en fait une île, ce propriétaire conserve la propriété de son champ, encore que l'île se soit formée dans un cours d'eau domanial.
 
@@ -117,7 +117,7 @@ Si un cours d'eau, en se formant un bras nouveau, coupe et embrasse le champ d'u
 - Identifiant : LEGIARTI000006429064
 - État : en vigueur depuis le 01/07/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429064
-- Cité par : [art. L3211-16 du Code général de la propriété des personnes publ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006361436)
+- Cité par : [art. L3211-16 du Code général de la propriété des personnes publiques](../../../code-general-de-la-propriete-des-personnes-publiques/partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l3211-16)
 
 Si un cours d'eau domanial forme un nouveau cours en abandonnant son ancien lit, les propriétaires riverains peuvent acquérir la propriété de cet ancien lit, chacun en droit soi, jusqu'à une ligne qu'on suppose tracée au milieu du cours d'eau. Le prix de l'ancien lit est fixé par des experts nommés par le président du tribunal de la situation des lieux, à la requête de l'autorité compétente.  
 
@@ -129,7 +129,8 @@ Le prix provenant de la vente est distribué aux propriétaires des fonds occup�
 - Identifiant : LEGIARTI000030253990
 - État : en vigueur depuis le 18/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030253990
-- Cité par : [art. 2502 du Code civil](../../livre-v/titre-ii.md#article-2502)
+- Renvoie à : [art. L431-6 du Code de l'environnement](../../../code-de-l-environnement/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-6) ; [art. L431-7 du Code de l'environnement](../../../code-de-l-environnement/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-7)
+- Cité par : [art. 2502 du Code civil](../../livre-v/titre-ii.md#article-2502) ; [art. L211-4 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-4)
 
 Les pigeons, lapins, poissons, qui passent dans un autre colombier, garenne ou plan d'eau visé aux articles L. 431-6 et L. 431-7 du code de l'environnement appartiennent au propriétaire de ces derniers, pourvu qu'ils n'y aient point été attirés par fraude et artifice.
 

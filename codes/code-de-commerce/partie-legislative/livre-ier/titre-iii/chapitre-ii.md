@@ -29,7 +29,7 @@ Dans la créance privilégiée du commissionnaire sont compris, avec le principa
 - Identifiant : LEGIARTI000006220213
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006220213
-- Cité par : [art. L1432-7 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023085421)
+- Cité par : [art. L1432-7 du Code des transports](../../../../code-des-transports/partie-legislative/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-l1432-7)
 
 Le commissionnaire qui se charge d'un transport par terre ou par eau est tenu d'inscrire sur son livre-journal la déclaration de la nature et de la quantité des marchandises, et, s'il en est requis, de leur valeur.
 
@@ -65,7 +65,7 @@ La marchandise sortie du magasin du vendeur ou de l'expéditeur voyage, s'il n'y
 - Identifiant : LEGIARTI000006220236
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006220236
-- Cité par : [art. L224-64 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-64) ; [art. Annexe IX du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033452915) ; [art. L3441-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023083595) ; [art. R1331-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046477168)
+- Cité par : [art. L224-64 du Code de la consommation](../../../../code-de-la-consommation/partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-iv.md#article-l224-64) ; [art. Annexe IX du Code des transports](../../../../code-des-transports/partie-reglementaire/troisieme-partie/annexes.md#article-annexe-ix) ; [art. L3441-5 du Code des transports](../../../../code-des-transports/partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-unique.md#article-l3441-5) ; [art. R1331-6 du Code des transports](../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-i.md#article-r1331-6)
 
 La lettre de voiture forme un contrat entre l'expéditeur, le voiturier et le destinataire ou entre l'expéditeur, le destinataire, le commissionnaire et le voiturier. Le voiturier a ainsi une action directe en paiement de ses prestations à l'encontre de l'expéditeur et du destinataire, lesquels sont garants du paiement du prix du transport. Toute clause contraire est réputée non écrite.
 
@@ -73,7 +73,7 @@ La lettre de voiture forme un contrat entre l'expéditeur, le voiturier et le de
 - Identifiant : LEGIARTI000006220249
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006220249
-- Cité par : [art. L3441-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023083595) ; [art. L6422-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023077791)
+- Cité par : [art. L3441-5 du Code des transports](../../../../code-des-transports/partie-legislative/troisieme-partie/livre-iv/titre-iv/chapitre-unique.md#article-l3441-5) ; [art. L6422-1 du Code des transports](../../../../code-des-transports/partie-legislative/sixieme-partie/livre-iv/titre-ii/chapitre-ii.md#article-l6422-1)
 
 I. - La lettre de voiture doit être datée.  
 

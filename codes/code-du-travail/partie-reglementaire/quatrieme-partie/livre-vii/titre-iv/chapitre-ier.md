@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018527390
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018527390
-- Renvoie à : [art. R4121-1 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-r4121-1) ; [art. R4121-2 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-r4121-2) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R4121-1 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-r4121-1) ; [art. R4121-2 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-r4121-2) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de ne pas transcrire ou de ne pas mettre à jour les résultats de l'évaluation des risques, dans les conditions prévues aux articles R. 4121-1 et R. 4121-2, est puni de l'amende prévue pour les contraventions de cinquième classe.
 
@@ -18,7 +18,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000031818112
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031818112
-- Renvoie à : [art. L4121-3-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-3-1) ; [art. L4161-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ier.md#article-l4161-1)
+- Renvoie à : [art. L4121-3-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-3-1) ; [art. L4161-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ier.md#article-l4161-1) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de ne pas remplir ou actualiser la fiche de suivi des expositions d'un travailleur mentionné au 2° du V de l'article L. 4161-1, dans les conditions prévues par l'article D. 4161-1-1, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
@@ -30,7 +30,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000047666454
 - État : en vigueur depuis le 12/06/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047666454
-- Renvoie à : [art. R4121-5 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-r4121-5) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R4121-5 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-r4121-5) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait pour l'employeur ayant connaissance d'un accident du travail ayant entraîné le décès d'un travailleur de ne pas en informer l'inspection du travail, selon les modalités prévues par l'article R. 4121-5, est puni de l'amende prévue pour les contraventions de la cinquième classe.  
 
@@ -50,6 +50,7 @@ L'amende est appliquée autant de fois qu'il y a de personnes employées dans de
 - Identifiant : LEGIARTI000021846278
 - État : en vigueur depuis le 20/02/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021846278
+- Renvoie à : [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de ne pas donner aux travailleurs et à leurs représentants l'accès aux informations prévues à l'article 35 du règlement (CE) n° 1907 / 2006 est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
@@ -63,7 +64,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000036483813
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483813
-- Renvoie à : [art. L4532-12 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ii.md#article-l4532-12) ; [art. R4532-77 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-77) ; [art. R4532-91 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-91) ; [art. R4532-94 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-94) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. L4532-12 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ii.md#article-l4532-12) ; [art. R4532-77 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-77) ; [art. R4532-91 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-91) ; [art. R4532-94 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-94) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait, pour un maître d'ouvrage :
 
@@ -81,7 +82,7 @@ La récidive est réprimée conformément aux articles 132-11 et 132-15 du code 
 - Identifiant : LEGIARTI000018527380
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018527380
-- Renvoie à : [art. R4532-11 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-11) ; [art. R4532-12 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-12) ; [art. R4532-15 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-15) ; [art. R4532-80 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-80) ; [art. R4532-85 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-85) ; [art. R4532-86 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-86) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368) ; [art. 132-15 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417377)
+- Renvoie à : [art. R4532-11 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-11) ; [art. R4532-12 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-12) ; [art. R4532-15 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-15) ; [art. R4532-80 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-80) ; [art. R4532-85 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-85) ; [art. R4532-86 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-86) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait, pour l'entrepreneur ou le sous-traitant :
 

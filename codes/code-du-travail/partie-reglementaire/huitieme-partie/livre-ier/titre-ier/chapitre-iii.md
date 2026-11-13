@@ -37,6 +37,7 @@ En cas de traitement automatisé de données nominatives pour la tenue d'un regi
 - Identifiant : LEGIARTI000031392050
 - État : en vigueur depuis le 29/10/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031392050
+- Renvoie à : [art. L124-8 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-8) ; [art. L124-9 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-9) ; [art. L124-10 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-10) ; [art. L124-13 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-13) ; [art. L124-14 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iv.md#article-l124-14)
 
 Pour l'application des dispositions des articles L. 124-8, L. 124-10, L. 124-13, L. 124-14 et du premier alinéa de l'article L. 124-9 du code de l'éducation, l'organisme d'accueil ou l'établissement d'enseignement communique, à leur demande, aux agents de contrôle de l'inspection du travail une copie de la convention de stage conclue avec le stagiaire.
 

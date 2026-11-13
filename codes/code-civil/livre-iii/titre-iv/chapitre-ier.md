@@ -8,7 +8,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000032041879
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041879
-- Cité par : [art. 414-2 du Code civil](../../livre-ier/titre-xi/chapitre-ier.md#article-414-2) ; [art. 435 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-435) ; [art. 465 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-465) ; [art. 488 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-488) ; [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042913) ; [Loi n°68-5 du 3 janvier 1968, art. 21](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283901)
+- Cité par : [art. 414-2 du Code civil](../../livre-ier/titre-xi/chapitre-ier.md#article-414-2) ; [art. 435 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-435) ; [art. 465 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-465) ; [art. 488 du Code civil](../../livre-ier/titre-xi/chapitre-ii.md#article-488) ; [art. 1961 du Code général des impôts](../../../code-general-des-impots/livre-ii/chapitre-v.md#article-1961) ; [Loi n°68-5 du 3 janvier 1968, art. 21](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283901)
 
 L'obligation est conditionnelle lorsqu'elle dépend d'un événement futur et incertain.
 
@@ -72,7 +72,7 @@ En cas de défaillance de la condition suspensive, l'obligation est réputée n'
 - Identifiant : LEGIARTI000032029506
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032029506
-- Cité par : [art. 1961 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042913)
+- Cité par : [art. 1961 du Code général des impôts](../../../code-general-des-impots/livre-ii/chapitre-v.md#article-1961)
 
 L'accomplissement de la condition résolutoire éteint rétroactivement l'obligation, sans remettre en cause, le cas échéant, les actes conservatoires et d'administration.
 
@@ -243,7 +243,7 @@ Tout acte qui interrompt ou suspend la prescription à l'égard de l'un des cré
 - Identifiant : LEGIARTI000032041971
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041971
-- Cité par : [art. R343-26 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036459896)
+- Cité par : [art. R343-26 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md#article-r343-26)
 
 La solidarité entre les débiteurs oblige chacun d'eux à toute la dette. Le paiement fait par l'un d'eux les libère tous envers le créancier. Le créancier peut demander le paiement au débiteur solidaire de son choix. Les poursuites exercées contre l'un des débiteurs solidaires n'empêchent pas le créancier d'en exercer de pareilles contre les autres.
 
@@ -284,7 +284,7 @@ Si l'un d'eux est insolvable, sa part se répartit, par contribution, entre les 
 - Identifiant : LEGIARTI000032041945
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041945
-- Cité par : [art. R343-26 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036459896)
+- Cité par : [art. R343-26 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md#article-r343-26)
 
 Si la dette procède d'une affaire qui ne concerne que l'un des codébiteurs solidaires, celui-ci est seul tenu de la dette à l'égard des autres. S'il l'a payée, il ne dispose d'aucun recours contre ses codébiteurs. Si ceux-ci l'ont payée, ils disposent d'un recours contre lui.
 

@@ -7,7 +7,7 @@ Code de commerce › Partie réglementaire › LIVRE Ier : Du commerce en géné
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624496
 - Renvoie à : [art. 514-5 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ier/titre-xv/chapitre-iv.md#article-514-5) ; [art. 517 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ier/titre-xv/chapitre-iv.md#article-517)
-- Cité par : [art. R557-3 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039805820)
+- Cité par : [art. R557-3 du Code de justice administrative](../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-v/chapitre-viii.md#article-r557-3)
 
 I.-Lorsqu'elle est saisie aux fins de prévenir une atteinte imminente ou faire cesser une atteinte illicite à un secret des affaires, la juridiction peut prescrire, sur requête ou en référé, toute mesure provisoire et conservatoire proportionnée, y compris sous astreinte. Elle peut notamment :  
 

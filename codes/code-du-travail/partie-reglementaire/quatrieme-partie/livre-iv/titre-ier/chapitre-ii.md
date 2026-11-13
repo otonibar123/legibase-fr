@@ -11,7 +11,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530954
 - Renvoie à : [Code du travail, Section 1 : Dispositions applicables aux agent](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490323)
-- Cité par : [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [Arrêté du 17 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000030705894) ; [Arrêté du 18 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000030706100) ; [Arrêté du 21 avril 2016, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032497068) ; [Arrêté du 21 octobre 2011, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024929209) ; [art. R717-85-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602520)
+- Cité par : [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [art. R717-85-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-5) ; [Arrêté du 17 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000030705894) ; [Arrêté du 18 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000030706100) ; [Arrêté du 21 avril 2016, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032497068) ; [Arrêté du 21 octobre 2011, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024929209)
 
 Les dispositions de la présente section sont applicables aux activités dans lesquelles les travailleurs sont exposés ou susceptibles d'être exposés au cours de leur travail à des agents chimiques dangereux.
 
@@ -57,7 +57,7 @@ Pour l'application du présent chapitre, on entend par :
 - Identifiant : LEGIARTI000018530944
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530944
-- Cité par : [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R717-85-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602520)
+- Cité par : [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R717-85-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-5)
 
 L'employeur évalue les risques encourus pour la santé et la sécurité des travailleurs pour toute activité susceptible de présenter un risque d'exposition à des agents chimiques dangereux.  
 Cette évaluation est renouvelée périodiquement, notamment à l'occasion de toute modification importante des conditions pouvant affecter la santé ou la sécurité des travailleurs.
@@ -122,7 +122,7 @@ Cette communication intervient, en particulier, à la suite de la mise à jour d
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530933
 - Renvoie à : [art. R4121-1 du Code du travail](../../livre-ier/titre-ii/chapitre-ier.md#article-r4121-1)
-- Cité par : [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R717-85-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602520)
+- Cité par : [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R717-85-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-5)
 
 Les résultats de l'évaluation des risques sont consignés dans le document unique d'évaluation des risques prévu à l'article R. 4121-1.
 
@@ -132,7 +132,7 @@ Les résultats de l'évaluation des risques sont consignés dans le document uni
 - Identifiant : LEGIARTI000018530929
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530929
-- Cité par : [art. R4412-13 du Code du travail](chapitre-ii.md#article-r4412-13) ; [art. R4412-32 du Code du travail](chapitre-ii.md#article-r4412-32) ; [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R717-85-5 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602520)
+- Cité par : [art. R4412-13 du Code du travail](chapitre-ii.md#article-r4412-13) ; [art. R4412-32 du Code du travail](chapitre-ii.md#article-r4412-32) ; [art. R4535-8 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-8) ; [art. R717-85-5 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-5)
 
 L'employeur définit et applique les mesures de prévention visant à supprimer ou à réduire au minimum le risque d'exposition à des agents chimiques dangereux :  
 1° En concevant et en organisant des méthodes de travail adaptées ;  
@@ -459,7 +459,7 @@ En fonction de l'évaluation des risques, un travailleur affecté à des travaux
 - Identifiant : LEGIARTI000033769375
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769375
-- Renvoie à : [art. R4624-36 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-36) ; art. R717-20 du Code rural et de la pêche maritime
+- Renvoie à : [art. R4624-36 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-36) ; [art. R717-20 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-20)
 
 L'examen médical pratiqué comprend un examen clinique général et, selon la nature de l'exposition, un ou plusieurs examens spécialisés complémentaires auxquels le médecin du travail procède ou fait procéder. Ces examens sont pris en charge dans les conditions prévues à l'article R. 4624-36 ou, s'il s'agit d'un salarié agricole, à l'article R. 717-20 du code rural et de la pêche maritime.
 
@@ -482,7 +482,7 @@ Les instructions techniques, précisant les modalités des examens médicaux que
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769370
 - Renvoie à : [art. R4412-44 du Code du travail](chapitre-ii.md#article-r4412-44)
-- Cité par : [art. R253-46-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035416741)
+- Cité par : [art. R253-46-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-ii/titre-v/chapitre-iii.md#article-r253-46-9)
 
 En dehors des visites d'information et de prévention et des examens complémentaires dont le travailleur bénéficie, l'employeur fait examiner par le médecin du travail tout travailleur exposé à des agents chimiques mentionnés à l'article R. 4412-44 qui se déclare incommodé par des travaux qu'il exécute.
 
@@ -558,8 +558,8 @@ Le médecin du travail constitue et tient, pour chaque travailleur exposé aux a
 - Identifiant : LEGIARTI000033769361
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769361
-- Renvoie à : [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; art. R717-27 du Code rural et de la pêche maritime
-- Cité par : [art. R4624-45-9 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-45-9) ; [art. R717-27 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053979657) ; [DÉCRET n°2015-1438 du 5 novembre 2015, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031445477) ; [DÉCRET n°2015-1438 du 5 novembre 2015, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031445483) ; [DÉCRET n°2015-567 du 20 mai 2015, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042560183) ; [Décret n°2013-1151 du 12 décembre 2013, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032772800) ; [Décret n°2013-1151 du 12 décembre 2013, art. 8-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032772809)
+- Renvoie à : [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; [art. R717-27 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-27)
+- Cité par : [art. R4624-45-9 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-45-9) ; [art. R717-27 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-27) ; [DÉCRET n°2015-1438 du 5 novembre 2015, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031445477) ; [DÉCRET n°2015-1438 du 5 novembre 2015, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031445483) ; [DÉCRET n°2015-567 du 20 mai 2015, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042560183) ; [Décret n°2013-1151 du 12 décembre 2013, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032772800) ; [Décret n°2013-1151 du 12 décembre 2013, art. 8-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032772809)
 
 Le dossier médical est conservé pendant au moins cinquante ans après la fin de la période d'exposition, dans les conditions prévues à l'article L. 4624-8 du présent code ou à l'article R. 717-27 du code rural et de la pêche maritime.
 
@@ -586,7 +586,7 @@ Si l'établissement ou le service de santé au travail auquel il est rattaché v
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769354
 - Renvoie à : [art. R4412-17 du Code du travail](chapitre-ii.md#article-r4412-17) ; [art. R4412-18 du Code du travail](chapitre-ii.md#article-r4412-18) ; [art. R4412-22 du Code du travail](chapitre-ii.md#article-r4412-22) ; [art. R4412-39 du Code du travail](chapitre-ii.md#article-r4412-39) ; [Code du travail, Section 1 : Dispositions applicables aux agent](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490323) ; [art. Sous-section 1 : Champ d'application et défini du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490479) ; [art. Sous-section 4 : Contrôle de l'exposition du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490520) ; [art. Sous-section 6 : Information et formation des  du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490549) ; [art. Sous-section 8 : Suivi de l'état de santé des t du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018490427)
-- Cité par : [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [art. R717-85-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917545) ; [Décret n°2009-1546 du 11 décembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021480078)
+- Cité par : [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [art. R717-85-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-6) ; [Décret n°2009-1546 du 11 décembre 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021480078)
 
 Les dispositions de la présente section sont applicables aux activités dans lesquelles les travailleurs sont exposés ou susceptibles d'être exposés au cours de leur travail à des agents chimiques cancérogènes mutagènes ou toxiques pour la reproduction. Elles ne font pas obstacle aux mesures particulières prises par décret pour certains agents ou procédés cancérogènes, mutagènes ou toxiques pour la reproduction.
 
@@ -610,7 +610,7 @@ Les activités mentionnées au premier alinéa ne sont pas soumises aux disposit
 - Identifiant : LEGIARTI000030680423
 - État : en vigueur depuis le 06/06/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030680423
-- Cité par : [art. D4153-17 du Code du travail](../../livre-ier/titre-v/chapitre-iii.md#article-d4153-17) ; [art. D4161-1 du Code du travail](../../livre-ier/titre-vi/chapitre-ier.md#article-d4161-1) ; [art. R4412-44 du Code du travail](chapitre-ii.md#article-r4412-44) ; [art. R4412-52 du Code du travail](chapitre-ii.md#article-r4412-52) ; [art. R4624-23 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-23) ; [Arrêté du 26 octobre 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043483855) ; [art. D461-23 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045680765) ; [art. R4412-40 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530855) ; [art. R717-16 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053786060) ; [art. R717-85-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917545) ; [DÉCRET n°2015-1438 du 5 novembre 2015, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031445471) ; [DÉCRET n°2015-567 du 20 mai 2015, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030625577) ; [Décret n°2013-1151 du 12 décembre 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028324605) ; [Décret n°2013-513 du 18 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027582472) ; [Décret n°2017-1473 du 13 octobre 2017, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043796486)
+- Cité par : [art. D461-23 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-vi.md#article-d461-23) ; [art. D4153-17 du Code du travail](../../livre-ier/titre-v/chapitre-iii.md#article-d4153-17) ; [art. D4161-1 du Code du travail](../../livre-ier/titre-vi/chapitre-ier.md#article-d4161-1) ; [art. R4412-44 du Code du travail](chapitre-ii.md#article-r4412-44) ; [art. R4412-52 du Code du travail](chapitre-ii.md#article-r4412-52) ; [art. R4624-23 du Code du travail](../../livre-vi/titre-ii/chapitre-iv.md#article-r4624-23) ; [art. R717-16 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-16) ; [art. R717-85-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-6) ; [Arrêté du 26 octobre 2020, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043483855) ; [art. R4412-40 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530855) ; [DÉCRET n°2015-1438 du 5 novembre 2015, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031445471) ; [DÉCRET n°2015-567 du 20 mai 2015, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030625577) ; [Décret n°2013-1151 du 12 décembre 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028324605) ; [Décret n°2013-513 du 18 juin 2013, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027582472) ; [Décret n°2017-1473 du 13 octobre 2017, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043796486)
 
 On entend par agent cancérogène, mutagène ou toxique pour la reproduction les substances ou mélanges suivants :
 
@@ -624,7 +624,7 @@ On entend par agent cancérogène, mutagène ou toxique pour la reproduction les
 - Identifiant : LEGIARTI000018530799
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530799
-- Cité par : [art. R4412-138 du Code du travail](chapitre-ii.md#article-r4412-138) ; [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [art. R717-85-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917545)
+- Cité par : [art. R4412-138 du Code du travail](chapitre-ii.md#article-r4412-138) ; [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [art. R717-85-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-6)
 
 Pour toute activité susceptible de présenter un risque d'exposition à des agents cancérogènes, mutagènes ou toxiques pour la reproduction, l'employeur évalue la nature, le degré et la durée de l'exposition des travailleurs afin de pouvoir apprécier les risques pour leur santé ou leur sécurité et de définir les mesures de prévention à prendre.  
 Un arrêté conjoint des ministres chargés du travail et de l'agriculture peut préciser les conditions de cette évaluation.
@@ -665,7 +665,7 @@ Pour l'évaluation du risque, toutes les expositions susceptibles de mettre en d
 - Identifiant : LEGIARTI000018530787
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530787
-- Cité par : [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [art. R4721-6 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-6) ; [art. R717-85-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917545)
+- Cité par : [art. R4535-9 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-9) ; [art. R4721-6 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-6) ; [art. R717-85-6 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-6)
 
 Lorsque l'utilisation d'un agent cancérogène, mutagène ou toxique pour la reproduction est susceptible de conduire à une exposition, l'employeur réduit l'utilisation de cet agent sur le lieu de travail, notamment en le remplaçant, dans la mesure où cela est techniquement possible, par une substance, une préparation ou un procédé qui, dans ses conditions d'emploi, n'est pas ou est moins dangereux pour la santé ou la sécurité des travailleurs.  
 L'employeur consigne le résultat de ses investigations dans le document unique d'évaluation des risques.
@@ -926,7 +926,7 @@ Les travailleurs et les membres du comité social et économique doivent pouvoir
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483723
 - Renvoie à : [art. R4412-75 du Code du travail](chapitre-ii.md#article-r4412-75)
-- Cité par : [art. R253-46-9 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035416741)
+- Cité par : [art. R253-46-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-ii/titre-v/chapitre-iii.md#article-r253-46-9)
 
 Les travailleurs et les membres du comité social et économique, ainsi que le médecin du travail, sont informés le plus rapidement possible des expositions anormales, y compris celles mentionnées à l'article R. 4412-75, de leurs causes et des mesures prises ou à prendre pour y remédier.
 
@@ -965,7 +965,7 @@ L'employeur tient à disposition des travailleurs les informations de la liste p
 - Identifiant : LEGIARTI000049367553
 - État : en vigueur depuis le 05/04/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049367553
-- Renvoie à : [art. L4622-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-1) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; [art. R4412-93-1 du Code du travail](chapitre-ii.md#article-r4412-93-1) ; art. L717-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L4622-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-1) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; [art. R4412-93-1 du Code du travail](chapitre-ii.md#article-r4412-93-1) ; [art. L717-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-vii.md#article-l717-2)
 
 L'employeur communique la liste mentionnée à l'article R. 4412-93-1, ainsi que ses actualisations, aux services de prévention et de santé au travail mentionnés à l'article L. 4622-1 du présent code et aux services de santé au travail en agriculture mentionnés à l'article L. 717-2 du code rural et de la pêche maritime. Les informations qu'elles contiennent sont versées dans le dossier médical en santé au travail prévu à l'article L. 4624-8. Cette liste est conservée par ces services pendant une période d'au moins quarante ans.
 
@@ -1045,7 +1045,7 @@ Pour l'application de la présente section, on entend par :
 - Identifiant : LEGIARTI000038322515
 - État : en vigueur depuis le 31/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038322515
-- Renvoie à : [art. L4121-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-2) ; [art. L4121-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-3) ; [art. L4412-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-iv/titre-ier/chapitre-ii-bis.md#article-l4412-2) ; [art. L4531-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ier.md#article-l4531-1) ; [art. R4412-39 du Code du travail](chapitre-ii.md#article-r4412-39)
+- Renvoie à : [art. L541-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-iv/chapitre-ier.md#article-l541-1) ; [art. R1334-29-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-4) ; [art. L4121-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-2) ; [art. L4121-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-3) ; [art. L4412-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-iv/titre-ier/chapitre-ii-bis.md#article-l4412-2) ; [art. L4531-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-iii/chapitre-ier.md#article-l4531-1) ; [art. R4412-39 du Code du travail](chapitre-ii.md#article-r4412-39)
 - Cité par : [art. R4412-97-1 du Code du travail](chapitre-ii.md#article-r4412-97-1) ; [art. R4412-97-2 du Code du travail](chapitre-ii.md#article-r4412-97-2) ; [art. R4412-97-3 du Code du travail](chapitre-ii.md#article-r4412-97-3) ; [art. R4412-97-4 du Code du travail](chapitre-ii.md#article-r4412-97-4) ; [art. R4412-97-5 du Code du travail](chapitre-ii.md#article-r4412-97-5) ; [art. R4412-97-6 du Code du travail](chapitre-ii.md#article-r4412-97-6) ; [art. R4412-133 du Code du travail](chapitre-ii.md#article-r4412-133) ; [art. R4412-148 du Code du travail](chapitre-ii.md#article-r4412-148) ; [art. R4511-8 du Code du travail](../../livre-v/titre-ier/chapitre-ier.md#article-r4511-8) ; [art. R4512-11 du Code du travail](../../livre-v/titre-ier/chapitre-ii.md#article-r4512-11) ; [art. R4532-7 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-7) ; [art. R4535-10 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-10) ; [Arrêté du 13 novembre 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000039404562) ; [Arrêté du 13 novembre 2019, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039404573) ; [Arrêté du 13 novembre 2019, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039404577) ; [Arrêté du 13 novembre 2019, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039404591) ; [Arrêté du 16 juillet 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038778532) ; [Arrêté du 16 juillet 2019, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038778554) ; [Arrêté du 16 juillet 2019, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038778558) ; [Arrêté du 16 juillet 2019, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038778567) ; [Arrêté du 16 juillet 2019, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038778550) ; [Arrêté du 16 juillet 2019, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038778552) ; … et 27 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
 
 I. - Le donneur d'ordre, le maître d'ouvrage ou le propriétaire d'immeubles par nature ou par destination, d'équipements, de matériels ou d'articles qui décide d'une opération comportant des risques d'exposition des travailleurs à l'amiante fait réaliser la recherche d'amiante mentionnée à l'article L. 4412-2 dans les conditions prévues par le présent paragraphe.
@@ -1122,7 +1122,7 @@ Lorsque le repérage ne peut être dissocié de l'engagement de l'opération ell
 - Identifiant : LEGIARTI000043841186
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841186
-- Renvoie à : [art. R4412-97 du Code du travail](chapitre-ii.md#article-r4412-97) ; art. R126-10 du Code de la construction et de l'habitation ; [art. R1334-29-4 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024117149)
+- Renvoie à : [art. R126-10 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md#article-r126-10) ; [art. R1334-29-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-4) ; [art. R4412-97 du Code du travail](chapitre-ii.md#article-r4412-97)
 - Cité par : [art. R4412-133 du Code du travail](chapitre-ii.md#article-r4412-133) ; [art. R4412-148 du Code du travail](chapitre-ii.md#article-r4412-148) ; [art. R4511-8 du Code du travail](../../livre-v/titre-ier/chapitre-ier.md#article-r4511-8) ; [art. R4512-11 du Code du travail](../../livre-v/titre-ier/chapitre-ii.md#article-r4512-11) ; [art. R4532-7 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-7) ; [art. R4532-95 du Code du travail](../../livre-v/titre-iii/chapitre-ii.md#article-r4532-95)
 
 Le rapport retraçant le repérage conclut soit à l'absence soit à la présence de matériaux ou de produits contenant de l'amiante et précise, dans ce second cas, leur nature, leur localisation ainsi que leur quantité estimée. Le contenu de ce rapport est défini pour chaque domaine d'activité par les arrêtés mentionnés au II de l'article R. 4412-97. Les dossiers techniques mentionnés aux articles R. 1334-29-4 à R. 1334-29-6 du code de la santé publique et à l'article R. 126-10 du code de la construction et de l'habitation lui sont annexés le cas échéant.
@@ -1377,7 +1377,7 @@ Le contenu et les modalités de la formation, sa durée selon les catégories de
 - Identifiant : LEGIARTI000036483716
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483716
-- Renvoie à : [art. L3121-16 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-16) ; [art. L3121-17 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-17) ; [art. L3121-33 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-33)
+- Renvoie à : [art. R1334-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-22) ; [art. R1334-27 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-27) ; [art. R1334-28 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-28) ; [art. L3121-16 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-16) ; [art. L3121-17 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-17) ; [art. L3121-33 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-33)
 - Cité par : [art. R4412-133 du Code du travail](chapitre-ii.md#article-r4412-133) ; [art. R4412-145 du Code du travail](chapitre-ii.md#article-r4412-145) ; [art. R4535-10 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-10)
 
 L'employeur détermine en tenant compte des conditions de travail, notamment en termes de contraintes thermiques ou hygrométriques, de postures et d'efforts :
@@ -1435,7 +1435,7 @@ Les déchets de toute nature susceptibles de libérer des fibres d'amiante sont 
 - Identifiant : LEGIARTI000025818942
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025818942
-- Renvoie à : [art. R551-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006839457)
+- Renvoie à : [art. R551-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-v/chapitre-ier.md#article-r551-1)
 
 Les déchets sont :
 
@@ -1458,7 +1458,7 @@ Les déchets sont transportés et éliminés conformément à la réglementation
 - Identifiant : LEGIARTI000025818936
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025818936
-- Renvoie à : art. R1334-29-3 du Code de la santé publique
+- Renvoie à : [art. R1334-29-3 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-3)
 
 Le dépassement du seuil fixé par l'article R. 1334-29-3 du code de la santé publique dans les bâtiments, les équipements, les installations ou les structures dans lesquels ou dans l'environnement desquels l'opération est réalisée entraîne sans délai l'arrêt des opérations et la mise en place des mesures correctrices et préventives permettant le respect de ce seuil.
 
@@ -1500,7 +1500,7 @@ Si l'employeur est dans l'incapacité de valider son évaluation en raison d'un 
 - Identifiant : LEGIARTI000025818924
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025818924
-- Renvoie à : art. R1334-25 du Code de la santé publique
+- Renvoie à : [art. R1334-25 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-25)
 - Cité par : [Arrêté du 8 avril 2013, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027325373) ; [Arrêté du 9 avril 2019, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038463659)
 
 Préalablement aux travaux, l'employeur procède au contrôle de l'état initial de l'empoussièrement de l'air en fibres d'amiante conformément aux dispositions de l'article R. 1334-25 du code de la santé publique.
@@ -1509,7 +1509,7 @@ Préalablement aux travaux, l'employeur procède au contrôle de l'état initial
 - Identifiant : LEGIARTI000025818920
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025818920
-- Renvoie à : [art. R4412-111 du Code du travail](chapitre-ii.md#article-r4412-111) ; [art. R1334-29-3 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024117053)
+- Renvoie à : [art. R1334-29-3 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-3) ; [art. R4412-111 du Code du travail](chapitre-ii.md#article-r4412-111)
 - Cité par : [Arrêté du 8 avril 2013, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027325376) ; [Arrêté du 9 avril 2019, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038463659)
 
 Afin de s'assurer de l'absence de dispersion de fibres d'amiante dans l'environnement du chantier et des locaux adjacents, l'employeur vérifie le respect de la valeur fixée à l'article R. 1334-29-3 du code de la santé publique par des mesures d'empoussièrement réalisées :
@@ -1576,7 +1576,7 @@ Une entreprise d'un Etat membre de l'Union européenne non établie en France pe
 - Identifiant : LEGIARTI000046882717
 - État : en vigueur depuis le 01/02/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046882717
-- Renvoie à : [art. R4412-39 du Code du travail](chapitre-ii.md#article-r4412-39) ; [art. R4412-97 du Code du travail](chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](chapitre-ii.md#article-r4412-97-5) ; [art. R4412-111 du Code du travail](chapitre-ii.md#article-r4412-111) ; [art. R4412-118 du Code du travail](chapitre-ii.md#article-r4412-118) ; [art. R4412-126 du Code du travail](chapitre-ii.md#article-r4412-126) ; [art. R4412-135 du Code du travail](chapitre-ii.md#article-r4412-135) ; [art. R4412-138 du Code du travail](chapitre-ii.md#article-r4412-138) ; art. R111-45 du Code de la construction et de l'habitation
+- Renvoie à : [art. R1334-29-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-4) ; [art. R4412-39 du Code du travail](chapitre-ii.md#article-r4412-39) ; [art. R4412-97 du Code du travail](chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](chapitre-ii.md#article-r4412-97-5) ; [art. R4412-111 du Code du travail](chapitre-ii.md#article-r4412-111) ; [art. R4412-118 du Code du travail](chapitre-ii.md#article-r4412-118) ; [art. R4412-126 du Code du travail](chapitre-ii.md#article-r4412-126) ; [art. R4412-135 du Code du travail](chapitre-ii.md#article-r4412-135) ; [art. R4412-138 du Code du travail](chapitre-ii.md#article-r4412-138) ; art. R111-45 du Code de la construction et de l'habitation
 - Cité par : [art. R4412-133-1 du Code du travail](chapitre-ii.md#article-r4412-133-1) ; [art. R4412-137 du Code du travail](chapitre-ii.md#article-r4412-137) ; [art. R4412-138 du Code du travail](chapitre-ii.md#article-r4412-138) ; [art. R4412-138-1 du Code du travail](chapitre-ii.md#article-r4412-138-1) ; [art. R4412-138-2 du Code du travail](chapitre-ii.md#article-r4412-138-2) ; [art. R4412-138-3 du Code du travail](chapitre-ii.md#article-r4412-138-3) ; [Arrêté du 22 décembre 2022](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000046933932) ; [Arrêté du 22 décembre 2022, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046933941) ; [Arrêté du 22 décembre 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046933943) ; [Arrêté du 6 juillet 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043769137) ; [Arrêté du 9 avril 2019, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038463652)
 
 En fonction de l'évaluation des risques, l'employeur établit un plan de démolition, de retrait ou d'encapsulage au moyen d'un téléservice, accessible sur internet par un compte utilisateur et mis en œuvre par le ministre chargé du travail, intitulé : "plateforme DEMAT @ MIANTE".
@@ -1667,6 +1667,7 @@ Le plan de démolition, de retrait ou d'encapsulage est tenu à disposition sur 
 - Identifiant : LEGIARTI000025818895
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025818895
+- Renvoie à : [art. R1334-21 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-21)
 - Cité par : [art. R4412-133 du Code du travail](chapitre-ii.md#article-r4412-133)
 
 Dans le cas d'une démolition, le plan de démolition prévoit le retrait préalable de l'amiante et des articles en contenant sauf lorsque celui-ci causerait un plus grand risque pour les travailleurs que si l'amiante ou les matériaux en contenant étaient laissés sur place.
@@ -1778,7 +1779,7 @@ Le rapport de fin de travaux est remis au donneur d'ordre qui l'intègre, le cas
 - Identifiant : LEGIARTI000027677724
 - État : en vigueur depuis le 08/07/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027677724
-- Renvoie à : [art. R4412-139 du Code du travail](chapitre-ii.md#article-r4412-139) ; art. R1334-25 du Code de la santé publique
+- Renvoie à : [art. R1334-25 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-25) ; [art. R4412-139 du Code du travail](chapitre-ii.md#article-r4412-139)
 - Cité par : [art. R4412-147 du Code du travail](chapitre-ii.md#article-r4412-147) ; [Arrêté du 8 avril 2013, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046415258) ; [Arrêté du 9 avril 2019, art. 10](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038463659)
 
 Avant toute restitution de la zone et préalablement à l'enlèvement de tout dispositif de confinement, total ou partiel, l'employeur procède :
@@ -1832,7 +1833,7 @@ Un organisme de formation d'un Etat membre de l'Union européenne non établi en
 - Identifiant : LEGIARTI000025818836
 - État : en vigueur depuis le 01/07/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025818836
-- Renvoie à : [art. R4412-94 du Code du travail](chapitre-ii.md#article-r4412-94)
+- Renvoie à : [art. R1334-22 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-22) ; [art. R1334-28 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-28) ; [art. R4412-94 du Code du travail](chapitre-ii.md#article-r4412-94)
 
 Les dispositions de la présente sous-section s'appliquent aux travaux mentionnés au 2° de l'article R. 4412-94.
 
@@ -1890,7 +1891,7 @@ Avant la première mise en œuvre du mode opératoire, celui-ci est transmis à 
 - Identifiant : LEGIARTI000043128546
 - État : en vigueur depuis le 13/02/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043128546
-- Renvoie à : [art. R4412-97 du Code du travail](chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](chapitre-ii.md#article-r4412-97-5) ; [art. R4412-139 du Code du travail](chapitre-ii.md#article-r4412-139) ; art. R111-45 du Code de la construction et de l'habitation
+- Renvoie à : [art. R1334-29-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-iv.md#article-r1334-29-4) ; [art. R4412-97 du Code du travail](chapitre-ii.md#article-r4412-97) ; [art. R4412-97-5 du Code du travail](chapitre-ii.md#article-r4412-97-5) ; [art. R4412-139 du Code du travail](chapitre-ii.md#article-r4412-139) ; art. R111-45 du Code de la construction et de l'habitation
 
 Lorsque la durée prévisible de l'intervention est supérieure à cinq jours, l'employeur transmet, en outre, à l'agent de contrôle de l'inspection du travail et au service de prévention de l'organisme de sécurité sociale du lieu de l'intervention ainsi que, le cas échéant, à l'office professionnel de prévention du bâtiment et des travaux publics :
 

@@ -6,7 +6,7 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - Identifiant : LEGIARTI000030300584
 - État : en vigueur depuis le 01/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030300584
-- Cité par : [art. R432-2 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039806962) ; [art. R811-1 du Code de justice administrative](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052286884)
+- Cité par : [art. R432-2 du Code de justice administrative](../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-ii.md#article-r432-2) ; [art. R811-1 du Code de justice administrative](../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-viii/titre-ier.md#article-r811-1)
 
 Toute juridiction saisie d'une demande de sa compétence connaît, même s'ils exigent l'interprétation d'un contrat, de tous les moyens de défense à l'exception de ceux qui soulèvent une question relevant de la compétence exclusive d'une autre juridiction.
 
@@ -34,7 +34,7 @@ Sauf disposition particulière, les autres juridictions ne connaissent que des d
 - Identifiant : LEGIARTI000039066530
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039066530
-- Cité par : [art. 704 du Code de procédure civile](../titre-xviii/chapitre-iii.md#article-704) ; [art. L211-6 du Code de l'organisation judiciaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038314123)
+- Cité par : [art. Annexe Tableau IV-II du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-ii) ; [art. L211-6 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-6) ; [art. 704 du Code de procédure civile](../titre-xviii/chapitre-iii.md#article-704)
 
 Les demandes relatives aux frais, émoluments et débours qui, afférents à une instance, ont été exposés devant une juridiction par les auxiliaires de justice et les officiers publics ou ministériels sont portées devant cette juridiction.
 

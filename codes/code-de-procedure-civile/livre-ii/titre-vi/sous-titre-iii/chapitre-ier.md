@@ -6,6 +6,7 @@ Code de procédure civile › Livre II : Dispositions particulières à chaque j
 - Identifiant : LEGIARTI000025820284
 - État : en vigueur depuis le 06/05/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025820284
+- Cité par : [art. R411-39 du Code de la propriété intellectuelle](../../../../code-de-la-propriete-intellectuelle/partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md#article-r411-39)
 
 La constitution d'avocat par l'intimé ou par toute personne qui devient partie en cours d'instance est dénoncée aux autres parties par notification entre avocats.
 

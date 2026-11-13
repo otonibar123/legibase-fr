@@ -1,0 +1,326 @@
+# Code de l'énergie
+
+Dernière modification du texte dans LEGI : 04/11/2026. 3219 articles en vigueur, répartis dans 221 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE IER : L'ORGANISATION GÉNÉRALE DU SECTEUR DE L'ÉNERGIE**
+    - [TITRE PRÉLIMINAIRE : LES OBJECTIFS DE LA POLITIQUE ÉNERGÉTIQUE](partie-legislative/livre-ier/titre-preliminaire.md) (6 articles)
+    - **TITRE IER : LES PRINCIPES RÉGISSANT LES SECTEURS DE L'ÉNERGIE**
+      - [Chapitre Ier : Les secteurs de l'électricité et du gaz](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (123 articles)
+      - [Chapitre II : Le marché pétrolier](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Les réseaux de chaleur](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+    - **TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS**
+      - [Chapitre Ier : Les obligations de service public assignées aux entreprises du secteur de l'électricité et du gaz](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (34 articles)
+      - [Chapitre II : La protection des consommateurs d'électricité et de gaz](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : La contribution des opérateurs d'effacement aux objectifs de la politique énergétique](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : La protection des consommateurs en situation de précarité énergétique](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (6 articles)
+    - **TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE**
+      - [Chapitre Ier : Missions](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Organisation](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Fonctionnement](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Attributions](partie-legislative/livre-ier/titre-iii/chapitre-iv.md) (38 articles)
+      - [Chapitre V : Pouvoirs d'enquête et de contrôle](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (16 articles)
+    - **TITRE IV : LE RÔLE DE L’ÉTAT**
+      - [Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Le suivi de la mise en œuvre de la politique énergétique](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (42 articles)
+      - [Chapitre III : Les mesures de sauvegarde en cas de crise](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : L'organisation de la recherche en matière d'énergie](partie-legislative/livre-ier/titre-iv/chapitre-iv.md) (8 articles)
+    - **TITRE V : LES DISPOSITIONS RELATIVES À L'OUTRE MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Dispositions applicables aux îles Wallis et Futuna](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (12 articles)
+    - **TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES**
+      - [Chapitre unique](partie-legislative/livre-ier/titre-vi/chapitre-unique.md) (6 articles)
+  - **LIVRE II : LA MAÎTRISE DE LA DEMANDE D'ÉNERGIE ET LE DÉVELOPPEMENT DES ÉNERGIES RENOUVELABLES**
+    - **TITRE IER : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-ier/chapitre-unique.md) (13 articles)
+    - **TITRE II : LES CERTIFICATS D’ÉCONOMIES D’ÉNERGIE**
+      - [Chapitre Ier : Le dispositif des certificats d'économies d'énergie](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Les sanctions administratives et pénales](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (12 articles)
+    - **TITRE III : LA PERFORMANCE ÉNERGÉTIQUE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Service public de la performance énergétique de l'habitat](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : La performance énergétique dans les entreprises](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : La performance énergétique dans la commande publique](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : La performance énergétique des organismes publics](partie-legislative/livre-ii/titre-iii/chapitre-v.md) (4 articles)
+      - [Chapitre VI : La performance énergétique des centres de données](partie-legislative/livre-ii/titre-iii/chapitre-vi.md) (3 articles)
+    - **TITRE IV : LES INSTALLATIONS DE CHAUFFAGE ET DE CLIMATISATION**
+      - [Chapitre Ier : Dispositions diverses](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Contrôles et sanctions](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+    - **TITRE V : LES MESURES PARTICULIÈRES AUX VÉHICULES**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-v/chapitre-unique.md) (2 articles)
+    - **TITRE VI : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions particulières à Mayotte](partie-legislative/livre-ii/titre-vi/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions applicables aux îles Wallis et Futuna](partie-legislative/livre-ii/titre-vi/chapitre-ii.md) (3 articles)
+    - **TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-vii/chapitre-unique.md) (4 articles)
+    - **Titre VIII : LES BIOCARBURANTS, BIOLIQUIDES, COMBUSTIBLES OU CARBURANTS ISSUS DE LA BIOMASSE, CARBURANTS RENOUVELABLES D'ORIGINE NON BIOLOGIQUE DESTINÉS AU SECTEUR DES TRANSPORTS ET CARBURANTS À BASE DE CARBONE RECYCLÉ**
+      - [Chapitre Ier : Critères de durabilité et de réduction des émissions de gaz à effet de serre des biocarburants, bioliquides et combustibles ou carburants issus de la biomasse](partie-legislative/livre-ii/titre-viii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Seuils de réduction des émissions de gaz à effet de serre des carburants liquides et gazeux renouvelables d'origine non biologique destinés au secteur des transports et les carburants à base de carbone recyclé](partie-legislative/livre-ii/titre-viii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Suivi et vérification du respect des critères de durabilité et de réduction des émissions de gaz à effet de serre](partie-legislative/livre-ii/titre-viii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Contrôles et sanctions administratives](partie-legislative/livre-ii/titre-viii/chapitre-iv.md) (11 articles)
+      - [Chapitre V : Sanctions pénales](partie-legislative/livre-ii/titre-viii/chapitre-v.md) (1 article)
+    - **TITRE IX : COMMUNAUTÉS D'ÉNERGIE ET INVESTISSEMENT PARTICIPATIF**
+      - [Chapitre Ier : Communautés d'énergie renouvelable](partie-legislative/livre-ii/titre-ix/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Communautés énergétiques citoyennes](partie-legislative/livre-ii/titre-ix/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Dispositions communes](partie-legislative/livre-ii/titre-ix/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Financement des projets de production d'énergie renouvelable par les citoyens et les collectivités](partie-legislative/livre-ii/titre-ix/chapitre-iv.md) (1 article)
+  - **LIVRE III : LES DISPOSITIONS RELATIVES A L'ÉLECTRICITÉ**
+    - [TITRE PRÉLIMINAIRE : DISPOSITIONS COMMUNES](partie-legislative/livre-iii/titre-preliminaire.md) (2 articles)
+    - **TITRE IER : LA PRODUCTION**
+      - [Chapitre Ier : Les dispositions générales relatives à la production d'électricité](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (49 articles)
+      - [Chapitre II : Les dispositions particulières à la production hydroélectrique](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Les dispositions particulières à la production d'électricité nucléaire](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (41 articles)
+      - [Chapitre V : L'autoconsommation](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (10 articles)
+      - [Chapitre VI : Le mécanisme de capacité](partie-legislative/livre-iii/titre-ier/chapitre-vi.md) (13 articles)
+    - **TITRE II : LE TRANSPORT ET LA DISTRIBUTION**
+      - [Chapitre Ier : Le transport](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (26 articles)
+      - [Chapitre II : La distribution](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Les ouvrages de transport et de distribution](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : La distribution aux services publics](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (2 articles)
+    - **TITRE III : LA COMMERCIALISATION**
+      - [Chapitre Ier : Le choix d'un fournisseur](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Les contrats et offres de fourniture](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : La fourniture d'électricité aux clients finals](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Dispositions particulières](partie-legislative/livre-iii/titre-iii/chapitre-iv.md) (4 articles)
+      - [Chapitre VI : Partage des revenus de l'exploitation des centrales électronucléaires historiques](partie-legislative/livre-iii/titre-iii/chapitre-vi.md) (16 articles)
+      - [Chapitre VII : Les tarifs et les prix](partie-legislative/livre-iii/titre-iii/chapitre-vii.md) (19 articles)
+      - [Chapitre VIII : Agrégation et services d'électricité](partie-legislative/livre-iii/titre-iii/chapitre-viii.md) (3 articles)
+    - **TITRE IV : L’ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX**
+      - [Chapitre Ier : L'accès aux réseaux](partie-legislative/livre-iii/titre-iv/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Le raccordement aux réseaux](partie-legislative/livre-iii/titre-iv/chapitre-ii.md) (26 articles)
+      - [Chapitre III : Les lignes directes](partie-legislative/livre-iii/titre-iv/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Les réseaux fermés de distribution d'électricité](partie-legislative/livre-iii/titre-iv/chapitre-iv.md) (13 articles)
+      - [Chapitre V : Les réseaux intérieurs des bâtiments](partie-legislative/livre-iii/titre-iv/chapitre-v.md) (8 articles)
+      - [Chapitre VI : Colonnes montantes électriques](partie-legislative/livre-iii/titre-iv/chapitre-vi.md) (5 articles)
+    - **TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ**
+      - [Chapitre II : Stockage d'énergie dans le système électrique](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Recharge des véhicules électriques](partie-legislative/livre-iii/titre-v/chapitre-iii.md) (13 articles)
+    - **TITRE VI : LES DISPOSITIONS RELATIVES À LA CORSE ET À L'OUTRE MER**
+      - [Chapitre Ier : Schéma de raccordement au réseau des énergies renouvelables](partie-legislative/livre-iii/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions relatives au Département-Région de Mayotte](partie-legislative/livre-iii/titre-vi/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions applicables aux îles Wallis et Futuna](partie-legislative/livre-iii/titre-vi/chapitre-iii.md) (12 articles)
+  - **LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ**
+    - [LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ : articles rattachés directement](partie-legislative/livre-iv/articles-directs.md) (1 article)
+    - **TITRE IER : LA RECHERCHE ET L'EXPLOITATION DES GÎTES CONTENANT DU GAZ NATUREL**
+      - [Chapitre unique](partie-legislative/livre-iv/titre-ier/chapitre-unique.md) (1 article)
+    - **TITRE II : LE STOCKAGE**
+      - [Chapitre unique](partie-legislative/livre-iv/titre-ii/chapitre-unique.md) (21 articles)
+    - **TITRE III : LE TRANSPORT ET LA DISTRIBUTION**
+      - [Chapitre Ier : Le transport](partie-legislative/livre-iv/titre-iii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : La distribution](partie-legislative/livre-iv/titre-iii/chapitre-ii.md) (22 articles)
+      - [Chapitre III : Les ouvrages de transport et de distribution](partie-legislative/livre-iv/titre-iii/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : Le délestage de la consommation de gaz naturel](partie-legislative/livre-iv/titre-iii/chapitre-iv.md) (4 articles)
+    - **TITRE IV : LA COMMERCIALISATION**
+      - [Chapitre Ier : Le choix du fournisseur](partie-legislative/livre-iv/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Les contrats de vente](partie-legislative/livre-iv/titre-iv/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Le régime de la fourniture](partie-legislative/livre-iv/titre-iv/chapitre-iii.md) (17 articles)
+      - [Chapitre IV : Le cas particulier de la commercialisation par une entreprise locale de distribution](partie-legislative/livre-iv/titre-iv/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Dispositions générales relatives aux gaz renouvelables injectés dans le réseau de gaz naturel](partie-legislative/livre-iv/titre-iv/chapitre-v.md) (18 articles)
+      - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz](partie-legislative/livre-iv/titre-iv/chapitre-vi.md) (62 articles)
+      - [Chapitre VII : Dispositions générales relatives aux gaz bas-carbone injectés dans le réseau de gaz naturel](partie-legislative/livre-iv/titre-iv/chapitre-vii.md) (7 articles)
+      - [Chapitre VIII : L'autoconsommation collective étendue](partie-legislative/livre-iv/titre-iv/chapitre-viii.md) (5 articles)
+    - **TITRE V : L’ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS**
+      - [Chapitre Ier : L'accès aux réseaux et installations](partie-legislative/livre-iv/titre-v/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié](partie-legislative/livre-iv/titre-v/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Le raccordement aux réseaux et installations](partie-legislative/livre-iv/titre-v/chapitre-iii.md) (10 articles)
+    - **TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS**
+      - [Chapitre unique](partie-legislative/livre-iv/titre-vi/chapitre-unique.md) (3 articles)
+  - **LIVRE V : DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE**
+    - **TITRE IER : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES**
+      - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Les sanctions](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (3 articles)
+    - **TITRE III : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES D'UNE PUISSANCE INFÉRIEURE OU ÉGALE A 4 500 KILOWATTS**
+      - [Chapitre unique](partie-legislative/livre-v/titre-iii/chapitre-unique.md) (6 articles)
+    - **Titre IV : LES DISPOSITIONS APPLICABLES AUX INSTALLATIONS D'UTILISATION DE L'ÉNERGIE HYDRAULIQUE AUTORISÉES DE PLUS DE 4 500 KILOWATTS**
+      - [Chapitre Ier : Les dispositions particulières au régime d'autorisation d'utilisation de l'énergie hydraulique](partie-legislative/livre-v/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : L'occupation et la traversée des propriétés privées](partie-legislative/livre-v/titre-iv/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Redevances](partie-legislative/livre-v/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Participation des collectivités territoriales riveraines](partie-legislative/livre-v/titre-iv/chapitre-iv.md) (1 article)
+  - **LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX BIOCARBURANTS ET BIOLIQUIDES**
+    - **TITRE IER : GÉNÉRALITÉS**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-ier/chapitre-unique.md) (1 article)
+    - **TITRE II : LA RECHERCHE ET L'EXPLOITATION DES GÎTES CONTENANT DU PÉTROLE**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-ii/chapitre-unique.md) (1 article)
+    - **TITRE III : LE TRANSPORT**
+      - [Chapitre Ier : Le transport par navire](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Le transport par canalisation](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (2 articles)
+    - **TITRE IV : LE RAFFINAGE ET LE STOCKAGE**
+      - [Chapitre Ier : Le raffinage et les produits pétroliers](partie-legislative/livre-vi/titre-iv/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Le stockage](partie-legislative/livre-vi/titre-iv/chapitre-ii.md) (11 articles)
+    - **TITRE V : LA DISTRIBUTION**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-v/chapitre-unique.md) (3 articles)
+    - **TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES**
+      - [Chapitre I : Obligations relatives aux biocarburants et aux bioliquides](partie-legislative/livre-vi/titre-vi/chapitre-i.md) (2 articles)
+    - **TITRE VII : LES DISPOSITIONS PARTICULIÈRES A L'OUTRE-MER**
+      - [Chapitre unique](partie-legislative/livre-vi/titre-vii/chapitre-unique.md) (3 articles)
+  - **LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID**
+    - **TITRE IER : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID**
+      - [Chapitre Ier : La production de chaleur et de froid](partie-legislative/livre-vii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Le classement des réseaux de chaleur et de froid](partie-legislative/livre-vii/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions diverses](partie-legislative/livre-vii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Contrôles et sanctions](partie-legislative/livre-vii/titre-ier/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Critères de durabilité et de réduction des émissions de gaz à effet de serre](partie-legislative/livre-vii/titre-ier/chapitre-v.md) (4 articles)
+    - **TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID**
+      - [Chapitre unique](partie-legislative/livre-vii/titre-ii/chapitre-unique.md) (12 articles)
+    - **TITRE III : LE STOCKAGE DE CHALEUR**
+      - [Chapitre unique](partie-legislative/livre-vii/titre-iii/chapitre-unique.md) (1 article)
+    - **TITRE IV : CONTRATS D'ABONNEMENT À UN RÉSEAU DE CHALEUR OU DE FROID**
+      - [Chapitre Ier : Dispositions communes](partie-legislative/livre-vii/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Dispositions particulières relatives au contrat d'abonnement d'un immeuble à usage d'habitation ou à usage professionnel et d'habitation](partie-legislative/livre-vii/titre-iv/chapitre-ii.md) (3 articles)
+  - **LIVRE VIII : LES DISPOSITIONS RELATIVES À L'HYDROGÈNE**
+    - **TITRE I : LA PRODUCTION**
+      - [Chapitre Ier : Définitions](partie-legislative/livre-viii/titre-i/chapitre-ier.md) (1 article)
+      - [Chapitre II : Le soutien à la production de certaines catégories d'hydrogène](partie-legislative/livre-viii/titre-i/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Autoconsommation](partie-legislative/livre-viii/titre-i/chapitre-iii.md) (3 articles)
+    - **TITRE II : LES GARANTIES DE TRAÇABILITÉ ET D'ORIGINE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-viii/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Dispositions particulières aux garanties d'origine associées à la production des installations bénéficiant d'une aide de l'État](partie-legislative/livre-viii/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : L'organisme de gestion des garanties de production](partie-legislative/livre-viii/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Garanties d'origine délivrées par d'autres États de l'Union européenne](partie-legislative/livre-viii/titre-ii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Pouvoirs d'enquête, contrôles et sanctions administratives](partie-legislative/livre-viii/titre-ii/chapitre-v.md) (13 articles)
+      - [Chapitre VI : Dispositions finales](partie-legislative/livre-viii/titre-ii/chapitre-vi.md) (1 article)
+    - **TITRE III : LE TRANSPORT ET LA DISTRIBUTION**
+      - [Chapitre Ier : Le transport](partie-legislative/livre-viii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : La distribution](partie-legislative/livre-viii/titre-iii/chapitre-ii.md) (2 articles)
+    - [TITRE IV : LE STOCKAGE](partie-legislative/livre-viii/titre-iv.md) (1 article)
+    - [TITRE V : LA VENTE D'HYDROGÈNE](partie-legislative/livre-viii/titre-v.md) (2 articles)
+- **Partie réglementaire**
+  - **LIVRE IER : L'ORGANISATION GÉNÉRALE DU SECTEUR DE L'ÉNERGIE**
+    - **TITRE IER : LES PRINCIPES RÉGISSANT LE SECTEUR DE L'ÉNERGIE**
+      - [Chapitre Ier : Les secteurs de l'électricité et du gaz](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (104 articles)
+      - [Chapitre II : Le marché pétrolier](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Les réseaux de chaleur](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (6 articles)
+    - **TITRE II : LES OBLIGATIONS DE SERVICE PUBLIC ET LA PROTECTION DES CONSOMMATEURS**
+      - [Chapitre Ier : Les obligations de service public assignées aux entreprises du secteur de l'électricité et du gaz](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (64 articles)
+      - [Chapitre II : La protection des consommateurs d'électricité et de gaz](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (33 articles)
+      - [Chapitre IV : La protection des consommateurs en situation de précarité énergétique](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (26 articles)
+    - **TITRE III : LA COMMISSION DE RÉGULATION DE L'ÉNERGIE**
+      - [Chapitre II : Organisation](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Fonctionnement](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Attributions](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (37 articles)
+      - [Chapitre V : Pouvoirs d'enquête et de contrôle](partie-reglementaire/livre-ier/titre-iii/chapitre-v.md) (5 articles)
+    - **TITRE IV : LE RÔLE DE L'ÉTAT**
+      - [Chapitre Ier : L'évaluation des besoins et la programmation des capacités énergétiques](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (25 articles)
+      - [Chapitre II : Le suivi de la mise en œuvre de la politique énergetique](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (36 articles)
+      - [Chapitre III : Les mesures de sauvegarde en cas de crise](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : L'organisation de la recherche en matière d'énergie](partie-reglementaire/livre-ier/titre-iv/chapitre-iv.md) (29 articles)
+    - **TITRE V : DISPOSITIONS RELATIVES À L'OUTRE MER**
+      - [Chapitre Ier : Dispositions particulières aux collectivités régies par l'article 73 de la Constitution et à Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ier/titre-v/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Dispositions applicables aux îles Wallis et Futuna](partie-reglementaire/livre-ier/titre-v/chapitre-ii.md) (1 article)
+    - **TITRE VI : LES DISPOSITIONS RELATIVES AU PERSONNEL DES ENTREPRISES ÉLECTRIQUES ET GAZIÈRES**
+      - [Chapitre unique](partie-reglementaire/livre-ier/titre-vi/chapitre-unique.md) (10 articles)
+  - **LIVRE II : LA MAÎTRISE DE LA DEMANDE D'ÉNERGIE ET LE DÉVELOPPEMENT DES ÉNERGIES RENOUVELABLES**
+    - **TITRE IER : DISPOSITIONS GÉNÉRALES**
+      - [Chapitre Ier](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Projets d'installations de production ou de stockage d'énergies renouvelables répondant à une raison impérative d'intérêt public majeur](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (12 articles)
+    - **TITRE II : LES CERTIFICATS D'ÉCONOMIES D'ÉNERGIE**
+      - [Chapitre Ier : Le dispositif des certificats d'économies d'énergie](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (38 articles)
+      - [Chapitre II : Les sanctions administratives et pénales](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (11 articles)
+    - **TITRE III : LA PERFORMANCE ÉNERGÉTIQUE**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Service public de la performance énergétique de l'habitat](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (11 articles)
+      - [Chapitre III : La performance énergétique dans les entreprises](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : La performance énergetique dans la commande publique](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (5 articles)
+      - [Chapitre VI : La performance énergétique des centres de données](partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Amélioration de l'efficacité énergétique de l'approvisionnement en chaud et en froid](partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md) (7 articles)
+    - **TITRE IV : LES INSTALLATIONS DE CHAUFFAGE ET DE CLIMATISATION**
+      - [Chapitre unique](partie-reglementaire/livre-ii/titre-iv/chapitre-unique.md) (25 articles)
+    - **TITRE V : LES MESURES PARTICULIÈRES AUX VÉHICULES**
+      - [Chapitre unique](partie-reglementaire/livre-ii/titre-v/chapitre-unique.md) (14 articles)
+    - **TITRE VII : L'EFFACEMENT DE CONSOMMATION D'ÉLECTRICITÉ**
+      - [Chapitre unique](partie-reglementaire/livre-ii/titre-vii/chapitre-unique.md) (15 articles)
+    - **TITRE VIII : LES BIOCARBURANTS, BIOLIQUIDES, COMBUSTIBLES OU CARBURANTS ISSUS DE LA BIOMASSE, CARBURANTS RENOUVELABLES D'ORIGINE NON BIOLOGIQUE DESTINÉS AU SECTEUR DES TRANSPORTS ET CARBURANTS À BASE DE CARBONE RECYCLÉ**
+      - [Chapitre I : Critères de durabilité et de réduction des émissions de gaz à effet de serre des biocarburants, bioliquides et combustibles ou carburants issus de la biomasse](partie-reglementaire/livre-ii/titre-viii/chapitre-i.md) (2 articles)
+      - [Chapitre III : Suivi et vérification du respect des critères de durabilité et de réduction des émissions de gaz à effet de serre](partie-reglementaire/livre-ii/titre-viii/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : Contrôles et sanctions administratives](partie-reglementaire/livre-ii/titre-viii/chapitre-iv.md) (10 articles)
+    - **TITRE IX : COMMUNAUTÉS D'ÉNERGIE**
+      - [Chapitre Ier : Communautés d'énergie renouvelable](partie-reglementaire/livre-ii/titre-ix/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Communautés d'énergétiques citoyennes](partie-reglementaire/livre-ii/titre-ix/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions communes aux communautés d'énergie](partie-reglementaire/livre-ii/titre-ix/chapitre-iii.md) (1 article)
+  - **LIVRE III : LES DISPOSITIONS RELATIVES À L'ÉLECTRICITÉ**
+    - **TITRE Ier : LA PRODUCTION**
+      - [Chapitre Ier : Les dispositions générales relatives à la production](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (115 articles)
+      - [Chapitre IV : Les dispositions particulières à l'électricité produite à partir d'énergies renouvelables](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (132 articles)
+      - [Chapitre V : L'autoconsommation](partie-reglementaire/livre-iii/titre-ier/chapitre-v.md) (14 articles)
+      - [Chapitre VI : Le mécanisme de capacité](partie-reglementaire/livre-iii/titre-ier/chapitre-vi.md) (42 articles)
+    - **TITRE II : LE TRANSPORT ET LA DISTRIBUTION**
+      - [Chapitre Ier : Le transport](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (36 articles)
+      - [Chapitre II : La distribution](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (24 articles)
+      - [Chapitre III : Les ouvrages de transport et de distribution](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (54 articles)
+    - **TITRE III : LA COMMERCIALISATION**
+      - [Chapitre Ier : Le choix d'un fournisseur](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les contrats et offres de fourniture](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : L'achat pour revente](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (31 articles)
+      - [Chapitre VI : Partage des revenus de l'exploitation des centrales électronucléaires historiques](partie-reglementaire/livre-iii/titre-iii/chapitre-vi.md) (14 articles)
+      - [Chapitre VII : Les tarifs et les prix](partie-reglementaire/livre-iii/titre-iii/chapitre-vii.md) (34 articles)
+    - **TITRE IV : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX**
+      - [Chapitre Ier : L'accès aux réseaux](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (39 articles)
+      - [Chapitre II : Le raccordement aux réseaux](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (68 articles)
+      - [Chapitre III : Les lignes directes](partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md) (9 articles)
+      - [Chapitre V : Les réseaux intérieurs des bâtiments](partie-reglementaire/livre-iii/titre-iv/chapitre-v.md) (4 articles)
+    - **TITRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉLECTRICITÉ**
+      - [Chapitre Ier : Consommateurs électro-intensifs](partie-reglementaire/livre-iii/titre-v/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Stockage d'énergie dans le système électrique](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (11 articles)
+      - [Chapitre III : Recharge des véhicules électriques](partie-reglementaire/livre-iii/titre-v/chapitre-iii.md) (28 articles)
+    - **TITRE VI : LES DISPOSITIONS RELATIVES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions relatives à l'outre-mer](partie-reglementaire/livre-iii/titre-vi/chapitre-ier.md) (32 articles)
+      - [Chapitre II : Dispositions relatives à Mayotte](partie-reglementaire/livre-iii/titre-vi/chapitre-ii.md) (2 articles)
+  - **LIVRE IV : LES DISPOSITIONS RELATIVES AU GAZ**
+    - **TITRE II : LE STOCKAGE**
+      - [Chapitre unique](partie-reglementaire/livre-iv/titre-ii/chapitre-unique.md) (21 articles)
+    - **TITRE III : LE TRANSPORT ET LA DISTRIBUTION**
+      - **Section 1 : Régime de l'autorisation de transport**
+        - [Chapitre Ier : Le transport](partie-reglementaire/livre-iv/titre-iii/section-1/chapitre-ier.md) (4 articles)
+        - [Chapitre II : La distribution](partie-reglementaire/livre-iv/titre-iii/section-1/chapitre-ii.md) (13 articles)
+        - [Chapitre III : Les ouvrages de transport et de distribution](partie-reglementaire/livre-iv/titre-iii/section-1/chapitre-iii.md) (27 articles)
+        - [Chapitre IV : Le délestage de la consommation de gaz naturel](partie-reglementaire/livre-iv/titre-iii/section-1/chapitre-iv.md) (7 articles)
+    - **TITRE IV : LA COMMERCIALISATION**
+      - [Chapitre Ier : Le choix du fournisseur](partie-reglementaire/livre-iv/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre III : Le régime de la fourniture](partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md) (43 articles)
+      - [Chapitre V : Dispositions générales relatives aux gaz renouvelables injectées dans le réseau de gaz naturel](partie-reglementaire/livre-iv/titre-iv/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Les dispositions particulières relatives à la vente de biogaz](partie-reglementaire/livre-iv/titre-iv/chapitre-vi.md) (230 articles)
+      - [Chapitre VIII : L'autoconsommation collective étendue](partie-reglementaire/livre-iv/titre-iv/chapitre-viii.md) (13 articles)
+    - **TITRE V : L'ACCÈS ET LE RACCORDEMENT AUX RÉSEAUX ET INSTALLATIONS**
+      - [Chapitre II : Les tarifs d'utilisation des réseaux de transport, de distribution de gaz naturel et les tarifs d'utilisation des installations de gaz naturel liquéfié](partie-reglementaire/livre-iv/titre-v/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Le raccordement aux réseaux et installations](partie-reglementaire/livre-iv/titre-v/chapitre-iii.md) (27 articles)
+    - **TITRE VI : LES CONSOMMATEURS GAZO-INTENSIFS**
+      - [Chapitre unique](partie-reglementaire/livre-iv/titre-vi/chapitre-unique.md) (14 articles)
+  - **LIVRE V : LES DISPOSITIONS RELATIVES À L'UTILISATION DE L'ÉNERGIE HYDRAULIQUE**
+    - **TITRE Ier : LES DISPOSITIONS COMMUNES AUX INSTALLATIONS HYDRAULIQUES AUTORISÉES OU CONCÉDÉES**
+      - [Chapitre Ier : Les caractéristiques générales des régimes d'exploitation de l'énergie hydraulique](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre III : La protection du domaine public hydroélectrique concédé](partie-reglementaire/livre-v/titre-ier/chapitre-iii.md) (2 articles)
+    - **TITRE II : LES DISPOSITIONS RELATIVES AUX INSTALLATIONS HYDRAULIQUES CONCÉDÉES**
+      - [Chapitre Ier : La procédure applicable aux concessions](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (74 articles)
+      - [Chapitre II : Les reserves en énergie](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Les redevances proportionnelles](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : L'information des collectivités territoriales et des habitants riverains sur l'exécution de la concession et leur participation à la gestion des usages de l'eau](partie-reglementaire/livre-v/titre-ii/chapitre-iv.md) (6 articles)
+  - **LIVRE VI : LES DISPOSITIONS RELATIVES AU PÉTROLE, AUX CARBURANTS ALTERNATIFS ET AUX BIOLIQUIDES**
+    - **TITRE III : LE TRANSPORT**
+      - [Chapitre Ier : Le transport par navire](partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Le transport par canalisation](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (4 articles)
+    - **TITRE IV : LE RAFFINAGE, LES CARBURANTS ET LE STOCKAGE**
+      - [Chapitre Ier : Le raffinage, les produits Pétroliers et les carburants alternatifs](partie-reglementaire/livre-vi/titre-iv/chapitre-ier.md) (32 articles)
+      - [Chapitre II : Le stockage](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (11 articles)
+    - **TITRE VI : LES BIOCARBURANTS ET BIOLIQUIDES**
+      - [Chapitre unique : Critères de durabilité et de réduction des émissions de gaz à effet de serre](partie-reglementaire/livre-vi/titre-vi/chapitre-unique.md) (6 articles)
+    - **TITRE VII : LES DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER**
+      - [Chapitre unique](partie-reglementaire/livre-vi/titre-vii/chapitre-unique.md) (31 articles)
+  - **LIVRE VII : LES DISPOSITIONS RELATIVES AUX RÉSEAUX DE CHALEUR ET DE FROID**
+    - **TITRE Ier : LA PRODUCTION DE CHALEUR ET LE CLASSEMENT DES RÉSEAUX DE CHALEUR ET DE FROID**
+      - [Chapitre Ier : La production de chaleur](partie-reglementaire/livre-vii/titre-ier/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Le classement des réseaux de chaleur et de froid](partie-reglementaire/livre-vii/titre-ier/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Dispositions diverses](partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre V : Critères de durabilité et de réduction des émissions de gaz à effet de serre pour la production de chaleur ou de froid à partir de biomasse](partie-reglementaire/livre-vii/titre-ier/chapitre-v.md) (6 articles)
+    - **TITRE II : LE PASSAGE DES CANALISATIONS DE TRANSPORT ET DE DISTRIBUTION DE CHALEUR ET DE FROID**
+      - [Chapitre unique](partie-reglementaire/livre-vii/titre-ii/chapitre-unique.md) (20 articles)
+    - **TITRE IV : CONTRATS D'ABONNEMENT À UN RÉSEAU DE CHALEUR OU DE FROID**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-vii/titre-iv/chapitre-ier.md) (1 article)
+      - [Chapitre II : Dispositions particulières relatives au contrat d'abonnement d'un immeuble à usage d'habitation ou à usage professionnel et d'habitation](partie-reglementaire/livre-vii/titre-iv/chapitre-ii.md) (2 articles)
+  - **LIVRE VIII : LES DISPOSITIONS RELATIVES À L'HYDROGÈNE**
+    - **TITRE IER : LA PRODUCTION**
+      - [Chapitre II : Le soutien à la production de certaines catégories d'hydrogène](partie-reglementaire/livre-viii/titre-ier/chapitre-ii.md) (26 articles)
+    - **Titre II : LES GARANTIES DE TRAÇABILITÉ ET D'ORIGINE**
+      - [Chapitre III : L'organisme de gestion des garanties de production](partie-reglementaire/livre-viii/titre-ii/chapitre-iii.md) (3 articles)

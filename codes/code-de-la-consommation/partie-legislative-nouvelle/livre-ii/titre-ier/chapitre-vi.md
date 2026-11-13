@@ -35,7 +35,7 @@ Tout risque de perte ou d'endommagement du bien est transféré au consommateur 
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142485
 - Renvoie à : [art. L216-2 du Code de la consommation](chapitre-vi.md#article-l216-2)
-- Cité par : [art. L241-4 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-4)
+- Cité par : [art. L241-4 du Code de la consommation](../titre-iv/chapitre-ier.md#article-l241-4) ; [art. 1776 du Code général des impôts](../../../../code-general-des-impots/livre-ii/chapitre-ii.md#article-1776)
 
 Lorsque le consommateur confie le bien à un transporteur autre que celui proposé par le professionnel, le risque de perte ou d'endommagement du bien est transféré au consommateur lors de la remise du bien au transporteur.
 
@@ -101,6 +101,7 @@ Lorsque le contrat est résolu dans les conditions prévues à l'article L. 216-
 - Identifiant : LEGIARTI000044139714
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044139714
+- Cité par : [art. R1343-1 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iii/titre-iv/chapitre-iii.md#article-r1343-1)
 
 Les dispositions du présent chapitre sont également applicables aux contrats conclus entre des professionnels et des non-professionnels.
 

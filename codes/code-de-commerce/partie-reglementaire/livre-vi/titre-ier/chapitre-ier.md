@@ -166,7 +166,7 @@ Ce procès-verbal mentionne, s'il y a lieu, la dénomination utilisée par l'ent
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044095998
 - Renvoie à : [art. L611-2 du Code de commerce](../../../partie-legislative/livre-vi/titre-ier/chapitre-ier.md#article-l611-2) ; [art. R611-11 du Code de commerce](chapitre-ier.md#article-r611-11)
-- Cité par : [art. R611-10 du Code de commerce](chapitre-ier.md#article-r611-10) ; [Livre des procédures fiscales, art. R145 A-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030680502)
+- Cité par : [art. R611-10 du Code de commerce](chapitre-ier.md#article-r611-10) ; [Livre des procédures fiscales, art. R145 A-1](../../../../livre-des-procedures-fiscales/partie-reglementaire-decrets-en-conseil-d-etat/deuxieme-partie/titre-ii/chapitre-iii.md#article-r145-a-1)
 
 La demande de renseignements prévue au deuxième alinéa de l'article L. 611-2 est adressée dans le délai d e trois mois au plus tard à compter de la date d'envoi de la convocation. Elle est accompagnée de la copie de la lettre de convocation adressée au représentant légal de la personne morale débitrice ou au débiteur personne physique et de la note établie en application de l'article R. 611-10.
 

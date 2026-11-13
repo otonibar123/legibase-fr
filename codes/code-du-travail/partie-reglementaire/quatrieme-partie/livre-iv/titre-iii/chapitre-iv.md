@@ -79,7 +79,7 @@ Lorsqu'en dépit des mesures de prévention mises en œuvre en application du pr
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018530337
 - Renvoie à : [art. R4431-2 du Code du travail](chapitre-ier.md#article-r4431-2)
-- Cité par : [art. R4431-2 du Code du travail](chapitre-ier.md#article-r4431-2) ; [art. R4437-1 du Code du travail](chapitre-vii.md#article-r4437-1) ; [art. R717-16 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025888903)
+- Cité par : [art. R4431-2 du Code du travail](chapitre-ier.md#article-r4431-2) ; [art. R4437-1 du Code du travail](chapitre-vii.md#article-r4437-1) ; [art. R717-16 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-16)
 
 En cas d'impossibilité d'éviter les risques dus à l'exposition au bruit par d'autres moyens, des protecteurs auditifs individuels, appropriés et correctement adaptés, sont mis à la disposition des travailleurs dans les conditions suivantes :  
 1° Lorsque l'exposition au bruit dépasse les valeurs d'exposition inférieures définies au 3° de l'article R. 4431-2, l'employeur met des protecteurs auditifs individuels à la disposition des travailleurs ;  

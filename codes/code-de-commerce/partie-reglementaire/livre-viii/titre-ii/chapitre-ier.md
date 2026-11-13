@@ -749,7 +749,7 @@ L'intéressé doit subir une épreuve d'aptitude dans les conditions prévues à
 - Identifiant : LEGIARTI000048877818
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048877818
-- Renvoie à : [art. R821-49 du Code de commerce](chapitre-ier.md#article-r821-49) ; [art. L114 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796446) ; [art. L146-9 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796672)
+- Renvoie à : [art. R821-49 du Code de commerce](chapitre-ier.md#article-r821-49) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114) ; [art. L146-9 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-iv/chapitre-vi.md#article-l146-9)
 - Cité par : [art. A821-34 du Code de commerce](../../../partie-arretes/livre-viii/titre-ii/chapitre-ier.md#article-a821-34) ; [art. D822-4 du Code de commerce](chapitre-ii.md#article-d822-4) ; [art. R821-55 du Code de commerce](chapitre-ier.md#article-r821-55)
 
 Les candidats au certificat préparatoire aux fonctions de commissaire aux comptes, au certificat d'aptitude aux fonctions de commissaire aux comptes, ainsi qu'à l'épreuve d'aptitude mentionnée à l'article R. 821-49, qui présentent un handicap au sens de l'article L. 114 du code de l'action sociale et des familles bénéficient des aménagements rendus nécessaires par leur situation.
@@ -827,7 +827,7 @@ La décision du garde des sceaux, ministre de la justice, précise les matières
 - Identifiant : LEGIARTI000048877798
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048877798
-- Renvoie à : [art. L821-18 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-18) ; [art. L821-54 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-54) ; [art. R821-51 du Code de commerce](chapitre-ier.md#article-r821-51) ; [art. L114 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796446)
+- Renvoie à : [art. L821-18 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-18) ; [art. L821-54 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-54) ; [art. R821-51 du Code de commerce](chapitre-ier.md#article-r821-51) ; [art. L114 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iv.md#article-l114)
 
 Les candidats à l'épreuve mentionnée au 3° de l'article L. 821-18, ainsi qu'à l'épreuve d'aptitude mentionnée à l'article R. 821-54, qui présentent un handicap au sens de l'article L. 114 du code de l'action sociale et des familles, bénéficient des aménagements rendus nécessaires par leur situation selon les modalités prévues à l'article R. 821-51.
 
@@ -1207,7 +1207,7 @@ Leurs droits et leurs devoirs sont déterminés par la deuxième phrase de l'art
 - Identifiant : LEGIARTI000048874842
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048874842
-- Renvoie à : [art. L641-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743758)
+- Renvoie à : [art. L641-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-iv/chapitre-1.md#article-l641-1)
 
 La profession de commissaire aux comptes exercée à titre individuel dans les conditions prévues par le présent titre entraîne l'affiliation de celui qui l'exerce à l'organisation autonome d'assurance vieillesse des professions libérales instituée par l'article L. 641-1 du code de la sécurité sociale.
 
@@ -2426,7 +2426,7 @@ La communication aux commissaires aux comptes des documents détenus par les tie
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048876323
 - Renvoie à : [art. L821-49 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-49) ; [art. L821-50 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-50) ; [art. 905 du Code de procédure civile](../../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-905)
-- Cité par : [art. R612-60 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048909545)
+- Cité par : [art. R513-16 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-iii.md#article-r513-16) ; [art. R612-60 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md#article-r612-60)
 
 Dans les cas prévus aux articles L. 821-49 et L. 821-50, le président du tribunal de commerce statue selon la procédure accélérée au fond sur la demande de récusation ou de relèvement de fonctions d'un commissaire aux comptes. La demande de récusation ou de relèvement de fonctions est formée contre le commissaire aux comptes et la personne ou l'entité auprès de laquelle il a été désigné. La demande de récusation est présentée dans les trente jours de sa désignation.
 
@@ -2504,7 +2504,7 @@ La réponse du bureau est adressée au commissaire aux comptes qui a formulé la
 - Identifiant : LEGIARTI000048876341
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048876341
-- Renvoie à : [art. L821-25 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-25) ; [art. R821-105 du Code de commerce](chapitre-ier.md#article-r821-105) ; art. L451-1-2 du Code monétaire et financier
+- Renvoie à : [art. L821-25 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-25) ; [art. R821-105 du Code de commerce](chapitre-ier.md#article-r821-105) ; [art. L451-1-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-v/chapitre-ier.md#article-l451-1-2)
 - Cité par : [art. A821-97 du Code de commerce](../../../partie-arretes/livre-viii/titre-ii/chapitre-ier.md#article-a821-97) ; [art. A821-97-1 du Code de commerce](../../../partie-arretes/livre-viii/titre-ii/chapitre-ier.md#article-a821-97-1) ; [art. D821-181 du Code de commerce](chapitre-ier.md#article-d821-181) ; [art. D821-186 du Code de commerce](chapitre-ier.md#article-d821-186) ; [art. D821-198 du Code de commerce](chapitre-ier.md#article-d821-198)
 
 Dans leur rapport relatif à la certification des comptes destiné à l'assemblée générale ordinaire, les commissaires aux comptes précisent, outre les mentions prévues à l'article R. 821-105 :  
@@ -2801,7 +2801,7 @@ Les dispositions de l'article D. 821-188 ne s'appliquent pas à la rémunératio
 - Identifiant : LEGIARTI000048876380
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048876380
-- Renvoie à : [art. D821-188 du Code de commerce](chapitre-ier.md#article-d821-188) ; [art. D821-189 du Code de commerce](chapitre-ier.md#article-d821-189) ; [art. L2135-1 du Code du travail](../../../../code-du-travail/partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-1) ; art. L321-1 du Code de l'urbanisme ; [Code de la mutualité](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074067) ; art. L114-8 du Code de la sécurité sociale ; [Code des assurances](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006073984) ; [Code monétaire et financier](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072026) ; [art. R513-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029714148)
+- Renvoie à : [art. D821-188 du Code de commerce](chapitre-ier.md#article-d821-188) ; [art. D821-189 du Code de commerce](chapitre-ier.md#article-d821-189) ; [art. L321-1 du Code de l'urbanisme](../../../../code-de-l-urbanisme/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-1) ; [art. L114-8 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-i/chapitre-4-bis.md#article-l114-8) ; [art. L2135-1 du Code du travail](../../../../code-du-travail/partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-1) ; [art. R513-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-iii.md#article-r513-2) ; [Code de la mutualité](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074067) ; [Code des assurances](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006073984) ; [Code monétaire et financier](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072026)
 
 Les dispositions des articles D. 821-188 et D. 821-189 ne sont pas applicables aux :  
 
@@ -2945,7 +2945,7 @@ Le commissaire aux comptes d'une entité d'intérêt public communique à la dem
 - Identifiant : LEGIARTI000048876410
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048876410
-- Renvoie à : [art. 555 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576939) ; [art. R181 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518136)
+- Renvoie à : [art. R181 du Code de procédure pénale](../../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ii.md#article-r181) ; [art. 555 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006576939)
 - Cité par : [art. R822-31 du Code de commerce](chapitre-ii.md#article-r822-31)
 
 Les notifications et convocations prévues par la présente section sont effectuées par lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé, acte d'huissier ou par tout autre moyen permettant de s'assurer de la date de sa réception.  
@@ -2959,7 +2959,7 @@ Lorsqu'une notification est effectuée par un huissier de justice, celui-ci proc
 - État : en vigueur depuis le 01/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048876412
 - Renvoie à : art. L500-1 du Code monétaire et financier
-- Cité par : [art. R820-13 du Code de commerce](chapitre-preliminaire.md#article-r820-13) ; [art. R821-206 du Code de commerce](chapitre-ier.md#article-r821-206) ; [art. R821-207 du Code de commerce](chapitre-ier.md#article-r821-207)
+- Cité par : [art. R820-13 du Code de commerce](chapitre-preliminaire.md#article-r820-13) ; [art. R821-206 du Code de commerce](chapitre-ier.md#article-r821-206) ; [art. R821-207 du Code de commerce](chapitre-ier.md#article-r821-207) ; [art. R561-57 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-vi/chapitre-ier.md#article-r561-57)
 
 I.-Peuvent être habilitées en qualité d'enquêteurs les personnes qui justifient d'une expérience professionnelle d'au moins trois années dans les domaines juridique, comptable, financier, de la certification des comptes, de l'information financière ou des informations en matière de durabilité et n'ayant pas fait l'objet de l'une des condamnations mentionnées à l'article L. 500-1 du code monétaire et financier.  
 

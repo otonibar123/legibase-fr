@@ -7,7 +7,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 01/05/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030420986
 - Renvoie à : [art. L4231-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ii/titre-iii/chapitre-unique.md#article-l4231-1)
-- Cité par : [art. R1262-19 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-19) ; [art. R4231-4 du Code du travail](chapitre-unique.md#article-r4231-4) ; [art. R1331-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046477168)
+- Cité par : [art. R1331-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-i.md#article-r1331-6) ; [art. R1262-19 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-19) ; [art. R4231-4 du Code du travail](chapitre-unique.md#article-r4231-4)
 
 Pour la mise en œuvre de l'injonction prévue à l'article L. 4231-1, l'agent de contrôle apprécie notamment la vétusté manifeste des locaux ou des installations d'hébergement collectif, leur salubrité, leur taille, leur nombre ou leur équipement.
 

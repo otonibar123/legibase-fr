@@ -12,8 +12,8 @@ Code du travail › Partie réglementaire › Cinquième partie : L'emploi › L
 - Identifiant : LEGIARTI000018525084
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018525084
-- Renvoie à : [art. L5421-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l5421-3) ; [art. L5423-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l5423-1) ; [art. R342-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006749334) ; [art. R5421-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018496208)
-- Cité par : [art. D5424-62 du Code du travail](chapitre-iv.md#article-d5424-62) ; [art. R5423-2 du Code du travail](chapitre-iii.md#article-r5423-2) ; [art. R5423-6 du Code du travail](chapitre-iii.md#article-r5423-6) ; [art. R5524-2 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r5524-2) ; [art. R522-67 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023397044)
+- Renvoie à : [art. R342-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iv/chapitre-2.md#article-r342-2) ; [art. L5421-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l5421-3) ; [art. L5423-1 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iii.md#article-l5423-1) ; [art. R5421-1 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018496208)
+- Cité par : [art. R522-67 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-v/titre-ii/chapitre-ii.md#article-r522-67) ; [art. D5424-62 du Code du travail](chapitre-iv.md#article-d5424-62) ; [art. R5423-2 du Code du travail](chapitre-iii.md#article-r5423-2) ; [art. R5423-6 du Code du travail](chapitre-iii.md#article-r5423-6) ; [art. R5524-2 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r5524-2)
 
 Pour bénéficier de l'allocation de solidarité spécifique, les personnes mentionnées à l'article L. 5423-1 :
 
@@ -27,7 +27,7 @@ Pour bénéficier de l'allocation de solidarité spécifique, les personnes ment
 - Identifiant : LEGIARTI000018525082
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018525082
-- Renvoie à : [art. R5423-1 du Code du travail](chapitre-iii.md#article-r5423-1) ; [art. 50-0 du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006302438) ; art. 50-0 du Code général des impôts
+- Renvoie à : [art. R5423-1 du Code du travail](chapitre-iii.md#article-r5423-1) ; [art. 50-0 du Code général des impôts](../../../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-50-0)
 - Cité par : [art. R5524-2 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r5524-2) ; [Décret n°2010-575 du 31 mai 2010, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820497)
 
 Les ressources prises en considération pour l'application du plafond prévu au 3° de l'article R. 5423-1 comprennent l'allocation de solidarité ainsi que les autres ressources de l'intéressé et, le cas échéant, de son conjoint, partenaire lié par un pacte civil de solidarité ou concubin, telles qu'elles doivent être déclarées à l'administration fiscale pour le calcul de l'impôt sur le revenu avant déduction des divers abattements. Toutefois ces dispositions ne s'appliquent pas lorsque le conjoint, partenaire lié par un pacte civil de solidarité ou concubin du demandeur est dirigeant d'une entreprise entrant dans le champ d'application de l'article 50-0 du code général des impôts.
@@ -40,7 +40,7 @@ Les ressources perçues hors du territoire national sont prises en compte comme 
 - Identifiant : LEGIARTI000045920175
 - État : en vigueur depuis le 17/06/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045920175
-- Renvoie à : [art. L5424-25 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-l5424-25) ; [art. L5425-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-v.md#article-l5425-3) ; [art. L821-1 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038814466) ; [Ordonnance n° 58-1360 du 29 décembre 1958, art. 4-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042995742)
+- Renvoie à : [art. L262-11 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-11) ; [art. L821-1 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-viii/titre-ii/chapitre-ier.md#article-l821-1) ; [art. L5424-25 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-l5424-25) ; [art. L5425-3 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-v.md#article-l5425-3) ; [Ordonnance n° 58-1360 du 29 décembre 1958, art. 4-3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042995742)
 - Cité par : [Décret n°2010-575 du 31 mai 2010, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049820497)
 
 Ne sont pas prises en compte pour la détermination du droit à l'allocation de solidarité spécifique, les ressources suivantes :
@@ -131,6 +131,7 @@ Dans les cas où la condition de ressources est applicable aux bénéficiaires, 
 - Identifiant : LEGIARTI000049816604
 - État : en vigueur depuis le 01/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049816604
+- Renvoie à : [art. R213-10 du Code de justice administrative](../../../../../code-de-justice-administrative/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md#article-r213-10)
 - Cité par : [art. D5424-62 du Code du travail](chapitre-iv.md#article-d5424-62)
 
 La personne qui entend contester une décision relative à l'attribution ou au renouvellement de l'allocation de solidarité spécifique engage une médiation auprès du médiateur régional de l'opérateur France Travail dans les conditions prévues aux articles R. 213-10 à R. 213-13 du code de justice administrative.

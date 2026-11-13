@@ -7,7 +7,7 @@ Code de commerce › Partie législative › LIVRE II : Des sociétés commercia
 - État : en vigueur depuis le 27/07/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006228726
 - Renvoie à : [art. L210-3 du Code de commerce](../titre-ier.md#article-l210-3)
-- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. L920-1 du Code de commerce](../../livre-ix/titre-ii/articles-directs.md#article-l920-1) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L137-30 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053151619) ; [art. L651-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034387625)
+- Cité par : [art. L910-1 du Code de commerce](../../livre-ix/titre-ier/articles-directs.md#article-l910-1) ; [art. L920-1 du Code de commerce](../../livre-ix/titre-ii/articles-directs.md#article-l920-1) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L651-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-vi/titre-v/chapitre-1er.md#article-l651-1) ; [art. L137-30 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053151619)
 
 Les sociétés européennes immatriculées en France au registre du commerce et des sociétés ont la personnalité juridique à compter de leur immatriculation.  
 
@@ -69,7 +69,7 @@ Lorsqu'une décision judiciaire prononçant la dissolution d'une société europ
 - Identifiant : LEGIARTI000019121688
 - État : en vigueur depuis le 05/07/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019121688
-- Cité par : [art. L322-29 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027886118) ; [art. L511-13-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027824350) ; [art. L532-3-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027824677) ; [art. L532-9-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006657394)
+- Cité par : [art. L322-29 du Code des assurances](../../../../code-des-assurances/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-29) ; [art. L511-13-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-13-1) ; [art. L532-3-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-ii.md#article-l532-3-2) ; [art. L532-9-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iii/chapitre-ii.md#article-l532-9-2)
 
 L'autorité compétente pour s'opposer, conformément aux dispositions du 14 de l'article 8 et de l'article 19 du règlement (CE) n° 2157/2001 du Conseil du 8 octobre 2001, précité, au transfert de siège social d'une société européenne immatriculée en France et dont résulterait un changement du droit applicable ainsi qu'à la constitution d'une société européenne par voie de fusion impliquant une société relevant du droit français, est le procureur de la République.
 
@@ -179,7 +179,7 @@ La transformation en société anonyme est décidée selon les dispositions pré
 - Identifiant : LEGIARTI000039260191
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260191
-- Renvoie à : art. L411-2 du Code monétaire et financier ; [art. L411-2-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039249830)
+- Renvoie à : [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1)
 - Cité par : [art. L229-14 du Code de commerce](chapitre-ix.md#article-l229-14) ; [art. L229-15 du Code de commerce](chapitre-ix.md#article-l229-15)
 
 Les statuts d'une société européenne qui n'entend pas offrir au public ses actions, ou qui entend procéder à l'une des offres mentionnées aux 1° et 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, peuvent soumettre tout transfert d'actions à des restrictions à la libre négociabilité sans que ces restrictions ne puissent avoir pour effet de rendre ces actions inaliénables pour une durée excédant dix ans.
@@ -190,7 +190,7 @@ Toute cession réalisée en violation de ces clauses statutaires est nulle. Cett
 - Identifiant : LEGIARTI000039260188
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260188
-- Renvoie à : art. L411-2 du Code monétaire et financier
+- Renvoie à : [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2)
 
 Dans les conditions qu'ils déterminent, les statuts d'une société européenne qui n'entend pas offrir au public ses actions, ou qui entend procéder à l'une des offres mentionnées aux 1° et 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, peuvent prévoir qu'un actionnaire peut être tenu de céder ses actions. Ils peuvent également prévoir la suspension des droits non pécuniaires de cet actionnaire tant que celui-ci n'a pas procédé à cette cession.
 
@@ -198,7 +198,7 @@ Dans les conditions qu'ils déterminent, les statuts d'une société européenne
 - Identifiant : LEGIARTI000039260184
 - État : en vigueur depuis le 23/10/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039260184
-- Renvoie à : [art. L233-16 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-16) ; art. L411-2 du Code monétaire et financier ; [art. L411-2-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039249830)
+- Renvoie à : [art. L233-16 du Code de commerce](../titre-iii/chapitre-iii.md#article-l233-16) ; [art. L411-2 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2) ; [art. L411-2-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2-1)
 
 Les statuts d'une société européenne qui n'entend pas offrir au public ses actions, ou qui entend procéder à l'une des offres mentionnées aux 1° et 2° de l'article L. 411-2 du code monétaire et financier ou à l'article L. 411-2-1 du même code, peuvent prévoir que la société actionnaire dont le contrôle est modifié au sens de l'article L. 233-16 doit, dès cette modification, en informer la société européenne. Celle-ci peut décider, dans les conditions fixées par les statuts, de suspendre l'exercice des droits non pécuniaires de cet actionnaire et de l'exclure. Les dispositions du premier alinéa peuvent s'appliquer, dans les mêmes conditions, à l'actionnaire qui a acquis cette qualité à la suite d'une opération de fusion, de scission ou de dissolution.
 

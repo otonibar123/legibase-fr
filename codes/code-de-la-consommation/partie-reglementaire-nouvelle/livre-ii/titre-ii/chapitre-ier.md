@@ -7,7 +7,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre II : FORMAT
 - État : en vigueur depuis le 28/05/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045418603
 - Renvoie à : [art. L221-5 du Code de la consommation](../../../partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-ier.md#article-l221-5)
-- Cité par : [art. Annexe 3-0 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047851019)
+- Cité par : [art. Annexe 3-0 du Code de l'action sociale et des familles](../../../../code-de-l-action-sociale-et-des-familles/annexe.md#article-annexe-3-0)
 
 Le formulaire type de rétractation mentionné au 7° de l'article L. 221-5 figure en annexe au présent code.
 

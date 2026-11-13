@@ -43,7 +43,7 @@ En cas d'inexécution, totale ou partielle, ou d'exécution tardive, le juge pro
 - Identifiant : LEGIARTI000049566977
 - État : en vigueur depuis le 17/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049566977
-- Renvoie à : [art. L133-1 du Code de la consommation](chapitre-iii.md#article-l133-1) ; art. 131-27 du Code pénal ; art. 131-38 du Code pénal
+- Renvoie à : [art. L133-1 du Code de la consommation](chapitre-iii.md#article-l133-1) ; [art. 121-2 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-121-2) ; [art. 131-27 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-27) ; [art. 131-38 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-38) ; [art. 131-39 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-39)
 
 Les personnes physiques coupables des délits punis à l'article L. 133-1 encourent également, à titre de peine complémentaire, l'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale.
 

@@ -1,0 +1,14 @@
+# Chapitre 00I : Imposition forfaitaire sur les entreprises de réseaux
+
+Code général des impôts › Livre premier : Assiette et liquidation de l'impôt › Deuxième Partie : Impositions perçues au profit des collectivités locales et de divers organismes › Titre V : Dispositions communes aux Titres I à III bis
+
+### Article 1635-0 quinquies
+- Identifiant : LEGIARTI000041471017
+- État : en vigueur depuis le 30/12/2019
+- Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041471017
+- Renvoie à : [art. 1519 D du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-d) ; [art. 1519 E du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-e) ; [art. 1599 quater A du Code général des impôts](../titre-ii-bis/chapitre-premier.md#article-1599-quater-a) ; [art. 1599 quater A bis du Code général des impôts](../titre-ii-bis/chapitre-premier.md#article-1599-quater-a-bis) ; [art. 1599 quater B du Code général des impôts](../titre-ii-bis/chapitre-premier.md#article-1599-quater-b)
+- Cité par : [art. 1519 D du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-d) ; [art. 1519 E du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-e) ; [art. 1519 F du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-f) ; [art. 1519 G du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-g) ; [art. 1519 H du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-h) ; [art. 1519 HA du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-ha) ; [art. 1519 HB du Code général des impôts](../titre-premier/chapitre-premier.md#article-1519-hb) ; [art. 1599 quater A du Code général des impôts](../titre-ii-bis/chapitre-premier.md#article-1599-quater-a) ; [art. 1599 quater A bis du Code général des impôts](../titre-ii-bis/chapitre-premier.md#article-1599-quater-a-bis) ; [art. 1599 quater B du Code général des impôts](../titre-ii-bis/chapitre-premier.md#article-1599-quater-b) ; [Arrêté du 15 septembre 2010](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022841226) ; [LOI n° 2017-1775 du 28 décembre 2017, art. 49](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036354060)
+
+I. – Il est institué au profit des collectivités territoriales ou de leurs établissements publics de coopération intercommunale une imposition forfaitaire sur les entreprises de réseaux. Cette imposition est déterminée dans les conditions prévues aux articles 1519 D, 1519 E, 1519 F, 1519 G, 1519 H, 1519 HA, 1519 HB, 1599 quater A, 1599 quater A bis et 1599 quater B.
+
+II. – Les montants et tarifs de l'imposition forfaitaire sur les entreprises de réseaux sont revalorisés chaque année comme le taux prévisionnel, associé au projet de loi de finances de l'année, d'évolution des prix à la consommation des ménages, hors tabac, pour la même année.

@@ -99,7 +99,7 @@ Les caractéristiques du local dédié à l'allaitement, prévu à l'article L. 
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043495230
 - Renvoie à : [art. L1225-28 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-28) ; [art. L1225-35 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-35)
-- Cité par : [Décret n°2004-942 du 3 septembre 2004, art. 28-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046917179)
+- Cité par : [art. D331-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-iii/chapitre-1er.md#article-d331-3) ; [Décret n°2004-942 du 3 septembre 2004, art. 28-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046917179)
 
 Le congé de paternité et d'accueil de l'enfant prévu à l'article L. 1225-35 est pris dans les six mois suivant la naissance de l'enfant.  
 
@@ -235,7 +235,7 @@ Il joint à sa demande les justificatifs la motivant.
 - Identifiant : LEGIARTI000018537794
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018537794
-- Renvoie à : [art. L1225-49 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-49) ; [art. L541-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743350)
+- Renvoie à : [art. L541-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-v/titre-iv/chapitre-1er.md#article-l541-1) ; [art. L1225-49 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-49)
 - Cité par : [art. R1524-5 du Code du travail](../../livre-v/titre-ii/chapitre-iv.md#article-r1524-5)
 
 Pour l'application de l'article L. 1225-49 :  
@@ -259,7 +259,7 @@ Les informations et demandes motivées prévues aux articles L. 1225-50 à L. 12
 - État : en vigueur depuis le 05/02/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049090537
 - Renvoie à : [art. L1225-62 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-62)
-- Cité par : [art. D544-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795053) ; [art. D544-9 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046415054) ; [art. R544-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049090518)
+- Cité par : [art. D544-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-4.md#article-d544-8) ; [art. D544-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-4.md#article-d544-9) ; [art. R544-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-iv/chapitre-4.md#article-r544-1)
 
 Au moins quinze jours avant le début du congé de présence parentale, le salarié informe son employeur par lettre recommandée avec avis de réception ou remise contre récépissé de sa volonté de bénéficier de ce congé. Il joint un certificat médical.
 
@@ -290,7 +290,7 @@ En cas de fractionnement du congé, la durée minimale de chaque période de con
 - Identifiant : LEGIARTI000041824242
 - État : en vigueur depuis le 26/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041824242
-- Renvoie à : [art. L1225-63 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-63) ; [art. R1225-15 du Code du travail](chapitre-v.md#article-r1225-15) ; art. D544-2 du Code de la sécurité sociale
+- Renvoie à : [art. D544-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-4.md#article-d544-2) ; [art. L1225-63 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-v.md#article-l1225-63) ; [art. R1225-15 du Code du travail](chapitre-v.md#article-r1225-15)
 
 La durée initiale de la période au cours de laquelle le salarié bénéficie du droit à congé de présence parentale fait l'objet d'un nouvel examen dans les conditions prévues à l'article D. 544-2 du code de la sécurité sociale. Ce nouvel examen donne lieu à un certificat médical, tel que prévu à l'article R. 1225-15 et qui est adressé à l'employeur.
 

@@ -7,7 +7,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035634273
 - Renvoie à : [art. L2314-1 du Code du travail](chapitre-iv.md#article-l2314-1)
-- Cité par : [art. L5543-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039786009)
+- Cité par : [art. L5543-5 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-iii.md#article-l5543-5)
 
 Le fait d'apporter une entrave soit à la constitution d'un comité social et économique, d'un comité social et économique d'établissement ou d'un comité social et économique central, soit à la libre désignation de leurs membres, notamment par la méconnaissance des dispositions des articles L. 2314-1 à L. 2314-9 est puni d'un emprisonnement d'un an et d'une amende de 7 500 €.  
 

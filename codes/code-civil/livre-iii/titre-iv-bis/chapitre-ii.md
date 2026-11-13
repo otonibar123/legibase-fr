@@ -13,7 +13,7 @@ Hors les cas où la loi en dispose autrement, la preuve peut être apportée par
 - Identifiant : LEGIARTI000032042311
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042311
-- Cité par : [art. 1924 du Code civil](../titre-xi/chapitre-ii.md#article-1924) ; [art. 1950 du Code civil](../titre-xi/chapitre-ii.md#article-1950) ; [art. L131-2 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042977) ; [Décret n°80-533 du 15 juillet 1980, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033202239) ; [Ordonnance n°98-774 du 2 septembre 1998, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043133)
+- Cité par : [art. 1924 du Code civil](../titre-xi/chapitre-ii.md#article-1924) ; [art. 1950 du Code civil](../titre-xi/chapitre-ii.md#article-1950) ; [art. L131-2 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ier.md#article-l131-2) ; [Décret n°80-533 du 15 juillet 1980, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033202239) ; [Ordonnance n°98-774 du 2 septembre 1998, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032043133)
 
 L'acte juridique portant sur une somme ou une valeur excédant un montant fixé par décret doit être prouvé par écrit sous signature privée ou authentique. Il ne peut être prouvé outre ou contre un écrit établissant un acte juridique, même si la somme ou la valeur n'excède pas ce montant, que par un autre écrit sous signature privée ou authentique.
 

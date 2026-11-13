@@ -16,7 +16,7 @@ La procédure de sauvegarde accélérée est soumise aux dispositions réglement
 - Identifiant : LEGIARTI000044096161
 - État : en vigueur depuis le 01/10/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044096161
-- Renvoie à : [art. L628-1 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-viii.md#article-l628-1) ; [art. R621-1 du Code de commerce](chapitre-ier.md#article-r621-1) ; art. L511-1 du Code monétaire et financier
+- Renvoie à : [art. L628-1 du Code de commerce](../../../partie-legislative/livre-vi/titre-ii/chapitre-viii.md#article-l628-1) ; [art. R621-1 du Code de commerce](chapitre-ier.md#article-r621-1) ; [art. L511-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-ier/chapitre-ier.md#article-l511-1)
 - Cité par : [art. R628-13 du Code de commerce](chapitre-viii.md#article-r628-13)
 
 I. ‒ En complément des pièces et informations mentionnées à l'article R. 621-1, la demande d'ouverture de la procédure expose les éléments démontrant que le projet de plan remplit les conditions prévues par le deuxième alinéa de l'article L. 628-1. La preuve du soutien prévu par ce texte, recueillie auprès des parties affectées, est apportée par tout moyen au plus tard au moment où le juge statue.

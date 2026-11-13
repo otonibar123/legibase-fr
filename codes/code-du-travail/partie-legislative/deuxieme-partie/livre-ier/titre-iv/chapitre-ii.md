@@ -9,7 +9,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - État : en vigueur depuis le 22/08/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019353709
 - Renvoie à : [art. L2131-1 du Code du travail](../titre-iii/chapitre-ier.md#article-l2131-1)
-- Cité par : [art. L2142-1-1 du Code du travail](chapitre-ii.md#article-l2142-1-1) ; [art. L1432-11 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042012916) ; [art. L4312-3-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038922452) ; [Décret n°2011-636 du 8 juin 2011, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024148616)
+- Cité par : [art. L1432-11 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-l1432-11) ; [art. L4312-3-2 du Code des transports](../../../../../code-des-transports/partie-legislative/quatrieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l4312-3-2) ; [art. L2142-1-1 du Code du travail](chapitre-ii.md#article-l2142-1-1) ; [Décret n°2011-636 du 8 juin 2011, art. 11](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024148616)
 
 Dès lors qu'ils ont plusieurs adhérents dans l'entreprise ou dans l'établissement, chaque syndicat qui y est représentatif, chaque syndicat affilié à une organisation syndicale représentative au niveau national et interprofessionnel ou chaque organisation syndicale qui satisfait aux critères de respect des valeurs républicaines et d'indépendance et est légalement constituée depuis au moins deux ans et dont le champ professionnel et géographique couvre l'entreprise concernée peut constituer au sein de l'entreprise ou de l'établissement une section syndicale qui assure la représentation des intérêts matériels et moraux de ses membres conformément à l'article L. 2131-1.
 
@@ -20,7 +20,7 @@ Dès lors qu'ils ont plusieurs adhérents dans l'entreprise ou dans l'établisse
 - État : en vigueur depuis le 24/03/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025578817
 - Renvoie à : [art. L2142-1 du Code du travail](chapitre-ii.md#article-l2142-1)
-- Cité par : [art. L2141-5-1 du Code du travail](chapitre-ier.md#article-l2141-5-1) ; [art. L2143-23 du Code du travail](chapitre-iii.md#article-l2143-23) ; [art. R1432-123 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023383098)
+- Cité par : [art. R1432-123 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-r1432-123) ; [art. L2141-5-1 du Code du travail](chapitre-ier.md#article-l2141-5-1) ; [art. L2143-23 du Code du travail](chapitre-iii.md#article-l2143-23)
 
 Chaque syndicat qui constitue, conformément à l'article L. 2142-1, une section syndicale au sein de l'entreprise ou de l'établissement d'au moins cinquante salariés peut, s'il n'est pas représentatif dans l'entreprise ou l'établissement, désigner un représentant de la section pour le représenter au sein de l'entreprise ou de l'établissement.
 
@@ -41,7 +41,7 @@ Les dispositions des articles L. 2143-1 et L. 2143-2 relatives aux conditions de
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033023287
 - Renvoie à : [art. L3121-58 du Code du travail](../../../troisieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l3121-58)
-- Cité par : [art. R2142-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r2142-1) ; [art. L6524-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042655830)
+- Cité par : [art. L6524-6 du Code des transports](../../../../../code-des-transports/partie-legislative/sixieme-partie/livre-v/titre-ii/chapitre-iv.md#article-l6524-6) ; [art. R2142-1 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-r2142-1)
 
 Chaque représentant de la section syndicale dispose d'un temps nécessaire à l'exercice de ses fonctions. Ce temps est au moins égal à quatre heures par mois. Les heures de délégation sont de plein droit considérées comme temps de travail et payées à l'échéance normale.
 

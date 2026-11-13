@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000036331738
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036331738
-- Renvoie à : [art. L4163-14 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-14) ; [art. L215-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741680)
+- Renvoie à : [art. L215-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-i/chapitre-5.md#article-l215-1) ; [art. L752-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-vii/titre-v/chapitre-2.md#article-l752-4) ; [art. L4163-14 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-14)
 - Cité par : [art. D4163-30-5 du Code du travail](chapitre-iii.md#article-d4163-30-5)
 
 Pour l'application du présent chapitre :  
@@ -230,7 +230,7 @@ En tant que de besoin et à l'initiative de l'entreprise utilisatrice, un avenan
 - Identifiant : LEGIARTI000036409881
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036409881
-- Renvoie à : [art. D4163-2 du Code du travail](chapitre-iii.md#article-d4163-2) ; [art. L4163-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-1) ; [art. L133-5-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741079) ; art. L133-5-10 du Code de la sécurité sociale ; [art. L244-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742082) ; art. R133-14 du Code de la sécurité sociale ; art. L723-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L133-5-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-3) ; [art. L133-5-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-6) ; [art. L133-5-10 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-10) ; [art. L244-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-4.md#article-l244-3) ; [art. R133-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-3-bis.md#article-r133-14) ; [art. D4163-2 du Code du travail](chapitre-iii.md#article-d4163-2) ; [art. L4163-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-1) ; [art. L723-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-2)
 - Cité par : [art. R4163-9 du Code du travail](chapitre-iii.md#article-r4163-9)
 
 I.-Au terme de chaque année civile et au plus tard au titre de la paie du mois de décembre, l'employeur déclare, dans le cadre de la déclaration prévue à l'article L. 133-5-3 du code de la sécurité sociale auprès de l'organisme gestionnaire au niveau local ou de la caisse mentionnée à l'article L. 723-2 du code rural et de la pêche maritime, pour les travailleurs titulaires d'un contrat de travail qui demeure en cours à la fin de l'année civile, le ou les facteurs de risques professionnels définis à l'article L. 4163-1 du présent code auxquels ils ont été exposés au-delà des seuils fixés à l'article D. 4163-2 au cours de l'année civile considérée.  
@@ -278,7 +278,7 @@ Par dérogation aux dispositions de l'article R. 4163-9, pour les assurés nés 
 - Identifiant : LEGIARTI000047962401
 - État : en vigueur depuis le 01/09/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047962401
-- Renvoie à : [art. L4163-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-7) ; [art. L6323-11 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-11) ; art. L351-6-1 du Code de la sécurité sociale
+- Renvoie à : [art. L351-6-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-6-1) ; [art. L4163-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-7) ; [art. L6323-11 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ii/chapitre-iii.md#article-l6323-11)
 - Cité par : [art. D4163-47 du Code du travail](chapitre-iii-2.md#article-d4163-47) ; [art. D4163-48 du Code du travail](chapitre-iii-2.md#article-d4163-48) ; [art. R4163-12 du Code du travail](chapitre-iii.md#article-r4163-12)
 
 Les points inscrits sur le compte professionnel de prévention sont utilisés de la façon suivante :  
@@ -404,7 +404,7 @@ Les points inscrits au compte professionnel de prévention mobilisés pour la fo
 - Identifiant : LEGIARTI000047962384
 - État : en vigueur depuis le 01/09/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047962384
-- Renvoie à : [art. L4163-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-7) ; [art. R4163-15 du Code du travail](chapitre-iii.md#article-r4163-15) ; art. R432-9-6 du Code de la sécurité sociale
+- Renvoie à : [art. R432-9-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iii/chapitre-2.md#article-r432-9-6) ; [art. L4163-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-7) ; [art. R4163-15 du Code du travail](chapitre-iii.md#article-r4163-15)
 - Cité par : [Décret n°2018-1256 du 27 décembre 2018](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000037925400)
 
 Pour chaque action de formation financée dans le cadre du compte personnel de formation abondé par le compte professionnel de prévention dans le cadre du 1° du I de l'article L. 4163-7, la Caisse des dépôts et consignations fournit à l'organisme mentionné au deuxième alinéa de l'article R. 4163-15 l'attestation prévue par l'article R. 432-9-6 du code de la sécurité sociale.  
@@ -466,7 +466,7 @@ Une fois ces éléments transmis à l'organisme, celui-ci procède au remboursem
 - Identifiant : LEGIARTI000037457280
 - État : en vigueur depuis le 01/01/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037457280
-- Renvoie à : [art. D4163-26 du Code du travail](chapitre-iii.md#article-d4163-26) ; art. L242-1 du Code de la sécurité sociale
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. D4163-26 du Code du travail](chapitre-iii.md#article-d4163-26)
 - Cité par : [art. D4163-47 du Code du travail](chapitre-iii-2.md#article-d4163-47) ; [Arrêté du 30 décembre 2015, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036495142)
 
 Le montant du complément de rémunération est déterminé en appliquant le coefficient de réduction de la durée du travail mentionné à l'article D. 4163-26, aux revenus d'activité tels qu'ils sont pris en compte pour la détermination de l'assiette des cotisations définie à l'article L. 242-1 du code de la sécurité sociale qui seraient perçus par le salarié s'il ne bénéficiait pas de cette réduction du temps de travail.

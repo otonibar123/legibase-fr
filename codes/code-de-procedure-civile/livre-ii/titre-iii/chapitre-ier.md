@@ -20,7 +20,7 @@ Sauf dans le cas prévu à l'article 1545, la demande en justice est formée par
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624001
 - Renvoie à : [art. 54 du Code de procédure civile](../../livre-ier/titre-iv/chapitre-ier.md#article-54) ; [art. 56 du Code de procédure civile](../../livre-ier/titre-iv/chapitre-ier.md#article-56) ; [art. 861-2 du Code de procédure civile](chapitre-ier.md#article-861-2)
-- Cité par : [art. R14 du Code électoral](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006354418)
+- Cité par : [art. R14 du Code électoral](../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r14)
 
 L'assignation contient, à peine de nullité, outre les mentions prescrites par les articles 54 et 56, les nom, prénoms et adresse de la personne chez qui le demandeur élit domicile en France s'il réside à l'étranger.  
 
@@ -48,7 +48,7 @@ Cette remise doit avoir lieu au plus tard huit jours avant la date de l'audience
 - Identifiant : LEGIARTI000006411442
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411442
-- Cité par : [art. R14 du Code électoral](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006354418)
+- Cité par : [art. R14 du Code électoral](../../../code-electoral/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r14)
 
 En cas d'urgence, les délais de comparution et de remise de l'assignation peuvent être réduits par autorisation du président du tribunal.  
 

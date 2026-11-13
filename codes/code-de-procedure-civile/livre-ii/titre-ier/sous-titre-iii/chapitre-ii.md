@@ -40,7 +40,7 @@ Les pouvoirs du président du tribunal judiciaire prévus aux deux articles pré
 - Identifiant : LEGIARTI000042579486
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042579486
-- Renvoie à : [art. 828 du Code de procédure civile](chapitre-ier.md#article-828) ; [art. 829 du Code de procédure civile](chapitre-ier.md#article-829) ; art. L212-5-1 du Code de l'organisation judiciaire
+- Renvoie à : [art. L212-5-1 du Code de l'organisation judiciaire](../../../../code-de-l-organisation-judiciaire/partie-legislative/livre-ii/titre-ier/chapitre-ii.md#article-l212-5-1) ; [art. 828 du Code de procédure civile](chapitre-ier.md#article-828) ; [art. 829 du Code de procédure civile](chapitre-ier.md#article-829)
 
 A tout moment de la procédure, les parties peuvent donner expressément leur accord pour que la procédure se déroule sans audience conformément aux dispositions de l'article L. 212-5-1 du code de l'organisation judiciaire. Dans ce cas, il est fait application de l'article 828 et, lorsque la représentation par avocat n'est pas obligatoire, de l'article 829.
 

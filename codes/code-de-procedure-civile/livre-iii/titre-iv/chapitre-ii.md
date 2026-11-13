@@ -9,7 +9,7 @@ Code de procédure civile › Livre III : Dispositions particulières à certain
 - État : en vigueur depuis le 19/09/1981
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006412552
 - Renvoie à : [Loi n° 81-1 du 2 janvier 1981](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000705348)
-- Cité par : [art. R643-20 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md#article-r643-20) ; [Arrêté du 3 mars 2011, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023847142) ; [art. D632-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018846177)
+- Cité par : [art. R643-20 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md#article-r643-20) ; [art. D632-8 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md#article-d632-8) ; [Arrêté du 3 mars 2011, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023847142)
 
 Le recouvrement d'une créance peut être demandé suivant la procédure d'injonction de payer lorsque :  
 
@@ -39,7 +39,7 @@ Les règles prescrites aux alinéas précédents sont d'ordre public. Toute clau
 - État : en vigueur depuis le 01/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044200316
 - Renvoie à : [art. 57 du Code de procédure civile](../../livre-ier/titre-iv/chapitre-ier.md#article-57)
-- Cité par : [art. R142-10-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037544177)
+- Cité par : [art. R142-10-8 du Code de la sécurité sociale](../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-10-8)
 
 La demande est formée par requête remise ou adressée, selon le cas, au greffe par le créancier ou par tout mandataire. Outre les mentions prescrites par l'article 57, la requête contient l'indication précise du montant de la somme réclamée avec le décompte des différents éléments de la créance, le fondement de celle-ci ainsi que le bordereau des documents justificatifs produits à l'appui de la requête. Elle est accompagnée de ces documents.
 
@@ -506,5 +506,6 @@ En cas de décision d'incompétence, l'affaire est renvoyée devant la juridicti
 - Identifiant : LEGIARTI000053775887
 - État : en vigueur depuis le 09/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053775887
+- Renvoie à : [art. 1635 bis Q du Code général des impôts](../../../code-general-des-impots/livre-premier/deuxieme-partie/titre-iii/chapitre-iii.md#article-1635-bis-q)
 
 Si le juge rejette la requête, la décision est sans recours pour le requérant, sauf à celui-ci à procéder selon les voies de droit commun. La requête et les documents produits sont restitués au requérant. En application du IV de l'article 1635 bis Q du code général des impôts, il n'est pas dû de nouvelle contribution pour l'aide juridique par le requérant qui justifie l'avoir acquittée au titre de sa requête en injonction de faire.

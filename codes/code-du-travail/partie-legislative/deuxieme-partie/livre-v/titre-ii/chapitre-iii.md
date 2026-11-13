@@ -35,7 +35,7 @@ Les listes de médiateurs sont dressées après consultation et examen des sugge
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902406
 - Renvoie à : [art. L2522-3 du Code du travail](chapitre-ii.md#article-l2522-3)
-- Cité par : [art. L2523-8 du Code du travail](chapitre-iii.md#article-l2523-8) ; [art. L2525-1 du Code du travail](chapitre-v.md#article-l2525-1) ; [art. L1114-5 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025541655) ; [art. L1324-9 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023085499)
+- Cité par : [art. L1114-5 du Code des transports](../../../../../code-des-transports/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-iv.md#article-l1114-5) ; [art. L1324-9 du Code des transports](../../../../../code-des-transports/partie-legislative/premiere-partie/livre-iii/titre-ii/chapitre-iv.md#article-l1324-9) ; [art. L2523-8 du Code du travail](chapitre-iii.md#article-l2523-8) ; [art. L2525-1 du Code du travail](chapitre-v.md#article-l2525-1)
 
 Le médiateur convoque les parties dans les conditions mentionnées à l'article L. 2522-3.
 

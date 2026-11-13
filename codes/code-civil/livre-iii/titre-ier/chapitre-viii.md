@@ -46,7 +46,7 @@ Le deuxième alinéa de l'article 815-5 n'est pas applicable en cas de licitatio
 - Identifiant : LEGIARTI000006433250
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433250
-- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L321-25 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583386) ; [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L321-25 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-25) ; [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692)
 
 A la demande d'un indivisaire, le tribunal peut surseoir au partage pour deux années au plus si sa réalisation immédiate risque de porter atteinte à la valeur des biens indivis ou si l'un des indivisaires ne peut reprendre l'entreprise agricole, commerciale, industrielle, artisanale ou libérale dépendant de la succession qu'à l'expiration de ce délai. Ce sursis peut s'appliquer à l'ensemble des biens indivis ou à certains d'entre eux seulement.  
 
@@ -57,7 +57,7 @@ S'il y a lieu, la demande de sursis au partage peut porter sur des droits sociau
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433261
 - Renvoie à : [art. 822 du Code civil](chapitre-viii.md#article-822)
-- Cité par : [art. L323-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583448) ; [art. L411-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583724) ; [Nouveau code de procédure civile, art. 1381](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412550)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L323-6 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-iii.md#article-l323-6) ; [art. L411-2 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ier.md#article-l411-2)
 
 A défaut d'accord amiable, l'indivision de toute entreprise agricole, commerciale, industrielle, artisanale ou libérale, dont l'exploitation était assurée par le défunt ou par son conjoint, peut être maintenue dans les conditions fixées par le tribunal à la demande des personnes mentionnées à l'article 822.  
 
@@ -71,7 +71,7 @@ Le maintien de l'indivision demeure possible lors même que l'entreprise compren
 - Identifiant : LEGIARTI000006433366
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433366
-- Cité par : [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692) ; [Nouveau code de procédure civile, art. 1381](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412550)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692)
 
 L'indivision peut également être maintenue, à la demande des mêmes personnes et dans les conditions fixées par le tribunal, en ce qui concerne la propriété du local d'habitation ou à usage professionnel qui, à l'époque du décès, était effectivement utilisé pour cette habitation ou à cet usage par le défunt ou son conjoint. Il en est de même des objets mobiliers garnissant le local d'habitation ou servant à l'exercice de la profession.
 
@@ -122,7 +122,7 @@ Elle est augmentée des valeurs soumises à rapport ou à réduction, ainsi que 
 - Identifiant : LEGIARTI000006432575
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432575
-- Cité par : [art. 945 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-945)
+- Cité par : [art. 945 du Code de procédure civile](../../../code-de-procedure-civile/livre-ii/titre-vi/sous-titre-ier/chapitre-ier.md#article-945) ; [art. R34 du Code du domaine de l'Etat](../../../code-du-domaine-de-l-etat/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md#article-r34)
 
 L'égalité dans le partage est une égalité en valeur.  
 
@@ -136,7 +136,7 @@ Si la consistance de la masse ne permet pas de former des lots d'égale valeur, 
 - Identifiant : LEGIARTI000006432585
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432585
-- Cité par : [LOI n° 2018-1244 du 27 décembre 2018, art. 2-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049397339) ; [LOI n° 2019-786 du 26 juillet 2019, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038844036) ; [LOI n°2024-322 du 9 avril 2024, art. 51](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049394311)
+- Cité par : [art. R34 du Code du domaine de l'Etat](../../../code-du-domaine-de-l-etat/partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md#article-r34) ; [LOI n° 2018-1244 du 27 décembre 2018, art. 2-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049397339) ; [LOI n° 2019-786 du 26 juillet 2019, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038844036) ; [LOI n°2024-322 du 9 avril 2024, art. 51](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049394311)
 
 Le partage de la masse s'opère par tête. Toutefois, il se fait par souche quand il y a lieu à représentation. Une fois opéré le partage par souche, une répartition distincte est opérée, le cas échéant, entre les héritiers de chaque souche.
 
@@ -152,7 +152,7 @@ Lorsque le débiteur d'une soulte a obtenu des délais de paiement et que, par s
 - Identifiant : LEGIARTI000006432602
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432602
-- Cité par : [art. 832-4 du Code civil](chapitre-viii.md#article-832-4) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379)
+- Cité par : [art. 832-4 du Code civil](chapitre-viii.md#article-832-4) ; [art. 1379 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1379) ; [art. L621-29-7 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-vi/titre-ii/chapitre-1er.md#article-l621-29-7)
 
 En vue de leur répartition, les biens sont estimés à leur valeur à la date de la jouissance divise telle qu'elle est fixée par l'acte de partage, en tenant compte, s'il y a lieu, des charges les grevant.  
 
@@ -174,7 +174,7 @@ Dans la formation et la composition des lots, on s'efforce d'éviter de diviser 
 - Identifiant : LEGIARTI000006432621
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432621
-- Cité par : [art. 515-6 du Code civil](../../livre-ier/titre-xiii/chapitre-ier.md#article-515-6) ; [art. 824 du Code civil](chapitre-viii.md#article-824) ; [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832 du Code civil](chapitre-viii.md#article-832) ; [art. 832-1 du Code civil](chapitre-viii.md#article-832-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 833 du Code civil](chapitre-viii.md#article-833) ; [art. 1873-13 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-13) ; [art. L321-23 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583382) ; [art. L321-24 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583384) ; [art. L322-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037114241) ; [LOI n°2010-1487 du 7 décembre 2010, art. 30](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023176289)
+- Cité par : [art. 515-6 du Code civil](../../livre-ier/titre-xiii/chapitre-ier.md#article-515-6) ; [art. 824 du Code civil](chapitre-viii.md#article-824) ; [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832 du Code civil](chapitre-viii.md#article-832) ; [art. 832-1 du Code civil](chapitre-viii.md#article-832-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 833 du Code civil](chapitre-viii.md#article-833) ; [art. 1873-13 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-13) ; [art. L321-23 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-23) ; [art. L321-24 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-24) ; [art. L322-14 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-14) ; [LOI n°2010-1487 du 7 décembre 2010, art. 30](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023176289)
 
 Le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle par voie de partage, à charge de soulte s'il y a lieu, de toute entreprise, ou partie d'entreprise agricole, commerciale, industrielle, artisanale ou libérale ou quote-part indivise d'une telle entreprise, même formée pour une part de biens dont il était déjà propriétaire ou copropriétaire avant le décès, à l'exploitation de laquelle il participe ou a participé effectivement. Dans le cas de l'héritier, la condition de participation peut être ou avoir été remplie par son conjoint ou ses descendants.  
 
@@ -219,7 +219,7 @@ Les droits résultant de l'attribution préférentielle ne préjudicient pas aux
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433273
 - Renvoie à : [art. 831 du Code civil](chapitre-viii.md#article-831)
-- Cité par : [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832-1 du Code civil](chapitre-viii.md#article-832-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 832-4 du Code civil](chapitre-viii.md#article-832-4) ; [art. 833 du Code civil](chapitre-viii.md#article-833) ; [art. 1722 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006313662) ; [art. 397 du Code général des impôts, annexe III](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048852299) ; [art. D341-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006591408) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694)
+- Cité par : [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832-1 du Code civil](chapitre-viii.md#article-832-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 832-4 du Code civil](chapitre-viii.md#article-832-4) ; [art. 833 du Code civil](chapitre-viii.md#article-833) ; [art. 1722 bis du Code général des impôts](../../../code-general-des-impots/livre-ii/chapitre-premier.md#article-1722-bis) ; [art. 397 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-premier.md#article-397) ; [art. D341-4 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md#article-d341-4) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694)
 
 L'attribution préférentielle visée à l'article 831 est de droit pour toute exploitation agricole qui ne dépasse pas les limites de superficie fixées par décret en Conseil d'Etat, si le maintien dans l'indivision n'a pas été ordonné.
 
@@ -228,7 +228,7 @@ L'attribution préférentielle visée à l'article 831 est de droit pour toute e
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233271
 - Renvoie à : [art. 831 du Code civil](chapitre-viii.md#article-831) ; [art. 832 du Code civil](chapitre-viii.md#article-832)
-- Cité par : [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L322-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037114241) ; [art. L323-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583448) ; [art. L143-6 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715927) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°2006-728 du 23 juin 2006, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284874) ; [Loi n°61-1378 du 19 décembre 1961, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283689) ; [Loi n°61-1378 du 19 décembre 1961, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283690) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694)
+- Cité par : [art. 831-1 du Code civil](chapitre-viii.md#article-831-1) ; [art. 832-2 du Code civil](chapitre-viii.md#article-832-2) ; [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L143-6 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-6) ; [art. L322-14 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-14) ; [art. L323-6 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-iii.md#article-l323-6) ; [Loi n°2001-1135 du 3 décembre 2001, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284691) ; [Loi n°2006-728 du 23 juin 2006, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284874) ; [Loi n°61-1378 du 19 décembre 1961, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283689) ; [Loi n°61-1378 du 19 décembre 1961, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283690) ; [Loi n°62-933 du 8 août 1962, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600063) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694)
 
 Si le maintien dans l'indivision n'a pas été ordonné et à défaut d'attribution préférentielle en propriété dans les conditions prévues à l'article 831 ou à l'article 832, le conjoint survivant ou tout héritier copropriétaire peut demander l'attribution préférentielle de tout ou partie des biens et droits immobiliers à destination agricole dépendant de la succession en vue de constituer avec un ou plusieurs cohéritiers et, le cas échéant, un ou plusieurs tiers, un groupement foncier agricole.
 
@@ -246,8 +246,8 @@ Le partage n'est parfait qu'après la signature de l'acte constitutif du groupem
 - Identifiant : LEGIARTI000022233256
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233256
-- Renvoie à : [art. 831 du Code civil](chapitre-viii.md#article-831) ; [art. 832 du Code civil](chapitre-viii.md#article-832) ; [art. 832-1 du Code civil](chapitre-viii.md#article-832-1) ; [art. L412-15 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583903)
-- Cité par : [art. L412-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583902) ; [Loi n°2006-728 du 23 juin 2006, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284874) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694) ; [Nouveau code de procédure civile, art. 1381](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412550)
+- Renvoie à : [art. 831 du Code civil](chapitre-viii.md#article-831) ; [art. 832 du Code civil](chapitre-viii.md#article-832) ; [art. 832-1 du Code civil](chapitre-viii.md#article-832-1) ; [art. L412-14 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-14) ; [art. L412-15 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-15)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L412-14 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-14) ; [Loi n°2006-728 du 23 juin 2006, art. 40](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284874) ; [Loi n°70-1265 du 23 décembre 1970, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283694)
 
 Si une exploitation agricole constituant une unité économique et non exploitée sous forme sociale n'est pas maintenue dans l'indivision et n'a pas fait l'objet d'une attribution préférentielle dans les conditions prévues aux articles 831, 832 ou 832-1, le conjoint survivant ou tout héritier copropriétaire qui désire poursuivre l'exploitation à laquelle il participe ou a participé effectivement peut exiger, nonobstant toute demande de licitation, que le partage soit conclu sous la condition que ses copartageants lui consentent un bail à long terme dans les conditions fixées au chapitre VI du titre Ier du livre IV du code rural et de la pêche maritime, sur les terres de l'exploitation qui leur échoient. Dans le cas de l'héritier, la condition de participation peut avoir été remplie par son conjoint ou ses descendants. Sauf accord amiable entre les parties, celui qui demande à bénéficier de ces dispositions reçoit par priorité dans sa part les bâtiments d'exploitation et d'habitation.
 
@@ -263,7 +263,7 @@ Si, en raison de l'inaptitude manifeste du ou des demandeurs à gérer tout ou p
 - Identifiant : LEGIARTI000006432641
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432641
-- Cité par : [art. L322-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037114241) ; [Nouveau code de procédure civile, art. 1381](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006412550)
+- Cité par : [art. 1381 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1381) ; [art. L322-14 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-14)
 
 L'attribution préférentielle peut être demandée conjointement par plusieurs successibles afin de conserver ensemble le bien indivis.  
 
@@ -289,7 +289,7 @@ En cas de vente de la totalité des biens attribués, la fraction de la soulte y
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432660
 - Renvoie à : [art. 831 du Code civil](chapitre-viii.md#article-831) ; [art. 832 du Code civil](chapitre-viii.md#article-832)
-- Cité par : [art. 2505 du Code civil](../../livre-v/titre-iii.md#article-2505) ; [art. L322-14 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037114241)
+- Cité par : [art. 2505 du Code civil](../../livre-v/titre-iii.md#article-2505) ; [art. L322-14 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ii.md#article-l322-14)
 
 Les dispositions des articles 831 à 832-4 profitent au conjoint ou à tout héritier appelé à succéder en vertu de la loi, qu'il soit copropriétaire en pleine propriété ou en nue-propriété.  
 
@@ -547,7 +547,7 @@ L'héritier a aussi la faculté de rapporter en nature le bien donné qui lui ap
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432904
 - Renvoie à : [art. 922 du Code civil](../titre-ii/chapitre-iii.md#article-922)
-- Cité par : [art. 860-1 du Code civil](chapitre-viii.md#article-860-1)
+- Cité par : [art. 860-1 du Code civil](chapitre-viii.md#article-860-1) ; [art. L621-29-7 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-vi/titre-ii/chapitre-1er.md#article-l621-29-7)
 
 Le rapport est dû de la valeur du bien donné à l'époque du partage, d'après son état à l'époque de la donation.  
 
@@ -737,7 +737,7 @@ Les créanciers d'un copartageant, pour éviter que le partage ne soit fait en f
 - Identifiant : LEGIARTI000006433094
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433094
-- Cité par : [art. L613-30 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279516) ; [art. L143-4 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029594354) ; [Loi n°67-5 du 3 janvier 1967, art. 56](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006878367)
+- Cité par : [art. L613-30 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-iii.md#article-l613-30) ; [art. L143-4 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-4) ; [Loi n°67-5 du 3 janvier 1967, art. 56](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006878367)
 
 Chaque cohéritier est censé avoir succédé seul et immédiatement à tous les effets compris dans son lot, ou à lui échus sur licitation, et n'avoir jamais eu la propriété des autres effets de la succession.  
 

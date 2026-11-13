@@ -27,7 +27,7 @@ La donation de biens à venir, ou de biens présents et à venir, faite entre é
 - Identifiant : LEGIARTI000006435789
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435789
-- Cité par : [art. 968 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036385009) ; [Loi n°81-1160 du 30 décembre 1981, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006273474)
+- Cité par : [art. 968 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-ii-bis.md#article-968) ; [Loi n°81-1160 du 30 décembre 1981, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006273474)
 
 L'époux, soit par contrat de mariage, soit pendant le mariage, pourra, pour le cas où il ne laisserait point d'enfant ni de descendant, disposer en faveur de l'autre époux en propriété, de tout ce dont il pourrait disposer en faveur d'un étranger.
 
@@ -35,7 +35,7 @@ L'époux, soit par contrat de mariage, soit pendant le mariage, pourra, pour le 
 - Identifiant : LEGIARTI000006435800
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435800
-- Cité par : [art. 758-6 du Code civil](../titre-ier/chapitre-iii.md#article-758-6) ; [art. 1098 du Code civil](chapitre-ix.md#article-1098) ; [art. 1527 du Code civil](../titre-v/chapitre-ii.md#article-1527) ; [art. 788 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305439) ; [art. 968 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036385009)
+- Cité par : [art. 758-6 du Code civil](../titre-ier/chapitre-iii.md#article-758-6) ; [art. 1098 du Code civil](chapitre-ix.md#article-1098) ; [art. 1527 du Code civil](../titre-v/chapitre-ii.md#article-1527) ; [art. 788 bis du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-788-bis) ; [art. 968 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-ii-bis.md#article-968)
 
 Pour le cas où l'époux laisserait des enfants ou descendants, issus ou non du mariage, il pourra disposer en faveur de l'autre époux, soit de la propriété de ce dont il pourrait disposer en faveur d'un étranger, soit d'un quart de ses biens en propriété et des trois autres quarts en usufruit, soit encore de la totalité de ses biens en usufruit seulement.  
 
@@ -74,7 +74,7 @@ Les donations faites entre époux de biens présents ou de biens à venir ne son
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435467
 - Renvoie à : [art. 1094-1 du Code civil](chapitre-ix.md#article-1094-1) ; [art. 1094-3 du Code civil](chapitre-ix.md#article-1094-3)
-- Cité par : [art. 968 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036385009) ; [Loi n°81-1160 du 30 décembre 1981, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006273474)
+- Cité par : [art. 968 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-ii-bis.md#article-968) ; [Loi n°81-1160 du 30 décembre 1981, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006273474)
 
 Si un époux a fait à son conjoint, dans les limites de l'article 1094-1, une libéralité en propriété, chacun des enfants qui ne sont pas issus des deux époux aura, en ce qui le concerne, sauf volonté contraire et non équivoque du disposant, la faculté de substituer à l'exécution de cette libéralité l'abandon de l'usufruit de la part de succession qu'il eût recueillie en l'absence de conjoint survivant.  
 

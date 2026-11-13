@@ -157,6 +157,7 @@ Les entrepreneurs intéressés et la procédure suivant laquelle le nombre d'ent
 - Identifiant : LEGIARTI000006902635
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902635
+- Cité par : [art. L621-9 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-legislative/livre-vi/titre-ii/chapitre-ier.md#article-l621-9)
 
 Les jours fériés ci-après désignés sont des jours chômés :  
 

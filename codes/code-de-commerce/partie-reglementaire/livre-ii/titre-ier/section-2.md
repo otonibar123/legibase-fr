@@ -6,7 +6,7 @@ Code de commerce › Partie réglementaire › LIVRE II : Des sociétés commerc
 - Identifiant : LEGIARTI000006260153
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006260153
-- Cité par : [art. R221-6-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036461158)
+- Cité par : [art. R221-6-1 du Code de l'énergie](../../../../code-de-l-energie/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-6-1)
 
 L'associé ou l'actionnaire d'une société entre les mains duquel sont réunies toutes les parts ou actions peut dissoudre cette société à tout moment, par déclaration au greffe du tribunal de commerce, en vue de la mention de la dissolution au registre du commerce et des sociétés.  
 

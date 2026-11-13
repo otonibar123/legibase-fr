@@ -97,7 +97,7 @@ La transformation d'un poste réalisée en application de l'article L. 1226-10 p
 - Identifiant : LEGIARTI000049898796
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049898796
-- Renvoie à : [art. L1226-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-l1226-1) ; art. L321-1 du Code de la sécurité sociale
+- Renvoie à : [art. L321-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-ii/chapitre-1er.md#article-l321-1) ; [art. R323-11-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-3.md#article-r323-11-1) ; [art. L1226-1 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-l1226-1)
 - Cité par : [art. R1226-11 du Code du travail](chapitre-vi.md#article-r1226-11)
 
 Le salarié communique à l'employeur, dès le début de l'arrêt de travail délivré en application de l'article L. 321-1 du code de la sécurité sociale ainsi qu'à l'occasion de tout changement, son lieu de repos s'il est différent de son domicile et, s'il bénéficie d'un arrêt de travail portant la mention "sortie libre" prévue à l'article R. 323-11-1 du même code, les horaires auxquels la contre-visite mentionnée à l'article L. 1226-1 peut s'effectuer.
@@ -106,7 +106,7 @@ Le salarié communique à l'employeur, dès le début de l'arrêt de travail dé
 - Identifiant : LEGIARTI000049898798
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049898798
-- Renvoie à : [art. R1226-10 du Code du travail](chapitre-vi.md#article-r1226-10) ; art. R323-11-1 du Code de la sécurité sociale
+- Renvoie à : [art. R323-11-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-3.md#article-r323-11-1) ; [art. R1226-10 du Code du travail](chapitre-vi.md#article-r1226-10)
 
 La contre-visite est effectuée par un médecin mandaté par l'employeur. Ce médecin se prononce sur le caractère justifié de l'arrêt de travail, y compris sa durée.
 
@@ -120,7 +120,7 @@ La contre-visite s'effectue à tout moment de l'arrêt de travail et, au choix d
 - Identifiant : LEGIARTI000049898800
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049898800
-- Renvoie à : art. L315-1 du Code de la sécurité sociale
+- Renvoie à : [art. L315-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-i/chapitre-5.md#article-l315-1)
 
 Au terme de sa mission et sans préjudice des obligations qui lui incombent en application du II de l'article L. 315-1 du code de la sécurité sociale, le médecin informe l'employeur, soit du caractère justifié ou injustifié de l'arrêt de travail, soit de l'impossibilité de procéder au contrôle pour un motif imputable au salarié, tenant notamment à son refus de se présenter à la convocation ou à son absence lors de la visite à domicile.
 

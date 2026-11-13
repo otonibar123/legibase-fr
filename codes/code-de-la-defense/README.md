@@ -1,0 +1,478 @@
+# Code de la défense
+
+Dernière modification du texte dans LEGI : 29/10/2026. 3420 articles en vigueur, répartis dans 296 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - [Partie législative : articles rattachés directement](partie-legislative/articles-directs.md) (1 article)
+  - **PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE.**
+    - **LIVRE Ier : LA DIRECTION DE LA DÉFENSE**
+      - **TITRE Ier : PRINCIPES GÉNÉRAUX**
+        - [Chapitre unique](partie-legislative/partie-1/livre-ier/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE II : LE PRÉSIDENT DE LA RÉPUBLIQUE, CHEF DES ARMÉES**
+        - [Chapitre Ier : Attributions](partie-legislative/partie-1/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Organes collégiaux relevant du Président de la République](partie-legislative/partie-1/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+      - **TITRE III : LE PREMIER MINISTRE**
+        - [Chapitre Ier : Attributions](partie-legislative/partie-1/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Institut des hautes études de défense nationale](partie-legislative/partie-1/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+      - **TITRE IV : RESPONSABILITÉS DES MINISTRES EN MATIÈRE DE DÉFENSE**
+        - [Chapitre Ier : Dispositions communes à l'ensemble des ministres](partie-legislative/partie-1/livre-ier/titre-iv/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Dispositions particulières à certains ministres](partie-legislative/partie-1/livre-ier/titre-iv/chapitre-ii.md) (8 articles)
+    - **LIVRE II : ORGANISATION TERRITORIALE ET OPÉRATIONNELLE DE LA DÉFENSE**
+      - **TITRE II : ORGANISATION OPÉRATIONNELLE**
+        - [Chapitre unique](partie-legislative/partie-1/livre-ii/titre-ii/chapitre-unique.md) (2 articles)
+    - **LIVRE III : MISE EN ŒUVRE DE LA DÉFENSE NON MILITAIRE**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique : Pouvoirs en matière de défense non militaire](partie-legislative/partie-1/livre-iii/titre-ier/chapitre-unique.md) (1 article)
+      - **TITRE II : DÉFENSE CIVILE**
+        - [Chapitre Ier : Participation militaire à la défense et à la sécurité civiles](partie-legislative/partie-1/livre-iii/titre-ii/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Protection contre les menaces aériennes](partie-legislative/partie-1/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Personnels de complément](partie-legislative/partie-1/livre-iii/titre-ii/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Exercices](partie-legislative/partie-1/livre-iii/titre-ii/chapitre-iv.md) (1 article)
+      - **TITRE III : DÉFENSE ÉCONOMIQUE**
+        - [Chapitre Ier : Constitution de groupements](partie-legislative/partie-1/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Protection des installations d'importance vitale](partie-legislative/partie-1/livre-iii/titre-iii/chapitre-ii.md) (13 articles)
+        - [Chapitre III : Matières et installations nucléaires](partie-legislative/partie-1/livre-iii/titre-iii/chapitre-iii.md) (41 articles)
+        - [Chapitre IV : Postes et communications électroniques](partie-legislative/partie-1/livre-iii/titre-iii/chapitre-iv.md) (1 article)
+        - [Chapitre V : Contrôle naval de la navigation maritime et flotte stratégique](partie-legislative/partie-1/livre-iii/titre-iii/chapitre-v.md) (4 articles)
+        - [Chapitre VI : Transports et hydrocarbures](partie-legislative/partie-1/livre-iii/titre-iii/chapitre-vi.md) (1 article)
+        - [Chapitre IX : Dispositions relatives à la sécurité des approvisionnements des forces armées et des formations rattachées](partie-legislative/partie-1/livre-iii/titre-iii/chapitre-ix.md) (3 articles)
+    - **LIVRE IV : MISE EN ŒUVRE DE LA DÉFENSE MILITAIRE**
+      - **TITRE Ier : LA DISSUASION NUCLÉAIRE**
+        - [Chapitre Ier : Préparation, mise en œuvre et contrôle gouvernemental de la dissuasion nucléaire](partie-legislative/partie-1/livre-iv/titre-ier/chapitre-ier.md) (12 articles)
+    - **LIVRE V : ACTION DE L'ÉTAT EN MER**
+      - **TITRE II : OPÉRATIONS EN MER**
+        - [Chapitre unique : Exercice par l'État de ses pouvoirs de police en mer](partie-legislative/partie-1/livre-v/titre-ii/chapitre-unique.md) (18 articles)
+  - **PARTIE 2 : RÉGIMES JURIDIQUES DE DÉFENSE**
+    - **LIVRE Ier : RÉGIMES D'APPLICATION EXCEPTIONNELLE**
+      - **TITRE Ier : GUERRE**
+        - [Chapitre II : Dispositions applicables aux communes](partie-legislative/partie-2/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+        - [Chapitre III : Engagements pour la durée des hostilités](partie-legislative/partie-2/livre-ier/titre-ier/chapitre-iii.md) (2 articles)
+      - **TITRE II : ÉTAT DE SIÈGE**
+        - [Chapitre unique](partie-legislative/partie-2/livre-ier/titre-ii/chapitre-unique.md) (8 articles)
+      - **TITRE III : ÉTAT D'URGENCE**
+        - [Chapitre unique](partie-legislative/partie-2/livre-ier/titre-iii/chapitre-unique.md) (1 article)
+      - **TITRE IV : MOBILISATION ET MISE EN GARDE**
+        - [Chapitre Ier : Organisation](partie-legislative/partie-2/livre-ier/titre-iv/chapitre-ier.md) (4 articles)
+        - [Chapitre II : Dispositions applicables aux communes](partie-legislative/partie-2/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+      - **TITRE IV bis : ÉTAT D'ALERTE DE SÉCURITÉ NATIONALE**
+        - [Chapitre unique](partie-legislative/partie-2/livre-ier/titre-iv-bis/chapitre-unique.md) (8 articles)
+      - **TITRE V : MISSIONS INDISPENSABLES À LA CONTINUITÉ DE LA VIE DE LA NATION**
+        - [Chapitre unique](partie-legislative/partie-2/livre-ier/titre-v/chapitre-unique.md) (5 articles)
+      - **TITRE VI : SUJÉTIONS RÉSULTANT DES MANŒUVRES ET EXERCICES**
+        - [Chapitre unique](partie-legislative/partie-2/livre-ier/titre-vi/chapitre-unique.md) (3 articles)
+      - **TITRE VII : DISPOSITIF DE RÉSERVE DE SÉCURITÉ NATIONALE**
+        - [Chapitre unique](partie-legislative/partie-2/livre-ier/titre-vii/chapitre-unique.md) (8 articles)
+    - **LIVRE II : RÉQUISITIONS**
+      - **TITRE Ier : RÉQUISITIONS POUR LES BESOINS DE LA DÉFENSE ET DE LA SÉCURITÉ NATIONALE**
+        - [Chapitre Ier : Sujétions préalables aux réquisitions](partie-legislative/partie-2/livre-ii/titre-ier/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Principes généraux](partie-legislative/partie-2/livre-ii/titre-ier/chapitre-ii.md) (11 articles)
+      - **TITRE II : RÉQUISITIONS DE BIENS ET SERVICES SPATIAUX**
+        - [Chapitre unique](partie-legislative/partie-2/livre-ii/titre-ii/chapitre-unique.md) (8 articles)
+    - **LIVRE III : RÉGIMES JURIDIQUES DE DÉFENSE D'APPLICATION PERMANENTE**
+      - **TITRE Ier : LE SECRET DE LA DÉFENSE NATIONALE**
+        - [Chapitre Ier : Protection du secret de la défense nationale](partie-legislative/partie-2/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+        - [Chapitre II : Commission du secret de la défense nationale](partie-legislative/partie-2/livre-iii/titre-ier/chapitre-ii.md) (6 articles)
+        - [Chapitre III : Règles spéciales](partie-legislative/partie-2/livre-iii/titre-ier/chapitre-iii.md) (1 article)
+      - **TITRE II : SÉCURITÉ DES SYSTÈMES D'INFORMATION**
+        - [Chapitre Ier : Responsabilités](partie-legislative/partie-2/livre-iii/titre-ii/chapitre-ier.md) (9 articles)
+        - [Chapitre II : Cryptologie](partie-legislative/partie-2/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Service public réglementé de radionavigation par satellite](partie-legislative/partie-2/livre-iii/titre-ii/chapitre-iii.md) (6 articles)
+      - **TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-2/livre-iii/titre-iii/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Fabrication et commerce](partie-legislative/partie-2/livre-iii/titre-iii/chapitre-ii.md) (8 articles)
+        - [Chapitre III : Contrôle administratif des marchés relatifs aux matériels de guerre, aux armes et aux munitions](partie-legislative/partie-2/livre-iii/titre-iii/chapitre-iii.md) (7 articles)
+        - [Chapitre V : Importations et exportations. ― Transferts au sein de l'Union européenne](partie-legislative/partie-2/livre-iii/titre-iii/chapitre-v.md) (18 articles)
+        - [Chapitre VIII : Port, transport et usage](partie-legislative/partie-2/livre-iii/titre-iii/chapitre-viii.md) (2 articles)
+        - [Chapitre IX : Contrôle administratif et dispositions pénales](partie-legislative/partie-2/livre-iii/titre-iii/chapitre-ix.md) (20 articles)
+      - **TITRE IV : ARMES SOUMISES À INTERDICTION**
+        - [Chapitre Ier : Armes biologiques ou à base de toxines](partie-legislative/partie-2/livre-iii/titre-iv/chapitre-ier.md) (11 articles)
+        - [Chapitre II : Armes chimiques](partie-legislative/partie-2/livre-iii/titre-iv/chapitre-ii.md) (84 articles)
+        - [Chapitre III : Mines antipersonnel](partie-legislative/partie-2/livre-iii/titre-iv/chapitre-iii.md) (12 articles)
+        - [Chapitre IV : Armes à sous-munitions](partie-legislative/partie-2/livre-iii/titre-iv/chapitre-iv.md) (10 articles)
+      - **TITRE V : EXPLOSIFS**
+        - [Chapitre II : Autorisations et agréments](partie-legislative/partie-2/livre-iii/titre-v/chapitre-ii.md) (3 articles)
+        - [Chapitre II bis : Dessaisissement](partie-legislative/partie-2/livre-iii/titre-v/chapitre-ii-bis.md) (3 articles)
+        - [Chapitre III : Dispositions pénales](partie-legislative/partie-2/livre-iii/titre-v/chapitre-iii.md) (12 articles)
+      - **TITRE VI : PROTECTION DES INSTALLATIONS MILITAIRES**
+        - [Chapitre II : Zones protégées](partie-legislative/partie-2/livre-iii/titre-vi/chapitre-ii.md) (1 article)
+        - [Chapitre IV : Dispositifs techniques concourant à la protection des installations militaires](partie-legislative/partie-2/livre-iii/titre-vi/chapitre-iv.md) (4 articles)
+      - **TITRE VII : DU RENSEIGNEMENT**
+        - [Chapitre unique](partie-legislative/partie-2/livre-iii/titre-vii/chapitre-unique.md) (2 articles)
+      - **TITRE VIII : DE LA BIOMÉTRIE**
+        - [Chapitre unique](partie-legislative/partie-2/livre-iii/titre-viii/chapitre-unique.md) (1 article)
+      - **TITRE IX : OPÉRATIONS SENSIBLES INTÉRESSANT LA DÉFENSE NATIONALE**
+        - [Chapitre unique](partie-legislative/partie-2/livre-iii/titre-ix/chapitre-unique.md) (5 articles)
+  - **PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE**
+    - **LIVRE Ier : L'ADMINISTRATION CENTRALE**
+      - **TITRE II : ORGANISMES ET AUTORITÉS MILITAIRES**
+        - [Chapitre V : Organismes d'enquêtes](partie-legislative/partie-3/livre-ier/titre-ii/chapitre-v.md) (4 articles)
+    - **LIVRE II : LES FORCES ARMÉES**
+      - **TITRE Ier : COMPOSITION**
+        - [Chapitre unique](partie-legislative/partie-3/livre-ii/titre-ier/chapitre-unique.md) (4 articles)
+      - **TITRE II : LES ARMÉES ET LA GENDARMERIE NATIONALE**
+        - [Chapitre V : Organisation de la gendarmerie nationale](partie-legislative/partie-3/livre-ii/titre-ii/chapitre-v.md) (1 article)
+    - **LIVRE IV : ÉTABLISSEMENTS PUBLICS**
+      - **TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF**
+        - [Chapitre Ier : Établissements d'enseignement supérieur et de recherche](partie-legislative/partie-3/livre-iv/titre-ier/chapitre-ier.md) (1 article)
+        - [Chapitre IV : Établissement public d'insertion de la défense](partie-legislative/partie-3/livre-iv/titre-ier/chapitre-iv.md) (8 articles)
+        - [Chapitre VIII : Foyer d'entraide de la légion étrangère](partie-legislative/partie-3/livre-iv/titre-ier/chapitre-viii.md) (9 articles)
+        - [Chapitre IX : Autres établissements publics à caractère administratif](partie-legislative/partie-3/livre-iv/titre-ier/chapitre-ix.md) (3 articles)
+      - **TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL**
+        - [Chapitre Ier : L'économat des armées](partie-legislative/partie-3/livre-iv/titre-ii/chapitre-ier.md) (7 articles)
+        - [Chapitre II : L'institution de gestion sociale des armées](partie-legislative/partie-3/livre-iv/titre-ii/chapitre-ii.md) (7 articles)
+  - **PARTIE 4 : LE PERSONNEL MILITAIRE**
+    - **LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-legislative/partie-4/livre-ier/titre-ier/chapitre-unique.md) (2 articles)
+      - **TITRE II : DROITS ET OBLIGATIONS**
+        - [Chapitre Ier : Exercice des droits civils et politiques](partie-legislative/partie-4/livre-ier/titre-ii/chapitre-ier.md) (9 articles)
+        - [Chapitre II : Obligations et responsabilités](partie-legislative/partie-4/livre-ier/titre-ii/chapitre-ii.md) (12 articles)
+        - [Chapitre III : Rémunération, garanties et protections](partie-legislative/partie-4/livre-ier/titre-ii/chapitre-iii.md) (26 articles)
+        - [Chapitre IV : Organismes consultatifs et de concertation](partie-legislative/partie-4/livre-ier/titre-ii/chapitre-iv.md) (1 article)
+        - [Chapitre V : Recours administratif préalable](partie-legislative/partie-4/livre-ier/titre-ii/chapitre-v.md) (1 article)
+        - [Chapitre VI : Associations professionnelles nationales de militaires](partie-legislative/partie-4/livre-ier/titre-ii/chapitre-vi.md) (10 articles)
+      - **TITRE III : DISPOSITIONS STATUTAIRES RELATIVES AUX DÉROULEMENTS DES CARRIÈRES**
+        - [Chapitre Ier : Hiérarchie militaire](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Recrutement](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-ii.md) (16 articles)
+        - [Chapitre III : Changement d'armée ou de corps](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Nomination](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-iv.md) (2 articles)
+        - [Chapitre V : Notation](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-v.md) (1 article)
+        - [Chapitre VI : Avancement](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-vi.md) (4 articles)
+        - [Chapitre VII : Discipline](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-vii.md) (4 articles)
+        - [Chapitre VIII : Positions statutaires](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-viii.md) (19 articles)
+        - [Chapitre IX : Fin de l'état militaire](partie-legislative/partie-4/livre-ier/titre-iii/chapitre-ix.md) (20 articles)
+      - **TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES CATÉGORIES DE MILITAIRES**
+        - [Chapitre Ier : Officiers généraux](partie-legislative/partie-4/livre-ier/titre-iv/chapitre-ier.md) (7 articles)
+        - [Chapitre II : Militaires servant à titre étranger](partie-legislative/partie-4/livre-ier/titre-iv/chapitre-ii.md) (5 articles)
+        - [Chapitre III : Militaires servant au titre de la réserve](partie-legislative/partie-4/livre-ier/titre-iv/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Fonctionnaires en détachement servant en qualité de militaire](partie-legislative/partie-4/livre-ier/titre-iv/chapitre-iv.md) (1 article)
+        - [Chapitre V : Militaires de la gendarmerie nationale](partie-legislative/partie-4/livre-ier/titre-iv/chapitre-v.md) (3 articles)
+      - **TITRE V : FORMATION DES MILITAIRES**
+        - [Chapitre III : Enseignement technique et préparatoire militaire](partie-legislative/partie-4/livre-ier/titre-v/chapitre-iii.md) (3 articles)
+    - **LIVRE II : RÉSERVE MILITAIRE**
+      - **TITRE Ier : DISPOSITIONS COMMUNES**
+        - [Chapitre unique](partie-legislative/partie-4/livre-ii/titre-ier/chapitre-unique.md) (9 articles)
+      - **TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE OPÉRATIONNELLE**
+        - [Chapitre unique](partie-legislative/partie-4/livre-ii/titre-ii/chapitre-unique.md) (9 articles)
+      - **TITRE III : DISPONIBILITÉ**
+        - [Chapitre unique](partie-legislative/partie-4/livre-ii/titre-iii/chapitre-unique.md) (6 articles)
+      - **TITRE IV : RÉSERVE CITOYENNE DE DÉFENSE ET DE SÉCURITÉ**
+        - [Chapitre unique](partie-legislative/partie-4/livre-ii/titre-iv/chapitre-unique.md) (3 articles)
+      - **TITRE V : DISPOSITIONS SOCIALES ET FINANCIÈRES**
+        - [Chapitre unique](partie-legislative/partie-4/livre-ii/titre-v/chapitre-unique.md) (7 articles)
+      - **TITRE VII : DISPOSITIONS PÉNALES**
+        - [Chapitre unique](partie-legislative/partie-4/livre-ii/titre-vii/chapitre-unique.md) (4 articles)
+  - **PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES**
+    - **LIVRE Ier : DISPOSITIONS DOMANIALES**
+      - **TITRE Ier : SERVITUDES**
+        - [Chapitre Ier : Dépôts de munitions et d'explosifs](partie-legislative/partie-5/livre-ier/titre-ier/chapitre-ier.md) (7 articles)
+        - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime](partie-legislative/partie-5/livre-ier/titre-ier/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Centres d'émission et de réception radioélectriques](partie-legislative/partie-5/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Autres installations de défense](partie-legislative/partie-5/livre-ier/titre-ier/chapitre-iv.md) (3 articles)
+      - **TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE**
+        - [Chapitre unique : Répression des infractions relatives aux servitudes militaires](partie-legislative/partie-5/livre-ier/titre-ii/chapitre-unique.md) (2 articles)
+      - **TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES**
+        - [Chapitre unique](partie-legislative/partie-5/livre-ier/titre-iv/chapitre-unique.md) (1 article)
+    - **LIVRE II : DISPOSITIONS BUDGÉTAIRES, FINANCIÈRES ET COMPTABLES**
+      - **TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+        - [Chapitre Ier : Trésoreries militaires](partie-legislative/partie-5/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+  - **PARTIE 6 : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **LIVRE Ier : DISPOSITIONS APPLICABLES DANS LES COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+      - **TITRE Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION**
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+      - **TITRE II : DISPOSITIONS PARTICULIÈRES À MAYOTTE**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+    - **LIVRE II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON**
+      - **TITRE II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLÉMY**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-ii/titre-ii/chapitre-iii.md) (3 articles)
+        - [Chapitre V : Adaptation de la partie 4](partie-legislative/partie-6/livre-ii/titre-ii/chapitre-v.md) (1 article)
+      - **TITRE III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-ii/titre-iii/chapitre-iii.md) (2 articles)
+      - **TITRE IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-ii/titre-iv/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Adaptation de la partie 1](partie-legislative/partie-6/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-ii/titre-iv/chapitre-iii.md) (3 articles)
+        - [Chapitre V : Adaptation de la partie 4](partie-legislative/partie-6/livre-ii/titre-iv/chapitre-v.md) (1 article)
+    - **LIVRE III : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA, EN POLYNÉSIE FRANÇAISE, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - **TITRE Ier : DISPOSITIONS COMMUNES**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-iii/titre-ier/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Adaptation de la partie 1](partie-legislative/partie-6/livre-iii/titre-ier/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-iii/titre-ier/chapitre-iii.md) (3 articles)
+        - [Chapitre IV : Adaptation de la partie 3](partie-legislative/partie-6/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+        - [Chapitre V : Adaptation de la partie 4](partie-legislative/partie-6/livre-iii/titre-ier/chapitre-v.md) (2 articles)
+        - [Chapitre VI : Adaptation de la partie 5](partie-legislative/partie-6/livre-iii/titre-ier/chapitre-vi.md) (1 article)
+      - **TITRE II : DISPOSITIONS PARTICULIÈRES AUX ÎLES WALLIS ET FUTUNA**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-iii/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-iii/titre-ii/chapitre-iii.md) (2 articles)
+      - **TITRE III : DISPOSITIONS PARTICULIÈRES À LA POLYNÉSIE FRANÇAISE**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+      - **TITRE IV : DISPOSITIONS PARTICULIÈRES À LA NOUVELLE-CALÉDONIE**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-iii/titre-iv/chapitre-ier.md) (2 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-iii/titre-iv/chapitre-iii.md) (2 articles)
+      - **TITRE V : DISPOSITIONS PARTICULIÈRES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+        - [Chapitre Ier : Dispositions générales](partie-legislative/partie-6/livre-iii/titre-v/chapitre-ier.md) (2 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-legislative/partie-6/livre-iii/titre-v/chapitre-iii.md) (2 articles)
+- **Partie réglementaire**
+  - **PARTIE 1 : PRINCIPES GÉNÉRAUX DE LA DÉFENSE**
+    - **LIVRE Ier : LA DIRECTION DE LA DÉFENSE**
+      - **TITRE II : LE PRÉSIDENT DE LA RÉPUBLIQUE, CHEF DES ARMÉES**
+        - [Chapitre II : Organes collégiaux relevant du Président de la République](partie-reglementaire/partie-1/livre-ier/titre-ii/chapitre-ii.md) (12 articles)
+      - **TITRE III : LE PREMIER MINISTRE**
+        - [Chapitre Ier : Attributions](partie-reglementaire/partie-1/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Organismes relevant du Premier ministre](partie-reglementaire/partie-1/livre-ier/titre-iii/chapitre-ii.md) (38 articles)
+      - **TITRE IV : RESPONSABILITÉS DES MINISTRES EN MATIÈRE DE DÉFENSE**
+        - [Chapitre Ier : Dispositions communes à l'ensemble des ministres](partie-reglementaire/partie-1/livre-ier/titre-iv/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Dispositions particulières à certains ministres](partie-reglementaire/partie-1/livre-ier/titre-iv/chapitre-ii.md) (36 articles)
+        - [Chapitre III : Hauts fonctionnaires de défense et de sécurité et conseillers de défense et de sécurité](partie-reglementaire/partie-1/livre-ier/titre-iv/chapitre-iii.md) (13 articles)
+    - **LIVRE II : ORGANISATION TERRITORIALE ET OPÉRATIONNELLE DE LA DÉFENSE**
+      - **TITRE Ier : ORGANISATION TERRITORIALE**
+        - [Chapitre Ier : Organisation générale](partie-reglementaire/partie-1/livre-ii/titre-ier/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Organisation militaire](partie-reglementaire/partie-1/livre-ii/titre-ier/chapitre-ii.md) (15 articles)
+      - **TITRE II : ORGANISATION OPÉRATIONNELLE**
+        - [Chapitre unique](partie-reglementaire/partie-1/livre-ii/titre-ii/chapitre-unique.md) (6 articles)
+    - **LIVRE III : MISE EN ŒUVRE DE LA DÉFENSE NON MILITAIRE**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre Ier : Pouvoirs des préfets en matière de sécurité nationale](partie-reglementaire/partie-1/livre-iii/titre-ier/chapitre-ier.md) (21 articles)
+        - [Chapitre II : Délégués et correspondants de zone de défense et de sécurité.](partie-reglementaire/partie-1/livre-iii/titre-ier/chapitre-ii.md) (1 article)
+        - [Chapitre III : Services de défense pour l'équipement et les transports](partie-reglementaire/partie-1/livre-iii/titre-ier/chapitre-iii.md) (13 articles)
+      - **TITRE II : DÉFENSE CIVILE**
+        - [Chapitre Ier : Participation militaire à la défense et à la sécurité civiles](partie-reglementaire/partie-1/livre-iii/titre-ii/chapitre-ier.md) (24 articles)
+        - [Chapitre II : Protection contre les menaces aériennes](partie-reglementaire/partie-1/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Personnels de complément](partie-reglementaire/partie-1/livre-iii/titre-ii/chapitre-iii.md) (2 articles)
+        - [Chapitre IV : Exercices](partie-reglementaire/partie-1/livre-iii/titre-ii/chapitre-iv.md) (2 articles)
+      - **TITRE III : DÉFENSE ÉCONOMIQUE**
+        - [Chapitre II : Protection des installations d'importance vitale](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-ii.md) (66 articles)
+        - [Chapitre III : Matières et installations nucléaires](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-iii.md) (84 articles)
+        - [Chapitre IV : Postes et communications électroniques](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-iv.md) (18 articles)
+        - [Chapitre V : Contrôle naval de la navigation maritime et flotte stratégique](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-v.md) (10 articles)
+        - [Chapitre VI : Transports et hydrocarbures](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-vi.md) (35 articles)
+        - [Chapitre VII : Alimentation, industrie et travaux](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-vii.md) (20 articles)
+        - [Chapitre VIII : Renseignements et statistiques](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-viii.md) (6 articles)
+        - [Chapitre IX : Dispositions relatives à la sécurité des approvisionnements des forces armées et des formations rattachées](partie-reglementaire/partie-1/livre-iii/titre-iii/chapitre-ix.md) (12 articles)
+    - **LIVRE IV : MISE EN ŒUVRE DE LA DÉFENSE MILITAIRE**
+      - **TITRE Ier : LA DISSUASION NUCLÉAIRE**
+        - [Chapitre Ier : Préparation, mise en œuvre et contrôle gouvernemental de la dissuasion nucléaire](partie-reglementaire/partie-1/livre-iv/titre-ier/chapitre-ier.md) (61 articles)
+      - **TITRE II : DÉFENSE OPÉRATIONNELLE DU TERRITOIRE**
+        - [Chapitre Ier : Objet](partie-reglementaire/partie-1/livre-iv/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Mise en œuvre](partie-reglementaire/partie-1/livre-iv/titre-ii/chapitre-ii.md) (4 articles)
+      - **TITRE III : DÉFENSE MARITIME DU TERRITOIRE**
+        - [Chapitre Ier : Objet](partie-reglementaire/partie-1/livre-iv/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Mise en œuvre](partie-reglementaire/partie-1/livre-iv/titre-iii/chapitre-ii.md) (5 articles)
+      - **TITRE IV : DÉFENSE AÉRIENNE**
+        - [Chapitre Ier : Objet](partie-reglementaire/partie-1/livre-iv/titre-iv/chapitre-ier.md) (1 article)
+        - [Chapitre II : Mise en œuvre](partie-reglementaire/partie-1/livre-iv/titre-iv/chapitre-ii.md) (6 articles)
+        - [Chapitre III : Commission interministérielle de la sûreté aérienne](partie-reglementaire/partie-1/livre-iv/titre-iv/chapitre-iii.md) (4 articles)
+    - **LIVRE V : ACTION DE L'ÉTAT EN MER**
+      - **TITRE Ier : ORGANISATION GÉNÉRALE**
+        - [Chapitre unique](partie-reglementaire/partie-1/livre-v/titre-ier/chapitre-unique.md) (2 articles)
+      - **TITRE II : OPÉRATIONS EN MER**
+        - [Chapitre Ier : Exercice par l'Etat de ses pouvoirs de police en mer](partie-reglementaire/partie-1/livre-v/titre-ii/chapitre-ier.md) (6 articles)
+        - [Chapitre II : Passage des navires étrangers dans les eaux territoriales](partie-reglementaire/partie-1/livre-v/titre-ii/chapitre-ii.md) (1 article)
+  - **PARTIE 2 : RÉGIMES JURIDIQUES DE DÉFENSE**
+    - **LIVRE Ier : RÉGIMES D'APPLICATION EXCEPTIONNELLE**
+      - **TITRE Ier : GUERRE**
+        - [Chapitre II : Dispositions applicables aux communes](partie-reglementaire/partie-2/livre-ier/titre-ier/chapitre-ii.md) (1 article)
+      - **TITRE III : ÉTAT D'URGENCE**
+        - [Chapitre unique](partie-reglementaire/partie-2/livre-ier/titre-iii/chapitre-unique.md) (1 article)
+      - **TITRE IV : MOBILISATION ET MISE EN GARDE**
+        - [Chapitre unique : Organisation](partie-reglementaire/partie-2/livre-ier/titre-iv/chapitre-unique.md) (3 articles)
+      - **TITRE V : SERVICE DE SÉCURITÉ NATIONALE**
+        - [Chapitre unique](partie-reglementaire/partie-2/livre-ier/titre-v/chapitre-unique.md) (7 articles)
+      - **TITRE VI : SUJÉTIONS RÉSULTANT DES MANŒUVRES ET EXERCICES**
+        - [Chapitre unique](partie-reglementaire/partie-2/livre-ier/titre-vi/chapitre-unique.md) (7 articles)
+      - **TITRE VII : DISPOSITIF DE RÉSERVE DE SÉCURITÉ NATIONALE**
+        - [Chapitre unique](partie-reglementaire/partie-2/livre-ier/titre-vii/chapitre-unique.md) (4 articles)
+    - **LIVRE II : RÉQUISITIONS**
+      - **TITRE Ier : RÉQUISITIONS POUR LES BESOINS DE LA DÉFENSE ET DE LA SÉCURITÉ NATIONALE**
+        - [Chapitre Ier : Sujétions préalables aux réquisitions](partie-reglementaire/partie-2/livre-ii/titre-ier/chapitre-ier.md) (13 articles)
+        - [Chapitre II : Principes généraux du droit de réquisition](partie-reglementaire/partie-2/livre-ii/titre-ier/chapitre-ii.md) (10 articles)
+      - **TITRE II : RÉQUISITIONS DE BIENS ET SERVICES SPATIAUX**
+        - [Chapitre unique](partie-reglementaire/partie-2/livre-ii/titre-ii/chapitre-unique.md) (7 articles)
+    - **LIVRE III : RÉGIMES JURIDIQUES DE DÉFENSE D'APPLICATION PERMANENTE**
+      - **TITRE Ier : LE SECRET DE LA DÉFENSE NATIONALE**
+        - [Chapitre Ier : Protection du secret de la défense nationale](partie-reglementaire/partie-2/livre-iii/titre-ier/chapitre-ier.md) (21 articles)
+        - [Chapitre II : Commission du secret de la défense nationale](partie-reglementaire/partie-2/livre-iii/titre-ier/chapitre-ii.md) (2 articles)
+      - **TITRE II : SÉCURITÉ DES SYSTÈMES D'INFORMATION**
+        - [Chapitre Ier : Responsabilités](partie-reglementaire/partie-2/livre-iii/titre-ii/chapitre-ier.md) (22 articles)
+        - [Chapitre II : Cryptologie](partie-reglementaire/partie-2/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+        - [Chapitre III : Service public réglementé de radionavigation par satellite](partie-reglementaire/partie-2/livre-iii/titre-ii/chapitre-iii.md) (12 articles)
+      - **TITRE III : MATÉRIELS DE GUERRE, ARMES ET MUNITIONS**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Fabrication et commerce](partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-ii.md) (25 articles)
+        - [Chapitre V : Importations et exportations. ― Transferts au sein de l'Union européenne](partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-v.md) (51 articles)
+        - [Chapitre VI : Acquisition et détention](partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-vi.md) (1 article)
+        - [Chapitre VII : Conservation, perte et transfert de propriété](partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-vii.md) (5 articles)
+        - [Chapitre VIII : Port, transport et usage](partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-viii.md) (4 articles)
+        - [Chapitre IX : Contrôle administratif et dispositions pénales](partie-reglementaire/partie-2/livre-iii/titre-iii/chapitre-ix.md) (5 articles)
+      - **TITRE IV : ARMES SOUMISES À INTERDICTION**
+        - [Chapitre II : Armes chimiques](partie-reglementaire/partie-2/livre-iii/titre-iv/chapitre-ii.md) (120 articles)
+        - [Chapitre III : Mines antipersonnel](partie-reglementaire/partie-2/livre-iii/titre-iv/chapitre-iii.md) (8 articles)
+        - [Chapitre IV : Armes à sous-munitions](partie-reglementaire/partie-2/livre-iii/titre-iv/chapitre-iv.md) (2 articles)
+      - **TITRE V : EXPLOSIFS**
+        - [Chapitre Ier : Précurseurs d'explosifs](partie-reglementaire/partie-2/livre-iii/titre-v/chapitre-ier.md) (3 articles)
+        - [Chapitre II : Autorisations et agréments](partie-reglementaire/partie-2/livre-iii/titre-v/chapitre-ii.md) (112 articles)
+        - [Chapitre III : Dispositions pénales](partie-reglementaire/partie-2/livre-iii/titre-v/chapitre-iii.md) (18 articles)
+      - **TITRE VI : PROTECTION DES INSTALLATIONS MILITAIRES**
+        - [Chapitre Ier : Zones militaires](partie-reglementaire/partie-2/livre-iii/titre-vi/chapitre-ier.md) (1 article)
+        - [Chapitre II : Zones protégées](partie-reglementaire/partie-2/livre-iii/titre-vi/chapitre-ii.md) (7 articles)
+        - [Chapitre III : Zones de défense hautement sensibles](partie-reglementaire/partie-2/livre-iii/titre-vi/chapitre-iii.md) (7 articles)
+      - **TITRE IX : OPÉRATIONS SENSIBLES INTÉRESSANT LA DÉFENSE NATIONALE**
+        - [Chapitre unique](partie-reglementaire/partie-2/livre-iii/titre-ix/chapitre-unique.md) (1 article)
+  - **PARTIE 3 : LE MINISTÈRE DE LA DÉFENSE ET LES ORGANISMES SOUS TUTELLE**
+    - **LIVRE Ier : L'ADMINISTRATION CENTRALE**
+      - **TITRE Ier : COMPOSITION DE L'ADMINISTRATION CENTRALE**
+        - [Chapitre unique](partie-reglementaire/partie-3/livre-ier/titre-ier/chapitre-unique.md) (2 articles)
+      - **TITRE II : ORGANISMES ET AUTORITÉS MILITAIRES**
+        - [Chapitre Ier : Les états-majors](partie-reglementaire/partie-3/livre-ier/titre-ii/chapitre-ier.md) (37 articles)
+        - [Chapitre II : La direction générale de la gendarmerie nationale](partie-reglementaire/partie-3/livre-ier/titre-ii/chapitre-ii.md) (13 articles)
+        - [Chapitre III : Le contrôle général des armées](partie-reglementaire/partie-3/livre-ier/titre-ii/chapitre-iii.md) (19 articles)
+        - [Chapitre IV : Les inspecteurs généraux](partie-reglementaire/partie-3/livre-ier/titre-ii/chapitre-iv.md) (12 articles)
+        - [Chapitre V : Organismes d'enquêtes](partie-reglementaire/partie-3/livre-ier/titre-ii/chapitre-v.md) (28 articles)
+        - [Chapitre VI : Les services de renseignement et de sécurité](partie-reglementaire/partie-3/livre-ier/titre-ii/chapitre-vi.md) (14 articles)
+    - **LIVRE II : LES FORCES ARMÉES**
+      - **TITRE Ier : COMPOSITION**
+        - [Chapitre unique : Organismes interarmées et formations rattachées](partie-reglementaire/partie-3/livre-ii/titre-ier/chapitre-unique.md) (2 articles)
+      - **TITRE II : LES ARMÉES ET LA GENDARMERIE NATIONALE**
+        - [Chapitre II : Organisation de l'armée de terre](partie-reglementaire/partie-3/livre-ii/titre-ii/chapitre-ii.md) (16 articles)
+        - [Chapitre III : Organisation de la marine nationale](partie-reglementaire/partie-3/livre-ii/titre-ii/chapitre-iii.md) (62 articles)
+        - [Chapitre IV : Organisation de l'armée de l'air et de l'espace](partie-reglementaire/partie-3/livre-ii/titre-ii/chapitre-iv.md) (13 articles)
+        - [Chapitre V : Organisation de la gendarmerie nationale](partie-reglementaire/partie-3/livre-ii/titre-ii/chapitre-v.md) (10 articles)
+      - **TITRE III : LES SERVICES DE SOUTIEN**
+        - [Chapitre Ier : Organisation générale](partie-reglementaire/partie-3/livre-ii/titre-iii/chapitre-ier.md) (13 articles)
+        - [Chapitre II : Composition](partie-reglementaire/partie-3/livre-ii/titre-iii/chapitre-ii.md) (28 articles)
+      - **TITRE IV : ORGANISMES INTERARMÉES**
+        - [Chapitre unique :](partie-reglementaire/partie-3/livre-ii/titre-iv/chapitre-unique.md) (37 articles)
+    - **LIVRE III : ORGANISMES CONSULTATIFS**
+      - **TITRE IER : LES CONSEILLERS DU GOUVERNEMENT POUR LA DÉFENSE**
+        - [Chapitre unique](partie-reglementaire/partie-3/livre-iii/titre-ier/chapitre-unique.md) (3 articles)
+      - **TITRE II : LES CONSEILS SUPÉRIEURS DE FORCES ARMÉES ET DE FORMATIONS RATTACHÉES**
+        - [Chapitre Ier : Les conseils supérieurs des forces armées](partie-reglementaire/partie-3/livre-iii/titre-ii/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Les conseils supérieurs de formations rattachées](partie-reglementaire/partie-3/livre-iii/titre-ii/chapitre-ii.md) (4 articles)
+        - [Chapitre III : Règles de fonctionnement](partie-reglementaire/partie-3/livre-iii/titre-ii/chapitre-iii.md) (1 article)
+      - **TITRE III : LE CONSEIL GÉNÉRAL DE L'ARMEMENT**
+        - [Chapitre unique](partie-reglementaire/partie-3/livre-iii/titre-iii/chapitre-unique.md) (6 articles)
+    - **LIVRE IV : ÉTABLISSEMENTS PUBLICS**
+      - **TITRE Ier : ÉTABLISSEMENTS PUBLICS À CARACTÈRE ADMINISTRATIF**
+        - [Chapitre Ier : Établissements d'enseignement supérieur et de recherche](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-ier.md) (129 articles)
+        - [Chapitre II : Cercles et foyers](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-ii.md) (24 articles)
+        - [Chapitre III : Organismes scientifiques et culturels](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-iii.md) (108 articles)
+        - [Chapitre IV : Établissement public d'insertion de la défense](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-iv.md) (26 articles)
+        - [Chapitre V : Établissement de communication et de production audiovisuelle de la défense](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-v.md) (17 articles)
+        - [Chapitre VI : L'établissement public administratif Service hydrographique et océanographique de la marine (SHOM)](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-vi.md) (28 articles)
+        - [Chapitre VII : L'Etablissement public des fonds de prévoyance militaire et de l'aéronautique](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-vii.md) (33 articles)
+        - [Chapitre VIII : Foyer d'entraide de la Légion étrangère](partie-reglementaire/partie-3/livre-iv/titre-ier/chapitre-viii.md) (11 articles)
+      - **TITRE II : ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL**
+        - [Chapitre Ier : L'économat des armées](partie-reglementaire/partie-3/livre-iv/titre-ii/chapitre-ier.md) (14 articles)
+        - [Chapitre II : L'Institution de gestion sociale des armées](partie-reglementaire/partie-3/livre-iv/titre-ii/chapitre-ii.md) (23 articles)
+        - [Chapitre III : L'office national d'études et de recherches aérospatiales](partie-reglementaire/partie-3/livre-iv/titre-ii/chapitre-iii.md) (32 articles)
+  - **PARTIE 4 : LE PERSONNEL MILITAIRE**
+    - **LIVRE Ier : STATUT GÉNÉRAL DES MILITAIRES**
+      - **TITRE Ier : DISPOSITIONS GÉNÉRALES**
+        - [Chapitre unique](partie-reglementaire/partie-4/livre-ier/titre-ier/chapitre-unique.md) (7 articles)
+      - **TITRE II : DROITS ET OBLIGATIONS**
+        - [Chapitre Ier : Exercice des droits civils et politiques](partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-ier.md) (10 articles)
+        - [Chapitre II : Obligations et responsabilités](partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-ii.md) (54 articles)
+        - [Chapitre III : Rémunération, garanties et protections](partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-iii.md) (89 articles)
+        - [Chapitre IV : Organismes consultatifs et de concertation](partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-iv.md) (37 articles)
+        - [Chapitre V : Recours administratif préalable](partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-v.md) (22 articles)
+        - [Chapitre VI : Associations professionnelles nationales de militaires](partie-reglementaire/partie-4/livre-ier/titre-ii/chapitre-vi.md) (17 articles)
+      - **TITRE III : DISPOSITIONS STATUTAIRES RELATIVES AUX DÉROULEMENTS DES CARRIÈRES**
+        - [Chapitre Ier : Hiérarchie militaire](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-ier.md) (13 articles)
+        - [Chapitre II : Recrutement](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-ii.md) (11 articles)
+        - [Chapitre III : Changements d'armée ou de corps](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-iii.md) (9 articles)
+        - [Chapitre V : Notation](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-v.md) (8 articles)
+        - [Chapitre VI : Avancement](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-vi.md) (4 articles)
+        - [Chapitre VI-1 : Orientation professionnelle](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-vi-1.md) (1 article)
+        - [Chapitre VII : Discipline](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-vii.md) (143 articles)
+        - [Chapitre VIII : Positions statutaires](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-viii.md) (105 articles)
+        - [Chapitre IX : Fin de l'état militaire](partie-reglementaire/partie-4/livre-ier/titre-iii/chapitre-ix.md) (78 articles)
+      - **TITRE IV : DISPOSITIONS PARTICULIÈRES À CERTAINES CATÉGORIES DE MILITAIRES**
+        - [Chapitre Ier : Officiers généraux](partie-reglementaire/partie-4/livre-ier/titre-iv/chapitre-ier.md) (8 articles)
+      - **TITRE V : FORMATION DES MILITAIRES**
+        - [Chapitre Ier : Attribution du titre d'ingénieur](partie-reglementaire/partie-4/livre-ier/titre-v/chapitre-ier.md) (5 articles)
+        - [Chapitre II : Enseignement militaire supérieur](partie-reglementaire/partie-4/livre-ier/titre-v/chapitre-ii.md) (11 articles)
+    - **LIVRE II : RÉSERVE MILITAIRE**
+      - **TITRE Ier : DISPOSITIONS COMMUNES**
+        - [Chapitre unique](partie-reglementaire/partie-4/livre-ii/titre-ier/chapitre-unique.md) (13 articles)
+      - **TITRE II : VOLONTAIRES POUR SERVIR DANS LA RÉSERVE OPÉRATIONNELLE**
+        - [Chapitre unique](partie-reglementaire/partie-4/livre-ii/titre-ii/chapitre-unique.md) (33 articles)
+      - **TITRE III : DISPONIBILITÉ**
+        - [Chapitre unique](partie-reglementaire/partie-4/livre-ii/titre-iii/chapitre-unique.md) (8 articles)
+      - **TITRE IV : RÉSERVE CITOYENNE DE DÉFENSE ET DE SÉCURITÉ**
+        - [Chapitre unique](partie-reglementaire/partie-4/livre-ii/titre-iv/chapitre-unique.md) (4 articles)
+      - **TITRE VI : CONSEIL SUPÉRIEUR DE LA RÉSERVE MILITAIRE**
+        - [Chapitre unique](partie-reglementaire/partie-4/livre-ii/titre-vi/chapitre-unique.md) (18 articles)
+  - **PARTIE 5 : DISPOSITIONS ADMINISTRATIVES ET FINANCIÈRES**
+    - **LIVRE Ier : DISPOSITIONS DOMANIALES**
+      - **TITRE Ier : SERVITUDES**
+        - [Chapitre Ier : Dépôts de munitions et d'explosifs](partie-reglementaire/partie-5/livre-ier/titre-ier/chapitre-ier.md) (11 articles)
+        - [Chapitre II : Ouvrages de défense des côtes ou de sécurité maritime](partie-reglementaire/partie-5/livre-ier/titre-ier/chapitre-ii.md) (5 articles)
+        - [Chapitre III : Centres d'émission et de réception radioélectriques](partie-reglementaire/partie-5/livre-ier/titre-ier/chapitre-iii.md) (1 article)
+        - [Chapitre IV : Autres installations de défense](partie-reglementaire/partie-5/livre-ier/titre-ier/chapitre-iv.md) (11 articles)
+      - **TITRE II : RÉPRESSION DES CONTRAVENTIONS DE GRANDE VOIRIE**
+        - [Chapitre unique : Répression des infractions relatives aux servitudes militaires](partie-reglementaire/partie-5/livre-ier/titre-ii/chapitre-unique.md) (2 articles)
+      - **TITRE III : GESTION ET ADMINISTRATION**
+        - [Chapitre unique : Gestion et administration des infrastructures de la défense](partie-reglementaire/partie-5/livre-ier/titre-iii/chapitre-unique.md) (16 articles)
+      - **TITRE IV : APPROPRIATION PAR L'ÉTAT DES BIENS DES FORCES ENNEMIES**
+        - [Chapitre unique](partie-reglementaire/partie-5/livre-ier/titre-iv/chapitre-unique.md) (5 articles)
+    - **LIVRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+      - **TITRE II : DISPOSITIONS FINANCIÈRES ET COMPTABLES**
+        - [Chapitre II : Le service de la trésorerie aux armées](partie-reglementaire/partie-5/livre-ii/titre-ii/chapitre-ii.md) (8 articles)
+  - **PARTIE 6 : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **LIVRE IER : DISPOSITIONS APPLICABLES DANS LES COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+      - **Titre Ier : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-ier/titre-ier/chapitre-ii.md) (6 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-ier/titre-ier/chapitre-iii.md) (7 articles)
+      - **Titre II : DISPOSITIONS PARTICULIÈRES À MAYOTTE**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-ier/titre-ii/chapitre-ii.md) (4 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-ier/titre-ii/chapitre-iii.md) (7 articles)
+    - **LIVRE II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY, À SAINT-MARTIN ET À SAINT-PIERRE-ET-MIQUELON**
+      - **Titre Ier : DISPOSITIONS COMMUNES**
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-ii/titre-ier/chapitre-iii.md) (4 articles)
+        - [Chapitre V : Adaptation de la partie 4](partie-reglementaire/partie-6/livre-ii/titre-ier/chapitre-v.md) (1 article)
+        - [Chapitre VI : Adaptation de la partie 5](partie-reglementaire/partie-6/livre-ii/titre-ier/chapitre-vi.md) (1 article)
+      - **Titre II : DISPOSITIONS PARTICULIÈRES À SAINT-BARTHÉLEMY**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-ii/titre-ii/chapitre-iii.md) (6 articles)
+      - **Titre III : DISPOSITIONS PARTICULIÈRES À SAINT-MARTIN**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-ii/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-ii/titre-iii/chapitre-ii.md) (2 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-ii/titre-iii/chapitre-iii.md) (4 articles)
+      - **Titre IV : DISPOSITIONS PARTICULIÈRES À SAINT-PIERRE-ET-MIQUELON**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-ii/titre-iv/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-ii/titre-iv/chapitre-ii.md) (15 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-ii/titre-iv/chapitre-iii.md) (6 articles)
+    - **LIVRE III : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA, EN POLYNÉSIE FRANÇAISE, EN NOUVELLE-CALÉDONIE ET DANS LES TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+      - **Titre Ier : DISPOSITIONS COMMUNES**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-iii/titre-ier/chapitre-ier.md) (2 articles)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-iii/titre-ier/chapitre-ii.md) (18 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-iii/titre-ier/chapitre-iii.md) (17 articles)
+        - [Chapitre IV : Adaptation de la partie 3](partie-reglementaire/partie-6/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+        - [Chapitre V : Adaptation de la partie 4](partie-reglementaire/partie-6/livre-iii/titre-ier/chapitre-v.md) (3 articles)
+        - [Chapitre VI : Adaptation de la partie 5](partie-reglementaire/partie-6/livre-iii/titre-ier/chapitre-vi.md) (2 articles)
+      - **Titre II : DISPOSITIONS PARTICULIÈRES AUX ÎLES WALLIS ET FUTUNA**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-iii/titre-ii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-iii/titre-ii/chapitre-iii.md) (2 articles)
+      - **Titre III : DISPOSITIONS PARTICULIÈRES À LA POLYNÉSIE FRANÇAISE**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-iii/titre-iii/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+      - **Titre IV : DISPOSITIONS PARTICULIÈRES À LA NOUVELLE-CALÉDONIE**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-iii/titre-iv/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-iii/titre-iv/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-iii/titre-iv/chapitre-iii.md) (1 article)
+      - **Titre V : DISPOSITIONS PARTICULIÈRES AUX TERRES AUSTRALES ET ANTARCTIQUES FRANÇAISES**
+        - [Chapitre Ier : Dispositions générales](partie-reglementaire/partie-6/livre-iii/titre-v/chapitre-ier.md) (1 article)
+        - [Chapitre II : Adaptation de la partie 1](partie-reglementaire/partie-6/livre-iii/titre-v/chapitre-ii.md) (3 articles)
+        - [Chapitre III : Adaptation de la partie 2](partie-reglementaire/partie-6/livre-iii/titre-v/chapitre-iii.md) (2 articles)

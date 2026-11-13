@@ -96,7 +96,7 @@ Elle comporte également les indicateurs relatifs aux écarts de rémunération 
 - Identifiant : LEGIARTI000049905537
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049905537
-- Renvoie à : [art. L225-115 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-115) ; [art. L232-6 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-6) ; [art. D5212-4 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-d5212-4) ; [art. L2241-6 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-iv/chapitre-ier.md#article-l2241-6) ; [art. L2312-9 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-9) ; [art. L2312-18 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-18) ; [art. L2312-21 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-21) ; [art. L2312-24 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-24) ; [art. L2312-27 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-27) ; [art. L4121-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-1) ; [art. L4141-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l4141-1) ; [art. L4154-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-iv.md#article-l4154-2) ; [art. L4154-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-iv.md#article-l4154-4) ; [art. L4221-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l4221-1) ; [art. L4522-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-ii/chapitre-ii.md#article-l4522-1) ; [art. L4522-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-ii/chapitre-ii.md#article-l4522-2) ; [art. L5212-5 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-5) ; [art. L6315-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l6315-1) ; [art. L6361-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ier.md#article-l6361-1) ; [art. L6362-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-l6362-4) ; art. L229-25 du Code de l'environnement ; art. R541-8 du Code de l'environnement
+- Renvoie à : [art. L225-115 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-115) ; [art. L232-6 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-6) ; [art. L229-25 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-ix.md#article-l229-25) ; [art. R541-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-ier.md#article-r541-8) ; [art. R541-45 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-ier.md#article-r541-45) ; [art. D5212-4 du Code du travail](../../../cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-d5212-4) ; [art. L2241-6 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ii/titre-iv/chapitre-ier.md#article-l2241-6) ; [art. L2312-9 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-9) ; [art. L2312-18 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-18) ; [art. L2312-21 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-21) ; [art. L2312-24 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-24) ; [art. L2312-27 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-27) ; [art. L4121-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-1) ; [art. L4141-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l4141-1) ; [art. L4154-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-iv.md#article-l4154-2) ; [art. L4154-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-v/chapitre-iv.md#article-l4154-4) ; [art. L4221-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ii/titre-ii/chapitre-ier.md#article-l4221-1) ; [art. L4522-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-ii/chapitre-ii.md#article-l4522-1) ; [art. L4522-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-ii/chapitre-ii.md#article-l4522-2) ; [art. L5212-5 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-ii/titre-ier/chapitre-ii.md#article-l5212-5) ; [art. L6315-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l6315-1) ; [art. L6361-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ier.md#article-l6361-1) ; [art. L6362-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ii.md#article-l6362-4)
 - Cité par : [art. R2312-16 du Code du travail](chapitre-ii.md#article-r2312-16) ; [art. R2312-18 du Code du travail](chapitre-ii.md#article-r2312-18) ; [art. R2312-19 du Code du travail](chapitre-ii.md#article-r2312-19)
 
 En l'absence d'accord prévu à l'article L. 2312-21, dans les entreprises de moins de trois cents salariés, la base de données prévue à l'article L. 2312-18 comporte les informations suivantes :
@@ -372,7 +372,7 @@ Notes :(1) Lorsque les données et informations environnementales transmises dan
 - Identifiant : LEGIARTI000049905524
 - État : en vigueur depuis le 07/07/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049905524
-- Renvoie à : [art. L225-102-1 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-102-1) ; [art. L225-115 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-115) ; [art. L232-6 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-6) ; [art. L2312-18 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-18) ; [art. L2312-21 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-21) ; [art. L5424-11 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-l5424-11) ; [art. R2242-2 du Code du travail](../../livre-ii/titre-iv/chapitre-ii.md#article-r2242-2) ; art. R225-105 du Code de commerce ; art. L229-25 du Code de l'environnement ; art. R541-8 du Code de l'environnement ; art. L461-4 du Code de la sécurité sociale
+- Renvoie à : [art. L225-102-1 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-102-1) ; [art. L225-115 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-ii/chapitre-v.md#article-l225-115) ; [art. L232-6 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-ii.md#article-l232-6) ; [art. L229-25 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-ii/titre-ii/chapitre-ix.md#article-l229-25) ; [art. R541-8 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-ier.md#article-r541-8) ; [art. R541-45 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-iv/chapitre-ier.md#article-r541-45) ; [art. L461-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-vi.md#article-l461-4) ; [art. L2312-18 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-18) ; [art. L2312-21 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-21) ; [art. L5424-11 du Code du travail](../../../../partie-legislative/cinquieme-partie/livre-iv/titre-ii/chapitre-iv.md#article-l5424-11) ; [art. R2242-2 du Code du travail](../../livre-ii/titre-iv/chapitre-ii.md#article-r2242-2) ; art. R225-105 du Code de commerce
 - Cité par : [art. R2312-17 du Code du travail](chapitre-ii.md#article-r2312-17) ; [art. R2312-20 du Code du travail](chapitre-ii.md#article-r2312-20)
 
 En l'absence d'accord prévu à l'article L. 2312-21, dans les entreprises d'au moins trois cents salariés, la base de données économiques, sociales et environnementales prévue à l'article L. 2312-18 comporte les informations prévues dans le tableau ci-dessous.
@@ -1413,7 +1413,7 @@ Il communique au comité le nombre des journées de travail accomplies, au cours
 - Identifiant : LEGIARTI000036412644
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036412644
-- Renvoie à : art. L911-2 du Code de la sécurité sociale
+- Renvoie à : [art. L911-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-2)
 
 Le comité social et économique est informé et consulté préalablement à la mise en place d'une garantie collective mentionnée à l'article L. 911-2 du code de la sécurité sociale ou à la modification de celle-ci.
 
@@ -1434,7 +1434,7 @@ Ces dispositions ne sont applicables ni aux financements mentionnés au premier 
 - Identifiant : LEGIARTI000036412650
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036412650
-- Renvoie à : [art. L512-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006834230) ; [art. L415-1 du Code minier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023505851)
+- Renvoie à : [art. L512-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-ii.md#article-l512-1) ; [art. L415-1 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-iv/titre-unique/chapitre-v.md#article-l415-1)
 
 Les dispositions du présent paragraphe s'appliquent aux établissements comportant une ou plusieurs installations soumises à autorisation en application de l'article L. 512-1 du code de l'environnement ou mentionnées au livre II et à l'article L. 415-1 du code minier (nouveau).
 
@@ -1442,8 +1442,8 @@ Les dispositions du présent paragraphe s'appliquent aux établissements comport
 - Identifiant : LEGIARTI000036412652
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036412652
-- Renvoie à : [art. L181-9 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033928459) ; [art. L512-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006834230)
-- Cité par : [art. R253-36 du Code général de la fonction publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050549805)
+- Renvoie à : [art. L181-9 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-ier/titre-viii/chapitre-unique.md#article-l181-9) ; [art. L512-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-ii.md#article-l512-1)
+- Cité par : [art. R253-36 du Code général de la fonction publique](../../../../../code-general-de-la-fonction-publique/partie-reglementaire/livre-ii/titre-v/chapitre-iii.md#article-r253-36)
 
 Les documents joints à la demande d'autorisation, prévue à l'article L. 512-1 du code de l'environnement, sont portés à la connaissance du comité social et économique préalablement à leur envoi au préfet.  
 
@@ -1457,7 +1457,7 @@ Le président du comité transmet cet avis au préfet dans les trois jours suiva
 - Identifiant : LEGIARTI000036412654
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036412654
-- Renvoie à : art. R181-54 du Code de l'environnement
+- Renvoie à : [art. R181-13 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-ier/titre-viii/chapitre-unique.md#article-r181-13) ; [art. R181-47 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-ier/titre-viii/chapitre-unique.md#article-r181-47) ; [art. R181-54 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-ier/titre-viii/chapitre-unique.md#article-r181-54)
 
 Le comité social et économique émet un avis :  
 
@@ -1562,7 +1562,7 @@ Par dérogation aux dispositions des articles R. 2312-32 et R. 2312-33, dans les
 - Identifiant : LEGIARTI000036413296
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036413296
-- Cité par : [art. R342-32 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046112667)
+- Cité par : [art. R342-32 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-32)
 
 Les activités sociales et culturelles établies dans l'entreprise au bénéfice des salariés ou anciens salariés de l'entreprise et de leur famille comprennent :  
 
@@ -1611,7 +1611,7 @@ Ces personnes ou organismes agissent dans la limite des attributions qui leur on
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036413304
 - Renvoie à : [art. R2312-39 du Code du travail](chapitre-ii.md#article-r2312-39) ; [art. R2312-42 du Code du travail](chapitre-ii.md#article-r2312-42)
-- Cité par : [art. R2312-39 du Code du travail](chapitre-ii.md#article-r2312-39) ; [art. R342-32 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046112667)
+- Cité par : [art. R342-32 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-32) ; [art. R2312-39 du Code du travail](chapitre-ii.md#article-r2312-39)
 
 Le comité social et économique participe, dans les conditions prévues par l'article R. 2312-39, à la gestion des activités sociales et culturelles qui possèdent la personnalité civile.  
 
@@ -1755,7 +1755,7 @@ Il est doté de la personnalité civile et fonctionne dans les mêmes conditions
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036413334
 - Renvoie à : [art. L2315-61 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-61)
-- Cité par : [art. R342-32 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046112667)
+- Cité par : [art. R342-32 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-32)
 
 Les ressources du comité social et économique en matière d'activités sociales et culturelles sont constituées par :  
 
@@ -1791,7 +1791,7 @@ Sont exclues du calcul de la contribution mentionnée au 1° de l'article R. 231
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036413338
 - Renvoie à : [art. L2312-84 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-ii.md#article-l2312-84) ; [art. L2315-65 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-65) ; [art. L2315-69 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-iii/titre-ier/chapitre-v.md#article-l2315-69)
-- Cité par : [art. R2312-50 du Code du travail](chapitre-ii.md#article-r2312-50) ; [art. R342-32 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046112667)
+- Cité par : [art. R342-32 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md#article-r342-32) ; [art. R2312-50 du Code du travail](chapitre-ii.md#article-r2312-50)
 
 En cas de reliquat budgétaire, l'excédent annuel du budget destiné aux activités sociales et culturelles peut être transféré au budget de fonctionnement ou à des associations conformément à l'article L. 2312-84, dans la limite de 10 % de cet excédent.  
 

@@ -8,7 +8,7 @@ Code du travail › Partie législative › Septième partie : Dispositions part
 - Identifiant : LEGIARTI000006904719
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904719
-- Cité par : [art. D7313-1 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-d7313-1) ; [art. L7313-2 du Code du travail](chapitre-iii.md#article-l7313-2) ; [art. D544-9 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046415054)
+- Cité par : [art. D544-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-4.md#article-d544-9) ; [art. D7313-1 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iii/titre-ier/chapitre-iii.md#article-d7313-1) ; [art. L7313-2 du Code du travail](chapitre-iii.md#article-l7313-2)
 
 Toute convention dont l'objet est la représentation, conclue entre un voyageur, représentant ou placier et un employeur est, nonobstant toute stipulation expresse du contrat ou en son silence, un contrat de travail.
 
@@ -17,7 +17,7 @@ Toute convention dont l'objet est la représentation, conclue entre un voyageur,
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904721
 - Renvoie à : [art. L7313-1 du Code du travail](chapitre-iii.md#article-l7313-1)
-- Cité par : [art. D544-9 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046415054)
+- Cité par : [art. D544-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-v/titre-iv/chapitre-4.md#article-d544-9)
 
 L'absence de clauses interdisant soit l'exercice d'une autre profession, soit l'accomplissement d'opérations commerciales personnelles ne peut faire obstacle à l'application des dispositions de l'article L. 7313-1.
 
@@ -66,7 +66,7 @@ Lorsque le contrat de travail ne prévoit pas cette interdiction, il comporte, �
 - Identifiant : LEGIARTI000006904727
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904727
-- Cité par : [art. R242-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039222466)
+- Cité par : [art. R242-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-2.md#article-r242-2)
 
 Les commissions dues au voyageur, représentant ou placier du commerce sont payées au moins tous les trois mois.
 
@@ -75,7 +75,7 @@ Les commissions dues au voyageur, représentant ou placier du commerce sont pay�
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904728
 - Renvoie à : [art. L3253-2 du Code du travail](../../../troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-2) ; [art. L3253-3 du Code du travail](../../../troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-3)
-- Cité par : [art. L622-17 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-17) ; [art. L626-20 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-vi.md#article-l626-20) ; [art. L626-22 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-vi.md#article-l626-22) ; [art. L641-13 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-13) ; [art. L3253-16 du Code du travail](../../../troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-16) ; [art. L3253-19 du Code du travail](../../../troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-19) ; [art. L643-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054591315) ; [art. L311-29 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036102827) ; [art. L612-34-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045404711) ; [art. L613-51-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031081908) ; [ORDONNANCE n° 2015-1024 du 20 août 2015, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031075660) ; [ORDONNANCE n° 2015-1024 du 20 août 2015, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031075662)
+- Cité par : [art. L622-17 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-ii.md#article-l622-17) ; [art. L626-20 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-vi.md#article-l626-20) ; [art. L626-22 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-ii/chapitre-vi.md#article-l626-22) ; [art. L641-13 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-13) ; [art. L311-29 du Code des assurances](../../../../../code-des-assurances/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l311-29) ; [art. L3253-16 du Code du travail](../../../troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-16) ; [art. L3253-19 du Code du travail](../../../troisieme-partie/livre-ii/titre-v/chapitre-iii.md#article-l3253-19) ; [art. L612-34-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ier/chapitre-ii.md#article-l612-34-1) ; [art. L613-51-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ier/chapitre-iii.md#article-l613-51-1) ; [art. L643-8 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054591315) ; [ORDONNANCE n° 2015-1024 du 20 août 2015, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031075660) ; [ORDONNANCE n° 2015-1024 du 20 août 2015, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031075662)
 
 Les dispositions des articles L. 3253-2 et L. 3253-3, relatives aux garanties des rémunérations dans le cadre d'une procédure de sauvegarde, de redressement ou de liquidation judiciaire, s'appliquent aux voyageurs, représentants ou placiers pour les rémunérations de toute nature dues au titre des quatre-vingt-dix derniers jours de travail.
 

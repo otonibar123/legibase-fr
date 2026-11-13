@@ -6,7 +6,7 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - Identifiant : LEGIARTI000006411012
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006411012
-- Cité par : [art. R621-46 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054359671)
+- Cité par : [art. R621-46 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-reglementaire/livre-vi/titre-ii/chapitre-unique.md#article-r621-46)
 
 Tout acte d'huissier de justice indique, indépendamment des mentions prescrites par ailleurs :
 

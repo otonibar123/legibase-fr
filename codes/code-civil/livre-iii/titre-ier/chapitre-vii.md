@@ -6,7 +6,7 @@ Code civil › Livre III : Des différentes manières dont on acquiert la propri
 - Identifiant : LEGIARTI000006432351
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432351
-- Cité par : [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-3 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-3) ; [art. R444-71 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-4.md#article-r444-71) ; [Arrêté du 23 avril 1982, art. CHAPITRE 5 PARAGRAPHE 2 ART. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006782404) ; [art. L613-30 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279516) ; [art. L214-162-14 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049872482) ; [Loi n°1924-06-01 du 1 juin 1924, art. 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284146)
+- Cité par : [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-3 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-3) ; [art. R444-71 du Code de commerce](../../../code-de-commerce/partie-reglementaire/livre-iv/titre-iv-bis/section-3/sous-section-4.md#article-r444-71) ; [art. L613-30 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/deuxieme-partie/livre-vi/titre-ier/chapitre-iii.md#article-l613-30) ; [art. L214-162-14 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-162-14) ; [Arrêté du 23 avril 1982, art. CHAPITRE 5 PARAGRAPHE 2 ART. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006782404) ; [Loi n°1924-06-01 du 1 juin 1924, art. 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284146)
 
 Nul ne peut être contraint à demeurer dans l'indivision et le partage peut toujours être provoqué, à moins qu'il n'y ait été sursis par jugement ou convention.
 
@@ -39,7 +39,7 @@ Lorsque des biens indivis sont grevés d'un usufruit, ces pouvoirs sont opposabl
 - Identifiant : LEGIARTI000006432378
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378
-- Cité par : [art. L135-11 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006581990) ; [art. L181-29 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038791123) ; [art. L183-24 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038791120) ; [LOI n°2017-285 du 6 mars 2017, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053775756) ; [Loi n° 86-18 du 6 janvier 1986, art. 19-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028807459)
+- Cité par : [art. L135-11 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-iii/chapitre-v.md#article-l135-11) ; [art. L181-29 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-viii/chapitre-ier.md#article-l181-29) ; [art. L183-24 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-viii/chapitre-iii.md#article-l183-24) ; [LOI n°2017-285 du 6 mars 2017, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053775756) ; [Loi n° 86-18 du 6 janvier 1986, art. 19-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028807459)
 
 Le ou les indivisaires titulaires d'au moins deux tiers des droits indivis peuvent, à cette majorité :  
 
@@ -86,7 +86,7 @@ L'acte passé dans les conditions fixées par l'autorisation de justice est oppo
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039367468
 - Renvoie à : [art. 836 du Code civil](chapitre-viii.md#article-836)
-- Cité par : [art. L181-30 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038791126) ; [art. L183-25 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038791116)
+- Cité par : [art. L181-30 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-viii/chapitre-ier.md#article-l181-30) ; [art. L183-25 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-viii/chapitre-iii.md#article-l183-25)
 
 Sauf en cas de démembrement de la propriété du bien ou si l'un des indivisaires se trouve dans l'un des cas prévus à l'article 836, l'aliénation d'un bien indivis peut être autorisée par le tribunal judiciaire, à la demande de l'un ou des indivisaires titulaires d'au moins deux tiers des droits indivis, suivant les conditions et modalités définies aux alinéas suivants.
 
@@ -205,7 +205,7 @@ Inversement, l'indivisaire répond des dégradations et détériorations qui ont
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432469
 - Renvoie à : [art. 828 du Code civil](chapitre-viii.md#article-828)
-- Cité par : [art. 815-16 du Code civil](chapitre-vii.md#article-815-16) ; [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-12 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-12) ; [art. L526-29 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-29) ; [art. L143-4 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029594354)
+- Cité par : [art. 815-16 du Code civil](chapitre-vii.md#article-815-16) ; [art. 815-18 du Code civil](chapitre-vii.md#article-815-18) ; [art. 1873-12 du Code civil](../titre-ix-bis/chapitre-ier.md#article-1873-12) ; [art. L526-29 du Code de commerce](../../../code-de-commerce/partie-legislative/livre-v/titre-ii/chapitre-vi.md#article-l526-29) ; [art. L143-4 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-4)
 
 L'indivisaire qui entend céder, à titre onéreux, à une personne étrangère à l'indivision, tout ou partie de ses droits dans les biens indivis ou dans un ou plusieurs de ces biens est tenu de notifier par acte extrajudiciaire aux autres indivisaires le prix et les conditions de la cession projetée ainsi que les nom, domicile et profession de la personne qui se propose d'acquérir.  
 
@@ -221,7 +221,7 @@ Lorsque des délais de paiement ont été consentis par le cédant, l'article 82
 - Identifiant : LEGIARTI000006432480
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432480
-- Cité par : [art. 815-16 du Code civil](chapitre-vii.md#article-815-16) ; [art. L143-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029594354)
+- Cité par : [art. 815-16 du Code civil](chapitre-vii.md#article-815-16) ; [art. L143-4 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-ier/titre-iv/chapitre-iii.md#article-l143-4)
 
 S'il y a lieu à l'adjudication de tout ou partie des droits d'un indivisaire dans les biens indivis ou dans un ou plusieurs de ces biens, l'avocat ou le notaire doit en informer les indivisaires par notification un mois avant la date prévue pour la vente. Chaque indivisaire peut se substituer à l'acquéreur dans un délai d'un mois à compter de l'adjudication, par déclaration au greffe ou auprès du notaire.  
 

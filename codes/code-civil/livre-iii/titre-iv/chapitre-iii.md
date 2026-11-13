@@ -14,6 +14,7 @@ Le créancier a droit à l'exécution de l'obligation ; il peut y contraindre le
 - Identifiant : LEGIARTI000032035225
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035225
+- Cité par : [art. L666-3 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-vi/titre-vi/chapitre-vi.md#article-l666-3)
 
 Lorsque la carence du débiteur dans l'exercice de ses droits et actions à caractère patrimonial compromet les droits de son créancier, celui-ci peut les exercer pour le compte de son débiteur, à l'exception de ceux qui sont exclusivement rattachés à sa personne.
 
@@ -21,7 +22,7 @@ Lorsque la carence du débiteur dans l'exercice de ses droits et actions à cara
 - Identifiant : LEGIARTI000032035227
 - État : en vigueur depuis le 01/10/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035227
-- Cité par : [art. 794 du Code civil](../titre-ier/chapitre-iv.md#article-794) ; [art. 1397 du Code civil](../titre-v/chapitre-ier.md#article-1397) ; [art. 1578 du Code civil](../titre-v/chapitre-iv.md#article-1578) ; [art. L132-14 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054334542)
+- Cité par : [art. 794 du Code civil](../titre-ier/chapitre-iv.md#article-794) ; [art. 1397 du Code civil](../titre-v/chapitre-ier.md#article-1397) ; [art. 1578 du Code civil](../titre-v/chapitre-iv.md#article-1578) ; [art. L223-15 du Code de la mutualité](../../../code-de-la-mutualite/partie-legislative/livre-ii/titre-ii/chapitre-iii.md#article-l223-15) ; [art. L132-14 du Code des assurances](../../../code-des-assurances/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-l132-14)
 
 Le créancier peut aussi agir en son nom personnel pour faire déclarer inopposables à son égard les actes faits par son débiteur en fraude de ses droits, à charge d'établir, s'il s'agit d'un acte à titre onéreux, que le tiers cocontractant avait connaissance de la fraude.
 

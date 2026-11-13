@@ -7,7 +7,7 @@ Code du travail › Partie législative › Première partie : Les relations ind
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901237
 - Renvoie à : [art. L1242-1 du Code du travail](chapitre-ii.md#article-l1242-1)
-- Cité par : [art. L222-2-1 du Code du sport](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034117194) ; [LOI n°2016-1321 du 7 octobre 2016, art. 102](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036263139)
+- Cité par : [art. L222-2-1 du Code du sport](../../../../../code-du-sport/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l222-2-1) ; [LOI n°2016-1321 du 7 octobre 2016, art. 102](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036263139)
 
 Le fait de conclure un contrat de travail à durée déterminée qui a pour objet ou pour effet de pourvoir durablement un emploi lié à l'activité normale et permanente de l'entreprise, en méconnaissance de l'article L. 1242-1, est puni d'une amende de 3 750 euros.
 
@@ -18,7 +18,7 @@ La récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901238
 - Renvoie à : [art. L1242-2 du Code du travail](chapitre-ii.md#article-l1242-2) ; [art. L1242-3 du Code du travail](chapitre-ii.md#article-l1242-3)
-- Cité par : [art. L431-5 du Code de la recherche](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042752265) ; [art. L5542-55 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027724223)
+- Cité par : [art. L412-3 du Code de la recherche](../../../../../code-de-la-recherche/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-3) ; [art. L431-5 du Code de la recherche](../../../../../code-de-la-recherche/partie-legislative/livre-iv/titre-iii/chapitre-ier.md#article-l431-5) ; [art. L5542-55 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-55)
 
 Le fait de conclure un contrat de travail à durée déterminée pour un objet autre que celui prévu au premier alinéa de l'article L. 1242-2 ou en dehors des cas prévus à ce même article et à l'article L. 1242-3 est puni d'une amende de 3 750 euros.
 
@@ -29,7 +29,7 @@ La récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901239
 - Renvoie à : [art. L1242-5 du Code du travail](chapitre-ii.md#article-l1242-5) ; [art. L1242-6 du Code du travail](chapitre-ii.md#article-l1242-6)
-- Cité par : [art. L5542-53 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027724238)
+- Cité par : [art. L5542-53 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-53)
 
 Le fait de méconnaître les dispositions des articles L. 1242-5 et L. 1242-6, relatives aux interdictions en matière de conclusion de contrat de travail à durée déterminée, est puni d'une amende de 3 750 euros.  
 
@@ -52,7 +52,7 @@ La récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six
 - État : en vigueur depuis le 24/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644021
 - Renvoie à : [art. L1242-8 du Code du travail](chapitre-ii.md#article-l1242-8) ; [art. L1242-8-1 du Code du travail](chapitre-ii.md#article-l1242-8-1) ; [art. L1242-8-2 du Code du travail](chapitre-ii.md#article-l1242-8-2)
-- Cité par : [art. L5542-52 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026571224)
+- Cité par : [art. L5542-52 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-52)
 
 Le fait de méconnaître les stipulations d'une convention ou d'un accord de branche prises en application de l'article L. 1242-8 ou, lorsqu'elles s'appliquent, les dispositions des articles L. 1242-8-1 et L. 1242-8-2, relatives à la durée du contrat de travail à durée déterminée, est puni d'une amende de 3 750 euros. La récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six mois.
 
@@ -103,7 +103,7 @@ La récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six
 - État : en vigueur depuis le 24/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644017
 - Renvoie à : [art. L1243-13 du Code du travail](chapitre-iii.md#article-l1243-13) ; [art. L1243-13-1 du Code du travail](chapitre-iii.md#article-l1243-13-1)
-- Cité par : [art. L5542-52 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000026571224)
+- Cité par : [art. L5542-52 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-52)
 
 Le fait de renouveler le contrat de travail à durée déterminée en méconnaissance des stipulations d'une convention ou d'un accord de branche prises en application de l'article L. 1243-13 ou, lorsqu'elles s'appliquent, des dispositions de l'article L. 1243-13-1 est puni d'une amende de 3 750 euros. La récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six mois.
 
@@ -114,7 +114,7 @@ Le fait de renouveler le contrat de travail à durée déterminée en méconnais
 - État : en vigueur depuis le 24/09/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644013
 - Renvoie à : [art. L1244-3 du Code du travail](chapitre-iv.md#article-l1244-3) ; [art. L1244-3-1 du Code du travail](chapitre-iv.md#article-l1244-3-1)
-- Cité par : [art. L5542-54 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027724230)
+- Cité par : [art. L5542-54 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-54)
 
 Le fait de méconnaître les stipulations d'une convention ou d'un accord de branche prises en application de l'article L. 1244-3 ou, lorsqu'elles sont applicables, les dispositions de l'article L. 1244-3-1, relatives à la succession de contrats sur un même poste, est puni d'une amende de 3 750 euros. La récidive est punie d'une amende de 7 500 euros et d'un emprisonnement de six mois.
 

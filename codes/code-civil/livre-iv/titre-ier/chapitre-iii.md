@@ -6,6 +6,6 @@ Code civil › Livre IV : Des sûretés › Titre Ier : Des sûretés personnell
 - Identifiant : LEGIARTI000006448439
 - État : en vigueur depuis le 24/03/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006448439
-- Cité par : [art. R333-1 du Code de l'énergie](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049822004)
+- Cité par : [art. R333-1 du Code de l'énergie](../../../code-de-l-energie/partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md#article-r333-1) ; [art. R443-2 du Code de l'énergie](../../../code-de-l-energie/partie-reglementaire/livre-iv/titre-iv/chapitre-iii.md#article-r443-2)
 
 La lettre d'intention est l'engagement de faire ou de ne pas faire ayant pour objet le soutien apporté à un débiteur dans l'exécution de son obligation envers son créancier.

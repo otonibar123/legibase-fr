@@ -22,7 +22,7 @@ La juridiction peut prononcer, en outre, l'interdiction d'exercer l'activité d'
 - État : en vigueur depuis le 04/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030434991
 - Renvoie à : [art. L1251-16 du Code du travail](chapitre-ier.md#article-l1251-16) ; [art. L1251-17 du Code du travail](chapitre-ier.md#article-l1251-17) ; [art. L1251-18 du Code du travail](chapitre-ier.md#article-l1251-18) ; [art. L1251-34 du Code du travail](chapitre-ier.md#article-l1251-34) ; [art. L1251-42 du Code du travail](chapitre-ier.md#article-l1251-42) ; [art. L1251-45 du Code du travail](chapitre-ier.md#article-l1251-45) ; [art. L1251-47 du Code du travail](chapitre-ier.md#article-l1251-47) ; [art. L1251-49 du Code du travail](chapitre-ier.md#article-l1251-49)
-- Cité par : [art. L1255-11 du Code du travail](chapitre-v.md#article-l1255-11)
+- Cité par : [art. L5542-51 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-ii.md#article-l5542-51) ; [art. L1255-11 du Code du travail](chapitre-v.md#article-l1255-11)
 
 Est puni d'une amende de 3 750 euros, le fait pour l'entrepreneur de travail temporaire :  
 
@@ -144,7 +144,7 @@ Le fait de méconnaître, directement ou par personne interposée, l'interdictio
 - Identifiant : LEGIARTI000030435090
 - État : en vigueur depuis le 04/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030435090
-- Renvoie à : [art. 131-35 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417308)
+- Renvoie à : [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 Dans tous les cas prévus à la présente section, la juridiction peut ordonner, à titre de peine complémentaire, l'affichage du jugement aux frais de l'entrepreneur de travail temporaire ou de l'utilisateur condamné, dans les conditions prévues à l'article 131-35 du code pénal, et son insertion, intégrale ou par extraits, dans les journaux qu'elle désigne. Ces frais ne peuvent excéder le montant maximum de l'amende encourue.
 
@@ -154,7 +154,7 @@ Dans tous les cas prévus à la présente section, la juridiction peut ordonner,
 - Identifiant : LEGIARTI000030435133
 - État : en vigueur depuis le 04/04/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030435133
-- Renvoie à : [art. L1253-1 du Code du travail](chapitre-iii.md#article-l1253-1) ; [art. L1253-10 du Code du travail](chapitre-iii.md#article-l1253-10) ; [art. L1253-17 du Code du travail](chapitre-iii.md#article-l1253-17) ; [art. 131-35 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417308)
+- Renvoie à : [art. L1253-1 du Code du travail](chapitre-iii.md#article-l1253-1) ; [art. L1253-10 du Code du travail](chapitre-iii.md#article-l1253-10) ; [art. L1253-17 du Code du travail](chapitre-iii.md#article-l1253-17) ; [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 Le fait de méconnaître les dispositions des articles L. 1253-1 à L. 1253-10 et L. 1253-17, est puni d'une amende de 3 750 euros.  
 
@@ -243,6 +243,6 @@ Le fait de méconnaître, directement ou par personne interposée, l'interdictio
 - Identifiant : LEGIARTI000033012989
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033012989
-- Renvoie à : art. 131-35 du Code pénal
+- Renvoie à : [art. 131-35 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ier.md#article-131-35)
 
 Dans tous les cas prévus à la présente section, la juridiction peut ordonner, à titre de peine complémentaire, l'affichage ou la diffusion de l'intégralité ou d'une partie de la décision, ou d'un communiqué informant le public des motifs et du dispositif de celle-ci, aux frais de l'entrepreneur de portage salarial ou de l'entreprise cliente condamnée, dans les conditions prévues à l'article 131-35 du code pénal, et son insertion, intégrale ou par extraits, dans les publications qu'elle désigne. Elle détermine, le cas échéant, les extraits de la décision et les termes du communiqué qui devront être affichés ou diffusés.

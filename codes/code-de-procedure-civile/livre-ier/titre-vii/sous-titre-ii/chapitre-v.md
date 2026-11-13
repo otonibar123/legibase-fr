@@ -8,7 +8,7 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - Identifiant : LEGIARTI000006410362
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410362
-- Cité par : [art. 155-1 du Code de procédure civile](chapitre-ier.md#article-155-1) ; [art. L442-4 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039280808) ; [Ordonnance n°2016-728 du 2 juin 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053936448)
+- Cité par : [art. L442-4 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-iv/chapitre-2.md#article-l442-4) ; [art. 155-1 du Code de procédure civile](chapitre-ier.md#article-155-1) ; [Ordonnance n°2016-728 du 2 juin 2016, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053936448)
 
 Le juge peut commettre toute personne de son choix pour l'éclairer par des constatations, par une consultation ou par une expertise sur une question de fait qui requiert les lumières d'un technicien.
 
@@ -274,7 +274,7 @@ L'expertise n'a lieu d'être ordonnée que dans le cas où des constatations ou 
 - Identifiant : LEGIARTI000006410395
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410395
-- Cité par : [art. 1121 du Code de procédure civile](../../../livre-iii/titre-ier/chapitre-v.md#article-1121) ; [art. D311-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054949011) ; [Décret n°2019-390 du 30 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038432528)
+- Cité par : [art. D311-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-i/chapitre-1.md#article-d311-1) ; [art. 1121 du Code de procédure civile](../../../livre-iii/titre-ier/chapitre-v.md#article-1121) ; [Décret n°2019-390 du 30 avril 2019](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000038432528)
 
 Il n'est désigné qu'une seule personne à titre d'expert à moins que le juge n'estime nécessaire d'en nommer plusieurs.
 
@@ -315,7 +315,7 @@ L'expert fait connaître sans délai au juge son acceptation ; il doit commencer
 - Identifiant : LEGIARTI000034747872
 - État : en vigueur depuis le 11/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034747872
-- Cité par : [art. R391-6 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021635503)
+- Cité par : [art. R391-6 du Code des pensions militaires d'invalidité et des victimes de la guerre](../../../../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iii/chapitre-ii.md#article-r391-6)
 
 Les dossiers des parties ou les documents nécessaires à l'expertise sont provisoirement conservés au greffe de la juridiction sous réserve de l'autorisation donnée par le juge aux parties qui les ont remis d'en retirer certains éléments ou de s'en faire délivrer copie. L'expert peut les consulter même avant d'accepter sa mission. Dès son acceptation, l'expert peut, contre émargement ou récépissé, retirer ou se faire adresser par le greffier de la juridiction les dossiers ou les documents des parties.
 
@@ -391,7 +391,7 @@ En cas de carence des parties, l'expert en informe le juge qui peut ordonner la 
 - Identifiant : LEGIARTI000006410415
 - État : en vigueur depuis le 01/03/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410415
-- Cité par : [art. R3211-13 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024378498) ; [art. R3211-14 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029374408)
+- Cité par : [art. R3211-13 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-13) ; [art. R3211-14 du Code de la santé publique](../../../../code-de-la-sante-publique/partie-reglementaire/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-r3211-14)
 
 L'expert doit prendre en considération les observations ou réclamations des parties, et, lorsqu'elles sont écrites, les joindre à son avis si les parties le demandent.  
 
@@ -473,7 +473,7 @@ Le dépôt par l'expert de son rapport est accompagné de sa demande de rémuné
 - Identifiant : LEGIARTI000006410426
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410426
-- Cité par : [art. R391-6 du Code des pensions militaires d'invalidité et de...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021635503)
+- Cité par : [art. R391-6 du Code des pensions militaires d'invalidité et des victimes de la guerre](../../../../code-des-pensions-militaires-d-invalidite-et-des-victimes-de-la-guerre/partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iii/chapitre-ii.md#article-r391-6)
 
 Si le juge ne trouve pas dans le rapport les éclaircissements suffisants, il peut entendre l'expert, les parties présentes ou appelées.
 

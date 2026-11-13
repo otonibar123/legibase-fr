@@ -58,8 +58,8 @@ Lorsque la présomption de paternité est écartée dans les conditions prévues
 - Identifiant : LEGIARTI000037399055
 - État : en vigueur depuis le 01/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037399055
-- Renvoie à : [art. 62 du Code civil](../titre-ii/chapitre-ii.md#article-62) ; [art. L264-2 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797344)
-- Cité par : [art. 315 du Code civil](chapitre-ii.md#article-315) ; [art. 2496 du Code civil](../../livre-v/titre-ier.md#article-2496) ; [art. A444-84-1 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-84-1) ; [Arrêté du 9 décembre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044948777)
+- Renvoie à : [art. 62 du Code civil](../titre-ii/chapitre-ii.md#article-62) ; [art. L264-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-iv.md#article-l264-2)
+- Cité par : [art. 315 du Code civil](chapitre-ii.md#article-315) ; [art. 2496 du Code civil](../../livre-v/titre-ier.md#article-2496) ; [art. A444-84-1 du Code de commerce](../../../code-de-commerce/partie-arretes/livre-iv/titre-iv-bis/chapitre-ier.md#article-a444-84-1) ; [art. L423-8 du Code de l'entrée et du séjour des étrangers et du droit d'asile](../../../code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile/partie-legislative/livre-iv/titre-ii/chapitre-iii.md#article-l423-8) ; [Arrêté du 9 décembre 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000044948777)
 
 Lorsque la filiation n'est pas établie dans les conditions prévues à la section I du présent chapitre, elle peut l'être par une reconnaissance de paternité ou de maternité, faite avant ou après la naissance.
 

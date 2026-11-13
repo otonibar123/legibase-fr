@@ -1,0 +1,78 @@
+# Code du domaine de l'Etat
+
+Dernière modification du texte dans LEGI : 26/05/2023. 472 articles en vigueur, répartis dans 41 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Livre Ier : Composition du domaine**
+    - **Titre II : Origine des biens**
+      - [Chapitre Ier : Domaine public.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Domaine privé](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md) (52 articles)
+  - **Livre II : Administration des biens domaniaux**
+    - **Titre Ier : Domaine public**
+      - [Chapitre Ier : Occupation temporaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Transfert de gestion.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Extractions sur le domaine public.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : Domaine privé**
+      - [Chapitre Ier : Domaine immobilier](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ier.md) (45 articles)
+      - [Chapitre II : Domaine mobilier.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii.md) (13 articles)
+    - **Titre III : Dispositions communes**
+      - [Chapitre V : Regroupement des services publics.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-v.md) (4 articles)
+      - [Chapitre VI : Contrôle de l'utilisation des immeubles domaniaux.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-vi.md) (5 articles)
+      - [Chapitre VII : Intervention de certains organismes dans la gestion d'immeubles domaniaux.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-vii.md) (11 articles)
+      - [Chapitre VIII : Utilisation des immeubles domaniaux par les services de l'Etat et ses établissements publics.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-viii.md) (6 articles)
+  - **Livre III : Aliénation des biens domaniaux**
+    - **Titre II : Aliénation des biens du domaine privé**
+      - [Chapitre Ier : Domaine immobilier](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ier.md) (33 articles)
+      - [Chapitre II : Domaine mobilier.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+  - **Livre IV : Dispositions diverses**
+    - [Titre Ier : Dispositions générales.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ier.md) (5 articles)
+    - **Titre II : Procédure - Instances**
+      - [Chapitre Ier : Recouvrement des produits domaniaux](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Instances.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-ii/chapitre-ii.md) (7 articles)
+    - **Titre IV : Dispositions spéciales aux départements d'outre-mer**
+      - [Chapitre Ier : Zone des cinquante pas géométriques.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-ier.md) (10 articles)
+      - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-ier-bis.md) (28 articles)
+      - [Chapitre III : Dispositions spéciales au domaine privé de l'Etat en Guyane](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-iv/chapitre-iii.md) (51 articles)
+    - [Titre V : Dispositions particulières et finales.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-v.md) (16 articles)
+- **Partie réglementaire - Décrets simples**
+  - **Livre Ier : Composition du domaine**
+    - **Titre II : Origine des biens**
+      - [Chapitre II : Domaine privé](partie-reglementaire-decrets-simples/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+  - **Livre II : Administration des biens domaniaux**
+    - **Titre II : Domaine privé**
+      - [Chapitre Ier : Domaine immobilier](partie-reglementaire-decrets-simples/livre-ii/titre-ii/chapitre-ier.md) (2 articles)
+  - **Livre III : Aliénation des biens domaniaux**
+    - **Titre II : Aliénation des biens du domaine privé**
+      - [Chapitre Ier : Domaine immobilier](partie-reglementaire-decrets-simples/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+  - **Livre IV : Dispositions diverses**
+    - [Titre III : Disposition spéciale au domaine forestier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.](partie-reglementaire-decrets-simples/livre-iv/titre-iii.md) (1 article)
+    - **Titre IV : Dispositions spéciales aux départements d'outre-mer**
+      - [Chapitre Ier bis : Dispositions spéciales aux départements de la Guadeloupe et de la Martinique.](partie-reglementaire-decrets-simples/livre-iv/titre-iv/chapitre-ier-bis.md) (1 article)
+      - [Chapitre III : Concessions domaniales en Guyane.](partie-reglementaire-decrets-simples/livre-iv/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Domanialité des terres vacantes et sans maître en Guyane.](partie-reglementaire-decrets-simples/livre-iv/titre-iv/chapitre-iv.md) (2 articles)
+    - [Titre V : Dispositions particulières et finales.](partie-reglementaire-decrets-simples/livre-iv/titre-v.md) (9 articles)
+- **Partie réglementaire - Arrêtés**
+  - **Livre Ier : Composition du domaine**
+    - **Titre II : Origine des biens**
+      - [Chapitre II : Domaine privé](partie-reglementaire-arretes/livre-ier/titre-ii/chapitre-ii.md) (9 articles)
+    - [Titre III : Inventaire des biens.](partie-reglementaire-arretes/livre-ier/titre-iii.md) (5 articles)
+  - **Livre II : Administration des biens domaniaux**
+    - **Titre Ier : Domaine public**
+      - [Chapitre Ier : Occupation temporaire](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ier.md) (28 articles)
+      - [Chapitre III : Extractions sur le domaine public](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-iii.md) (20 articles)
+      - [Chapitre IV : Exploitation du droit de pêche de l'Etat dans les eaux du domaine public fluvial et dans certaines voies d'eau non domaniales.](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-iv.md) (6 articles)
+    - **Titre II : Domaine privé**
+      - [Chapitre Ier : Domaine immobilier](partie-reglementaire-arretes/livre-ii/titre-ii/chapitre-ier.md) (33 articles)
+      - [Chapitre II : Domaine immobilier.](partie-reglementaire-arretes/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+  - **Livre III : Aliénation des biens domaniaux**
+    - **Titre II : Aliénation des biens du domaine privé**
+      - [Chapitre Ier : Domaine immobilier.](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Domaine mobilier.](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Dispositions communes au domaine immobilier et au domaine mobilier - Biens dépendant de successions en déshérence.](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-iii.md) (3 articles)
+  - **Livre IV : Dispositions diverses**
+    - **Titre IV : Dispositions spéciales aux départements d'outre-mer.**
+      - [Chapitre V : Concessions de logements.](partie-reglementaire-arretes/livre-iv/titre-iv/chapitre-v.md) (2 articles)
+    - [Titre V : Dispositions particulières et finales.](partie-reglementaire-arretes/livre-iv/titre-v.md) (1 article)

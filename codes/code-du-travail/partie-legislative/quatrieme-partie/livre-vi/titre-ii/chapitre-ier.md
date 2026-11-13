@@ -7,7 +7,7 @@ Code du travail › Partie législative › Quatrième partie : Santé et sécur
 - État : en vigueur depuis le 14/05/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020627441
 - Renvoie à : [art. L4111-1 du Code du travail](../../livre-ier/titre-ier/chapitre-unique.md#article-l4111-1)
-- Cité par : [art. L4745-1 du Code du travail](../../livre-vii/titre-iv/chapitre-v.md#article-l4745-1) ; [art. D412-79 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049795072) ; [art. 218-11 du Code minier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018266680)
+- Cité par : [art. D412-79 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-i/chapitre-2.md#article-d412-79) ; [art. L4745-1 du Code du travail](../../livre-vii/titre-iv/chapitre-v.md#article-l4745-1) ; [art. 218-11 du Code minier](../../../../../code-minier/livre-iii/titre-ier/chapitre-ii.md#article-218-11) ; [art. R717-26-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-26-2)
 
 Les dispositions du présent livre sont applicables aux employeurs de droit privé ainsi qu'aux travailleurs.
 

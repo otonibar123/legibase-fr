@@ -97,6 +97,7 @@ En cas de transmission incomplète ou entachée d'erreur matérielle de l'un de 
 - Identifiant : LEGIARTI000034275967
 - État : en vigueur depuis le 15/05/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034275967
+- Renvoie à : [art. L452-2 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-legislative/livre-iv/titre-v/chapitre-ii.md#article-l452-2)
 
 Le demandeur doit également joindre les pièces invoquées à l'appui de la demande de réexamen et une copie des dernières écritures que les parties au réexamen ont déposées devant la juridiction dont émane la décision critiquée ainsi que devant la Cour européenne des droits de l'homme. Lorsque la décision critiquée émane de la Cour de cassation, il joint également les dernières conclusions déposées devant la juridiction du fond.
 

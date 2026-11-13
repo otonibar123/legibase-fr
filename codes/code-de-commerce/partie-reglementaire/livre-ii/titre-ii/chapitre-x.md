@@ -113,7 +113,7 @@ Le bulletin de souscription énonce :
 - Identifiant : LEGIARTI000042922247
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042922247
-- Renvoie à : art. L542-1 du Code monétaire et financier
+- Renvoie à : [art. L542-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-ii.md#article-l542-1)
 
 Les fonds provenant des souscriptions en numéraire et la liste comportant les nom, prénom usuel et domicile des souscripteurs, avec l'indication des sommes versées par chacun d'eux, sont déposés, pour le compte de la société en formation et par les personnes qui ont reçu les fonds, soit à la Caisse des dépôts et consignations, soit chez un notaire, soit auprès d'un établissement de crédit ou d'un intermédiaire mentionné aux 2° à 7° de l'article L. 542-1 du code monétaire et financier, selon les indications portées à la notice.  
 
@@ -195,7 +195,7 @@ Lorsqu'un mandataire a été désigné par les souscripteurs en application de l
 - Identifiant : LEGIARTI000042922268
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042922268
-- Renvoie à : art. L242-1 du Code de la sécurité sociale
+- Renvoie à : [art. L137-11 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11) ; [art. L137-11-2 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11-2) ; [art. L242-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1)
 - Cité par : [art. R226-1 du Code de commerce](chapitre-vi.md#article-r226-1)
 
 I.-La politique de rémunération mentionnée au I de l'article L. 22-10-8 présente les informations suivantes, relatives à l'ensemble des mandataires sociaux :  
@@ -253,7 +253,7 @@ Les autres données à caractère personnel contenues dans ce rapport ne sont pl
 - Identifiant : LEGIARTI000042922275
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042922275
-- Renvoie à : art. L137-11 du Code de la sécurité sociale
+- Renvoie à : [art. L137-11 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11)
 
 I.-L'information donnée par la société sur les engagements de retraite, autres que les régimes de retraite de base et les régimes de retraites complémentaires obligatoires, ou autres avantages viagers pris par la société au bénéfice de ses mandataires sociaux en application du 4° de l'article L. 22-10-9 précise pour chaque mandataire social les éléments constitutifs essentiels de ceux-ci, en particulier :  
 
@@ -322,7 +322,7 @@ En application de l'article L. 22-10-3-1, afin de garantir l'identification et l
 - Identifiant : LEGIARTI000042922282
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042922282
-- Renvoie à : art. L242-1 du Code de la sécurité sociale
+- Renvoie à : [art. L137-11 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11) ; [art. L137-11-2 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11-2) ; [art. L242-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1)
 
 I.-La politique de rémunération mentionnée au I de l'article L. 22-10-26 comprend les informations suivantes, relatives à l'ensemble des mandataires sociaux :  
 
@@ -505,8 +505,8 @@ IV.-La publicité des intentions de vote mentionnée au quatrième alinéa de l'
 - Identifiant : LEGIARTI000053489878
 - État : en vigueur depuis le 16/02/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053489878
-- Renvoie à : art. L211-3 du Code monétaire et financier
-- Cité par : [art. D211-9-4 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042960727)
+- Renvoie à : [art. L211-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-ier.md#article-l211-3)
+- Cité par : [art. D211-9-4 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md#article-d211-9-4)
 
 I.-Par dérogation aux dispositions de l'article R. 225-86, dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé ou aux opérations d'un dépositaire central, il est justifié du droit de participer aux assemblées générales par l'inscription en compte des titres au nom de l'actionnaire ou de l'intermédiaire inscrit pour son compte en application du septième alinéa de l'article L. 228-1, au cinquième jour ouvré précédant l'assemblée à zéro heure, heure de Paris, soit dans les comptes de titres nominatifs tenus par la société, soit dans les comptes de titres au porteur tenus par un intermédiaire mentionné à l'article L. 211-3 du code monétaire et financier, soit, le cas échéant, dans un dispositif d'enregistrement électronique partagé en application du règlement (UE) 2022/858 du Parlement européen et du Conseil du 30 mai 2022 sur un régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués, et modifiant les règlements (UE) n° 600/2014 et (UE) n° 909/2014 et la directive 2014/65/ UE.  
 
@@ -670,7 +670,7 @@ Les dispositions des articles R. 225-153 à R. 225-155 et R. 22-10-38 ne sont pa
 - Identifiant : LEGIARTI000042922345
 - État : en vigueur depuis le 01/01/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042922345
-- Renvoie à : art. L242-1 du Code de la sécurité sociale
+- Renvoie à : [art. L137-11 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11) ; [art. L137-11-2 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-7.md#article-l137-11-2) ; [art. L242-1 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1)
 
 I.-La politique de rémunération mentionnée au I de l'article L. 22-10-76 comprend les informations suivantes, relatives au gérant ou aux gérants dans leur ensemble :  
 

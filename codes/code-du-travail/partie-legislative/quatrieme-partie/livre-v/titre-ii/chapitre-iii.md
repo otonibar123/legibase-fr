@@ -15,7 +15,7 @@ Les dispositions du présent chapitre s'appliquent sans préjudice de celles pr�
 - Identifiant : LEGIARTI000035652620
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652620
-- Cité par : [art. R4523-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-1) ; [art. L5545-12 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027724062)
+- Cité par : [art. L5545-12 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-l5545-12) ; [art. R4523-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-1)
 
 Le comité social et économique est consulté sur la liste des postes de travail liés à la sécurité de l'installation. Cette liste est établie par l'employeur dans des conditions déterminées par décret en Conseil d'Etat.  
 
@@ -33,8 +33,8 @@ Le comité social et économique est informé à la suite de tout incident qui a
 - Identifiant : LEGIARTI000035652617
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652617
-- Renvoie à : [art. L124-1 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006832918) ; [art. L1333-12 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006686697)
-- Cité par : [art. R593-56 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050812846)
+- Renvoie à : [art. L124-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-ier/titre-ii/chapitre-iv.md#article-l124-1) ; [art. L1333-6 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-l1333-6) ; [art. L1333-12 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iii/titre-iii/chapitre-iii.md#article-l1333-12)
+- Cité par : [art. R593-56 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-v/titre-ix/chapitre-iii.md#article-r593-56)
 
 Dans les établissements comportant une ou plusieurs installations nucléaires de base, le comité social et économique est informé par l'employeur de la politique de sûreté et peut lui demander communication des informations sur les risques liés à l'exposition aux rayonnements ionisants et sur les mesures de sûreté et de radioprotection prises pour prévenir ou réduire ces risques ou expositions, dans les conditions définies aux articles L. 124-1 à L. 124-6 du code de l'environnement.
 
@@ -112,7 +112,7 @@ Les conditions dans lesquelles cette formation est dispensée et renouvelée peu
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036262828
 - Renvoie à : [art. L4522-1 du Code du travail](chapitre-ii.md#article-l4522-1)
-- Cité par : [art. L4523-12 du Code du travail](chapitre-iii.md#article-l4523-12) ; [art. R4514-7-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ier/chapitre-iv.md#article-r4514-7-1) ; [art. R4523-4 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-4) ; [art. R4523-5 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-5) ; [art. L515-41 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027716103) ; [art. L593-6 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032043987) ; [art. L961-2 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037110405) ; [art. L621-5-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033912158) ; [art. L813-8 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051373533)
+- Cité par : [art. L515-41 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-v.md#article-l515-41) ; [art. L593-6 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ix/chapitre-iii.md#article-l593-6) ; [art. L961-2 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/quatrieme-partie/livre-ix/titre-vi/chapitre-ier.md#article-l961-2) ; [art. L4523-12 du Code du travail](chapitre-iii.md#article-l4523-12) ; [art. R4514-7-1 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ier/chapitre-iv.md#article-r4514-7-1) ; [art. R4523-4 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-4) ; [art. R4523-5 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-5) ; [art. L621-5-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ii/chapitre-unique.md#article-l621-5-1) ; [art. L813-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-viii/titre-ier/chapitre-iii.md#article-l813-8)
 
 Lorsque la réunion du comité social et économique a pour objet de contribuer à la définition des règles communes de sécurité dans l'établissement et à l'observation des mesures de prévention définies en application de l'article L. 4522-1, il s'appuie sur les travaux de la commission santé, sécurité et conditions de travail élargie à une représentation des chefs d'entreprises extérieures et des travailleurs qu'ils emploient selon des conditions déterminées par convention ou accord collectif de branche, d'entreprise ou d'établissement. Cette convention ou cet accord détermine également les modalités de fonctionnement de la commission élargie.
 
@@ -123,7 +123,7 @@ A défaut de convention ou d'accord, la commission est élargie et fonctionne da
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903247
 - Renvoie à : [art. L4523-11 du Code du travail](chapitre-iii.md#article-l4523-11) ; [Loi n° 2006-686 du 13 juin 2006](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000819043)
-- Cité par : [art. R4523-17 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-17) ; [art. L593-6 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032043987)
+- Cité par : [art. L593-6 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ix/chapitre-iii.md#article-l593-6) ; [art. R4523-17 du Code du travail](../../../../partie-reglementaire/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r4523-17)
 
 Les dispositions de l'article L. 4523-11 ne sont pas applicables aux établissements comprenant au moins une installation nucléaire de base dans lesquels les chefs d'entreprises extérieures et les représentants de leurs salariés sont associés à la prévention des risques particuliers liés à l'activité de l'établissement, selon des modalités mises en oeuvre avant la publication de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire et répondant à des caractéristiques définies par décret.
 
@@ -139,7 +139,7 @@ La commission santé, sécurité et conditions de travail élargie se réunit au
 - Identifiant : LEGIARTI000035652634
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652634
-- Cité par : [art. L961-2 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037110405) ; [art. L621-5-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033912158) ; [art. L813-8 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051373533)
+- Cité par : [art. L961-2 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/quatrieme-partie/livre-ix/titre-vi/chapitre-ier.md#article-l961-2) ; [art. L621-5-1 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-vi/titre-ii/chapitre-unique.md#article-l621-5-1) ; [art. L813-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-viii/titre-ier/chapitre-iii.md#article-l813-8)
 
 La représentation des entreprises extérieures à la commission santé, sécurité et conditions de travail élargie est fonction de la durée de leur intervention, de la nature de cette dernière et de leur effectif intervenant dans l'établissement.
 
@@ -149,7 +149,7 @@ Les salariés des entreprises extérieures sont désignés, parmi les salariés 
 - Identifiant : LEGIARTI000035652632
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652632
-- Cité par : [art. L813-8 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051373533)
+- Cité par : [art. L813-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-viii/titre-ier/chapitre-iii.md#article-l813-8)
 
 L'employeur et les chefs des entreprises extérieures prennent respectivement les dispositions relevant de leurs prérogatives pour permettre aux salariés des entreprises extérieures désignés à la commission santé, sécurité et conditions de travail élargie d'exercer leurs fonctions.
 
@@ -159,7 +159,7 @@ Le comité social et économique peut inviter, à titre consultatif et occasionn
 - Identifiant : LEGIARTI000035652669
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652669
-- Cité par : [art. L813-8 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051373533)
+- Cité par : [art. L813-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-viii/titre-ier/chapitre-iii.md#article-l813-8)
 
 Les salariés d'entreprises extérieures qui siègent ou ont siégé en qualité de représentants du personnel dans une commission santé, sécurité et conditions de travail élargie sont tenus à une obligation de discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par l'employeur.  
 
@@ -169,6 +169,6 @@ Ils sont tenus au secret professionnel pour toutes les questions relatives aux p
 - Identifiant : LEGIARTI000035652666
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035652666
-- Cité par : [art. L813-8 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051373533)
+- Cité par : [art. L813-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-viii/titre-ier/chapitre-iii.md#article-l813-8)
 
 Les salariés d'entreprises extérieures qui siègent ou ont siégé en qualité de représentants du personnel dans une commission santé, sécurité et conditions de travail élargie bénéficient de la protection prévue par le livre IV de la deuxième partie.

@@ -8,7 +8,7 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000054139717
 - État : en vigueur depuis le 28/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054139717
-- Cité par : [art. L2623-1 du Code du travail](../../livre-vi/titre-ii/chapitre-iii.md#article-l2623-1) ; [art. R2523-4 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r2523-4) ; [art. L718-8 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054139723)
+- Cité par : [art. L2623-1 du Code du travail](../../livre-vi/titre-ii/chapitre-iii.md#article-l2623-1) ; [art. R2523-4 du Code du travail](../../../../partie-reglementaire/deuxieme-partie/livre-v/titre-ii/chapitre-iii.md#article-r2523-4) ; [art. L718-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-viii.md#article-l718-8)
 
 Tous les conflits collectifs de travail peuvent être soumis aux procédures de conciliation.
 
@@ -68,7 +68,7 @@ En cas d'échec de la procédure de conciliation, le conflit est soumis soit à 
 - Identifiant : LEGIARTI000054139720
 - État : en vigueur depuis le 28/05/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054139720
-- Cité par : [art. L2623-1 du Code du travail](../../livre-vi/titre-ii/chapitre-iii.md#article-l2623-1) ; [art. L718-8 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054139723)
+- Cité par : [art. L2623-1 du Code du travail](../../livre-vi/titre-ii/chapitre-iii.md#article-l2623-1) ; [art. L718-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ier/chapitre-viii.md#article-l718-8)
 
 Les commissions régionales de conciliation comprennent des représentants des organisations représentatives des employeurs et des salariés en nombre égal ainsi que des représentants des pouvoirs publics dont le nombre ne peut excéder le tiers des membres de la commission.
 

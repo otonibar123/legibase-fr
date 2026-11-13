@@ -18,7 +18,7 @@ La quotité disponible est la part des biens et droits successoraux qui n'est pa
 - État : en vigueur depuis le 01/11/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982288
 - Renvoie à : [art. 845 du Code civil](../titre-ier/chapitre-viii.md#article-845)
-- Cité par : [art. 913-1 du Code civil](chapitre-iii.md#article-913-1) ; [art. L123-6 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278947)
+- Cité par : [art. 913-1 du Code civil](chapitre-iii.md#article-913-1) ; [art. L123-6 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iii.md#article-l123-6)
 
 Les libéralités, soit par actes entre vifs, soit par testament, ne pourront excéder la moitié des biens du disposant, s'il ne laisse à son décès qu'un enfant ; le tiers, s'il laisse deux enfants ; le quart, s'il en laisse trois ou un plus grand nombre.
 
@@ -123,7 +123,7 @@ Lorsque le notaire constate, lors du règlement de la succession, que les droits
 - Identifiant : LEGIARTI000006433755
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433755
-- Cité par : [art. 860 du Code civil](../titre-ier/chapitre-viii.md#article-860)
+- Cité par : [art. 860 du Code civil](../titre-ier/chapitre-viii.md#article-860) ; [art. L621-29-7 du Code du patrimoine](../../../code-du-patrimoine/partie-legislative/livre-vi/titre-ii/chapitre-1er.md#article-l621-29-7)
 
 La réduction se détermine en formant une masse de tous les biens existant au décès du donateur ou testateur.  
 
@@ -142,7 +142,7 @@ Il n'y aura jamais lieu à réduire les donations entre vifs, qu'après avoir é
 - Identifiant : LEGIARTI000006433760
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433760
-- Cité par : [art. 924-1 du Code civil](chapitre-iii.md#article-924-1) ; [art. 2374 du Code civil](../../livre-iv/titre-ii/sous-titre-ii/chapitre-iv.md#article-2374) ; [art. 2381 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/chapitre-ii.md#article-2381) ; [art. L323-6 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583448) ; [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692)
+- Cité par : [art. 924-1 du Code civil](chapitre-iii.md#article-924-1) ; [art. 2374 du Code civil](../../livre-iv/titre-ii/sous-titre-ii/chapitre-iv.md#article-2374) ; [art. 2381 du Code civil](../../livre-iv/titre-ii/sous-titre-iii/chapitre-ii.md#article-2381) ; [art. L323-6 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-iii.md#article-l323-6) ; [Loi n°61-1378 du 19 décembre 1961, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283692)
 
 Lorsque la libéralité excède la quotité disponible, le gratifié, successible ou non successible, doit indemniser les héritiers réservataires à concurrence de la portion excessive de la libéralité, quel que soit cet excédent.  
 
@@ -170,7 +170,7 @@ Le montant de l'indemnité de réduction se calcule d'après la valeur des biens
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435937
 - Renvoie à : [art. 828 du Code civil](../titre-ier/chapitre-viii.md#article-828)
-- Cité par : [art. 1722 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006313662) ; [art. 397 du Code général des impôts, annexe III](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048852299) ; [art. L321-17 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583372)
+- Cité par : [art. 1722 bis du Code général des impôts](../../../code-general-des-impots/livre-ii/chapitre-premier.md#article-1722-bis) ; [art. 397 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-premier.md#article-397) ; [art. L321-17 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iii/titre-ii/chapitre-ier.md#article-l321-17)
 
 L'indemnité de réduction est payable au moment du partage, sauf accord entre les cohéritiers. Toutefois, lorsque la libéralité a pour objet un des biens pouvant faire l'objet d'une attribution préférentielle, des délais peuvent être accordés par le tribunal, compte tenu des intérêts en présence, s'ils ne l'ont pas été par le disposant. L'octroi de ces délais ne peut, en aucun cas, avoir pour effet de différer le paiement de l'indemnité au-delà de dix années à compter de l'ouverture de la succession. Les dispositions de l'article 828 sont alors applicables au paiement des sommes dues.
 
@@ -217,7 +217,7 @@ Lorsque la réduction s'exécute en nature, le donataire restitue les fruits de 
 - Identifiant : LEGIARTI000006433772
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433772
-- Cité par : [art. 509 du Code civil](../../livre-ier/titre-xii/chapitre-ier.md#article-509) ; [art. 1527 du Code civil](../titre-v/chapitre-ii.md#article-1527) ; [art. 756 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305353)
+- Cité par : [art. 509 du Code civil](../../livre-ier/titre-xii/chapitre-ier.md#article-509) ; [art. 1527 du Code civil](../titre-v/chapitre-ii.md#article-1527) ; [art. 756 bis du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-756-bis)
 
 Tout héritier réservataire présomptif peut renoncer à exercer une action en réduction dans une succession non ouverte. Cette renonciation doit être faite au profit d'une ou de plusieurs personnes déterminées. La renonciation n'engage le renonçant que du jour où elle a été acceptée par celui dont il a vocation à hériter.  
 

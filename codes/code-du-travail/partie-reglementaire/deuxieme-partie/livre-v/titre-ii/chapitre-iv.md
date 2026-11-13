@@ -20,7 +20,7 @@ Après cette notification, l'arbitre envoie un exemplaire de la sentence et des 
 - Identifiant : LEGIARTI000018534782
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018534782
-- Cité par : [art. R718-9 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020095642)
+- Cité par : [art. R718-9 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md#article-r718-9)
 
 Les membres de la Cour supérieure d'arbitrage sont nommés par décret pour une durée de trois ans.
 

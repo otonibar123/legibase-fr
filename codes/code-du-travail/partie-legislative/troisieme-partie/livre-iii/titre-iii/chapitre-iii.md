@@ -6,7 +6,7 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - Identifiant : LEGIARTI000006903077
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903077
-- Cité par : [art. L3335-2 du Code du travail](chapitre-v.md#article-l3335-2) ; [art. L224-40 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048506410)
+- Cité par : [art. L3335-2 du Code du travail](chapitre-v.md#article-l3335-2) ; [art. L224-40 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-40)
 
 Sous réserve des dispositions particulières du présent chapitre, les dispositions relatives au plan d'épargne d'entreprise sont applicables au plan d'épargne interentreprises.
 
@@ -71,7 +71,7 @@ Lorsqu'il prévoit de recueillir les sommes issues de la participation, l'accord
 - Identifiant : LEGIARTI000027795640
 - État : en vigueur depuis le 28/07/2013
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027795640
-- Renvoie à : [art. L3332-15 du Code du travail](chapitre-ii.md#article-l3332-15) ; [art. L214-164 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780393) ; [art. L214-165 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027780469)
+- Renvoie à : [art. L3332-15 du Code du travail](chapitre-ii.md#article-l3332-15) ; [art. L214-39 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-39) ; [art. L214-40 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-40) ; [art. L214-164 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-164) ; [art. L214-165 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ier/chapitre-iv.md#article-l214-165)
 
 Par dérogation aux dispositions du 2° de l'article L. 3332-15, le plan d'épargne interentreprises ne peut pas prévoir l'acquisition de parts de fonds communs de placement régis par l'article L. 214-165 du code monétaire et financier.
 
@@ -82,7 +82,7 @@ Lorsque le plan prévoit l'acquisition de parts de fonds communs de placement r�
 - État : en vigueur depuis le 01/12/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048488998
 - Renvoie à : [art. L3333-3 du Code du travail](chapitre-iii.md#article-l3333-3)
-- Cité par : [art. R3333-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-iii.md#article-r3333-6) ; [art. L224-40 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048506410)
+- Cité par : [art. R3333-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iii/chapitre-iii.md#article-r3333-6) ; [art. L224-40 du Code monétaire et financier](../../../../../code-monetaire-et-financier/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-40)
 
 Un avenant au plan d'épargne interentreprises peut être conclu selon les modalités prévues au présent chapitre.
 

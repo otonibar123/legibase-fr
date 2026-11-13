@@ -137,7 +137,7 @@ Les témoins appelés pour être présents aux testaments devront comprendre la 
 - État : en vigueur depuis le 12/07/2014
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029227320
 - Renvoie à : [art. 93 du Code civil](../../livre-ier/titre-ii/chapitre-v.md#article-93)
-- Cité par : [art. 983 du Code civil](chapitre-v.md#article-983) ; [art. L4121-8 du Code de la défense](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006540250)
+- Cité par : [art. 983 du Code civil](chapitre-v.md#article-983) ; [art. L4121-8 du Code de la défense](../../../code-de-la-defense/partie-legislative/partie-4/livre-ier/titre-ii/chapitre-ier.md#article-l4121-8)
 
 Les testaments des militaires, des marins de l'Etat et des personnes employées à la suite des armées pourront être reçus dans les cas et conditions prévus à l'article 93 soit par un officier supérieur en présence de deux témoins ; soit par deux commissaires des armées ; soit par un commissaire des armées en présence de deux témoins ; soit enfin, dans un détachement isolé, par l'officier commandant ce détachement, assisté de deux témoins, s'il n'existe pas dans le détachement d'officier supérieur ou de commissaire des armées.  
 
@@ -338,7 +338,7 @@ Chacune de ces dispositions, soit qu'elle ait été faite sous la dénomination 
 - Identifiant : LEGIARTI000006436015
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006436015
-- Cité par : [art. 788 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305439)
+- Cité par : [art. 788 bis du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-788-bis)
 
 Sauf volonté contraire du disposant, lorsque la succession a été acceptée par au moins un héritier désigné par la loi, le légataire peut cantonner son émolument sur une partie des biens dont il a été disposé en sa faveur. Ce cantonnement ne constitue pas une libéralité faite par le légataire aux autres successibles.
 

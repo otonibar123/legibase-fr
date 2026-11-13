@@ -1,0 +1,161 @@
+# Code du sport
+
+Dernière modification du texte dans LEGI : 08/10/2026. 1905 articles en vigueur, répartis dans 100 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES**
+    - [TITRE PRÉLIMINAIRE : PRINCIPES GÉNÉRAUX](partie-legislative/livre-ier/titre-preliminaire.md) (4 articles)
+    - **TITRE Ier : PERSONNES PUBLIQUES**
+      - [Chapitre Ier : Etat](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Etablissements publics et Agence nationale du sport](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Collectivités territoriales](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Répartition des missions et des compétences entre l'Etat et les régions dans l'organisation et le fonctionnement des centres de ressources, d'expertise et de performance sportive](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (17 articles)
+      - [Chapitre V : Dispositions particulières relatives à certaines structures de gestion de services publics du sport](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (1 article)
+    - **TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES**
+      - [Chapitre Ier : Associations sportives](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Sociétés sportives](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (21 articles)
+    - **TITRE III : FÉDÉRATIONS SPORTIVES ET LIGUES PROFESSIONNELLES**
+      - [Chapitre Ier : Fédérations sportives](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (31 articles)
+      - [Chapitre II : Ligues professionnelles](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Contrôle de gestion](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (1 article)
+    - **TITRE IV : ORGANISMES DE REPRÉSENTATION ET DE CONCILIATION**
+      - [Chapitre Ier : Comité national olympique et sportif français](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (6 articles)
+      - [Chapitre Ier bis : Comité paralympique et sportif français](partie-legislative/livre-ier/titre-iv/chapitre-ier-bis.md) (3 articles)
+      - [Chapitre II : Autres organismes](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+  - **LIVRE II : ACTEURS DU SPORT**
+    - **TITRE Ier : FORMATION ET ENSEIGNEMENT**
+      - [Chapitre Ier : Formation aux professions du sport](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Enseignement du sport contre rémunération](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (14 articles)
+    - **TITRE II : SPORTIFS**
+      - [Chapitre Ier : Sport de haut niveau](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Sport professionnel](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (36 articles)
+      - [Chapitre III : Autres dispositions applicables aux sportifs](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Supporters](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (4 articles)
+    - **TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE**
+      - [Chapitre préliminaire](partie-legislative/livre-ii/titre-iii/chapitre-preliminaire.md) (6 articles)
+      - [Chapitre Ier : Suivi médical des sportifs](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Lutte contre le dopage](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (80 articles)
+    - **TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL**
+      - [Chapitre unique](partie-legislative/livre-ii/titre-iv/chapitre-unique.md) (10 articles)
+  - **LIVRE III : PRATIQUE SPORTIVE**
+    - **TITRE Ier : LIEUX DE PRATIQUES SPORTIVES**
+      - [Chapitre Ier : Sports de nature](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Equipements sportifs](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (17 articles)
+    - **TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES**
+      - [Chapitre Ier : Obligation d'assurance](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Garanties d'hygiène et de sécurité](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (11 articles)
+    - **TITRE III : MANIFESTATIONS SPORTIVES**
+      - [Chapitre préliminaire : Jeux Olympiques et Paralympiques](partie-legislative/livre-iii/titre-iii/chapitre-preliminaire.md) (1 article)
+      - [Chapitre Ier : Organisation des manifestations sportives](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Sécurité des manifestations sportives](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (29 articles)
+      - [Chapitre III : Exploitation des manifestations sportives](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (22 articles)
+      - [Chapitre IV : Dispositions particulières à titre d'hommage](partie-legislative/livre-iii/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Plateforme nationale de lutte contre la manipulation des compétitions sportives](partie-legislative/livre-iii/titre-iii/chapitre-v.md) (2 articles)
+  - **LIVRE IV : DISPOSITIONS DIVERSES**
+    - **TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions applicables à Mayotte](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions particulières à Saint-Pierre-et-Miquelon](partie-legislative/livre-iv/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Dispositions applicables à Wallis et Futuna](partie-legislative/livre-iv/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions applicables en Polynésie française](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Dispositions relatives à la Nouvelle-Calédonie](partie-legislative/livre-iv/titre-ii/chapitre-v.md) (17 articles)
+- **Partie réglementaire - Décrets**
+  - **LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES**
+    - **TITRE Ier : PERSONNES PUBLIQUES**
+      - [Chapitre II : Établissements publics et Agence nationale du sport](partie-reglementaire-decrets/livre-ier/titre-ier/chapitre-ii.md) (46 articles)
+      - [Chapitre III : Collectivités territoriales](partie-reglementaire-decrets/livre-ier/titre-ier/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Les centres de ressources, d'expertise et de performance sportive](partie-reglementaire-decrets/livre-ier/titre-ier/chapitre-iv.md) (65 articles)
+    - **TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES**
+      - [Chapitre Ier : Associations sportives](partie-reglementaire-decrets/livre-ier/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Sociétés sportives](partie-reglementaire-decrets/livre-ier/titre-ii/chapitre-ii.md) (12 articles)
+    - **TITRE III : FÉDÉRATIONS SPORTIVES ET LIGUES PROFESSIONNELLES**
+      - [Chapitre Ier : Fédérations sportives](partie-reglementaire-decrets/livre-ier/titre-iii/chapitre-ier.md) (58 articles)
+      - [Chapitre II : Ligues professionnelles](partie-reglementaire-decrets/livre-ier/titre-iii/chapitre-ii.md) (18 articles)
+    - **TITRE IV : ORGANISMES DE REPRÉSENTATION ET DE CONCILIATION**
+      - [Chapitre Ier : Le Comité national olympique et sportif français](partie-reglementaire-decrets/livre-ier/titre-iv/chapitre-ier.md) (27 articles)
+      - [Chapitre Ier bis : Le Comité paralympique et sportif français](partie-reglementaire-decrets/livre-ier/titre-iv/chapitre-ier-bis.md) (3 articles)
+      - [Chapitre II : Autres organismes de concertation](partie-reglementaire-decrets/livre-ier/titre-iv/chapitre-ii.md) (15 articles)
+  - **LIVRE II : ACTEURS DU SPORT**
+    - **TITRE Ier : FORMATION ET ENSEIGNEMENT**
+      - [Chapitre Ier : Formation aux professions du sport](partie-reglementaire-decrets/livre-ii/titre-ier/chapitre-ier.md) (92 articles)
+      - [Chapitre II : Enseignement du sport contre rémunération](partie-reglementaire-decrets/livre-ii/titre-ier/chapitre-ii.md) (83 articles)
+    - **TITRE II : SPORTIFS**
+      - [Chapitre Ier : Sport de haut niveau](partie-reglementaire-decrets/livre-ii/titre-ii/chapitre-ier.md) (30 articles)
+      - [Chapitre II : Sport professionnel](partie-reglementaire-decrets/livre-ii/titre-ii/chapitre-ii.md) (43 articles)
+      - [Chapitre IV : Supporters](partie-reglementaire-decrets/livre-ii/titre-ii/chapitre-iv.md) (13 articles)
+    - **TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE**
+      - [Chapitre Ier : Suivi médical des sportifs](partie-reglementaire-decrets/livre-ii/titre-iii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Lutte contre le dopage](partie-reglementaire-decrets/livre-ii/titre-iii/chapitre-ii.md) (185 articles)
+    - **TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL**
+      - [Chapitre unique](partie-reglementaire-decrets/livre-ii/titre-iv/chapitre-unique.md) (27 articles)
+  - **LIVRE III : PRATIQUE SPORTIVE**
+    - **TITRE Ier : LIEUX DE PRATIQUES SPORTIVES**
+      - [Chapitre Ier : Sports de nature](partie-reglementaire-decrets/livre-iii/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Equipements sportifs](partie-reglementaire-decrets/livre-iii/titre-ier/chapitre-ii.md) (26 articles)
+    - **TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES**
+      - [Chapitre Ier : Obligation d'assurance](partie-reglementaire-decrets/livre-iii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Garanties d'hygiène et de sécurité](partie-reglementaire-decrets/livre-iii/titre-ii/chapitre-ii.md) (41 articles)
+    - **TITRE III : MANIFESTATIONS SPORTIVES**
+      - [Chapitre Ier : Organisation des manifestations sportives](partie-reglementaire-decrets/livre-iii/titre-iii/chapitre-ier.md) (57 articles)
+      - [Chapitre II : Sécurité des manifestations sportives](partie-reglementaire-decrets/livre-iii/titre-iii/chapitre-ii.md) (26 articles)
+      - [Chapitre III : Exploitation des manifestations sportives](partie-reglementaire-decrets/livre-iii/titre-iii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions relatives aux paris sportifs](partie-reglementaire-decrets/livre-iii/titre-iii/chapitre-iv.md) (12 articles)
+      - [Chapitre V : Dispositions relatives à la lutte contre la manipulation des compétitions sportives](partie-reglementaire-decrets/livre-iii/titre-iii/chapitre-v.md) (7 articles)
+  - **LIVRE IV : DISPOSITIONS DIVERSES**
+    - **TITRE Ier : FINANCEMENT DU SPORT**
+      - [Chapitre unique](partie-reglementaire-decrets/livre-iv/titre-ier/chapitre-unique.md) (1 article)
+    - **TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions applicables à Mayotte](partie-reglementaire-decrets/livre-iv/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon](partie-reglementaire-decrets/livre-iv/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre IX : Dispositions applicables à la Guyane](partie-reglementaire-decrets/livre-iv/titre-ii/chapitre-ix.md) (1 article)
+- **Partie réglementaire - Arrêtés**
+  - **LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES ET SPORTIVES**
+    - **TITRE Ier : PERSONNES PUBLIQUES**
+      - [Chapitre II : Etablissements publics nationaux et Agence nationale du sport](partie-reglementaire-arretes/livre-ier/titre-ier/chapitre-ii.md) (13 articles)
+      - [Chapitre IV : Les centres de ressources, d'expertise et de performance sportive](partie-reglementaire-arretes/livre-ier/titre-ier/chapitre-iv.md) (7 articles)
+    - **TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES**
+      - [Chapitre Ier : Associations sportives](partie-reglementaire-arretes/livre-ier/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Sociétés sportives](partie-reglementaire-arretes/livre-ier/titre-ii/chapitre-ii.md) (1 article)
+    - **TITRE III : FÉDÉRATIONS SPORTIVES ET LIGUES PROFESSIONNELLES**
+      - [Chapitre Ier : Fédérations sportives](partie-reglementaire-arretes/livre-ier/titre-iii/chapitre-ier.md) (4 articles)
+    - **TITRE IV : ORGANISMES DE REPRÉSENTATION ET DE CONCILIATION**
+      - [Chapitre II : Autres organismes de concertation](partie-reglementaire-arretes/livre-ier/titre-iv/chapitre-ii.md) (23 articles)
+  - **LIVRE II : ACTEURS DU SPORT**
+    - **TITRE Ier : FORMATION ET ENSEIGNEMENT**
+      - [Chapitre Ier : Formation aux professions du sport](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ier.md) (32 articles)
+      - [Chapitre II : Enseignement du sport contre rémunération](partie-reglementaire-arretes/livre-ii/titre-ier/chapitre-ii.md) (156 articles)
+    - **TITRE II : SPORTIFS**
+      - [Chapitre II : Sport professionnel](partie-reglementaire-arretes/livre-ii/titre-ii/chapitre-ii.md) (6 articles)
+    - **TITRE III SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE**
+      - [Chapitre Ier : Suivi médical des sportifs](partie-reglementaire-arretes/livre-ii/titre-iii-sante-des-sportifs-et-lutte-contre-le-dopage/chapitre-ier.md) (5 articles)
+  - **LIVRE III : PRATIQUE SPORTIVE**
+    - **TITRE Ier : LIEUX DE PRATIQUES SPORTIVES**
+      - [Chapitre II : Equipements sportifs](partie-reglementaire-arretes/livre-iii/titre-ier/chapitre-ii.md) (12 articles)
+    - **TITRE II : OBLIGATIONS LIÉES AUX ACTIVITÉS SPORTIVES**
+      - [Chapitre II : Garanties d'hygiène et de sécurité](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-ii.md) (134 articles)
+    - **TITRE III : MANIFESTATIONS SPORTIVES**
+      - [Chapitre Ier : Organisation des manifestations sportives](partie-reglementaire-arretes/livre-iii/titre-iii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Sécurité des manifestations sportives](partie-reglementaire-arretes/livre-iii/titre-iii/chapitre-ii.md) (6 articles)
+  - **LIVRE IV : DISPOSITIONS DIVERSES**
+    - **TITRE Ier : FINANCEMENT DU SPORT**
+      - [Chapitre unique](partie-reglementaire-arretes/livre-iv/titre-ier/chapitre-unique.md) (1 article)
+    - **TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER**
+      - [Chapitre Ier : Dispositions applicables à Mayotte](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions applicables à Saint-Pierre-et-Miquelon](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Dispositions applicables à Wallis et Futuna](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Dispositions applicables en Polynésie française](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Dispositions applicables en Nouvelle-Calédonie](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Dispositions applicables à Saint-Barthélemy](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Dispositions applicables à Saint-Martin](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Dispositions applicables à la Martinique](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-viii.md) (2 articles)
+      - [Chapitre IX : Dispositions applicables à la Guyane](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-ix.md) (2 articles)
+      - [Chapitre X : Dispositions applicables à La Réunion](partie-reglementaire-arretes/livre-iv/titre-ii/chapitre-x.md) (2 articles)
+- **ANNEXES**
+  - **Annexes partie réglementaire - Décrets**
+    - [Annexes I](annexes/annexes-partie-reglementaire-decrets/annexes-i.md) (7 articles)
+    - [Annexes II](annexes/annexes-partie-reglementaire-decrets/annexes-ii.md) (3 articles)
+    - [Annexes III](annexes/annexes-partie-reglementaire-decrets/annexes-iii.md) (6 articles)
+  - **Annexes partie réglementaire - Arrêtés**
+    - [Annexes II](annexes/annexes-partie-reglementaire-arretes/annexes-ii.md) (28 articles)
+    - [Annexes III](annexes/annexes-partie-reglementaire-arretes/annexes-iii.md) (34 articles)

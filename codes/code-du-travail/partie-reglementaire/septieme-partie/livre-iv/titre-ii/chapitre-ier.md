@@ -9,7 +9,7 @@ Code du travail › Partie réglementaire › Septième partie : Dispositions pa
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018521005
 - Renvoie à : [art. L7421-2 du Code du travail](../../../../partie-legislative/septieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-l7421-2)
-- Cité par : [art. R718-25 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018334796)
+- Cité par : [art. R718-25 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md#article-r718-25)
 
 Le bulletin ou le carnet remis au travailleur à domicile, en application de l'article L. 7421-2, est établi en deux exemplaires au moins.  
 Il mentionne :  

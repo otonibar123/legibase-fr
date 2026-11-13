@@ -7,7 +7,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - État : en vigueur depuis le 01/05/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030420807
 - Renvoie à : [art. L3245-2 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ii/titre-iv/chapitre-v-bis.md#article-l3245-2)
-- Cité par : [art. R1263-15 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-iii.md#article-r1263-15) ; [art. R3245-2 du Code du travail](chapitre-v-bis.md#article-r3245-2) ; [art. R3245-4 du Code du travail](chapitre-v-bis.md#article-r3245-4) ; [art. R1331-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046477168)
+- Cité par : [art. R1331-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/premiere-partie/livre-iii/titre-iii/chapitre-i.md#article-r1331-6) ; [art. R1263-15 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-iii.md#article-r1263-15) ; [art. R3245-2 du Code du travail](chapitre-v-bis.md#article-r3245-2) ; [art. R3245-4 du Code du travail](chapitre-v-bis.md#article-r3245-4)
 
 A compter du jour de la réception de l'injonction mentionnée à l'article L. 3245-2, l'employeur informe dans un délai de sept jours le maître d'ouvrage ou le donneur d'ordre des mesures prises pour faire cesser la situation.  
 

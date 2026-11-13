@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE VIII : De quelques profession
 - Identifiant : LEGIARTI000048651553
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651553
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7)
 
 L'ouvrage d'or, d'argent ou de platine est marqué de l'empreinte d'un poinçon de garantie qui atteste du titre légal de chaque pièce sur lequel il est apposé.  
 
@@ -20,7 +20,7 @@ Seuls sont insculpés les ouvrages comportant le poinçon du fabricant ou de res
 - Identifiant : LEGIARTI000048651551
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651551
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659) ; [art. 275 bis H du Code général des impôts, annexe II](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054363209) ; [art. 275 ter M du Code général des impôts, annexe II](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051820192) ; [art. 186 ter du Code général des impôts, annexe III](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830708) ; [Décret n°97-1195 du 24 décembre 1997, art. 10 nonies](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051820318)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7) ; [art. 275 bis H du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iii/chapitre-i-bis.md#article-275-bis-h) ; [art. 275 ter M du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iii/chapitre-i-bis.md#article-275-ter-m) ; [art. 186 ter du Code général des impôts, annexe III](../../../../code-general-des-impots-annexe-iii/livre-premier/premiere-partie/titre-iii/chapitre-ii.md#article-186-ter) ; [Décret n°97-1195 du 24 décembre 1997, art. 10 nonies](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051820318)
 
 Est dispensé de l'insculpation prévue à l'article L. 833-1, sans préjudice de l'article L. 833-7 :  
 
@@ -42,8 +42,8 @@ Est dispensé de l'insculpation prévue à l'article L. 833-1, sans préjudice d
 - Identifiant : LEGIARTI000048651549
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651549
-- Renvoie à : art. L121-3 du Code monétaire et financier
-- Cité par : [art. 275 bis C du Code général des impôts, annexe II](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051820241) ; [art. 275 bis F du Code général des impôts, annexe II](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051820225) ; [art. 275 ter B du Code général des impôts, annexe II](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051820211) ; [art. 275 ter G du Code général des impôts, annexe II](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051820204) ; [art. 56 J duodecies du Code général des impôts, annexe IV](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051829357) ; [art. 56 J terdecies du Code général des impôts, annexe IV](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051829350)
+- Renvoie à : [art. L121-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-ii/chapitre-ier.md#article-l121-3)
+- Cité par : [art. 275 bis C du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iii/chapitre-i-bis.md#article-275-bis-c) ; [art. 275 bis F du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iii/chapitre-i-bis.md#article-275-bis-f) ; [art. 275 ter B du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iii/chapitre-i-bis.md#article-275-ter-b) ; [art. 275 ter G du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/premiere-partie/titre-iii/chapitre-i-bis.md#article-275-ter-g) ; [art. 56 J duodecies du Code général des impôts, annexe IV](../../../../code-general-des-impots-annexe-iv/livre-premier/premiere-partie/titre-iii/chapitre-i-ter-a.md#article-56-j-duodecies) ; [art. 56 J terdecies du Code général des impôts, annexe IV](../../../../code-general-des-impots-annexe-iv/livre-premier/premiere-partie/titre-iii/chapitre-i-ter-a.md#article-56-j-terdecies)
 
 Le poinçon de garantie est constitué :  
 
@@ -84,7 +84,7 @@ Lorsque le titre d'un ouvrage apporté à la marque pour être revêtu du poinç
 - Identifiant : LEGIARTI000048651543
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651543
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7)
 
 Si l'essayeur suppose qu'un ouvrage d'or, d'argent ou de platine est composé de fer, de cuivre ou de toute autre matière étrangère, il le fait couper en présence du propriétaire.  
 
@@ -98,7 +98,7 @@ Si la fraude n'est pas établie, le propriétaire est indemnisé par l'administr
 - Identifiant : LEGIARTI000051216929
 - État : en vigueur depuis le 01/03/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051216929
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7)
 
 L'ouvrage d'or, d'argent ou de platine est marqué de l'empreinte de l'un des poinçons suivants :  
 
@@ -114,7 +114,7 @@ Toutefois, l'ouvrage en provenance d'un autre Etat membre de l'Union européenne
 - Identifiant : LEGIARTI000048651539
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651539
-- Cité par : [art. L442-7 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053806659)
+- Cité par : [art. L442-7 du Code des douanes](../../../../code-des-douanes/partie-legislative/livre-iv/titre-iv/chapitre-ii.md#article-l442-7)
 
 Est dispensé de l'insculpation prévue à l'article L. 833-7 :  
 
@@ -130,7 +130,7 @@ Est dispensé de l'insculpation prévue à l'article L. 833-7 :
 - Identifiant : LEGIARTI000048651537
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651537
-- Cité par : [art. 213 du Code général des impôts annexe I](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051830681)
+- Cité par : [art. 213 du Code général des impôts, annexe I](../../../../code-general-des-impots-annexe-i/livre-premier/premiere-partie/titre-iii/chapitre-ii.md#article-213)
 
 Le poinçon du fabricant ou de responsabilité revêt une forme déterminée par arrêté du ministre chargé du budget qui renferme une lettre initiale du fabricant ou de la personne qui introduit l'ouvrage sur le territoire national ainsi que le symbole choisi par lui. Il peut être gravé par l'artiste de son choix.  
 
@@ -159,7 +159,7 @@ Un arrêté du ministre chargé du budget détermine, en tant que de besoin, les
 - Identifiant : LEGIARTI000048651533
 - État : en vigueur depuis le 01/07/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048651533
-- Cité par : [art. 56 J novodecies du Code général des impôts, annexe IV](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054359548)
+- Cité par : [art. 56 J novodecies du Code général des impôts, annexe IV](../../../../code-general-des-impots-annexe-iv/livre-premier/premiere-partie/titre-iii/chapitre-i-ter-a.md#article-56-j-novodecies)
 
 Le poinçon du fabricant et le poinçon de responsabilité sont enregistrés par le service compétent de l'administration des douanes et droits indirects qui veille préalablement à ce que le même symbole ne soit pas employé par plusieurs fabricants. A cette fin, l'empreinte du poinçon et le nom du fabricant ou de la personne qui introduit ou importe l'ouvrage sur le territoire national sont insculpés sur une planche métallique.
 

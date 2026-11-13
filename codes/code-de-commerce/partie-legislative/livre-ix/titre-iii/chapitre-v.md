@@ -68,7 +68,7 @@ Au premier alinéa de l'article L. 525-2, après les mots : " au droit fixe " so
 - Identifiant : LEGIARTI000006244092
 - État : en vigueur depuis le 21/09/2000
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006244092
-- Renvoie à : [art. L525-9 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006234812) ; art. L243-4 du Code de la sécurité sociale
+- Renvoie à : [art. L243-4 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-3.md#article-l243-4) ; [art. L525-9 du Code de commerce](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006234812)
 
 Au II de l'article L. 525-9, les mots : " au privilège visé à l'article L. 243-4 du code de la sécurité sociale " sont remplacés par les mots : " au privilège organisé en faveur de la caisse de prévoyance sociale du territoire ".
 

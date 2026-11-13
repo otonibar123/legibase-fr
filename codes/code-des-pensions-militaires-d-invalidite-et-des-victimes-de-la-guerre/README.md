@@ -1,0 +1,315 @@
+# Code des pensions militaires d'invalidité et des victimes de la guerre
+
+Dernière modification du texte dans LEGI : 31/10/2026. 1180 articles en vigueur, répartis dans 198 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative (nouvelle)**
+  - [Partie législative (nouvelle) : articles rattachés directement](partie-legislative-nouvelle/articles-directs.md) (2 articles)
+  - **Livre Ier : LE DROIT À PENSION**
+    - **Titre Ier : LES BÉNÉFICIAIRES**
+      - [Chapitre Ier : Les militaires et les personnes assimilées](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Les membres des organisations civiles et militaires de la Résistance](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Les victimes civiles de guerre](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : Les ayants cause des militaires et des personnes assimilées aux militaires](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Les ayants cause des victimes civiles de guerre](partie-legislative-nouvelle/livre-ier/titre-ier/chapitre-v.md) (1 article)
+    - **Titre II : DÉTERMINATION DU DROIT À PENSION D'INVALIDITÉ**
+      - [Chapitre Ier : Conditions générales d'ouverture du droit à pension aux militaires](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Dispositions applicables à certains militaires](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Conditions applicables aux personnes assimilées aux militaires et aux membres de la Résistance](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-iii.md) (21 articles)
+      - [Chapitre IV : Conditions applicables aux victimes civiles de guerre](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-iv.md) (29 articles)
+      - [Chapitre V : Calcul des pensions](partie-legislative-nouvelle/livre-ier/titre-ii/chapitre-v.md) (11 articles)
+    - **Titre III : ALLOCATIONS ET MAJORATIONS**
+      - [Chapitre Ier : Allocations spéciales aux grands invalides](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Allocations spéciales aux grands mutilés](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Majoration pour tierce personne](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Majoration pour enfants](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Allocations spéciales aux aveugles de la Résistance](partie-legislative-nouvelle/livre-ier/titre-iii/chapitre-v.md) (2 articles)
+    - **Titre IV : DROITS DES AYANTS CAUSE**
+      - [Chapitre Ier : Ayants cause des militaires](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-ier.md) (30 articles)
+      - [Chapitre II : Ayants cause des personnes assimilées aux militaires et des membres de la Résistance](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Ayants cause des victimes civiles de guerre](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Ayants cause de personnes disparues](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Secours attribué aux concubins](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Application dans les collectivités d'outre-mer et en Nouvelle-Calédonie](partie-legislative-nouvelle/livre-ier/titre-iv/chapitre-vi.md) (4 articles)
+    - **Titre V : PROCÉDURES D'ATTRIBUTION ET DE RÉVISION DES PENSIONS**
+      - [Chapitre Ier : Demande et attribution des pensions d'invalidité des militaires et des personnes assimilées aux militaires](partie-legislative-nouvelle/livre-ier/titre-v/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Procédure applicable aux victimes civiles de guerre](partie-legislative-nouvelle/livre-ier/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Procédure applicable aux ayants cause](partie-legislative-nouvelle/livre-ier/titre-v/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Révision](partie-legislative-nouvelle/livre-ier/titre-v/chapitre-iv.md) (4 articles)
+    - **Titre VI : RÉGIME DES PENSIONS CONCÉDÉES**
+      - [Chapitre Ier : Paiement des pensions et des majorations pour enfants](partie-legislative-nouvelle/livre-ier/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Règles de cumuls](partie-legislative-nouvelle/livre-ier/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Incessibilité, insaisissabilité](partie-legislative-nouvelle/livre-ier/titre-vi/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Suspension du droit à pension](partie-legislative-nouvelle/livre-ier/titre-vi/chapitre-iv.md) (1 article)
+      - [Chapitre V : Application dans les collectivités d'outre-mer et en Nouvelle-Calédonie](partie-legislative-nouvelle/livre-ier/titre-vi/chapitre-v.md) (2 articles)
+  - **Livre II : DROITS ANNEXES À LA PENSION**
+    - **Titre Ier : PRISE EN CHARGE DES SOINS MÉDICAUX ET DE L'APPAREILLAGE**
+      - [Chapitre II : Soins médicaux](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : Appareillage](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre V : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie](partie-legislative-nouvelle/livre-ii/titre-ier/chapitre-v.md) (1 article)
+    - **Titre II : RÉGIME DES PERSONNES HOSPITALISÉES EN ÉTABLISSEMENT DE SANTÉ AUTORISÉ EN PSYCHIATRIE**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-ii/titre-ii/chapitre-unique.md) (4 articles)
+    - **Titre III : RECONVERSION ET AFFILIATION À LA SÉCURITÉ SOCIALE**
+      - [Chapitre Ier : Reconversion et accompagnement professionnel](partie-legislative-nouvelle/livre-ii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Affiliation à la sécurité sociale](partie-legislative-nouvelle/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE**
+      - [Chapitre Ier : Bénéficiaires des emplois de reconnaissance nationale](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Procédure d'accès aux emplois de reconnaissance nationale](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Recrutement direct](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie](partie-legislative-nouvelle/livre-ii/titre-iv/chapitre-iv.md) (1 article)
+    - **Titre V : CARTE D'INVALIDITÉ ET RÉDUCTIONS SUR LES TRANSPORTS**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-ii/titre-v/chapitre-unique.md) (5 articles)
+  - **Livre III : CARTES ET TITRES, ALLOCATION DE RECONNAISSANCE DU COMBATTANT ET DÉCORATIONS**
+    - **Titre Ier : LA CARTE DU COMBATTANT**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-iii/titre-ier/chapitre-unique.md) (6 articles)
+    - **Titre II : L'ALLOCATION DE RECONNAISSANCE DU COMBATTANT**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-iii/titre-ii/chapitre-unique.md) (8 articles)
+    - **Titre III : LE TITRE DE RECONNAISSANCE DE LA NATION**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-iii/titre-iii/chapitre-unique.md) (2 articles)
+    - **Titre IV : AUTRES TITRES ET DROITS CORRESPONDANTS**
+      - [Chapitre Ier : Combattants volontaires de la Résistance](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Déportés et internés résistants](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Déportés et internés politiques, patriotes résistant à l'occupation des départements du Rhin et de la Moselle et patriotes réfractaires à l'annexion de fait](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Réfractaires, personnes contraintes au travail en pays ennemi, patriotes transférés en Allemagne et autres titres en lien avec la guerre 1939-1945](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Prisonniers du Viet-Minh](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-v.md) (1 article)
+      - [Chapitre VI : Victimes de la captivité en Algérie](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Commission nationale des cartes et titres et dispositions communes](partie-legislative-nouvelle/livre-iii/titre-iv/chapitre-vii.md) (1 article)
+  - **Livre IV : PUPILLES DE LA NATION**
+    - **Titre Ier : DE LA QUALITÉ DE PUPILLE DE LA NATION**
+      - [Chapitre Ier : Reconnaissance de la qualité de pupille de la Nation](partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Procédure d'adoption par la Nation](partie-legislative-nouvelle/livre-iv/titre-ier/chapitre-ii.md) (2 articles)
+    - **Titre II : EFFETS DE L'ADOPTION**
+      - [Chapitre Ier : Protection et aide de l'Etat](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Tutelle des pupilles](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Placement des pupilles](partie-legislative-nouvelle/livre-iv/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : DISPOSITIONS RELATIVES AUX PUPILLES RÉSIDANT À L'ÉTRANGER**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-iv/titre-iii/chapitre-unique.md) (1 article)
+    - **Titre IV : DISPOSITIONS RELATIVES AUX COLLECTIVITÉS D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-iv/titre-iv/chapitre-unique.md) (1 article)
+  - **Livre V : MENTIONS À L'ÉTAT CIVIL ET SÉPULTURES**
+    - **Titre Ier : MENTIONS ET INSCRIPTIONS SUR LES MONUMENTS COMMÉMORATIFS**
+      - [Chapitre Ier : Mention "Mort pour la France"](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Mention "Mort en déportation"](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Mention "Mort pour le service de la Nation"](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Mention "Victime du terrorisme"](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Inscription sur les monuments commémoratifs](partie-legislative-nouvelle/livre-v/titre-ier/chapitre-v.md) (1 article)
+    - **Titre II : RESTITUTION DES CORPS ET SÉPULTURES PERPÉTUELLES**
+      - [Chapitre Ier : Transfert et restitution des corps](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Sépultures perpétuelles](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Voyages sur les tombes ou sur les lieux du crime](partie-legislative-nouvelle/livre-v/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : DISPOSITIONS RELATIVES AUX COLLECTIVITÉS D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-v/titre-iii/chapitre-unique.md) (1 article)
+  - **Livre VI : INSTITUTIONS**
+    - **Titre Ier : OFFICE NATIONAL DES COMBATTANTS ET DES VICTIMES DE GUERRE**
+      - [Chapitre Ier : Dispositions générales](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Organisation administrative et financière](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Structures territoriales](partie-legislative-nouvelle/livre-vi/titre-ier/chapitre-iii.md) (2 articles)
+      - [Annexe](partie-legislative-nouvelle/livre-vi/titre-ier/annexe.md) (1 article)
+    - **Titre II : INSTITUTION NATIONALE DES INVALIDES**
+      - [Chapitre Ier : Dispositions générales](partie-legislative-nouvelle/livre-vi/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Organisation administrative et financière](partie-legislative-nouvelle/livre-vi/titre-ii/chapitre-ii.md) (8 articles)
+  - **Livre VII : CONTENTIEUX DES PENSIONS**
+    - **Titre Ier : DISPOSITIONS COMMUNES**
+      - [Chapitre unique.](partie-legislative-nouvelle/livre-vii/titre-ier/chapitre-unique.md) (5 articles)
+- **Partie réglementaire (nouvelle)**
+  - **Livre Ier : LE DROIT À PENSION**
+    - **Titre Ier : LES BÉNÉFICIAIRES**
+      - [Chapitre Ier : Les militaires et les personnes assimilées](partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Les membres des organisations civiles et militaires de la Résistance](partie-reglementaire-nouvelle/livre-ier/titre-ier/chapitre-ii.md) (8 articles)
+    - **Titre II : DÉTERMINATION DU DROIT À PENSION D'INVALIDITÉ**
+      - [Chapitre Ier : Conditions générales d'ouverture du droit à pension aux militaires](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Dispositions applicables à certains militaires](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Conditions applicables aux personnes assimilées aux militaires et aux membres de la Résistance](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Conditions applicables aux victimes civiles de guerre](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Calcul des pensions](partie-reglementaire-nouvelle/livre-ier/titre-ii/chapitre-v.md) (5 articles)
+    - **Titre III : ALLOCATIONS ET MAJORATIONS**
+      - [Chapitre Ier : Allocations spéciales aux grands invalides](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Allocations spéciales aux grands mutilés](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Majoration pour tierce personne](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Majoration pour enfants](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Allocations spéciales aux aveugles de la Résistance](partie-reglementaire-nouvelle/livre-ier/titre-iii/chapitre-v.md) (2 articles)
+    - **Titre IV : DROITS DES AYANTS CAUSE**
+      - [Chapitre Ier : Ayants cause des militaires](partie-reglementaire-nouvelle/livre-ier/titre-iv/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Ayants cause des personnes assimilées aux militaires et des membres de la Résistance](partie-reglementaire-nouvelle/livre-ier/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : Ayants cause des victimes civiles de guerre](partie-reglementaire-nouvelle/livre-ier/titre-iv/chapitre-iii.md) (4 articles)
+      - [Chapitre V : Secours attribué aux concubins](partie-reglementaire-nouvelle/livre-ier/titre-iv/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Application dans les collectivités d'outre-mer et en Nouvelle-Calédonie](partie-reglementaire-nouvelle/livre-ier/titre-iv/chapitre-vi.md) (3 articles)
+    - **Titre V : PROCÉDURE D'ATTRIBUTION ET DE RÉVISION DES PENSIONS**
+      - [Chapitre Ier : Demande et attribution des pensions d'invalidité des militaires et des personnes assimilées aux militaires](partie-reglementaire-nouvelle/livre-ier/titre-v/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Procédure applicable aux victimes civiles de guerre](partie-reglementaire-nouvelle/livre-ier/titre-v/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Procédure applicable aux ayants cause](partie-reglementaire-nouvelle/livre-ier/titre-v/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Révision](partie-reglementaire-nouvelle/livre-ier/titre-v/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Procédure applicable dans les collectivités d'outre-mer et en Nouvelle-Calédonie](partie-reglementaire-nouvelle/livre-ier/titre-v/chapitre-v.md) (6 articles)
+    - **Titre VI : RÉGIME DES PENSIONS CONCÉDÉES**
+      - [Chapitre II : Règles de cumuls](partie-reglementaire-nouvelle/livre-ier/titre-vi/chapitre-ii.md) (1 article)
+  - **Livre II : DROITS ANNEXES À LA PENSION**
+    - **Titre Ier : PRISE EN CHARGE DES SOINS MÉDICAUX ET DE L'APPAREILLAGE**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Soins médicaux](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Appareillage](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Dispositions applicables à l'étranger](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions relatives aux collectivités d'outre-mer et à la Nouvelle-Calédonie](partie-reglementaire-nouvelle/livre-ii/titre-ier/chapitre-v.md) (1 article)
+    - **Titre II : RÉGIME DES PERSONNES HOSPITALISÉES EN ÉTABLISSEMENT DE SANTÉ AUTORISÉ EN PSYCHIATRIE**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-ii/titre-ii/chapitre-unique.md) (2 articles)
+    - **Titre IV : DISPOSITIF D'ACCÈS AUX EMPLOIS DE LA FONCTION PUBLIQUE**
+      - [Chapitre II : Procédure d'accès aux emplois réservés](partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-ii.md) (21 articles)
+      - [Annexe au chapitre II](partie-reglementaire-nouvelle/livre-ii/titre-iv/annexe-au-chapitre-ii.md) (1 article)
+      - [Chapitre IV : Dispositions applicables dans les collectivités d'outre-mer et en Nouvelle-Calédonie](partie-reglementaire-nouvelle/livre-ii/titre-iv/chapitre-iv.md) (1 article)
+    - **Titre V : CARTES D'INVALIDITÉ ET RÉDUCTIONS SUR LES TRANSPORTS**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-ii/titre-v/chapitre-unique.md) (6 articles)
+  - **Livre III : CARTES ET TITRES, ALLOCATION RECONNAISSANCE DU COMBATTANT ET DÉCORATIONS**
+    - **Titre Ier : LA CARTE DU COMBATTANT**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-iii/titre-ier/chapitre-unique.md) (31 articles)
+    - **Titre II : L'ALLOCATION DE RECONNAISSANCE DU COMBATTANT**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-iii/titre-ii/chapitre-unique.md) (10 articles)
+    - **Titre III : LE TITRE DE RECONNAISSANCE DE LA NATION**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-iii/titre-iii/chapitre-unique.md) (6 articles)
+    - **Titre IV : AUTRES TITRES ET DROITS CORRESPONDANTS**
+      - [Chapitre Ier : Combattants volontaires de la Résistance](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Déportés et internés résistants](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Déportés et internés politiques, patriotes résistant à l'occupation des départements du Rhin et de la Moselle et patriotes réfractaires à l'annexion de fait](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : Réfractaires, personnes contraintes au travail en pays ennemi, patriotes transférés en Allemagne et autres titres en lien avec la guerre 1939-1945](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-iv.md) (23 articles)
+      - [Chapitre V : Prisonniers du Viet-Minh](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-v.md) (1 article)
+      - [Chapitre VI : Victimes de la captivité en Algérie](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Commission nationale des cartes et titres et dispositions communes](partie-reglementaire-nouvelle/livre-iii/titre-iv/chapitre-vii.md) (5 articles)
+    - **Titre V : DÉCORATIONS**
+      - [Chapitre Ier : Légion d'honneur et médaille militaire](partie-reglementaire-nouvelle/livre-iii/titre-v/chapitre-ier.md) (10 articles)
+      - [Chapitre II : Croix du combattant volontaire de la Résistance et croix du combattant volontaire](partie-reglementaire-nouvelle/livre-iii/titre-v/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Croix du combattant et médaille de reconnaissance de la Nation](partie-reglementaire-nouvelle/livre-iii/titre-v/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Médaille des évadés](partie-reglementaire-nouvelle/livre-iii/titre-v/chapitre-iv.md) (14 articles)
+      - [Chapitre V : Autres médaille et insignes](partie-reglementaire-nouvelle/livre-iii/titre-v/chapitre-v.md) (31 articles)
+  - **Livre IV : PUPILLES DE LA NATION**
+    - **Titre Ier : DE LA QUALITÉ DE PUPILLE DE LA NATION**
+      - [Chapitre II : Procédure d'adoption par la Nation](partie-reglementaire-nouvelle/livre-iv/titre-ier/chapitre-ii.md) (9 articles)
+    - **Titre II : EFFETS DE L'ADOPTION**
+      - [Chapitre Ier : Protection et aide de l'Etat](partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Tutelle des pupilles](partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-ii.md) (20 articles)
+      - [Chapitre III : Placement des pupilles](partie-reglementaire-nouvelle/livre-iv/titre-ii/chapitre-iii.md) (19 articles)
+    - **Titre III : DISPOSITIONS RELATIVES AUX PUPILLES RÉSIDANT À L'ÉTRANGER**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-iv/titre-iii/chapitre-unique.md) (11 articles)
+    - **Titre IV : DISPOSITIONS RELATIVES AUX COLLECTIVITÉS D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-iv/titre-iv/chapitre-unique.md) (5 articles)
+  - **Livre V : MENTIONS À L'ÉTAT CIVIL ET SEPULTURES**
+    - **Titre Ier : MENTIONS ET INSCRIPTION SUR LES MONUMENTS COMMÉMORATIFS**
+      - [Chapitre Ier : Mention "Mort pour la France"](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Mention "Mort en déportation"](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Mention "Mort pour le service de la Nation"](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Mention "Victime du terrorisme"](partie-reglementaire-nouvelle/livre-v/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : RESTITUTION DES CORPS ET SÉPULTURES PERPÉTUELLES**
+      - [Chapitre Ier : Transfert et restitution des corps](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Sépultures perpétuelles](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Voyages sur les tombes ou sur les lieux du crime](partie-reglementaire-nouvelle/livre-v/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : DISPOSITIONS RELATIVES AUX COLLECTIVITES D'OUTRE-MER ET À LA NOUVELLE-CALÉDONIE**
+      - [Chapitre unique.](partie-reglementaire-nouvelle/livre-v/titre-iii/chapitre-unique.md) (4 articles)
+  - **Livre VI : INSTITUTIONS**
+    - **Titre Ier : OFFICE NATIONAL DES ANCIENS COMBATTANTS ET VICTIMES DE GUERRE**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Organisation administrative et financière](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-ii.md) (26 articles)
+      - [Chapitre III : Structures territoriales](partie-reglementaire-nouvelle/livre-vi/titre-ier/chapitre-iii.md) (18 articles)
+    - **Titre II : INSTITUTION NATIONALE DES INVALIDES**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-nouvelle/livre-vi/titre-ii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Organisation administrative et financière](partie-reglementaire-nouvelle/livre-vi/titre-ii/chapitre-ii.md) (22 articles)
+  - **Livre VII : RECOURS ADMINISTRATIF PRÉALABLE OBLIGATOIRE**
+    - [Chapitre Ier : Compétence de la commission de recours de l'invalidité](partie-reglementaire-nouvelle/livre-vii/chapitre-ier.md) (1 article)
+    - [Chapitre II : Saisine de la commission de recours de l'invalidité](partie-reglementaire-nouvelle/livre-vii/chapitre-ii.md) (1 article)
+    - [Chapitre III : Composition et nomination des membres de la commission de recours de l'invalidité](partie-reglementaire-nouvelle/livre-vii/chapitre-iii.md) (7 articles)
+    - [Chapitre IV : Instruction des recours](partie-reglementaire-nouvelle/livre-vii/chapitre-iv.md) (7 articles)
+  - [ANNEXES AU CODE DES PENSIONS MILITAIRES D'INVALIDITÉ ET DES VICTIMES DE GUERRE](partie-reglementaire-nouvelle/annexes-au-code-des-pensions-militaires-d-invalidite-et-des-victimes-de-guerre.md) (3 articles)
+- **Partie législative**
+  - **Livre Ier : Régime général des pensions militaires d'invalidité.**
+    - **Titre II : Emoluments complémentaires.**
+      - [Chapitre III : Indemnité de soins aux tuberculeux.](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (1 article)
+    - **Titre III : Droits à pension des conjoints survivants et des orphelins.**
+      - [Chapitre II : Fixation de la pension.](partie-legislative/livre-ier/titre-iii/chapitre-ii.md) (1 article)
+    - **Titre VI : Dispositions diverses relatives au payement des pensions.**
+      - [Chapitre Ier : Incessibilité - Insaisissabilité.](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (1 article)
+  - **Livre II : Régimes rattachés au régime général et régimes spéciaux**
+    - **Titre Ier : Régimes applicables à certains personnels militaires et assimilés**
+      - [Chapitre II : Autres personnels militaires.](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Affectés spéciaux, membres de la défense passive requis](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Dispositions applicables à certains fonctionnaires.](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : Marins du commerce](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Formation préliminaire.](partie-legislative/livre-ii/titre-ier/chapitre-vi.md) (1 article)
+    - **Titre II : Membres des organisations civiles et militaires de la Résistance**
+      - [Chapitre Ier : De la qualité de membre des FFI et de membre de la Résistance](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Du droit à pension](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (1 article)
+    - **Titre III : Règles applicables aux victimes civiles**
+      - [Chapitre Ier : Victimes civiles de la guerre](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (7 articles)
+    - **Titre IV : Alsaciens et Lorrains**
+      - [Chapitre II : Militaires ayant servi dans l'armée allemande](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+    - **Titre V : Militaires et assimilés originaires d'Algérie et des pays d'outre-mer**
+      - [Chapitre II : Droit à pension des travailleurs indochinois.](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (3 articles)
+    - [Titre VII : Admission de certains étrangers, ainsi que de certains Français victimes de circonstances particulières, au bénéfice des dispositions du présent code.](partie-legislative/livre-ii/titre-vii.md) (1 article)
+  - **Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre**
+    - **Titre II : Statut des résistants, des déportés, internés et réfractaires**
+      - [Chapitre Ier : Statut des combattants volontaires de la Résistance](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Statut des déportés et internés de la Résistance](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Statut des déportés et internés politiques](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Statut des réfractaires.](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Statut des personnes contraintes au travail](partie-legislative/livre-iii/titre-ii/chapitre-v.md) (2 articles)
+    - **Titre III : Droits et avantages accessoires**
+      - [Chapitre II : Prêts, secours et autres dispositions pécuniaires](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (3 articles)
+  - **Livre IV : Etat civil et sépultures**
+    - [Chapitre Ier : Mention "Mort pour la France".](partie-legislative/livre-iv/chapitre-ier.md) (1 article)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **Livre Ier : Régime général des pensions militaires d'invalidité.**
+    - **Titre II : Emoluments complémentaires.**
+      - [Chapitre II : Statut des grands mutilés de guerre et allocations spéciales aux grands mutilés.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/titre-ii/chapitre-ii.md) (5 articles)
+  - **Livre II : Régimes rattachés au régime général et régimes spéciaux.**
+    - **Titre Ier : Régimes applicables à certains personnels militaires et assimilés.**
+      - [Chapitre III : Afféctés spéciaux et membres de la défense passive.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-iii.md) (6 articles)
+    - **Titre II : Membres des organisations civiles et militaires de la Résistance.**
+      - [Chapitre II : Du droit à pension des membres de la Résistance.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii.md) (1 article)
+    - **Titre IV : Alsaciens et Lorrains.**
+      - [Chapitre II : Militaires ayant servi dans l'armée allemande.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+  - **Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.**
+    - **Titre Ier : Carte et allocation de reconnaissance du combattant.**
+      - [Chapitre Ier : Carte du combattant.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+    - **Titre II : Statuts des résistants, déportés, internés et réfractaires.**
+      - [Chapitre Ier : Statut des combattants volontaires de la Résistance.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Statut des déportés et internés résistants.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Statut des déportés et internés politiques.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Statut des réfractaires.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Statut des personnes contraintes au travail.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-ii/chapitre-v.md) (1 article)
+    - **Titre III : Droits et avantages accessoires.**
+      - [Chapitre II : Prêts, secours et autres dispositions pécuniaires.](partie-reglementaire-decrets-en-conseil-d-etat/livre-iii/titre-iii/chapitre-ii.md) (4 articles)
+- **Partie réglementaire - Décrets simples**
+  - **Livre Ier : Régime général des pensions militaires d'invalidité.**
+    - **Titre II : Emoluments complémentaires.**
+      - [Chapitre III : Indemnités de soins aux tuberculeux.](partie-reglementaire-decrets-simples/livre-ier/titre-ii/chapitre-iii.md) (10 articles)
+  - **Livre II : Régimes rattachés au régime général et régimes spéciaux.**
+    - **Titre V : Militaires et assimilés originaires de l'Afrique du Nord et des pays d'outre-mer.**
+      - [Chapitre II : Droit à pension des travailleurs indochinois.](partie-reglementaire-decrets-simples/livre-ii/titre-v/chapitre-ii.md) (6 articles)
+  - **Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.**
+    - **Titre III : Droits et avantages accessoires.**
+      - [Chapitre II : Prêts, secours et autres dispositions pécuniaires.](partie-reglementaire-decrets-simples/livre-iii/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Décorations et insignes.](partie-reglementaire-decrets-simples/livre-iii/titre-iii/chapitre-iii.md) (9 articles)
+  - **Livre IV : Etat civil et sépultures.**
+    - [Chapitre II : Transferts et restitutions de corps.](partie-reglementaire-decrets-simples/livre-iv/chapitre-ii.md) (1 article)
+  - **Livre V : Institutions.**
+    - **Titre Ier : Offices des anciens combattants et victimes de guerre.**
+      - [Chapitre Ier : Office national.](partie-reglementaire-decrets-simples/livre-v/titre-ier/chapitre-ier.md) (1 article)
+- **Partie réglementaire - Arrêtés**
+  - **Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.**
+    - **Titre Ier : Carte et allocation de reconnaissance.**
+      - [Chapitre Ier : Carte du combattant.](partie-reglementaire-arretes/livre-iii/titre-ier/chapitre-ier.md) (34 articles)
+    - **Titre II : Statut des résistants, déportés, internés et réfractaires.**
+      - [Chapitre Ier : Statut des combattants volontaires de la Résistance.](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Statut des déportés et internés de la Résistance.](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Statut des déportés et internés politiques.](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Statut des réfractaires.](partie-reglementaire-arretes/livre-iii/titre-ii/chapitre-iv.md) (3 articles)
+    - **Titre III : Droits et avantages accessoires.**
+      - [Chapitre Ier : Droits attachés à la qualité de pensionné.](partie-reglementaire-arretes/livre-iii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre III : Décorations et insignes.](partie-reglementaire-arretes/livre-iii/titre-iii/chapitre-iii.md) (3 articles)
+- **Annexes**
+  - **Livre II : Régimes rattachés au régime général et régimes spéciaux.**
+    - **Titre VI : Etrangers.**
+      - [Convention franco-belge du 7 novembre 1929 (Ratifiée le 24 novembre 1932 en exécution de la loi du 25 octobre 1932 et promulguée par décret du 20 janvier 1933).](annexes/livre-ii/titre-vi/convention-franco-belge-du-7-novembre-1929-ratifiee-le-24-novembre-1932-en.md) (4 articles)
+      - [Convention franco-polonaise du 11 février 1947 (Ratifiée le 30 septembre 1947 en exécution de la loi du 13 août 1947 et publiée par le décret du 18 décembre 1947).](annexes/livre-ii/titre-vi/convention-franco-polonaise-du-11-fevrier-1947-ratifiee-le-30-septembre-1947-en.md) (9 articles)
+      - [Convention franco-tchécoslovaque du 1er décembre 1947 (Ratifiée le 24 octobre 1949, en exécution de la loi du 21 mars 1949 et publiée par le décret du 6 mai 1950).](annexes/livre-ii/titre-vi/convention-franco-tchecoslovaque-du-1er-decembre-1947-ratifiee-le-24-octobre.md) (9 articles)
+      - [Convention du 10 février 1938 (art. 17) concernant le statut des réfugiés provenant d'Allemagne (Publiée par décret du 14 avril 1945).](annexes/livre-ii/titre-vi/convention-du-10-fevrier-1938-art-17-concernant-le-statut-des-refugies.md) (1 article)
+      - [Convention franco-britannique du 23 janvier 1950](annexes/livre-ii/titre-vi/convention-franco-britannique-du-23-janvier-1950.md) (4 articles)
+  - **Livre III : Droits et avantages attachés à la qualité d'ancien combattant ou de victime de guerre.**
+    - **Titre III : Droits et avantages accessoires.**
+      - [Chapitre IV : Emplois réservés.](annexes/livre-iii/titre-iii/chapitre-iv.md) (1 article)

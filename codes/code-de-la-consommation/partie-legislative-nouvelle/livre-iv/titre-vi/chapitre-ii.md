@@ -33,7 +33,7 @@ Résultant de l'ordonnance n° 2016-301 du 14 mars 2016
 - Identifiant : LEGIARTI000034130635
 - État : en vigueur depuis le 01/07/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034130635
-- Renvoie à : [art. L431-2 du Code de la consommation](../titre-iii/chapitre-ier.md#article-l431-2) ; [art. L453-1 du Code de la consommation](../titre-v/chapitre-iii.md#article-l453-1) ; [art. L462-1 du Code de la consommation](chapitre-ii.md#article-l462-1)
+- Renvoie à : [art. L431-2 du Code de la consommation](../titre-iii/chapitre-ier.md#article-l431-2) ; [art. L453-1 du Code de la consommation](../titre-v/chapitre-iii.md#article-l453-1) ; [art. L462-1 du Code de la consommation](chapitre-ii.md#article-l462-1) ; [art. L641-7 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ier.md#article-l641-7) ; [art. L642-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-vi/titre-iv/chapitre-ii.md#article-l642-3)
 
 Pour l'application de l'article L. 462-1 :
 

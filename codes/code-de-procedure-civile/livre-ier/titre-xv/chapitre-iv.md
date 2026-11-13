@@ -6,7 +6,7 @@ Code de procédure civile › Livre Ier : Dispositions communes à toutes les ju
 - Identifiant : LEGIARTI000039623241
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623241
-- Cité par : [art. R1455-10 du Code du travail](../../../code-du-travail/partie-reglementaire/premiere-partie/livre-iv/titre-v/chapitre-v.md#article-r1455-10) ; [art. R421-9 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624137)
+- Cité par : [art. R421-9 du Code des assurances](../../../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9) ; [art. R1455-10 du Code du travail](../../../code-du-travail/partie-reglementaire/premiere-partie/livre-iv/titre-v/chapitre-v.md#article-r1455-10)
 
 Les décisions de première instance sont de droit exécutoires à titre provisoire à moins que la loi ou la décision rendue n'en dispose autrement.
 
@@ -88,7 +88,7 @@ Lorsqu'il est saisi en application des articles 514-3 et 514-4, le premier prés
 - Identifiant : LEGIARTI000039623238
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039623238
-- Cité par : [art. 807-2 du Code de procédure civile](../../livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-807-2) ; [art. R421-9 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624137)
+- Cité par : [art. 807-2 du Code de procédure civile](../../livre-ii/titre-ier/sous-titre-ii/chapitre-ier.md#article-807-2) ; [art. R421-9 du Code des assurances](../../../code-des-assurances/partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md#article-r421-9)
 
 Lorsqu'il est prévu par la loi que l'exécution provisoire est facultative, elle peut être ordonnée, d'office ou à la demande d'une partie, chaque fois que le juge l'estime nécessaire et compatible avec la nature de l'affaire.  
 

@@ -47,7 +47,7 @@ Dans les cas où les parties intéressées ne seront point obligées de compara�
 - Identifiant : LEGIARTI000006420789
 - État : en vigueur depuis le 27/10/1919
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006420789
-- Cité par : [art. ANNEXE, art. 30 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-annexe-art-30)
+- Cité par : [art. ANNEXE, art. 30 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-annexe-art-30)
 
 Les témoins produits aux actes de l'état civil devront être âgés de dix-huit ans au moins, parents ou autres, sans distinction de sexe ; ils seront choisis par les personnes intéressées.
 
@@ -85,8 +85,8 @@ Cette dispense est également applicable aux actes de l'état civil établis par
 - Identifiant : LEGIARTI000038310351
 - État : en vigueur depuis le 25/03/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310351
-- Renvoie à : art. 441-4 du Code pénal
-- Cité par : [art. 194 du Code civil](../titre-v/chapitre-iv.md#article-194) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578) ; [art. 1119 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310377) ; [Décret n°2017-890 du 6 mai 2017, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343163) ; [Décret n°2017-890 du 6 mai 2017, art. 15-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343160) ; [Loi n° 68-671 du 25 juillet 1968, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038310372) ; [Ordonnance n°2010-590 du 3 juin 2010, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022299360) ; [Ordonnance n°62-800 du 16 juillet 1962, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047572685)
+- Renvoie à : [art. 441-4 du Code pénal](../../../code-penal/partie-legislative/livre-iv/titre-iv/chapitre-ier.md#article-441-4)
+- Cité par : [art. 194 du Code civil](../titre-v/chapitre-iv.md#article-194) ; [art. 1578 du Code de procédure civile](../../../code-de-procedure-civile/livre-vi/titre-ii.md#article-1578) ; [art. 1119 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-iv.md#article-1119) ; [Décret n°2017-890 du 6 mai 2017, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343163) ; [Décret n°2017-890 du 6 mai 2017, art. 15-1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039343160) ; [Loi n° 68-671 du 25 juillet 1968, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038310372) ; [Ordonnance n°2010-590 du 3 juin 2010, art. 9](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022299360) ; [Ordonnance n°62-800 du 16 juillet 1962, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047572685)
 
 Lorsqu'il n'aura pas existé de registres, ou qu'ils seront perdus, la preuve en sera reçue tant par titres que par témoins ; et, dans ces cas, les mariages, naissances et décès pourront être prouvés tant par les registres et papiers émanés des pères et mères décédés, que par témoins.
 
@@ -102,7 +102,7 @@ Les requérants et les témoins sont passibles des peines prévues à l'article 
 - Identifiant : LEGIARTI000043895621
 - État : en vigueur depuis le 04/08/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895621
-- Cité par : [Arrêté du 17 novembre 2016, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033441746) ; [Arrêté du 20 novembre 2019, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039418707) ; [art. L811-2 du Code de l'entrée et du séjour des étrangers et ...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042774670) ; [Décret n°2007-773 du 10 mai 2007, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286743) ; [Décret n°2008-521 du 2 juin 2008, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034723959) ; [Décret n°2015-1740 du 24 décembre 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031825426) ; [Décret n°2015-1740 du 24 décembre 2015, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031825432) ; [Décret n°51-1142 du 1 octobre 1951, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286367) ; [Ordonnance n°59-68 du 7 janvier 1959, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285042)
+- Cité par : [art. L811-2 du Code de l'entrée et du séjour des étrangers et du droit d'asile](../../../code-de-l-entree-et-du-sejour-des-etrangers-et-du-droit-d-asile/partie-legislative/livre-viii/titre-ier/chapitre-i.md#article-l811-2) ; [Arrêté du 17 novembre 2016, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033441746) ; [Arrêté du 20 novembre 2019, art. 8](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039418707) ; [Décret n°2007-773 du 10 mai 2007, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286743) ; [Décret n°2008-521 du 2 juin 2008, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034723959) ; [Décret n°2015-1740 du 24 décembre 2015](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000031825426) ; [Décret n°2015-1740 du 24 décembre 2015, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031825432) ; [Décret n°51-1142 du 1 octobre 1951, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006286367) ; [Ordonnance n°59-68 du 7 janvier 1959, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006285042)
 
 Tout acte de l'état civil des Français et des étrangers fait en pays étranger et rédigé dans les formes usitées dans ce pays fait foi, sauf si d'autres actes ou pièces détenus, des données extérieures ou des éléments tirés de l'acte lui-même établissent, le cas échéant après toutes vérifications utiles, que cet acte est irrégulier, falsifié ou que les faits qui y sont déclarés ne correspondent pas à la réalité. Celle-ci est appréciée au regard de la loi française.
 
@@ -136,7 +136,7 @@ Les officiers de l'état civil des communes mentionnées au troisième alinéa d
 - Identifiant : LEGIARTI000039366837
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039366837
-- Cité par : [art. 76 du Code civil](chapitre-iii.md#article-76) ; [art. 101 du Code civil](chapitre-vii.md#article-101) ; [art. 30-18 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les-departements-du-bas-rhin-du-haut-rhin-et-de-la-moselle/chapitre-ier.md#article-30-18) ; [art. R215 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518202)
+- Cité par : [art. 76 du Code civil](chapitre-iii.md#article-76) ; [art. 101 du Code civil](chapitre-vii.md#article-101) ; [art. 30-18 du Code de procédure civile](../../../code-de-procedure-civile/annexes/annexe-du-code-de-procedure-civile-relative-a-son-application-dans-les/chapitre-ier.md#article-30-18) ; [art. R215 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-iii.md#article-r215)
 
 Toute contravention aux articles précédents, de la part des fonctionnaires y dénommés, sera poursuivie devant le tribunal judiciaire, et punie d'une amende de 3 à 30 euros.
 
@@ -160,7 +160,7 @@ Toute altération, tout faux dans les actes de l'état civil, toute inscription 
 - Identifiant : LEGIARTI000033460877
 - État : en vigueur depuis le 20/11/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460877
-- Cité par : [art. R215 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006518202)
+- Cité par : [art. R215 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-iii.md#article-r215)
 
 Le procureur de la République territorialement compétent pourra à tout moment vérifier l'état des registres ; il dressera un procès-verbal sommaire de la vérification, dénoncera les contraventions ou délits commis par les officiers de l'état civil, et requerra contre eux la condamnation aux amendes.
 

@@ -77,7 +77,7 @@ Une fraction des crédits du Fonds national des solidarités actives, définie c
 - Identifiant : LEGIARTI000020529441
 - État : en vigueur depuis le 01/06/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020529441
-- Renvoie à : [art. L262-28 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797238)
+- Renvoie à : [art. L262-28 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-28)
 - Cité par : [art. R5133-11 du Code du travail](chapitre-iii.md#article-r5133-11) ; [art. R5522-92 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-92)
 
 L'aide personnalisée de retour à l'emploi peut être attribuée aux bénéficiaires du revenu de solidarité active tenus à l'obligation prévue à l'article L. 262-28 du code de l'action sociale et des familles.  
@@ -119,7 +119,7 @@ Une convention entre le président du conseil de gestion du Fonds national des s
 - Identifiant : LEGIARTI000020529432
 - État : en vigueur depuis le 01/06/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020529432
-- Renvoie à : [art. L262-28 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797238)
+- Renvoie à : [art. L262-28 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-28)
 - Cité par : [art. R5133-17 du Code du travail](chapitre-iii.md#article-r5133-17)
 
 Le montant des crédits attribués par département au titre de l'aide personnalisée de retour à l'emploi est arrêté par le président du conseil de gestion du Fonds national des solidarités actives en fonction du nombre prévisionnel de bénéficiaires du revenu de solidarité active relevant des dispositions de l'article L. 262-28 du code de l'action sociale et des familles. Ce montant est notifié au préfet avant le 31 mars de chaque année.
@@ -128,7 +128,7 @@ Le montant des crédits attribués par département au titre de l'aide personnal
 - Identifiant : LEGIARTI000020529430
 - État : en vigueur depuis le 01/06/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020529430
-- Renvoie à : [art. L262-27 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797236) ; [art. L262-32 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797246)
+- Renvoie à : [art. L262-27 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-27) ; [art. L262-32 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797246)
 
 Sur la base de la convention d'orientation prévue à l'article L. 262-32 du code de l'action sociale et des familles, le préfet arrête la répartition des crédits entre les organismes au sein desquels peuvent être désignés des référents en application de l'article L. 262-27 du code de l'action sociale et des familles. Cette répartition tient compte, notamment, du nombre des bénéficiaires suivis par l'organisme, de l'objet des aides versées et du retour à l'emploi des bénéficiaires effectivement constaté. La convention détermine les modalités de versement et de suivi des dépenses. Le préfet notifie les sommes attribuées à chaque organisme.  
 
@@ -145,7 +145,7 @@ Avant la fin de chaque exercice budgétaire, le préfet procède à l'estimation
 - Identifiant : LEGIARTI000020529425
 - État : en vigueur depuis le 01/06/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020529425
-- Renvoie à : [art. R5133-14 du Code du travail](chapitre-iii.md#article-r5133-14) ; [art. L262-28 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797238) ; [art. L262-32 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797246) ; [art. L262-45 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797288)
+- Renvoie à : [art. L262-28 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-28) ; [art. L262-45 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-vi/chapitre-ii.md#article-l262-45) ; [art. R5133-14 du Code du travail](chapitre-iii.md#article-r5133-14) ; [art. L262-32 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006797246)
 - Cité par : [art. R5522-93 du Code du travail](../../livre-v/titre-ii/chapitre-ii.md#article-r5522-93)
 
 En l'absence de convention d'orientation prévue à l'article L. 262-32 du code de l'action sociale et des familles, le préfet répartit les crédits qui lui sont notifiés au titre de l'article R. 5133-14 du présent code entre les organismes chargés du service du revenu de solidarité active.  

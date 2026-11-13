@@ -71,7 +71,7 @@ La radiation de l'inscription interdit la communication des mentions prévues à
 - Identifiant : LEGIARTI000050924322
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050924322
-- Renvoie à : [art. L128-2 du Code de commerce](../../../partie-legislative/livre-ier/titre-ii/chapitre-viii.md#article-l128-2) ; [art. L6361-5 du Code du travail](../../../../code-du-travail/partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ier.md#article-l6361-5) ; art. L114-16-3 du Code de la sécurité sociale ; art. L561-23 du Code monétaire et financier
+- Renvoie à : [art. L128-2 du Code de commerce](../../../partie-legislative/livre-ier/titre-ii/chapitre-viii.md#article-l128-2) ; [art. L222-9 du Code de l'énergie](../../../../code-de-l-energie/partie-legislative/livre-ii/titre-ii/chapitre-ii.md#article-l222-9) ; [art. L114-16-3 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-i/chapitre-4-ter.md#article-l114-16-3) ; [art. L6361-5 du Code du travail](../../../../code-du-travail/partie-legislative/sixieme-partie/livre-iii/titre-vi/chapitre-ier.md#article-l6361-5) ; [art. L561-23 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-vi/chapitre-ier.md#article-l561-23)
 - Cité par : [art. R128-8 du Code de commerce](chapitre-viii.md#article-r128-8) ; [Décret n°2021-712 du 3 juin 2021](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000043607462)
 
 Peuvent être destinataires des informations et des données à caractère personnel enregistrées dans le fichier national des interdits de gérer :  

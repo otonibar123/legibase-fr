@@ -34,7 +34,7 @@ Les droits résultant de la filiation adoptive sont réglés au titre de l'adopt
 - Identifiant : LEGIARTI000006430952
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430952
-- Cité par : [art. 745 du Code civil](chapitre-iii.md#article-745) ; [art. D312-1-3 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053218634) ; [art. L312-1-4-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054380972) ; [Décret n°2025-813 du 13 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052097673)
+- Cité par : [art. 745 du Code civil](chapitre-iii.md#article-745) ; [art. D312-1-3 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-d312-1-3) ; [art. L312-1-4-1 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-iii/titre-ier/chapitre-ii.md#article-l312-1-4-1) ; [Décret n°2025-813 du 13 août 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052097673)
 
 En l'absence de conjoint successible, les parents sont appelés à succéder ainsi qu'il suit :  
 
@@ -91,7 +91,7 @@ Lorsque seul le père ou la mère survit et que le défunt n'a ni postérité ni
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431168
 - Renvoie à : [art. 738 du Code civil](chapitre-iii.md#article-738)
-- Cité par : [art. 763 bis du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305382) ; [art. 791 ter du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021629743)
+- Cité par : [art. 763 bis du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-763-bis) ; [art. 791 ter du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-791-ter)
 
 Lorsque les père et mère ou l'un d'eux survivent au défunt et que celui-ci n'a pas de postérité, ils peuvent dans tous les cas exercer un droit de retour, à concurrence des quote-parts fixées au premier alinéa de l'article 738, sur les biens que le défunt avait reçus d'eux par donation.  
 
@@ -135,7 +135,7 @@ On distingue la ligne directe descendante et la ligne directe ascendante.
 - Identifiant : LEGIARTI000020616255
 - État : en vigueur depuis le 14/05/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020616255
-- Cité par : [art. R53-10 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044278210) ; [art. D1803-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052208977) ; [art. L1803-4-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042915845) ; [Décret n°2021-845 du 28 juin 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043720205)
+- Cité par : [art. R53-10 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-iv/titre-xx.md#article-r53-10) ; [art. D1803-2 du Code des transports](../../../code-des-transports/partie-reglementaire/premiere-partie/livre-viii/titre-preliminaire/chapitre-iii.md#article-d1803-2) ; [art. L1803-4-1 du Code des transports](../../../code-des-transports/partie-legislative/premiere-partie/livre-viii/titre-preliminaire/chapitre-iii.md#article-l1803-4-1) ; [Décret n°2021-845 du 28 juin 2021, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043720205)
 
 En ligne directe, on compte autant de degrés qu'il y a de générations entre les personnes : ainsi, l'enfant est, à l'égard du père et de la mère, au premier degré, le petit-fils ou la petite-fille au second ; et réciproquement du père et de la mère à l'égard de l'enfant et des aïeuls à l'égard du petit-fils ou de la petite-fille ; ainsi de suite.
 
@@ -282,7 +282,7 @@ Les dispositions prévues au deuxième alinéa de l'article 754 sont applicables
 - Identifiant : LEGIARTI000006431085
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431085
-- Cité par : [art. 301 du Code civil](../../livre-ier/titre-vi/chapitre-iv.md#article-301) ; [art. L123-6 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278947)
+- Cité par : [art. 301 du Code civil](../../livre-ier/titre-vi/chapitre-iv.md#article-301) ; [art. L123-6 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iii.md#article-l123-6)
 
 Le conjoint successible est appelé à la succession, soit seul, soit en concours avec les parents du défunt.
 
@@ -290,7 +290,7 @@ Le conjoint successible est appelé à la succession, soit seul, soit en concour
 - Identifiant : LEGIARTI000006431087
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431087
-- Cité par : [art. 758-5 du Code civil](chapitre-iii.md#article-758-5) ; [art. 758-6 du Code civil](chapitre-iii.md#article-758-6) ; [art. 1341 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1341) ; [art. 968 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036385009)
+- Cité par : [art. 758-5 du Code civil](chapitre-iii.md#article-758-5) ; [art. 758-6 du Code civil](chapitre-iii.md#article-758-6) ; [art. 1341 du Code de procédure civile](../../../code-de-procedure-civile/livre-iii/titre-iii/chapitre-ii.md#article-1341) ; [art. 968 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-ii-bis.md#article-968)
 
 Si l'époux prédécédé laisse des enfants ou descendants, le conjoint survivant recueille, à son choix, l'usufruit de la totalité des biens existants ou la propriété du quart des biens lorsque tous les enfants sont issus des deux époux et la propriété du quart en présence d'un ou plusieurs enfants qui ne sont pas issus des deux époux.
 
@@ -388,7 +388,7 @@ Les libéralités reçues du défunt par le conjoint survivant s'imputent sur le
 - Identifiant : LEGIARTI000006431099
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431099
-- Cité par : [art. L112-2 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024039949) ; [Loi n°72-3 du 3 janvier 1972, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283644)
+- Cité par : [art. L112-2 du Code monétaire et financier](../../../code-monetaire-et-financier/partie-legislative/livre-ier/titre-ier/chapitre-ii.md#article-l112-2) ; [Loi n°72-3 du 3 janvier 1972, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283644)
 
 Tout usufruit appartenant au conjoint sur les biens du prédécédé, qu'il résulte de la loi, d'un testament ou d'une donation de biens à venir, donne ouverture à une faculté de conversion en rente viagère, à la demande de l'un des héritiers nus-propriétaires ou du conjoint successible lui-même.
 
@@ -430,7 +430,7 @@ La conversion de l'usufruit est comprise dans les opérations de partage. Elle n
 - Identifiant : LEGIARTI000006431113
 - État : en vigueur depuis le 01/01/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113
-- Cité par : [art. 515-6 du Code civil](../../livre-ier/titre-xiii/chapitre-ier.md#article-515-6) ; [art. L254-7 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028627315) ; [art. 775 quater du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305407) ; [Loi n°2001-1135 du 3 décembre 2001, art. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284690)
+- Cité par : [art. 515-6 du Code civil](../../livre-ier/titre-xiii/chapitre-ier.md#article-515-6) ; [art. L254-7 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-v/chapitre-iv.md#article-l254-7) ; [art. 775 quater du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-775-quater) ; [Loi n°2001-1135 du 3 décembre 2001, art. 25](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006284690)
 
 Si, à l'époque du décès, le conjoint successible occupe effectivement, à titre d'habitation principale, un logement appartenant aux époux ou dépendant totalement de la succession, il a de plein droit, pendant une année, la jouissance gratuite de ce logement, ainsi que du mobilier, compris dans la succession, qui le garnit.  
 
@@ -445,7 +445,7 @@ Le présent article est d'ordre public.
 - État : en vigueur depuis le 01/07/2002
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431120
 - Renvoie à : [art. 627 du Code civil](../../livre-ii/titre-iii/chapitre-ii.md#article-627) ; [art. 631 du Code civil](../../livre-ii/titre-iii/chapitre-ii.md#article-631) ; [art. 634 du Code civil](../../livre-ii/titre-iii/chapitre-ii.md#article-634) ; [art. 635 du Code civil](../../livre-ii/titre-iii/chapitre-ii.md#article-635) ; [art. 971 du Code civil](../titre-ii/chapitre-v.md#article-971)
-- Cité par : [art. 301 du Code civil](../../livre-ier/titre-vi/chapitre-iv.md#article-301) ; [art. 831-3 du Code civil](chapitre-viii.md#article-831-3) ; [art. L254-7 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028627315) ; [art. L123-6 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006278947) ; [Décret n°2023-1324 du 28 décembre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048806677)
+- Cité par : [art. 301 du Code civil](../../livre-ier/titre-vi/chapitre-iv.md#article-301) ; [art. 831-3 du Code civil](chapitre-viii.md#article-831-3) ; [art. L254-7 du Code de la construction et de l'habitation](../../../code-de-la-construction-et-de-l-habitation/partie-legislative/livre-ii/titre-v/chapitre-iv.md#article-l254-7) ; [art. L123-6 du Code de la propriété intellectuelle](../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ier/titre-ii/chapitre-iii.md#article-l123-6) ; [art. 397 du Code général des impôts, annexe III](../../../code-general-des-impots-annexe-iii/livre-ii/chapitre-premier.md#article-397) ; [Décret n°2023-1324 du 28 décembre 2023](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000048806677)
 
 Sauf volonté contraire du défunt exprimée dans les conditions de l'article 971, le conjoint successible qui occupait effectivement, à l'époque du décès, à titre d'habitation principale, un logement appartenant aux époux ou dépendant totalement de la succession, a sur ce logement, jusqu'à son décès, un droit d'habitation et un droit d'usage sur le mobilier, compris dans la succession, le garnissant.  
 
@@ -498,7 +498,7 @@ S'il est parmi les successibles parties à la convention un mineur ou un majeur 
 - État : en vigueur depuis le 14/05/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020616249
 - Renvoie à : [art. 927 du Code civil](../titre-ii/chapitre-iii.md#article-927)
-- Cité par : [art. 342-5 du Code civil](../../livre-ier/titre-vii/chapitre-iv.md#article-342-5) ; [art. 156 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054373682) ; [art. 968 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036385009) ; [Décret n°55-1350 du 14 octobre 1955, art. 69](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026854920) ; [Loi n°72-3 du 3 janvier 1972, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283644) ; [Loi n°81-1160 du 30 décembre 1981, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006273474)
+- Cité par : [art. 342-5 du Code civil](../../livre-ier/titre-vii/chapitre-iv.md#article-342-5) ; [art. 156 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-premier/chapitre-premier.md#article-156) ; [art. 968 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-ii-bis.md#article-968) ; [Décret n°55-1350 du 14 octobre 1955, art. 69](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000026854920) ; [Loi n°72-3 du 3 janvier 1972, art. 19](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006283644) ; [Loi n°81-1160 du 30 décembre 1981, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006273474)
 
 La succession de l'époux prédécédé doit une pension au conjoint successible qui est dans le besoin. Le délai pour la réclamer est d'un an à partir du décès ou du moment où les héritiers cessent d'acquitter les prestations qu'ils fournissaient auparavant au conjoint. Le délai se prolonge, en cas d'indivision, jusqu'à l'achèvement du partage.
 

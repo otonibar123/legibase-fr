@@ -76,7 +76,7 @@ Le juge peut inviter les parties à fournir les explications de fait qu'il estim
 - Identifiant : LEGIARTI000006410102
 - État : en vigueur depuis le 01/01/1976
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410102
-- Cité par : [art. R112-19-1 du Code du patrimoine](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033464316)
+- Cité par : [art. R112-19-1 du Code du patrimoine](../../../code-du-patrimoine/partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md#article-r112-19-1)
 
 Il incombe à chaque partie de prouver conformément à la loi les faits nécessaires au succès de sa prétention.
 
@@ -216,7 +216,7 @@ Le juge n'est pas tenu de recourir à un interprète lorsqu'il connaît la langu
 - Identifiant : LEGIARTI000006410117
 - État : en vigueur depuis le 01/01/2005
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410117
-- Cité par : [art. 1464 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054637717) ; [art. R93 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049403781) ; [art. R310 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042083023)
+- Cité par : [art. R93 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93) ; [art. R310 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-vi/titre-ii/chapitre-vii.md#article-r310) ; [art. 1464 du Code de procédure civile](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054637717)
 
 Si l'une des parties est atteinte de surdité, le juge désigne pour l'assister, par ordonnance non susceptible de recours, un interprète en langue des signes ou en langage parlé complété, ou toute personne qualifiée maîtrisant un langage ou une méthode permettant de communiquer avec les sourds. Le juge peut également recourir à tout dispositif technique permettant de communiquer avec cette partie.  
 

@@ -76,7 +76,7 @@ Pour l'application de l'article L. 611-7, L. 626-6 et L. 643-3, les institutions
 - Identifiant : LEGIARTI000022233660
 - État : en vigueur depuis le 08/05/2010
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233660
-- Renvoie à : [art. L642-1 du Code de commerce](../../livre-vi/titre-iv/chapitre-ii.md#article-l642-1) ; art. L331-3 du Code rural et de la pêche maritime
+- Renvoie à : [art. L642-1 du Code de commerce](../../livre-vi/titre-iv/chapitre-ii.md#article-l642-1) ; [art. L331-3 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iii/chapitre-ier.md#article-l331-3)
 
 A l'article L. 642-1, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de l'article L. 331-3 du code rural et de la pêche maritime s'entend des prescriptions suivantes :
 

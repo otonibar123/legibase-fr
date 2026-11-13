@@ -145,7 +145,7 @@ En cas de variation d'une ampleur exceptionnelle du coût des ressources des ét
 - Identifiant : LEGIARTI000032807638
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807638
-- Renvoie à : [art. R312-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006683871)
+- Renvoie à : [art. R312-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md#article-r312-1)
 
 Les prêteurs doivent porter à la connaissance des emprunteurs les seuils de l'usure correspondant aux prêts qu'ils leur proposent. Les établissements de crédit tiennent cette information à la disposition de leur clientèle comme pour les conditions générales de banque mentionnées à l'article R. 312-1 du code monétaire et financier.
 
@@ -238,7 +238,7 @@ Toutefois, les personnels disposent d'un délai de six mois pour satisfaire à c
 - État : en vigueur depuis le 01/07/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032807658
 - Renvoie à : [Code monétaire et financier](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006072026)
-- Cité par : [Arrêté du 9 juin 2016, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054740000) ; [art. D314-26 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054605712) ; [art. R519-15-1 du Code monétaire et financier](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032543805)
+- Cité par : [art. R519-15-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-ix.md#article-r519-15-1) ; [Arrêté du 9 juin 2016, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054740000) ; [art. D314-26 du Code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054605712)
 
 Les prêteurs s'assurent de la mise à jour des connaissances et compétences professionnelles de leurs personnels, dans le cadre de la formation continue, par une formation professionnelle adaptée, dont la durée minimale est fixée par arrêté du ministre chargé de l'économie, prenant notamment en compte les changements de la législation ou de la réglementation applicable.  
 Cette formation est dispensée par :  

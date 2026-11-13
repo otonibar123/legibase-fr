@@ -1,0 +1,288 @@
+# Code pénitentiaire
+
+Dernière modification du texte dans LEGI : 19/08/2026. 1786 articles en vigueur, répartis dans 212 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **PARTIE LÉGISLATIVE**
+  - [Titre unique : Titre PRÉLIMINAIRE](partie-legislative/titre-unique.md) (8 articles)
+  - **Livre Ier : SERVICE PUBLIC PÉNITENTIAIRE**
+    - **Titre Ier : ACTEURS**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : ORGANISATION](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (6 articles)
+      - [Chapitre III : PERSONNELS](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : RÉSERVE OPÉRATIONNELLE PÉNITENTIAIRE](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (6 articles)
+      - [Chapitre V : ACTEURS DE LA PRISE EN CHARGE DE LA SANTÉ DES PERSONNES DÉTENUES](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (4 articles)
+    - **Titre II : DÉONTOLOGIE**
+      - [Titre II : DÉONTOLOGIE : articles rattachés directement](partie-legislative/livre-ier/titre-ii/articles-directs.md) (1 article)
+    - **Titre III : CONTRÔLE ET ÉVALUATION DES ÉTABLISSEMENTS ET SERVICES PÉNITENTIAIRES**
+      - [Chapitre III : CONTRÔLE PAR LES AUTORITÉS ADMINISTRATIVES INDÉPENDANTES](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre V : VISITE DES ÉTABLISSEMENTS PÉNITENTIAIRES PAR LE COMITÉ EUROPÉEN DE PRÉVENTION DE LA TORTURE ET DES PEINES OU TRAITEMENTS INHUMAINS OU DÉGRADANTS](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (1 article)
+  - **Livre II : DÉTENTION EN ÉTABLISSEMENT PÉNITENTIAIRE**
+    - **Titre Ier : PRISE EN CHARGE DES PERSONNES DÉTENUES**
+      - [Chapitre Ier : AFFECTATION EN DÉTENTION](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : ENTRÉE EN DÉTENTION](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : ENCELLULEMENT](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : SUIVI DE LA SITUATION PÉNALE ET ADMINISTRATIVE](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (3 articles)
+      - [Chapitre VI : PRISE EN CHARGE SPÉCIFIQUE DE CERTAINES CATÉGORIES DE PERSONNES DÉTENUES](partie-legislative/livre-ii/titre-ier/chapitre-vi.md) (2 articles)
+    - **Titre II : MAINTIEN DE LA SÉCURITÉ**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre III : MOYENS DE CONTRÔLE ET DE SURVEILLANCE](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (27 articles)
+      - [Chapitre IV : QUARTIERS SÉCURISÉS](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (8 articles)
+      - [Chapitre V : FOUILLES](partie-legislative/livre-ii/titre-ii/chapitre-v.md) (5 articles)
+      - [Chapitre VI : USAGE DES MENOTTES ET ENTRAVES](partie-legislative/livre-ii/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : USAGE DE LA FORCE ET DES ARMES](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (3 articles)
+    - **Titre III : RÉGIME DISCIPLINAIRE DES PERSONNES DÉTENUES**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (4 articles)
+  - **Livre III : DROITS ET OBLIGATIONS DES PERSONNES DÉTENUES**
+    - **Titre Ier : ACCÈS AU DROIT**
+      - [Chapitre Ier : ACCÈS À L'INFORMATION](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : POINTS D'ACCÈS AU DROIT ET DOMICILIATION](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : GARANTIE DES DROITS DE LA DÉFENSE](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (2 articles)
+      - [Chapitre V : ACCÈS AU JUGE](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (2 articles)
+    - **Titre II : HYGIÈNE, SANTÉ ET PROTECTION SOCIALE**
+      - [Titre II : HYGIÈNE, SANTÉ ET PROTECTION SOCIALE : articles rattachés directement](partie-legislative/livre-iii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre II : ACCÈS AUX SOINS](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (13 articles)
+      - [Chapitre IV : PROTECTION SOCIALE](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (12 articles)
+    - **Titre III : PROTECTION DES BIENS ET AIDE MATÉRIELLE**
+      - [Chapitre Ier : DOCUMENTS PERSONNELS](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : VALEURS PÉCUNIAIRES ET NON PÉCUNIAIRES](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : AIDE MATÉRIELLE AUX PERSONNES DÉTENUES DÉPOURVUES DE RESSOURCES SUFFISANTES](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (1 article)
+    - **Titre IV : MAINTIEN DES LIENS AVEC L'EXTÉRIEUR**
+      - [Chapitre Ier : VISITES](partie-legislative/livre-iii/titre-iv/chapitre-ier.md) (8 articles)
+      - [Chapitre IV : INFORMATION SUR LES ÉVÈNEMENTS FAMILIAUX](partie-legislative/livre-iii/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : CORRESPONDANCES](partie-legislative/livre-iii/titre-iv/chapitre-v.md) (6 articles)
+    - **Titre V : EXERCICE DU CULTE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-iii/titre-v/chapitre-ier.md) (1 article)
+    - **Titre VI : EXERCICE DU DROIT DE VOTE**
+      - [Chapitre II : INSCRIPTION SUR LES LISTES ÉLECTORALES](partie-legislative/livre-iii/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : MODALITÉS DU VOTE](partie-legislative/livre-iii/titre-vi/chapitre-iii.md) (3 articles)
+    - [Titre VII : ACCÈS AUX PUBLICATIONS ÉCRITES ET AUDIOVISUELLES](partie-legislative/livre-iii/titre-vii.md) (1 article)
+    - **Titre VIII : PROTECTION DE L'IMAGE, DE LA VOIX ET DES PUBLICATIONS**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES](partie-legislative/livre-iii/titre-viii/chapitre-ier.md) (1 article)
+  - **Livre IV : AIDE À LA RÉINSERTION DES PERSONNES DÉTENUES**
+    - **Titre Ier : ACTIVITÉS EN DÉTENTION**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (10 articles)
+      - [Chapitre II : TRAVAIL](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (65 articles)
+      - [Chapitre III : ENSEIGNEMENT ET FORMATION PROFESSIONNELLE](partie-legislative/livre-iv/titre-ier/chapitre-iii.md) (2 articles)
+    - **Titre II : PRÉPARATION DE LA SORTIE DE DÉTENTION**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-iv/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre IV : SEMI-LIBERTÉ, PLACEMENT À L'EXTÉRIEUR, PERMISSION DE SORTIR ET DÉTENTION À DOMICILE SOUS SURVEILLANCE ÉLECTRONIQUE](partie-legislative/livre-iv/titre-ii/chapitre-iv.md) (2 articles)
+  - **Livre V : LIBÉRATION DES PERSONNES DÉTENUES**
+    - **Titre Ier : GESTION ADMINISTRATIVE DE LA LIBÉRATION**
+      - [Chapitre Ier : FORMALITÉS RELATIVES À LA LIBÉRATION](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : INFORMATIONS RELATIVES AUX PERSONNES LIBÉRÉES](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre III : PROTECTION SOCIALE](partie-legislative/livre-v/titre-ier/chapitre-iii.md) (1 article)
+    - **Titre II : AIDE MATÉRIELLE À LA SORTIE DE DÉTENTION**
+      - [Chapitre Ier : AIDE À L'HÉBERGEMENT](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (1 article)
+  - **Livre VI : INTERVENTION DE L'ADMINISTRATION PÉNITENTIAIRE AUPRÈS DE PERSONNES NON DÉTENUES**
+    - **Titre II : INTERVENTION AUPRÈS DE PERSONNES CONDAMNÉES**
+      - [Chapitre Ier : SURSIS PROBATOIRE](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (1 article)
+      - [Chapitre III : PEINE DE TRAVAIL D'INTÉRÊT GÉNÉRAL](partie-legislative/livre-vi/titre-ii/chapitre-iii.md) (2 articles)
+  - **Livre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **Titre Ier : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION](partie-legislative/livre-vii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre III : DISPOSITIONS PARTICULIÈRES À MAYOTTE](partie-legislative/livre-vii/titre-ier/chapitre-iii.md) (2 articles)
+    - **Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (3 articles)
+    - **Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-vii/titre-iii/chapitre-ier.md) (3 articles)
+    - **Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-vii/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-legislative/livre-vii/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-legislative/livre-vii/titre-iv/chapitre-v.md) (1 article)
+    - **Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-vii/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-legislative/livre-vii/titre-v/chapitre-ii.md) (4 articles)
+      - [Chapitre III : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE II](partie-legislative/livre-vii/titre-v/chapitre-iii.md) (1 article)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-legislative/livre-vii/titre-v/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-legislative/livre-vii/titre-v/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE V](partie-legislative/livre-vii/titre-v/chapitre-vi.md) (1 article)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-legislative/livre-vii/titre-v/chapitre-vii.md) (1 article)
+    - **Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-vii/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-legislative/livre-vii/titre-vi/chapitre-ii.md) (5 articles)
+      - [Chapitre III : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE II](partie-legislative/livre-vii/titre-vi/chapitre-iii.md) (1 article)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-legislative/livre-vii/titre-vi/chapitre-iv.md) (4 articles)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-legislative/livre-vii/titre-vi/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE V](partie-legislative/livre-vii/titre-vi/chapitre-vi.md) (1 article)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-legislative/livre-vii/titre-vi/chapitre-vii.md) (1 article)
+    - **Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-legislative/livre-vii/titre-vii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-legislative/livre-vii/titre-vii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE II](partie-legislative/livre-vii/titre-vii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-legislative/livre-vii/titre-vii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-legislative/livre-vii/titre-vii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE V](partie-legislative/livre-vii/titre-vii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-legislative/livre-vii/titre-vii/chapitre-vii.md) (1 article)
+- **PARTIE RÉGLEMENTAIRE**
+  - **Livre Ier : SERVICE PUBLIC PÉNITENTIAIRE**
+    - **Titre Ier : ACTEURS**
+      - [Chapitre II : ORGANISATION](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (66 articles)
+      - [Chapitre III : PERSONNELS](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (77 articles)
+      - [Chapitre IV : RÉSERVE CIVILE PÉNITENTIAIRE](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (15 articles)
+      - [Chapitre V : ACTEURS DE LA PRISE EN CHARGE DE LA SANTÉ DES PERSONNES DÉTENUES](partie-reglementaire/livre-ier/titre-ier/chapitre-v.md) (27 articles)
+    - **Titre II : DÉONTOLOGIE**
+      - [Titre II : DÉONTOLOGIE : articles rattachés directement](partie-reglementaire/livre-ier/titre-ii/articles-directs.md) (3 articles)
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS APPLICABLES AUX PERSONNELS DE L'ADMINISTRATION PÉNITENTIAIRE](partie-reglementaire/livre-ier/titre-ii/chapitre-ii.md) (24 articles)
+      - [Chapitre III : DISPOSITIONS APPLICABLES AUX PERSONNES PHYSIQUES ET AUX AGENTS DES PERSONNES MORALES CONCOURANT AU SERVICE PUBLIC PÉNITENTIAIRE](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (5 articles)
+    - **Titre III : CONTRÔLE ET ÉVALUATION DES ÉTABLISSEMENTS ET SERVICES PÉNITENTIAIRES**
+      - [Titre III : CONTRÔLE ET ÉVALUATION DES ÉTABLISSEMENTS ET SERVICES PÉNITENTIAIRES : articles rattachés directement](partie-reglementaire/livre-ier/titre-iii/articles-directs.md) (1 article)
+      - [Chapitre Ier : VISITE DES ÉTABLISSEMENTS PÉNITENTIAIRES PAR LES AUTORITÉS JUDICIAIRES](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : VISITE DES ÉTABLISSEMENTS PÉNITENTIAIRES PAR LES PARLEMENTAIRES ET LES BÂTONNIERS](partie-reglementaire/livre-ier/titre-iii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : CONTRÔLE PAR LES AUTORITÉS ADMINISTRATIVES INDÉPENDANTES](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : CONTRÔLE PAR LES AUTRES AUTORITÉS ADMINISTRATIVES](partie-reglementaire/livre-ier/titre-iii/chapitre-iv.md) (6 articles)
+      - [Chapitre VI : ÉVALUATION DES SERVICES PÉNITENTIAIRES](partie-reglementaire/livre-ier/titre-iii/chapitre-vi.md) (6 articles)
+  - **Livre II : DÉTENTION EN ÉTABLISSEMENT PÉNITENTIAIRE**
+    - **Titre Ier : PRISE EN CHARGE DES PERSONNES DÉTENUES**
+      - [Chapitre Ier : AFFECTATION EN DÉTENTION](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (36 articles)
+      - [Chapitre II : ENTRÉE EN DÉTENTION](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (19 articles)
+      - [Chapitre III : ENCELLULEMENT](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (35 articles)
+      - [Chapitre IV : SUIVI DE LA SITUATION PÉNALE ET ADMINISTRATIVE](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (30 articles)
+      - [Chapitre V : TRANSFÈREMENTS ET EXTRACTIONS](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (32 articles)
+      - [Chapitre VI : PRISE EN CHARGE SPÉCIFIQUE DE CERTAINES CATÉGORIES DE PERSONNES DÉTENUES](partie-reglementaire/livre-ii/titre-ier/chapitre-vi.md) (16 articles)
+    - **Titre II : MAINTIEN DE LA SECURITE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : AUTORISATIONS D'ACCÈS](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : MOYENS DE CONTRÔLE ET DE SURVEILLANCE](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (19 articles)
+      - [Chapitre IV : PLACEMENT ET PRISE EN CHARGE DANS DES QUARTIERS SÉCURISÉS](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (48 articles)
+      - [Chapitre V : FOUILLES](partie-reglementaire/livre-ii/titre-ii/chapitre-v.md) (6 articles)
+      - [Chapitre VI : USAGE DES MENOTTES ET ENTRAVES](partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md) (1 article)
+      - [Chapitre VII : USAGE DE LA FORCE ET DES ARMES](partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md) (11 articles)
+    - **Titre III : RÉGIME DISCIPLINAIRE DES PERSONNES DÉTENUES**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : FAUTES DISCIPLINAIRES](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre II bis : PROCÉDURE ALTERNATIVE AUX POURSUITES DISCIPLINAIRES](partie-reglementaire/livre-ii/titre-iii/chapitre-ii-bis.md) (7 articles)
+      - [Chapitre III : SANCTIONS DISCIPLINAIRES](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : PROCÉDURE DISCIPLINAIRE](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (43 articles)
+      - [Chapitre V : EXÉCUTION DES SANCTIONS DISCIPLINAIRES](partie-reglementaire/livre-ii/titre-iii/chapitre-v.md) (12 articles)
+    - [Titre IV : TRAITEMENT DE DONNÉES À CARACTÈRE PERSONNEL RELATIF À LA GESTION NATIONALE DES PERSONNES ÉCROUÉES POUR LE SUIVI INDIVIDUALISÉ ET LA SÉCURITÉ (GENESIS)](partie-reglementaire/livre-ii/titre-iv.md) (8 articles)
+  - **Livre III : DROITS ET OBLIGATIONS DES PERSONNES DÉTENUES**
+    - **Titre Ier : ACCÈS AU DROIT**
+      - [Chapitre Ier : ACCÈS À L'INFORMATION](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (13 articles)
+      - [Chapitre II : POINTS D'ACCÈS AU DROIT ET DOMICILIATION](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (2 articles)
+      - [Chapitre III : GARANTIE DES DROITS DE LA DÉFENSE](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (17 articles)
+      - [Chapitre IV : REQUÊTES ET PLAINTES AUPRÈS DU CHEF DE L'ÉTABLISSEMENT PÉNITENTIAIRE](partie-reglementaire/livre-iii/titre-ier/chapitre-iv.md) (1 article)
+      - [Chapitre V : ACCÈS AU JUGE](partie-reglementaire/livre-iii/titre-ier/chapitre-v.md) (9 articles)
+    - **Titre II : HYGIÈNE, SANTÉ ET PROTECTION SOCIALE**
+      - [Chapitre Ier : MESURES D'HYGIÈNE](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (6 articles)
+      - [Chapitre II : ACCÈS AUX SOINS](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (36 articles)
+      - [Chapitre III : ALIMENTATION](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : PROTECTION SOCIALE](partie-reglementaire/livre-iii/titre-ii/chapitre-iv.md) (8 articles)
+    - **Titre III : PROTECTION DES BIENS ET AIDE MATÉRIELLE**
+      - [Chapitre Ier : DOCUMENTS PERSONNELS](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : VALEURS PÉCUNIAIRES ET NON PÉCUNIAIRES](partie-reglementaire/livre-iii/titre-iii/chapitre-ii.md) (47 articles)
+      - [Chapitre III : AIDE MATÉRIELLE AUX PERSONNES DÉTENUES DÉPOURVUES DE RESSOURCES SUFFISANTES](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (3 articles)
+    - **Titre IV : MAINTIEN DES LIENS AVEC L'EXTÉRIEUR**
+      - [Chapitre Ier : VISITES](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (21 articles)
+      - [Chapitre II : RAPPROCHEMENTS FAMILIAUX](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : UNIONS CÉLEBRÉES AU SEIN DE L'ÉTABLISSEMENT PÉNITENTIAIRE](partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : INFORMATION SUR LES ÉVÉNEMENTS FAMILIAUX](partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : CORRESPONDANCES](partie-reglementaire/livre-iii/titre-iv/chapitre-v.md) (14 articles)
+      - [Chapitre VI : RELATIONS DE CERTAINES CATÉGORIES DE PERSONNES DÉTENUES AVEC L'EXTÉRIEUR](partie-reglementaire/livre-iii/titre-iv/chapitre-vi.md) (2 articles)
+    - **Titre V : EXERCICE DU CULTE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-iii/titre-v/chapitre-ier.md) (5 articles)
+      - [Chapitre II : ASSISTANCE SPIRITUELLE](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (9 articles)
+    - **Titre VI : EXERCICE DU DROIT DE VOTE**
+      - [Chapitre Ier : INFORMATION DES PERSONNES DÉTENUES](partie-reglementaire/livre-iii/titre-vi/chapitre-ier.md) (3 articles)
+      - [Chapitre III : MODALITÉS DU VOTE](partie-reglementaire/livre-iii/titre-vi/chapitre-iii.md) (5 articles)
+    - [Titre VII : ACCÈS AUX PUBLICATIONS ÉCRITES ET AUDIOVISUELLES](partie-reglementaire/livre-iii/titre-vii.md) (5 articles)
+    - **Titre VIII : PROTECTION DE L'IMAGE, DE LA VOIX ET DES PUBLICATIONS**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES](partie-reglementaire/livre-iii/titre-viii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : PROTECTION DE L'IMAGE ET DE LA VOIX DES PERSONNES PRÉVENUES](partie-reglementaire/livre-iii/titre-viii/chapitre-ii.md) (1 article)
+  - **Livre IV : AIDE À LA RÉINSERTION DES PERSONNES DÉTENUES**
+    - **Titre Ier : ACTIVITÉS EN DÉTENTION**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (8 articles)
+      - [Chapitre II : TRAVAIL](partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md) (124 articles)
+      - [Chapitre III : ENSEIGNEMENT ET FORMATION PROFESSIONNELLE](partie-reglementaire/livre-iv/titre-ier/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : ACCÈS AUX ACTIVITÉS CULTURELLES, SOCIO-CULTURELLES ET SPORTIVES](partie-reglementaire/livre-iv/titre-ier/chapitre-iv.md) (10 articles)
+    - **Titre II : PRÉPARATION DE LA SORTIE DE DÉTENTION**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-iv/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : PRÉPARATION DES MESURES D'AMÉNAGEMENT DE PEINE](partie-reglementaire/livre-iv/titre-ii/chapitre-ii.md) (12 articles)
+      - [Chapitre III : DÉCISIONS RELATIVES AUX AMÉNAGEMENTS DE PEINE](partie-reglementaire/livre-iv/titre-ii/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : SEMI-LIBERTÉ, PLACEMENT À L'EXTÉRIEUR, PERMISSION DE SORTIR ET DÉTENTION À DOMICILE SOUS SURVEILLANCE ÉLECTRONIQUE](partie-reglementaire/livre-iv/titre-ii/chapitre-iv.md) (31 articles)
+  - **Livre V : LIBÉRATION DES PERSONNES DÉTENUES**
+    - **Titre Ier : GESTION ADMINISTRATIVE DE LA LIBÉRATION**
+      - [Titre Ier : GESTION ADMINISTRATIVE DE LA LIBÉRATION : articles rattachés directement](partie-reglementaire/livre-v/titre-ier/articles-directs.md) (1 article)
+      - [Chapitre Ier : FORMALITÉS RELATIVES À LA LIBÉRATION](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : INFORMATIONS RELATIVES AUX PERSONNES LIBÉRÉES](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (6 articles)
+      - [Chapitre III : PROTECTION SOCIALE](partie-reglementaire/livre-v/titre-ier/chapitre-iii.md) (1 article)
+    - **Titre II : AIDE MATÉRIELLE À LA SORTIE DE DÉTENTION**
+      - [Chapitre Ier : AIDE À L'HÉBERGEMENT](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : AUTRES AIDES MATÉRIELLES](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (4 articles)
+    - [Titre III : LIBÉRATION CONDITIONNELLE](partie-reglementaire/livre-v/titre-iii.md) (5 articles)
+    - **Titre IV : MESURES DE SURVEILLANCE DES PERSONNES LIBÉRÉES**
+      - [Chapitre Ier : ACCUEIL DES PERSONNES SOUMISES À UNE RÉTENTION DE SÛRETÉ DANS UN CENTRE SOCIO-MÉDICO-JUDICIAIRE DE SÛRETÉ](partie-reglementaire/livre-v/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : CONTRÔLE DU RESPECT DE L'OBLIGATION DE SOINS PRONONCÉE EN L'ABSENCE DE SUIVI SOCIO-JUDICIAIRE](partie-reglementaire/livre-v/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : CONTRÔLE DU RESPECT DES MESURES DE SURVEILLANCE JUDICIAIRE ET DE SURVEILLANCE DE SÛRETÉ](partie-reglementaire/livre-v/titre-iv/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : PLACEMENT SOUS SURVEILLANCE ÉLECTRONIQUE MOBILE À TITRE DE MESURE DE SÛRETÉ](partie-reglementaire/livre-v/titre-iv/chapitre-iv.md) (29 articles)
+      - [Chapitre V : MESURE JUDICIAIRE DE PRÉVENTION DE LA RÉCIDIVE TERRORISTE ET DE RÉINSERTION](partie-reglementaire/livre-v/titre-iv/chapitre-v.md) (5 articles)
+  - **Livre VI : INTERVENTION DE L'ADMINISTRATION PÉNITENTIAIRE AUPRÈS DE PERSONNES NON DÉTENUES**
+    - **Titre Ier : PRÉPARATION DE DÉCISIONS JUDICIAIRES**
+      - [Chapitre Ier : ENQUÊTES SOCIALES](partie-reglementaire/livre-vi/titre-ier/chapitre-ier.md) (2 articles)
+      - [Chapitre II : ENQUÊTES TECHNIQUES PRÉALABLES](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (1 article)
+    - **Titre II : INTERVENTION AUPRÈS DE PERSONNES CONDAMNÉES**
+      - [Chapitre Ier : SURSIS PROBATOIRE](partie-reglementaire/livre-vi/titre-ii/chapitre-ier.md) (12 articles)
+      - [Chapitre II : DÉTENTION À DOMICILE SOUS SURVEILLANCE ÉLECTRONIQUE PRONONCÉE À TITRE DE PEINE](partie-reglementaire/livre-vi/titre-ii/chapitre-ii.md) (31 articles)
+      - [Chapitre III : PEINE DE TRAVAIL D'INTÊRET GÉNÉRAL](partie-reglementaire/livre-vi/titre-ii/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : PEINE DE STAGE](partie-reglementaire/livre-vi/titre-ii/chapitre-iv.md) (4 articles)
+      - [Chapitre V : BRACELET ANTI-RAPPROCHEMENT IMPOSÉ À UNE PERSONNE CONDAMNÉE](partie-reglementaire/livre-vi/titre-ii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : SUIVI SOCIO-JUDICIAIRE](partie-reglementaire/livre-vi/titre-ii/chapitre-vi.md) (1 article)
+    - **Titre III : EXÉCUTION DE MESURES JUDICIAIRES DE SURVEILLANCE**
+      - [Chapitre Ier : BRACELET ANTI-RAPPROCHEMENT](partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : ASSIGNATION À RÉSIDENCE SOUS SURVEILLANCE ÉLECTRONIQUE](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : CONTRÔLE JUDICIAIRE](partie-reglementaire/livre-vi/titre-iii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : COMPOSITION PÉNALE](partie-reglementaire/livre-vi/titre-iii/chapitre-iv.md) (1 article)
+    - **Titre IV : EXÉCUTION DE MESURES ADMINISTRATIVES DE SURVEILLANCE**
+      - [Chapitre Ier : MESURES INDIVIDUELLES DE CONTRÔLE ADMINISTRATIF DE SURVEILLANCE](partie-reglementaire/livre-vi/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : MESURES DE SURVEILLANCE DES PERSONNES DE NATIONALITÉ ÉTRANGÈRE ASSIGNÉES À RÉSIDENCE](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (4 articles)
+  - **Livre VII : DISPOSITIONS RELATIVES À L'OUTRE-MER**
+    - **Titre Ier : DISPOSITIONS PARTICULIÈRES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION**
+      - [Chapitre Ier : DISPOSITIONS COMMUNES AUX COLLECTIVITÉS RÉGIES PAR L'ARTICLE 73 DE LA CONSTITUTION](partie-reglementaire/livre-vii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : DISPOSITIONS PARTICULIÈRES À LA GUADELOUPE, LA GUYANE, LA MARTINIQUE ET LA RÉUNION](partie-reglementaire/livre-vii/titre-ier/chapitre-ii.md) (4 articles)
+      - [Chapitre III : DISPOSITIONS PARTICULIÈRES À MAYOTTE](partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md) (7 articles)
+    - **Titre II : DISPOSITIONS APPLICABLES À SAINT-BARTHÉLEMY**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-vii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-reglementaire/livre-vii/titre-ii/chapitre-iv.md) (1 article)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-reglementaire/livre-vii/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-reglementaire/livre-vii/titre-ii/chapitre-vii.md) (3 articles)
+    - **Titre III : DISPOSITIONS APPLICABLES À SAINT-MARTIN**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-vii/titre-iii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-reglementaire/livre-vii/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-reglementaire/livre-vii/titre-iii/chapitre-v.md) (2 articles)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-reglementaire/livre-vii/titre-iii/chapitre-vii.md) (3 articles)
+    - **Titre IV : DISPOSITIONS APPLICABLES À SAINT-PIERRE-ET-MIQUELON**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-vii/titre-iv/chapitre-ier.md) (3 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-reglementaire/livre-vii/titre-iv/chapitre-ii.md) (8 articles)
+      - [Chapitre III : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE II](partie-reglementaire/livre-vii/titre-iv/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-reglementaire/livre-vii/titre-iv/chapitre-iv.md) (2 articles)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-reglementaire/livre-vii/titre-iv/chapitre-v.md) (2 articles)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-reglementaire/livre-vii/titre-iv/chapitre-vii.md) (3 articles)
+    - **Titre V : DISPOSITIONS APPLICABLES DANS LES ÎLES WALLIS ET FUTUNA**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-vii/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-reglementaire/livre-vii/titre-v/chapitre-ii.md) (8 articles)
+      - [Chapitre III : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE II](partie-reglementaire/livre-vii/titre-v/chapitre-iii.md) (14 articles)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-reglementaire/livre-vii/titre-v/chapitre-iv.md) (10 articles)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-reglementaire/livre-vii/titre-v/chapitre-v.md) (5 articles)
+      - [Chapitre VI : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE V](partie-reglementaire/livre-vii/titre-v/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-reglementaire/livre-vii/titre-v/chapitre-vii.md) (8 articles)
+    - **Titre VI : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANÇAISE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-vii/titre-vi/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-reglementaire/livre-vii/titre-vi/chapitre-ii.md) (20 articles)
+      - [Chapitre III : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE II](partie-reglementaire/livre-vii/titre-vi/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-reglementaire/livre-vii/titre-vi/chapitre-iv.md) (20 articles)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-reglementaire/livre-vii/titre-vi/chapitre-v.md) (11 articles)
+      - [Chapitre VI : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE V](partie-reglementaire/livre-vii/titre-vi/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-reglementaire/livre-vii/titre-vi/chapitre-vii.md) (9 articles)
+    - **Titre VII : DISPOSITIONS APPLICABLES EN NOUVELLE-CALÉDONIE**
+      - [Chapitre Ier : DISPOSITIONS GÉNÉRALES](partie-reglementaire/livre-vii/titre-vii/chapitre-ier.md) (4 articles)
+      - [Chapitre II : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE Ier](partie-reglementaire/livre-vii/titre-vii/chapitre-ii.md) (18 articles)
+      - [Chapitre III : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE II](partie-reglementaire/livre-vii/titre-vii/chapitre-iii.md) (13 articles)
+      - [Chapitre IV : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE III](partie-reglementaire/livre-vii/titre-vii/chapitre-iv.md) (20 articles)
+      - [Chapitre V : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE IV](partie-reglementaire/livre-vii/titre-vii/chapitre-v.md) (10 articles)
+      - [Chapitre VI : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE V](partie-reglementaire/livre-vii/titre-vii/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : DISPOSITIONS SPÉCIFIQUES RELATIVES AU LIVRE VI](partie-reglementaire/livre-vii/titre-vii/chapitre-vii.md) (10 articles)
+- [ANNEXE](annexe.md) (1 article)

@@ -392,7 +392,7 @@ En l'absence de délibération du conseil d'administration sur la répartition d
 - Identifiant : LEGIARTI000030172749
 - État : en vigueur depuis le 01/02/2015
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030172749
-- Renvoie à : [art. L2135-10 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-10) ; [art. L242-1 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006741953) ; [art. L741-10 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006585682)
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. L2135-10 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-10) ; [art. L741-10 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-iv/chapitre-ier.md#article-l741-10)
 
 Les organismes mentionnés au II de l'article L. 2135-10 communiquent chaque année au fonds paritaire le montant des rémunérations versées aux salariés mentionnés au même article et comprises dans l'assiette des cotisations de sécurité sociale définie à l'article L. 242-1 du code de la sécurité sociale et à l'article L. 741-10 du code rural et de la pêche maritime de chaque branche professionnelle au titre de l'année considérée.
 
@@ -400,7 +400,7 @@ Les organismes mentionnés au II de l'article L. 2135-10 communiquent chaque ann
 - Identifiant : LEGIARTI000053145653
 - État : en vigueur depuis le 24/12/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053145653
-- Renvoie à : [art. L2135-10 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-10) ; art. L242-1 du Code de la sécurité sociale ; art. L741-10 du Code rural et de la pêche maritime
+- Renvoie à : [art. L242-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-2.md#article-l242-1) ; [art. L2135-10 du Code du travail](../../../../partie-legislative/deuxieme-partie/livre-ier/titre-iii/chapitre-v.md#article-l2135-10) ; [art. L741-10 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-iv/chapitre-ier.md#article-l741-10)
 - Cité par : [art. R2135-29-3 du Code du travail](chapitre-v.md#article-r2135-29-3)
 
 Les informations relatives aux entreprises redevables communiquées, en application du III de l'article L. 2135-10, à l'association gestionnaire du fonds paritaire par les organismes chargés du recouvrement sont les suivantes :

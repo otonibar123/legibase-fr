@@ -32,10 +32,19 @@ NOMS_CODES = [
     "code général des collectivités territoriales", "code des procédures civiles d'exécution",
     "code rural et de la pêche maritime", "code de la route",
 ]
-RE_MENTION_CODE = re.compile(
-    r"articles? ((?:[LRD]\.? ?)?\d+(?:-\d+)*) (?:du|de la|de l[’']) ?("
-    + "|".join(re.escape(n).replace("'", "['’]") for n in sorted(NOMS_CODES, key=len, reverse=True))
-    + ")", re.IGNORECASE)
+
+
+def re_mention_code(noms):
+    """Repère « article L. 1234-5 du code du travail » pour une liste de noms de codes (les plus longs d'abord)."""
+    return re.compile(
+        r"articles? ((?:[LRD]\.? ?)?\d+(?:-\d+)*) (?:du|de la|de l[’']) ?("
+        + "|".join(re.escape(n).replace("'", "['’]") for n in sorted(set(noms), key=len, reverse=True))
+        + ")", re.IGNORECASE)
+
+
+def cle_nom(texte):
+    """Clé de comparaison d'un nom de texte : minuscules, apostrophe droite, espaces simples, sans point final."""
+    return " ".join(texte.lower().replace("’", "'").split()).rstrip(". ")
 # « Code civil - art. 1366 (V) », « Loi ... - art. 4 », « Décret n°2007-1708 du 5 décembre 2007 (V) » (texte entier)
 RE_LIBELLE = re.compile(r"^(.*?)(?: - art\. (.+?))?(?: \((\w+)\))?$")
 
@@ -204,7 +213,10 @@ def ids_articles(noeud):
 def planifier(noeud, dossier, fichiers, ancetres):
     """Un chapitre (ou un nœud sans sous-section) = un fichier ; les niveaux au-dessus
     (livre, titre...) = des dossiers. Les sous-sections d'un chapitre restent dans son fichier."""
-    nom = _libre(dossier, slug(prefixe(noeud["titre"])), fichiers)
+    nom = slug(prefixe(noeud["titre"]))
+    if len(nom) > 80:  # titres sans « Chapitre X : » : nom de fichier coupé entre deux mots (limite de macOS : 255)
+        nom = nom[:80].rsplit("-", 1)[0]
+    nom = _libre(dossier, nom, fichiers)
     if noeud["titre"].lower().startswith("chapitre") or not sections(noeud):
         fichiers.append({"chemin": dossier / (nom + ".md"), "noeud": noeud, "ancetres": ancetres})
         return
@@ -265,6 +277,11 @@ def lire_tout(codes, dossiers_xml, sortie, date_base):
             art["fichier"], art["parent"] = f["chemin"], id(parent)
             f["nb"] += 1
             articles[id_art] = art
+            if not art["num"]:
+                # Article sans numéro dans LEGI : on ne l'inscrit pas dans la table des liens, sinon tout lien
+                # vers le texte entier (sans numéro d'article) pointerait vers lui.
+                stats["articles_sans_numero"] += 1
+                continue
             if (meta["nom"], art["num"]) in emplacement:
                 stats["numeros_en_double"] += 1
             emplacement[(meta["nom"], art["num"])] = (f["chemin"], "article-" + ancre(art["num"]), id_art, cle)
@@ -278,6 +295,38 @@ def lire_tout(codes, dossiers_xml, sortie, date_base):
 def construire_liens(donnees, emplacement, stats):
     aretes, vus_aretes = [], set()
     renvoie, cite_par = defaultdict(list), defaultdict(list)  # (cle, id article) -> autres articles
+    noms = {cle_nom(d["meta"]["nom"]): d["meta"]["nom"] for d in donnees.values()}
+    par_id = {d["meta"]["id"]: d for d in donnees.values()}
+    # Autres noms d'un code dans LEGI (« Code rural et de la pêche maritime » pour « Code rural (nouveau) »...),
+    # relevés dans les libellés des liens qui pointent vers son identifiant (cidtexte). On ignore les noms
+    # coupés (« ... ») et les libellés qui contiennent des numéros d'articles.
+    autres = defaultdict(Counter)
+    for d in donnees.values():
+        for art in d["articles"].values():
+            for l in art["liens"]:
+                lu = lire_libelle(l["libelle"]) if l.get("cidtexte") in par_id else None
+                if lu and not lu[0].endswith("...") and not re.search(r"\d+-\d+|\b[LRDA]\d", lu[0]):
+                    autres[l["cidtexte"]][lu[0]] += 1
+    for c, d in par_id.items():
+        d["meta"]["autres_noms"] = sorted({n for n, k in autres[c].items() if k >= 10
+                                           and cle_nom(n) != cle_nom(d["meta"]["nom"])})
+        for n in d["meta"]["autres_noms"]:
+            noms.setdefault(cle_nom(n), d["meta"]["nom"])
+    re_mention = re_mention_code(NOMS_CODES + list(noms))
+
+    def complet(texte):
+        """Rattache un nom écrit autrement (casse, apostrophe) ou coupé par LEGI à 50 caractères (« ... »)
+        au code de la bibliothèque, seulement s'il n'y a qu'un candidat possible."""
+        k = cle_nom(texte)
+        if k in noms:
+            return noms[k]
+        if texte.endswith("..."):
+            debut = cle_nom(texte[:-3])
+            candidats = [n for kk, n in noms.items() if kk.startswith(debut)]
+            if len(candidats) == 1:
+                stats["noms_coupes_rattaches"] += 1
+                return candidats[0]
+        return texte
 
     def noeud(texte, num, id_=None):
         e = emplacement.get((texte, num))
@@ -308,6 +357,8 @@ def construire_liens(donnees, emplacement, stats):
                     stats["libelles_illisibles"] += 1
                     continue
                 texte_l, num_l, etat_l = lu
+                # L'identifiant du texte cible (cidtexte) est plus sûr que son nom, écrit de façons diverses.
+                texte_l = par_id[l["cidtexte"]]["meta"]["nom"] if l.get("cidtexte") in par_id else complet(texte_l)
                 if etat_l is None:
                     # Sans état, la cible est souvent une ancienne version : on ne garde que « l'article cite un
                     # article de la bibliothèque » (le numéro cité renvoie alors à la version en vigueur).
@@ -324,9 +375,9 @@ def construire_liens(donnees, emplacement, stats):
                 else:
                     ajouter(autre, ici, "LEGI")
             # 2. Mentions « article X du code Y » repérées dans le texte et absentes des liens LEGI.
-            for m in RE_MENTION_CODE.finditer(art["texte"]):
+            for m in re_mention.finditer(art["texte"]):
                 num_l = m.group(1).replace(" ", "").replace(".", "")
-                nom_l = m.group(2).lower().replace("’", "'").capitalize()  # « Code du travail »
+                nom_l = complet(m.group(2).lower().replace("’", "'").capitalize())  # « Code du travail »
                 if nom_l != nom and (nom_l, num_l) not in deja:
                     deja.add((nom_l, num_l))
                     ajouter(ici, noeud(nom_l, num_l), "texte")
@@ -393,7 +444,7 @@ def ecrire_fichier(f, d, cle, emplacement, renvoie, cite_par, dossier_code):
             etat = f"en vigueur depuis le {date_fr(a['debut'])}"
             if a["fin"] and not a["fin"].startswith("2999"):
                 etat += f", jusqu'au {date_fr(a['fin'])}"
-            out.extend([f"### Article {a['num']}", f"- Identifiant : {a['id']}", f"- État : {etat}",
+            out.extend([f"### Article {a['num'] or '(sans numéro dans LEGI)'}", f"- Identifiant : {a['id']}", f"- État : {etat}",
                         f"- Source : {lien_legifrance(nom, a['id'])}"])
             for libelle, liste in (("Renvoie à", renvoie), ("Cité par", cite_par)):
                 if liste.get((cle, x)):
@@ -428,8 +479,18 @@ def ecrire_tout(codes, dossiers_xml, sortie, date_base, date_maj):
         (sortie / "codes" / cle / "meta.json").write_text(json.dumps(
             {**d["meta"], "nb_articles": d["nb_articles"], "nb_fichiers": d["nb_fichiers"]},
             ensure_ascii=False, indent=1), encoding="utf-8")
-    (sortie / "liens").mkdir(exist_ok=True)
-    (sortie / "liens" / "graphe.json").write_text(json.dumps(aretes, ensure_ascii=False, indent=0), encoding="utf-8")
+    # Graphe des renvois : un fichier par code (un seul fichier dépasserait la limite de taille de GitHub).
+    # Un renvoi va dans le fichier du code qui cite, ou dans celui du code cité si le texte qui cite est hors bibliothèque.
+    par_code = defaultdict(list)
+    for a in aretes:
+        e = emplacement.get((a["de"]["texte"], a["de"]["article"])) or emplacement.get((a["vers"]["texte"], a["vers"]["article"]))
+        par_code[e[3] if e else "hors-bibliotheque"].append(a)
+    shutil.rmtree(sortie / "liens" / "graphe", ignore_errors=True)
+    (sortie / "liens" / "graphe").mkdir(parents=True)
+    (sortie / "liens" / "graphe.json").unlink(missing_ok=True)
+    for cle, liste in par_code.items():
+        (sortie / "liens" / "graphe" / (cle + ".json")).write_text(
+            json.dumps(liste, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     _carte(aretes, donnees, sortie)
     _index_et_version(donnees, sortie, date_base, date_maj)
     return stats, donnees, aretes
@@ -437,6 +498,7 @@ def ecrire_tout(codes, dossiers_xml, sortie, date_base, date_maj):
 
 def _readme_code(cle, d, sortie):
     base = sortie / "codes" / cle
+    base.mkdir(parents=True, exist_ok=True)  # un code sans aucun article en vigueur n'a pas d'autre fichier
     out = [f"# {d['meta']['nom']}", "",
            f"Dernière modification du texte dans LEGI : {date_fr(d['meta']['derniere_modification'])}. "
            f"{d['nb_articles']} articles en vigueur, répartis dans {d['nb_fichiers']} fichiers.", "",
@@ -494,10 +556,11 @@ def _carte(aretes, donnees, sortie):
 def _index_et_version(donnees, sortie, date_base, date_maj):
     out = ["# Index des codes et textes de Légibase", "",
            f"Base LEGI du {date_fr(date_base)}. Actualisation de la bibliothèque : {date_fr(date_maj)}.", "",
-           "| Code | Dossier | Articles en vigueur | Fichiers | Dernière modification du texte | Identifiant LEGI |",
-           "|---|---|---|---|---|---|"]
-    for cle, d in donnees.items():
-        out.append(f"| {d['meta']['nom']} | [codes/{cle}/](codes/{cle}/README.md) | {d['nb_articles']} | "
+           "| Code | Autres noms dans LEGI | Dossier | Articles en vigueur | Fichiers | Dernière modification du texte | Identifiant LEGI |",
+           "|---|---|---|---|---|---|---|"]
+    for cle, d in sorted(donnees.items(), key=lambda x: cle_nom(x[1]["meta"]["nom"])):
+        autres = " ; ".join(d["meta"].get("autres_noms", []))
+        out.append(f"| {d['meta']['nom']} | {autres} | [codes/{cle}/](codes/{cle}/README.md) | {d['nb_articles']} | "
                    f"{d['nb_fichiers']} | {date_fr(d['meta']['derniere_modification'])} | {d['meta']['id']} |")
     (sortie / "INDEX.md").write_text("\n".join(out) + "\n", encoding="utf-8")
     (sortie / "VERSION.md").write_text(

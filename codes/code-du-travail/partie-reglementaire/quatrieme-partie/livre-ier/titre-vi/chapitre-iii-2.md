@@ -10,7 +10,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000036407873
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036407873
-- Renvoie à : art. L133-5-3 du Code de la sécurité sociale
+- Renvoie à : [art. L133-5-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-i/titre-iii/chapitre-3-bis.md#article-l133-5-3)
 - Cité par : [art. R4163-34 du Code du travail](chapitre-iii-2.md#article-r4163-34) ; [art. R4163-35 du Code du travail](chapitre-iii-2.md#article-r4163-35) ; [Arrêté du 30 décembre 2015, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036495142) ; [Décret n°2024-588 du 25 juin 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049781221) ; [Décret n°2024-588 du 25 juin 2024, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049781226)
 
 Chaque année, l'organisme gestionnaire au niveau national enregistre sur le compte professionnel de prévention du salarié les points correspondant aux données déclarées par l'employeur au titre de l'année précédente sur la déclaration prévue à l'article L. 133-5-3 du code de la sécurité sociale.  
@@ -23,7 +23,7 @@ L'organisme gestionnaire au niveau local dans la circonscription de laquelle se 
 - Identifiant : LEGIARTI000036407887
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036407887
-- Renvoie à : [art. L4163-16 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-16) ; [art. L4163-18 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-18) ; art. L723-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L4163-16 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-16) ; [art. L4163-18 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-18) ; [art. L723-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-2)
 - Cité par : [art. R4163-33 du Code du travail](chapitre-iii-2.md#article-r4163-33) ; [art. R4163-34 du Code du travail](chapitre-iii-2.md#article-r4163-34)
 
 I.-Pour le contrôle de l'effectivité ou de l'ampleur de l'exposition aux facteurs de risques professionnels et de l'exhaustivité des données déclarées mentionné à l'article L. 4163-16, les employeurs sont tenus d'adresser ou de présenter aux agents mentionnés au deuxième alinéa du même article tout document que ceux-ci leur demandent aux fins de l'exercice de leur mission et de permettre auxdits agents l'accès aux locaux de l'exploitation ou de l'entreprise.  
@@ -48,7 +48,7 @@ III.-L'organisme gestionnaire au niveau local ou la caisse mentionnée au I du p
 - Identifiant : LEGIARTI000039223162
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039223162
-- Renvoie à : [art. D4163-32 du Code du travail](chapitre-iii-2.md#article-d4163-32) ; [art. L4163-16 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-16) ; art. R243-13 du Code de la sécurité sociale
+- Renvoie à : [art. R133-14 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iii/chapitre-3-bis.md#article-r133-14) ; [art. R243-13 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv/chapitre-3.md#article-r243-13) ; [art. D4163-32 du Code du travail](chapitre-iii-2.md#article-d4163-32) ; [art. L4163-16 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-16)
 - Cité par : [art. R4163-41 du Code du travail](chapitre-iii-2.md#article-r4163-41)
 
 La pénalité mentionnée à l'article L. 4163-16, appliquée par l'organisme gestionnaire au niveau local en cas d'inexactitude ou de défaut de déclaration des facteurs de risques professionnels, est fixée à hauteur du même montant que celui mentionné au deuxième alinéa du I de l'article R. 243-13 du code de la sécurité sociale. La pénalité est notifiée en même temps que la décision mentionnée au II de l'article D. 4163-32 du présent code.
@@ -104,7 +104,7 @@ Le salarié peut saisir le tribunal judiciaire spécialement désigné dans le d
 - Identifiant : LEGIARTI000036404993
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036404993
-- Renvoie à : [art. L4163-18 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-18) ; art. L215-4 du Code de la sécurité sociale
+- Renvoie à : [art. L215-4 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-i/chapitre-5.md#article-l215-4) ; [art. L231-9 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iii/chapitre-1er.md#article-l231-9) ; [art. L231-12 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iii/chapitre-1er.md#article-l231-12) ; [art. L4163-18 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-18)
 - Cité par : [art. R4163-38 du Code du travail](chapitre-iii-2.md#article-r4163-38) ; [art. R4163-41 du Code du travail](chapitre-iii-2.md#article-r4163-41)
 
 La commission prévue à l'article L. 4163-18 est constituée au sein de chaque organisme gestionnaire au niveau local.  
@@ -137,7 +137,7 @@ La commission peut valablement statuer si un des membres mentionnés au 1° de l
 - Identifiant : LEGIARTI000036404997
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036404997
-- Renvoie à : art. L723-2 du Code rural et de la pêche maritime
+- Renvoie à : [art. L723-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-vii/titre-ii/chapitre-iii.md#article-l723-2)
 
 La commission émet un avis motivé au vu d'un dossier comprenant :  
 
@@ -201,7 +201,7 @@ Les agents mentionnés au deuxième alinéa de l'article L. 4163-16 sont, pour l
 - Identifiant : LEGIARTI000039344647
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039344647
-- Renvoie à : [art. L4163-18 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-18)
+- Renvoie à : [art. R142-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-en-conseil-d-etat/livre-i/titre-iv/chapitre-2.md#article-r142-1) ; [art. L4163-18 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-18)
 
 Le recours formé devant le tribunal judiciaire spécialement désigné contre une décision relevant du deuxième alinéa de l'article L. 4163-18 n'est pas soumis à la procédure gracieuse prévue aux articles R. 142-1 à R. 142-6 du code de la sécurité sociale.
 
@@ -235,7 +235,7 @@ Les dépenses correspondant aux prises en charge mentionnées au 1° de l'articl
 - Identifiant : LEGIARTI000036407971
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036407971
-- Renvoie à : [art. L4163-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-7) ; [art. R4163-11 du Code du travail](chapitre-iii.md#article-r4163-11) ; [art. D351-7 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006736537) ; [art. D351-8 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006736539) ; art. L351-14-1 du Code de la sécurité sociale
+- Renvoie à : [art. D351-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-v/chapitre-1er.md#article-d351-7) ; [art. D351-8 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iii/titre-v/chapitre-1er.md#article-d351-8) ; [art. L351-14-1 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iii/titre-v/chapitre-1er.md#article-l351-14-1) ; [art. L4163-7 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-iii.md#article-l4163-7) ; [art. R4163-11 du Code du travail](chapitre-iii.md#article-r4163-11)
 
 Le remboursement au régime général de sécurité sociale des sommes représentatives de la prise en charge des majorations de durée d'assurance mentionnées au 3° du I de l'article L. 4163-7 est égal, au titre d'une année civile, au produit :  
 

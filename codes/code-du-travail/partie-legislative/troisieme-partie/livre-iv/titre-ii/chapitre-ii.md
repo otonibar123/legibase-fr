@@ -22,7 +22,7 @@ Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 3142-79, au 5°, 
 - Identifiant : LEGIARTI000035902463
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035902463
-- Cité par : [art. L3422-3 du Code du travail](chapitre-ii.md#article-l3422-3) ; [art. D2123-1-1 du Code général des collectivités territoriales](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054714293)
+- Cité par : [art. L3422-3 du Code du travail](chapitre-ii.md#article-l3422-3) ; [art. D2123-1-1 du Code général des collectivités territoriales](../../../../../code-general-des-collectivites-territoriales/partie-reglementaire/deuxieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-d2123-1-1)
 
 En Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Barthélemy et à Saint-Martin, les journées de commémoration de l'abolition de l'esclavage ci-après désignées sont des jours fériés :
 

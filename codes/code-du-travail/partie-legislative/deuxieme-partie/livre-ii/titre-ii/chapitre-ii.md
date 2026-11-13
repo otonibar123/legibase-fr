@@ -8,8 +8,8 @@ Code du travail › Partie législative › Deuxième partie : Les relations col
 - Identifiant : LEGIARTI000033023242
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033023242
-- Renvoie à : art. L722-20 du Code rural et de la pêche maritime
-- Cité par : [art. L2222-2 du Code du travail](chapitre-ii.md#article-l2222-2) ; [art. L2261-22 du Code du travail](../titre-vi/chapitre-ier.md#article-l2261-22) ; [art. L2622-2 du Code du travail](../../livre-vi/titre-ii/chapitre-ii.md#article-l2622-2) ; [art. L6332-1-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-1-1) ; [art. L132-37 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020740471) ; [art. L218-5 du Code de la propriété intellectuelle](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038826738) ; [art. L5543-1-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039786088) ; [LOI n° 2017-256 du 28 février 2017, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034105435) ; [LOI n°2016-1088 du 8 août 2016, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033001042)
+- Renvoie à : art. L722-20 du Code rural (nouveau)
+- Cité par : [art. L132-37 du Code de la propriété intellectuelle](../../../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ier/titre-iii/chapitre-ii.md#article-l132-37) ; [art. L218-5 du Code de la propriété intellectuelle](../../../../../code-de-la-propriete-intellectuelle/partie-legislative/premiere-partie/livre-ii/titre-unique/chapitre-viii.md#article-l218-5) ; [art. L5543-1-1 du Code des transports](../../../../../code-des-transports/partie-legislative/cinquieme-partie/livre-v/titre-iv/chapitre-iii.md#article-l5543-1-1) ; [art. L2222-2 du Code du travail](chapitre-ii.md#article-l2222-2) ; [art. L2261-22 du Code du travail](../titre-vi/chapitre-ier.md#article-l2261-22) ; [art. L2622-2 du Code du travail](../../livre-vi/titre-ii/chapitre-ii.md#article-l2622-2) ; [art. L6332-1-1 du Code du travail](../../../sixieme-partie/livre-iii/titre-iii/chapitre-ii.md#article-l6332-1-1) ; [LOI n° 2017-256 du 28 février 2017, art. 18](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034105435) ; [LOI n°2016-1088 du 8 août 2016, art. 26](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033001042)
 
 Les conventions et accords collectifs de travail, ci-après désignés " conventions " et " accords " dans le présent livre, déterminent leur champ d'application territorial et professionnel. Le champ d'application professionnel est défini en termes d'activités économiques.
 
@@ -83,7 +83,7 @@ L'absence de préambule n'est pas de nature à entraîner la nullité de la conv
 - Identifiant : LEGIARTI000033022856
 - État : en vigueur depuis le 10/08/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033022856
-- Cité par : [art. L911-5 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042654558)
+- Cité par : [art. L911-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-ix/titre-i/chapitre-1.md#article-l911-5)
 
 La convention ou l'accord est conclu pour une durée déterminée ou indéterminée.
 

@@ -9,7 +9,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677151
 - Renvoie à : [art. L4141-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l4141-2) ; [art. L4622-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-2)
-- Cité par : [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4513-12 du Code du travail](../../livre-v/titre-ier/chapitre-iii.md#article-r4513-12) ; [art. R4624-4 du Code du travail](chapitre-iv.md#article-r4624-4) ; [art. R4624-42 du Code du travail](chapitre-iv.md#article-r4624-42) ; [art. R4626-20 du Code du travail](chapitre-vi.md#article-r4626-20) ; [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104) ; [art. R5545-6-21 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480080)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6) ; [art. R5545-6-21 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-21) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4513-12 du Code du travail](../../livre-v/titre-ier/chapitre-iii.md#article-r4513-12) ; [art. R4624-4 du Code du travail](chapitre-iv.md#article-r4624-4) ; [art. R4624-42 du Code du travail](chapitre-iv.md#article-r4624-42) ; [art. R4626-20 du Code du travail](chapitre-vi.md#article-r4626-20)
 
 Les actions sur le milieu de travail s'inscrivent dans la mission des services de prévention et de santé au travail définie à l'article L. 4622-2. Elles comprennent notamment :
 
@@ -42,7 +42,7 @@ Les actions sur le milieu de travail s'inscrivent dans la mission des services d
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676911
 - Renvoie à : [art. L4622-14 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-14)
-- Cité par : [art. R4623-9 du Code du travail](chapitre-iii.md#article-r4623-9) ; [art. R5545-6-22 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480083)
+- Cité par : [art. R5545-6-22 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-22) ; [art. R4623-9 du Code du travail](chapitre-iii.md#article-r4623-9)
 
 Les actions sur le milieu de travail sont menées :
 
@@ -64,7 +64,7 @@ Il y réalise des visites soit à son initiative, soit à la demande de l'employ
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769561
 - Renvoie à : [art. L4411-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-iv/titre-ier/chapitre-ier.md#article-l4411-1) ; [art. R4623-1 du Code du travail](chapitre-iii.md#article-r4623-1) ; [art. R4624-1 du Code du travail](chapitre-iv.md#article-r4624-1)
-- Cité par : [art. R5545-6-21 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480080)
+- Cité par : [art. R5545-6-21 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-21)
 
 L'employeur ou le président du service interentreprises prend toutes mesures pour permettre au médecin du travail de consacrer à ses missions en milieu de travail le tiers de son temps de travail, dans le cadre des actions mentionnées à l'article R. 4624-1.
 
@@ -75,7 +75,7 @@ Ce temps comporte au moins cent cinquante demi-journées de travail effectif cha
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677115
 - Renvoie à : [art. R4623-1 du Code du travail](chapitre-iii.md#article-r4623-1)
-- Cité par : [art. R5545-6-21 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480080)
+- Cité par : [art. R5545-6-21 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-21)
 
 Afin d'éviter toute altération de la santé des travailleurs du fait de leur travail, le médecin du travail ou, dans les services de prévention et de santé au travail interentreprises, l'équipe pluridisciplinaire est informé :
 
@@ -88,7 +88,7 @@ Afin d'éviter toute altération de la santé des travailleurs du fait de leur t
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677147
 - Renvoie à : [art. L4711-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vii/titre-ier/chapitre-unique.md#article-l4711-1) ; [art. R4624-9 du Code du travail](chapitre-iv.md#article-r4624-9)
-- Cité par : [art. R5545-6-21 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480080)
+- Cité par : [art. R5545-6-21 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-21)
 
 Le médecin du travail ou, dans les services de prévention et de santé au travail interentreprises, l'équipe pluridisciplinaire a accès à tous les documents non nominatifs rendus obligatoires par la présente partie.
 
@@ -117,7 +117,7 @@ Le médecin du travail avertit l'employeur, qui informe les travailleurs concern
 - Identifiant : LEGIARTI000045677144
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677144
-- Cité par : [art. R5545-6-21 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480080)
+- Cité par : [art. R5545-6-21 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-21)
 
 Le médecin du travail communique à l'employeur les rapports et les résultats des études menées par lui ou, dans les services de prévention et de santé au travail interentreprises, l'équipe pluridisciplinaire, dans le cadre de son action en milieu de travail. L'employeur porte ces rapports et résultats à la connaissance du comité social et économique. Il les tient à disposition du médecin inspecteur du travail.
 
@@ -125,8 +125,8 @@ Le médecin du travail communique à l'employeur les rapports et les résultats 
 - Identifiant : LEGIARTI000045677140
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677140
-- Renvoie à : art. 226-13 du Code pénal
-- Cité par : [art. R4623-34 du Code du travail](chapitre-iii.md#article-r4623-34) ; [art. R4624-5 du Code du travail](chapitre-iv.md#article-r4624-5) ; [art. R4644-5 du Code du travail](../titre-iv/chapitre-iv.md#article-r4644-5) ; [art. R5545-6-21 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480080)
+- Renvoie à : [art. 226-13 du Code pénal](../../../../../code-penal/partie-legislative/livre-ii/titre-ii/chapitre-vi.md#article-226-13)
+- Cité par : [art. R5545-6-21 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-21) ; [art. R4623-34 du Code du travail](chapitre-iii.md#article-r4623-34) ; [art. R4624-5 du Code du travail](chapitre-iv.md#article-r4624-5) ; [art. R4644-5 du Code du travail](../titre-iv/chapitre-iv.md#article-r4644-5)
 
 Il est interdit au médecin du travail et, dans les services de prévention et de santé au travail interentreprises, aux autres membres de l'équipe pluridisciplinaire, de révéler les secrets de fabrication et les procédés d'exploitation dont il pourrait prendre connaissance dans l'exercice de ses fonctions.
 
@@ -143,7 +143,7 @@ La méconnaissance de ces interdictions est punie conformément à l'article 226
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769085
 - Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. R4624-19 du Code du travail](chapitre-iv.md#article-r4624-19)
-- Cité par : [art. D1272-2 du Code du travail](../../../premiere-partie/livre-ii/titre-vii/chapitre-ii.md#article-d1272-2) ; [art. R1221-2 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-r1221-2) ; [art. R1221-16 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-r1221-16) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R1262-13 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-13) ; [art. R4426-7 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-r4426-7) ; [art. R4453-25 du Code du travail](../../livre-iv/titre-v/chapitre-iii.md#article-r4453-25) ; [art. R4624-24 du Code du travail](chapitre-iv.md#article-r4624-24) ; [art. R4625-9 du Code du travail](chapitre-v.md#article-r4625-9) ; [art. R6222-36 du Code du travail](../../../sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-r6222-36) ; [art. R7122-16 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-16) ; [art. R7123-4 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-4) ; [art. R7123-5 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-5) ; [art. R7123-7 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-7) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [art. R1432-157 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023383225) ; [art. R5545-6-24 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480110) ; [art. R1273-6 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019562445) ; [Décret n°2011-636 du 8 juin 2011, art. 54](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037672406) ; [Décret n°2020-410 du 8 avril 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790774) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479) ; [Décret n°2022-418 du 24 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045408147)
+- Cité par : [art. R1432-157 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-r1432-157) ; [art. R5545-6-24 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-24) ; [art. D1272-2 du Code du travail](../../../premiere-partie/livre-ii/titre-vii/chapitre-ii.md#article-d1272-2) ; [art. R1221-2 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-r1221-2) ; [art. R1221-16 du Code du travail](../../../premiere-partie/livre-ii/titre-ii/chapitre-ier.md#article-r1221-16) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R1262-13 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-13) ; [art. R4426-7 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-r4426-7) ; [art. R4453-25 du Code du travail](../../livre-iv/titre-v/chapitre-iii.md#article-r4453-25) ; [art. R4624-24 du Code du travail](chapitre-iv.md#article-r4624-24) ; [art. R4625-9 du Code du travail](chapitre-v.md#article-r4625-9) ; [art. R6222-36 du Code du travail](../../../sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-r6222-36) ; [art. R7122-16 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-16) ; [art. R7123-4 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-4) ; [art. R7123-5 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-5) ; [art. R7123-7 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-7) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [art. R1273-6 du Code du travail](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019562445) ; [Décret n°2011-636 du 8 juin 2011, art. 54](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037672406) ; [Décret n°2020-410 du 8 avril 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790774) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479) ; [Décret n°2022-418 du 24 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045408147)
 
 Tout travailleur bénéficie d'une visite d'information et de prévention, réalisée par l'un des professionnels de santé mentionnés au premier alinéa de l'article L. 4624-1 dans un délai qui n'excède pas trois mois à compter de la prise effective du poste de travail.
 
@@ -203,7 +203,7 @@ Lorsque le travailleur a bénéficié d'une visite d'information et de préventi
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769063
 - Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1)
-- Cité par : [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4623-9 du Code du travail](chapitre-iii.md#article-r4623-9) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [art. R5545-6-24 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480110) ; [Décret n°2020-410 du 8 avril 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790774) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479)
+- Cité par : [art. R5545-6-24 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-24) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4623-9 du Code du travail](chapitre-iii.md#article-r4623-9) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [Décret n°2020-410 du 8 avril 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790774) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479)
 
 Le travailleur bénéficie d'un renouvellement de la visite d'information et de prévention initiale, réalisée par un professionnel de santé mentionné au premier alinéa de l'article L. 4624-1, selon une périodicité qui ne peut excéder cinq ans. Ce délai, qui prend en compte les conditions de travail, l'âge et l'état de santé du salarié, ainsi que les risques auxquels il est exposé, est fixé par le médecin du travail dans le cadre du protocole mentionné à l'article L. 4624-1.
 
@@ -232,7 +232,7 @@ Tout travailleur de nuit mentionné à l'article L. 3122-5 et tout travailleur �
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676638
 - Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1)
-- Cité par : [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4512-9 du Code du travail](../../livre-v/titre-ier/chapitre-ii.md#article-r4512-9) ; [art. R4624-10 du Code du travail](chapitre-iv.md#article-r4624-10) ; [art. R4624-13 du Code du travail](chapitre-iv.md#article-r4624-13) ; [art. R4624-17 du Code du travail](chapitre-iv.md#article-r4624-17) ; [Arrêté du 20 août 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020993908) ; [art. R344-17 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052140697) ; [art. R344-19 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052140728) ; [art. R1432-158 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023383229) ; [Décret n°2005-1325 du 26 octobre 2005, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022992407)
+- Cité par : [art. R344-17 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md#article-r344-17) ; [art. R344-19 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md#article-r344-19) ; [art. R1432-158 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-iv/titre-iii/chapitre-ii.md#article-r1432-158) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4512-9 du Code du travail](../../livre-v/titre-ier/chapitre-ii.md#article-r4512-9) ; [art. R4624-10 du Code du travail](chapitre-iv.md#article-r4624-10) ; [art. R4624-13 du Code du travail](chapitre-iv.md#article-r4624-13) ; [art. R4624-17 du Code du travail](chapitre-iv.md#article-r4624-17) ; [Arrêté du 20 août 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020993908) ; [Décret n°2005-1325 du 26 octobre 2005, art. 24](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022992407)
 
 Toute femme enceinte, venant d'accoucher ou allaitante est, à tout moment si elle le souhaite, orientée sans délai vers le médecin du travail dans le respect du protocole mentionné à l'article L. 4624-1. Cette nouvelle visite, effectuée par le médecin du travail, a notamment pour objet de proposer, si elles sont nécessaires, des adaptations du poste ou l'affectation à d'autres postes.
 
@@ -241,7 +241,7 @@ Toute femme enceinte, venant d'accoucher ou allaitante est, à tout moment si el
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769035
 - Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1)
-- Cité par : [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4623-9 du Code du travail](chapitre-iii.md#article-r4623-9) ; [art. R4626-29-1 du Code du travail](chapitre-vi.md#article-r4626-29-1) ; [art. R344-17 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052140697) ; [art. R344-19 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052140728)
+- Cité par : [art. R344-17 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md#article-r344-17) ; [art. R344-19 du Code de l'action sociale et des familles](../../../../../code-de-l-action-sociale-et-des-familles/partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md#article-r344-19) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4623-9 du Code du travail](chapitre-iii.md#article-r4623-9) ; [art. R4626-29-1 du Code du travail](chapitre-vi.md#article-r4626-29-1)
 
 Lors de la visite d'information et de prévention, tout travailleur handicapé ou qui déclare être titulaire d'une pension d'invalidité mentionné au cinquième alinéa de l'article L. 4624-1 est orienté sans délai vers le médecin du travail, qui peut préconiser des adaptations de son poste de travail. Le médecin du travail, dans le cadre du protocole mentionné à l'article L. 4624-1, détermine la périodicité et les modalités du suivi de son état de santé qui peut être réalisé par un professionnel de santé mentionné au premier alinéa de l'article L. 4624-1.
 
@@ -272,7 +272,7 @@ Tout travailleur affecté à un poste présentant des risques particuliers pour 
 - État : en vigueur depuis le 10/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053786012
 - Renvoie à : [art. L4121-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ii/chapitre-ier.md#article-l4121-3) ; [art. L4624-2 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2) ; [art. R4412-60 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-60) ; [art. R4421-3 du Code du travail](../../livre-iv/titre-ii/chapitre-ier.md#article-r4421-3) ; [art. R4624-46 du Code du travail](chapitre-iv.md#article-r4624-46)
-- Cité par : [art. D4622-22 du Code du travail](chapitre-ii.md#article-d4622-22) ; [art. D4625-22 du Code du travail](chapitre-v.md#article-d4625-22) ; [art. D4625-34-1 du Code du travail](chapitre-v.md#article-d4625-34-1) ; [art. R4153-40 du Code du travail](../../livre-ier/titre-v/chapitre-iii.md#article-r4153-40) ; [art. R4323-56 du Code du travail](../../livre-iii/titre-ii/chapitre-iii.md#article-r4323-56) ; [art. R4544-10 du Code du travail](../../livre-v/titre-iv/chapitre-iv.md#article-r4544-10) ; [art. R4624-21 du Code du travail](chapitre-iv.md#article-r4624-21) ; [art. R4624-22 du Code du travail](chapitre-iv.md#article-r4624-22) ; [art. R4624-28 du Code du travail](chapitre-iv.md#article-r4624-28) ; [art. R4624-28-1 du Code du travail](chapitre-iv.md#article-r4624-28-1) ; [art. R4625-9 du Code du travail](chapitre-v.md#article-r4625-9) ; [art. R7123-4 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-4) ; [Arrêté du 3 mars 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051331719) ; [Arrêté du 4 décembre 2020, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042638196) ; [Arrêté du 4 décembre 2020, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049988734) ; [Arrêté du 9 octobre 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042447524) ; [art. R5545-6-25 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480086) ; [art. R5545-6-26 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480089) ; [art. R412-108 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049915352) ; [art. R412-111 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049915360) ; [art. R412-115 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049915368) ; [art. R623-14 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045491666) ; … et 1 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+- Cité par : [art. R5545-6-25 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-25) ; [art. R5545-6-26 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-26) ; [art. D4622-22 du Code du travail](chapitre-ii.md#article-d4622-22) ; [art. D4625-22 du Code du travail](chapitre-v.md#article-d4625-22) ; [art. D4625-34-1 du Code du travail](chapitre-v.md#article-d4625-34-1) ; [art. R4153-40 du Code du travail](../../livre-ier/titre-v/chapitre-iii.md#article-r4153-40) ; [art. R4323-56 du Code du travail](../../livre-iii/titre-ii/chapitre-iii.md#article-r4323-56) ; [art. R4544-10 du Code du travail](../../livre-v/titre-iv/chapitre-iv.md#article-r4544-10) ; [art. R4624-21 du Code du travail](chapitre-iv.md#article-r4624-21) ; [art. R4624-22 du Code du travail](chapitre-iv.md#article-r4624-22) ; [art. R4624-28 du Code du travail](chapitre-iv.md#article-r4624-28) ; [art. R4624-28-1 du Code du travail](chapitre-iv.md#article-r4624-28-1) ; [art. R4625-9 du Code du travail](chapitre-v.md#article-r4625-9) ; [art. R7123-4 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-iii.md#article-r7123-4) ; [art. R412-108 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-108) ; [art. R412-111 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-111) ; [art. R412-115 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-115) ; [art. R623-14 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-vi/titre-ii/chapitre-iii.md#article-r623-14) ; [Arrêté du 3 mars 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051331719) ; [Arrêté du 4 décembre 2020, art. 13](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042638196) ; [Arrêté du 4 décembre 2020, art. 15](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000049988734) ; [Arrêté du 9 octobre 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042447524) ; [Décret n°2021-951 du 16 juillet 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043804111)
 
 I.-Les postes présentant des risques particuliers mentionnés au premier alinéa de l'article L. 4624-2 sont ceux exposant les travailleurs :
 
@@ -303,7 +303,7 @@ IV.-Le Conseil d'orientation des conditions de travail est consulté tous les tr
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769104
 - Renvoie à : [art. R4624-10 du Code du travail](chapitre-iv.md#article-r4624-10)
-- Cité par : [art. R1262-13 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-13) ; [art. R4451-94 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-94) ; [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14) ; [art. R7122-16 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-16) ; [Arrêté du 16 octobre 2017, art. Annexe 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334313) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [art. R5545-6-26 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480089) ; [Décret n°2020-410 du 8 avril 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790774) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479) ; [Décret n°2022-418 du 24 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045408147)
+- Cité par : [art. R5545-6-26 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-26) ; [art. R1262-13 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-13) ; [art. R4451-94 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-94) ; [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14) ; [art. R7122-16 du Code du travail](../../../septieme-partie/livre-ier/titre-ii/chapitre-ii.md#article-r7122-16) ; [Arrêté du 16 octobre 2017, art. Annexe 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334313) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [Décret n°2020-410 du 8 avril 2020, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790774) ; [Décret n°2021-56 du 22 janvier 2021, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043041479) ; [Décret n°2022-418 du 24 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045408147)
 
 Le suivi individuel renforcé comprend un examen médical d'aptitude, qui se substitue à la visite d'information et de prévention prévue à l'article R. 4624-10. Il est effectué par le médecin du travail préalablement à l'affectation sur le poste.  
 
@@ -323,7 +323,7 @@ Cet examen a notamment pour objet :
 - Identifiant : LEGIARTI000033769100
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769100
-- Renvoie à : [art. L4111-6 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md#article-l4111-6) ; [art. L4624-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-4)
+- Renvoie à : [art. L461-6 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-vi.md#article-l461-6) ; [art. L4111-6 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-ier/chapitre-unique.md#article-l4111-6) ; [art. L4624-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-4)
 - Cité par : [art. D4622-45 du Code du travail](chapitre-ii.md#article-d4622-45) ; [art. D4624-64 du Code du travail](chapitre-iv.md#article-d4624-64) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [art. R4451-57 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-57) ; [Arrêté du 11 juin 2020, art. 4](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042093311) ; [Décret n°2025-355 du 18 avril 2025, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051495443)
 
 Cet examen ainsi que son renouvellement donnent lieu à la délivrance par le médecin du travail d'un avis d'aptitude ou d'inaptitude rendu conformément aux dispositions de l'article L. 4624-4. Cet avis d'aptitude ou d'inaptitude est transmis au travailleur et à l'employeur et versé au dossier médical en santé au travail de l'intéressé.
@@ -376,7 +376,7 @@ La visite médicale prévue à l'article L. 4624-2-1 est organisée pour les cat
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676650
 - Renvoie à : [art. L4624-2-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2-1) ; [art. R4624-28-1 du Code du travail](chapitre-iv.md#article-r4624-28-1)
-- Cité par : [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6)
 
 Pour l'organisation de la visite prévue à l'article L. 4624-2-1, l'employeur informe son service de prévention et de santé au travail, dès qu'il en a connaissance, de la cessation de l'exposition d'un des travailleurs de l'entreprise à des risques particuliers pour sa santé ou sa sécurité justifiant un suivi individuel renforcé, de son départ ou de sa mise à la retraite. Il avise sans délai le travailleur concerné de la transmission de cette information.
 
@@ -388,8 +388,8 @@ Informé de la cessation de l'exposition, du départ ou de la mise à la retrait
 - Identifiant : LEGIARTI000045370981
 - État : en vigueur depuis le 31/03/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045370981
-- Renvoie à : [art. L4161-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ier.md#article-l4161-1) ; [art. L4624-2-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2-1) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; art. L461-7 du Code de la sécurité sociale
-- Cité par : [art. D461-23 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045680765) ; [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104)
+- Renvoie à : [art. L461-7 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-legislative/livre-iv/titre-vi.md#article-l461-7) ; [art. L4161-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ier.md#article-l4161-1) ; [art. L4624-2-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2-1) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8)
+- Cité par : [art. D461-23 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-vi.md#article-d461-23) ; [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6)
 
 Le médecin du travail établit un état des lieux des expositions du travailleur aux facteurs de risques professionnels mentionnés à l'article L. 4161-1.
 
@@ -419,7 +419,7 @@ En vue de favoriser le maintien dans l'emploi, les travailleurs en arrêt de tra
 - Identifiant : LEGIARTI000054250636
 - État : en vigueur depuis le 15/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054250636
-- Cité par : [art. R4214-23 du Code du travail](../../livre-ii/titre-ier/chapitre-iv.md#article-r4214-23) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104) ; [art. R5545-6-27 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480092) ; [Décret n°2021-56 du 22 janvier 2021, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044127928)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6) ; [art. R5545-6-27 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-27) ; [art. R4214-23 du Code du travail](../../livre-ii/titre-ier/chapitre-iv.md#article-r4214-23) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [Décret n°2021-56 du 22 janvier 2021, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044127928)
 
 Au cours de l'examen de préreprise, le médecin du travail peut recommander :
 
@@ -442,7 +442,7 @@ Il informe, sauf si le travailleur s'y oppose, l'employeur de l'organisation de 
 - État : en vigueur depuis le 15/06/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054250639
 - Renvoie à : [art. L4624-2-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-2-4)
-- Cité par : [art. D4624-63 du Code du travail](chapitre-iv.md#article-d4624-63) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [Arrêté du 24 juin 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049817487) ; [Arrêté du 5 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049975529) ; [art. D433-2 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054252039) ; [Décret n°2010-244 du 9 mars 2010, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021955558) ; [Décret n°2010-708 du 29 juin 2010, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034424413) ; [Décret n°2011-636 du 8 juin 2011, art. 55](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037672415) ; [Décret n°2020-410 du 8 avril 2020, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790789) ; [Décret n°2021-56 du 22 janvier 2021, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044127928) ; … et 1 autres textes (liste complète dans [renvois.md](../../../../renvois.md))
+- Cité par : [art. D433-2 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-iii/chapitre-3.md#article-d433-2) ; [art. D433-5 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-iii/chapitre-3.md#article-d433-5) ; [art. D4624-63 du Code du travail](chapitre-iv.md#article-d4624-63) ; [art. R1262-9 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-9) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [Arrêté du 24 juin 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049817487) ; [Arrêté du 5 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049975529) ; [Décret n°2010-244 du 9 mars 2010, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021955558) ; [Décret n°2010-708 du 29 juin 2010, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000034424413) ; [Décret n°2011-636 du 8 juin 2011, art. 55](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037672415) ; [Décret n°2020-410 du 8 avril 2020, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041790789) ; [Décret n°2021-56 du 22 janvier 2021, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044127928) ; [Décret n°2022-418 du 24 mars 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045408147)
 
 Le travailleur bénéficie d'un examen de reprise du travail par le médecin du travail :
 
@@ -494,7 +494,7 @@ Le médecin du travail est informé par l'employeur de tout arrêt de travail d'
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045671060
 - Renvoie à : [art. L1226-1-3 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-ii/chapitre-vi.md#article-l1226-1-3)
-- Cité par : [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6)
 
 Les personnels des services de prévention et de santé au travail chargés de la prévention des risques professionnels ou du suivi individuel de l'état de santé participent en tant que de besoin au rendez-vous de liaison mentionné à l'article L. 1226-1-3.
 
@@ -505,7 +505,7 @@ Les personnels des services de prévention et de santé au travail chargés de l
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676635
 - Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. R4623-14 du Code du travail](chapitre-iii.md#article-r4623-14)
-- Cité par : [art. R4453-19 du Code du travail](../../livre-iv/titre-v/chapitre-iii.md#article-r4453-19) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [art. R5545-6-31 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051479984)
+- Cité par : [art. R5545-6-31 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-31) ; [art. R4453-19 du Code du travail](../../livre-iv/titre-v/chapitre-iii.md#article-r4453-19) ; [Arrêté du 16 octobre 2017, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334293) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324)
 
 Indépendamment des examens d'aptitude à l'embauche et périodiques ainsi que des visites d'information et de prévention, le travailleur bénéficie, à sa demande ou à celle de l'employeur, d'un examen par le médecin du travail ou par un autre professionnel de santé mentionné à l'article L. 4624-1, au choix du travailleur, dans les conditions prévues par l'article R. 4623-14.
 
@@ -521,7 +521,7 @@ Le médecin du travail peut également organiser une visite médicale pour tout 
 - Identifiant : LEGIARTI000033769129
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769129
-- Cité par : [art. R4435-2 du Code du travail](../../livre-iv/titre-iii/chapitre-v.md#article-r4435-2) ; [art. R4451-83 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-83) ; [art. R4542-17 du Code du travail](../../livre-v/titre-iv/chapitre-ii.md#article-r4542-17) ; [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104) ; [art. R412-119 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049915380) ; [Décret n°2016-1908 du 27 décembre 2016, art. 20](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033738341)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6) ; [art. R4435-2 du Code du travail](../../livre-iv/titre-iii/chapitre-v.md#article-r4435-2) ; [art. R4451-83 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-83) ; [art. R4542-17 du Code du travail](../../livre-v/titre-iv/chapitre-ii.md#article-r4542-17) ; [art. R412-119 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-119) ; [Décret n°2016-1908 du 27 décembre 2016, art. 20](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033738341)
 
 Le médecin du travail peut réaliser ou prescrire les examens complémentaires nécessaires :  
 
@@ -577,7 +577,7 @@ Le temps et les frais de transport nécessités par ces visites et ces examens s
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677275
 - Renvoie à : [art. L4643-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-iv/chapitre-iii.md#article-l4643-1)
-- Cité par : [art. R5545-6-33 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480002)
+- Cité par : [art. R5545-6-33 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-33)
 
 Dans les établissements de 200 travailleurs et plus, le suivi individuel peut être réalisé dans l'établissement.
 
@@ -585,7 +585,7 @@ Dans les établissements de 200 travailleurs et plus, le suivi individuel peut �
 - Identifiant : LEGIARTI000045676707
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676707
-- Cité par : [art. R5545-6-33 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480002)
+- Cité par : [art. R5545-6-33 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-33)
 
 Un arrêté du ministre chargé du travail détermine les caractéristiques auxquelles répondent les centres de visites et d'examens fixes ou mobiles et leurs équipements, en fonction de l'importance du service de prévention et de santé au travail. Cet arrêté précise le matériel minimum nécessaire au médecin du travail, au collaborateur médecin, à l'interne ou à l'infirmier pour l'exercice de leurs missions.
 
@@ -647,7 +647,7 @@ Dans les services de prévention et de santé au travail interentreprises, le re
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045673284
 - Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1)
-- Cité par : [art. R4624-41-3 du Code du travail](chapitre-iv.md#article-r4624-41-3) ; [art. R5545-6-34 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051479996)
+- Cité par : [art. R5545-6-34 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-34) ; [art. R4624-41-3 du Code du travail](chapitre-iv.md#article-r4624-41-3)
 
 Les tarifs et les modes de rémunération du médecin traitant ou du professionnel de santé choisi par le travailleur pour participer à la visite ou à l'examen réalisé à distance en application du II de l'article L. 4624-1, ainsi que les modalités de prise en charge par l'assurance maladie de ces prestations, sont ceux appliqués par le code de la sécurité sociale aux actes de télémédecine ou aux activités de télésoin réalisés par ces professionnels.
 
@@ -658,7 +658,7 @@ Les tarifs et les modes de rémunération du médecin traitant ou du professionn
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033768966
 - Renvoie à : [art. L4622-13 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-13) ; [art. R4624-1 du Code du travail](chapitre-iv.md#article-r4624-1)
-- Cité par : [art. R4624-43 du Code du travail](chapitre-iv.md#article-r4624-43) ; [Arrêté du 16 octobre 2017, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050326432) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324) ; [art. R412-124 du Code pénitentiaire](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049915390)
+- Cité par : [art. R4624-43 du Code du travail](chapitre-iv.md#article-r4624-43) ; [art. R412-124 du Code pénitentiaire](../../../../../code-penitentiaire/partie-reglementaire/livre-iv/titre-ier/chapitre-ii.md#article-r412-124) ; [Arrêté du 16 octobre 2017, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000050326432) ; [Arrêté du 16 octobre 2017, art. Annexe 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051334324)
 
 Le médecin du travail ne peut constater l'inaptitude médicale du travailleur à son poste de travail que :  
 
@@ -742,7 +742,7 @@ En cas d'indisponibilité du médecin-inspecteur du travail ou en cas de récusa
 - État : en vigueur depuis le 17/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046563075
 - Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8)
-- Cité par : [art. R4623-43 du Code du travail](chapitre-iii.md#article-r4623-43) ; [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104) ; [art. R5545-6-41 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051479993)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6) ; [art. R5545-6-41 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-41) ; [art. R4623-43 du Code du travail](chapitre-iii.md#article-r4623-43)
 
 Le dossier médical en santé au travail prévu à l'article L. 4624-8 est constitué sous format numérique sécurisé, pour chaque travailleur bénéficiant d'un suivi individuel de son état de santé dans un service de prévention et de santé au travail, par les professionnels de santé au travail mentionnés au premier alinéa de l'article L. 4624-1.
 
@@ -754,8 +754,8 @@ Le traitement de données ainsi mis en œuvre est placé sous la responsabilité
 - Identifiant : LEGIARTI000053979704
 - État : en vigueur depuis le 30/04/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053979704
-- Renvoie à : [art. L4161-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ier.md#article-l4161-1) ; [art. L4622-2-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-2-1) ; [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. L4624-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-3) ; [art. L4624-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-4) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; art. L1111-8-1 du Code de la santé publique
-- Cité par : [art. R4426-8 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-r4426-8) ; [art. R4624-45-5 du Code du travail](chapitre-iv.md#article-r4624-45-5) ; [art. R4624-45-6 du Code du travail](chapitre-iv.md#article-r4624-45-6) ; [art. R5545-6-41 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051479993) ; [Décret n°2026-320 du 28 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053976373)
+- Renvoie à : [art. L1111-8-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ier.md#article-l1111-8-1) ; [art. L4161-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-ier/titre-vi/chapitre-ier.md#article-l4161-1) ; [art. L4622-2-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-ii.md#article-l4622-2-1) ; [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. L4624-3 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-3) ; [art. L4624-4 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-4) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8)
+- Cité par : [art. R5545-6-41 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-41) ; [art. R4426-8 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-r4426-8) ; [art. R4624-45-5 du Code du travail](chapitre-iv.md#article-r4624-45-5) ; [art. R4624-45-6 du Code du travail](chapitre-iv.md#article-r4624-45-6) ; [Décret n°2026-320 du 28 avril 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000053976373)
 
 Le dossier médical en santé au travail comprend les éléments suivants :
 
@@ -779,8 +779,8 @@ Le dossier médical en santé au travail comprend les éléments suivants :
 - Identifiant : LEGIARTI000046563089
 - État : en vigueur depuis le 17/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046563089
-- Renvoie à : [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. R4623-38 du Code du travail](chapitre-iii.md#article-r4623-38) ; [art. R4623-40 du Code du travail](chapitre-iii.md#article-r4623-40) ; [art. R4624-45-4 du Code du travail](chapitre-iv.md#article-r4624-45-4) ; art. L1110-4 du Code de la santé publique ; [art. L1470-1 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043497477) ; art. L1470-5 du Code de la santé publique
-- Cité par : [art. R5545-6-41 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051479993)
+- Renvoie à : [art. L1110-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-preliminaire.md#article-l1110-4) ; [art. L1470-1 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-vii/articles-directs.md#article-l1470-1) ; [art. L1470-5 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-iv/titre-vii/chapitre-ii.md#article-l1470-5) ; [art. L4624-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-1) ; [art. R4623-38 du Code du travail](chapitre-iii.md#article-r4623-38) ; [art. R4623-40 du Code du travail](chapitre-iii.md#article-r4623-40) ; [art. R4624-45-4 du Code du travail](chapitre-iv.md#article-r4624-45-4)
+- Cité par : [art. R5545-6-41 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-41)
 
 L'alimentation et la consultation du dossier médical en santé au travail par les professionnels de santé en charge du suivi individuel du travailleur prévu à l'article L. 4624-1 sont réalisées dans le respect des règles de confidentialité précisées au I de l'article L. 1110-4 du code de la santé publique et dans le respect des règles d'identification électronique et d'interopérabilité définies par les référentiels mentionnés aux articles L. 1470-1 à L. 1470-5 du même code.
 
@@ -828,7 +828,7 @@ Les informations concernant des tiers n'intervenant pas dans le suivi individuel
 - Identifiant : LEGIARTI000046563100
 - État : en vigueur depuis le 17/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046563100
-- Renvoie à : [art. R4624-45-6 du Code du travail](chapitre-iv.md#article-r4624-45-6)
+- Renvoie à : [art. L1110-4 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-preliminaire.md#article-l1110-4) ; [art. R4624-45-6 du Code du travail](chapitre-iv.md#article-r4624-45-6)
 
 Le travailleur, ou en cas de décès de celui-ci toute personne autorisée par les articles L. 1110-4 et L. 1111-7 du code de la santé publique, peut demander la communication de son dossier médical en santé au travail sous format papier ou dématérialisé.
 
@@ -842,7 +842,7 @@ Sous réserve des dispositions prévues à l'article R. 4624-45-6, le droit d'op
 - Identifiant : LEGIARTI000046563102
 - État : en vigueur depuis le 17/11/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046563102
-- Renvoie à : [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; [art. R4412-55 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-55) ; [art. R4426-9 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-r4426-9) ; [art. R4451-83 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-83) ; art. L1111-8 du Code de la santé publique
+- Renvoie à : [art. L1111-8 du Code de la santé publique](../../../../../code-de-la-sante-publique/partie-legislative/premiere-partie/livre-ier/titre-ier/chapitre-ier.md#article-l1111-8) ; [art. L4624-8 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-ii/chapitre-iv.md#article-l4624-8) ; [art. R4412-55 du Code du travail](../../livre-iv/titre-ier/chapitre-ii.md#article-r4412-55) ; [art. R4426-9 du Code du travail](../../livre-iv/titre-ii/chapitre-vi.md#article-r4426-9) ; [art. R4451-83 du Code du travail](../../livre-iv/titre-v/chapitre-ier.md#article-r4451-83)
 
 Les informations concernant la santé des travailleurs sont soit conservées au sein des services de prévention et de santé au travail qui les ont recueillies, soit déposées par ces établissements auprès d'un organisme hébergeur dans le respect des dispositions de l'article L. 1111-8 du code de la santé publique.
 
@@ -862,7 +862,7 @@ Par dérogation à l'alinéa précédent, lorsque la durée de conservation d'un
 - Identifiant : LEGIARTI000045677119
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045677119
-- Cité par : [art. D4622-22 du Code du travail](chapitre-ii.md#article-d4622-22) ; [art. R1262-14 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-14) ; [art. R4624-23 du Code du travail](chapitre-iv.md#article-r4624-23) ; [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104) ; [art. R5545-6-42 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480074)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6) ; [art. R5545-6-42 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-42) ; [art. D4622-22 du Code du travail](chapitre-ii.md#article-d4622-22) ; [art. R1262-14 du Code du travail](../../../premiere-partie/livre-ii/titre-vi/chapitre-ii.md#article-r1262-14) ; [art. R4624-23 du Code du travail](chapitre-iv.md#article-r4624-23)
 
 Pour chaque entreprise ou établissement, le médecin du travail ou, dans les services de prévention et de santé au travail interentreprises, l'équipe pluridisciplinaire établit et met à jour une fiche d'entreprise ou d'établissement sur laquelle figurent, notamment, les risques professionnels et les effectifs de salariés qui y sont exposés.
 
@@ -870,7 +870,7 @@ Pour chaque entreprise ou établissement, le médecin du travail ou, dans les se
 - Identifiant : LEGIARTI000045676758
 - État : en vigueur depuis le 28/04/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045676758
-- Cité par : [art. R5545-6-43 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480077) ; [Décret n°90-277 du 28 mars 1990, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029237381)
+- Cité par : [art. R5545-6-43 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-43) ; [Décret n°90-277 du 28 mars 1990, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029237381)
 
 Pour les entreprises adhérentes à un service de prévention et de santé au travail interentreprises, la fiche d'entreprise est établie dans l'année qui suit l'adhésion de l'entreprise ou de l'établissement à ce service.
 
@@ -878,7 +878,7 @@ Pour les entreprises adhérentes à un service de prévention et de santé au tr
 - Identifiant : LEGIARTI000036483619
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036483619
-- Cité par : [art. R5545-6-42 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480074)
+- Cité par : [art. R5545-6-42 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-42)
 
 La fiche d'entreprise est transmise à l'employeur.
 
@@ -889,7 +889,7 @@ Elle est présentée au comité social et économique en même temps que le bila
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033769002
 - Renvoie à : [art. L4643-1 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-vi/titre-iv/chapitre-iii.md#article-l4643-1)
-- Cité par : [art. R5545-6-43 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480077)
+- Cité par : [art. R5545-6-43 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-43)
 
 La fiche d'entreprise est tenue à la disposition du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi et du médecin inspecteur du travail.
 
@@ -899,7 +899,7 @@ Elle peut être consultée par les agents des services de prévention des organi
 - Identifiant : LEGIARTI000029235122
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029235122
-- Cité par : [art. R5545-6-43 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480077)
+- Cité par : [art. R5545-6-43 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6-43)
 
 Le modèle de fiche d'entreprise est fixé par arrêté du ministre chargé du travail.
 
@@ -917,7 +917,7 @@ L'avis médical d'aptitude ou d'inaptitude émis par le médecin du travail est 
 - Identifiant : LEGIARTI000033740751
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033740751
-- Renvoie à : [art. D433-3 du Code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021955724)
+- Renvoie à : [art. D433-3 du Code de la sécurité sociale](../../../../../code-de-la-securite-sociale/partie-reglementaire-decrets-simples/livre-iv/titre-iii/chapitre-3.md#article-d433-3)
 
 Lorsque le médecin du travail constate que l'inaptitude du salarié est susceptible d'être en lien avec un accident ou une maladie d'origine professionnelle, il remet à ce dernier le formulaire de demande prévu à l'article D. 433-3 du code de la sécurité sociale.
 
@@ -925,7 +925,7 @@ Lorsque le médecin du travail constate que l'inaptitude du salarié est suscept
 - Identifiant : LEGIARTI000033740794
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033740794
-- Cité par : [art. D4622-4-1 du Code du travail](chapitre-ii.md#article-d4622-4-1) ; [Arrêté du 18 octobre 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000035844264) ; [Arrêté du 3 mars 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051331719) ; [Arrêté du 5 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050628045) ; [Arrêté du 6 mai 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054058385) ; [art. D717-39-10 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053976796)
+- Cité par : [art. D4622-4-1 du Code du travail](chapitre-ii.md#article-d4622-4-1) ; [art. D717-39-10 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-d717-39-10) ; [Arrêté du 18 octobre 2017](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000035844264) ; [Arrêté du 3 mars 2025](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000051331719) ; [Arrêté du 5 novembre 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000050628045) ; [Arrêté du 6 mai 2026](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054058385)
 
 Le modèle d'avis d'aptitude ou d'inaptitude est fixé par arrêté du ministre chargé du travail.
 
@@ -935,7 +935,7 @@ Le modèle d'avis d'aptitude ou d'inaptitude est fixé par arrêté du ministre 
 - Identifiant : LEGIARTI000033738785
 - État : en vigueur depuis le 30/12/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033738785
-- Cité par : [art. R5545-6 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051480104)
+- Cité par : [art. R5545-6 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-v/titre-iv/chapitre-v.md#article-r5545-6)
 
 Le médecin du travail participe, notamment en liaison avec le médecin inspecteur du travail, à toutes recherches, études et enquêtes, en particulier à caractère épidémiologique, entrant dans le cadre de ses missions.
 

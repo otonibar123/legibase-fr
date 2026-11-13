@@ -60,7 +60,7 @@ L'employeur tient à la disposition des membres du comité social et économique
 - Identifiant : LEGIARTI000018531521
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531521
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [Arrêté du 22 octobre 2009, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021235387) ; [art. R717-85-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917552)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-3) ; [Arrêté du 22 octobre 2009, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021235387)
 
 Les équipements de travail et leurs éléments sont installés et doivent pouvoir être utilisés de manière à assurer leur stabilité.
 
@@ -123,7 +123,7 @@ Aucun poste de travail permanent ne peut être situé dans le champ d'une zone d
 - Identifiant : LEGIARTI000018531503
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531503
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917552)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-3)
 
 Le montage et le démontage des équipements de travail sont réalisés de façon sûre, en respectant les instructions du fabricant.  
 La remise en service d'un équipement de travail après une opération de maintenance ayant nécessité le démontage des dispositifs de protection est précédée d'un essai permettant de vérifier que ces dispositifs sont en place et fonctionnent correctement.
@@ -196,7 +196,7 @@ Le carnet de maintenance peut être tenu et conservé sur tout support dans les 
 - Identifiant : LEGIARTI000018531483
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531483
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [Arrêté du 1 mars 2004, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032078636) ; [Arrêté du 22 octobre 2009, art. Annexe II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021237050) ; [art. R717-85-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917552)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-3) ; [Arrêté du 1 mars 2004, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000032078636) ; [Arrêté du 22 octobre 2009, art. Annexe II](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021237050)
 
 Des arrêtés du ministre chargé du travail ou du ministre chargé de l'agriculture déterminent les équipements de travail et les catégories d'équipements de travail pour lesquels l'employeur procède ou fait procéder à une vérification initiale, lors de leur mise en service dans l'établissement, en vue de s'assurer qu'ils sont installés conformément aux spécifications prévues, le cas échéant, par la notice d'instructions du fabricant et peuvent être utilisés en sécurité.  
 Cette vérification est réalisée dans les mêmes conditions que les vérifications périodiques prévues à la sous-section 2.
@@ -262,7 +262,7 @@ Des arrêtés des ministres chargés du travail ou de l'agriculture déterminent
 - Identifiant : LEGIARTI000018531463
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531463
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [Arrêté du 22 octobre 2009, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021235387) ; [art. R717-85-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602529)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-4) ; [Arrêté du 22 octobre 2009, art. Annexe I](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000021235387)
 
 Les équipements de travail démontables ou mobiles servant au levage de charges sont utilisés de manière à garantir la stabilité de l'équipement de travail durant son emploi dans toutes les conditions prévisibles, compte tenu de la nature des appuis.
 
@@ -339,7 +339,7 @@ Lorsque deux ou plusieurs équipements servant au levage de charges non guidées
 - Identifiant : LEGIARTI000018531443
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531443
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602529)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-4)
 
 Pendant l'emploi d'un équipement de travail mobile servant au levage de charges non guidées, des mesures sont prises pour éviter son basculement, son renversement, son déplacement et son glissement inopinés.
 
@@ -379,7 +379,7 @@ Lorsqu'une charge doit être levée simultanément par deux ou plusieurs équipe
 - Identifiant : LEGIARTI000018531433
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531433
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-4 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602529)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-4 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-4)
 
 En prévision d'une panne partielle ou complète de l'alimentation en énergie, et si les équipements de travail servant au levage de charges non guidées ne peuvent pas retenir ces charges, des mesures sont prises pour éviter d'exposer des travailleurs aux risques qui peuvent en résulter.  
 Il est interdit de laisser les charges suspendues sans surveillance, sauf si l'accès à la zone de danger est empêché et si la charge a été accrochée et est maintenue en toute sécurité.
@@ -521,7 +521,7 @@ Des arrêtés des ministres chargés du travail ou de l'agriculture déterminent
 - Identifiant : LEGIARTI000018531397
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531397
-- Cité par : [art. R4323-62 du Code du travail](chapitre-iii.md#article-r4323-62) ; [art. R4323-78 du Code du travail](chapitre-iii.md#article-r4323-78) ; [art. R4534-74 du Code du travail](../../livre-v/titre-iii/chapitre-iv.md#article-r4534-74) ; [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R4543-26 du Code du travail](../../livre-v/titre-iv/chapitre-iii.md#article-r4543-26) ; [art. R717-85-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019602547)
+- Cité par : [art. R4323-62 du Code du travail](chapitre-iii.md#article-r4323-62) ; [art. R4323-78 du Code du travail](chapitre-iii.md#article-r4323-78) ; [art. R4534-74 du Code du travail](../../livre-v/titre-iii/chapitre-iv.md#article-r4534-74) ; [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R4543-26 du Code du travail](../../livre-v/titre-iv/chapitre-iii.md#article-r4543-26) ; [art. R717-85-2 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-2)
 
 Les travaux temporaires en hauteur sont réalisés à partir d'un plan de travail conçu, installé ou équipé de manière à préserver la santé et la sécurité des travailleurs.  
 Le poste de travail est tel qu'il permet l'exécution des travaux dans des conditions ergonomiques.
@@ -833,7 +833,7 @@ Dans des circonstances spécifiques où, compte tenu de l'évaluation du risque,
 - Identifiant : LEGIARTI000018531314
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531314
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [Arrêté du 15 mai 2006, art. 23](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041593774) ; [art. R717-85-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917552)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R4721-5 du Code du travail](../../livre-vii/titre-ii/chapitre-ier.md#article-r4721-5) ; [art. R717-85-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-3) ; [Arrêté du 15 mai 2006, art. 23](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000041593774)
 
 Les équipements de protection individuelle sont appropriés aux risques à prévenir et aux conditions dans lesquelles le travail est accompli. Ils ne sont pas eux-mêmes à l'origine de risques supplémentaires.  
 Ils doivent pouvoir être portés, le cas échéant, après ajustement, dans des conditions compatibles avec le travail à accomplir et avec les principes de l'ergonomie.
@@ -889,7 +889,7 @@ L'employeur détermine, après consultation du comité social et économique, le
 - Identifiant : LEGIARTI000018531300
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018531300
-- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-3 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917552)
+- Cité par : [art. R4535-6 du Code du travail](../../livre-v/titre-iii/chapitre-v.md#article-r4535-6) ; [art. R717-85-3 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-85-3)
 
 Les équipements de protection individuelle sont utilisés conformément à leur destination.
 

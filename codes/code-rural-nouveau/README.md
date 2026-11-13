@@ -1,0 +1,677 @@
+# Code rural (nouveau)
+
+Dernière modification du texte dans LEGI : 04/11/2026. 9736 articles en vigueur, répartis dans 535 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - [Livre Préliminaire : Objectifs de la politique en faveur de l'agriculture, de l'alimentation et de la pêche maritime](partie-legislative/livre-preliminaire.md) (5 articles)
+  - **Livre Ier : Aménagement et équipement de l'espace rural**
+    - **Titre Ier : Développement et aménagement de l'espace rural**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Aménagement rural](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Agriculture de montagne et mise en valeur pastorale](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : L'agriculture de certaines zones soumises à des contraintes environnementales.](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (3 articles)
+    - **Titre II : Aménagement foncier rural**
+      - [Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (27 articles)
+      - [Chapitre III : L'aménagement foncier agricole et forestier](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (39 articles)
+      - [Chapitre IV : Les échanges et cessions amiables d'immeubles ruraux](partie-legislative/livre-ier/titre-ii/chapitre-iv.md) (13 articles)
+      - [Chapitre V : La mise en valeur des terres incultes ou manifestement sous-exploitées.](partie-legislative/livre-ier/titre-ii/chapitre-v.md) (15 articles)
+      - [Chapitre VI : La réglementation et la protection des boisements](partie-legislative/livre-ier/titre-ii/chapitre-vi.md) (6 articles)
+      - [Chapitre VII : Dispositions diverses et communes.](partie-legislative/livre-ier/titre-ii/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales](partie-legislative/livre-ier/titre-ii/chapitre-viii.md) (3 articles)
+    - **Titre III : Les associations foncières**
+      - [Chapitre Ier : Dispositions communes.](partie-legislative/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Les associations foncières d'aménagement foncier agricole et forestier.](partie-legislative/livre-ier/titre-iii/chapitre-iii.md) (7 articles)
+      - [Chapitre V : Les associations foncières pastorales.](partie-legislative/livre-ier/titre-iii/chapitre-v.md) (13 articles)
+      - [Chapitre VI : Les associations foncières agricoles](partie-legislative/livre-ier/titre-iii/chapitre-vi.md) (14 articles)
+    - **Titre IV : Les sociétés d'aménagement foncier et d'établissement rural**
+      - [Chapitre Ier : Missions et fonctionnement](partie-legislative/livre-ier/titre-iv/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Opérations immobilières et mobilières](partie-legislative/livre-ier/titre-iv/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Droit de préemption](partie-legislative/livre-ier/titre-iv/chapitre-iii.md) (21 articles)
+    - **Titre V : Les équipements et les travaux de mise en valeur**
+      - [Chapitre Ier : Les travaux ou ouvrages](partie-legislative/livre-ier/titre-v/chapitre-ier.md) (26 articles)
+      - [Chapitre II : Les servitudes](partie-legislative/livre-ier/titre-v/chapitre-ii.md) (23 articles)
+    - **Titre VI : Les chemins ruraux et les chemins d'exploitation**
+      - [Chapitre Ier : Les chemins ruraux.](partie-legislative/livre-ier/titre-vi/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Les chemins et les sentiers d'exploitation.](partie-legislative/livre-ier/titre-vi/chapitre-ii.md) (5 articles)
+      - [Chapitre III : Dispositions communes.](partie-legislative/livre-ier/titre-vi/chapitre-iii.md) (1 article)
+    - [Titre VII : Les experts fonciers et agricoles et les experts forestiers.](partie-legislative/livre-ier/titre-vii.md) (3 articles)
+    - **Titre VIII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-ier/titre-viii/chapitre-ier.md) (42 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-legislative/livre-ier/titre-viii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Saint-Martin](partie-legislative/livre-ier/titre-viii/chapitre-iii.md) (29 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/livre-ier/titre-viii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-legislative/livre-ier/titre-viii/chapitre-v.md) (1 article)
+  - **Livre II : Alimentation, santé publique vétérinaire et protection des végétaux**
+    - **Titre Préliminaire : Dispositions communes**
+      - [Chapitre Ier : Dispositions générales relatives à la prévention, à la surveillance et à la lutte contre les dangers sanitaires concernant les animaux, les végétaux et les aliments](partie-legislative/livre-ii/titre-preliminaire/chapitre-ier.md) (12 articles)
+      - [Chapitre II : Laboratoires et réactifs.](partie-legislative/livre-ii/titre-preliminaire/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Vétérinaires sanitaires et vétérinaires mandatés.](partie-legislative/livre-ii/titre-preliminaire/chapitre-iii.md) (12 articles)
+      - [Chapitre IV : Libre prestation de services et liberté d'établissement](partie-legislative/livre-ii/titre-preliminaire/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Dispositions pénales](partie-legislative/livre-ii/titre-preliminaire/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Dispositions relatives aux pouvoirs de police administrative](partie-legislative/livre-ii/titre-preliminaire/chapitre-vi.md) (4 articles)
+    - **Titre Ier : La garde et la circulation des animaux et des produits animaux**
+      - [Chapitre Ier : La garde des animaux domestiques et sauvages apprivoisés ou tenus en captivité](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (34 articles)
+      - [Chapitre II : La traçabilité des animaux](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Les cessions d'animaux et de produits animaux](partie-legislative/livre-ii/titre-ier/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : La protection des animaux.](partie-legislative/livre-ii/titre-ier/chapitre-iv.md) (27 articles)
+      - [Chapitre V : Dispositions pénales.](partie-legislative/livre-ii/titre-ier/chapitre-v.md) (9 articles)
+    - **Titre II : Mesures de prévention, surveillance et lutte contre les dangers zoosanitaires**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Agrément et autres obligations de certains opérateurs détenant des animaux ou exerçant des activités de reproduction animale](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : La police sanitaire](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (18 articles)
+      - [Chapitre VI : Des sous-produits animaux.](partie-legislative/livre-ii/titre-ii/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Pharmacie vétérinaire.](partie-legislative/livre-ii/titre-ii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Dispositions pénales.](partie-legislative/livre-ii/titre-ii/chapitre-viii.md) (8 articles)
+    - **Titre III : Qualité nutritionnelle et sécurité sanitaire des aliments**
+      - [Chapitre préliminaire : La politique publique de l'alimentation](partie-legislative/livre-ii/titre-iii/chapitre-preliminaire.md) (13 articles)
+      - [Chapitre Ier : Dispositions générales relatives au contrôle sanitaire](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Dispositions relatives aux produits](partie-legislative/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions relatives aux établissements](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions relatives aux élevages](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Dispositions relatives à l'alimentation animale.](partie-legislative/livre-ii/titre-iii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Les importations, échanges au sein de l'Union européenne et exportations](partie-legislative/livre-ii/titre-iii/chapitre-vi.md) (13 articles)
+      - [Chapitre VII : Dispositions pénales.](partie-legislative/livre-ii/titre-iii/chapitre-vii.md) (4 articles)
+    - **Titre IV : L'exercice de la profession de vétérinaire**
+      - [Chapitre Ier : L'exercice de la profession.](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (19 articles)
+      - [Chapitre Ier bis : Les sociétés de participations financières de la profession vétérinaire](partie-legislative/livre-ii/titre-iv/chapitre-ier-bis.md) (1 article)
+      - [Chapitre II : L'ordre des vétérinaires.](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Dispositions relatives à l'exercice illégal de la médecine et de la chirurgie des animaux](partie-legislative/livre-ii/titre-iv/chapitre-iii.md) (5 articles)
+    - **Titre V : La protection des végétaux**
+      - [Chapitre préliminaire : Inspections et contrôles](partie-legislative/livre-ii/titre-v/chapitre-preliminaire.md) (8 articles)
+      - [Chapitre Ier : La surveillance biologique du territoire](partie-legislative/livre-ii/titre-v/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Les groupements communaux ou intercommunaux.](partie-legislative/livre-ii/titre-v/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Mise sur le marché et utilisation des produits phytopharmaceutiques](partie-legislative/livre-ii/titre-v/chapitre-iii.md) (27 articles)
+      - [Chapitre IV : La mise en vente, la vente, la distribution à titre gratuit, l'application et le conseil à l'utilisation des produits phytopharmaceutiques](partie-legislative/livre-ii/titre-v/chapitre-iv.md) (26 articles)
+      - [Chapitre V : Mise sur le marché et utilisation des matières fertilisantes, des adjuvants pour matières fertilisantes et des supports de culture](partie-legislative/livre-ii/titre-v/chapitre-v.md) (20 articles)
+      - [Chapitre VI : Règles relatives aux matériels destinés à l'application de produits phytopharmaceutiques.](partie-legislative/livre-ii/titre-v/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : Le contrôle de la production primaire des denrées alimentaires et des produits destinés à l'alimentation animale ou des aliments pour animaux d'origine végétale](partie-legislative/livre-ii/titre-v/chapitre-vii.md) (5 articles)
+      - [Chapitre VIII : Macro-organismes non indigènes utiles aux végétaux](partie-legislative/livre-ii/titre-v/chapitre-viii.md) (2 articles)
+      - [Chapitre IX : Culture des variétés rendues tolérantes aux herbicides](partie-legislative/livre-ii/titre-v/chapitre-ix.md) (2 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-ii/titre-vii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-legislative/livre-ii/titre-vii/chapitre-ii.md) (16 articles)
+      - [Chapitre III : Saint-Martin](partie-legislative/livre-ii/titre-vii/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/livre-ii/titre-vii/chapitre-iv.md) (16 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-legislative/livre-ii/titre-vii/chapitre-v.md) (16 articles)
+  - **Livre III : Exploitation agricole**
+    - **Titre Ier : Dispositions générales**
+      - [Chapitre Ier : Les activités agricoles.](partie-legislative/livre-iii/titre-ier/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Les éléments de référence](partie-legislative/livre-iii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : L'Agence de services et de paiement](partie-legislative/livre-iii/titre-ier/chapitre-iii.md) (7 articles)
+      - [Chapitre IV : Dispositions particulières à certaines collectivités territoriales](partie-legislative/livre-iii/titre-ier/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Groupement d'intérêt économique et environnemental](partie-legislative/livre-iii/titre-ier/chapitre-v.md) (6 articles)
+      - [Chapitre VI : Conseil stratégique global](partie-legislative/livre-iii/titre-ier/chapitre-vi.md) (1 article)
+    - **Titre II : Les différentes formes juridiques de l'exploitation agricole**
+      - [Titre II : Les différentes formes juridiques de l'exploitation agricole : articles rattachés directement](partie-legislative/livre-iii/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Exploitation familiale à responsabilité personnelle](partie-legislative/livre-iii/titre-ii/chapitre-ier.md) (26 articles)
+      - [Chapitre II : Les groupements fonciers agricoles et les groupements fonciers ruraux.](partie-legislative/livre-iii/titre-ii/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Les groupements agricoles d'exploitation en commun.](partie-legislative/livre-iii/titre-ii/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : Exploitation agricole à responsabilité limitée.](partie-legislative/livre-iii/titre-ii/chapitre-iv.md) (10 articles)
+      - [Chapitre V : L'entraide entre agriculteurs.](partie-legislative/livre-iii/titre-ii/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Les contrats d'intégration.](partie-legislative/livre-iii/titre-ii/chapitre-vi.md) (10 articles)
+      - [Chapitre VII : Autres formes d'exploitation agricole.](partie-legislative/livre-iii/titre-ii/chapitre-vii.md) (1 article)
+    - **Titre III : La politique d'installation et le contrôle des structures et de la production**
+      - [Chapitre préliminaire : La politique d'installation et de transmission en agriculture.](partie-legislative/livre-iii/titre-iii/chapitre-preliminaire.md) (11 articles)
+      - [Chapitre Ier : Le contrôle des structures des exploitations agricoles.](partie-legislative/livre-iii/titre-iii/chapitre-ier.md) (17 articles)
+      - [Chapitre II : Les limitations au droit de produire.](partie-legislative/livre-iii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Contrôle des sociétés possédant ou exploitant du foncier agricole](partie-legislative/livre-iii/titre-iii/chapitre-iii.md) (5 articles)
+    - **Titre IV : Financement des exploitations agricoles**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-iii/titre-iv/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Warrants agricoles.](partie-legislative/livre-iii/titre-iv/chapitre-ii.md) (15 articles)
+    - **Titre V : Exploitations agricoles en difficulté**
+      - [Chapitre Ier : Le règlement amiable, le redressement et la liquidation judiciaires de l'exploitation agricole et les procédures instituées par les titres II, III et IV du livre VI du code de commerce](partie-legislative/livre-iii/titre-v/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Les aides à la reconversion ou à la réinstallation](partie-legislative/livre-iii/titre-v/chapitre-ii.md) (1 article)
+      - [Chapitre III : Congé de formation.](partie-legislative/livre-iii/titre-v/chapitre-iii.md) (1 article)
+    - **Titre VI : Gestion des risques en agriculture**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-iii/titre-vi/chapitre-ier.md) (20 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-iii/titre-vii/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-legislative/livre-iii/titre-vii/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Saint-Martin](partie-legislative/livre-iii/titre-vii/chapitre-iii.md) (10 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/livre-iii/titre-vii/chapitre-iv.md) (11 articles)
+      - [Chapitre IV bis : Dispositions communes à la Guadeloupe, la Guyane, la Martinique, La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon](partie-legislative/livre-iii/titre-vii/chapitre-iv-bis.md) (1 article)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-legislative/livre-iii/titre-vii/chapitre-v.md) (4 articles)
+  - **Livre IV : Baux ruraux**
+    - **Titre Ier : Statut du fermage et du métayage**
+      - [Chapitre Ier : Régime de droit commun](partie-legislative/livre-iv/titre-ier/chapitre-ier.md) (68 articles)
+      - [Chapitre II : Droit de préemption et droit de priorité](partie-legislative/livre-iv/titre-ier/chapitre-ii.md) (15 articles)
+      - [Chapitre III : Dispositions particulières aux preneurs de nationalité étrangère.](partie-legislative/livre-iv/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre V : Dispositions diverses et d'application.](partie-legislative/livre-iv/titre-ier/chapitre-v.md) (10 articles)
+      - [Chapitre VI : Dispositions particulières aux baux à long terme.](partie-legislative/livre-iv/titre-ier/chapitre-vi.md) (9 articles)
+      - [Chapitre VII : Dispositions particulières aux baux à métayage](partie-legislative/livre-iv/titre-ier/chapitre-vii.md) (15 articles)
+      - [Chapitre VIII : Dispositions particulières aux baux cessibles hors du cadre familial.](partie-legislative/livre-iv/titre-ier/chapitre-viii.md) (5 articles)
+    - [Titre II : Bail à cheptel.](partie-legislative/livre-iv/titre-ii.md) (1 article)
+    - [Titre III : Bail à domaine congéable.](partie-legislative/livre-iv/titre-iii.md) (23 articles)
+    - [Titre IV : Bail à complant.](partie-legislative/livre-iv/titre-iv.md) (13 articles)
+    - [Titre V : Bail emphytéotique.](partie-legislative/livre-iv/titre-v.md) (14 articles)
+    - **Titre VI : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon](partie-legislative/livre-iv/titre-vi/chapitre-ier.md) (30 articles)
+      - [Chapitre II : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-legislative/livre-iv/titre-vi/chapitre-ii.md) (1 article)
+    - [Titre VII : Location de jardins familiaux.](partie-legislative/livre-iv/titre-vii.md) (7 articles)
+    - [Titre VIII : Contrats d'exploitation de terres à vocation pastorale.](partie-legislative/livre-iv/titre-viii.md) (4 articles)
+    - **Titre IX : Du tribunal paritaire des baux ruraux**
+      - [Chapitre Ier : Institution et compétence.](partie-legislative/livre-iv/titre-ix/chapitre-ier.md) (1 article)
+      - [Chapitre II : Composition du tribunal.](partie-legislative/livre-iv/titre-ix/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Voies de recours.](partie-legislative/livre-iv/titre-ix/chapitre-iii.md) (1 article)
+  - **Livre V : Organismes professionnels agricoles**
+    - **Titre préliminaire : Représentativité au niveau national et multiprofessionnel**
+      - [Chapitre unique](partie-legislative/livre-v/titre-preliminaire/chapitre-unique.md) (1 article)
+    - **Titre Ier : Du réseau des chambres d'agriculture**
+      - [Titre Ier : Du réseau des chambres d'agriculture : articles rattachés directement](partie-legislative/livre-v/titre-ier/articles-directs.md) (2 articles)
+      - [Chapitre Ier : Chambres départementales et interdépartementales](partie-legislative/livre-v/titre-ier/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Chambres régionales, interrégionales et de région](partie-legislative/livre-v/titre-ier/chapitre-ii.md) (12 articles)
+      - [Chapitre III : Chambres d'agriculture France](partie-legislative/livre-v/titre-ier/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Dispositions communes](partie-legislative/livre-v/titre-ier/chapitre-iv.md) (8 articles)
+      - [Chapitre V : Dispositions relatives au statut des salariés membres des chambres d'agriculture.](partie-legislative/livre-v/titre-ier/chapitre-v.md) (5 articles)
+    - **Titre II : Sociétés coopératives agricoles**
+      - [Chapitre Ier : Dispositions générales, constitution](partie-legislative/livre-v/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Associés, tiers non coopérateurs](partie-legislative/livre-v/titre-ii/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Capital social et dispositions financières](partie-legislative/livre-v/titre-ii/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : Administration](partie-legislative/livre-v/titre-ii/chapitre-iv.md) (22 articles)
+      - [Chapitre V : Agrément, contrôle](partie-legislative/livre-v/titre-ii/chapitre-v.md) (1 article)
+      - [Chapitre VI : Dissolution - Liquidation - Fusion - Scission - Apport partiel d'actifs](partie-legislative/livre-v/titre-ii/chapitre-vi.md) (11 articles)
+      - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle](partie-legislative/livre-v/titre-ii/chapitre-vii.md) (7 articles)
+      - [Chapitre VIII : Autorités compétentes en matière de coopération agricole](partie-legislative/livre-v/titre-ii/chapitre-viii.md) (3 articles)
+      - [Chapitre IX : Dispositions pénales, dispositions d'application.](partie-legislative/livre-v/titre-ii/chapitre-ix.md) (6 articles)
+    - **Titre III : Sociétés d'intérêt collectif agricole**
+      - [Chapitre Ier : Constitution.](partie-legislative/livre-v/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre II : Fonctionnement.](partie-legislative/livre-v/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions financières.](partie-legislative/livre-v/titre-iii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Transformation, dissolution, liquidation.](partie-legislative/livre-v/titre-iii/chapitre-iv.md) (1 article)
+      - [Chapitre V : Dispositions pénales.](partie-legislative/livre-v/titre-iii/chapitre-v.md) (4 articles)
+    - [Titre IV : Sociétés mixtes d'intérêt agricole.](partie-legislative/livre-v/titre-iv.md) (4 articles)
+    - **Titre V : Organisations de producteurs et associations d'organisations de producteurs**
+      - [Chapitre Ier : Organisations de producteurs et associations d'organisations de producteurs reconnues dans les secteurs couverts par l'organisation commune des marchés des produits agricoles](partie-legislative/livre-v/titre-v/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Organisations de producteurs et associations d'organisations de producteurs reconnues dans les secteurs non couverts par l'organisation commune des marchés des produits agricoles](partie-legislative/livre-v/titre-v/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Dispositions communes](partie-legislative/livre-v/titre-v/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Groupements de producteurs](partie-legislative/livre-v/titre-v/chapitre-iv.md) (1 article)
+    - **Titre VI : Jardins familiaux**
+      - [Chapitre Ier : Constitution.](partie-legislative/livre-v/titre-vi/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Préemption de terrains destinés à la création ou à la protection de jardins familiaux](partie-legislative/livre-v/titre-vi/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique.](partie-legislative/livre-v/titre-vi/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Avantages et subventions.](partie-legislative/livre-v/titre-vi/chapitre-iv.md) (3 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-v/titre-vii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-legislative/livre-v/titre-vii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Saint-Martin](partie-legislative/livre-v/titre-vii/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/livre-v/titre-vii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-legislative/livre-v/titre-vii/chapitre-v.md) (1 article)
+  - **Livre VI : Production et marchés**
+    - **Titre Ier : Dispositions générales.**
+      - [Chapitre Ier : Organisation générale de la production et des marchés](partie-legislative/livre-vi/titre-ier/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Assistance en matière de recouvrement international](partie-legislative/livre-vi/titre-ier/chapitre-ii.md) (6 articles)
+    - **Titre II : Les organismes d'intervention**
+      - [Chapitre Ier : L'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer)](partie-legislative/livre-vi/titre-ii/chapitre-ier.md) (17 articles)
+      - [Chapitre III : Les sociétés d'intervention.](partie-legislative/livre-vi/titre-ii/chapitre-iii.md) (2 articles)
+    - **Titre III : Contrats et accords interprofessionnels portant sur des produits agricoles ou alimentaires**
+      - [Chapitre Ier : Le régime contractuel en agriculture](partie-legislative/livre-vi/titre-iii/chapitre-ier.md) (38 articles)
+      - [Chapitre II : Les organisations interprofessionnelles agricoles](partie-legislative/livre-vi/titre-iii/chapitre-ii.md) (18 articles)
+    - **Titre IV : La valorisation des produits agricoles, forestiers ou alimentaires et des produits de la mer**
+      - [Titre IV : La valorisation des produits agricoles, forestiers ou alimentaires et des produits de la mer : articles rattachés directement](partie-legislative/livre-vi/titre-iv/articles-directs.md) (4 articles)
+      - [Chapitre Ier : Les modes de valorisation de la qualité et de l'origine](partie-legislative/livre-vi/titre-iv/chapitre-ier.md) (26 articles)
+      - [Chapitre II : Reconnaissance et contrôle des signes d'identification de la qualité et de l'origine](partie-legislative/livre-vi/titre-iv/chapitre-ii.md) (34 articles)
+      - [Chapitre III : Protection des signes d'identification de la qualité et de l'origine](partie-legislative/livre-vi/titre-iv/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Dispositions particulières à certains secteurs](partie-legislative/livre-vi/titre-iv/chapitre-iv.md) (11 articles)
+    - **Titre V : Les productions animales**
+      - [Chapitre Ier : La vaine pâture.](partie-legislative/livre-vi/titre-v/chapitre-ier.md) (10 articles)
+      - [Chapitre III : Reproduction, amélioration et préservation du patrimoine génétique des animaux d'élevage](partie-legislative/livre-vi/titre-v/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : Les animaux et les viandes.](partie-legislative/livre-vi/titre-v/chapitre-iv.md) (18 articles)
+    - **Titre VI : Les productions végétales**
+      - [Chapitre préliminaire : La conservation des ressources phytogénétiques pour l'agriculture et l'alimentation](partie-legislative/livre-vi/titre-vi/chapitre-preliminaire.md) (4 articles)
+      - [Chapitre Ier : Les productions de semences et de plants.](partie-legislative/livre-vi/titre-vi/chapitre-ier.md) (19 articles)
+      - [Chapitre II : Les obtentions végétales.](partie-legislative/livre-vi/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Les plantes génétiquement modifiées.](partie-legislative/livre-vi/titre-vi/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Les fruits, les légumes et l'horticulture.](partie-legislative/livre-vi/titre-vi/chapitre-iv.md) (30 articles)
+      - [Chapitre V : Les produits de la vigne.](partie-legislative/livre-vi/titre-vi/chapitre-v.md) (25 articles)
+      - [Chapitre VI : Les céréales.](partie-legislative/livre-vi/titre-vi/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Les oléagineux.](partie-legislative/livre-vi/titre-vi/chapitre-vii.md) (2 articles)
+      - [Chapitre VIII : Les plantes à parfum, aromatiques et médicinales.](partie-legislative/livre-vi/titre-vi/chapitre-viii.md) (2 articles)
+      - [Chapitre IX : Politique génétique des semences et plants](partie-legislative/livre-vi/titre-vi/chapitre-ix.md) (1 article)
+    - [Titre VII : Dispositions pénales.](partie-legislative/livre-vi/titre-vii.md) (14 articles)
+    - **Titre VIII : Observatoires**
+      - [Chapitre II : Observatoire de la formation des prix et des marges des produits alimentaires](partie-legislative/livre-vi/titre-viii/chapitre-ii.md) (1 article)
+    - **Titre IX : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-vi/titre-ix/chapitre-ier.md) (6 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-legislative/livre-vi/titre-ix/chapitre-ii.md) (4 articles)
+      - [Chapitre III : Saint-Martin](partie-legislative/livre-vi/titre-ix/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/livre-vi/titre-ix/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-legislative/livre-vi/titre-ix/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Office de développement de l'économie agricole d'outre-mer](partie-legislative/livre-vi/titre-ix/chapitre-vi.md) (1 article)
+  - **Livre VII : Dispositions sociales**
+    - **Titre Ier : Réglementation du travail salarié**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-vii/titre-ier/chapitre-ier.md) (1 article)
+      - [Chapitre II : Titre emploi simplifié agricole.](partie-legislative/livre-vii/titre-ier/chapitre-ii.md) (1 article)
+      - [Chapitre II bis : Titre emploi-service agricole](partie-legislative/livre-vii/titre-ier/chapitre-ii-bis.md) (6 articles)
+      - [Chapitre III : Durée du travail](partie-legislative/livre-vii/titre-ier/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Repos et congés](partie-legislative/livre-vii/titre-ier/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions relatives aux jeunes travailleurs.](partie-legislative/livre-vii/titre-ier/chapitre-v.md) (1 article)
+      - [Chapitre VI : Hébergement et participation des employeurs agricoles à l'effort de construction.](partie-legislative/livre-vii/titre-ier/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Santé et sécurité au travail](partie-legislative/livre-vii/titre-ier/chapitre-vii.md) (12 articles)
+      - [Chapitre VIII : Dispositions diverses](partie-legislative/livre-vii/titre-ier/chapitre-viii.md) (12 articles)
+      - [Chapitre IX : Contrôle.](partie-legislative/livre-vii/titre-ier/chapitre-ix.md) (7 articles)
+    - **Titre II : Organisation générale des régimes de protection sociale des professions agricoles**
+      - [Chapitre Ier : Généralités.](partie-legislative/livre-vii/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Champ d'application](partie-legislative/livre-vii/titre-ii/chapitre-ii.md) (32 articles)
+      - [Chapitre III : Organismes de protection sociale des professions agricoles](partie-legislative/livre-vii/titre-ii/chapitre-iii.md) (55 articles)
+      - [Chapitre IV : Contrôles](partie-legislative/livre-vii/titre-ii/chapitre-iv.md) (16 articles)
+      - [Chapitre V : Recouvrement des cotisations et créances](partie-legislative/livre-vii/titre-ii/chapitre-v.md) (27 articles)
+      - [Chapitre VI : Action sanitaire et sociale.](partie-legislative/livre-vii/titre-ii/chapitre-vi.md) (2 articles)
+      - [Chapitre VI bis : Lutte contre le non-recours](partie-legislative/livre-vii/titre-ii/chapitre-vi-bis.md) (1 article)
+      - [Chapitre VII : Retraite et prévoyance complémentaires](partie-legislative/livre-vii/titre-ii/chapitre-vii.md) (2 articles)
+    - **Titre III : Protection sociale des personnes non salariées des professions agricoles**
+      - [Chapitre Ier : Financement](partie-legislative/livre-vii/titre-iii/chapitre-ier.md) (34 articles)
+      - [Chapitre II : Prestations](partie-legislative/livre-vii/titre-iii/chapitre-ii.md) (53 articles)
+      - [Chapitre III : Recours des caisses contre les tiers payeurs](partie-legislative/livre-vii/titre-iii/chapitre-iii.md) (1 article)
+    - **Titre IV : Protection sociale des personnes salariées des professions agricoles**
+      - [Chapitre Ier : Cotisations et autres financements](partie-legislative/livre-vii/titre-iv/chapitre-ier.md) (29 articles)
+      - [Chapitre II : Prestations](partie-legislative/livre-vii/titre-iv/chapitre-ii.md) (5 articles)
+    - **Titre V : Accidents du travail et maladies professionnelles**
+      - [Chapitre Ier : Assurance obligatoire des salariés des professions agricoles](partie-legislative/livre-vii/titre-v/chapitre-ier.md) (45 articles)
+      - [Chapitre II : Assurance contre les accidents du travail et les maladies professionnelles des non-salariés agricoles et des personnes mentionnées à l'article L. 731-23](partie-legislative/livre-vii/titre-v/chapitre-ii.md) (33 articles)
+      - [Chapitre III : Accidents du travail intervenus avant le 1er juillet 1973](partie-legislative/livre-vii/titre-v/chapitre-iii.md) (21 articles)
+    - **Titre VI : Dispositions spéciales**
+      - [Chapitre Ier : Départements du Haut-Rhin, du Bas-Rhin et de la Moselle](partie-legislative/livre-vii/titre-vi/chapitre-ier.md) (26 articles)
+      - [Chapitre II : Salariés et non-salariés des professions agricoles résidant à l'étranger](partie-legislative/livre-vii/titre-vi/chapitre-ii.md) (5 articles)
+    - [Titre VII : Organismes d'assurance et de réassurance mutuelles agricoles.](partie-legislative/livre-vii/titre-vii.md) (4 articles)
+    - **Titre VIII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Barthélemy et Saint-Martin](partie-legislative/livre-vii/titre-viii/chapitre-ier.md) (45 articles)
+      - [Chapitre II : Saint-Pierre-et-Miquelon](partie-legislative/livre-vii/titre-viii/chapitre-ii.md) (2 articles)
+      - [Chapitre III : Wallis-et-Futuna, Polynésie française, Nouvelle-Calédonie](partie-legislative/livre-vii/titre-viii/chapitre-iii.md) (1 article)
+  - **Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique**
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique : articles rattachés directement](partie-legislative/livre-viii/articles-directs.md) (1 article)
+    - **Titre Ier : Enseignement et formation professionnelle agricoles**
+      - [Titre Ier : Enseignement et formation professionnelle agricoles : articles rattachés directement](partie-legislative/livre-viii/titre-ier/articles-directs.md) (3 articles)
+      - [Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle publics aux métiers de l'agriculture, de la forêt, de la nature et des territoires](partie-legislative/livre-viii/titre-ier/chapitre-ier.md) (15 articles)
+      - [Chapitre II : Dispositions propres à l'enseignement supérieur agricole et vétérinaire public.](partie-legislative/livre-viii/titre-ier/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat](partie-legislative/livre-viii/titre-ier/chapitre-iii.md) (15 articles)
+      - [Chapitre IV : Conseils de l'enseignement agricole.](partie-legislative/livre-viii/titre-ier/chapitre-iv.md) (5 articles)
+      - [Chapitre V : Dispositions particulières](partie-legislative/livre-viii/titre-ier/chapitre-v.md) (4 articles)
+    - [Titre II : Développement agricole.](partie-legislative/livre-viii/titre-ii.md) (3 articles)
+    - [Titre III : Recherche agronomique et vétérinaire.](partie-legislative/livre-viii/titre-iii.md) (1 article)
+    - **Titre IV : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-viii/titre-iv/chapitre-ier.md) (6 articles)
+      - [Chapitre III : Wallis-et-Futuna](partie-legislative/livre-viii/titre-iv/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Polynésie française](partie-legislative/livre-viii/titre-iv/chapitre-iv.md) (1 article)
+      - [Chapitre V : Nouvelle-Calédonie](partie-legislative/livre-viii/titre-iv/chapitre-v.md) (1 article)
+  - **Livre IX : Pêche maritime et aquaculture marine**
+    - **Titre Ier : Dispositions communes**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ix/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Organisations professionnelles](partie-legislative/livre-ix/titre-ier/chapitre-ii.md) (20 articles)
+      - [Chapitre III : Système d'information](partie-legislative/livre-ix/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Instances consultatives et participation du public](partie-legislative/livre-ix/titre-ier/chapitre-iv.md) (1 article)
+    - **Titre II : Conservation et gestion des ressources halieutiques**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ix/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Mesures techniques relatives à la pêche maritime](partie-legislative/livre-ix/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Aquaculture marine](partie-legislative/livre-ix/titre-ii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Zones de conservation halieutiques](partie-legislative/livre-ix/titre-ii/chapitre-iv.md) (6 articles)
+    - **Titre III : Entreprises et commercialisation des produits de la mer**
+      - [Chapitre Ier : Entreprises de la pêche maritime et de l'aquaculture marine](partie-legislative/livre-ix/titre-iii/chapitre-ier.md) (31 articles)
+      - [Chapitre II : Commercialisation, transbordement, débarquement et transformation des produits de la mer](partie-legislative/livre-ix/titre-iii/chapitre-ii.md) (6 articles)
+    - **Titre IV : Contrôles et sanctions**
+      - [Chapitre Ier : Contrôles de police administrative](partie-legislative/livre-ix/titre-iv/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Recherche et constatation des infractions](partie-legislative/livre-ix/titre-iv/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Mesures conservatoires](partie-legislative/livre-ix/titre-iv/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Poursuites judiciaires](partie-legislative/livre-ix/titre-iv/chapitre-iv.md) (4 articles)
+      - [Chapitre V : Sanctions pénales](partie-legislative/livre-ix/titre-iv/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Sanctions administratives](partie-legislative/livre-ix/titre-iv/chapitre-vi.md) (8 articles)
+    - **Titre V : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier A : Objectifs de la politique des pêches maritimes et de l'aquaculture dans les outre-mer](partie-legislative/livre-ix/titre-v/chapitre-ier-a.md) (1 article)
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-legislative/livre-ix/titre-v/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-legislative/livre-ix/titre-v/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Saint-Martin](partie-legislative/livre-ix/titre-v/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-legislative/livre-ix/titre-v/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-legislative/livre-ix/titre-v/chapitre-v.md) (4 articles)
+      - [Chapitre VI : Polynésie française](partie-legislative/livre-ix/titre-v/chapitre-vi.md) (4 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-legislative/livre-ix/titre-v/chapitre-vii.md) (4 articles)
+      - [Chapitre VIII : Terres australes et antarctiques françaises et île de Clipperton](partie-legislative/livre-ix/titre-v/chapitre-viii.md) (15 articles)
+- **Partie réglementaire**
+  - **Livre Ier : Aménagement et équipement de l'espace rural**
+    - **Titre Ier : Développement et aménagement de l'espace rural**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ier/titre-ier/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Aménagement rural](partie-reglementaire/livre-ier/titre-ier/chapitre-ii.md) (75 articles)
+      - [Chapitre III : Agriculture de montagne et de certaines zones défavorisées](partie-reglementaire/livre-ier/titre-ier/chapitre-iii.md) (31 articles)
+      - [Chapitre IV : L'agriculture de certaines zones soumises à des contraintes environnementales](partie-reglementaire/livre-ier/titre-ier/chapitre-iv.md) (17 articles)
+    - **Titre II : Aménagement foncier rural**
+      - [Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier](partie-reglementaire/livre-ier/titre-ii/chapitre-ier.md) (38 articles)
+      - [Chapitre III : L'aménagement foncier agricole et forestier](partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md) (41 articles)
+      - [Chapitre IV : Les échanges et cessions amiables d'immeubles ruraux](partie-reglementaire/livre-ier/titre-ii/chapitre-iv.md) (23 articles)
+      - [Chapitre V : Mise en valeur des terres incultes ou manifestement sous-exploitées](partie-reglementaire/livre-ier/titre-ii/chapitre-v.md) (14 articles)
+      - [Chapitre VI : Aménagement agricole et forestier](partie-reglementaire/livre-ier/titre-ii/chapitre-vi.md) (25 articles)
+      - [Chapitre VII : Dispositions diverses et communes](partie-reglementaire/livre-ier/titre-ii/chapitre-vii.md) (13 articles)
+      - [Chapitre VIII : Dispositions particulières à certaines collectivités territoriales](partie-reglementaire/livre-ier/titre-ii/chapitre-viii.md) (5 articles)
+    - **Titre III : Associations foncières**
+      - [Chapitre Ier : Dispositions communes](partie-reglementaire/livre-ier/titre-iii/chapitre-ier.md) (1 article)
+      - [Chapitre III : Les associations foncières d'aménagement foncier agricole et forestier](partie-reglementaire/livre-ier/titre-iii/chapitre-iii.md) (14 articles)
+      - [Chapitre V : Associations foncières pastorales](partie-reglementaire/livre-ier/titre-iii/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Associations foncières agricoles](partie-reglementaire/livre-ier/titre-iii/chapitre-vi.md) (12 articles)
+    - **Titre IV : Sociétés d'aménagement foncier et d'établissement rural**
+      - [Chapitre Ier : Missions et fonctionnement](partie-reglementaire/livre-ier/titre-iv/chapitre-ier.md) (19 articles)
+      - [Chapitre II : Opérations immobilières](partie-reglementaire/livre-ier/titre-iv/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Droit de préemption](partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md) (21 articles)
+    - **Titre V : Equipements et travaux de mise en valeur**
+      - [Chapitre Ier : Travaux ou ouvrages](partie-reglementaire/livre-ier/titre-v/chapitre-ier.md) (38 articles)
+      - [Chapitre II : Servitudes](partie-reglementaire/livre-ier/titre-v/chapitre-ii.md) (33 articles)
+    - **Titre VI : Chemins ruraux et chemins d'exploitation**
+      - [Chapitre Ier : Chemins ruraux](partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md) (33 articles)
+      - [Chapitre II : Chemins et sentiers d'exploitation](partie-reglementaire/livre-ier/titre-vi/chapitre-ii.md) (1 article)
+    - **Titre VII : Les experts fonciers et agricoles et les experts forestiers**
+      - [Chapitre I : Le Conseil national de l'expertise foncière, agricole et forestière](partie-reglementaire/livre-ier/titre-vii/chapitre-i.md) (36 articles)
+      - [Chapitre II : Devoirs professionnels des experts fonciers et agricoles et des experts forestiers](partie-reglementaire/livre-ier/titre-vii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Les sociétés d'exercice en commun des professions d'expert foncier et agricole et d'expert forestier](partie-reglementaire/livre-ier/titre-vii/chapitre-iii.md) (63 articles)
+      - [Chapitre IV : Les sociétés de participations financières de profession libérale](partie-reglementaire/livre-ier/titre-vii/chapitre-iv.md) (13 articles)
+    - **Titre VIII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-ier/titre-viii/chapitre-ier.md) (49 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-ier/titre-viii/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-ier/titre-viii/chapitre-iii.md) (23 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ier/titre-viii/chapitre-iv.md) (9 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-ier/titre-viii/chapitre-v.md) (1 article)
+  - **Livre II : Alimentation, santé publique, vétérinaire et protection des végétaux**
+    - **Titre préliminaire : Dispositions communes**
+      - [Titre préliminaire : Dispositions communes : articles rattachés directement](partie-reglementaire/livre-ii/titre-preliminaire/articles-directs.md) (1 article)
+      - [Chapitre préliminaire : Comités consultatifs d'orientation de la politique sanitaire animale et végétale](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-preliminaire.md) (5 articles)
+      - [Chapitre Ier : Dispositions générales relatives à la prévention, à la surveillance et à la lutte contre les dangers sanitaires concernant les animaux et les végétaux](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-ier.md) (41 articles)
+      - [Chapitre II : Laboratoires et réactifs](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-ii.md) (52 articles)
+      - [Chapitre III : Vétérinaires sanitaires et vétérinaires mandatés](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-iii.md) (26 articles)
+      - [Chapitre IV : Libre prestation de services et liberté d'établissement](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-iv.md) (7 articles)
+      - [Chapitre V : Dispositions pénales](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-v.md) (10 articles)
+      - [Chapitre VI : Dispositions relatives aux pouvoirs de police administrative](partie-reglementaire/livre-ii/titre-preliminaire/chapitre-vi.md) (6 articles)
+    - **Titre Ier : La garde et la circulation des animaux et des produits animaux**
+      - [Chapitre préliminaire : Inspections et contrôles](partie-reglementaire/livre-ii/titre-ier/chapitre-preliminaire.md) (1 article)
+      - [Chapitre Ier : La garde des animaux domestiques et sauvages apprivoisés ou tenus en captivité](partie-reglementaire/livre-ii/titre-ier/chapitre-ier.md) (43 articles)
+      - [Chapitre II : La traçabilité des animaux](partie-reglementaire/livre-ii/titre-ier/chapitre-ii.md) (44 articles)
+      - [Chapitre III : Les cessions d'animaux et de produits animaux](partie-reglementaire/livre-ii/titre-ier/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : La protection des animaux](partie-reglementaire/livre-ii/titre-ier/chapitre-iv.md) (148 articles)
+      - [Chapitre V : Dispositions pénales](partie-reglementaire/livre-ii/titre-ier/chapitre-v.md) (19 articles)
+    - **Titre II : Mesures de prévention, de surveillance et de lutte contre les maladies animales réglementées**
+      - [Chapitre préliminaire : Inspections et contrôles](partie-reglementaire/livre-ii/titre-ii/chapitre-preliminaire.md) (1 article)
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Agrément et obligations des opérateurs détenant des animaux ou exerçant des activités de reproduction animale](partie-reglementaire/livre-ii/titre-ii/chapitre-ii.md) (13 articles)
+      - [Chapitre III : La police sanitaire](partie-reglementaire/livre-ii/titre-ii/chapitre-iii.md) (20 articles)
+      - [Chapitre IV : Mesures particulières de prévention, de surveillance et de lutte](partie-reglementaire/livre-ii/titre-ii/chapitre-iv.md) (7 articles)
+      - [Chapitre VI : Des sous-produits animaux](partie-reglementaire/livre-ii/titre-ii/chapitre-vi.md) (12 articles)
+      - [Chapitre VII : Pharmacie vétérinaire et réactifs](partie-reglementaire/livre-ii/titre-ii/chapitre-vii.md) (1 article)
+      - [Chapitre VIII : Dispositions pénales](partie-reglementaire/livre-ii/titre-ii/chapitre-viii.md) (10 articles)
+    - **Titre III : Qualité nutritionnelle et sécurité sanitaire des aliments**
+      - [Chapitre préliminaire : La politique publique de l'alimentation](partie-reglementaire/livre-ii/titre-iii/chapitre-preliminaire.md) (32 articles)
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ii/titre-iii/chapitre-ier.md) (54 articles)
+      - [Chapitre II : Dispositions relatives aux produits](partie-reglementaire/livre-ii/titre-iii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Dispositions relatives aux établissements](partie-reglementaire/livre-ii/titre-iii/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : Dispositions relatives aux élevages](partie-reglementaire/livre-ii/titre-iii/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Dispositions relatives à l'alimentation animale](partie-reglementaire/livre-ii/titre-iii/chapitre-v.md) (3 articles)
+      - [Chapitre VI : Les importations, échanges intracommunautaires et exportations](partie-reglementaire/livre-ii/titre-iii/chapitre-vi.md) (11 articles)
+      - [Chapitre VII : Dispositions pénales](partie-reglementaire/livre-ii/titre-iii/chapitre-vii.md) (9 articles)
+    - **Titre IV : L'exercice de la profession de vétérinaire**
+      - [Chapitre Ier : L'exercice de la profession](partie-reglementaire/livre-ii/titre-iv/chapitre-ier.md) (87 articles)
+      - [Chapitre Ier bis : Sociétés de participations financières de profession libérale de vétérinaires](partie-reglementaire/livre-ii/titre-iv/chapitre-ier-bis.md) (11 articles)
+      - [Chapitre II : L'ordre des vétérinaires](partie-reglementaire/livre-ii/titre-iv/chapitre-ii.md) (134 articles)
+      - [Chapitre III : Réalisation de certains actes de médecine et de chirurgie des animaux par des personnes n'ayant pas la qualité de vétérinaire](partie-reglementaire/livre-ii/titre-iv/chapitre-iii.md) (34 articles)
+    - **Titre V : La protection des végétaux**
+      - [Chapitre préliminaire : Inspections et contrôles](partie-reglementaire/livre-ii/titre-v/chapitre-preliminaire.md) (2 articles)
+      - [Chapitre Ier : La surveillance biologique du territoire](partie-reglementaire/livre-ii/titre-v/chapitre-ier.md) (31 articles)
+      - [Chapitre III : Mise sur le marché et utilisation des produits phytopharmaceutiques](partie-reglementaire/livre-ii/titre-v/chapitre-iii.md) (91 articles)
+      - [Chapitre IV : La mise en vente, la vente, la distribution à titre gratuit, l'application et le conseil à l'utilisation des produits phytopharmaceutiques](partie-reglementaire/livre-ii/titre-v/chapitre-iv.md) (52 articles)
+      - [Chapitre V : Mise sur le marché et utilisation des matières fertilisantes, des adjuvants pour matières fertilisantes et des supports de culture](partie-reglementaire/livre-ii/titre-v/chapitre-v.md) (38 articles)
+      - [Chapitre VI : Règles relatives aux matériels destinés à l'application de produits phytopharmaceutiques](partie-reglementaire/livre-ii/titre-v/chapitre-vi.md) (24 articles)
+      - [Chapitre VII : Le contrôle de la production primaire des denrées alimentaires et des produits destinés à l'alimentation animale ou des aliments pour animaux d'origine végétale](partie-reglementaire/livre-ii/titre-v/chapitre-vii.md) (6 articles)
+      - [Chapitre VIII : Macro-organismes non indigènes utiles aux végétaux, notamment dans le cadre de la lutte biologique](partie-reglementaire/livre-ii/titre-v/chapitre-viii.md) (10 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-ii/titre-vii/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-ii/titre-vii/chapitre-ii.md) (13 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-ii/titre-vii/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ii/titre-vii/chapitre-iv.md) (40 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-ii/titre-vii/chapitre-v.md) (1 article)
+  - **Livre III : Exploitation agricole**
+    - **Titre Ier : Dispositions générales**
+      - [Chapitre Ier : Activités agricoles](partie-reglementaire/livre-iii/titre-ier/chapitre-ier.md) (21 articles)
+      - [Chapitre II : Schéma directeur régional des exploitations agricoles](partie-reglementaire/livre-iii/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Instruments](partie-reglementaire/livre-iii/titre-ier/chapitre-iii.md) (43 articles)
+      - [Chapitre V : Groupements d'intérêt économique et environnemental](partie-reglementaire/livre-iii/titre-ier/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Conseil stratégique global](partie-reglementaire/livre-iii/titre-ier/chapitre-vi.md) (1 article)
+    - **Titre II : Différentes formes juridiques de l'exploitation agricole**
+      - [Chapitre Ier : Exploitation familiale à responsabilité personnelle](partie-reglementaire/livre-iii/titre-ii/chapitre-ier.md) (8 articles)
+      - [Chapitre II : Groupements fonciers agricoles](partie-reglementaire/livre-iii/titre-ii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Groupements agricoles d'exploitation en commun](partie-reglementaire/livre-iii/titre-ii/chapitre-iii.md) (46 articles)
+      - [Chapitre IV : Exploitation agricole à responsabilité limitée](partie-reglementaire/livre-iii/titre-ii/chapitre-iv.md) (3 articles)
+      - [Chapitre VI : Contrats d'intégration](partie-reglementaire/livre-iii/titre-ii/chapitre-vi.md) (10 articles)
+    - **Titre III : La politique d'installation et de transmission et le contrôle des structures et de la production**
+      - [Chapitre préliminaire : Politique d'installation et de transmission en agriculture](partie-reglementaire/livre-iii/titre-iii/chapitre-preliminaire.md) (17 articles)
+      - [Chapitre Ier : Contrôle des structures des exploitations agricoles](partie-reglementaire/livre-iii/titre-iii/chapitre-ier.md) (18 articles)
+      - [Chapitre III : Contrôle des sociétés possédant ou exploitant du foncier agricole](partie-reglementaire/livre-iii/titre-iii/chapitre-iii.md) (16 articles)
+      - [Chapitre IV : Exploitants agricoles étrangers](partie-reglementaire/livre-iii/titre-iii/chapitre-iv.md) (6 articles)
+    - **Titre IV : Financement des exploitations agricoles**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-iii/titre-iv/chapitre-ier.md) (24 articles)
+      - [Chapitre II : Warrants agricoles](partie-reglementaire/livre-iii/titre-iv/chapitre-ii.md) (7 articles)
+      - [Chapitre III : Aides à l'installation et à la constitution de groupements ou sociétés](partie-reglementaire/livre-iii/titre-iv/chapitre-iii.md) (45 articles)
+      - [Chapitre IV : Prêts bonifiés à l'investissement](partie-reglementaire/livre-iii/titre-iv/chapitre-iv.md) (28 articles)
+      - [Chapitre V : Aides à la réalisation d'opérations foncières](partie-reglementaire/livre-iii/titre-iv/chapitre-v.md) (11 articles)
+      - [Chapitre VI : Aides à l'habitat rural](partie-reglementaire/livre-iii/titre-iv/chapitre-vi.md) (14 articles)
+      - [Chapitre VII : Aides aux investissements de production](partie-reglementaire/livre-iii/titre-iv/chapitre-vii.md) (12 articles)
+    - **Titre V : Exploitations agricoles en difficulté**
+      - [Chapitre Ier : Règlement amiable et procédures instituées par les titres II, III et IV du livre VI du code de commerce](partie-reglementaire/livre-iii/titre-v/chapitre-ier.md) (21 articles)
+      - [Chapitre II : Aides à la reconversion ou à la réinstallation](partie-reglementaire/livre-iii/titre-v/chapitre-ii.md) (23 articles)
+      - [Chapitre III : Congé de formation des exploitants agricoles](partie-reglementaire/livre-iii/titre-v/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Les aides au redressement de l'exploitation](partie-reglementaire/livre-iii/titre-v/chapitre-iv.md) (17 articles)
+    - **Titre VI : Gestion des risques en agriculture**
+      - [Chapitre Ier : Organisation de la gestion des risques en agriculture](partie-reglementaire/livre-iii/titre-vi/chapitre-ier.md) (99 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-iii/titre-vii/chapitre-ier.md) (22 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-iii/titre-vii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-iii/titre-vii/chapitre-iii.md) (9 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-iii/titre-vii/chapitre-iv.md) (15 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-iii/titre-vii/chapitre-v.md) (2 articles)
+  - **Livre IV : Baux ruraux**
+    - **Titre Ier : Statut du fermage et du métayage**
+      - [Chapitre Ier : Régime de droit commun](partie-reglementaire/livre-iv/titre-ier/chapitre-ier.md) (42 articles)
+      - [Chapitre IV : Commissions consultatives paritaires des baux ruraux](partie-reglementaire/livre-iv/titre-ier/chapitre-iv.md) (6 articles)
+      - [Chapitre V : Dispositions diverses et d'application.](partie-reglementaire/livre-iv/titre-ier/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Dispositions particulières au baux à long terme.](partie-reglementaire/livre-iv/titre-ier/chapitre-vi.md) (2 articles)
+      - [Chapitre VII : Dispositions particulières aux baux à métayage](partie-reglementaire/livre-iv/titre-ier/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Dispositions particulières aux baux cessibles hors du cadre familial](partie-reglementaire/livre-iv/titre-ier/chapitre-viii.md) (1 article)
+    - [Titre III : Bail à domaine congéable](partie-reglementaire/livre-iv/titre-iii.md) (1 article)
+    - [Titre IV : Bail à complant](partie-reglementaire/livre-iv/titre-iv.md) (3 articles)
+    - **Titre VI : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon](partie-reglementaire/livre-iv/titre-vi/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-iv/titre-vi/chapitre-ii.md) (1 article)
+    - [Titre VIII : Contrats d'exploitation de terres à vocation pastorale](partie-reglementaire/livre-iv/titre-viii.md) (1 article)
+    - **Titre IX : Du tribunal paritaire des baux ruraux**
+      - [Chapitre Ier : Institution et compétence](partie-reglementaire/livre-iv/titre-ix/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Composition du tribunal](partie-reglementaire/livre-iv/titre-ix/chapitre-ii.md) (7 articles)
+  - **Livre V : Organismes professionnels agricoles**
+    - **Titre Ier : Du réseau des chambres d'agriculture**
+      - [Chapitre Ier : Chambres départementales et interdépartementales](partie-reglementaire/livre-v/titre-ier/chapitre-ier.md) (127 articles)
+      - [Chapitre II : Chambres régionales, interrégionales et de région](partie-reglementaire/livre-v/titre-ier/chapitre-ii.md) (45 articles)
+      - [Chapitre III : Chambres d'agriculture France](partie-reglementaire/livre-v/titre-ier/chapitre-iii.md) (39 articles)
+      - [Chapitre IV : Dispositions communes](partie-reglementaire/livre-v/titre-ier/chapitre-iv.md) (32 articles)
+    - **Titre II : Sociétés coopératives agricoles**
+      - [Chapitre Ier : Dispositions générales, constitution](partie-reglementaire/livre-v/titre-ii/chapitre-ier.md) (9 articles)
+      - [Chapitre II : Associés, tiers non coopérateurs](partie-reglementaire/livre-v/titre-ii/chapitre-ii.md) (10 articles)
+      - [Chapitre III : Capital social et dispositions financières](partie-reglementaire/livre-v/titre-ii/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Administration](partie-reglementaire/livre-v/titre-ii/chapitre-iv.md) (45 articles)
+      - [Chapitre V : Agrément, contrôle](partie-reglementaire/livre-v/titre-ii/chapitre-v.md) (10 articles)
+      - [Chapitre VI : Dissolution, liquidation, fusion, scission et apport partiel d'actifs.](partie-reglementaire/livre-v/titre-ii/chapitre-vi.md) (11 articles)
+      - [Chapitre VII : Fédérations de coopératives et association nationale de révision, sociétés coopératives de caution mutuelle](partie-reglementaire/livre-v/titre-ii/chapitre-vii.md) (13 articles)
+      - [Chapitre VIII : Autorités compétentes en matière de coopération agricole](partie-reglementaire/livre-v/titre-ii/chapitre-viii.md) (17 articles)
+      - [Chapitre IX : Dispositions pénales, dispositions d'application.](partie-reglementaire/livre-v/titre-ii/chapitre-ix.md) (2 articles)
+    - **Titre III : Sociétés d'intérêt collectif agricole**
+      - [Chapitre Ier : Constitution.](partie-reglementaire/livre-v/titre-iii/chapitre-ier.md) (5 articles)
+      - [Chapitre II : Fonctionnement.](partie-reglementaire/livre-v/titre-iii/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Dispositions financières.](partie-reglementaire/livre-v/titre-iii/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Transformation, dissolution, liquidation.](partie-reglementaire/livre-v/titre-iii/chapitre-iv.md) (2 articles)
+      - [Chapitre V : Dispositions pénales.](partie-reglementaire/livre-v/titre-iii/chapitre-v.md) (1 article)
+    - [Titre IV : Sociétés mixtes d'intérêt agricole](partie-reglementaire/livre-v/titre-iv.md) (1 article)
+    - **Titre V : Organisations de producteurs, associations d'organisations de producteurs et groupements de producteurs**
+      - [Chapitre Ier : Organisations de producteurs et associations d'organisations de producteurs reconnues dans les secteurs couverts par l'organisation commune des marchés des produits agricoles](partie-reglementaire/livre-v/titre-v/chapitre-ier.md) (89 articles)
+      - [Chapitre II : Organisations de producteurs et associations d'organisations de producteurs reconnues dans les secteurs non couverts par l'organisation commune des marchés des produits agricoles](partie-reglementaire/livre-v/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Dispositions communes](partie-reglementaire/livre-v/titre-v/chapitre-iii.md) (5 articles)
+      - [Chapitre IV : Extension des règles édictées par les comités économiques agricoles](partie-reglementaire/livre-v/titre-v/chapitre-iv.md) (29 articles)
+      - [Chapitre VI : Pénalités](partie-reglementaire/livre-v/titre-v/chapitre-vi.md) (1 article)
+    - **Titre VI : Jardins familiaux**
+      - [Chapitre II : Préemption de terrains destinés à la création ou à l'aménagement de jardins familiaux](partie-reglementaire/livre-v/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Rétablissement de jardins familiaux ayant fait l'objet d'une expropriation ou d'une cession amiable en vertu d'une déclaration d'utilité publique](partie-reglementaire/livre-v/titre-vi/chapitre-iii.md) (2 articles)
+      - [Chapitre IV : Avantages divers et subventions](partie-reglementaire/livre-v/titre-vi/chapitre-iv.md) (3 articles)
+    - **Titre VII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-v/titre-vii/chapitre-ier.md) (50 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-v/titre-vii/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-v/titre-vii/chapitre-iii.md) (4 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-v/titre-vii/chapitre-iv.md) (3 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-v/titre-vii/chapitre-v.md) (1 article)
+    - **Titre VIII : Dispositions applicables à la Nouvelle-Calédonie**
+      - [Chapitre II : Sociétés coopératives agricoles](partie-reglementaire/livre-v/titre-viii/chapitre-ii.md) (45 articles)
+      - [Chapitre III : Sociétés d'intérêt collectif agricole](partie-reglementaire/livre-v/titre-viii/chapitre-iii.md) (23 articles)
+  - **Livre VI : Production et marchés**
+    - **Titre Ier : Dispositions générales**
+      - [Chapitre Ier : Organisation générale de la production et des marchés](partie-reglementaire/livre-vi/titre-ier/chapitre-ier.md) (27 articles)
+      - [Chapitre II : Assistance en matière de recouvrement international](partie-reglementaire/livre-vi/titre-ier/chapitre-ii.md) (14 articles)
+      - [Chapitre III : Echanges d'information entre autorités administratives](partie-reglementaire/livre-vi/titre-ier/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Aides de la politique agricole commune pour la programmation débutant en 2023](partie-reglementaire/livre-vi/titre-ier/chapitre-iv.md) (136 articles)
+      - [Chapitre V : Aides de la politique agricole commune pour la programmation ayant débuté en 2014](partie-reglementaire/livre-vi/titre-ier/chapitre-v.md) (60 articles)
+      - [Chapitre VI : Prévention et gestion des situations de crise conjoncturelle.](partie-reglementaire/livre-vi/titre-ier/chapitre-vi.md) (7 articles)
+      - [Chapitre VII : Certification environnementale des exploitations agricoles](partie-reglementaire/livre-vi/titre-ier/chapitre-vii.md) (32 articles)
+    - **Titre II : Les organismes d'intervention**
+      - [Chapitre Ier : L'Etablissement national des produits de l'agriculture et de la mer(FranceAgriMer).](partie-reglementaire/livre-vi/titre-ii/chapitre-ier.md) (69 articles)
+      - [Chapitre II : Coordination et contrôle.](partie-reglementaire/livre-vi/titre-ii/chapitre-ii.md) (7 articles)
+    - **Titre III : Les accords interprofessionnels agricoles**
+      - [Chapitre Ier : Le régime contractuel en agriculture](partie-reglementaire/livre-vi/titre-iii/chapitre-ier.md) (50 articles)
+      - [Chapitre II : Les organisations interprofessionnelles agricoles](partie-reglementaire/livre-vi/titre-iii/chapitre-ii.md) (22 articles)
+    - **Titre IV : La valorisation des produits agricoles, forestiers ou alimentaires et des produits de la mer**
+      - [Chapitre Ier : Les modes de valorisation de la qualité et de l'origine](partie-reglementaire/livre-vi/titre-iv/chapitre-ier.md) (66 articles)
+      - [Chapitre II : Reconnaissance et contrôle des signes d'identification de la qualité et de l'origine](partie-reglementaire/livre-vi/titre-iv/chapitre-ii.md) (63 articles)
+      - [Chapitre III : Protection des signes d'identification de la qualité et de l'origine](partie-reglementaire/livre-vi/titre-iv/chapitre-iii.md) (3 articles)
+      - [Chapitre IV : Dispositions particulières appellations d'origine.](partie-reglementaire/livre-vi/titre-iv/chapitre-iv.md) (18 articles)
+      - [Chapitre V : Dispositions particulières relatives aux conditions de production pour le secteur des vins, eaux-de-vie et autres boissons alcoolisées bénéficiant d'une appellation d'origine.](partie-reglementaire/livre-vi/titre-iv/chapitre-v.md) (33 articles)
+      - [Chapitre VI : Dispositions particulières relatives aux vins bénéficiant d'une indication géographique protégée](partie-reglementaire/livre-vi/titre-iv/chapitre-vi.md) (19 articles)
+      - [Chapitre VII : Dispositions particulières relatives à l'écolabel des produits de la pêche maritime](partie-reglementaire/livre-vi/titre-iv/chapitre-vii.md) (21 articles)
+    - **Titre V : Les productions animales**
+      - [Chapitre Ier : La vaine pâture.](partie-reglementaire/livre-vi/titre-v/chapitre-ier.md) (1 article)
+      - [Chapitre III : Reproduction, amélioration et préservation du patrimoine génétique des animaux d'élevage](partie-reglementaire/livre-vi/titre-v/chapitre-iii.md) (92 articles)
+      - [Chapitre IV : Les animaux et les viandes](partie-reglementaire/livre-vi/titre-v/chapitre-iv.md) (61 articles)
+    - **Titre VI : Les productions végétales**
+      - [Chapitre préliminaire : La conservation des ressources phytogénétiques pour l'agriculture et l'alimentation](partie-reglementaire/livre-vi/titre-vi/chapitre-preliminaire.md) (6 articles)
+      - [Chapitre Ier : Les productions de semences et de plants](partie-reglementaire/livre-vi/titre-vi/chapitre-ier.md) (82 articles)
+      - [Chapitre II : Les obtentions végétales.](partie-reglementaire/livre-vi/titre-vi/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Les plantes génétiquement modifiées.](partie-reglementaire/livre-vi/titre-vi/chapitre-iii.md) (6 articles)
+      - [Chapitre IV : Les fruits, les légumes et l'horticulture.](partie-reglementaire/livre-vi/titre-vi/chapitre-iv.md) (22 articles)
+      - [Chapitre V : Les produits de la vigne](partie-reglementaire/livre-vi/titre-vi/chapitre-v.md) (52 articles)
+      - [Chapitre VI : Dispositions relatives aux céréales.](partie-reglementaire/livre-vi/titre-vi/chapitre-vi.md) (35 articles)
+      - [Chapitre VII : Les oléagineux et les protéagineux](partie-reglementaire/livre-vi/titre-vi/chapitre-vii.md) (15 articles)
+      - [Chapitre VIII : Intervention dans le secteur de l'huile d'olive et des olives de table](partie-reglementaire/livre-vi/titre-vi/chapitre-viii.md) (3 articles)
+      - [Chapitre IX : Le houblon et les produits du houblon](partie-reglementaire/livre-vi/titre-vi/chapitre-ix.md) (1 article)
+    - [Titre VII : Dispositions pénales](partie-reglementaire/livre-vi/titre-vii.md) (14 articles)
+    - **Titre VIII : Observatoires**
+      - [Chapitre II : Observatoire de la formation des prix et des marges des produits alimentaires](partie-reglementaire/livre-vi/titre-viii/chapitre-ii.md) (4 articles)
+    - **Titre IX : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-vi/titre-ix/chapitre-ier.md) (38 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-vi/titre-ix/chapitre-ii.md) (8 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-vi/titre-ix/chapitre-iii.md) (30 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-vi/titre-ix/chapitre-iv.md) (10 articles)
+      - [Chapitre V : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-vi/titre-ix/chapitre-v.md) (7 articles)
+      - [Chapitre VI : Office de développement de l'économie agricole d'outre-mer](partie-reglementaire/livre-vi/titre-ix/chapitre-vi.md) (13 articles)
+  - **Livre VII : Dispositions sociales**
+    - **Titre Ier : Réglementation du travail salarié**
+      - [Chapitre II : Titre emploi simplifié agricole](partie-reglementaire/livre-vii/titre-ier/chapitre-ii.md) (11 articles)
+      - [Chapitre II bis : Titre emploi-service agricole](partie-reglementaire/livre-vii/titre-ier/chapitre-ii-bis.md) (9 articles)
+      - [Chapitre III : Durée du travail](partie-reglementaire/livre-vii/titre-ier/chapitre-iii.md) (29 articles)
+      - [Chapitre IV : Repos hebdomadaire et quotidien](partie-reglementaire/livre-vii/titre-ier/chapitre-iv.md) (15 articles)
+      - [Chapitre V : Dispositions relatives aux jeunes travailleurs.](partie-reglementaire/livre-vii/titre-ier/chapitre-v.md) (9 articles)
+      - [Chapitre VI : Hébergement des salariés et participation des employeurs agricoles à l'effort de construction](partie-reglementaire/livre-vii/titre-ier/chapitre-vi.md) (36 articles)
+      - [Chapitre VII : Santé et sécurité au travail](partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md) (249 articles)
+      - [Chapitre VIII : Dispositions diverses](partie-reglementaire/livre-vii/titre-ier/chapitre-viii.md) (18 articles)
+      - [Chapitre IX : Contrôle et dispositions pénales](partie-reglementaire/livre-vii/titre-ier/chapitre-ix.md) (13 articles)
+    - **Titre II : Organisation générale des régimes de protection sociale des professions agricoles**
+      - [Chapitre Ier : Généralités](partie-reglementaire/livre-vii/titre-ii/chapitre-ier.md) (11 articles)
+      - [Chapitre II : Champ d'application](partie-reglementaire/livre-vii/titre-ii/chapitre-ii.md) (35 articles)
+      - [Chapitre III : Organismes de protection sociale des professions agricoles](partie-reglementaire/livre-vii/titre-ii/chapitre-iii.md) (266 articles)
+      - [Chapitre IV : Contrôles](partie-reglementaire/livre-vii/titre-ii/chapitre-iv.md) (21 articles)
+      - [Chapitre V : Recouvrement des cotisations et créances](partie-reglementaire/livre-vii/titre-ii/chapitre-v.md) (31 articles)
+      - [Chapitre VI : Action sanitaire et sociale](partie-reglementaire/livre-vii/titre-ii/chapitre-vi.md) (5 articles)
+    - **Titre III : Protection sociale des personnes non salariées des professions agricoles**
+      - [Chapitre Ier : Financement](partie-reglementaire/livre-vii/titre-iii/chapitre-ier.md) (86 articles)
+      - [Chapitre II : Prestations](partie-reglementaire/livre-vii/titre-iii/chapitre-ii.md) (173 articles)
+    - **Titre IV : Protection sociale des personnes salariées des professions agricoles**
+      - [Chapitre Ier : Cotisations et autres financements](partie-reglementaire/livre-vii/titre-iv/chapitre-ier.md) (67 articles)
+      - [Chapitre II : Prestations](partie-reglementaire/livre-vii/titre-iv/chapitre-ii.md) (35 articles)
+    - **Titre V : Accidents du travail et maladies professionnelles**
+      - [Chapitre Ier : Assurance obligatoire des salariés agricoles](partie-reglementaire/livre-vii/titre-v/chapitre-ier.md) (156 articles)
+      - [Chapitre II : Assurance contre les accidents du travail et les maladies professionnelles des non-salariés agricoles et des personnes mentionnées à l'article L731-23](partie-reglementaire/livre-vii/titre-v/chapitre-ii.md) (70 articles)
+      - [Chapitre III : Fonds commun des accidents du travail](partie-reglementaire/livre-vii/titre-v/chapitre-iii.md) (14 articles)
+    - **Titre VI : Dispositions spéciales**
+      - [Chapitre Ier : Départements du Haut-Rhin, du Bas-Rhin et de la Moselle](partie-reglementaire/livre-vii/titre-vi/chapitre-ier.md) (75 articles)
+      - [Chapitre II : Salariés et non-salariés des professions agricoles résidant à l'étranger](partie-reglementaire/livre-vii/titre-vi/chapitre-ii.md) (7 articles)
+    - **Titre VIII : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Barthélemy et Saint-Martin](partie-reglementaire/livre-vii/titre-viii/chapitre-ier.md) (113 articles)
+      - [Chapitre II : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-vii/titre-viii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-vii/titre-viii/chapitre-iii.md) (1 article)
+  - **Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique**
+    - [Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique : articles rattachés directement](partie-reglementaire/livre-viii/articles-directs.md) (6 articles)
+    - **Titre Ier : Enseignement et formation professionnelle agricoles**
+      - [Titre Ier : Enseignement et formation professionnelle agricoles : articles rattachés directement](partie-reglementaire/livre-viii/titre-ier/articles-directs.md) (5 articles)
+      - [Chapitre Ier : Dispositions relatives à l'enseignement et à la formation professionnelle publics aux métiers de l'agriculture, de la forêt, de la nature et des territoires](partie-reglementaire/livre-viii/titre-ier/chapitre-ier.md) (265 articles)
+      - [Chapitre II : Dispositions propres à l'enseignement supérieur agricole et vétérinaire](partie-reglementaire/livre-viii/titre-ier/chapitre-ii.md) (115 articles)
+      - [Chapitre III : Dispositions relatives aux établissements d'enseignement agricole privés sous contrat](partie-reglementaire/livre-viii/titre-ier/chapitre-iii.md) (87 articles)
+      - [Chapitre IV : Conseils de l'enseignement agricole](partie-reglementaire/livre-viii/titre-ier/chapitre-iv.md) (63 articles)
+      - [Chapitre V : Dispositions particulières](partie-reglementaire/livre-viii/titre-ier/chapitre-v.md) (13 articles)
+    - **Titre II : Développement agricole**
+      - [Chapitre Ier : Les instances du développement agricole](partie-reglementaire/livre-viii/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Programmation et financement du développement agricole et rural](partie-reglementaire/livre-viii/titre-ii/chapitre-ii.md) (1 article)
+      - [Chapitre III : Les instituts techniques](partie-reglementaire/livre-viii/titre-ii/chapitre-iii.md) (3 articles)
+    - **Titre III : Recherche agronomique**
+      - [Chapitre unique : Institut national de recherche pour l'agriculture, l'alimentation et l'environnement](partie-reglementaire/livre-viii/titre-iii/chapitre-unique.md) (15 articles)
+    - **Titre IV : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-viii/titre-iv/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon](partie-reglementaire/livre-viii/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III : Wallis-et-Futuna, Polynésie française et Nouvelle-Calédonie](partie-reglementaire/livre-viii/titre-iv/chapitre-iii.md) (13 articles)
+  - **Livre IX : Pêche maritime et aquaculture marine**
+    - **Titre Ier : Dispositions communes**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ix/titre-ier/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Organisations professionnelles](partie-reglementaire/livre-ix/titre-ier/chapitre-ii.md) (155 articles)
+      - [Chapitre III : Système d'information](partie-reglementaire/livre-ix/titre-ier/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Instances consultatives et participation du public](partie-reglementaire/livre-ix/titre-ier/chapitre-iv.md) (13 articles)
+    - **Titre II : Conservation et gestion des ressources halieutiques**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire/livre-ix/titre-ii/chapitre-ier.md) (100 articles)
+      - [Chapitre II : Mesures techniques relatives à la pêche maritime](partie-reglementaire/livre-ix/titre-ii/chapitre-ii.md) (53 articles)
+      - [Chapitre III : Aquaculture marine](partie-reglementaire/livre-ix/titre-ii/chapitre-iii.md) (50 articles)
+      - [Chapitre IV : Zones de conservation halieutiques](partie-reglementaire/livre-ix/titre-ii/chapitre-iv.md) (7 articles)
+    - **Titre III : Entreprises et commercialisation des produits de la mer**
+      - [Chapitre Ier : Entreprises de la pêche maritime et de l'aquaculture marine](partie-reglementaire/livre-ix/titre-iii/chapitre-ier.md) (7 articles)
+      - [Chapitre II : Commercialisation, transbordement, débarquement et transformation des produits de la mer](partie-reglementaire/livre-ix/titre-iii/chapitre-ii.md) (30 articles)
+    - **Titre IV : Contrôles et sanctions**
+      - [Chapitre Ier : Contrôles de police administrative](partie-reglementaire/livre-ix/titre-iv/chapitre-ier.md) (4 articles)
+      - [Chapitre II : Recherche et constatation des infractions](partie-reglementaire/livre-ix/titre-iv/chapitre-ii.md) (9 articles)
+      - [Chapitre III : Mesures conservatoires](partie-reglementaire/livre-ix/titre-iv/chapitre-iii.md) (9 articles)
+      - [Chapitre V : Sanctions pénales](partie-reglementaire/livre-ix/titre-iv/chapitre-v.md) (5 articles)
+      - [Chapitre VI : Sanctions administratives](partie-reglementaire/livre-ix/titre-iv/chapitre-vi.md) (21 articles)
+    - **Titre V : Dispositions relatives à l'outre-mer**
+      - [Chapitre Ier : Guadeloupe, Guyane, Martinique, La Réunion et Mayotte](partie-reglementaire/livre-ix/titre-v/chapitre-ier.md) (16 articles)
+      - [Chapitre II : Saint-Barthélemy](partie-reglementaire/livre-ix/titre-v/chapitre-ii.md) (6 articles)
+      - [Chapitre III : Saint-Martin](partie-reglementaire/livre-ix/titre-v/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : Saint-Pierre-et-Miquelon](partie-reglementaire/livre-ix/titre-v/chapitre-iv.md) (17 articles)
+      - [Chapitre V : Wallis-et-Futuna](partie-reglementaire/livre-ix/titre-v/chapitre-v.md) (4 articles)
+      - [Chapitre VI : Polynésie française](partie-reglementaire/livre-ix/titre-v/chapitre-vi.md) (3 articles)
+      - [Chapitre VII : Nouvelle-Calédonie](partie-reglementaire/livre-ix/titre-v/chapitre-vii.md) (3 articles)
+      - [Chapitre VIII : Terres australes et antarctiques françaises et île de Clipperton](partie-reglementaire/livre-ix/titre-v/chapitre-viii.md) (34 articles)
+- **Annexes**
+  - **Livre II : Santé publique vétérinaire et protection des végétaux**
+    - [Contrat type applicable aux transports publics routiers d'animaux vivants.](annexes/livre-ii/contrat-type-applicable-aux-transports-publics-routiers-d-animaux-vivants.md) (1 article)
+    - [Annexe à la sous-section 1 de la section 2 du chapitre VI du titre III du livre II.](annexes/livre-ii/annexe-a-la-sous-section-1-de-la-section-2-du-chapitre-vi-du-titre-iii-du-livre.md) (2 articles)
+    - [Annexe de l'article R255-1-1](annexes/livre-ii/annexe-de-l-article-r255-1-1.md) (1 article)
+  - **Livre III : Exploitations agricoles**
+    - [Livre III : Exploitations agricoles : articles rattachés directement](annexes/livre-iii/articles-directs.md) (1 article)
+    - [Annexe à l'article D343-18-2](annexes/livre-iii/annexe-a-l-article-d343-18-2.md) (1 article)
+  - **Livre IV**
+    - [Annexe](annexes/livre-iv/annexe.md) (1 article)
+  - **Livre VI : Production et marchés**
+    - [Annexe](annexes/livre-vi/annexe.md) (1 article)
+  - **Livre VII : Dispositions sociales**
+    - [Annexe I : Barème des versements pour la retraite au titre de certaines périodes d'études supérieures.](annexes/livre-vii/annexe-i.md) (1 article)
+    - [Annexe II : Tableaux des maladies professionnelles en agriculture.](annexes/livre-vii/annexe-ii.md) (62 articles)
+    - [Annexe III : Liste des maladies ayant un caractère professionnel dont la déclaration est obligatoire pour tout médecin qui peut en avoir connaissance.](annexes/livre-vii/annexe-iii.md) (1 article)
+    - [Annexe IV : Barème fixant pour le calcul de la retraite proportionnelle le nombre de points acquis annuellement en fonction de la superficie ayant servi d'assiette aux cotisations versées.](annexes/livre-vii/annexe-iv.md) (1 article)
+  - **Livre VIII : Enseignement, formation professionnelle et développement agricoles, recherche agronomique**
+    - [Contrat type de participation au service public d'éducation et de formation des établissements d'enseignement agricole privés à temps plein mentionnés à l'article L. 813-8.](annexes/livre-viii/contrat-type-de-participation-au-service-public-d-education-et-de-formation-des.md) (1 article)
+    - [Contrat type de participation au service public d'éducation et de formation des établissements d'enseignement agricole privés à temps plein mentionnés à l'article L. 813-9.](annexes/livre-viii/contrat-type-de-participation-au-service-public-d-education-et-de-formation-des-2.md) (1 article)
+    - [Contrat type de participation au service public d'éducation et de formation des établissements privés offrant une formation pédagogique mentionnés à l'article L. 813-10 (2°).](annexes/livre-viii/contrat-type-de-participation-au-service-public-d-education-et-de-formation-des-3.md) (1 article)
+    - [Titres, diplômes ou qualités exigés des enseignants et formateurs.](annexes/livre-viii/titres-diplomes-ou-qualites-exiges-des-enseignants-et-formateurs.md) (1 article)
+    - [Nombre de postes de formateur nécessaire par groupe de formation de dix-huit élèves compte tenu de la durée légale du travail, de cinq semaines de congés annuels légaux, des congés de formation et des jours fériés chômés](annexes/livre-viii/nombre-de-postes-de-formateur-necessaire-par-groupe-de-formation-de-dix-huit.md) (1 article)
+  - [Livre IX : Pêche maritime et aquaculture marine](annexes/livre-ix.md) (1 article)

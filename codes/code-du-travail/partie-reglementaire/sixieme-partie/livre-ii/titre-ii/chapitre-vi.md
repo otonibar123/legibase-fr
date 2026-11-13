@@ -37,7 +37,7 @@ Le contrat de mise à disposition de l'apprenti au sein de l'entreprise utilisat
 - Identifiant : LEGIARTI000041771529
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771529
-- Renvoie à : [art. L1251-16 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-16) ; [art. L6222-26 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-26) ; [art. L6225-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-v.md#article-l6225-4) ; [art. L6225-5 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-v.md#article-l6225-5) ; [art. R6226-2 du Code du travail](chapitre-vi.md#article-r6226-2)
+- Renvoie à : [art. L1251-16 du Code du travail](../../../../partie-legislative/premiere-partie/livre-ii/titre-v/chapitre-ier.md#article-l1251-16) ; [art. L6222-26 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-26) ; [art. L6225-4 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-v.md#article-l6225-4) ; [art. L6225-5 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-v.md#article-l6225-5) ; [art. R6226-2 du Code du travail](chapitre-vi.md#article-r6226-2) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 I.-Les mentions figurant sur le contrat de mission en application de l'article L. 1251-16 sont complétées par les mentions du contrat de mise à disposition de l'apprenti prévues à l'article R. 6226-2.
 
@@ -49,7 +49,7 @@ III.-La suspension du contrat d'apprentissage, en application des dispositions d
 - Identifiant : LEGIARTI000041771522
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771522
-- Renvoie à : [art. L6222-27 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-27) ; [art. L6222-42 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-42) ; [art. R6223-10 du Code du travail](chapitre-iii.md#article-r6223-10)
+- Renvoie à : [art. L6222-27 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-27) ; [art. L6222-42 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-42) ; [art. R6223-10 du Code du travail](chapitre-iii.md#article-r6223-10) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Pour la formation de l'apprenti qu'elle emploie, l'entreprise de travail temporaire ne peut pas conclure de convention avec une entreprise d'accueil en application de l'article R. 6223-10 ni avec une entreprise d'un autre Etat membre de l'Union européenne susceptible d'accueillir temporairement l'apprenti en application de l'article L. 6222-42.
 
@@ -59,7 +59,7 @@ Pour la formation de l'apprenti qu'elle emploie, l'entreprise de travail tempora
 - Identifiant : LEGIARTI000025686739
 - État : en vigueur depuis le 14/04/2012
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025686739
-- Renvoie à : [art. L6222-30 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-30) ; [art. R6223-6 du Code du travail](chapitre-iii.md#article-r6223-6)
+- Renvoie à : [art. L6222-30 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-30) ; [art. R6223-6 du Code du travail](chapitre-iii.md#article-r6223-6) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le maître d'apprentissage désigné au sein de l'entreprise de travail temporaire assure le suivi de l'apprenti tout au long de sa formation et veille à sa progression, en liaison avec le centre de formation des apprentis et les maîtres d'apprentissage nommés dans les entreprises utilisatrices.
 
@@ -71,7 +71,7 @@ Par dérogation aux dispositions de l'article R. 6223-6, le nombre maximal d'app
 - Identifiant : LEGIARTI000041771512
 - État : en vigueur depuis le 01/04/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041771512
-- Renvoie à : [art. L6222-26 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-26) ; [art. L6222-34 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-34) ; [art. L6223-5 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-5) ; [art. L6223-8-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-8-1) ; [art. R6223-6 du Code du travail](chapitre-iii.md#article-r6223-6)
+- Renvoie à : [art. L6222-26 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-26) ; [art. L6222-34 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-ii.md#article-l6222-34) ; [art. L6223-5 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-5) ; [art. L6223-8-1 du Code du travail](../../../../partie-legislative/sixieme-partie/livre-ii/titre-ii/chapitre-iii.md#article-l6223-8-1) ; [art. R6223-6 du Code du travail](chapitre-iii.md#article-r6223-6) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 En application de l'article L. 6223-5, le maître d'apprentissage nommé au sein de l'entreprise utilisatrice contribue à l'acquisition par l'apprenti dans cette entreprise des compétences correspondant à la qualification recherchée et au titre ou diplôme préparé, en liaison avec le maître d'apprentissage désigné au sein de l'entreprise de travail temporaire et avec le centre de formation d'apprentis.
 

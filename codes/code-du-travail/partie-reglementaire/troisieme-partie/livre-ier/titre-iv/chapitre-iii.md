@@ -6,7 +6,7 @@ Code du travail › Partie réglementaire › Troisième partie : Durée du trav
 - Identifiant : LEGIARTI000033471401
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033471401
-- Renvoie à : [art. L3141-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-1) ; [art. L3141-33 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-33) ; [art. L3164-9 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-9)
+- Renvoie à : [art. L3141-1 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-1) ; [art. L3141-33 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ier.md#article-l3141-33) ; [art. L3164-9 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-vi/chapitre-iv.md#article-l3164-9) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 
 Le fait de méconnaître les dispositions des articles L. 3141-1 à L. 3141-33 et L. 3164-9, relatives aux congés payés, ainsi que celles des décrets pris pour leur application, est puni de l'amende prévue pour les contraventions de la cinquième classe, prononcée autant de fois qu'il y a de salariés concernés par l'infraction.
 
@@ -32,7 +32,7 @@ Le fait de méconnaître les dispositions des articles L. 3142-36 à L. 3142-41,
 - Identifiant : LEGIARTI000033507296
 - État : en vigueur depuis le 01/01/2017
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033507296
-- Renvoie à : [art. D3142-62 du Code du travail](chapitre-ii.md#article-d3142-62) ; [art. L3142-43 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-l3142-43) ; [art. L3142-95 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-l3142-95) ; [art. L3142-96 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-l3142-96) ; [art. 132-11 du Code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417368)
+- Renvoie à : [art. D3142-62 du Code du travail](chapitre-ii.md#article-d3142-62) ; [art. L3142-43 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-l3142-43) ; [art. L3142-95 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-l3142-95) ; [art. L3142-96 du Code du travail](../../../../partie-legislative/troisieme-partie/livre-ier/titre-iv/chapitre-ii.md#article-l3142-96) ; [art. 132-11 du Code pénal](../../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11)
 
 Le fait de méconnaître les dispositions des articles L. 3142-95, L. 3142-96 et D. 3142-62, relatives au service national, est puni de l'amende prévue pour les contraventions de la cinquième classe.
 

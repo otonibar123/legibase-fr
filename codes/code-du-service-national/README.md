@@ -1,0 +1,71 @@
+# Code du service national
+
+Dernière modification du texte dans LEGI : 11/10/2026. 620 articles en vigueur, répartis dans 48 fichiers.
+
+Renvois vers et depuis les autres textes : [renvois.md](renvois.md)
+
+- **Partie législative**
+  - **LIVRE Ier**
+    - **TITRE Ier : Dispositions générales relatives au service national**
+      - [Chapitre Ier : Principes.](partie-legislative/livre-ier/titre-ier/chapitre-ier.md) (3 articles)
+      - [Chapitre II : Champ d'application.](partie-legislative/livre-ier/titre-ier/chapitre-ii.md) (3 articles)
+      - [Chapitre III : Le recensement.](partie-legislative/livre-ier/titre-ier/chapitre-iii.md) (8 articles)
+      - [Chapitre IV : L'enseignement de la défense et la journée de mobilisation.](partie-legislative/livre-ier/titre-ier/chapitre-iv.md) (12 articles)
+      - [Chapitre V : La période militaire d'initiation ou de perfectionnement à la défense nationale.](partie-legislative/livre-ier/titre-ier/chapitre-v.md) (2 articles)
+      - [Chapitre VI : Les cadets de la défense](partie-legislative/livre-ier/titre-ier/chapitre-vi.md) (1 article)
+      - [Chapitre VII : Favoriser la cohérence des parcours des plus jeunes](partie-legislative/livre-ier/titre-ier/chapitre-vii.md) (3 articles)
+    - **TITRE Ier bis : Dispositions relatives au service civique.**
+      - [TITRE Ier bis : Dispositions relatives au service civique. : articles rattachés directement](partie-legislative/livre-ier/titre-ier-bis/articles-directs.md) (1 article)
+      - [Chapitre Ier : L'Agence du service civique.](partie-legislative/livre-ier/titre-ier-bis/chapitre-ier.md) (2 articles)
+      - [Chapitre II : L'engagement de service civique et le volontariat associatif.](partie-legislative/livre-ier/titre-ier-bis/chapitre-ii.md) (34 articles)
+    - **TITRE II : Dispositions relatives aux autres formes de volontariat.**
+      - [TITRE II : Dispositions relatives aux autres formes de volontariat. : articles rattachés directement](partie-legislative/livre-ier/titre-ii/articles-directs.md) (1 article)
+      - [Chapitre Ier : Le volontariat militaire](partie-legislative/livre-ier/titre-ii/chapitre-ier.md) (2 articles)
+      - [Chapitre II : Dispositions relatives aux volontariats internationaux](partie-legislative/livre-ier/titre-ii/chapitre-ii.md) (20 articles)
+      - [Chapitre III : Le volontariat pour l'insertion](partie-legislative/livre-ier/titre-ii/chapitre-iii.md) (5 articles)
+  - **LIVRE II**
+    - **TITRE Ier : Définition et principes du service national**
+      - [Chapitre Ier : Dispositions générales.](partie-legislative/livre-ii/titre-ier/chapitre-ier.md) (13 articles)
+      - [Chapitre II : Dispositions particulières à certains emplois du service national.](partie-legislative/livre-ii/titre-ier/chapitre-ii.md) (4 articles)
+    - **TITRE II : Dispositions communes aux différentes formes de service national**
+      - [Chapitre Ier : Recensement, sélection](partie-legislative/livre-ii/titre-ii/chapitre-ier.md) (14 articles)
+      - [Chapitre II : Exemptions, dispenses et modalités particulières d'accomplissement des obligations d'activité du service national](partie-legislative/livre-ii/titre-ii/chapitre-ii.md) (22 articles)
+      - [Chapitre III : Réforme pour inaptitude physique.](partie-legislative/livre-ii/titre-ii/chapitre-iii.md) (1 article)
+      - [Chapitre IV : Droits résultant de l'accomplissement du service national actif.](partie-legislative/livre-ii/titre-ii/chapitre-iv.md) (5 articles)
+    - **TITRE III : Dispositions particulières aux différentes formes du service national**
+      - [Chapitre Ier : Service militaire](partie-legislative/livre-ii/titre-iii/chapitre-ier.md) (19 articles)
+      - [Chapitre II bis : Service dans la police nationale](partie-legislative/livre-ii/titre-iii/chapitre-ii-bis.md) (15 articles)
+      - [Chapitre II ter : Service de sécurité civile.](partie-legislative/livre-ii/titre-iii/chapitre-ii-ter.md) (5 articles)
+      - [Chapitre III : Service de l'aide technique et service de la coopération](partie-legislative/livre-ii/titre-iii/chapitre-iii.md) (22 articles)
+      - [Chapitre IV : Service des objecteurs de conscience.](partie-legislative/livre-ii/titre-iii/chapitre-iv.md) (8 articles)
+    - **TITRE IV : Dispositions pénales et disciplinaires**
+      - [Chapitre Ier : Dispositions générales](partie-legislative/livre-ii/titre-iv/chapitre-ier.md) (18 articles)
+      - [Chapitre II : Dispositions particulières au service militaire.](partie-legislative/livre-ii/titre-iv/chapitre-ii.md) (1 article)
+      - [Chapitre III bis : Dispositions particulières au service dans la police nationale.](partie-legislative/livre-ii/titre-iv/chapitre-iii-bis.md) (8 articles)
+      - [Chapitre III ter : Dispositions particulières au service de sécurité civile.](partie-legislative/livre-ii/titre-iv/chapitre-iii-ter.md) (1 article)
+      - [Chapitre IV : Dispositions particulières au service de l'aide technique et au service de la coopération.](partie-legislative/livre-ii/titre-iv/chapitre-iv.md) (8 articles)
+- **Partie réglementaire - Décrets en Conseil d'Etat**
+  - **LIVRE Ier : Obligations du service national.**
+    - [Chapitre Ier : Le recensement.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier.md) (23 articles)
+    - [Chapitre Ier bis : Dispositions relatives au service civique](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ier-bis.md) (61 articles)
+    - [Chapitre II : La journée défense et citoyenneté](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-ii.md) (24 articles)
+    - [Chapitre III : Autres formes de volontariat](partie-reglementaire-decrets-en-conseil-d-etat/livre-ier/chapitre-iii.md) (1 article)
+  - **LIVRE II**
+    - **Titre Ier : Définition et principes du service national**
+      - [Chapitre Ier : Dispositions générales](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ier.md) (33 articles)
+      - [Chapitre II : Dispositions particulières à certains emplois du service national.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ier/chapitre-ii.md) (5 articles)
+    - **Titre II : Dispositions communes aux différentes formes du service national**
+      - [Chapitre Ier : Recensement - Sélection](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ier.md) (26 articles)
+      - [Chapitre II : Dispenses et modalités particulières d'accomplissement des obligations d'activités du service national](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-ii.md) (37 articles)
+      - [Chapitre III : Réforme pour inaptitude physique.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-ii/chapitre-iii.md) (4 articles)
+    - **Titre III : Dispositions particulières aux différentes formes du service national**
+      - [Chapitre Ier : Service militaire](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ier.md) (34 articles)
+      - [Chapitre II bis : Service dans la police nationale](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii-bis.md) (27 articles)
+      - [Chapitre II ter : Service de sécurité civile](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-ii-ter.md) (28 articles)
+      - [Chapitre III : Service de l'aide technique et service de la coopération](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-iii.md) (26 articles)
+      - [Chapitre IV : Service des objecteurs de conscience.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iii/chapitre-iv.md) (20 articles)
+    - [Titre IV : Service féminin.](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-iv.md) (7 articles)
+    - [Titre V : Dispositions communes aux formes civiles du service national](partie-reglementaire-decrets-en-conseil-d-etat/livre-ii/titre-v.md) (1 article)
+- **Annexes**
+  - [Annexes : articles rattachés directement](annexes/articles-directs.md) (1 article)
+  - [CATÉGORIES D'ACTIVITÉS AU TITRE DESQUELLES PEUVENT ÊTRE PRONONCÉES DES AFFECTATIONS DE DÉFENSE](annexes/categories-d-activites-au-titre-desquelles-peuvent-etre-prononcees-des.md) (1 article)

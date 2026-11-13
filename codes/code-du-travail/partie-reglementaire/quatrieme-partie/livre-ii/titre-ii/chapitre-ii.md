@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000018532340
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532340
-- Cité par : [art. R4212-1 du Code du travail](../titre-ier/chapitre-ii.md#article-r4212-1) ; [art. R4534-138 du Code du travail](../../livre-v/titre-iii/chapitre-iv.md#article-r4534-138) ; [Arrêté du 30 juin 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043928519) ; [art. R717-87 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020095055)
+- Cité par : [art. R4212-1 du Code du travail](../titre-ier/chapitre-ii.md#article-r4212-1) ; [art. R4534-138 du Code du travail](../../livre-v/titre-iii/chapitre-iv.md#article-r4534-138) ; [art. R717-87 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vii.md#article-r717-87) ; [Arrêté du 30 juin 2021, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043928519)
 
 Dans les locaux fermés où les travailleurs sont appelés à séjourner, l'air est renouvelé de façon à :  
 1° Maintenir un état de pureté de l'atmosphère propre à préserver la santé des travailleurs ;  
@@ -26,7 +26,7 @@ Les règles applicables à l'aération, à la ventilation et à l'assainissement
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532336
 - Renvoie à : [Code du travail, Chapitre II : Aération, assainissement](https://www.legifrance.gouv.fr/codes/article_lc/LEGISCTA000018488858)
-- Cité par : [art. R4212-5 du Code du travail](../titre-ier/chapitre-ii.md#article-r4212-5) ; [art. R221-30 du Code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046835238)
+- Cité par : [art. R221-30 du Code de l'environnement](../../../../../code-de-l-environnement/partie-reglementaire/livre-ii/titre-ii/chapitre-ier.md#article-r221-30) ; [art. R4212-5 du Code du travail](../titre-ier/chapitre-ii.md#article-r4212-5)
 
 Pour l'application du présent chapitre, on entend par :  
 1° Air neuf, l'air pris à l'air libre hors des sources de pollution ;  

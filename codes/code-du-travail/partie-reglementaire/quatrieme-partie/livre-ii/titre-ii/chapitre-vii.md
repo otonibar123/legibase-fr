@@ -8,7 +8,7 @@ Code du travail › Partie réglementaire › Quatrième partie : Santé et séc
 - Identifiant : LEGIARTI000043841198
 - État : en vigueur depuis le 01/07/2021
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043841198
-- Renvoie à : [art. R143-2 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043818941) ; art. R146-3 du Code de la construction et de l'habitation
+- Renvoie à : [art. R143-2 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-iv/chapitre-iii.md#article-r143-2) ; [art. R146-3 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-iv/chapitre-vi.md#article-r146-3)
 - Cité par : [art. R4534-146 du Code du travail](../../livre-v/titre-iii/chapitre-iv.md#article-r4534-146)
 
 Les dispositions du présent chapitre ne font pas obstacle aux dispositions plus contraignantes prévues pour les établissements recevant du public, au sens de l'article R. 143-2 du code de la construction et de l'habitation ou pour les bâtiments d'habitation.  
@@ -18,7 +18,7 @@ Elles ne s'appliquent pas aux immeubles de grande hauteur, au sens de l'article 
 - Identifiant : LEGIARTI000018532141
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532141
-- Cité par : [Arrêté du 14 décembre 2011, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025072649) ; [Arrêté du 21 janvier 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045116539) ; [art. R716-12 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917513)
+- Cité par : [art. R716-12 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-vi.md#article-r716-12) ; [Arrêté du 14 décembre 2011, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025072649) ; [Arrêté du 21 janvier 2022, art. 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045116539)
 
 L'effectif théorique des personnes susceptibles d'être présentes à prendre en compte pour l'application du présent chapitre comprend l'effectif des travailleurs, majoré, le cas échéant, de l'effectif du public susceptible d'être admis et calculé suivant les règles relatives à la protection du public contre les risques d'incendie et de panique pour les établissements recevant du public.
 
@@ -29,7 +29,7 @@ L'effectif théorique des personnes susceptibles d'être présentes à prendre e
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532137
 - Renvoie à : [art. R4227-5 du Code du travail](chapitre-vii.md#article-r4227-5)
-- Cité par : [art. R4462-18 du Code du travail](../../livre-iv/titre-vi/chapitre-ii.md#article-r4462-18) ; [art. R719-7 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917701)
+- Cité par : [art. R4462-18 du Code du travail](../../livre-iv/titre-vi/chapitre-ii.md#article-r4462-18) ; [art. R719-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-ix.md#article-r719-7)
 
 Les établissements comportent des dégagements tels que portes, couloirs, circulations, escaliers, rampes, répartis de manière à permettre une évacuation rapide de tous les occupants dans des conditions de sécurité maximale.  
 Ces dégagements sont toujours libres. Aucun objet, marchandise ou matériel ne doit faire obstacle à la circulation des personnes ou réduire la largeur des dégagements au-dessous des minima fixés à l'article R. 4227-5.  
@@ -163,7 +163,7 @@ Les largeurs minimales fixées à l'article R. 4227-5 sont augmentées de la moi
 - Identifiant : LEGIARTI000024769377
 - État : en vigueur depuis le 10/11/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024769377
-- Cité par : [art. R719-7 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917701)
+- Cité par : [art. R719-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-ix.md#article-r719-7)
 
 Une signalisation indique le chemin vers la sortie la plus proche ainsi que le chemin vers l'espace d'attente sécurisé ou l'espace équivalent le plus proche. Une autre signalisation identifie ces espaces.
 
@@ -177,7 +177,7 @@ Les dégagements qui ne servent pas habituellement de passage pendant la périod
 - Identifiant : LEGIARTI000022764985
 - État : en vigueur depuis le 01/07/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022764985
-- Cité par : [art. R4215-17 du Code du travail](../titre-ier/chapitre-v.md#article-r4215-17) ; [Arrêté du 14 décembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025072663) ; [art. R719-7 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917701) ; [Décret n°2010-1018 du 30 août 2010, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022761908)
+- Cité par : [art. R4215-17 du Code du travail](../titre-ier/chapitre-v.md#article-r4215-17) ; [art. R719-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-ix.md#article-r719-7) ; [Arrêté du 14 décembre 2011, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000025072663) ; [Décret n°2010-1018 du 30 août 2010, art. 7](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000022761908)
 
 Les établissements disposent d'un éclairage de sécurité permettant d'assurer l'évacuation des personnes en cas d'interruption accidentelle de l'éclairage normal.
 
@@ -238,7 +238,7 @@ Le dispositif d'arrêt est manœuvrable à partir d'un endroit accessible en per
 - Identifiant : LEGIARTI000018532097
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532097
-- Cité par : [art. R4227-23 du Code du travail](chapitre-vii.md#article-r4227-23) ; [art. R4227-24 du Code du travail](chapitre-vii.md#article-r4227-24) ; [art. R4227-25 du Code du travail](chapitre-vii.md#article-r4227-25) ; [art. R4227-34 du Code du travail](chapitre-vii.md#article-r4227-34) ; [Arrêté du 4 novembre 1993, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028480696) ; [art. R146-7 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819091)
+- Cité par : [art. R146-7 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-iv/chapitre-vi.md#article-r146-7) ; [art. R4227-23 du Code du travail](chapitre-vii.md#article-r4227-23) ; [art. R4227-24 du Code du travail](chapitre-vii.md#article-r4227-24) ; [art. R4227-25 du Code du travail](chapitre-vii.md#article-r4227-25) ; [art. R4227-34 du Code du travail](chapitre-vii.md#article-r4227-34) ; [Arrêté du 4 novembre 1993, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028480696)
 
 Les locaux ou les emplacements dans lesquels sont entreposées ou manipulées des substances ou préparations classées explosives, comburantes ou extrêmement inflammables, ainsi que des matières dans un état physique susceptible d'engendrer des risques d'explosion ou d'inflammation instantanée, ne contiennent aucune source d'ignition telle que foyer, flamme, appareil pouvant donner lieu à production extérieure d'étincelles ni aucune surface susceptible de provoquer par sa température une auto-inflammation des substances, préparations ou matières précitées.  
 Ces locaux disposent d'une ventilation permanente appropriée.
@@ -248,7 +248,7 @@ Ces locaux disposent d'une ventilation permanente appropriée.
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532095
 - Renvoie à : [art. R4227-22 du Code du travail](chapitre-vii.md#article-r4227-22) ; [art. L3511-7 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006688220)
-- Cité par : [art. R146-7 du Code de la construction et de l'habitation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819091)
+- Cité par : [art. R146-7 du Code de la construction et de l'habitation](../../../../../code-de-la-construction-et-de-l-habitation/partie-reglementaire/livre-ier/titre-iv/chapitre-vi.md#article-r146-7)
 
 Outre l'interdiction de fumer dans les lieux collectifs, prévue à l'article L. 3511-7 du code de la santé publique, il est interdit de fumer dans les emplacements situés à l'air libre mentionnés à l'article R. 4227-22.
 
@@ -296,7 +296,7 @@ Un arrêté des ministres chargés du travail et de l'agriculture détermine les
 - Identifiant : LEGIARTI000018532081
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018532081
-- Cité par : [art. R4462-9 du Code du travail](../../livre-iv/titre-vi/chapitre-ii.md#article-r4462-9) ; [art. R719-7 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035917701) ; [Décret n°2021-1838 du 24 décembre 2021, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044810713)
+- Cité par : [art. R4462-9 du Code du travail](../../livre-iv/titre-vi/chapitre-ii.md#article-r4462-9) ; [art. R719-7 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-vii/titre-ier/chapitre-ix.md#article-r719-7) ; [Décret n°2021-1838 du 24 décembre 2021, art. 14](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044810713)
 
 L'employeur prend les mesures nécessaires pour que tout commencement d'incendie puisse être rapidement et efficacement combattu dans l'intérêt du sauvetage des travailleurs.
 

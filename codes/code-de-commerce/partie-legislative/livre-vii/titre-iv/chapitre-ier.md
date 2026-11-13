@@ -16,7 +16,7 @@ Ils cessent leurs fonctions lorsqu'ils atteignent l'âge de soixante-dix ans. Su
 - Identifiant : LEGIARTI000045578958
 - État : en vigueur depuis le 01/07/2022
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045578958
-- Renvoie à : [art. L128-1 du Code de commerce](../../livre-ier/titre-ii/chapitre-viii.md#article-l128-1) ; art. L111-3 du Code des procédures civiles d'exécution
+- Renvoie à : [art. L128-1 du Code de commerce](../../livre-ier/titre-ii/chapitre-viii.md#article-l128-1) ; [art. L111-3 du Code des procédures civiles d'exécution](../../../../code-des-procedures-civiles-d-execution/partie-legislative/livre-ier/titre-ier/chapitre-ier.md#article-l111-3)
 
 La profession de greffier des tribunaux de commerce est représentée auprès des pouvoirs publics par un Conseil national des greffiers des tribunaux de commerce, doté de la personnalité morale et chargé d'assurer la défense de ses intérêts collectifs.
 

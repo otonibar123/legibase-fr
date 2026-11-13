@@ -6,7 +6,7 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - Identifiant : LEGIARTI000006902873
 - État : en vigueur depuis le 01/05/2008
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902873
-- Cité par : [art. L3251-2 du Code du travail](chapitre-ier.md#article-l3251-2) ; [art. R7421-2 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-r7421-2) ; [art. L192-29 du Code minier (nouveau)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023505351)
+- Cité par : [art. L3251-2 du Code du travail](chapitre-ier.md#article-l3251-2) ; [art. R7421-2 du Code du travail](../../../../partie-reglementaire/septieme-partie/livre-iv/titre-ii/chapitre-ier.md#article-r7421-2) ; [art. L192-29 du Code minier (nouveau)](../../../../../code-minier-nouveau/partie-legislative/livre-ier/titre-ix/chapitre-ii.md#article-l192-29)
 
 L'employeur ne peut opérer une retenue de salaire pour compenser des sommes qui lui seraient dues par un salarié pour fournitures diverses, quelle qu'en soit la nature.
 

@@ -335,7 +335,7 @@ Lorsque les modalités de règlement des échéances impayées ont fait l'objet 
 - Identifiant : LEGIARTI000054597566
 - État : en vigueur depuis le 03/08/2026
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054597566
-- Renvoie à : art. L54-11-1 du Code monétaire et financier
+- Renvoie à : [art. L54-11-1 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-legislative/livre-v/titre-iv/chapitre-xi.md#article-l54-11-1)
 - Cité par : [Arrêté du 26 octobre 2010, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054739713)
 
 Pour l'application du second alinéa de l'article L. 312-35-2, on entend par emprunteurs qui éprouvent des difficultés à respecter leurs engagements financiers les personnes physiques n'agissant pas pour des besoins professionnels pour lesquelles le prêteur constate un incident de paiement caractérisé déclarable au fichier mentionné à l'article L. 751-1, pour une opération de crédit consentie par ce dernier.

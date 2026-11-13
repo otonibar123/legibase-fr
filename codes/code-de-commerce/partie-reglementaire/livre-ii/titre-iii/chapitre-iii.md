@@ -25,7 +25,7 @@ Pour l'application du VII de l'article L. 233-7, l'information est adressée à 
 - État : en vigueur depuis le 12/02/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041563970
 - Renvoie à : [art. L233-8 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-8)
-- Cité par : [art. R345-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030584374)
+- Cité par : [art. R345-1 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iii/titre-iv/chapitre-v.md#article-r345-1)
 
 L'information des actionnaires prévue au I de l'article L. 233-8 prend la forme d'un avis publié dans un support habilité à recevoir les annonces légales dans le département où la société a son siège avant l'expiration d'un délai de quinze jours à compter de la date de l'assemblée générale ordinaire annuelle ou de la date à laquelle la société a eu connaissance, entre deux assemblées générales, d'une variation du nombre total des droits de vote au moins égale au pourcentage fixé par l'arrêté ministériel mentionné au I du même article.
 
@@ -79,7 +79,7 @@ Un règlement de l'Autorité des normes comptables fixe les critères permettant
 - Identifiant : LEGIARTI000006264566
 - État : en vigueur depuis le 27/03/2007
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006264566
-- Cité par : [art. R524-22 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048878395)
+- Cité par : [art. R524-22 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-22)
 
 Le chiffre d'affaires consolidé est égal au montant des ventes de produits et services liés aux activités courantes de l'ensemble constitué par les sociétés consolidées par intégration. Il comprend, après élimination des opérations internes :  
 
@@ -133,7 +133,7 @@ Les biens détenus par des organismes qui sont soumis à des règles d'évaluati
 - Identifiant : LEGIARTI000030927521
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030927521
-- Cité par : [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312) ; [art. R524-22 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048878395)
+- Cité par : [art. R524-22 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-22) ; [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312)
 
 Le bilan consolidé établi selon un modèle fixé par un règlement de l'Autorité des normes comptables est présenté soit sous forme de tableau, soit sous forme de liste. Il fait au moins apparaître de façon distincte :
 
@@ -149,7 +149,7 @@ Le bilan consolidé établi selon un modèle fixé par un règlement de l'Autori
 - Identifiant : LEGIARTI000030927536
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030927536
-- Cité par : [art. A232 du Code de commerce](../../../partie-arretes/livre-ii/titre-iii/chapitre-ii.md#article-a232) ; [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312) ; [art. R524-22 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048878395)
+- Cité par : [art. A232 du Code de commerce](../../../partie-arretes/livre-ii/titre-iii/chapitre-ii.md#article-a232) ; [art. R524-22 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-22) ; [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312)
 
 Le compte de résultat consolidé établi selon un modèle fixé par un règlement de l'Autorité des normes comptables fait au moins apparaître le montant net du chiffre d'affaires consolidé, le résultat après impôts de l'ensemble des entreprises consolidées par intégration, la quote-part des résultats des entreprises consolidées par mise en équivalence. La part des actionnaires ou associés minoritaires et la part de l'entreprise consolidante apparaissent distinctement.  
 
@@ -174,7 +174,7 @@ Sont enregistrées au bilan et au compte de résultat consolidés les imposition
 - État : en vigueur depuis le 01/01/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030927530
 - Renvoie à : [art. L233-16 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-16) ; [art. L233-19 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-19) ; [art. L233-23 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-23) ; [art. L233-25 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-25) ; [art. L822-11 du Code de commerce](../../../partie-legislative/livre-viii/titre-ii/chapitre-ii.md#article-l822-11) ; [art. R123-96 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-96) ; [art. R123-199-1 du Code de commerce](../../livre-ier/titre-ii/chapitre-iii.md#article-r123-199-1) ; [art. R233-5 du Code de commerce](chapitre-iii.md#article-r233-5) ; [art. R233-8 du Code de commerce](chapitre-iii.md#article-r233-8) ; [art. R233-10 du Code de commerce](chapitre-iii.md#article-r233-10)
-- Cité par : [art. R232-11 du Code de commerce](chapitre-ii.md#article-r232-11) ; [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312) ; [art. R524-22 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048878395)
+- Cité par : [art. R232-11 du Code de commerce](chapitre-ii.md#article-r232-11) ; [art. R524-22 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-reglementaire/livre-v/titre-ii/chapitre-iv.md#article-r524-22) ; [Arrêté du 20 février 2020, art. ANNEXE 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046685312)
 
 Outre les informations prévues par les articles L. 233-19,
 L. 233-23, L. 233-25 et par l'article R. 233-8, l'annexe comporte toutes les informations d'importance significative permettant aux lecteurs d'avoir une juste appréciation du patrimoine, de la situation financière et du résultat de l'ensemble constitué par les entreprises comprises dans la consolidation.
@@ -184,7 +184,7 @@ L. 233-23, L. 233-25 et par l'article R. 233-8, l'annexe comporte toutes les inf
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048877410
 - Renvoie à : [art. L123-12 du Code de commerce](../../../partie-legislative/livre-ier/titre-ii/chapitre-iii.md#article-l123-12) ; [art. L233-16 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-16) ; [art. L233-17 du Code de commerce](../../../partie-legislative/livre-ii/titre-iii/chapitre-iii.md#article-l233-17) ; [art. R225-88 du Code de commerce](../titre-ii/chapitre-v.md#article-r225-88) ; [art. R225-89 du Code de commerce](../titre-ii/chapitre-v.md#article-r225-89)
-- Cité par : [art. R345-1 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030584374)
+- Cité par : [art. R345-1 du Code des assurances](../../../../code-des-assurances/partie-reglementaire/livre-iii/titre-iv/chapitre-v.md#article-r345-1)
 
 Sous réserve d'en justifier dans l'annexe prévue à l'article L. 123-12, les sociétés mentionnées au 1° de l'article L. 233-17 sont exemptées de l'obligation d'établir des comptes consolidés et un rapport sur la gestion du groupe lorsque sont réunies les conditions suivantes :
 
@@ -262,6 +262,7 @@ Lorsque le rapport sur la gestion du groupe ou le rapport consolidé relatif aux
 - Identifiant : LEGIARTI000048874180
 - État : en vigueur depuis le 01/01/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048874180
+- Cité par : [art. R518-30-3 du Code monétaire et financier](../../../../code-monetaire-et-financier/partie-reglementaire/livre-v/titre-ier/chapitre-viii.md#article-r518-30-3)
 
 Les sociétés soumises à l'article L. 233-28-4 établissent leur rapport sur la gestion du groupe dans le format d'information électronique précisé à l'article 3 du règlement délégué (UE) 2019/815 de la Commission européenne et balisent les informations consolidées en matière de durabilité ainsi que les informations exigées par l'article 8 du règlement (UE) 2020/852 du Parlement européen et du Conseil conformément à ce même format.
 

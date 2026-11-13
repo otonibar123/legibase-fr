@@ -8,7 +8,7 @@ Code de commerce › Partie législative › LIVRE Ier : Du commerce en généra
 - Identifiant : LEGIARTI000024385542
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385542
-- Cité par : [art. L131-3 du Code de commerce](chapitre-ier.md#article-l131-3) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L1411-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023085479)
+- Cité par : [art. L131-3 du Code de commerce](chapitre-ier.md#article-l131-3) ; [art. L930-1 du Code de commerce](../../livre-ix/titre-iii/articles-directs.md#article-l930-1) ; [art. L1411-1 du Code des transports](../../../../code-des-transports/partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-unique.md#article-l1411-1)
 
 Il y a des courtiers de marchandises, des courtiers interprètes et conducteurs de navires, des courtiers de transport par terre et par eau.
 
@@ -25,7 +25,7 @@ Le courtage de marchandises peut être effectué par tout commerçant.
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385533
 - Renvoie à : [art. L131-1 du Code de commerce](chapitre-ier.md#article-l131-1)
-- Cité par : [art. L1411-1 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023085479)
+- Cité par : [art. L1411-1 du Code des transports](../../../../code-des-transports/partie-legislative/premiere-partie/livre-iv/titre-ier/chapitre-unique.md#article-l1411-1)
 
 Les courtiers de transport par terre et par eau constitués selon la loi ont seuls, dans les lieux où ils sont établis, le droit de faire le courtage des transports par terre et par eau. Ils ne peuvent cumuler leurs fonctions avec celles de courtiers de marchandises ou de courtiers conducteurs de navires, désignés à l'article L. 131-1.
 
@@ -33,7 +33,7 @@ Les courtiers de transport par terre et par eau constitués selon la loi ont seu
 - Identifiant : LEGIARTI000024385529
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385529
-- Cité par : [art. 985 du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305687)
+- Cité par : [art. 985 du Code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305687)
 
 Les prestataires de services d'investissement peuvent faire, concurremment avec les courtiers de marchandises, les négociations et le courtage des ventes ou achats des matières métalliques. Ils ont seuls le droit d'en constater le cours.
 
@@ -55,7 +55,7 @@ Le fait pour un courtier d'être chargé d'une opération de courtage pour une a
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385024
 - Renvoie à : [art. L131-13 du Code de commerce](chapitre-ier.md#article-l131-13)
-- Cité par : [art. L131-11 du Code de commerce](chapitre-ier.md#article-l131-11) ; [art. L131-18 du Code de commerce](chapitre-ier.md#article-l131-18) ; [art. L131-23 du Code de commerce](chapitre-ier.md#article-l131-23) ; [art. L131-32 du Code de commerce](chapitre-ier.md#article-l131-32) ; [art. R633-3 du Code des douanes](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053814340)
+- Cité par : [art. L131-11 du Code de commerce](chapitre-ier.md#article-l131-11) ; [art. L131-18 du Code de commerce](chapitre-ier.md#article-l131-18) ; [art. L131-23 du Code de commerce](chapitre-ier.md#article-l131-23) ; [art. L131-32 du Code de commerce](chapitre-ier.md#article-l131-32) ; [art. R633-3 du Code des douanes](../../../../code-des-douanes/partie-reglementaire/livre-vi/titre-iii/chapitre-iii.md#article-r633-3)
 
 La liste des courtiers de marchandises assermentés est établie par chaque cour d'appel sur réquisition du procureur général. Elle fait apparaître, pour chacun d'eux, la date de son inscription ainsi que sa ou ses spécialisations professionnelles telles qu'elles ont été sanctionnées par l'examen d'aptitude prévu au 5° de l'article L. 131-13.  
 
@@ -146,7 +146,7 @@ Les courtiers de marchandises assermentés admis à l'honorariat peuvent continu
 - Identifiant : LEGIARTI000024385038
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385038
-- Renvoie à : [art. L131-18 du Code de commerce](chapitre-ier.md#article-l131-18) ; art. 433-17 du Code pénal
+- Renvoie à : [art. L131-18 du Code de commerce](chapitre-ier.md#article-l131-18) ; [art. 433-17 du Code pénal](../../../../code-penal/partie-legislative/livre-iv/titre-iii/chapitre-iii.md#article-433-17)
 
 Toute personne, autre que celles mentionnées à l'article L. 131-18, qui a fait usage de l'une des dénominations mentionnées à ce même article est punie des peines prévues à l'article 433-17 du code pénal.  
 
@@ -248,7 +248,7 @@ Les courtiers de marchandises assermentés sont compétents, sauf désignation p
 - Identifiant : LEGIARTI000024385060
 - État : en vigueur depuis le 01/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024385060
-- Renvoie à : art. L342-11 du Code rural et de la pêche maritime
+- Renvoie à : [art. L342-11 du Code rural (nouveau)](../../../../code-rural-nouveau/partie-legislative/livre-iii/titre-iv/chapitre-ii.md#article-l342-11)
 - Cité par : [Décret n°2019-1185 du 15 novembre 2019, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039387403)
 
 Les courtiers de marchandises assermentés peuvent être désignés pour procéder aux ventes publiques suivantes :  

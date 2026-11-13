@@ -19,7 +19,7 @@ La liste des postes de travail liés à la sécurité de l'installation prévue 
 - Identifiant : LEGIARTI000036484050
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036484050
-- Renvoie à : [art. L4523-5 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-l4523-5) ; art. L512-1 du Code de l'environnement
+- Renvoie à : [art. L512-1 du Code de l'environnement](../../../../../code-de-l-environnement/partie-legislative/livre-v/titre-ier/chapitre-ii.md#article-l512-1) ; [art. L4523-5 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-l4523-5)
 
 Le comité social et économique peut décider de faire appel à l'expert en risques technologiques mentionné à l'article L. 4523-5 à l'occasion de la demande d'autorisation préfectorale prévue par l'article L. 512-1 du code de l'environnement et avant d'émettre l'avis prévu à l'article R. 4612-4.
 
@@ -41,7 +41,7 @@ L'expert présente son rapport dans le délai de quarante-cinq jours à compter 
 - État : en vigueur depuis le 01/01/2018
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036484056
 - Renvoie à : [art. L4523-11 du Code du travail](../../../../partie-legislative/quatrieme-partie/livre-v/titre-ii/chapitre-iii.md#article-l4523-11)
-- Cité par : [art. L961-2 du Code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037110405)
+- Cité par : [art. L961-2 du Code de l'éducation](../../../../../code-de-l-education/partie-legislative/quatrieme-partie/livre-ix/titre-vi/chapitre-ier.md#article-l961-2)
 
 Les représentants des entreprises extérieures mentionnés à l'article L. 4523-11 disposent d'une voix consultative à la commission santé, sécurité et conditions de travail élargie.
 

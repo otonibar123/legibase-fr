@@ -6,8 +6,8 @@ Code de procédure civile › Livre II : Dispositions particulières à chaque j
 - Identifiant : LEGIARTI000048869067
 - État : en vigueur depuis le 01/09/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048869067
-- Renvoie à : [art. 62-5 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-62-5) ; [art. 700 du Code de procédure civile](../../../livre-ier/titre-xviii/chapitre-ier.md#article-700) ; [art. 916 du Code de procédure civile](../sous-titre-ier/chapitre-ier.md#article-916) ; [art. 945 du Code de procédure civile](../sous-titre-ier/chapitre-ier.md#article-945)
-- Cité par : [art. 964-1 du Code de procédure civile](chapitre-ier-bis.md#article-964-1) ; [art. 326 ter du Code général des impôts, annexe 2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028424600) ; [Décret n°2011-1202 du 28 septembre 2011, art. 21](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024602947)
+- Renvoie à : [art. 62-5 du Code de procédure civile](../../../livre-ier/titre-iv/chapitre-ier.md#article-62-5) ; [art. 700 du Code de procédure civile](../../../livre-ier/titre-xviii/chapitre-ier.md#article-700) ; [art. 916 du Code de procédure civile](../sous-titre-ier/chapitre-ier.md#article-916) ; [art. 945 du Code de procédure civile](../sous-titre-ier/chapitre-ier.md#article-945) ; [art. 1635 bis P du Code général des impôts](../../../../code-general-des-impots/livre-premier/deuxieme-partie/titre-iii/chapitre-iii.md#article-1635-bis-p)
+- Cité par : [art. 964-1 du Code de procédure civile](chapitre-ier-bis.md#article-964-1) ; [art. 326 ter du Code général des impôts, annexe II](../../../../code-general-des-impots-annexe-ii/livre-premier/deuxieme-partie/titre-iv/chapitre-ii.md#article-326-ter) ; [Décret n°2011-1202 du 28 septembre 2011, art. 21](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000024602947)
 
 Sont compétents pour prononcer l'irrecevabilité de l'appel en application de l'article 963 :
 

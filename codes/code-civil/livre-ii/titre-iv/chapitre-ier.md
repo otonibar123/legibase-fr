@@ -6,7 +6,7 @@ Code civil › Livre II : Des biens et des différentes modifications de la prop
 - Identifiant : LEGIARTI000006429847
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429847
-- Cité par : [art. 641 du Code civil](chapitre-ier.md#article-641) ; [ARRÊTÉ du 12 décembre 2014, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029896018) ; [Arrêté du 27 novembre 2018, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037837472) ; [art. L2231-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043374824)
+- Cité par : [art. 641 du Code civil](chapitre-ier.md#article-641) ; [art. L2231-2 du Code des transports](../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l2231-2) ; [ARRÊTÉ du 12 décembre 2014, art. 33](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029896018) ; [Arrêté du 27 novembre 2018, art. 17](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037837472)
 
 Les fonds inférieurs sont assujettis envers ceux qui sont plus élevés à recevoir les eaux qui en découlent naturellement sans que la main de l'homme y ait contribué.  
 
@@ -19,7 +19,7 @@ Le propriétaire supérieur ne peut rien faire qui aggrave la servitude du fonds
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039367267
 - Renvoie à : [art. 640 du Code civil](chapitre-ier.md#article-640)
-- Cité par : [art. L2231-2 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043374824)
+- Cité par : [art. L2231-2 du Code des transports](../../../code-des-transports/partie-legislative/deuxieme-partie/livre-ii/titre-iii/chapitre-ier.md#article-l2231-2)
 
 Tout propriétaire a le droit d'user et de disposer des eaux pluviales qui tombent sur son fonds.
 
@@ -75,7 +75,7 @@ S'il s'élève une contestation entre les propriétaires auxquels ces eaux peuve
 - Identifiant : LEGIARTI000006429902
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429902
-- Cité par : [art. D161-13 du Code rural et de la pêche maritime](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347513)
+- Cité par : [art. D161-13 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-ier/titre-vi/chapitre-ier.md#article-d161-13)
 
 Tout propriétaire peut obliger son voisin au bornage de leurs propriétés contiguës. Le bornage se fait à frais communs.
 
@@ -84,7 +84,7 @@ Tout propriétaire peut obliger son voisin au bornage de leurs propriétés cont
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429909
 - Renvoie à : [art. 682 du Code civil](chapitre-ii.md#article-682)
-- Cité par : [art. L651-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006584869)
+- Cité par : [art. L651-2 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-vi/titre-v/chapitre-ier.md#article-l651-2)
 
 Tout propriétaire peut clore son héritage, sauf l'exception portée en l'article 682.
 
@@ -92,6 +92,6 @@ Tout propriétaire peut clore son héritage, sauf l'exception portée en l'artic
 - Identifiant : LEGIARTI000006429921
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429921
-- Cité par : [art. L651-2 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006584869)
+- Cité par : [art. L651-2 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-vi/titre-v/chapitre-ier.md#article-l651-2)
 
 Le propriétaire qui veut se clore perd son droit au parcours et vaine pâture en proportion du terrain qu'il y soustrait.

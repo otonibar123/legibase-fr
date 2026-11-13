@@ -18,7 +18,7 @@ L'employeur qui emploie pendant la période fixée pour son congé légal un sal
 - Identifiant : LEGIARTI000039348464
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039348464
-- Cité par : [art. D3141-1 du Code du travail](chapitre-ier.md#article-d3141-1)
+- Cité par : [art. Annexe Tableau IV-II du Code de l'organisation judiciaire](../../../../../code-de-l-organisation-judiciaire/partie-reglementaire/annexes.md#article-annexe-tableau-iv-ii) ; [art. D3141-1 du Code du travail](chapitre-ier.md#article-d3141-1)
 
 Le salarié qui accomplit pendant sa période de congés payés des travaux rémunérés, privant de ce fait des demandeurs d'emploi d'un travail qui aurait pu leur être confié, peut être l'objet d'une action devant le juge du tribunal judiciaire en dommages et intérêts envers le régime d'assurance chômage.  
 Les dommages et intérêts ne peuvent être inférieurs au montant de l'indemnité due au salarié pour son congé payé.  

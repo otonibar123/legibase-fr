@@ -6,7 +6,7 @@ Code de la consommation › Partie réglementaire nouvelle › Livre V : POUVOIR
 - Identifiant : LEGIARTI000038375855
 - État : en vigueur depuis le 14/04/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038375855
-- Renvoie à : [art. L521-17 du Code de la consommation](../../../partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md#article-l521-17) ; [art. L521-25 du Code de la consommation](../../../partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md#article-l521-25)
+- Renvoie à : [art. L521-17 du Code de la consommation](../../../partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md#article-l521-17) ; [art. L521-25 du Code de la consommation](../../../partie-legislative-nouvelle/livre-v/titre-ii/chapitre-ier.md#article-l521-25) ; [art. 132-11 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-11) ; [art. 132-15 du Code pénal](../../../../code-penal/partie-legislative/livre-ier/titre-iii/chapitre-ii.md#article-132-15)
 - Cité par : [art. R532-2 du Code de la consommation](chapitre-ii.md#article-r532-2)
 
 Est puni de la peine d'amende prévue pour les contraventions de la 5e classe le fait, en méconnaissance des dispositions d'un arrêté pris en application des articles L. 521-17 ou L. 521-25 :  

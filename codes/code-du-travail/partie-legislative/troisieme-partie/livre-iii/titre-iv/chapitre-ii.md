@@ -7,7 +7,7 @@ Code du travail › Partie législative › Troisième partie : Durée du travai
 - État : en vigueur depuis le 01/12/2023
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048489003
 - Renvoie à : [art. L1254-1 du Code du travail](../../../premiere-partie/livre-ii/titre-v/chapitre-iv.md#article-l1254-1) ; [art. L3344-1 du Code du travail](chapitre-iv.md#article-l3344-1) ; [art. L3344-2 du Code du travail](chapitre-iv.md#article-l3344-2)
-- Cité par : [art. L23-11-3 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-xi.md#article-l23-11-3) ; [art. D3342-1 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-d3342-1) ; [art. D3345-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iv/chapitre-v.md#article-d3345-6) ; [art. R5343-24 du Code des transports](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030031868)
+- Cité par : [art. L23-11-3 du Code de commerce](../../../../../code-de-commerce/partie-legislative/livre-ii/titre-iii/chapitre-xi.md#article-l23-11-3) ; [art. R5343-24 du Code des transports](../../../../../code-des-transports/partie-reglementaire/cinquieme-partie/livre-iii/titre-iv/chapitre-iii.md#article-r5343-24) ; [art. D3342-1 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iv/chapitre-ii.md#article-d3342-1) ; [art. D3345-6 du Code du travail](../../../../partie-reglementaire/troisieme-partie/livre-iii/titre-iv/chapitre-v.md#article-d3345-6)
 
 Tous les salariés d'une entreprise compris dans le champ des accords d'intéressement et de participation ou des plans d'épargne salariale bénéficient de leurs dispositions.
 

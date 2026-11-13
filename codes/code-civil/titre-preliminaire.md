@@ -6,7 +6,7 @@ Code civil
 - Identifiant : LEGIARTI000006419280
 - État : en vigueur depuis le 01/06/2004
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419280
-- Cité par : [art. 2491 du Code civil](livre-v/titre-preliminaire.md#article-2491) ; [art. L221-3 du Code des relations entre le public et l'adminis...](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367546) ; [Décret n°2007-1673 du 28 novembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017629048) ; [Décret n°2007-1708 du 5 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017632099) ; [Décret n°2007-1734 du 12 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017646067) ; [Décret n°2007-1779 du 18 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017730586) ; [Décret n°2008-1 du 2 janvier 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017789857) ; [Décret n°2008-1157 du 10 novembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000019750713) ; [Décret n°2008-1189 du 17 novembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000019767608) ; [Décret n°2008-1546 du 31 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020083800) ; [Décret n°2008-1550 du 31 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020080948) ; … et 81 autres textes (liste complète dans [renvois.md](renvois.md))
+- Cité par : [art. 2491 du Code civil](livre-v/titre-preliminaire.md#article-2491) ; [art. L221-3 du Code des relations entre le public et l'administration](../code-des-relations-entre-le-public-et-l-administration/livre-ii/titre-ii/chapitre-ier.md#article-l221-3) ; [Décret n°2007-1673 du 28 novembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017629048) ; [Décret n°2007-1708 du 5 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017632099) ; [Décret n°2007-1734 du 12 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017646067) ; [Décret n°2007-1779 du 18 décembre 2007](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017730586) ; [Décret n°2008-1 du 2 janvier 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000017789857) ; [Décret n°2008-1157 du 10 novembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000019750713) ; [Décret n°2008-1189 du 17 novembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000019767608) ; [Décret n°2008-1546 du 31 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020083800) ; [Décret n°2008-1550 du 31 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020080948) ; [Décret n°2008-1552 du 31 décembre 2008](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000020083815) ; … et 80 autres textes (liste complète dans [renvois.md](renvois.md))
 
 Les lois et, lorsqu'ils sont publiés au Journal officiel de la République française, les actes administratifs entrent en vigueur à la date qu'ils fixent ou, à défaut, le lendemain de leur publication. Toutefois, l'entrée en vigueur de celles de leurs dispositions dont l'exécution nécessite des mesures d'application est reportée à la date d'entrée en vigueur de ces mesures.  
 
@@ -37,7 +37,7 @@ Les lois concernant l'état et la capacité des personnes régissent les França
 - Identifiant : LEGIARTI000006419283
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419283
-- Cité par : [art. L1442-9 du Code du travail](../code-du-travail/partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-9) ; [art. L932-17 du CODE DE L'ORGANISATION JUDICIAIRE.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006519088)
+- Cité par : [art. L932-17 du Code de l'organisation judiciaire](../code-de-l-organisation-judiciaire/partie-legislative-ancienne/livre-ix/titre-iii/chapitre-ii.md#article-l932-17) ; [art. L1442-9 du Code du travail](../code-du-travail/partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-9)
 
 Le juge qui refusera de juger, sous prétexte du silence, de l'obscurité ou de l'insuffisance de la loi, pourra être poursuivi comme coupable de déni de justice.
 
@@ -45,7 +45,7 @@ Le juge qui refusera de juger, sous prétexte du silence, de l'obscurité ou de 
 - Identifiant : LEGIARTI000006419284
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419284
-- Cité par : [art. L1442-9 du Code du travail](../code-du-travail/partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-9) ; [art. L932-17 du CODE DE L'ORGANISATION JUDICIAIRE.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006519088)
+- Cité par : [art. L932-17 du Code de l'organisation judiciaire](../code-de-l-organisation-judiciaire/partie-legislative-ancienne/livre-ix/titre-iii/chapitre-ii.md#article-l932-17) ; [art. L1442-9 du Code du travail](../code-du-travail/partie-legislative/premiere-partie/livre-iv/titre-iv/chapitre-ii.md#article-l1442-9)
 
 Il est défendu aux juges de prononcer par voie de disposition générale et réglementaire sur les causes qui leur sont soumises.
 

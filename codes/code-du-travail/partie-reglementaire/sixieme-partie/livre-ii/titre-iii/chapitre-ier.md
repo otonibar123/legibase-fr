@@ -71,7 +71,7 @@ Le conseil de perfectionnement examine et débat des questions relatives à l'or
 - Identifiant : LEGIARTI000053057339
 - État : en vigueur depuis le 20/12/2025
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053057339
-- Renvoie à : [art. R6352-1 du Code du travail](../../livre-iii/titre-v/chapitre-ii.md#article-r6352-1) ; art. L811-8 du Code rural et de la pêche maritime
+- Renvoie à : [art. R6352-1 du Code du travail](../../livre-iii/titre-v/chapitre-ii.md#article-r6352-1) ; [art. L811-8 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-legislative/livre-viii/titre-ier/chapitre-ier.md#article-l811-8) ; [art. R811-46 du Code rural (nouveau)](../../../../../code-rural-nouveau/partie-reglementaire/livre-viii/titre-ier/chapitre-ier.md#article-r811-46)
 
 La présidence du conseil de perfectionnement est assurée par le directeur de l'organisme de formation délivrant des formations par apprentissage ou son représentant. Toutefois, pour les centres de formation d'apprentis et les centres de formation professionnelle continue et d'apprentissage des établissements mentionnés à l'article L. 811-8 du code rural et de la pêche maritime, le deuxième alinéa de l'article R. 811-46 du même code est applicable.
 

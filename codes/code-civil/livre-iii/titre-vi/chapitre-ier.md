@@ -48,7 +48,7 @@ Si, au contraire, les marchandises ont été vendues en bloc, la vente est parfa
 - Identifiant : LEGIARTI000006441322
 - État : en vigueur depuis le 21/03/1804
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441322
-- Cité par : [art. L3322-9 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031643386) ; [art. L3351-6-2 du Code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048654857)
+- Cité par : [art. L3322-9 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-iii/titre-ii/chapitre-ii.md#article-l3322-9) ; [art. L3351-6-2 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-iii/titre-v/chapitre-ier.md#article-l3351-6-2)
 
 A l'égard du vin, de l'huile, et des autres choses que l'on est dans l'usage de goûter avant d'en faire l'achat, il n'y a point de vente tant que l'acheteur ne les a pas goûtées et agréées.
 
@@ -63,7 +63,7 @@ La vente faite à l'essai est toujours présumée faite sous une condition suspe
 - Identifiant : LEGIARTI000006441324
 - État : en vigueur depuis le 30/07/1930
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441324
-- Cité par : [Arrêté du 4 mai 2022, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046170485) ; [art. L412-8 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006583895) ; [art. R461-15 du Code rural](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032716037) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Décret n°2022-780 du 4 mai 2022, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046171864) ; [LOI n° 2013-1279 du 29 décembre 2013, art. 36](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028428529)
+- Cité par : [art. L412-8 du Code rural (nouveau)](../../../code-rural-nouveau/partie-legislative/livre-iv/titre-ier/chapitre-ii.md#article-l412-8) ; [art. R461-15 du Code rural (nouveau)](../../../code-rural-nouveau/partie-reglementaire/livre-iv/titre-vi/chapitre-ier.md#article-r461-15) ; [Arrêté du 4 mai 2022, art. 5](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046170485) ; [Décret n°2008-1484 du 22 décembre 2008, art. Annexe 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044929395) ; [Décret n°2022-780 du 4 mai 2022, art. 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000046171864) ; [LOI n° 2013-1279 du 29 décembre 2013, art. 36](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000028428529)
 
 La promesse de vente vaut vente, lorsqu'il y a consentement réciproque des deux parties sur la chose et sur le prix.  
 
@@ -82,7 +82,8 @@ Est frappé de nullité tout engagement unilatéral souscrit en vue de l'acquisi
 - Identifiant : LEGIARTI000006441326
 - État : en vigueur depuis le 01/01/2006
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006441326
-- Renvoie à : [art. 728 du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305307) ; [art. 1655 ter du CODE GENERAL DES IMPOTS, CGI.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006307006)
+- Renvoie à : [art. 728 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-728) ; [art. 1655 ter du Code général des impôts](../../../code-general-des-impots/livre-premier/troisieme-partie/titre-ii/chapitre-ii.md#article-1655-ter)
+- Cité par : [art. 658 du Code général des impôts](../../../code-general-des-impots/livre-premier/premiere-partie/titre-iv/chapitre-premier.md#article-658)
 
 Est nulle et de nul effet toute promesse unilatérale de vente afférente à un immeuble, à un droit immobilier, à un fonds de commerce, à un droit à un bail portant sur tout ou partie d'un immeuble ou aux titres des sociétés visées aux articles 728 et 1655 ter du code général des impôts, si elle n'est pas constatée par un acte authentique ou par un acte sous seing privé enregistré dans le délai de dix jours à compter de la date de son acceptation par le bénéficiaire. Il en est de même de toute cession portant sur lesdites promesses qui n'a pas fait l'objet d'un acte authentique ou d'un acte sous seing privé enregistré dans les dix jours de sa date.
 

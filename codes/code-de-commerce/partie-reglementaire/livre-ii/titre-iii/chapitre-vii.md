@@ -91,7 +91,7 @@ Le tribunal de commerce statue sur ces comptes et, le cas échéant, sur la clô
 - Identifiant : LEGIARTI000049907268
 - État : en vigueur depuis le 01/10/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049907268
-- Renvoie à : [art. R237-6 du Code de commerce](chapitre-vii.md#article-r237-6) ; art. L243-15 du Code de la sécurité sociale
+- Renvoie à : [art. R237-6 du Code de commerce](chapitre-vii.md#article-r237-6) ; [art. R2143-7 du Code de la commande publique](../../../../code-de-la-commande-publique/partie-reglementaire/deuxieme-partie/livre-ier/titre-iv/chapitre-iii.md#article-r2143-7) ; [art. L243-15 du Code de la sécurité sociale](../../../../code-de-la-securite-sociale/partie-legislative/livre-ii/titre-iv/chapitre-3.md#article-l243-15)
 - Cité par : [art. R237-9 du Code de commerce](chapitre-vii.md#article-r237-9) ; [Décret n°2024-751 du 7 juillet 2024](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049903857)
 
 Les comptes définitifs établis par le liquidateur sont déposés au greffe du tribunal de commerce en annexe au registre du commerce et des sociétés. Il y est joint la décision de l'assemblée des associés statuant sur ces comptes, sur le quitus de la gestion et la décharge de son mandat, ou, à défaut, la décision de justice prévue à l'article R. 237-6 ainsi que l'attestation mentionnée à l'article L. 243-15 du code de la sécurité sociale et le certificat relatif à certains impôts et taxes prévu à l'article R. 2143-7 du code de la commande publique.

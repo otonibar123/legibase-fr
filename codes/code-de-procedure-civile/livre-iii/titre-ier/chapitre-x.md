@@ -10,6 +10,7 @@ Code de procédure civile › Livre III : Dispositions particulières à certain
 - Identifiant : LEGIARTI000020031187
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031187
+- Cité par : [art. R1241-6 du Code de la santé publique](../../../code-de-la-sante-publique/partie-reglementaire/premiere-partie/livre-ii/titre-iv/chapitre-ier.md#article-r1241-6)
 
 Le juge des tutelles territorialement compétent est celui de la résidence habituelle de la personne à protéger ou protégée ou celui du domicile du tuteur.
 
@@ -94,7 +95,7 @@ La demande contient également, lorsqu'elles sont connues et utiles, les informa
 - Identifiant : LEGIARTI000039748187
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039748187
-- Renvoie à : [art. 1216-1 du Code de procédure civile](chapitre-x.md#article-1216-1) ; [art. 1216-2 du Code de procédure civile](chapitre-x.md#article-1216-2) ; [art. L113-3 du Code de l'action sociale et des familles](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006796445)
+- Renvoie à : [art. L113-3 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ier/titre-ier/chapitre-iii.md#article-l113-3) ; [art. 1216-1 du Code de procédure civile](chapitre-x.md#article-1216-1) ; [art. 1216-2 du Code de procédure civile](chapitre-x.md#article-1216-2)
 
 Les services départementaux et communaux d'action sociale, les maisons départementales des personnes handicapées, les institutions mettant en œuvre la méthode mentionnée à l'article L. 113-3 du code de l'action sociale et des familles, les établissements et services sociaux et médico-sociaux et les établissements de santé sont tenus de transmettre au procureur de la République les informations mentionnées aux articles 1216-1 et 1216-2.  
 
@@ -224,7 +225,7 @@ En application des dispositions du deuxième alinéa de l'article 494-4 du code 
 - Identifiant : LEGIARTI000020031130
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031130
-- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du Code de procédure pénale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028130314) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039346197) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027907290)
+- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du Code de procédure pénale](../../../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039346197) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027907290)
 
 Le juge peut, soit d'office, soit à la requête des parties ou du ministère public, ordonner toute mesure d'instruction. Il peut notamment faire procéder à une enquête sociale ou à des constatations par toute personne de son choix.
 
@@ -258,7 +259,7 @@ Lorsqu'il est saisi d'une requête aux fins de prononcé d'une mesure de protect
 - Identifiant : LEGIARTI000038810454
 - État : en vigueur depuis le 25/07/2019
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038810454
-- Renvoie à : [art. 430 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-430) ; [art. 494-1 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-1)
+- Renvoie à : [art. 413 du Code civil](../../../code-civil/livre-ier/titre-x/chapitre-ii.md#article-413) ; [art. 430 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-430) ; [art. 494-1 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-494-1)
 - Cité par : [art. 1224 du Code de procédure civile](chapitre-x.md#article-1224) ; [Décret n°2020-1405 du 18 novembre 2020, art. 6](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042534836)
 
 Le dossier peut être consulté au greffe par le requérant jusqu'au prononcé de la décision d'ouverture ou d'habilitation ou, lorsqu'une modification de la mesure de protection, une révision ou un renouvellement de l'habilitation est sollicité, jusqu'à ce qu'il soit statué sur cette demande. Il peut être également consulté dans les mêmes conditions et sur autorisation de la juridiction saisie, par une des personnes énumérées aux articles 430 et 494-1 du code civil si elle justifie d'un intérêt légitime.
@@ -403,7 +404,7 @@ Hors les cas où il ordonne un débat contradictoire en application de l'article
 - Identifiant : LEGIARTI000032105757
 - État : en vigueur depuis le 26/02/2016
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032105757
-- Renvoie à : [art. 502 du Code civil](../../../code-civil/livre-ier/titre-xii/chapitre-ier.md#article-502)
+- Renvoie à : [art. 395 du Code civil](../../../code-civil/livre-ier/titre-x/chapitre-ii.md#article-395) ; [art. 412 du Code civil](../../../code-civil/livre-ier/titre-x/chapitre-ii.md#article-412) ; [art. 413 du Code civil](../../../code-civil/livre-ier/titre-x/chapitre-ii.md#article-413) ; [art. 502 du Code civil](../../../code-civil/livre-ier/titre-xii/chapitre-ier.md#article-502)
 - Cité par : [art. 1228 du Code de procédure civile](chapitre-x.md#article-1228) ; [art. 1250 du Code de procédure civile](chapitre-x.md#article-1250)
 
 Toute décision du juge est notifiée, à la diligence du greffe, au requérant, à la personne chargée de la protection ou à l'administrateur légal et à tous ceux dont elle modifie les droits ou les obligations résultant de la mesure de protection.
@@ -430,6 +431,7 @@ Le jugement peut être notifié, si le juge l'estime utile, aux personnes qu'il 
 - Identifiant : LEGIARTI000020031084
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020031084
+- Renvoie à : [art. 466 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-466)
 - Cité par : [art. 1259-3 du Code de procédure civile](chapitre-x.md#article-1259-3)
 
 Les notifications qui doivent être faites à la diligence du greffe le sont par lettre recommandée avec demande d'avis de réception ; le juge peut, toutefois, décider qu'elles seront faites par acte d'huissier de justice.
@@ -845,8 +847,8 @@ Si l'appel formé contre une décision du juge des tutelles ou une délibératio
 - Identifiant : LEGIARTI000020030991
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020030991
-- Renvoie à : art. L3211-6 du Code de la santé publique
-- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du CODE DE PROCEDURE PENALE](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020383078) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020381845) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023442025)
+- Renvoie à : [art. L3211-6 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l3211-6)
+- Cité par : [art. 695 du Code de procédure civile](../../livre-ier/titre-xviii/chapitre-ier.md#article-695) ; [art. A43-12 du Code de procédure pénale](../../../code-de-procedure-penale/partie-arretes/livre-v/titre-x.md#article-a43-12) ; [Décret n°2009-285 du 12 mars 2009, art. 1](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020381845) ; [Décret n°2009-285 du 12 mars 2009, art. 12](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023442025)
 
 La déclaration aux fins de sauvegarde de justice prévue par l'article L. 3211-6 du code de la santé publique est transmise au procureur de la République du lieu de traitement. Celui-ci en avise, le cas échéant, le procureur de la République du lieu de la résidence habituelle du majeur protégé.
 
@@ -873,7 +875,7 @@ Les personnes mentionnées aux articles 1230 et 1230-1 peuvent former un recours
 - Identifiant : LEGIARTI000021538218
 - État : en vigueur depuis le 27/12/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021538218
-- Renvoie à : [art. 1249 du Code de procédure civile](chapitre-x.md#article-1249) ; art. L3211-6 du Code de la santé publique
+- Renvoie à : [art. L3211-6 du Code de la santé publique](../../../code-de-la-sante-publique/partie-legislative/troisieme-partie/livre-ii/titre-ier/chapitre-ier.md#article-l3211-6) ; [art. 1249 du Code de procédure civile](chapitre-x.md#article-1249)
 - Cité par : [art. 1251-1 du Code de procédure civile](chapitre-x.md#article-1251-1)
 
 Le procureur de la République qui reçoit la déclaration aux fins de sauvegarde de justice prévue par l'article L. 3211-6 du code de la santé publique ou la décision du juge des tutelles prévue à l'article 1249 les mentionne sur un répertoire spécialement tenu à cet effet.
@@ -900,7 +902,7 @@ Peuvent obtenir du procureur de la République copie de la déclaration aux fins
 - Identifiant : LEGIARTI000024531219
 - État : en vigueur depuis le 03/09/2011
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024531219
-- Renvoie à : art. R93 du Code de procédure pénale
+- Renvoie à : [art. R93 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93)
 
 Lorsque les biens d'un majeur placé sous sauvegarde de justice risquent d'être mis en péril, le procureur de la République ou le juge des tutelles peuvent prendre toutes mesures conservatoires et, notamment, requérir ou ordonner l'apposition des scellés. En cas de difficulté, l'huissier de justice en informe le juge des tutelles ou le procureur de la République.
 
@@ -970,7 +972,7 @@ La désignation anticipée du curateur ou du tuteur prévue par l'article 448 du
 - Identifiant : LEGIARTI000020050577
 - État : en vigueur depuis le 01/01/2009
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020050577
-- Renvoie à : [art. 426 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-426) ; [art. 431 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-431) ; [art. 432 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-432) ; art. R93 du Code de procédure pénale
+- Renvoie à : [art. 426 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-426) ; [art. 431 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-431) ; [art. 432 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-432) ; [art. 493 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-493) ; [art. R93 du Code de procédure pénale](../../../code-de-procedure-penale/partie-reglementaire-decrets-en-conseil-d-etat/livre-v/titre-x/chapitre-ier.md#article-r93)
 
 Lorsque le certificat médical décrit par l'article 431 du code civil et l'avis médical mentionné aux articles 426 et 432 du même code sont requis par le procureur de la République ou ordonnés par le juge des tutelles, ils sont pris en charge dans les conditions prévues par le 3° de l'article R. 93 du code de procédure pénale et le recouvrement de leur coût est poursuivi selon les procédures et sous les garanties prévues en matière d'amende pénale.
 
@@ -1146,7 +1148,7 @@ Le mandataire présente au greffier :
 - Identifiant : LEGIARTI000050505844
 - État : en vigueur depuis le 18/11/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050505844
-- Renvoie à : [art. 492 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-492) ; art. L471-2 du Code de l'action sociale et des familles
+- Renvoie à : [art. 492 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-492) ; [art. L471-2 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-iv/titre-vii/chapitre-ier.md#article-l471-2)
 
 Le greffier vérifie en outre, au vu des pièces produites, que :
 
@@ -1339,7 +1341,7 @@ Le greffe de la juridiction qui a rendu la décision d'annulation du mandat de p
 - Identifiant : LEGIARTI000050503646
 - État : en vigueur depuis le 18/11/2024
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050503646
-- Renvoie à : [art. 477-1 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-477-1)
+- Renvoie à : [art. 477-1 du Code civil](../../../code-civil/livre-ier/titre-xi/chapitre-ii.md#article-477-1) ; [art. R123-14 du Code de l'organisation judiciaire](../../../code-de-l-organisation-judiciaire/partie-reglementaire/livre-ier/titre-ii/chapitre-iii.md#article-r123-14)
 
 Peuvent avoir connaissance des informations enregistrées dans le registre prévu à l'article 477-1 du code civil :
 
@@ -1364,7 +1366,7 @@ La procédure prévue aux articles 1244 à 1245-1 est applicable.
 - Identifiant : LEGIARTI000039624739
 - État : en vigueur depuis le 01/01/2020
 - Source : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039624739
-- Renvoie à : [art. 1203 du Code de procédure civile](chapitre-ix.md#article-1203) ; [art. 1208-2 du Code de procédure civile](chapitre-ix.md#article-1208-2) ; [art. 1209 du Code de procédure civile](chapitre-ix.md#article-1209)
+- Renvoie à : [art. L224-4 du Code de l'action sociale et des familles](../../../code-de-l-action-sociale-et-des-familles/partie-legislative/livre-ii/titre-ii/chapitre-iv.md#article-l224-4) ; [art. 1203 du Code de procédure civile](chapitre-ix.md#article-1203) ; [art. 1208-2 du Code de procédure civile](chapitre-ix.md#article-1208-2) ; [art. 1209 du Code de procédure civile](chapitre-ix.md#article-1209)
 
 La demande relative au recours contre l'arrêté d'admission en qualité de pupille de l'Etat prévu aux articles L. 224-4 et L. 224-8 du code de l'action sociale et des familles est portée devant le tribunal judiciaire dans le ressort duquel l'arrêté est pris.
 
