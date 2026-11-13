@@ -120,7 +120,7 @@ Le dossier `scripts/` sert au mainteneur ; l'utilisateur n'en a pas besoin.
 - **Nuit du 13/11/2026 : 4 codes générés d'un coup, avec l'accord de l'utilisateur** (« fais tous les codes en séquence »),
   même base LEGI du 08/11/2026 : procédure civile (2 027 articles, 173 fichiers), travail (11 479, 1 012),
   consommation (1 919, 180), commerce (7 246, 460). Vérifiés : texte identique aux XML, 0 lien cassé, 0 ancre absente.
-  Bibliothèque : ~50 Mo (zip 8,5 Mo). **Commit local, pas encore poussé** : attendre la validation de l'utilisateur.
+  Bibliothèque : ~50 Mo (zip 8,5 Mo). Poussé sur GitHub le 13/11/2026.
   Étape 3 (loi 71-1130, décret 91-1197, RIN) non faite : ce sont des textes non codifiés (`TNC_en_vigueur/JORF/...`),
   il faut adapter l'extraction et le générateur (dossier `textes-non-codifies/`), et le RIN vient du site du CNB.
 - **Nuit du 13/11/2026, suite : les 76 codes en vigueur de LEGI générés**, à la demande de l'utilisateur (« continue à faire
@@ -129,7 +129,7 @@ Le dossier `scripts/` sert au mainteneur ; l'utilisateur n'en a pas besoin.
   20 articles « VIGUEUR » non écrits car rangés par LEGI dans une section abrogée ou modifiée (consommation R822-x,
   éducation R337-31/45, santé publique R1333-172 à 175, transports L3124-8/L4316-3, CGI 302 B/591, communes de
   Nouvelle-Calédonie R234-11). Le code du domaine public fluvial a 0 article « VIGUEUR » (1 seul « ABROGE_DIFF »).
-  **Taille** : trop grand pour une seule skill ? Proposer à l'utilisateur de séparer par domaine. Commit local, pas poussé.
+  **Taille** : trop grand pour une seule skill ? Proposer à l'utilisateur de séparer par domaine. Poussé sur GitHub le 13/11/2026 (commit `5b2b679`).
 - **Décisions à demander à l'utilisateur** :
   - des articles en vigueur aujourd'hui mais marqués « ABROGE_DIFF » (abrogation programmée) sont exclus par la règle
     « état VIGUEUR uniquement » (393 rien que pour civil, procédure civile, travail, consommation, commerce ; non compté
